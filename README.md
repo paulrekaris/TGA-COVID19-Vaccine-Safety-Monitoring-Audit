@@ -99,10 +99,11 @@ This audit assesses **documented evidence only**. Absence of documentation does 
 
 ## Research Context
 
-This work continues methodological approaches from previous published research on regulatory transparency:
+This audit methodology builds on systematic analysis of regulatory transparency and documentation standards. Related investigative reporting on TGA vaccine safety monitoring documentation gaps:
 
-**Related Publication:**
-Rekaris, P., & Sladden, J. (2024). Transparency of Pharmaceutical Industry Payments to Healthcare Professionals in Australia: A Comparison Study with the United States. *Monash Bioethics Review*. https://doi.org/10.1007/s40592-024-00207-3
+- Demasi, M. (2024). "TGA's vaccine safety black hole: A concerned citizen's four-year quest for answers." *Maryanne Demasi - Investigative Journalism*. https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a
+
+- Demasi, M. (2024). "Stairs to nowhere: TGA's vanishing vaccine safety monitoring trail." *Maryanne Demasi - Investigative Journalism*. https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing
 
 ## Purpose
 
@@ -129,7 +130,7 @@ This repository provides:
 Free to use, share, and adapt with attribution.
 
 **Suggested Citation:**
-Rekaris, P. (2024). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository. https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+Rekaris, P. (2024). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository.
 
 ## Acknowledgments
 
