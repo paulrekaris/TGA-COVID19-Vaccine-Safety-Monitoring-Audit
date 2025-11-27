@@ -21,11 +21,18 @@ This audit evaluates publicly available evidence for 24 specific outputs and act
 
 ## Methodology
 
+This assessment applies systematic audit principles drawn from ISO 19011:2018 (Guidelines for auditing management systems) and Australian National Audit Office better practice guidance. The approach emphasises evidence-based analysis, systematic documentation review, and objective evaluation against stated commitments.
+
+ISO 19011 principles applied include: integrity (reliance on verifiable evidence), fair presentation (accurate reporting of findings), due professional care (systematic methodology), independence (evaluation against TGA's own standards), and evidence-based approach (findings supported by documented sources). ANAO principles applied include assessment against published plans, verification through multiple evidence sources, and focus on accountability and transparency in public administration.
+
 **Evidence Hierarchy Classification:**
 - **Level 1** (Highest): Published reports, peer-reviewed literature, official databases
 - **Level 2**: Government websites, media releases, committee minutes  
 - **Level 3**: FOI responses, parliamentary answers
 - **Level 4** (Lowest): TGA claims without supporting documentation
+
+**Assessment Criteria:**
+Each of 24 plan outputs evaluated against publicly available evidence using systematic documentation review, FOI requests (2021-2025), and verification against TGA's own statements to oversight bodies. The methodology is falsifiable—any finding can be disproved through production of contradicting documentation by TGA. All source material is publicly available or obtained through lawful FOI processes, enabling independent replication of findings.
 
 **Assessment Criteria:**
 Each of 24 plan outputs evaluated against publicly available evidence using systematic documentation review, FOI requests (2021-2025), and verification against TGA's own statements to oversight bodies.
