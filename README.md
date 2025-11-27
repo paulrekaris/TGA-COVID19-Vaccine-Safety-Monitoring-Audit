@@ -105,9 +105,9 @@ This audit assesses **documented evidence only**. Absence of documentation does 
 
 This audit methodology builds on systematic analysis of regulatory transparency and documentation standards. Related investigative reporting on TGA vaccine safety monitoring documentation gaps:
 
-- Rekaris, P., & Sladden, J. (May 2025). "TGA's vaccine safety black hole: A concerned citizen's four-year quest for answers." *Maryanne Demasi - Investigative Journalism*. https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a
+- Rekaris, P., & Sladden, J. (2025). "TGA's vaccine safety black hole: A concerned citizen's four-year quest for answers." *Maryanne Demasi - Investigative Journalism*. https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a
 
-- Rekaris, P., & Sladden, J. (November 2025). "Stairs to nowhere: TGA's vanishing vaccine safety monitoring trail." *Maryanne Demasi - Investigative Journalism*. https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing
+- Rekaris, P., & Sladden, J. (2025). "Stairs to nowhere: TGA's vanishing vaccine safety monitoring trail." *Maryanne Demasi - Investigative Journalism*. https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing
 
 ## Purpose
 
@@ -134,7 +134,7 @@ This repository provides:
 Free to use, share, and adapt with attribution.
 
 **Suggested Citation:**
-Rekaris, P. (2024). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository.
+Rekaris, P. (2025). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository.
 
 ## Acknowledgments
 
