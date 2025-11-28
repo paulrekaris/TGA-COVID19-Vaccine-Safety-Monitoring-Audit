@@ -36,9 +36,6 @@ ISO 19011 principles applied include: integrity (reliance on verifiable evidence
 **Assessment Criteria:**
 Each of 24 plan outputs evaluated against publicly available evidence using systematic documentation review, FOI requests (2021-2025), and verification against TGA's own statements to oversight bodies. The methodology is falsifiable—any finding can be disproved through production of contradicting documentation by TGA. All source material is publicly available or obtained through lawful FOI processes, enabling independent replication of findings.
 
-**Assessment Criteria:**
-Each of 24 plan outputs evaluated against publicly available evidence using systematic documentation review, FOI requests (2021-2025), and verification against TGA's own statements to oversight bodies.
-
 ## Documents in This Repository
 
 ### 1. **Implementation_Status_Assessment_Report.pdf** (10 pages)
@@ -62,6 +59,12 @@ Supporting documentation showing:
 - Pattern of contradictory TGA responses
 - Comparison: TGA claims vs. documented evidence
 - Information Commissioner review findings
+
+### 4. **Reference Documents Folder**
+
+Contains source documents referenced in the audit:
+
+**TGA_COVID19_Vaccine_Safety_Monitoring_Plan_Feb2021.pdf** - TGA's published COVID-19 Vaccine Safety Monitoring Plan (February 2021), the primary source document against which implementation was assessed.
 
 ## Context
 
