@@ -100,10 +100,13 @@ Plan promised "transparent communication" but implementation reveals systemic ga
 ## Verification
 
 All findings are verifiable through:
-- TGA's published February 2021 Safety Monitoring Plan
+
+- TGA's published February 2021 Safety Monitoring Plan: https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
 - TGA public websites and databases (accessed 2021-2025)
 - FOI request responses (FOI 3094, FOI 3095, FOI 3176, FOI 3869, FOI 4698)
+- TGA submissions to Information Commissioner (MR22/00538 - September 2024)
 - Information Commissioner decisions and reviews
+- Senate Estimates testimony (9 October 2024): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 - Parliamentary committee records and Hansard
 - Published peer-reviewed literature
 
