@@ -23,6 +23,8 @@ This audit evaluates publicly available evidence for 24 specific outputs and act
 
 This assessment applies systematic audit principles drawn from ISO 19011:2018 (Guidelines for auditing management systems) and Australian National Audit Office better practice guidance. The approach emphasises evidence-based analysis, systematic documentation review, and objective evaluation against stated commitments.
 
+The audit methodology mapped TGA's 24 plan outputs against TGA's Australian Regulatory Guidelines for Prescription Medicines (ARGPM), international pharmacovigilance standards (ICH E2E, EMA GVP Module I), and Commonwealth records management requirements (PGPA Act 2013, Archives Act 1983). Provisional approval processes were benchmarked against comparable frameworks from the US Food and Drug Administration (FDA) and European Medicines Agency (EMA).
+
 ISO 19011 principles applied include: integrity (reliance on verifiable evidence), fair presentation (accurate reporting of findings), due professional care (systematic methodology), independence (evaluation against TGA's own standards), and evidence-based approach (findings supported by documented sources). ANAO principles applied include assessment against published plans, verification through multiple evidence sources, and focus on accountability and transparency in public administration.
 
 **Evidence Hierarchy Classification:**
