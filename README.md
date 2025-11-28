@@ -38,7 +38,7 @@ Each of 24 plan outputs evaluated against publicly available evidence using syst
 
 ## Documents in This Repository
 
-### 1. **Implementation_Status_Assessment_Report.pdf**
+### 1. **Implementation Status Assessment Report**
 Comprehensive audit report including:
 - Executive summary of findings
 - Detailed analysis of all 24 plan outputs
@@ -46,14 +46,14 @@ Comprehensive audit report including:
 - Gap analysis and accountability concerns
 - Recommendations for oversight bodies
 
-### 2. **TGA_COVID19_Safety_Monitoring_Plan_Audit_Summary.pdf**
+### 2. **TGA COVID-19 Safety Monitoring Plan Audit Summary**
 Visual executive summary with:
 - Implementation status overview
 - Key findings dashboard
 - Evidence hierarchy framework
 - Critical accountability gaps
 
-### 3. **TGA_FOI_Analysis_Documentation.pdf**
+### 3. **TGA FOI Analysis Documentation**
 Supporting documentation showing:
 - Timeline of FOI requests (2021-2025)
 - Pattern of contradictory TGA responses
