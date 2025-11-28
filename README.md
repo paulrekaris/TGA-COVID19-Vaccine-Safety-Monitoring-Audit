@@ -60,11 +60,15 @@ Supporting documentation showing:
 - Comparison: TGA claims vs. documented evidence
 - Information Commissioner review findings
 
-### 4. **Reference Documents Folder**
+### 4. Reference Documents Folder
 
 Contains source documents referenced in the audit:
+- TGA's published COVID-19 Vaccine Safety Monitoring Plan (February 2021)
+- Senate Estimates transcript excerpts (9 October 2024)
 
-**TGA_COVID19_Vaccine_Safety_Monitoring_Plan_Feb2021.pdf** - TGA's published COVID-19 Vaccine Safety Monitoring Plan (February 2021), the primary source document against which implementation was assessed.
+### 5. Media Coverage Folder
+
+Contains investigative journalism coverage of the FOI investigation and audit findings by Maryanne Demasi.
 
 ## Context
 
@@ -170,5 +174,5 @@ This work builds on four years of systematic FOI requests, Information Commissio
 
 ---
 
-**Last Updated:** November 27, 2024  
-**Version:** 1.0
+**Last Updated:** November 28, 2025
+**Version:** 1.3.o
