@@ -178,4 +178,4 @@ This work builds on four years of systematic FOI requests, Information Commissio
 ---
 
 **Last Updated:** November 28, 2025
-**Version:** 1.3.o
+**Version:** 1.3.0
