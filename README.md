@@ -134,6 +134,22 @@ This repository provides:
 
 **Contact:** paulrekaris@gmail.com
 
+## Disclaimer and Declaration
+
+This assessment evaluates publicly available evidence for implementation of stated commitments in TGA's published COVID-19 Vaccine Safety Monitoring Plan. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions.
+
+The findings relate to documentation, records management, and governance processes—not clinical or scientific judgements. The assessment is based exclusively on TGA's own documents and statements.
+
+**Full research methodology, limitations, key assumptions, and assessment criteria are outlined in the detailed audit report available in this repository.**
+
+**This work has not been peer-reviewed or independently verified.** It is made publicly available to encourage independent verification, peer review, and scrutiny by other researchers, citizens, oversight bodies, and interested parties. The author welcomes correction of any errors or production of contradicting evidence.
+
+This analysis is based on extensive review of available documentation and is accurate to the best of my knowledge. Given the substantial volume of materials examined, inadvertent errors in citation or interpretation may occur. Corrections are welcomed.
+
+I declare that the information in this assessment is accurate to the best of my knowledge. All factual claims are supported by documented evidence with source citations. This work is conducted in good faith in the public interest.
+
+The problem documented is simple: after four years, the TGA cannot demonstrate that promises made to 26 million Australians were kept. This requires investigation
+
 ## License & Citation
 
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
