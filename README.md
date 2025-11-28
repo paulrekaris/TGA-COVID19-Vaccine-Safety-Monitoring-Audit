@@ -23,9 +23,9 @@ This audit evaluates publicly available evidence for 24 specific outputs and act
 
 This assessment applies systematic audit principles drawn from ISO 19011:2018 (Guidelines for auditing management systems) and Australian National Audit Office better practice guidance. The approach emphasises evidence-based analysis, systematic documentation review, and objective evaluation against stated commitments.
 
-The audit methodology mapped TGA's 24 plan outputs against TGA's Australian Regulatory Guidelines for Prescription Medicines (ARGPM), international pharmacovigilance standards (ICH E2E, EMA GVP Module I), and Commonwealth records management requirements (PGPA Act 2013, Archives Act 1983). Provisional approval processes were benchmarked against comparable frameworks from the US Food and Drug Administration (FDA) and European Medicines Agency (EMA).
-
 ISO 19011 principles applied include: integrity (reliance on verifiable evidence), fair presentation (accurate reporting of findings), due professional care (systematic methodology), independence (evaluation against TGA's own standards), and evidence-based approach (findings supported by documented sources). ANAO principles applied include assessment against published plans, verification through multiple evidence sources, and focus on accountability and transparency in public administration.
+
+The audit methodology mapped TGA's 24 plan outputs against TGA's Australian Regulatory Guidelines for Prescription Medicines (ARGPM), international pharmacovigilance standards (ICH E2E, EMA GVP Module I), and Commonwealth records management requirements (PGPA Act 2013, Archives Act 1983). Provisional approval processes were benchmarked against comparable frameworks from the US Food and Drug Administration (FDA) and European Medicines Agency (EMA).
 
 **Evidence Hierarchy Classification:**
 - **Level 1** (Highest): Published reports, peer-reviewed literature, official databases
@@ -153,7 +153,7 @@ This analysis is based on extensive review of available documentation and is acc
 
 I declare that the information in this assessment is accurate to the best of my knowledge. All factual claims are supported by documented evidence with source citations. This work is conducted in good faith in the public interest.
 
-The problem documented is simple: after four years, the TGA cannot demonstrate that promises made to 26 million Australians were kept. This requires investigation
+The problem documented is simple: after four years, the TGA cannot demonstrate that promises made to 26 million Australians were kept. This requires investigation.
 
 ## License & Citation
 
