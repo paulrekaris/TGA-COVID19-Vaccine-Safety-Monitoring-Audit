@@ -126,7 +126,7 @@ However, the statistical probability that relevant documentation exists but coul
 
 1. **TGA's demonstrated capability** to organise and classify 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (September 2024)
 2. **TGA officials' testimony** to Senate Estimates that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgment that producing such documents would involve "some difficulty" and a "vast volume of documents" (October 2024)
-3. **Multiple FOI requests** over four years targeting the same documentation (FOI 3094, 3095, 3176, 3869, 4698)
+3. **Multiple FOI requests** over four years targeting the same documentation (FOI 3643, FOI 25-0166)
 4. **Systematic review** of all publicly available TGA databases, websites, and published materials
 
 If documentation implementing the Safety Plan exists, TGA has had multiple opportunities and clear incentive to produce it.
