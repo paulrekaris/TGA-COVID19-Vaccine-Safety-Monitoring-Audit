@@ -2,8 +2,6 @@
 
 ## Introduction
 
-## Introduction
-
 Between February 2021 and November 2023, Australia administered approximately 63.8 million COVID-19 vaccine doses under provisional approval requiring enhanced safety monitoring. The Therapeutic Goods Administration published a comprehensive COVID-19 Vaccine Safety Monitoring Plan in February 2021, outlining 24 specific outputs and activities to ensure rigorous pharmacovigilance during this unprecedented vaccination programme.
 
 Compliance with the published plan was particularly critical given provisional approval requirements under the Therapeutic Goods Act 1989. Three COVID-19 vaccines received provisional approval during this period: Pfizer/BioNTech Comirnaty (January 2021), AstraZeneca Vaxzevria (February 2021), and Moderna Spikevax (August 2021). Provisional approval is granted when traditional evidence requirements cannot be met but there is a clear public health need, with enhanced post-market monitoring serving as a key safeguard. The Safety Monitoring Plan represented TGA's documented commitment to enhanced pharmacovigilance as a condition of provisional approval for these vaccines.
