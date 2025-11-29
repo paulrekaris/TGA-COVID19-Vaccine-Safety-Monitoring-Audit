@@ -25,16 +25,25 @@ The assessment examines publicly available evidence for 24 specific outputs and 
 - International collaboration outputs: Minimal documentation
 - Public transparency commitments: Substantially unfulfilled
 
-**Key Accountability Concerns:**
+**The Central Finding:**
+
+Four years after publishing its COVID-19 Vaccine Safety Monitoring Plan, the TGA cannot demonstrate through documentation that it systematically implemented the enhanced monitoring it promised. TGA officials admitted to Senate Estimates that implementation was "never systematically tracked" by plan objectives, instead treating it as routine "day-to-day processes." This contradicts provisional approval requirements, which mandate demonstrable, trackable enhanced monitoring—not standard business-as-usual surveillance.
+
+**Key Contradictions:**
 
 TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review (September 2024), while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access. TGA officials testified to Senate Estimates (October 2024) that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgment that producing such documents would involve "some difficulty" and a "vast volume of documents."
 
-**Temporal Pattern:**
-- Feb 2022: TGA claims requested documents "don't exist"
-- Mar 2022: TGA acknowledges "ample documentation" exists  
-- 2022-2023: TGA organises extensive documentation for IC review
-- Oct 2024: TGA confirms to Senate implementation was "never systematically tracked"
-- 2024-2025: TGA refuses citizen access citing subjective classification
+**Timeline of Contradictory Positions:**
+- **February 2022:** TGA claims requested documents "don't exist"
+- **March 2022:** TGA acknowledges "ample documentation" exists  
+- **2022-2023:** TGA organises extensive documentation for Information Commissioner review
+- **October 2024:** TGA confirms to Senate implementation was "never systematically tracked"
+- **2024-2025:** TGA refuses citizen access citing subjective classification
+
+**Every possible explanation points to regulatory failure:**
+1. The monitoring wasn't conducted as a structured programme
+2. Records are too disorganised to retrieve
+3. Documents were never systematically maintained as required
 
 ## Methodology
 
