@@ -31,7 +31,7 @@ Four years after publishing its COVID-19 Vaccine Safety Monitoring Plan, the TGA
 
 **Provisional Approval Requirements Not Demonstrably Met:**
 
-Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring as a legal condition. The TGA's admission that implementation was "never systematically tracked" and treated as routine "day-to-day processes" means compliance with provisional approval conditions cannot be verified. Without documented, trackable enhanced monitoring distinct from routine surveillance, the legal requirements for provisional approval were not demonstrably met during Australia's largest medical intervention in history.
+Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring as a legal condition. The TGA's admission that implementation was never systematically tracked and treated as routine "day-to-day processes" means compliance with provisional approval conditions cannot be verified. Without documented, trackable enhanced monitoring distinct from routine surveillance, the legal requirements for provisional approval were not demonstrably met during Australia's largest medical intervention in history.
 
 **Key Contradictions:**
 
@@ -41,7 +41,7 @@ TGA demonstrated capability to classify and organise 2,218+ pages of vaccine saf
 - **February 2022:** TGA claims requested documents "don't exist"
 - **March 2022:** TGA acknowledges "ample documentation" exists  
 - **2022-2023:** TGA organises extensive documentation for Information Commissioner review
-- **October 2024:** TGA confirms to Senate implementation was "never systematically tracked"
+- **October 2024:** TGA confirms to Senate implementation was never systematically tracked
 - **2024-2025:** TGA refuses citizen access citing subjective classification
 
 **Every possible explanation points to regulatory failure:**
