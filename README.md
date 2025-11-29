@@ -45,6 +45,7 @@ TGA demonstrated capability to classify and organise 2,218+ pages of vaccine saf
 - **2024-2025:** TGA refuses citizen access citing subjective classification
 
 **Every possible explanation points to regulatory failure:**
+
 1. The monitoring wasn't conducted as a structured programme
 2. Records are too disorganised to retrieve
 3. Documents were never systematically maintained as required
@@ -54,7 +55,8 @@ TGA demonstrated capability to classify and organise 2,218+ pages of vaccine saf
 This assessment applies systematic audit principles drawn from ISO 19011:2018 (Guidelines for auditing management systems) and Australian National Audit Office better practice guidance. The approach emphasises evidence-based analysis, systematic documentation review, and objective evaluation against stated commitments.
 
 **Audit Principles Applied:**
-ISO 19011 principles include: integrity (foundation of professionalism), fair presentation (accurate reporting of findings), due professional care (systematic methodology and judgement), independence (evaluation against TGA’s own standards), evidence-based approach (findings supported by objective, verifiable evidence), confidentiality (protection of information), and risk-based approach (considering risks and opportunities). ANAO audit practices include assessment against published plans, verification through multiple evidence sources, and emphasis on accountability and transparency in public administration.”
+
+ISO 19011 principles include: integrity (foundation of professionalism), fair presentation (accurate reporting of findings), due professional care (systematic methodology and judgement), independence (evaluation against TGA’s own standards), evidence-based approach (findings supported by objective, verifiable evidence), confidentiality (protection of information), and risk-based approach (considering risks and opportunities). ANAO audit practices include assessment against published plans, verification through multiple evidence sources, and emphasis on accountability and transparency in public administration.
 
 **Regulatory Frameworks:**
 
