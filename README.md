@@ -10,11 +10,11 @@ After four years of Freedom of Information requests seeking documentation of the
 
 This repository provides a comprehensive, independent implementation audit using ISO 19011:2018 audit principles and Australian National Audit Office better practice guidance. The assessment examines publicly available evidence for all 24 plan outputs over four years (February 2021 - February 2025), creating a permanent, open-access record to enable independent verification, peer review, parliamentary oversight, and formal independent inquiry.
 
-## Overview
+## Audit Overview
 
-Independent assessment of documented implementation of Australia's Therapeutic Goods Administration (TGA) COVID-19 Vaccine Safety Monitoring Plan published February 2021.
+This auidt provides an independent assessment of the documented implementation of Australia's Therapeutic Goods Administration (TGA) COVID-19 Vaccine Safety Monitoring Plan published February 2021.
 
-This audit evaluates publicly available evidence for 24 specific outputs and activities mandated in the TGA's plan after four years of implementation (February 2021 - February 2025).
+The audit evaluates publicly available evidence for 24 specific outputs and activities mandated in the TGA's plan after four years of implementation (February 2021 - February 2025).
 
 ## Key Findings
 
