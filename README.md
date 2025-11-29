@@ -12,7 +12,7 @@ This repository provides a comprehensive, independent implementation audit using
 
 ## Key Findings
 
-The assessment examines publicly available evidence for 24 specific outputs and activities mandated in TGA's plan over four years (February 2021 - February 2025).
+The assessment examines publicly available evidence for 24 specific outputs and activities mandated in TGA's plan over four years (February 2021 - November 2025).
 
 **Implementation Status:**
 - **21% Fully Documented** (5/24 outputs)
@@ -128,7 +128,7 @@ This audit assesses documented evidence only. Absence of documentation does not 
 However, the statistical probability that relevant documentation exists but could not be located is negligible given: 
 
 1. **TGA's demonstrated capability** to organise and classify 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (September 2024)
-2. **TGA officials' testimony** to Senate Estimates that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgment that producing such documents would involve "some difficulty" and a "vast volume of documents" (October 2024)
+2. **TGA officials' testimony** to Senate Estimates that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgment that producing such documents would involve "some difficulty" and a "vast volume of documents" (9 October 2024)
 3. **Multiple FOI requests** over four years targeting the same documentation (FOI 3643, FOI 25-0166)
 4. **Systematic review** of all publicly available TGA databases, websites, and published materials
 
