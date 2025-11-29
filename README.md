@@ -131,7 +131,7 @@ This audit methodology builds on systematic analysis of regulatory transparency 
 ## Purpose
 
 This repository provides:
-- **Evidence-based documentation** for parliamentary oversight
+- **Evidence-based documentation** for parliamentary oversight and formal independent inquiry 
 - **Methodological framework** for evaluating monitoring system implementation  
 - **Public accountability** through transparent presentation of findings
 - **Foundation** for potential ANAO performance audit
