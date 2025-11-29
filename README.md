@@ -12,11 +12,19 @@ This repository provides a comprehensive, independent implementation audit using
 
 ## Key Findings
 
+### Context: Activity vs Enhanced Monitoring
+
+TGA conducted substantial safety monitoring activities during 2021-2025, including investigation of 148 safety signals and 57 regulatory actions (Senate Estimates testimony, October 2024).
+
+This audit does not question whether monitoring activities occurred. This audit examines whether those activities constituted the enhanced monitoring beyond routine pharmacovigilance required as a condition of provisional approval.
+
 The assessment examines publicly available evidence for 24 specific outputs and activities mandated in TGA's plan over four years (February 2021 - November 2025).
 
-**Implementation Status:**
+### Implementation Status:
+
+**Implementation Status:** 
 - **21% Fully Documented** (5/24 outputs)
-- **54% Partial/Undocumented** (13/24 outputs)  
+- **54% Partial/Undocumented** (13/24 outputs)   
 - **25% No Evidence** (6/24 outputs)
 
 **Critical Gaps Identified:**
@@ -24,6 +32,11 @@ The assessment examines publicly available evidence for 24 specific outputs and 
 - Weekly causality assessments: No evidence of systematic process
 - International collaboration outputs: Minimal documentation
 - Public transparency commitments: Substantially unfulfilled
+
+**Note on Monitoring Activity:**
+
+TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Estimates Oct 2024). However, officials characterized this work as "day-to-day processes" rather than enhanced monitoring tracked 
+against plan objectives. The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
 
 **The Central Finding:**
 
@@ -183,5 +196,5 @@ This work builds on four years of systematic FOI requests, Information Commissio
 
 ---
 
-**Last Updated:** November 29, 2025  
-**Version:** 1.4.0
+**Last Updated:** November 30, 2025  
+**Version:** 1.4.1
