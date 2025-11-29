@@ -111,7 +111,7 @@ All findings are verifiable through:
 - TGA public websites and databases (accessed 2021-2025)
 - FOI request responses (FOI 3643, FOI 25-0166)
 - TGA submissions to Information Commissioner (MR22/00538 - July 2022, September 2024)
-- Information Commissioner decisions and reviews (MR22/00538, MR25/01153, [2025] AICmr 54)
+- Information Commissioner decisions and reviews (MR22/00538, MR25/01153, [March 2025] AICmr 54)
 - Senate Estimates testimony (9 October 2024): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 - Parliamentary committee records and Hansard
 - Published peer-reviewed literature
