@@ -1,11 +1,3 @@
-**Yes - let me restructure for better flow.**
-
----
-
-## **RESTRUCTURED README - BETTER FLOW:**
-
----
-
 # TGA COVID-19 Vaccine Safety Monitoring Plan - Implementation Audit
 
 ## Introduction
