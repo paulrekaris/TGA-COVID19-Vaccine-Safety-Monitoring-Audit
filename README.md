@@ -189,10 +189,12 @@ The problem documented is simple: after four years, the TGA cannot demonstrate t
 
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This work is free to use, share, and adapt for any purpose, including commercial use, provided appropriate attribution is given.
+This work is free to use, share, and adapt for any purpose, including commercial use, under the terms of the CC BY 4.0 license. This open license is intentional—regulatory accountability research should be freely accessible. You are encouraged to build upon this methodology, replicate the approach, and use these findings in advocacy, research, or oversight activities.
 
-**Suggested Citation:**
-Rekaris, P. (2025). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository: https://doi.org/10.5281/zenodo.17731054
+All use must comply with the license terms, which require appropriate attribution.
+
+**Suggested Citation:**  
+Rekaris, P. (2025). *Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment* (Version 1.3.3). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 ## Acknowledgments
 
