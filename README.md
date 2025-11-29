@@ -94,7 +94,11 @@ This audit was conducted following four years of Freedom of Information (FOI) re
   
 ## ANAO Audit History and the Pharmacovigilance Gap
 
-The Australian National Audit Office has examined the TGA several times since the mid-1990s, focusing on prescription drug evaluation, regulation of non-prescription and complementary medicines, manufacturer compliance, and application of cost-recovery principles. These audits primarily assessed pre-market evaluation, regulatory processes, enforcement, and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed. To date there has been no dedicated ANAO performance audit of TGA's COVID-19 vaccine pharmacovigilance system or of its compliance with provisional approval conditions requiring "enhanced" post-market safety monitoring. This report is intended to help fill that gap by providing an independent implementation audit of the COVID-19 Vaccine Safety Monitoring Plan.
+The Australian National Audit Office has examined the TGA several times since the mid-1990s, focusing on prescription drug evaluation, regulation of non-prescription and complementary medicines, manufacturer compliance, and application of cost-recovery principles. These audits primarily assessed pre-market evaluation, regulatory processes, enforcement, and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed. 
+
+To date there has been no dedicated ANAO performance audit of TGA's COVID-19 vaccine pharmacovigilance system or of its compliance with provisional approval conditions requiring "enhanced" post-market safety monitoring. On 27 November 2024, a formal request was submitted to ANAO requesting a performance audit of TGA's implementation of the COVID-19 Vaccine Safety Monitoring Plan, supported by the independent audit assessment contained in this repository.
+
+This report is intended to help fill that gap by providing an independent implementation audit of the COVID-19 Vaccine Safety Monitoring Plan and evidence supporting a formal ANAO performance audit.
 
 ## Key Accountability Concerns
 
