@@ -172,7 +172,7 @@ This work is free to use, share, and adapt for any purpose, including commercial
 All use must comply with the license terms, which require appropriate attribution.
 
 **Suggested Citation:**  
-Rekaris, P. (2025). *Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment* (Version 1.3.3). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2025). *Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment* (Version 1.4.0). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 ## Acknowledgments
 
