@@ -75,7 +75,7 @@ Contains investigative journalism on the TGA FOI investigation, co-authored by P
 This audit was conducted following four years of Freedom of Information (FOI) requests seeking documentation of TGA's implementation of its published safety monitoring plan. The assessment has been:
 
 - **Submitted to**: Australian National Audit Office (ANAO) requesting performance audit
-- **Provided to**: Senate Community Affairs Committee and Members of Parliament for oversight purposes
+- **Provided to**: Senate Community Affairs Legislation Committee and Members of Parliament for oversight purposes
 - **Reviewed by**: Information Commissioner (multiple matters: MR22/00538, MR25/01153)
 - **Documented in**: Commonwealth Ombudsman complaints regarding response contradictions
 
