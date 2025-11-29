@@ -49,6 +49,7 @@ Each of 24 plan outputs evaluated against publicly available evidence using syst
 ## Documents in This Repository
 
 ### 1. **Implementation Status Assessment Report**
+
 Comprehensive audit report including:
 - Executive summary of findings
 - Detailed analysis of all 24 plan outputs
@@ -57,6 +58,7 @@ Comprehensive audit report including:
 - Recommendations for oversight bodies
 
 ### 2. **TGA COVID-19 Safety Monitoring Plan Audit Summary**
+
 Visual executive summary with:
 - Implementation status overview
 - Key findings dashboard
@@ -64,6 +66,7 @@ Visual executive summary with:
 - Critical accountability gaps
 
 ### 3. **TGA FOI Analysis Documentation**
+
 Supporting documentation showing:
 - Timeline of FOI requests (2021-2025)
 - Pattern of contradictory TGA responses
@@ -140,12 +143,6 @@ However, the statistical probability that relevant documentation exists but coul
 
 If documentation implementing the Safety Plan exists, TGA has had multiple opportunities and clear incentive to produce it.
 
-This audit assesses **documented evidence only**. Absence of documentation does not prove activities did not occur, but raises questions about:
-- Public transparency and accountability
-- Verification of safety monitoring claims
-- Alignment between promised and delivered outputs
-- Accessibility of evidence for independent review
-
 ## Research Context
 
 This audit methodology builds on systematic analysis of regulatory transparency and documentation standards. Related investigative reporting on TGA vaccine safety monitoring documentation gaps:
@@ -204,4 +201,4 @@ This work builds on four years of systematic FOI requests, Information Commissio
 ---
 
 **Last Updated:** November 29, 2025
-**Version:** 1.3.2
+**Version:** 1.3.3
