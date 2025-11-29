@@ -169,7 +169,7 @@ The problem documented is simple: after four years, the TGA cannot demonstrate t
 This work is free to use, share, and adapt for any purpose, including commercial use, provided appropriate attribution is given.
 
 **Suggested Citation:**
-Rekaris, P. (2025). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository. https://doi.org/10.5281/zenodo.17731055
+Rekaris, P. (2025). Implementation Status: TGA COVID-19 Vaccine Safety Monitoring Plan. Independent Audit Assessment. GitHub Repository. https://doi.org/10.5281/zenodo.17747565
 
 ## Acknowledgments
 
