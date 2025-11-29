@@ -1,5 +1,13 @@
 # TGA COVID-19 Vaccine Safety Monitoring Plan - Implementation Audit
 
+## Introduction
+
+Between February 2021 and November 2023, Australia administered approximately 63.8 million COVID-19 vaccine doses under provisional approval requiring enhanced safety monitoring. The Therapeutic Goods Administration published a comprehensive COVID-19 Vaccine Safety Monitoring Plan in February 2021, outlining 24 specific outputs and activities to ensure rigorous pharmacovigilance during this unprecedented vaccination programme.
+
+After four years of Freedom of Information requests seeking documentation of the plan's implementation, systematic contradictions emerged in TGA's responses—ranging from claims that requested documents "don't exist" to acknowledgment of "ample documentation," followed by refusal of access on grounds of subjective classification difficulty, despite TGA's demonstrated capability to organize 2,218+ pages by plan objectives for Information Commissioner review.
+
+This repository provides a comprehensive, independent implementation audit using ISO 19011:2018 audit principles and Australian National Audit Office better practice guidance. The assessment examines publicly available evidence for all 24 plan outputs over four years (February 2021 - February 2025), creating a permanent, open-access record to enable independent verification, peer review, parliamentary oversight, and formal independent inquiry.
+
 ## Overview
 
 Independent assessment of documented implementation of Australia's Therapeutic Goods Administration (TGA) COVID-19 Vaccine Safety Monitoring Plan published February 2021.
@@ -86,12 +94,12 @@ The Australian National Audit Office has examined the TGA several times since th
 ## Key Accountability Concerns
 
 **Documentary Evidence Contradictions:**
-TGA demonstrated capability to classify and organize 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review, while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access.
+TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review, while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access.
 
 **Temporal Pattern:**
 - Feb 2022: TGA claims requested documents "don't exist"
 - Mar 2022: TGA acknowledges "ample documentation" exists  
-- 2022-2023: TGA organizes extensive documentation for IC review
+- 2022-2023: TGA organises extensive documentation for IC review
 - 2024-2025: TGA refuses citizen access citing subjective classification
 
 **Public Interest Implications:**
@@ -113,6 +121,15 @@ All findings are verifiable through:
 No classified or confidential information is included. All source material either publicly available or obtained through lawful FOI processes.
 
 ## Limitations
+
+This audit assesses documented evidence only. Absence of documentation does not prove activities did not occur, but raises questions about:
+
+- Public transparency and accountability
+- Verification of safety monitoring claims
+- Alignment between promised and delivered outputs
+- Accessibility of evidence for independent review
+
+However, the statistical probability that relevant documentation exists but could not be located is negligible given: (1) TGA's demonstrated capability to organise and classify 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (September 2024), (2) TGA officials' testimony to Senate Estimates that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgment that producing such documents would involve "some difficulty" and a "vast volume of documents" (October 2024), (3) multiple FOI requests over four years targeting the same documentation (FOI 3094, 3095, 3176, 3869, 4698), and (4) systematic review of all publicly available TGA databases, websites, and published materials. If documentation implementing the Safety Plan exists, TGA has had multiple opportunities and clear incentive to produce it.
 
 This audit assesses **documented evidence only**. Absence of documentation does not prove activities did not occur, but raises questions about:
 - Public transparency and accountability
