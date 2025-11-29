@@ -56,7 +56,9 @@ This assessment applies systematic audit principles drawn from ISO 19011:2018 (G
 
 **Audit Principles Applied:**
 
-ISO 19011 principles include: integrity (foundation of professionalism), fair presentation (accurate reporting of findings), due professional care (systematic methodology and judgement), independence (evaluation against TGA’s own standards), evidence-based approach (findings supported by objective, verifiable evidence), confidentiality (protection of information), and risk-based approach (considering risks and opportunities). ANAO audit practices include assessment against published plans, verification through multiple evidence sources, and emphasis on accountability and transparency in public administration.
+ISO 19011 principles include: integrity (foundation of professionalism), fair presentation (accurate reporting of findings), due professional care (systematic methodology and judgement), independence (evaluation against TGA's own standards), evidence-based approach (findings supported by objective, verifiable evidence), confidentiality (protection of information), and risk-based approach (considering risks and opportunities). ANAO audit practices include assessment against published plans, verification through multiple evidence sources, and emphasis on accountability and transparency in public administration.
+
+This audit methodology systematically applies ISO 19011 principles and ANAO practices, as demonstrated through evidence-based classification of all 24 Safety Plan outputs against TGA's published commitments, verified via multiple official sources with full limitations disclosed.
 
 **Regulatory Frameworks:**
 
