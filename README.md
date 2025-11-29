@@ -68,7 +68,7 @@ Contains source documents referenced in the audit:
 
 ### 5. Media Coverage Folder
 
-Contains investigative journalism coverage of the FOI investigation and audit findings by Maryanne Demasi.
+Contains investigative journalism on the TGA FOI investigation, co-authored by Paul Rekaris and Dr. Julie Sladden, published on investigative journalist Maryanne Demasi's Substack.
 
 ## Context
 
