@@ -77,8 +77,8 @@ This audit was conducted following four years of Freedom of Information (FOI) re
 - **Submitted to**: Australian National Audit Office (ANAO) requesting performance audit
 - **Provided to**: Senate Community Affairs Legislation Committee and Members of Parliament for oversight purposes
 - **Reviewed by**: Information Commissioner (multiple matters: MR22/00538, MR25/01153)
-- **Documented in**: Commonwealth Ombudsman complaints regarding response contradictions
-
+- **Documented in**: Commonwealth Ombudsman complaint (ref: 2025-806374) regarding response contradictions
+  
 ## ANAO Audit History and the Pharmacovigilance Gap
 
 The Australian National Audit Office has examined the TGA several times since the mid-1990s, focusing on prescription drug evaluation, regulation of non-prescription and complementary medicines, manufacturer compliance, and application of cost-recovery principles. These audits primarily assessed pre-market evaluation, regulatory processes, enforcement, and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed. To date there has been no dedicated ANAO performance audit of TGA's COVID-19 vaccine pharmacovigilance system or of its compliance with provisional approval conditions requiring "enhanced" post-market safety monitoring. This report is intended to help fill that gap by providing an independent implementation audit of the COVID-19 Vaccine Safety Monitoring Plan.
