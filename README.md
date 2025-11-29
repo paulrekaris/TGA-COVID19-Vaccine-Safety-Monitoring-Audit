@@ -82,7 +82,7 @@ This audit was conducted following four years of Freedom of Information (FOI) re
 - **Submitted to**: Australian National Audit Office (ANAO) on 27 November 2024, requesting performance audit
 - **Provided to**: Senate Community Affairs Legislation Committee and Members of Parliament for oversight purposes
 - **Reviewed by**: Information Commissioner (multiple matters: MR22/00538, MR25/01153)
-- **Documented in**: Commonwealth Ombudsman complaint (ref: 2025-806374) regarding response contradictions
+- **Documented in**: Commonwealth Ombudsman complaint submitted 1 April 2025 (ref: 2025-806374) regarding response contradictions and systemic pharmacovigilance governance and compliance issues
 
 **ANAO Audit History and the Pharmacovigilance Gap:**
 
