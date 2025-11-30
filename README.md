@@ -16,7 +16,7 @@ This repository provides a comprehensive, independent implementation audit using
 
 ### Context: Activity vs Enhanced Monitoring
 
-TGA conducted substantial safety monitoring activities during 2021-2025, including investigation of 148 safety signals and 57 regulatory actions (Senate Estimates testimony, October 2024).
+TGA conducted substantial safety monitoring activities during 2021-2025, including investigation of 148 safety signals and 57 regulatory actions (Senate Community Affairs Legislation Committee, October 2025).
 
 This audit does not question whether monitoring activities occurred. This audit examines whether those activities constituted the enhanced monitoring beyond routine pharmacovigilance required as a condition of provisional approval.
 
@@ -24,7 +24,7 @@ The assessment examines publicly available evidence for 24 specific outputs and 
 
 ### The Critical Audit Trail Gap
 
-While TGA investigated 148 safety signals and took 57 regulatory actions during the provisional approval period, critical documentation gaps prevent verification of the regulatory decision-making process:
+While TGA investigated 148 safety signals and took 57 regulatory actions during the provisional approval period (Senate Community Affairs Legislation Committee 2025) critical documentation gaps prevent verification of the regulatory decision-making process:
 
 **Missing Documentation:**
 
@@ -153,7 +153,7 @@ All findings are verifiable through:
 - FOI request responses (FOI 3643, FOI 25-0166)
 - TGA submissions to Information Commissioner (MR22/00538 - July 2022, September 2024)
 - Information Commissioner decisions and reviews (MR22/00538, MR25/01153, [2025] AICmr 54)
-- Senate Estimates testimony (9 October 2024): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+- Senate Estimates testimony (9 October 2025): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 - Parliamentary committee records and Hansard
 - Published peer-reviewed literature
 
@@ -166,7 +166,7 @@ This audit assesses documented evidence only. Absence of documentation does not 
 However, the statistical probability that relevant documentation exists but could not be located is negligible given: 
 
 1. **TGA's demonstrated capability** to organise and classify 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review MR22/00538 (September 2024)
-2. **TGA officials' testimony** to Senate Community Affairs Legislation Committee, that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents" (9 October 2024)—and confirmation that 148 safety signals were investigated resulting in 57 regulatory actions, yet no documentation links specific signals to specific actions
+2. **TGA officials' testimony** to Senate Community Affairs Legislation Committee, that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents" (9 October 2025)—and confirmation that 148 safety signals were investigated resulting in 57 regulatory actions, yet no documentation links specific signals to specific actions
 3. **Multiple FOI requests** over four years targeting the same documentation (FOI 3643, FOI 25-0166)
 4. **Systematic review** of all publicly available TGA databases, websites, and published materials
 
