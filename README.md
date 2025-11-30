@@ -30,7 +30,7 @@ While TGA investigated 148 safety signals and took 57 regulatory actions during 
 
 - No published audit trails linking specific safety signals to specific regulatory actions
 - No documentation of investigation protocols applied to each signal
-- No evidence of decision-making criteria used to determine actions or "no action" outcomes
+- No evidence of decision-making criteria used to determine actions or no action outcomes
 - No explanation for the disposition of 91 investigated signals (148 signals investigated minus 57 actions taken)
 
 **International Standards Requirement:**
@@ -60,11 +60,11 @@ TGA officials characterised this monitoring work as "day-to-day processes" rathe
 
 **Note on Monitoring Activity:**
 
-TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Estimates Oct 2025). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
+TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Community Affairs Legislation Committee 2025). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
 
 ## **The Central Finding:**
 
-Four years after publishing its COVID-19 Vaccine Safety Monitoring Plan, the TGA cannot demonstrate through documentation that it systematically implemented the enhanced monitoring it promised. TGA officials admitted to Senate Estimates that implementation was "never systematically tracked" by plan objectives, instead treating it as routine "day-to-day processes." This contradicts provisional approval requirements, which mandate demonstrable, trackable enhanced monitoring—not standard business-as-usual surveillance.
+Four years after publishing its COVID-19 Vaccine Safety Monitoring Plan, the TGA cannot demonstrate through documentation that it systematically implemented the enhanced monitoring it promised. TGA officials admitted to the Senate Community Affairs Legislation Committee that implementation was never systematically tracked by plan objectives, instead treating it as routine "day-to-day processes." This contradicts provisional approval requirements, which mandate demonstrable, trackable enhanced monitoring—not standard business-as-usual surveillance.
 
 **Provisional Approval Requirements Not Demonstrably Met:**
 
@@ -72,7 +72,7 @@ Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post
 
 **Key Contradictions:**
 
-TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review (September 2024), while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access. TGA officials testified to Senate Estimates (October 2025) that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents." Despite reporting 148 safety signals investigated and 57 regulatory actions taken, TGA has not published documentation linking specific signals to specific actions or providing the audit trails required by international pharmacovigilance standards.
+TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (September 2024), while simultaneously claiming that identical classification tasks were too subjective for citizen FOI access. TGA officials testified to the Senate Community Affairs Legislation Committee (9 October 2025) that the plan's key themes “essentially describe our day to day processes” rather than separately tracked objectives, and acknowledged that producing documents by objective would involve “some difficulty” and a “vast volume of documents.” Despite reporting 148 safety signals investigated and 57 regulatory or consumer information actions taken, TGA has not published, nor released under FOI, documentation that links individual signals to specific actions or provides the signal by signal audit trails envisaged in international pharmacovigilance standards (e.g. ICH E2E, CIOMS).
 
 **Timeline of Contradictory Positions:**
 
@@ -110,21 +110,21 @@ The audit methodology mapped TGA's 24 plan outputs against TGA's Australian Regu
 
 **Assessment Criteria:**
 
-Each of 24 plan outputs evaluated against publicly available evidence using systematic documentation review, FOI requests (2021-2025), and verification against TGA's own statements to oversight bodies. The methodology is falsifiable—any finding can be disproved through production of contradicting documentation by TGA. All source material is publicly available or obtained through lawful FOI processes, enabling independent replication of findings.
+Each of 24 plan outputs evaluated against publicly available evidence using systematic documentation review, FOI requests (2022-2025), and verification against TGA's own statements to oversight bodies. The methodology is falsifiable—any finding can be disproved through production of contradicting documentation by TGA. All source material is publicly available or obtained through lawful FOI processes, enabling independent replication of findings.
 
 ## Documents in This Repository
 
 ### 1. Implementation Status Assessment Report
-Comprehensive audit report including executive summary, detailed analysis of all 24 plan outputs, evidence classification methodology, gap analysis, accountability concerns, and recommendations for oversight bodies. Includes detailed analysis of the audit trail gap between 148 investigated signals and 57 regulatory actions.
+Comprehensive audit report including executive summary, detailed analysis of all 24 plan outputs, evidence classification methodology, gap analysis, accountability concerns, detailed analysis of the audit trail gap between 148 investigated signals and 57 regulatory actions, and recommendations for reforms to pharmacovigilance frameworks, provisional approval processes, and governance mechanisms to restore framework integrity.
 
 ### 2. TGA COVID-19 Safety Monitoring Plan Audit Summary
 Visual executive summary with implementation status overview, key findings dashboard, evidence hierarchy framework, and critical accountability gaps. Highlights the absence of audit trails required by international pharmacovigilance standards.
 
 ### 3. TGA FOI Analysis Documentation
-Timeline of FOI requests (2021-2025), pattern of contradictory TGA responses, comparison of TGA claims vs. documented evidence, and Information Commissioner review findings. Documents TGA's refusal to provide signal investigation documentation despite Senate testimony confirming 148 signals investigated and 57 actions taken.
+Timeline of FOI requests (2022-2025), pattern of contradictory TGA responses, comparison of TGA claims vs. documented evidence, and Information Commissioner review findings. Documents TGA's refusal to provide signal investigation documentation despite Senate testimony confirming 148 signals investigated and 57 actions taken.
 
 ### 4. Reference Documents
-TGA's published COVID-19 Vaccine Safety Monitoring Plan (February 2021) and Senate Estimates transcript excerpts (9 October 2024).
+TGA's published COVID-19 Vaccine Safety Monitoring Plan (February 2021) and Senate Community Affairs Legislation Committee transcript excerpts (9 October 2025).
 
 ### 5. Media Coverage
 Investigative journalism on the TGA FOI investigation, co-authored by Paul Rekaris and Dr. Julie Sladden, published on investigative journalist Maryanne Demasi's Substack.
@@ -152,7 +152,7 @@ All findings are verifiable through:
 - TGA public websites and databases (accessed 2021-2025)
 - FOI request responses (FOI 3643, FOI 25-0166)
 - TGA submissions to Information Commissioner (MR22/00538 - July 2022, September 2024)
-- Information Commissioner decisions and reviews (MR22/00538, MR25/01153, [March 2025] AICmr 54)
+- Information Commissioner decisions and reviews (MR22/00538, MR25/01153, [2025] AICmr 54)
 - Senate Estimates testimony (9 October 2024): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 - Parliamentary committee records and Hansard
 - Published peer-reviewed literature
@@ -165,8 +165,8 @@ This audit assesses documented evidence only. Absence of documentation does not 
 
 However, the statistical probability that relevant documentation exists but could not be located is negligible given: 
 
-1. **TGA's demonstrated capability** to organise and classify 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (September 2024)
-2. **TGA officials' testimony** to Senate Estimates that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents" (9 October 2024)—and confirmation that 148 safety signals were investigated resulting in 57 regulatory actions, yet no documentation links specific signals to specific actions
+1. **TGA's demonstrated capability** to organise and classify 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review MR22/00538 (September 2024)
+2. **TGA officials' testimony** to Senate Community Affairs Legislation Committee, that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents" (9 October 2024)—and confirmation that 148 safety signals were investigated resulting in 57 regulatory actions, yet no documentation links specific signals to specific actions
 3. **Multiple FOI requests** over four years targeting the same documentation (FOI 3643, FOI 25-0166)
 4. **Systematic review** of all publicly available TGA databases, websites, and published materials
 
@@ -196,7 +196,9 @@ This assessment evaluates publicly available evidence for implementation of stat
 
 Full research methodology, limitations, key assumptions, and assessment criteria are outlined in the detailed audit report available in this repository.
 
-**This work has not been peer-reviewed or independently verified.** It is made publicly available to encourage independent verification, peer review, and scrutiny by other researchers, citizens, oversight bodies, and interested parties. The author welcomes correction of any errors or production of contradicting evidence.
+**This work has not been peer-reviewed or independently verified.** 
+
+It is made publicly available to encourage independent verification, peer review, and scrutiny by other researchers, citizens, oversight bodies, and interested parties. The author welcomes correction of any errors or production of contradicting evidence.
 
 This analysis is based on extensive review of available documentation and is accurate to the best of my knowledge. Given the substantial volume of materials examined, inadvertent errors in citation or interpretation may occur. Corrections are welcomed.
 
@@ -208,7 +210,7 @@ I declare that the information in this assessment is accurate to the best of my 
 
 **Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This work is free to use, share, and adapt for any purpose, including commercial use, under the terms of the CC BY 4.0 licence. This open licence is intentional—regulatory accountability research should be freely accessible. You are encouraged to build upon this methodology, replicate the approach, and use these findings in advocacy, research, or oversight activities.
+This work is free to use, share, and adapt for any purpose, under the terms of the CC BY 4.0 licence. This open licence is intentional—regulatory accountability research should be freely accessible. You are encouraged to build upon this methodology, replicate the approach, and use these findings in advocacy, research, or oversight activities.
 
 All use must comply with the licence terms, which require appropriate attribution.
 
