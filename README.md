@@ -4,6 +4,8 @@
 
 Between February 2021 and November 2023, Australia administered approximately 63.8 million COVID-19 vaccine doses under provisional approval requiring enhanced safety monitoring. The Therapeutic Goods Administration published a comprehensive COVID-19 Vaccine Safety Monitoring Plan in February 2021, outlining 24 specific outputs and activities to ensure rigorous pharmacovigilance during this unprecedented vaccination programme.
 
+This citizen-led independent audit provides the first known systematic assessment of plan implementation using publicly available evidence and fully replicable, falsifiable methodology based on ISO 19011:2018 audit principles, Australian National Audit Office better practice guidance, and international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS).
+
 Compliance with the published plan was particularly critical given provisional approval requirements under the Therapeutic Goods Act 1989. Three COVID-19 vaccines received provisional approval during this period: Pfizer/BioNTech Comirnaty (January 2021), AstraZeneca Vaxzevria (February 2021), and Moderna Spikevax (August 2021). Provisional approval is granted when traditional evidence requirements cannot be met but there is a clear public health need, with enhanced post-market monitoring serving as a key safeguard. The Safety Monitoring Plan represented TGA's documented commitment to enhanced pharmacovigilance as a condition of provisional approval for these vaccines.
 
 After four years of Freedom of Information requests seeking documentation of the plan's implementation, systematic contradictions emerged in TGA's responses—ranging from claims that requested documents "don't exist" to acknowledgement of "ample documentation," followed by refusal of access on grounds of subjective classification difficulty, despite TGA's demonstrated capability to organise 2,218+ pages by plan objectives for Information Commissioner review.
@@ -25,6 +27,7 @@ The assessment examines publicly available evidence for 24 specific outputs and 
 While TGA investigated 148 safety signals and took 57 regulatory actions during the provisional approval period, critical documentation gaps prevent verification of the regulatory decision-making process:
 
 **Missing Documentation:**
+
 - No published audit trails linking specific safety signals to specific regulatory actions
 - No documentation of investigation protocols applied to each signal
 - No evidence of decision-making criteria used to determine actions or "no action" outcomes
@@ -48,6 +51,7 @@ TGA officials characterised this monitoring work as "day-to-day processes" rathe
 - **25% No Evidence** (6/24 outputs)
 
 **Critical Gaps Identified:**
+
 - Active surveillance system enhancements: No public documentation
 - Weekly causality assessments: No evidence of systematic process
 - International collaboration outputs: Minimal documentation
@@ -58,19 +62,20 @@ TGA officials characterised this monitoring work as "day-to-day processes" rathe
 
 TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Estimates Oct 2024). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
 
-**The Central Finding:**
+## **The Central Finding:**
 
 Four years after publishing its COVID-19 Vaccine Safety Monitoring Plan, the TGA cannot demonstrate through documentation that it systematically implemented the enhanced monitoring it promised. TGA officials admitted to Senate Estimates that implementation was "never systematically tracked" by plan objectives, instead treating it as routine "day-to-day processes." This contradicts provisional approval requirements, which mandate demonstrable, trackable enhanced monitoring—not standard business-as-usual surveillance.
 
 **Provisional Approval Requirements Not Demonstrably Met:**
 
-Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring as a legal condition. The TGA's admission that implementation was never systematically tracked and treated as routine "day-to-day processes" means compliance with provisional approval conditions cannot be verified. Without documented, trackable enhanced monitoring distinct from routine surveillance—including audit trails required by international standards (ICH E2E, CIOMS) linking the 148 investigated signals to 57 regulatory actions—the legal requirements for provisional approval were not demonstrably met during Australia's largest medical intervention in history.
+Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring as a legal condition. The TGA's admission that implementation was never systematically tracked and treated as routine "day-to-day processes" means compliance with provisional approval conditions cannot be verified. Without documented, trackable enhanced monitoring distinct from routine surveillance—including audit trails required by international standards (ICH E2E, CIOMS) linking the 148 investigated signals to 57 regulatory actions—the legal requirements for provisional approval were not demonstrably met during Australia's largest medical intervention in history. **The documented evidence, and systematic absence thereof, reveals a significant historical regulatory failure in pharmaceutical safety monitoring that violates international pharmacovigilance standards requiring traceable audit trails and documented decision-making processes.**
 
 **Key Contradictions:**
 
 TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review (September 2024), while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access. TGA officials testified to Senate Estimates (October 2024) that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents." Despite reporting 148 safety signals investigated and 57 regulatory actions taken, TGA has not published documentation linking specific signals to specific actions or providing the audit trails required by international pharmacovigilance standards.
 
 **Timeline of Contradictory Positions:**
+
 - **February 2022:** TGA claims requested documents "don't exist"
 - **March 2022:** TGA acknowledges "ample documentation" exists 
 - **2022-2023:** TGA organises extensive documentation for Information Commissioner review
@@ -177,7 +182,7 @@ This audit methodology builds on systematic analysis of regulatory transparency 
 
 ## Purpose
 
-This repository provides evidence-based documentation for parliamentary oversight and formal independent inquiry, a methodological framework for evaluating monitoring system implementation, public accountability through transparent presentation of findings, and foundation for potential ANAO performance audit.
+This repository serves as a call for official investigation and reform of pharmacovigilance frameworks and provisional approval processes to restore public trust and ensure compliance with international pharmacovigilance standards (ICH E2E, CIOMS). It provides evidence-based documentation for parliamentary oversight and formal independent inquiry, a methodological framework for evaluating monitoring system implementation using fully replicable and falsifiable methods, public accountability through transparent presentation of findings, and foundation for potential ANAO performance audit.
 
 ## Contact & Collaboration
 
