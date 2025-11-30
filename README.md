@@ -40,7 +40,7 @@ International pharmacovigilance standards adopted by TGA (ICH E2E) and internati
 - Compliance with provisional approval conditions cannot be demonstrated
 - Regulatory decision-making processes remain opaque despite significant public health implications
 
-TGA officials characterised this monitoring work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives (Senate Estimates, October 2024). This characterisation, combined with the documentation gaps, raises fundamental questions about whether provisional approval requirements for demonstrable enhanced monitoring were met.
+TGA officials characterised this monitoring work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives (Senate Estimates, October 2025). This characterisation, combined with the documentation gaps, raises fundamental questions about whether provisional approval requirements for demonstrable enhanced monitoring were met.
 
 ### Implementation Status:
 
@@ -60,7 +60,7 @@ TGA officials characterised this monitoring work as "day-to-day processes" rathe
 
 **Note on Monitoring Activity:**
 
-TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Estimates Oct 2024). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
+TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Estimates Oct 2025). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
 
 ## **The Central Finding:**
 
@@ -72,14 +72,14 @@ Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post
 
 **Key Contradictions:**
 
-TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review (September 2024), while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access. TGA officials testified to Senate Estimates (October 2024) that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents." Despite reporting 148 safety signals investigated and 57 regulatory actions taken, TGA has not published documentation linking specific signals to specific actions or providing the audit trails required by international pharmacovigilance standards.
+TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation for Information Commissioner review (September 2024), while simultaneously claiming identical classification tasks were "too subjective" for citizen FOI access. TGA officials testified to Senate Estimates (October 2025) that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, with acknowledgement that producing such documents would involve "some difficulty" and a "vast volume of documents." Despite reporting 148 safety signals investigated and 57 regulatory actions taken, TGA has not published documentation linking specific signals to specific actions or providing the audit trails required by international pharmacovigilance standards.
 
 **Timeline of Contradictory Positions:**
 
 - **February 2022:** TGA claims requested documents "don't exist"
 - **March 2022:** TGA acknowledges "ample documentation" exists 
 - **2022-2023:** TGA organises extensive documentation for Information Commissioner review
-- **October 2024:** TGA confirms to Senate implementation was never systematically tracked and characterises 148 signal investigations and 57 actions as "day-to-day processes"
+- **October 2025:** TGA confirms to Senate implementation was never systematically tracked and characterises 148 signal investigations and 57 actions as "day-to-day processes"
 - **2024-2025:** TGA refuses citizen access citing subjective classification
 
 **Every possible explanation points to regulatory failure:**
