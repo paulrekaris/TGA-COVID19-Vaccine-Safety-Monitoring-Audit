@@ -40,7 +40,7 @@ International pharmacovigilance standards adopted by TGA (ICH E2E) and internati
 - Compliance with provisional approval conditions cannot be demonstrated
 - Regulatory decision-making processes remain opaque despite significant public health implications
 
-TGA officials characterised this monitoring work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives (Senate Estimates, October 2025). This characterisation, combined with the documentation gaps, raises fundamental questions about whether provisional approval requirements for demonstrable enhanced monitoring were met.
+TGA officials characterised this monitoring work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives (Senate Community Affairs Legislation Committee, October 2025). This characterisation, combined with the documentation gaps, raises fundamental questions about whether provisional approval requirements for demonstrable enhanced monitoring were met.
 
 ### Implementation Status:
 
@@ -72,7 +72,7 @@ Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post
 
 **Key Contradictions:**
 
-TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (September 2024), while simultaneously claiming that identical classification tasks were too subjective for citizen FOI access. TGA officials testified to the Senate Community Affairs Legislation Committee (9 October 2025) that the plan's key themes “essentially describe our day to day processes” rather than separately tracked objectives, and acknowledged that producing documents by objective would involve “some difficulty” and a “vast volume of documents.” Despite reporting 148 safety signals investigated and 57 regulatory or consumer information actions taken, TGA has not published, nor released under FOI, documentation that links individual signals to specific actions or provides the signal by signal audit trails envisaged in international pharmacovigilance standards (e.g. ICH E2E, CIOMS).
+TGA demonstrated capability to classify and organise 2,218+ pages of vaccine safety monitoring documentation by Safety Plan objectives for Information Commissioner review (MR22/00538: September 2024), yet nine months later claimed that identical classification tasks were "too subjective" and required "subjective interpretation" for citizen FOI access (FOI 25-0166 refusal decision, June 2025). TGA officials testified to the Senate Community Affairs Legislation Committee (9 October 2025) that the plan's key themes "essentially describe our day-to-day processes" rather than separately tracked objectives, and acknowledged that producing documents by objective would involve "some difficulty" and a "vast volume of documents." Despite reporting 148 safety signals investigated and 57 regulatory or consumer information actions taken, TGA has not published, nor released under FOI, documentation that links individual signals to specific actions or provides the signal-by-signal audit trails envisaged in international pharmacovigilance standards (e.g. ICH E2E, CIOMS).
 
 **Timeline of Contradictory Positions:**
 
