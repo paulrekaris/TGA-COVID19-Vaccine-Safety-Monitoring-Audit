@@ -24,7 +24,7 @@ The assessment examines publicly available evidence for 24 specific outputs and 
 
 ### The Critical Audit Trail Gap
 
-While TGA investigated 148 safety signals and took 57 regulatory actions during the provisional approval period (Senate Community Affairs Legislation Committee 2025) critical documentation gaps prevent verification of the regulatory decision-making process:
+While TGA investigated 148 safety signals and took 57 regulatory actions during the provisional approval period (Senate Community Affairs Legislation Committee, October 2025), critical documentation gaps prevent verification of the regulatory decision-making process:
 
 **Missing Documentation:**
 
@@ -60,7 +60,7 @@ TGA officials characterised this monitoring work as "day-to-day processes" rathe
 
 **Note on Monitoring Activity:**
 
-TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Community Affairs Legislation Committee 2025). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
+TGA investigated 148 safety signals and took 57 regulatory actions during this period (Senate Community Affairs Legislation Committee, October 2025). However, officials characterised this work as "day-to-day processes" rather than enhanced monitoring tracked against plan objectives. Additionally, TGA has not published documentation linking specific signals to specific regulatory actions, investigation protocols applied, or decision-making criteria used—documentation required by international pharmacovigilance standards adopted by TGA (ICH E2E) and internationally recognised best practice (CIOMS). The gaps identified above relate to documented implementation of enhanced processes, not absence of monitoring activity.
 
 ## **The Central Finding:**
 
@@ -152,8 +152,8 @@ All findings are verifiable through:
 - TGA public websites and databases (accessed 2021-2025)
 - FOI request responses (FOI 3643, FOI 25-0166)
 - TGA submissions to Information Commissioner (MR22/00538 - July 2022, September 2024)
-- Information Commissioner decisions and reviews (MR22/00538, MR25/01153, [2025] AICmr 54)
-- Senate Estimates testimony (9 October 2025): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+- Information Commissioner decisions and reviews (MR22/00538, MR25/01153, 2025 AICmr 54)
+- Senate Community Affairs Legislation Committee testimony (9 October 2025): https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 - Parliamentary committee records and Hansard
 - Published peer-reviewed literature
 
