@@ -193,17 +193,17 @@ For inquiries regarding peer review and methodology questions, error reporting o
 
 ## Disclaimer and Declaration
 
-This assessment evaluates publicly available evidence for implementation of stated commitments in TGA's published COVID-19 Vaccine Safety Monitoring Plan. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management, and governance processes—not clinical or scientific judgements. The assessment is based exclusively on TGA's own documents and statements.
+This assessment evaluates publicly available evidence for implementation of the commitments in the TGA COVID‑19 Vaccine Safety Monitoring Plan. It does not assess the clinical safety or efficacy of COVID‑19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management and governance processes, not to clinical or scientific judgements. The assessment is based exclusively on TGA’s own documents and official statements.
 
-Full research methodology, limitations, key assumptions, and assessment criteria are outlined in the detailed audit report available in this repository.
+Full research methodology, limitations, key assumptions and assessment criteria are outlined in the detailed audit report available in this repository.
 
-**This work has not been peer-reviewed or independently verified** 
+**This work has not been peer‑reviewed or independently verified.** It is made publicly available to encourage independent verification, peer review and scrutiny by other researchers, citizens, oversight bodies and interested parties. The author welcomes correction of any errors or production of contradicting evidence.
 
-It is made publicly available to encourage independent verification, peer review, and scrutiny by other researchers, citizens, oversight bodies, and interested parties. The author welcomes correction of any errors or production of contradicting evidence.
+This analysis is based on extensive review of available documentation and is accurate to the best of the author’s knowledge. Given the substantial volume of materials examined, inadvertent errors in citation or interpretation may occur; corrections are welcomed.
 
-This analysis is based on extensive review of available documentation and is accurate to the best of my knowledge. Given the substantial volume of materials examined, inadvertent errors in citation or interpretation may occur. Corrections are welcomed.
+This is a living, evidence‑based implementation audit. It will be updated as new official documents (for example FOI and OAIC material) or substantive analytical feedback become available, while maintaining a transparent version history so changes to the evidence base and interpretation are clear to readers. Later versions may incorporate additional documents and clarifications, but the core findings and ratings have remained consistent across versions to date.
 
-I declare that the information in this assessment is accurate to the best of my knowledge. All factual claims are supported by documented evidence with source citations. This work is conducted in good faith in the public interest.
+The author declares that the information in this assessment is accurate to the best of their knowledge and that all factual claims are supported by documented evidence with source citations. This work is conducted in good faith and in the public interest.
 
 **The problem documented is simple: after four years, the TGA cannot demonstrate that promises made to 26 million Australians were kept. This requires investigation.**
 
