@@ -4,8 +4,6 @@ This folder contains key source documents referenced in the audit assessment.
 
 ### TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)
 
-**File:** `TGA_COVID19_Vaccine_Safety_Monitoring_Plan_Feb2021.pdf`  
-
 TGA’s published COVID‑19 Vaccine Safety Monitoring Plan (February 2021). This is the primary source document against which implementation was assessed.
 
 The audit methodology mapped the Plan’s outputs against:
@@ -23,8 +21,6 @@ Provisional‑approval processes were benchmarked against comparable frameworks 
 <https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf>
 
 ### Senate Community Affairs Legislation Committee testimony transcript excerpts
-
-**Files:** screenshot images and notes documenting key testimony  
 
 Senate Community Affairs Legislation Committee testimony (9 October 2025) where TGA officials confirmed that implementation of the Safety Monitoring Plan was “never systematically tracked” by Plan objective, described monitoring as “day‑to‑day processes”, and reported 148 signals investigated and 57 regulatory actions.
 
