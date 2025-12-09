@@ -1,6 +1,6 @@
 # TGA COVID-19 Vaccine Safety Monitoring Plan - Implementation Audit
 
-## Executive Overview
+## Executive Summary 
 
 Between February 2021 and July 2023, approximately 68 million COVID-19 vaccine doses (94% of the total rollout) were administered under provisional approval in Australia. Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring as a legal safeguard when traditional evidence requirements cannot be met due to public health urgency.
 
