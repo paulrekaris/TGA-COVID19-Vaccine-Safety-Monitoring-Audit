@@ -12,7 +12,6 @@ This independent audit provides the first systematic assessment of whether TGA i
 
 > **Central problem:** TGA cannot demonstrate, on the documentary record, that it systematically implemented the enhanced monitoring framework it promised, raising fundamental questions about regulatory accountability during Australia’s largest medical intervention in history.
 
-***
 
 ## The Investigation: Four Years of FOI Requests
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#the-investigation-four-years-of-foi-requests)
@@ -44,7 +43,6 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
   - 148 safety signals were investigated and 57 regulatory actions taken – yet **no documentation links specific signals to specific actions**.
 
-***
 
 ## The Critical Question
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#the-critical-question)
@@ -58,7 +56,6 @@ Each plausible explanation points to a serious failure in implementation, docume
 - Documents were never systematically maintained as required by international pharmacovigilance and public‑sector record‑keeping standards.  
 - Verification of provisional‑approval conditions was not documented before transitions to full registration.
 
-***
 
 ## What This Audit Found
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#what-this-audit-found)
@@ -74,7 +71,6 @@ The assessment systematically evaluated all 20 Plan outputs against publicly ava
 - **55% Partially implemented / undocumented (11/20 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
 - **30% Not documented (6/20 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
-***
 
 ## Four Critical Documentation Gaps
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#four-critical-documentation-gaps)
@@ -102,7 +98,6 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 - Compliance with provisional‑approval conditions cannot be demonstrated.  
 - Regulatory decision‑making remains opaque despite significant public‑health implications.
 
-***
 
 ### Gap 2: Provisional Approval Verification
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#gap-2-provisional-approval-verification)
@@ -124,7 +119,6 @@ Without documented verification:
 - Compliance with provisional‑approval conditions for approximately 68 million doses cannot be confirmed.  
 - The integrity of the provisional‑approval framework – which relies on enhanced, documented post‑market monitoring – is called into question.
 
-***
 
 ### Gap 3: Enhanced Monitoring Framework Integration
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#gap-3-enhanced-monitoring-framework-integration)
@@ -145,7 +139,6 @@ Without documented verification:
 
 Provisional approval requires **enhanced monitoring** distinct from business‑as‑usual surveillance. If monitoring cannot be distinguished, documented and verified as enhanced, the legal safeguard justifying reduced pre‑market evidence is undermined.
 
-***
 
 ### Gap 4: Governance and Performance Measurement
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#gap-4-governance-and-performance-measurement)
@@ -168,7 +161,6 @@ Without governance and performance‑measurement records:
 - There is no way to verify that enhanced‑monitoring objectives were achieved.  
 - Oversight bodies cannot assess whether provisional‑approval conditions were systematically monitored and enforced.
 
-***
 
 ## The ANAO Context
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#the-anao-context)
@@ -189,7 +181,6 @@ The Australian National Audit Office (ANAO) conducted a performance audit of the
 
 This citizen audit addresses that gap. To date, there has been **no dedicated ANAO performance audit** of TGA’s COVID‑19 vaccine pharmacovigilance system or of its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
 
-***
 
 ## Methodology and Evidence Base
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#methodology-and-evidence-base)
@@ -260,7 +251,6 @@ Key sources include:
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding.
 
-***
 
 ## Enhanced Evidence Gathering for Version 1.5
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#enhanced-evidence-gathering-for-version-15)
@@ -272,8 +262,6 @@ Version 1.5 strengthens the evidence base through:
 - **Structured online sweep** – reproducible searches of government and partner websites for Plan‑specific implementation documents outside FOI.  
 - **AusVaxSafety case study** – analysis of 6.8 million survey outputs and the absence of documented integration with TGA signal management.  
 - **Legislative framework analysis** – review of *Therapeutic Goods Act* provisions and TGA guidance on provisional‑approval verification.
-
-***
 
 ## Limitations and Falsifiability
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#limitations-and-falsifiability)
@@ -303,7 +291,6 @@ The probability that comprehensive implementation documentation exists but could
 
 The methodology is explicitly falsifiable: any finding can be disproved by production of contradicting documentation. Corrections and additional evidence are welcomed, and would be incorporated into future versions with transparent version history.
 
-***
 
 ## What’s in This Repository
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#whats-in-this-repository)
@@ -348,7 +335,6 @@ Major enhancements in v1.5 include:
 - **Structured counter‑arguments** – explicit responses to common objections (e.g. reliance on generic SOPs, expert committees, FOI decisions).  
 - **Refined recommendations** – reordered and strengthened reform priorities (governance, records management, independent audit).
 
-***
 
 ## Oversight and Accountability
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#oversight-and-accountability)
@@ -359,8 +345,6 @@ This assessment has been provided to multiple oversight bodies:
 - **Senate Community Affairs Legislation Committee** – provided to members to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025.  
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision.  
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
-
-***
 
 ## The Call for Investigation
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#the-call-for-investigation)
@@ -377,7 +361,6 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 
 The problem is straightforward: **TGA made commitments to 26 million Australians about enhanced, documented safety monitoring. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional‑approval frameworks.
 
-***
 
 ## Licence and Citation
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#licence-and-citation)
@@ -395,7 +378,6 @@ This work is free to use, share and adapt with appropriate attribution. The open
 > Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5). Zenodo.  
 > <https://zenodo.org/records/17768400>
 
-***
 
 ## Disclaimer and Declaration
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#disclaimer-and-declaration)
@@ -420,8 +402,6 @@ This is a living, evidence‑based assessment. It will be updated as new officia
 
 The author declares that the information in this assessment is accurate to the best of their knowledge and that all factual claims are supported by documented evidence with source citations.
 
-***
-
 ## Contact
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#contact)
 
@@ -434,7 +414,6 @@ For enquiries regarding:
 
 **Email:** [paulrekaris@gmail.com](mailto:paulrekaris@gmail.com)
 
-***
 
 ## Acknowledgements
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#acknowledgements)
