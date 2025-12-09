@@ -161,7 +161,7 @@ Without governance and performance‑measurement records:
 - There is no way to verify that enhanced‑monitoring objectives were achieved.  
 - Oversight bodies cannot assess whether provisional‑approval conditions were systematically monitored and enforced.
 
-**ANAO audit history and the pharmacovigilance gap**
+##ANAO audit history and the pharmacovigilance gap**
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#the-anao-context)
 
 The Australian National Audit Office (ANAO) has examined TGA several times since the mid‑1990s, with reports focused on prescription‑medicine evaluation, the regulation of non‑prescription and complementary medicines, manufacturer compliance and cost‑recovery arrangements. These audits have primarily assessed pre‑market evaluation, regulatory processes, enforcement and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed or whether enhanced post‑market commitments were demonstrably delivered.
