@@ -10,8 +10,6 @@ This independent audit provides the first systematic assessment of whether TGA i
 
 **The Central Problem:** TGA cannot demonstrate through documentation that it systematically implemented the enhanced monitoring framework it promised, raising fundamental questions about regulatory accountability during Australia's largest medical intervention in history.
 
----
-
 ## The Investigation: Four Years of FOI Requests
 
 This audit emerged from a four-year investigation using Freedom of Information requests to document TGA's implementation of its safety monitoring commitments. The investigation revealed a troubling pattern:
@@ -49,8 +47,6 @@ If TGA can organise 2,218+ pages by plan objectives for Information Commissioner
 2. Records are too disorganised to retrieve despite demonstrated capability
 3. Documents were never systematically maintained as required by international standards
 4. Verification of provisional approval conditions wasn't documented before transitions to full registration
-
----
 
 ## What This Audit Found
 
@@ -112,7 +108,6 @@ Zero documentation of oversight mechanisms, performance measurement systems, or 
 **Why This Matters:**  
 Without governance mechanisms and performance measurement, there is no way to verify that enhanced monitoring objectives were achieved or that provisional approval conditions were satisfied.
 
----
 
 ## The ANAO Context
 
@@ -131,8 +126,6 @@ The Australian National Audit Office conducted a performance audit of Australia'
 - Whether TGA maintained documentation meeting international pharmacovigilance standards (ICH E2E, CIOMS)
 
 This citizen audit addresses that gap. To date, there has been no dedicated ANAO performance audit of TGA's COVID-19 vaccine pharmacovigilance system implementation or compliance with provisional approval conditions requiring enhanced post-market safety monitoring.
-
----
 
 ## Methodology and Evidence Base
 
@@ -216,7 +209,6 @@ If comprehensive implementation documentation exists, TGA has had multiple oppor
 **Falsifiability:**  
 This methodology is falsifiable—any finding can be disproved through production of contradicting documentation. The audit welcomes correction of errors or production of evidence demonstrating implementation.
 
----
 
 ## What's in This Repository
 
@@ -255,7 +247,6 @@ Investigative journalism co-authored by Paul Rekaris and Dr Julie Sladden:
 
 Published on Maryanne Demasi's investigative journalism platform.
 
----
 
 ## Version 1.5: What's New
 
@@ -284,8 +275,6 @@ Strengthened methodology through systematic analysis of TGA FOI decisions, OAIC-
 **Refined Recommendations**  
 Re-ordered priority reform areas to foreground critical governance, records management, and audit requirements based on strengthened evidence.
 
----
-
 ## Oversight and Accountability
 
 This assessment has been provided to multiple oversight bodies:
@@ -303,8 +292,6 @@ Subject of multiple reviews:
 
 **Commonwealth Ombudsman**  
 Complaint submitted 1 April 2025 (ref: 2025-806374) documenting contradictions in TGA responses and systemic governance issues in pharmacovigilance documentation and FOI administration.
-
----
 
 ## The Call for Investigation
 
@@ -329,7 +316,6 @@ After four years of systematic FOI requests, TGA cannot demonstrate through docu
 
 **The problem is straightforward:** TGA made commitments to 26 million Australians. It cannot demonstrate those commitments were kept. This requires investigation.
 
----
 
 ## Licence and Citation
 
@@ -343,7 +329,6 @@ This work is free to use, share, and adapt with attribution. Open licensing is i
 
 Rekaris, P. (2025). *Documentation Gap Analysis:Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5). Zenodo. https://doi.org/10.5281/zenodo.[TO BE UPDATED]
 
----
 
 ## Disclaimer and Declaration
 
@@ -362,8 +347,6 @@ This is a living, evidence-based assessment updated as new official documents (f
 **Author Declaration**  
 The author declares that the information in this assessment is accurate to the best of their knowledge and that all factual claims are supported by documented evidence with source citations.
 
----
-
 ## Contact
 
 For inquiries regarding:
@@ -374,15 +357,12 @@ For inquiries regarding:
 
 **Email:** paulrekaris@gmail.com
 
----
 
 ## Acknowledgements
 
 This work builds on four years of systematic Freedom of Information requests, Information Commissioner reviews, and engagement with parliamentary oversight processes. Thanks to those who provided guidance on FOI procedures, regulatory frameworks, and academic standards for transparency research.
 
 Special thanks to Dr Julie Sladden and Dr Maryanne Demasi for collaboration on investigative reporting that brought these issues to public attention.
-
----
 
 **Last Updated:** 9 December 2025  
 **Version:** 1.5  
