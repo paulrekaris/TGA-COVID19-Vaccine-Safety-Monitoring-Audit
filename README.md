@@ -327,7 +327,7 @@ This work is free to use, share, and adapt with attribution. Open licensing is i
 
 ### Citation
 
-Rekaris, P. (2025). *Documentation Gap Analysis:Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5). Zenodo. https://doi.org/10.5281/zenodo.
+Rekaris, P. (2025). *Documentation Gap Analysis:Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5). https://zenodo.org/records/17768400
 
 
 ## Disclaimer and Declaration
