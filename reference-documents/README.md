@@ -37,13 +37,8 @@ AusVaxSafety. *COVID‑19 vaccines – vaccine safety data*. AusVaxSafety websit
 Available at: <https://www.ausvaxsafety.org.au/vaccine-safety-data/covid-19-vaccines>
 
 > Active, SMS‑based post‑vaccination surveillance data for COVID‑19 vaccines in Australia, including cumulative counts of invitations sent, responses received, self‑reported adverse events and medical‑attendance rates. Used in this audit for estimates of approximately 6.8 million survey responses, ~3 million adverse‑event reports and ~62,000 reports of medical attention.
-<img width="451" height="191" alt="image" src="https://github.com/user-attachments/assets/8c5424b4-453f-44fc-881a-7fd0a7921e4a" />
 
 ### Australian Public Assessment Reports (AusPARs)
-
-**Files:**  
-- `AusPAR_Comirnaty_full-registration_2023.pdf`  
-- `AusPAR_Spikevax_full-registration_2023.pdf`
 
 AusPARs documenting the transition of Comirnaty and Spikevax from provisional to full registration. These reports record TGA’s regulatory decisions and summarise clinical and safety data, and were reviewed for any evidence of verification against the February 2021 Safety Monitoring Plan or explicit sign‑off of enhanced‑monitoring conditions.
 
@@ -52,10 +47,6 @@ AusPARs documenting the transition of Comirnaty and Spikevax from provisional to
 - Spikevax transition media/AusPAR page: <https://www.tga.gov.au/resources/auspar/auspar-spikevax-1)](https://www.tga.gov.au/sites/default/files/2023-05/auspar-spikevax-230511.pdf>
 
 ### TGA performance reports
-
-**Files:**  
-- `TGA_Performance_Report_2022-23.pdf`  
-- `TGA_Performance_Report_2023-24.pdf`
 
 TGA corporate performance reports reviewed to identify any Plan‑related outputs, indicators or performance measures. These documents provide the official performance‑reporting context against which the absence of Safety Monitoring Plan implementation metrics is assessed.
 
