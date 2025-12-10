@@ -244,7 +244,7 @@ Key sources include:
 - Information Commissioner material:  
   - OAIC MR22/00538 and MR25/01153 (reviews and directed searches).  
   - 2025 AICmr 54 decision
-    <https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=>
+    <https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.htmlcontext=1;query=auq%20MR22/00538%20;mask_path=>
 
 - Senate Community Affairs Legislation Committee testimony (9 October 2025):  
   <https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003>
