@@ -314,12 +314,19 @@ The comprehensive audit report includes:
 - Structured responses to likely counter‑arguments.  
 - Priority reform recommendations.
 
+  - [Implementation Status – TGA COVID‑19 Vaccine Safety Monitoring Plan (v1.5)](./Implementation_Status_TGA_COVID-19_Vaccine_Safety_Monitoring_Plan-REVISED_V1.5-Release.pdf)
+
 ### Supporting Documentation
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
 
-- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary (PowerPoint)** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.  
-- **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.  
+- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary (PowerPoint)** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.
+-  - [Safety Plan Implementation Audit – Summary Slides](./TGA_COVID-19-Safety-Plan-Implementation_Audit_Dec-25-FINAL_REVISED-V1.5-Release.pdf)-
+   
+- **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
+- - [TGA FOI and OAIC Analysis (2022–2025)](./TGA-FOI-Analysis-Dec-2025_REVISED_V1.5-Release.pdf)
+       
 - **Reference Documents** – TGA’s Safety Monitoring Plan (February 2021), Senate Community Affairs Legislation Committee transcripts (9 October 2025), AusPARs for Comirnaty and Spikevax.  
+
 - **Media Coverage** – investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi’s platform:  
   - “TGA’s vaccine safety black hole: A concerned citizen’s four‑year quest for answers”  
     <https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a>  
