@@ -319,13 +319,13 @@ The comprehensive audit report includes:
   - [Implementation Status – TGA COVID‑19 Vaccine Safety Monitoring Plan (v1.5)](./Implementation_Status_TGA_COVID-19_Vaccine_Safety_Monitoring_Plan-REVISED_V1.5-Release.pdf)
 
 ### Supporting Documentation
-[](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
+- [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
 
-- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary (PowerPoint)** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.
-  - [Safety Plan Implementation Audit – Summary Slides](./TGA_COVID-19-Safety-Plan-Implementation_Audit_Dec-25-FINAL_REVISED-V1.5-Release.pdf)
-   
+- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.
+- [TGA COVID‑19 Safety Plan Implementation Audit – Dec 2025 (v1.5)](./TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20V1.5.pdf)  
+
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
-  - [TGA FOI and OAIC Analysis (2022–2025)](./TGA-FOI-Analysis-Dec-2025_REVISED_V1.5-Release.pdf)
+  - [TGA FOI Analysis – Dec 2025 (v1.5)](./TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf)
        
 - **Reference Documents** – TGA’s Safety Monitoring Plan (February 2021), Senate Community Affairs Legislation Committee transcripts (9 October 2025), AusPARs for Comirnaty and Spikevax.  
 
