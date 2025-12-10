@@ -322,7 +322,7 @@ The comprehensive audit report includes:
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
 
 - **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.
-- [TGA COVID‑19 Safety Plan Implementation Audit – Dec 2025 (v1.5)](./TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20V1.5.pdf)  
+   - [TGA COVID‑19 Safety Plan Implementation Audit – Dec 2025 (v1.5)](./TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20V1.5.pdf)  
 
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
    - [TGA FOI Analysis – Dec 2025 (v1.5)](./TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf)
