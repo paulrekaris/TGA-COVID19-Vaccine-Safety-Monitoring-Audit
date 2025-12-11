@@ -249,8 +249,11 @@ Key sources include:
 
 - Australian Public Assessment Reports and related releases:  
   - Comirnaty AusPAR (transition to full registration):  
-    <https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf>  
+    <https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf>
 
+- Sparke Helmore case note on *‘AUQ’ and Department of Health and Aged Care* (AICmr 54) – summary of the OAIC FOI review and “reasonable search” findings:
+  https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/
+    
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding.
 
 
