@@ -57,7 +57,6 @@ TGA corporate performance reports reviewed to identify any Plan‑related output
 - 2023–24 Performance Report: <https://www.tga.gov.au/sites/default/files/2025-03/tga-performance-report-2023-24.pdf>
 
 ## Information Commissioner material
-
   - 2025 AICmr 54 decision (‘AUQ’ and Department of Health and Aged Care’):  
     https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
