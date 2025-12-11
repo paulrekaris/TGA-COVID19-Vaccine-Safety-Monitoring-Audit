@@ -443,8 +443,8 @@ This work builds on four years of systematic FOI requests, Information Commissio
 
 Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaboration on investigative reporting that brought these issues to wider public attention.
 
-**Last updated:** 11 December 2025  
-**Version:** 1.5  
+**Last updated:** 12 December 2025  
+**Version:** 1.5.1  
 **Status:** Publication‑ready for open‑repository release
 
 
