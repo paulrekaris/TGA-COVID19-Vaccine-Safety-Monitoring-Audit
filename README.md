@@ -229,9 +229,6 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
 ### Evidence Sources
 
-
-Key sources include:
-
 - Australian COVID‑19 Vaccination Policy – commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA” through a National COVID‑19 Vaccine Pharmacovigilance Plan
   <https://www.health.gov.au/sites/default/files/documents/2020/11/australian-covid-19-vaccination-policy.docx>
 
