@@ -203,7 +203,7 @@ This audit applies systematic principles drawn from:
 
 **Regulatory frameworks applied**
 
-- *Therapeutic Goods Act 1989* (provisional‑approval requirements).  
+- *Therapeutic Goods Act 1989* (provisional approval provisions) and TGA's provisional registration guidance documents
 - TGA guidance on provisional approval pathways and Risk Management Plans.  
 - Australian Regulatory Guidelines for Prescription Medicines (ARGPM).  
 - International pharmacovigilance standards: ICH E2E, CIOMS, EMA GVP Module I.  
