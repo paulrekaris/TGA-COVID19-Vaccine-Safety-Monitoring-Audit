@@ -245,13 +245,13 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
   Database of Adverse Event Notifications (DAEN), weekly COVID‑19 vaccine safety reports, and published regulatory decisions.
 
 - **FOI responses**  
-  - FOI 3643 (2022) – refusal of an “implementation report” for the COVID‑19 Vaccine Safety Monitoring Plan.  
-  - FOI 25‑0166 (2025) – 399 Plan‑aligned documents identified across 12 document categories but not processed under practical‑refusal provisions.
+- FOI 3643 (2022) – refusal of an “implementation report” for the COVID‑19 Vaccine Safety Monitoring Plan.  
+- FOI 25‑0166 (2025) – 399 Plan‑aligned documents identified across 12 document categories but not processed under practical‑refusal provisions.
 
 - **Information Commissioner material**  
-  - OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).  
-  - 2025 AICmr 54 decision (‘AUQ’ and Department of Health and Aged Care):  
-    https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
+- OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).  
+- 2025 AICmr 54 decision (‘AUQ’ and Department of Health and Aged Care):  
+  https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 - **Senate Community Affairs Legislation Committee testimony (9 October 2025)**  
   https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
