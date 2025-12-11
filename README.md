@@ -232,9 +232,13 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
 Key sources include:
 
-- TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan:  
-  <https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf>  
+- Australian COVID‑19 Vaccination Policy – commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA”. [link]<https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy> [web:611]
 
+- TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan:  
+  <https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf>
+
+  - AusVaxSafety – Active and enhanced vaccine safety surveillance for COVID‑19 vaccines in Australia – describes AusVaxSafety as operating “as part of the national COVID‑19 Vaccine Pharmacovigilance Plan, led by the TGA and the Australian    Government”, complementing TGA and state/territory spontaneous reporting systems. <https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia> [web:634]
+    
 - TGA public databases and publications:  
   Database of Adverse Event Notifications (DAEN), weekly safety reports, regulatory decisions.
 
@@ -257,8 +261,7 @@ Key sources include:
 - Sparke Helmore case note on *‘AUQ’ and Department of Health and Aged Care* (AICmr 54) – summary of the OAIC FOI review and “reasonable search” findings:
   https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/
     
-All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding.
-
+All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
 ## Enhanced Evidence Gathering for Version 1.5
 
