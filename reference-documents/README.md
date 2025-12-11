@@ -6,7 +6,8 @@ This folder contains key source documents referenced in the audit assessment.
 
   https://www.health.gov.au/sites/default/files/documents/2020/11/australian-covid-19-vaccination-policy.docx  
   Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA” through a national COVID‑19 Vaccine Pharmacovigilance Plan.
-
+  https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy?language=en)
+  
 ### TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)
 
 TGA’s published COVID‑19 Vaccine Safety Monitoring Plan (February 2021). This is the primary source document against which implementation was assessed.
