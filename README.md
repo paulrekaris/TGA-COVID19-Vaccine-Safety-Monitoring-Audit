@@ -4,9 +4,8 @@
 ## Executive Summary
 
 
-Between February 2021 and July 2023, approximately 68 million COVID‑19 vaccine doses (94% of the total rollout) were administered under provisional approval in Australia. Provisional approval under the Therapeutic Goods Act 1989 allows reduced pre-market evidence when usual evidentiary requirements cannot be met due to public-health urgency. TGA implemented enhanced post-market monitoring as a policy commitment to provide additional public assurance during this provisional period.
+Between February 2021 and July 2023, approximately 68 million COVID‑19 vaccine doses (94% of the total rollout) were administered under provisional approval in Australia. Provisional approval under the Therapeutic Goods Act 1989 allows reduced pre‑market evidence when usual evidentiary requirements cannot be met due to public‑health urgency, and TGA’s own provisional‑registration guidance specifies that provisionally registered medicines are subject to enhanced post‑market monitoring and additional pharmacovigilance conditions. TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan set out 20 specific outputs across 17 numbered strategies as its operational implementation of this enhanced‑monitoring expectation for COVID‑19 vaccines.
 
-In February 2021, the Therapeutic Goods Administration (TGA) published a COVID‑19 Vaccine Safety Monitoring Plan setting out 20 specific outputs across 17 numbered strategies to deliver this enhanced pharmacovigilance during an unprecedented vaccination programme.
 
 This independent audit provides the first systematic assessment of whether TGA implemented that Plan in a way that can be **demonstrated through documentation**. After four years of Freedom of Information (FOI) requests and structured evidence review, the findings reveal major documentation gaps that prevent verification of enhanced‑monitoring implementation and of compliance with provisional‑approval requirements.
 
