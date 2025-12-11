@@ -230,12 +230,14 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 ### Evidence Sources
 
 - Australian COVID‑19 Vaccination Policy – commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA” through a National COVID‑19 Vaccine Pharmacovigilance Plan
+
 <https://www.health.gov.au/sites/default/files/documents/2020/11/australian-covid-19-vaccination-policy.docx>
 
 - TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan:  
   <https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf>
 
 - AusVaxSafety – Active and enhanced vaccine safety surveillance for COVID‑19 vaccines in Australia – describes AusVaxSafety as operating “as part of the national COVID‑19 Vaccine Pharmacovigilance Plan, led by the TGA and the Australian    Government”, complementing TGA and state/territory spontaneous reporting systems.
+
 <https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia>
     
 - TGA public databases and publications:  
@@ -248,6 +250,7 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 - Information Commissioner material:  
   - OAIC MR22/00538 and MR25/01153 (reviews and directed searches).  
   - 2025 AICmr 54 decision
+  
   <https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.htmlcontext=1;query=auq%20MR22/00538%20;mask_path=>
 
 - Senate Community Affairs Legislation Committee testimony (9 October 2025):  
@@ -255,9 +258,11 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
 - Australian Public Assessment Reports and related releases:  
   - Comirnaty AusPAR (transition to full registration):  
+  
   <https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf>
 
 - Sparke Helmore case note on *‘AUQ’ and Department of Health and Aged Care* (AICmr 54) – summary of the OAIC FOI review and “reasonable search” findings:
+
   <https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/>
     
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. key sources are also provided as PDF files in the `references/` folder for archival and offline use.
