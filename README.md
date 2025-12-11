@@ -306,7 +306,7 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 ### Main Assessment Report
 
-- [Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (V1.5)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.pdf) 
+[Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (V1.5.1)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)
 
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (Version 1.5, December 2025)**
 
@@ -325,7 +325,7 @@ The comprehensive audit report includes:
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
 
 - **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.
- - [TGA COVID-19 Safety Plan Implementation Audit slides (Dec 25, Final V1.5.1)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
+ - [TGA COVID-19 Safety Plan Implementation Audit slides (Dec 25 Final V1.5.1)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
 
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
    - [TGA FOI Analysis – Dec 2025 (v1.5)](./TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf)
