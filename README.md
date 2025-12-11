@@ -353,7 +353,7 @@ Major enhancements in v1.5 include:
 
 This assessment has been provided to multiple oversight bodies:
 
-- **Australian National Audit Office (ANAO)** – submitted 27 November 2024, requesting a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions.  
+- **Australian National Audit Office (ANAO)** – submitted 27 November 2025, requesting a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions.  
 - **Senate Community Affairs Legislation Committee** – provided to members to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025.  
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision.  
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
