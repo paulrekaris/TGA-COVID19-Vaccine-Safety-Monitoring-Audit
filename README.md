@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-**New to this audit?** Start with the [**Frequently Asked Questions (FAQ)**](FAQ.md) for a complete overview in 15 minutes.
+**New to this audit?** Start with the [**Frequently Asked Questions (FAQ)**](FAQ.md) 
 
 **Visual Summary:** [Audit Summary Presentation (Dec 2025)](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
 
