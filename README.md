@@ -1,5 +1,14 @@
 # TGA COVID‑19 Vaccine Safety Monitoring Plan – Implementation Audit
 
+## Quick Start
+
+**📖 New to this audit?** Start with the [**Frequently Asked Questions (FAQ)**](FAQ.md) for a complete overview in 15 minutes.
+
+**📄 Full Audit Report:** [Documentation Gap Analysis v1.5.1](link-to-your-pdf)
+
+**🔗 Permanent Archive:** https://doi.org/10.5281/zenodo.17731054
+
+---
 
 ## Executive Summary
 
