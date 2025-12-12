@@ -349,21 +349,23 @@ The comprehensive audit report includes:
   - “Stairs to nowhere: TGA’s vanishing vaccine safety monitoring trail”  
     <https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing>
 
-### Version 1.5: What’s New
+## Version History
 
+**Current Version:** 1.5.1 (December 2025)
 
-Major enhancements in v1.5 include:
+### Version 1.5.1
+- Additional policy context documentation
+- Enhanced repository navigation (Quick Start section and FAQ)
 
-- **Provisional‑approval verification gap analysis** – comprehensive new section examining legislation, guidance, OAIC search results and AusPARs.  
-- **Stricter evidence hierarchy** – recalculated implementation ratings at output level, reducing “fully implemented” findings from 5 to 3.  
-- **AusVaxSafety case study** – detailed comparison of active‑surveillance performance and absence of documented integration with TGA processes.  
-- **ANAO audit integration** – situating pharmacovigilance within broader COVID‑19 governance while clarifying what ANAO did not examine.  
-- **Structured counter‑arguments** – explicit responses to common objections (e.g. reliance on generic SOPs, expert committees, FOI decisions).  
-- **Refined recommendations** – reordered and strengthened reform priorities (governance, records management, independent audit).
-
+### Version 1.5.0 (Major Update)
+- Provisional approval verification gap analysis – comprehensive examination of legislation, guidance, OAIC search results and AusPARs
+- Stricter evidence hierarchy – recalculated implementation ratings, reducing "fully implemented" findings from 5 to 3
+- AusVaxSafety case study – detailed analysis of active surveillance performance and absence of documented TGA integration
+- ANAO audit integration – situating pharmacovigilance within broader COVID-19 governance while clarifying scope limitations
+- Structured counter-arguments – explicit responses to common objections (generic SOPs, expert committees, FOI decisions)
+- Refined recommendations – reordered and strengthened reform priorities (governance, records management, independent audit)
 
 ## Oversight and Accountability
-
 
 This assessment has been provided to multiple oversight bodies:
 
@@ -400,7 +402,7 @@ This work is free to use, share and adapt with appropriate attribution. The open
 
 ### Citation
 
-> Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5). [Zenodo record](https://doi.org/10.5281/zenodo.17731054)
+> Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5.1). [Zenodo record](https://doi.org/10.5281/zenodo.17731054)
 
 
 ## Disclaimer and Declaration
