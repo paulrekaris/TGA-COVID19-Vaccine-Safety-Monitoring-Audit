@@ -22,7 +22,7 @@ Between February 2021 and late June 2023, more than 68 million COVID‑19 vaccin
 
 This independent audit provides the first systematic assessment of whether TGA implemented that Plan in a way that can be **demonstrated through documentation**. After four years of Freedom of Information (FOI) requests and structured evidence review, the findings reveal major documentation gaps that prevent verification of enhanced‑monitoring implementation and of compliance with provisional‑approval requirements.
 
-> **Central problem:** TGA cannot demonstrate, on the documentary record, that it systematically implemented the enhanced monitoring framework it promised, raising fundamental questions about regulatory accountability during Australia’s largest medical intervention in history.
+> **Central problem:** TGA cannot demonstrate, on the documentary record, that it systematically implemented the Cabinet‑endorsed enhanced safety monitoring framework set out in the Australian COVID‑19 Vaccination Policy, raising fundamental questions about regulatory accountability during Australia’s largest medical intervention.
 
 
 ## The Investigation: Four Years of FOI Requests
