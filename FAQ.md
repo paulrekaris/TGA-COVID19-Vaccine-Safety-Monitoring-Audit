@@ -545,10 +545,6 @@ I'm a policy analyst and consultant with 30 years' professional experience acros
 
 I'm conducting this investigation in my personal capacity as a private citizen, not on behalf of any organisation or political group.
 
-# Frequently Asked Questions
-
-cation of my findings.
-
 ---
 
 ## Additional Resources
