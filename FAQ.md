@@ -1,10 +1,12 @@
-## How to Navigate This Audit
+# How to Navigate This Audit
 
-**Where to start:**
+**If you're starting from the README:** You're in the right place. Continue reading below.
+
+**Where to start in this FAQ:**
 
 **5 minutes:** Read "At a Glance" (below) for complete summary
 
-**15 minutes:** Read full FAQ for detailed Q&A
+**15-20 minutes:** Browse full FAQ for detailed Q&A
 
 **Full evidence:** [Main Audit Report](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) (110 pages) with full references. All key documents, FOI correspondence, Senate testimony, and supporting materials in [reference-documents](reference-documents) folder.
 
@@ -18,12 +20,6 @@
 **Everything is freely accessible at:**
 - GitHub: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - DOI: https://doi.org/10.5281/zenodo.17731054
-
-# Frequently Asked Questions: TGA COVID-19 Vaccine Safety Monitoring Audit
-
-**Last updated:** December 2025  
-**FAQ Version:** 1.1  
-**Audit Report Version:** 1.5.1
 
 ---
 
