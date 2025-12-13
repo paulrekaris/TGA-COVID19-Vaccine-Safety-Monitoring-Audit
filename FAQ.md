@@ -1,3 +1,24 @@
+## How to Navigate This Audit
+
+**Where to start:**
+
+**15 minutes:** Read "At a Glance" (below) for complete summary
+
+**30 minutes:** Read this FAQ for detailed Q&A
+
+**Full evidence:** Main audit report (110 pages) including primary source material and full references. All key documents and supporting materials in reference folder in repository.
+
+## Quick Reference Packs
+
+- **Audit Findings** (PPT) - four documentation gaps and what TGA cannot demonstrate
+- **FOI Journey** (PPT) - timeline of FOI process and TGA's contradictory responses
+
+**Purpose:** Briefing materials for sharing key findings quickly
+
+**Everything is accessible at:**
+- GitHub: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+- DOI: https://doi.org/10.5281/zenodo.17731054
+
 # Frequently Asked Questions: TGA COVID-19 Vaccine Safety Monitoring Audit
 
 **Last updated:** December 2025  
