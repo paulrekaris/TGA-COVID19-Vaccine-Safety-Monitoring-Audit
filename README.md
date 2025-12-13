@@ -6,7 +6,7 @@
 
 Start with the [**Frequently Asked Questions (FAQ)**](FAQ.md) 
 
-**Visual Summary:** [Audit Summary Presentation (Dec 2025)](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
+**Visual Summary:** [Audit Summary Presentation](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
 
 **Full Audit Report:** [Documentation Gap Analysis](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)
 
