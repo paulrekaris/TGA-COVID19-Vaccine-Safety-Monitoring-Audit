@@ -101,6 +101,7 @@ All audit reports, timelines and source documents are fully public and permanent
 Around 15 minutes is sufficient to grasp the main findings and their implications.
 
 ---
+# Frequently Asked Questions 
 
 ## Part 1: Understanding the Issue
 
