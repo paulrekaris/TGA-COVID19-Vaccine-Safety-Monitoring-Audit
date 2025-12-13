@@ -163,9 +163,9 @@ On 13 November 2020, National Cabinet endorsed the Australian COVID-19 Vaccinati
 
 In February 2021, TGA published the COVID-19 Vaccine Safety Monitoring Plan as the operational implementation of the Cabinet commitment. It specified 20 outputs across 5 strategic areas with 17 numbered sub-activities, defining the enhanced monitoring framework required for provisionally approved vaccines. This was published as a formal plan, not internal guidance.
 
-### Q6: What was AusVaxSafety's role?
+### Q6: What was AusVaxSafety's enhanced role?
 
-AusVaxSafety publicly positioned itself as operating "as part of the national COVID-19 Vaccine Pharmacovigilance Plan, led by the TGA." This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Active surveillance through AusVaxSafety was intended to be the "enhanced" component distinguishing this monitoring from routine pharmacovigilance.
+The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly committed to collaboration with AusVaxSafety for SMS-based active surveillance as the “enhanced” monitoring component required under Cabinet-endorsed policy. This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Despite this scale of active surveillance data collection, TGA cannot demonstrate systematic integration of AusVaxSafety findings into signal detection and regulatory decision-making processes.
 
 ### Q7: How many doses were affected?
 
