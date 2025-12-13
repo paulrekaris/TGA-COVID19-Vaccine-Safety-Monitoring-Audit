@@ -52,17 +52,17 @@ Only 3 of 20 plan outputs (15%) fully documented; no evidence of systematic trac
 
 ## What TGA Cannot Demonstrate
 
-**Regulatory Obligations**  
-TGA cannot produce documentation showing it met provisional‑approval monitoring requirements under Cabinet‑endorsed policy, Australian law and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
+**Regulatory Obligations**
+TGA cannot produce documentation showing it met provisional-approval monitoring requirements under Cabinet-endorsed policy, Australian law and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
 
-**Official Confirmation**  
+**Official Confirmation**
 The Information Commissioner confirmed that implementation records for the Plan could not be found after searches of 531 TRIM folders and more than 2,200 pages.
 
-**Senate Admission**  
-TGA officials admitted monitoring was "never systematically tracked" against Plan objectives and characterised it as "day‑to‑day processes".
+**Senate Admission**
+TGA officials admitted monitoring was "never systematically tracked" against Plan objectives and characterised it as "day-to-day processes".
 
-**Independent Validation**  
-Independent legal commentary (Sparke Helmore) has highlighted the FOI contradictions and transparency issues arising from this record.
+**Legal Commentary**
+The OAIC decision has been noted in independent legal commentary (Sparke Helmore) and cited in parliamentary proceedings.
 
 ---
 
