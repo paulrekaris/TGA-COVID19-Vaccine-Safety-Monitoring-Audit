@@ -475,8 +475,7 @@ Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVI
 **Official Documents:**
 - Australian COVID-19 Vaccination Policy (November 2020): https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf
 - TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
-- OAIC Decision [2025] AICmr 54: Available through OAIC public register
-
+- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 ---
 
 **For queries or corrections:** Contact via GitHub repository issues or email provided in repository documentation.
