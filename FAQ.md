@@ -1,9 +1,5 @@
 # How to Navigate This Audit
 
-**If you're starting from the README:** You're in the right place. Continue reading below.
-
-**Where to start in this FAQ:**
-
 **5 minutes:** Read "At a Glance" (below) for complete summary
 
 **15-20 minutes:** Browse full FAQ for detailed Q&A
