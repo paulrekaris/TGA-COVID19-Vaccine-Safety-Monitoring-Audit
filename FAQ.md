@@ -1,7 +1,7 @@
 # Frequently Asked Questions: TGA COVID-19 Vaccine Safety Monitoring Audit
 
 **Last updated:** December 2025  
-**FAQ Version:** 1.0  
+**FAQ Version:** 1.1  
 **Audit Report Version:** 1.5.1
 
 ---
