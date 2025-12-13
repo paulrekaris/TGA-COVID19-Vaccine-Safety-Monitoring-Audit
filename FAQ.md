@@ -27,7 +27,7 @@ Enhanced monitoring was a legal condition for provisional approval at population
 TGA published a COVID‑19 Vaccine Safety Monitoring Plan with 20 specific outputs to operationalise the Cabinet commitment.
 
 **Deployment Scale**  
-Around 26 million Australians received 73 million doses under this framework, with mandates and significant consequences for non‑compliance.
+Around 26 million Australians received 68 million doses under this framework, with mandates and significant consequences for non‑compliance.
 
 **AusVaxSafety Implementation**  
 Government‑funded active surveillance delivered 6.8 million SMS surveys, around 3 million adverse events and about 62,000 self‑reported medical visits.
