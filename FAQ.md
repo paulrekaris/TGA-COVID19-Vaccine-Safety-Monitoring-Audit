@@ -466,7 +466,7 @@ Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVI
 ## Additional Resources
 
 **Related Publications:**
-- Rekaris, P. & Sladden, J (2025). "TGA's vaccine safety black hole - a battle for transparency." *Maryanne Demasi Substack*, May 2025.
+- Rekaris, P. & Sladden, J (2025). "TGA's vaccine safety black hole - a battle for transparency." *Science, Public Health Policy and the Law*, May 2025.
 - Rekaris, P. & Sladden, J (2025). "Stairs to Nowhere: TGA's vanishing promise of safety monitoring." *Science, Public Health Policy and the Law*, November 2025.
 
 **Independent Legal Analysis:**
