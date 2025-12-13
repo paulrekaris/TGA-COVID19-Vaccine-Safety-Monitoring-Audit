@@ -448,7 +448,7 @@ For enquiries regarding:
 - Collaboration on regulatory‑transparency research  
 - Media enquiries  
 
-**Email:** [paulrekaris@gmail.com](mailto:paulrekaris@gmail.com)
+**Email:** [prekas23@gmail.com](mailto:prekas23@gmail.com)
 
 
 ## Acknowledgements
