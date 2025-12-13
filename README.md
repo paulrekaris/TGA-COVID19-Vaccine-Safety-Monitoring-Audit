@@ -456,7 +456,7 @@ For enquiries regarding:
 
 This work builds on four years of systematic FOI requests, Information Commissioner reviews and engagement with parliamentary oversight processes. Thanks are due to those who provided guidance on FOI procedures, regulatory frameworks and academic standards for transparency research.
 
-Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaboration on investigative reporting that brought these issues to wider public attention.
+Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** and others for collaboration on investigative reporting that brought these issues to wider public attention.
 
 **Last updated:** 12 December 2025  
 **Version:** 1.5.1  
