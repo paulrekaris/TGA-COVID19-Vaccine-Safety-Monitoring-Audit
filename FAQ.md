@@ -6,21 +6,86 @@
 
 ---
 
-## Quick Summary
+# At a Glance
 
-**What:** Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation
+## The Promise
 
-**Finding:** Only 15% of Plan outputs fully documented; Information Commissioner confirmed implementation records don't exist
+**Cabinet Commitment (November 2020)**  
+National Cabinet endorsed "active and comprehensive" COVID‑19 vaccine safety monitoring, to be delivered through TGA's COVID‑19 Vaccine Pharmacovigilance Plan.
 
-**Scale:** 26 million Australians, 73 million doses, government mandates with severe consequences
+**Why It Mattered**  
+Enhanced post‑market monitoring was the regulatory safeguard that justified provisional, rather than standard, approval (less pre‑market evidence, faster access) and underpinned government mandates affecting employment, travel and social participation.
 
-**Problem:** Enhanced monitoring was the legal condition for provisional approval and justification for mandates—but cannot be verified through documentation
+**Regulatory Requirement**  
+Enhanced monitoring was a legal condition for provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty.
 
-**Status:** Under review by OAIC, Ombudsman, ANAO, and Senate Committee
+---
 
-**Evidence:** Fully public and permanently archived
+## The Plan
 
-**Read time:** 15 minutes for full understanding
+**TGA's Safety Monitoring Plan (February 2021)**  
+TGA published a COVID‑19 Vaccine Safety Monitoring Plan with 20 specific outputs to operationalise the Cabinet commitment.
+
+**Deployment Scale**  
+Around 26 million Australians received 73 million doses under this framework, with mandates and significant consequences for non‑compliance.
+
+**AusVaxSafety Implementation**  
+Government‑funded active surveillance delivered 6.8 million SMS surveys, around 3 million adverse events and about 62,000 self‑reported medical visits.
+
+---
+
+## The Gap – Four Missing Documentation Streams
+
+**Signal Management**  
+No audit trail showing how individual safety signals were evaluated or linked to specific regulatory decisions.
+
+**Provisional Approval Verification**  
+No records demonstrating that enhanced monitoring conditions were assessed and met for quarterly extensions and eventual full registration.
+
+**AusVaxSafety–TGA Integration**  
+No systematic documentation of how 6.8 million surveys and ~3 million adverse events were integrated into TGA pharmacovigilance workflows.
+
+**Performance Reporting**  
+Only 3 of 20 plan outputs (15%) fully documented; no evidence of systematic tracking against plan objectives.
+
+---
+
+## What TGA Cannot Demonstrate
+
+**Regulatory Obligations**  
+TGA cannot produce documentation showing it met provisional‑approval monitoring requirements under Cabinet‑endorsed policy, Australian law and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
+
+**Official Confirmation**  
+The Information Commissioner confirmed that implementation records for the Plan could not be found after searches of 531 TRIM folders and more than 2,200 pages.
+
+**Senate Admission**  
+TGA officials admitted monitoring was "never systematically tracked" against Plan objectives and characterised it as "day‑to‑day processes".
+
+**Independent Validation**  
+Independent legal commentary (Sparke Helmore) has highlighted the FOI contradictions and transparency issues arising from this record.
+
+---
+
+## The Core Problem
+
+**Regulatory Justification**  
+Enhanced monitoring was both the regulatory justification for provisional approval and the public‑health justification for mandates – yet it cannot be verified through documentation.
+
+**Why It Matters**  
+If the enhanced monitoring promised to Cabinet, Parliament and the public cannot be evidenced, the regulatory and policy framework for Australia's largest deployment of provisionally approved medicines rested on an unverifiable assurance, despite Australia formally adopting international pharmacovigilance standards.
+
+---
+
+## Oversight and Evidence
+
+**Current Status**  
+The matter is now before the OAIC, the Commonwealth Ombudsman, the Australian National Audit Office and a Senate committee.
+
+**Evidence Base**  
+All audit reports, timelines and source documents are fully public and permanently archived at DOI: [10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
+
+**Read Time**  
+Around 15 minutes is sufficient to grasp the main findings and their implications.
 
 ---
 
@@ -30,7 +95,7 @@
 
 This audit assesses whether Australia's Therapeutic Goods Administration (TGA) systematically implemented the COVID-19 Vaccine Safety Monitoring Plan it published in February 2021. This Plan operationalised a National Cabinet-endorsed policy commitment requiring "active and comprehensive" post-market safety monitoring for COVID-19 vaccines administered under provisional approval.
 
-### Q2: What did you find?
+### Q2: What did I find?
 
 Only 15% of the Plan's 20 specified outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as "day-to-day processes" that were "never systematically tracked" against Plan objectives.
 
@@ -92,7 +157,7 @@ AusVaxSafety publicly positioned itself as operating "as part of the national CO
 
 68 million doses were administered during the provisional approval period when this three-tier monitoring framework (Cabinet policy → TGA Plan → AusVaxSafety delivery) was supposed to be operating. This represents approximately 94% of Australia's COVID-19 vaccine rollout.
 
-### Q7A: What was the context for this vaccine deployment?
+### Q8: What was the context for this vaccine deployment?
 
 **Unprecedented Scale:**
 - **26 million Australians** vaccinated (approximately 96% of eligible population)
@@ -177,7 +242,7 @@ If 26 million Australians:
 
 ## Part 3: What's Missing
 
-### Q8: What records are missing?
+### Q9: What records are missing?
 
 Four critical categories of documentation cannot be located:
 
@@ -200,7 +265,7 @@ Four critical categories of documentation cannot be located:
 - Oversight mechanisms for monitoring framework
 - Systematic tracking of Plan implementation
 
-### Q9: How extensive is the documentation gap?
+### Q10: How extensive is the documentation gap?
 
 Assessment of the Plan's 20 specified outputs shows:
 - **15% fully documented** (3 of 20 outputs)
@@ -209,7 +274,7 @@ Assessment of the Plan's 20 specified outputs shows:
 
 Critical gaps exist in signal detection protocols, multi-source data integration frameworks, governance oversight, and verification documentation for provisional approval conditions.
 
-### Q10: What should exist if implementation occurred as designed?
+### Q11: What should exist if implementation occurred as designed?
 
 International pharmacovigilance standards (ICH E2E, CIOMS) that TGA formally adopted require:
 
@@ -225,11 +290,11 @@ For provisional approval specifically, enhanced monitoring must be demonstrable 
 
 ## Part 4: Independent Verification
 
-### Q11: How do you know records are missing (not just withheld)?
+### Q12: How do you know records are missing (not just withheld)?
 
 The Australian Information Commissioner conducted extensive searches in response to FOI requests and issued a formal decision ([2025] AICmr 54) confirming that TGA implementation records for the Plan do not exist. This finding resulted from OAIC-directed searches conducted by two senior TGA officers covering 531 TRIM containers and reviewing 2,218+ pages. This is not FOI obstruction—the Commissioner independently verified through departmental searches that the records are genuinely absent.
 
-### Q12: What did the Information Commissioner find?
+### Q13: What did the Information Commissioner find?
 
 In decision [2025] AICmr 54 (March 2025), the Australian Information Commissioner:
 - Directed extensive TGA searches covering 531 TRIM containers
@@ -238,7 +303,7 @@ In decision [2025] AICmr 54 (March 2025), the Australian Information Commissione
 - Found no systematic tracking of Plan objectives
 - Validated that requested records are genuinely absent, not merely withheld
 
-### Q13: What did TGA tell the Senate?
+### Q14: What did TGA tell the Senate?
 
 In testimony to the Senate Community Affairs Legislation Committee on 9 October 2025, TGA senior officials stated:
 
@@ -248,7 +313,7 @@ In testimony to the Senate Community Affairs Legislation Committee on 9 October 
 - They are "very happy to receive FOI requests" whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
 
-### Q14: Has this been independently verified by others?
+### Q15: Has this been independently verified by others?
 
 Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent legal analysis of the OAIC case (AUQ and Department of Health and Aged Care). The case has been cited in legal, parliamentary, and media contexts. The matter is currently before multiple oversight bodies: the Australian Information Commissioner (review MR25/01153), Commonwealth Ombudsman (complaint submitted), Australian National Audit Office (audit requested), and Senate Community Affairs Legislation Committee (parliamentary referral).
 
@@ -256,11 +321,11 @@ Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent 
 
 ## Part 5: The Details
 
-### Q15: How many safety signals were investigated?
+### Q16: How many safety signals were investigated?
 
 TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory actions. However, 91 signals (62%) have no documented disposition or decision criteria. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
 
-### Q16: What's the AusVaxSafety integration gap?
+### Q17: What's the AusVaxSafety integration gap?
 
 Despite AusVaxSafety's public positioning as operating "as part of" the TGA-led national pharmacovigilance plan:
 
@@ -272,7 +337,7 @@ Despite AusVaxSafety's public positioning as operating "as part of" the TGA-led 
 
 Active surveillance was supposed to distinguish this monitoring from routine pharmacovigilance, but systematic integration cannot be demonstrated through documentation.
 
-### Q17: What international standards weren't met?
+### Q18: What international standards weren't met?
 
 TGA formally adopted ICH E2E (Pharmacovigilance Planning) and CIOMS (signal management) standards but cannot demonstrate compliance:
 
@@ -288,7 +353,7 @@ TGA formally adopted ICH E2E (Pharmacovigilance Planning) and CIOMS (signal mana
 
 The absence of implementation records, audit trails, and systematic tracking indicates non-compliance with these internationally recognised standards that Australia formally adopted.
 
-### Q18: What percentage of Plan outputs are documented?
+### Q19: What percentage of Plan outputs are documented?
 
 Of the Plan's 20 specified outputs assessed:
 
@@ -311,13 +376,13 @@ Of the Plan's 20 specified outputs assessed:
 
 ## Part 6: Addressing Objections
 
-### Q19: Couldn't TGA have done the monitoring without formal tracking?
+### Q20: Couldn't TGA have done the monitoring without formal tracking?
 
 No. Provisional approval legally requires enhanced monitoring **beyond** routine surveillance with demonstrable verification. The term "enhanced" implies something additional to standard processes. Describing this as "day-to-day processes" that were "never systematically tracked" contradicts the enhanced monitoring requirement. 
 
 Without separate tracking, audit trails, and verification documentation, compliance with provisional approval conditions cannot be proven. The absence of systematic tracking means there's no way to distinguish between routine surveillance (which exists for all medicines) and the enhanced monitoring that was the specific condition for provisional approval of these vaccines.
 
-### Q20: Isn't this just a documentation problem, not a safety problem?
+### Q21: Isn't this just a documentation problem, not a safety problem?
 
 The audit assesses whether TGA can demonstrate through documentation that promised enhanced monitoring was systematically implemented. Documentation is how regulatory compliance is verified—it's not optional or separate from the substantive work.
 
@@ -325,7 +390,7 @@ The absence of implementation records, combined with official confirmation that 
 
 This is a fundamental governance and accountability failure, not merely poor record-keeping.
 
-### Q21: Why does it matter if vaccines were approved elsewhere?
+### Q22: Why does it matter if vaccines were approved elsewhere?
 
 Australian provisional approval is a distinct regulatory pathway with its own legal requirements. The specific condition was that TGA would conduct enhanced monitoring beyond routine surveillance as outlined in the Cabinet-endorsed policy and published Plan.
 
@@ -333,7 +398,7 @@ Whether other countries approved these vaccines under their own regulatory frame
 
 International approvals cannot substitute for demonstrable compliance with Australia's own provisional approval conditions.
 
-### Q22: Maybe TGA just has poor record-keeping?
+### Q23: Maybe TGA just has poor record-keeping?
 
 Poor record-keeping would be a serious regulatory failure in itself, but the evidence suggests something more systemic:
 
@@ -346,9 +411,9 @@ This pattern indicates not poor record-keeping, but an absence of the systematic
 
 ---
 
-## Part 7: What Happens Next
+## Part 7: What Happens Next?
 
-### Q23: What oversight processes are underway?
+### Q24: What oversight processes are underway?
 
 **Australian Information Commissioner:**
 - Review MR25/01153 ongoing
@@ -368,7 +433,7 @@ This pattern indicates not poor record-keeping, but an absence of the systematic
 
 All oversight bodies have access to the complete audit evidence through public GitHub repository and permanent Zenodo archive.
 
-### Q24: What would close this audit gap?
+### Q25: What would close this audit gap?
 
 TGA could refute these findings by producing the implementation documentation that the Information Commissioner's extensive searches could not locate:
 
@@ -380,7 +445,7 @@ TGA could refute these findings by producing the implementation documentation th
 
 If these records exist, producing them would immediately resolve the documented gap. The audit methodology is fully falsifiable—the findings can be refuted if TGA provides the implementation documentation.
 
-### Q25: How can people access the evidence?
+### Q26: How can people access the evidence?
 
 All evidence, methodology, and findings are open source and permanently archived:
 
