@@ -4,7 +4,7 @@
 
 **15-20 minutes:** Browse full FAQ for detailed Q&A
 
-**Full evidence:** [Main Audit Report](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) with full references. All key documents, FOI correspondence, Senate testimony, and primary source materials in [reference-documents](reference-documents) folder.
+**Full evidence:** [Main Audit Report](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) with full references. All key documents, Senate testimony and primary source materials in [reference-documents](reference-documents) folder.
 
 ## Quick Reference Packs and Supporting Materials 
 
