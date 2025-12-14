@@ -8,7 +8,7 @@
 
 - **Full evidence**  
   - **[Main Audit Report: Documentation Gap Analysis](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.  
-  - **[reference-documents folder](reference-documents/)** – All key documents, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
+  - **[reference-documents folder](reference-documents/)** – All key documents, saftey plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
 
 ### Quick Reference Packs and Supporting Materials
 
@@ -20,52 +20,6 @@ Use these for briefings, presentations, or quick sharing.
 Everything is freely accessible at:
 - GitHub: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit  
 - DOI (permanent archive): https://doi.org/10.5281/zenodo.17731054
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# How to Navigate This Audit
-
-**5 minutes:** Read "At a Glance" (below) for complete summary
-
-**15-20 minutes:** Browse full FAQ for detailed Q&A
-
-**Full evidence:** [Main Audit Report](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) with full references. All key documents, Senate testimony and primary source materials in [reference-documents](reference-documents) folder.
-
-## Quick Reference Packs and Supporting Materials 
-
-- [Audit Findings Summary](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf) - implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate
-- [FOI Journey Analysis](TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf) - timeline of FOI process and TGA's contradictory responses
-
-**Use these for briefings, presentations, or quick sharing**
-
-**Everything is freely accessible at:**
-- GitHub: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
-- DOI: https://doi.org/10.5281/zenodo.17731054
 
 ---
 
