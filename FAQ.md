@@ -8,7 +8,7 @@
 
 ## Quick Reference Packs and Supporting Materials 
 
-- [Audit Findings Summary](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf) - four documentation gaps and what TGA cannot demonstrate
+- [Audit Findings Summary](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf) - implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate
 - [FOI Journey Analysis](TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf) - timeline of FOI process and TGA's contradictory responses
 
 **Use these for briefings, presentations, or quick sharing**
