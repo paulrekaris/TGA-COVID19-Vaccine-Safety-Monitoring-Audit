@@ -19,18 +19,17 @@ This README contains the narrative executive summary and overview. Key findings 
 
 ## Quick Start
 
-New to this audit? Start here:
+**New to this audit?**
 
-- **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** – Orientation, methodology, limitations, and how to verify or challenge the findings.
-- **[Visual Summary: Audit Summary Presentation](docs/TGA-COVID19-Safety-Monitoring-Plan-Audit-Summary.pdf)** – Slide-style overview of key findings and gaps.
-- **[Main Audit Report: Documentation Gap Analysis](docs/TGA-COVID19-Safety-Monitoring-Plan-Implementation-Status-Assessment-Report.pdf)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
-- **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
+Start with the [**Frequently Asked Questions (FAQ)**](FAQ.md)
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report: Documentation Gap Analysis](docs/TGA-COVID19-Safety-Monitoring-Plan-Implementation-Status-Assessment-Report.pdf)**.
+**Visual Summary:** [Audit Summary Presentation](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
 
+**Full Audit Report:** [Documentation Gap Analysis v1.5.1](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)
 
+**Permanent Archive:** https://doi.org/10.5281/zenodo.17731054
 
-
+This README contains the narrative executive summary and overview. Key findings and audit results including references are in the Full Audit Report 
 
 
 
