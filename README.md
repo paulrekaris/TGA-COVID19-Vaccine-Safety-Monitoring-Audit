@@ -356,9 +356,9 @@ The comprehensive audit report includes:
 
 ## Version History
 
-**Current Version:** 1.6.0 (December 2025)
+### Current Version: 1.6.0 (December 2025)
 
-Added comprehensive FAQ with "At a Glance" summary, navigation guide, and 31 detailed Q&A. Enhanced accessibility with quick reference sections for visual summaries and organized primary sources.
+- Added comprehensive FAQ with "At a Glance" summary, navigation guide, and 31 detailed Q&A. Enhanced accessibility with quick reference sections for visual summaries and organized primary sources.
 
 ### Version 1.5.1
 - Additional policy context documentation
