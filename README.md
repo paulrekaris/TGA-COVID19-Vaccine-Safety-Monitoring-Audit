@@ -17,6 +17,42 @@ This README contains the narrative executive summary and overview. Key findings 
 
 ---
 
+## Quick Start
+
+New to this audit? Start here:
+
+- **Frequently Asked Questions (FAQ)** – Orientation, methodology, limitations, and how to verify or challenge the findings.
+- **Visual Summary: Audit Summary Presentation** – Slide-style overview of key findings and gaps.
+- **Main Audit Report: Documentation Gap Analysis** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
+- **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
+
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **Main Audit Report: Documentation Gap Analysis**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Executive Summary
 
 On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to post‑market safety monitoring of COVID‑19 vaccines by the TGA and flagged the need for dedicated pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan translated this policy setting into a national COVID‑19 Vaccine Pharmacovigilance Plan, specifying 20 outputs across 17 numbered strategies spanning AEFI collection, signal detection, data integration, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
