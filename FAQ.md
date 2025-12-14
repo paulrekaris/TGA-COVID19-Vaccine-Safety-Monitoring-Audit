@@ -455,7 +455,7 @@ All oversight bodies have access to the complete audit evidence through public G
 
 ### Q25: What would close this audit gap?
 
-TGA could refute these findings by producing the implementation documentation that the Information Commissioner's extensive searches could not locate:
+TGA could refute these findings by producing the implementation documentation that the extensive searches ordered by the Information Commissioner could not locate:
 
 - Systematic tracking records showing Plan outputs were delivered as designed
 - Audit trails linking safety signals to disposition decisions with documented criteria
