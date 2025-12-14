@@ -312,7 +312,7 @@ For provisional approval specifically, enhanced monitoring must be demonstrable 
 
 ### Q12: How do you know records are missing (not just withheld)?
 
-The Australian Information Commissioner conducted extensive searches in response to FOI requests and issued a formal decision ([2025] AICmr 54) confirming that TGA implementation records for the Plan do not exist. This finding resulted from OAIC-directed searches conducted by two senior TGA officers covering 531 TRIM containers and reviewing 2,218+ pages. This is not FOI obstruction—the Commissioner independently verified through departmental searches that the records are genuinely absent.
+The Australian Information Commissioner requsted extensive searches in response to FOI requests and issued a formal decision ([2025] AICmr 54) confirming that TGA implementation records for the Plan do not exist. This finding resulted from OAIC-directed searches conducted by two senior TGA officers covering 531 TRIM containers and reviewing 2,218+ pages. This is not FOI obstruction—the Commissioner independently verified through departmental searches that the records are genuinely absent.
 
 ### Q13: What did the Information Commissioner find?
 
@@ -328,7 +328,7 @@ In decision [2025] AICmr 54 (March 2025), the Australian Information Commissione
 In testimony to the Senate Community Affairs Legislation Committee on 9 October 2025, TGA senior officials stated:
 
 - Implementation was conducted as "day-to-day processes"
-- Monitoring was "never systematically tracked" against Plan objectives
+- Monitoring was never systematically tracked against Plan objectives
 - A "vast volume" of documents exists but cannot demonstrate the Plan was delivered as designed
 - They are "very happy to receive FOI requests" whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
