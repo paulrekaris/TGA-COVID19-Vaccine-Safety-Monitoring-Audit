@@ -13,7 +13,8 @@ This is the primary, self‑contained report”
 
 **Permanent Archive:** https://doi.org/10.5281/zenodo.17731054
 
-This README contains the narrative executive summary; key findings and audit results incluidng references are in the Full Audit Report PDF
+This README contains the narrative executive summary; key findings and audit results including references are in the Full Audit Report PDF<img width="468" height="44" alt="image" src="https://github.com/user-attachments/assets/8f70ecb2-50f0-42a4-8bca-ee501d1d5b91" />
+
 ---
 
 ## Executive Summary
