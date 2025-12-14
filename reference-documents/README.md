@@ -37,7 +37,7 @@ Provisional‑approval processes were benchmarked against comparable frameworks 
 ### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
 Available at: <https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf>
 
-Formal bilateral agreement between Commonwealth and Victoria establishing governance framework for vaccine rollout. Demonstrates that COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation—reinforcing audit finding that enhanced monitoring was not routine business but required systematic framework with traceable records.
+Formal bilateral agreement between Commonwealth and Victoria establishing governance framework for vaccine rollout. Demonstrates that COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation—reinforcing audit finding that enhanced monitoring was not routine business but required systematic framework with traceable records. This directly contradicts Senate testimony by senior TGA officials (9 October 2024) claiming monitoring was managed through "day-to-day processes" rather than systematic tracking against plan objectives.
 
 ### Senate Community Affairs Legislation Committee testimony transcript excerpts
 
