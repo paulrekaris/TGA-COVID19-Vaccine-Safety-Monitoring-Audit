@@ -12,8 +12,7 @@ New to this audit? Start here:
 
 - **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **Main Audit Report: Documentation Gap Analysis**.
-
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references are in the **[Main Audit Report: Documentation Gap Analysis](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)**
 
 ## Executive Summary
 
