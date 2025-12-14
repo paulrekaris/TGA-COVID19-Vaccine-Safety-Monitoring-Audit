@@ -76,7 +76,7 @@ TGA cannot produce documentation showing it met provisional-approval monitoring 
 The Information Commissioner confirmed that implementation records for the Plan could not be found after searches of 531 TRIM folders and more than 2,200 pages.
 
 **Senate Admission**
-TGA officials admitted monitoring was "never systematically tracked" against Plan objectives and characterised it as "day-to-day processes".
+TGA officials admitted monitoring was never systematically tracked against Plan objectives and characterised it as "day-to-day processes".
 
 **Legal Commentary**
 The OAIC decision has been noted in independent legal commentary (Sparke Helmore) and cited in parliamentary proceedings.
