@@ -34,6 +34,11 @@ Provisional‑approval processes were benchmarked against comparable frameworks 
   Available at: <https://www.ausvaxsafety.org.au/vaccine-safety-data/covid-19-vaccines>  
   > Active, SMS‑based post‑vaccination surveillance data for COVID‑19 vaccines in Australia, including cumulative counts of invitations sent, responses received, self‑reported adverse events and medical‑attendance rates. Used in this audit for estimates of approximately 6.8 million survey responses, ~3 million adverse‑event reports and ~62,000 reports of medical attention.
 
+### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
+Available at: <https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf>
+
+Formal bilateral agreement between Commonwealth and Victoria establishing governance framework for vaccine rollout. Demonstrates that COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation—reinforcing audit finding that enhanced monitoring was not routine business but required systematic framework with traceable records.
+
 ### Senate Community Affairs Legislation Committee testimony transcript excerpts
 
 Senate Community Affairs Legislation Committee testimony (9 October 2025) where TGA officials confirmed that implementation of the Safety Monitoring Plan was “never systematically tracked” by Plan objective, described monitoring as “day‑to‑day processes”, and reported 148 signals investigated and 57 regulatory actions.
