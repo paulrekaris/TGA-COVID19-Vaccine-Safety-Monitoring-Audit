@@ -173,7 +173,9 @@ The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly c
 
 ### Q7: How many doses were affected?
 
-68 million doses were administered during the provisional approval period when this three-tier monitoring framework (Cabinet policy → TGA Plan → AusVaxSafety delivery) was supposed to be operating. This represents approximately 94% of Australia's COVID-19 vaccine rollout.
+68 million doses were administered during the provisional approval period when this multi-tier monitoring framework was supposed to be operating: Cabinet policy → Commonwealth-State implementation agreements → TGA Safety Monitoring Plan → AusVaxSafety delivery. This represents approximately 94% of Australia's COVID-19 vaccine rollout.
+
+Victoria's Commonwealth-State implementation agreement (signed 19 February 2021, concurrently with TGA's Safety Monitoring Plan) established formal governance structures for vaccine rollout requiring documented implementation processes. This directly contradicts Senate testimony by senior TGA officials (9 October 2024) claiming safety monitoring was managed through "day-to-day processes" rather than systematic tracking against plan objectives—reinforcing the audit's central finding that enhanced monitoring required formal frameworks with traceable records, not ad hoc administration.
 
 ### Q8: What was the context for this vaccine deployment?
 
