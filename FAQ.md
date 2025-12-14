@@ -398,7 +398,7 @@ Of the Plan's 20 specified outputs assessed:
 
 ### Q20: Couldn't TGA have done the monitoring without formal tracking?
 
-No. Provisional approval legally requires enhanced monitoring **beyond** routine surveillance with demonstrable verification. The term "enhanced" implies something additional to standard processes. Describing this as "day-to-day processes" that were "never systematically tracked" contradicts the enhanced monitoring requirement. 
+No. Provisional approval legally requires enhanced monitoring **beyond** routine surveillance with demonstrable verification. The term "enhanced" implies something additional to standard processes. Describing this as "day-to-day processes" that were never systematically tracked contradicts the enhanced monitoring requirement. 
 
 Without separate tracking, audit trails, and verification documentation, compliance with provisional approval conditions cannot be proven. The absence of systematic tracking means there's no way to distinguish between routine surveillance (which exists for all medicines) and the enhanced monitoring that was the specific condition for provisional approval of these vaccines.
 
@@ -406,7 +406,7 @@ Without separate tracking, audit trails, and verification documentation, complia
 
 The audit assesses whether TGA can demonstrate through documentation that promised enhanced monitoring was systematically implemented. Documentation is how regulatory compliance is verified—it's not optional or separate from the substantive work.
 
-The absence of implementation records, combined with official confirmation that monitoring was "never systematically tracked," means the verification framework for provisional approval conditions has failed. If enhanced monitoring cannot be documented, it cannot be verified. If it cannot be verified, regulatory compliance cannot be proven.
+The absence of implementation records, combined with official confirmation that monitoring was never systematically tracked, means the verification framework for provisional approval conditions has failed. If enhanced monitoring cannot be documented, it cannot be verified. If it cannot be verified, regulatory compliance cannot be proven.
 
 This is a fundamental governance and accountability failure, not merely poor record-keeping.
 
