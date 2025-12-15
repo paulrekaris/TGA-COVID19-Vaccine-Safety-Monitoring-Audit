@@ -172,7 +172,7 @@ Without governance and performance‑measurement records:
 - There is no way to verify that enhanced‑monitoring objectives were achieved.  
 - Oversight bodies cannot assess whether provisional‑approval conditions were systematically monitored and enforced.
 
-## From "Molecule to Market" to Enhanced Safety Monitoring:The Teaching-Practice Gap
+## From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
 
 In October 2021, during the peak of the provisional approval period, senior TGA officials from the Pharmacovigilance and Special Access Branch delivered a webinar to Master of Pharmacy students at UTS as part of the "Molecule to Market" capstone subject. The subject traces a medicinal product's complete journey from discovery through development, manufacturing, market launch, and regulatory oversight.
 
