@@ -393,6 +393,38 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 
 The problem is straightforward: **TGA made commitments to 26 million Australians about enhanced, documented safety monitoring. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional‑approval frameworks.
 
+## Licence and Citation
+
+### Licence
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+This work is free to use, share and adapt with appropriate attribution. The open licence is intentional: regulatory‑accountability research should be freely accessible. You are encouraged to build on this methodology, replicate the approach, and use these findings in advocacy, research or oversight activities.
+
+Full license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+### Citation
+
+When citing this work, please use:
+
+**Recommended citation:**
+
+Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan*, December 2025 (Version 1.6.0). Zenodo. https://doi.org/10.5281/zenodo.17731054
+
+**BibTeX:**
+```bibtex
+@misc{rekaris2025tga,
+  author = {Rekaris, Paul},
+  title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
+  month = {December},
+  year = {2025},
+  version = {1.6.0},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.17731054},
+  url = {https://doi.org/10.5281/zenodo.17731054}
+}
+```
+
 
 ## Licence and Citation
 
