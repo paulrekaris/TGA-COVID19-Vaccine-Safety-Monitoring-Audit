@@ -90,7 +90,7 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 TGA presented COVID-19 Vaccine Safety Monitoring Plan as the overarching framework aiming to "enhance rapid detection, investigation and response" through five defined key strategies
 Details structured system including AEFI reporting channels, workflow databases, communication processes and Adverse Event Management System
-Senior TGA officials from Pharmacovigilance and Special Access Branch (Vicky Dong and Shabnam Sharan) teaching Master of Pharmacy students at UTS as part of "Molecule to Market" capstone subject
+Senior TGA officials from Pharmacovigilance and Special Access Branch teaching Master of Pharmacy students at UTS as part of "Molecule to Market" capstone subject
 Delivered during peak provisional approval period (October 2021, approximately 68% of eventual doses already administered)
 Contemporaneous representation (October 2021) contrasts with October 2025 Senate testimony by senior TGA officials describing monitoring as "day-to-day processes" never systematically tracked
 Official curriculum materials used for formal regulatory education about TGA processes
