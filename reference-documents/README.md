@@ -71,8 +71,6 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 ## TGA Pharmacovigilance Teaching Materials (October 2021)
 
-**File:** `webinar-presentation-pharmacovigilance-regulators-perspective.pdf`
-
 **Presenters:** Vicky Dong and Shabnam Sharan, Pharmacovigilance and Special Access Branch, Medicines Regulation Division, Therapeutic Goods Administration
 
 **Event:** UTS "Molecule to Market" webinar series (Master of Pharmacy capstone subject), University of Technology Sydney
