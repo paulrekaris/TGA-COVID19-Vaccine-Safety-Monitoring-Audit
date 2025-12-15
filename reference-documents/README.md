@@ -100,4 +100,5 @@ Contemporaneous representation (October 2021) contrasts with October 2025 Senate
 Official curriculum materials used for formal regulatory education about TGA processes
 
 **Significance:**
+
 Demonstrates TGA's own public characterisation of the Safety Monitoring Plan as a structured governance framework during the rollout period, presented by senior officials from the Pharmacovigilance Branch to Master of Pharmacy students as part of formal regulatory education. The teaching context strengthens the significance of the contradiction: these were not casual public statements but formal professional education by the officials responsible for vaccine safety monitoring, teaching future pharmacy professionals how TGA's enhanced monitoring framework operated. The absence of implementation records and later characterisation as "day-to-day processes" raises questions about what pharmacy professionals were taught versus what was actually implemented and documented.
