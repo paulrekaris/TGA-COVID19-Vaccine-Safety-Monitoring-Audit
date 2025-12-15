@@ -353,7 +353,11 @@ The comprehensive audit report includes:
 
 ## Version History
 
-### Current Version: 1.6.0 (December 2025)
+### Current Version: 1.6.1 (December 2025)
+
+Added TGA October 2021 teaching presentation given at UTS describing Safety Monitoring Plan as "overarching framework" for enhanced monitoring, and reference to Commonwealth-state governance framework requiring Statements of Assurance that relied on systematic safety monitoring documentation. No changes to overall audit findings.
+
+## Version: 1.6.0
 
 - Added comprehensive FAQ with "At a Glance" summary, navigation guide, and 31 detailed Q&A. Enhanced accessibility with quick reference sections for visual summaries and organized primary sources.
 
@@ -418,7 +422,7 @@ Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COV
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
   month = {December},
   year = {2025},
-  version = {1.6.0},
+  version = {1.6.1},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -478,7 +482,7 @@ This work builds on four years of systematic FOI requests, Information Commissio
 Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaboration on investigative reporting that brought these issues to wider public attention.
 
 **Last updated:** 14 December 2025  
-**Version:** 1.6.0
+**Version:** 1.6.1
 **Status:** Publication‑ready for open‑repository release
 
 
