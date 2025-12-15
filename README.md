@@ -426,21 +426,6 @@ Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COV
 ```
 
 
-## Licence and Citation
-
-
-### Licence
-
-
-**Creative Commons Attribution 4.0 International (CC BY 4.0)**
-
-This work is free to use, share and adapt with appropriate attribution. The open licence is intentional: regulatory‑accountability research should be freely accessible. You are encouraged to build on this methodology, replicate the approach, and use these findings in advocacy, research or oversight activities.
-
-### Citation
-
-> Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan, December 2025* (Version 1.5.1). [Zenodo record](https://doi.org/10.5281/zenodo.17731054)
-
-
 ## Disclaimer and Declaration
 
 
