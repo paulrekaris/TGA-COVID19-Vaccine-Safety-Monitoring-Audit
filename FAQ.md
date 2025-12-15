@@ -79,7 +79,7 @@ The Information Commissioner confirmed that implementation records for the Plan 
 TGA officials admitted monitoring was never systematically tracked against Plan objectives and characterised it as "day-to-day processes".
 
 **Legal Commentary**
-The OAIC decision has been noted in independent legal commentary (Sparke Helmore) and cited in parliamentary proceedings.
+The OAIC decision has been noted in independent legal commentary (Sparke Helmore).
 
 ---
 
