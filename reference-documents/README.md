@@ -69,5 +69,20 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
 
+## TGA Pharmacovigilance Teaching Materials (October 2021)
 
+**File:** `webinar-presentation-pharmacovigilance-regulators-perspective.pdf`
 
+**Source:** Therapeutic Goods Administration, *Pharmacovigilance – a regulator's perspective* (webinar presentation, UTS "Molecule to Market", 13 October 2021)
+
+**Link:** https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilance-regulators-perspective.pdf
+
+**Key points:**
+
+- TGA teaching materials prepared during peak provisional approval period (October 2021) for regulatory training at UTS
+- Describes COVID-19 Vaccine Safety Monitoring Plan as the "overarching framework" for "enhanced" COVID-19 vaccine safety monitoring
+- Presents structured system supported by AEFI reporting channels, workflow databases and Adverse Event Management System
+- Contemporaneous representation contrasts with October 2024 Senate testimony describing "day-to-day processes" never systematically tracked
+- Official TGA materials used for external regulatory education and stakeholder engagement
+
+**Significance:** Demonstrates TGA's own public characterization of the Safety Monitoring Plan as a structured governance framework during the rollout period, raising questions about the contradiction with later testimony and absence of implementation records.
