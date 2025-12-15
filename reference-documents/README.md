@@ -81,8 +81,6 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **Source:** Therapeutic Goods Administration, *Pharmacovigilance – a regulator's perspective* (webinar presentation, UTS "Molecule to Market", 13 October 2021)
 
-**Link:** https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilance-regulators-perspective.pdf
-
 **Context:**
 
 - Delivered by senior TGA officials from the Pharmacovigilance and Special Access Branch to Master of Pharmacy students at UTS
