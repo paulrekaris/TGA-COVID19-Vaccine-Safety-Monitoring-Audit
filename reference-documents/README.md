@@ -73,16 +73,31 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **File:** `webinar-presentation-pharmacovigilance-regulators-perspective.pdf`
 
+**Presenters:** Vicky Dong and Shabnam Sharan, Pharmacovigilance and Special Access Branch, Medicines Regulation Division, Therapeutic Goods Administration
+
+**Event:** UTS "Molecule to Market" webinar series (Master of Pharmacy capstone subject), University of Technology Sydney
+
+**Date:** 13 October 2021
+
 **Source:** Therapeutic Goods Administration, *Pharmacovigilance – a regulator's perspective* (webinar presentation, UTS "Molecule to Market", 13 October 2021)
 
 **Link:** https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilance-regulators-perspective.pdf
 
+**Context:**
+
+- Delivered by senior TGA officials from the Pharmacovigilance and Special Access Branch to Master of Pharmacy students at UTS
+- Part of "Molecule to Market" capstone subject integrating knowledge of medicinal product journey from discovery through regulatory approval
+- Formal professional education about TGA regulatory processes, including COVID-19 vaccine safety monitoring
+- Prepared during peak provisional approval period (October 2021, approximately 68% of COVID-19 vaccine doses already administered)
+
 **Key points:**
 
-- TGA teaching materials prepared during peak provisional approval period (October 2021) for regulatory training at UTS
 - Describes COVID-19 Vaccine Safety Monitoring Plan as the "overarching framework" for "enhanced" COVID-19 vaccine safety monitoring
 - Presents structured system supported by AEFI reporting channels, workflow databases and Adverse Event Management System
-- Contemporaneous representation contrasts with October 2024 Senate testimony describing "day-to-day processes" never systematically tracked
-- Official TGA materials used for external regulatory education and stakeholder engagement
+- Senior TGA pharmacovigilance officials teaching future pharmacy professionals how TGA's COVID-19 vaccine safety monitoring framework operated
+- Contemporaneous representation (October 2021) contrasts with October 2024 Senate testimony by senior TGA officials describing "day-to-day processes" never systematically tracked
+- Official curriculum materials used for Master's level regulatory education
 
-**Significance:** Demonstrates TGA's own public characterization of the Safety Monitoring Plan as a structured governance framework during the rollout period, raising questions about the contradiction with later testimony and absence of implementation records.
+**Significance:** 
+
+Demonstrates TGA's own public characterisation of the Safety Monitoring Plan as a structured governance framework during the rollout period, presented by senior officials from the Pharmacovigilance Branch to Master of Pharmacy students as part of formal regulatory education. The teaching context strengthens the significance of the contradiction: these were not casual public statements but formal professional education about how TGA's enhanced monitoring framework operated. The absence of implementation records and later characterisation as "day-to-day processes" raises questions about what pharmacy professionals were taught versus what was actually implemented and documented.
