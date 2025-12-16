@@ -226,6 +226,51 @@ Taken together, the scale of provisional use (68 million doses), the absence of 
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
+### Enhanced Monitoring as Defined by the Plan
+
+The COVID-19 Vaccine Safety Monitoring Plan (February 2021) is the authoritative source for what "enhanced monitoring" means in this context. This Plan was:
+
+* **Cabinet-endorsed as part of Australia's national COVID-19 vaccination policy rollout**
+* Publicly promised to Australian citizens as the framework for provisional approval oversight
+* Embedded in national vaccination policy as the documented commitment for heightened safety surveillance
+* A legal condition of provisional approval for vaccines with incomplete pre-market data
+
+**This Cabinet endorsement elevated the Plan from agency guidance to formal government commitment**, making enhanced monitoring a documented promise to Australian citizens: earlier vaccine access in exchange for demonstrably stronger post-market safeguards.
+
+The Plan defines "enhanced monitoring" explicitly: 17 numbered strategies across five objectives designed to "strengthen the existing vaccine vigilance system." These 17 strategies constitute the operational definition of what TGA committed to deliver beyond business-as-usual surveillance.
+
+This audit uses the Plan's own framework as the standard. When we ask whether "enhanced monitoring" was implemented, we mean: were these specific 17 strategies operationalised with verifiable documentation?
+
+### The Audit Question
+
+This audit does not question whether safety monitoring occurred. The TGA conducted pharmacovigilance activities during the rollout, investigating 148 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
+
+The audit question is whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes beyond these activities.
+
+The Plan's 17 strategies included:
+* Active surveillance through AusVaxSafety integration (Strategy 2.1)
+* Systematic collaboration frameworks (Strategy 2.4)
+* Integrated analysis of multiple data sources
+* Product-specific investigation protocols
+* Dedicated governance and performance tracking
+
+For provisionally approved medicines, implementing these strategies was a non-negotiable condition of approval: earlier public access was granted in exchange for demonstrably stronger post-market safeguards.
+
+Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalised through dedicated protocols and audit trails? Was AusVaxSafety's active surveillance systematically integrated with TGA signal management, as Strategies 2.1 and 2.4 required? Was implementation tracked and governed, or—consistent with later descriptions of "day-to-day processes"—were these strategies **not implemented as distinct, systematically tracked processes with dedicated governance and audit trails**?
+
+### Why This Matters
+
+This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which legally required enhanced monitoring. If the Plan's 17 strategies cannot be distinguished in the documentary record, then:
+
+* Provisional approval conditions cannot be verified as met
+* Public assurances of heightened oversight are unsubstantiated
+* The integrity of the provisional approval pathway is compromised
+* Fundamental accountability is impaired
+
+This assessment does not critique pharmacovigilance activities that occurred. It examines whether the 17 additional strategies legally required and publicly promised in February 2021 were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+
+## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
+
 **Enhanced Monitoring as Defined by the Plan**
 
 The COVID-19 Vaccine Safety Monitoring Plan (February 2021) is the authoritative source for what "enhanced monitoring" means in this context. This Plan was:
