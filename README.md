@@ -224,7 +224,6 @@ This citizen audit is intended to help fill that oversight gap by providing:
 
 Taken together, the scale of provisional use (68 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
 
-```markdown
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
 ### Enhanced Monitoring as Defined by the Plan
