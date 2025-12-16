@@ -187,15 +187,16 @@ Without governance and performance‑measurement records:
 - There is no way to verify that enhanced‑monitoring objectives were achieved.  
 - Oversight bodies cannot assess whether provisional‑approval conditions were systematically monitored and enforced.
 
-## From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
+### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
 
 In October 2021, during the peak of the provisional approval period, senior TGA officials from the Pharmacovigilance and Special Access Branch delivered a webinar to Master of Pharmacy students at UTS as part of the "Molecule to Market" capstone subject. The subject traces a medicinal product's complete journey from discovery through development, manufacturing, market launch, and regulatory oversight.
 
-In these teaching materials, TGA presented COVID-19 vaccine safety monitoring as a structured, enhanced system, with the COVID-19 Vaccine Safety Monitoring Plan described as the overarching framework for rapid detection, investigation and response to suspected adverse events, supported by AEFI reporting channels, workflow databases and the Adverse Event Management System.
+In these teaching materials, TGA presented COVID-19 vaccine safety monitoring as a structured, enhanced system, with the COVID-19 Vaccine Safety Monitoring Plan described as the overarching framework for rapid detection, investigation and response to suspected adverse events, supported by AEFI reporting channels, workflow databases and the Adverse Event Management System. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021))*
 
-Three years later, in October 2025 Senate Estimates, senior TGA officials testified that the Plan was managed through ‘day‑to‑day processes’ and indicated that implementation was not systematically tracked against its objectives. OAIC decision AICmr54 accepted TGA’s ‘no implementation report held’ position after comprehensive MR2200538 searches, which found no Plan‑specific implementation or governance records in TRIM.
+Three years later, in October 2025 Senate Estimates, senior TGA officials testified that the Plan was managed through 'day‑to‑day processes' and indicated that implementation was not systematically tracked against its objectives. OAIC decision AICmr54 accepted TGA's 'no implementation report held' position after comprehensive MR2200538 searches, which found no Plan‑specific implementation or governance records in TRIM.
 
-**The contradiction:** Future pharmacy professionals were taught about a structured "enhanced" framework for COVID-19 vaccine safety monitoring, yet FOI and OAIC processes have not produced the coherent set of records (workplans, procedures, governance minutes, KPI tracking) that would demonstrate this framework was systematically implemented, governed and reported as described. The gap lies not in the existence of pharmacovigilance activity, but in the absence of documented evidence that these activities were organised and delivered as the "enhanced" monitoring framework taught to pharmacy students in October 2021.
+The gap: Future pharmacy professionals were taught about a structured "enhanced" framework for COVID-19 vaccine safety monitoring, yet FOI and OAIC processes have not produced the coherent set of records (workplans, procedures, governance minutes, KPI tracking) that would demonstrate this framework was systematically implemented, governed and reported as described. The gap lies not in the existence of pharmacovigilance activity, but in the absence of documented evidence that these activities were organised and delivered as the "enhanced" monitoring framework taught to pharmacy students in October 2021.
+
 
 ## ANAO audit history and the pharmacovigilance gap
 
