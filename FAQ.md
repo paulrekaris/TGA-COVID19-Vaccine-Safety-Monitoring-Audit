@@ -157,9 +157,9 @@ If TGA cannot verify the enhanced monitoring framework was systematically implem
 
 ### Q4: Is this assessment claiming that TGA did no safety monitoring for COVID-19 vaccines?
 
-No. This audit explicitly acknowledges that the TGA conducted substantial monitoring, publishing over 150 weekly safety reports, investigating 148 safety signals, and taking 57 regulatory actions. The competence of its routine pharmacovigilance system is not in question.
+No. This audit explicitly acknowledges that the TGA conducted substantial pharmacovigilance throughout the rollout, publishing over 150 weekly safety reports, investigating 148 safety signals, and taking 57 regulatory actions. The competence and output of its routine pharmacovigilance system is not in question.
 
-The audit examines whether these activities constituted the enhanced monitoring framework that was (a) a legal condition of provisional approval, and (b) explicitly promised in the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The core question is whether enhanced monitoring was systematically implemented and documented, not whether monitoring occurred.
+The audit examines whether these activities constituted the enhanced monitoring framework that was (a) a legal condition of provisional approval, and (b) explicitly promised in the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The core question is whether these activities can be shown—through documented protocols, coordination frameworks, governance structures, and audit trails—to have implemented the Plan's enhanced monitoring commitments as distinct, systematic processes beyond routine operations, not whether monitoring occurred.
 
 ### Q5: What is the difference between routine pharmacovigilance and enhanced safety monitoring?
 
