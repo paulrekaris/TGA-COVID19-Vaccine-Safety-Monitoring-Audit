@@ -14,6 +14,21 @@ New to this audit? Start here:
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references are in the **[Main Audit Report: Documentation Gap Analysis](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)**
 
+
+## Purpose
+
+This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 20 specified enhanced-pharmacovigilance outputs over four years (2021-2025).
+
+During Australia's largest medical intervention in history, approximately 68 million COVID-19 vaccine doses were administered under provisional approval. 
+This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified 
+through records, as required for an enhanced monitoring framework relied upon for provisional approval.
+
+**Intended for:** Parliamentary oversight, administrative review, accountability assessment, academic research, media investigation, and historical record.
+
+**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, 
+and international pharmacovigilance standards (ICH E2E, CIOMS).
+
+
 ## Executive Summary
 
 On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to post‑market safety monitoring of COVID‑19 vaccines by the TGA and flagged the need for dedicated pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan translated this policy setting into a national COVID‑19 Vaccine Pharmacovigilance Plan, specifying 20 outputs across 17 numbered strategies spanning AEFI collection, signal detection, data integration, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
