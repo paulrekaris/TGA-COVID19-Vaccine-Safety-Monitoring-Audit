@@ -17,7 +17,7 @@ From outside the agency, both scenarios produce identical outputs. Without clear
 
 ## **The Evidentiary Pattern: A Snapshot from the Peak**
 
-Consider this snapshot from the peak of the rollout: **October 2021**. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials presented their monitoring framework. What they showed was their **routine system**. The promised differentiators—like AusVaxSafety integration and the 17 specific strategies—were absent.
+Consider this snapshot from the peak of the rollout: **October 2021**. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials presented their monitoring framework. What they showed was their **routine system**. The promised differentiators—like AusVaxSafety integration and the 17 specific strategies—were absent. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
 
 **This wasn't a public speech; it was technical training for professionals.** If the "enhanced" framework wasn't visible there, in detailed operational training, where was it?
 
