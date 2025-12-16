@@ -9,7 +9,7 @@ The TGA committed to "enhanced safety monitoring" through its February 2021 Safe
 But the TGA's Senate testimony (9 October 2025) described this enhanced monitoring as embedded in **"day-to-day processes"** with no distinct tracking or documentation system. This characterisation blurs the essential boundary: if enhanced monitoring is indistinguishable from routine operations, how can anyone verify it occurred?
 
 The citizen's dilemma:
-- Routine pharmacovigilance happened (150+ reports, 148 signals, 57 actions)
+- Pharmacovigilance outputs were produced (150+ reports, 148 signals, 57 actions)
 - Enhanced monitoring was promised (Safety Plan's 17 numbered strategies)
 - But where's the line? Were routine activities actually enhanced? Or was enhanced monitoring simply routine operations relabelled?
 
