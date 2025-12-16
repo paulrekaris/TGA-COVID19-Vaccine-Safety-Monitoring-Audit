@@ -506,6 +506,20 @@ This work builds on four years of systematic FOI requests, Information Commissio
 
 Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaboration on investigative reporting that brought these issues to wider public attention.
 
+## Disclaimer
+
+This independent audit is conducted and published in the public interest, consistent with principles of open government, parliamentary oversight, and 
+citizen-led accountability. It examines institutional processes and documentary evidence related to the implementation of government policy and regulatory 
+frameworks. The purpose is to inform public and parliamentary understanding and to contribute to accountability and transparency in government administration.
+
+The audit does not attribute misconduct or wrongdoing to any individual, question the professional competence or integrity of officials, or suggest deliberate misrepresentation by any person or organisation. References to named individuals reflect standard documentation practices, citing who presented information in their official capacity as identified in public source materials.
+
+The focus is exclusively on identifying and analysing gaps between published frameworks and verifiable records—not on the actions or intentions of any individual or partner organisation.
+
+**Commitment to Accuracy:** If any inadvertent mischaracterisation of fact, evidence, or the position of any individual or entity is identified, it will be promptly reviewed and corrected. Feedback is welcomed via the project's GitHub repository.
+
+**Copyright & Fair Dealing:** The use of source materials, including Crown Copyright documents, is for the purpose of non-commercial research, criticism, review, and public interest analysis pursuant to fair dealing provisions of the Copyright Act 1968 (Cth).
+
 **Last updated:** 14 December 2025  
 **Version:** 1.6.1
 **Status:** Publication‑ready for open‑repository release
