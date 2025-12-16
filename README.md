@@ -226,28 +226,26 @@ Taken together, the scale of provisional use (68 million doses), the absence of 
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
-### Enhanced Monitoring as Defined by the Plan
+**Enhanced Monitoring as Defined by the Plan**
 
 The COVID-19 Vaccine Safety Monitoring Plan (February 2021) is the authoritative source for what "enhanced monitoring" means in this context. This Plan was:
 
-- **Cabinet-endorsed** as part of Australia's COVID-19 vaccine rollout strategy
-- **Publicly promised** to Australian citizens as the framework for provisional approval oversight
-- **Embedded in national vaccination policy** as the documented commitment for heightened safety surveillance
-- **A legal condition** of provisional approval for vaccines with incomplete pre-market data
+- Cabinet-endorsed as part of Australia's COVID-19 vaccine rollout strategy
+- Publicly promised to Australian citizens as the framework for provisional approval oversight
+- Embedded in national vaccination policy as the documented commitment for heightened safety surveillance
+- A legal condition of provisional approval for vaccines with incomplete pre-market data
 
-The Plan defines "enhanced monitoring" explicitly: **routine pharmacovigilance plus 17 numbered strategies** across five objectives designed to "strengthen the existing vaccine vigilance system." These 17 strategies constitute the operational definition of what TGA committed to deliver beyond business-as-usual surveillance.
+The Plan defines "enhanced monitoring" explicitly: 17 numbered strategies across five objectives designed to "strengthen the existing vaccine vigilance system." These 17 strategies constitute the operational definition of what TGA committed to deliver beyond business-as-usual surveillance.
 
-This audit uses the Plan's own framework as the standard. When we ask whether "enhanced monitoring" was implemented, we mean: were these specific 17 strategies operationalised with verifiable documentation, or were they indistinguishable from routine operations?
+This audit uses the Plan's own framework as the standard. When we ask whether "enhanced monitoring" was implemented, we mean: were these specific 17 strategies operationalised with verifiable documentation?
 
----
+**The Audit Question**
 
-### The Audit Question: Distinguishing Routine from Enhanced
+This audit does not question whether safety monitoring occurred. The TGA conducted pharmacovigilance activities during the rollout, investigating 148 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
 
-This audit does not question whether safety monitoring occurred. It examines the absence of verifiable documentation demonstrating that the Plan's **17 numbered strategies** were systematically implemented as enhancements to routine pharmacovigilance.
+The audit question is whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes beyond these activities.
 
-**Routine pharmacovigilance** constitutes the baseline, mandated surveillance for all medicines: spontaneous adverse event reporting (e.g. DAEN), signal detection, regulatory actions, sponsor reporting, and international data exchange. The TGA conducted these activities during the rollout, evidenced by 148 safety signals investigated and 57 regulatory actions documented. The TGA also published more than 150 weekly safety reports to communicate findings.
-
-**Enhanced safety monitoring**, as defined by the Plan, means routine pharmacovigilance **plus** the 17 specific strategies, including:
+The Plan's 17 strategies included:
 
 - Active surveillance through AusVaxSafety integration (Strategy 2.1)
 - Systematic collaboration frameworks (Strategy 2.4)
@@ -255,18 +253,21 @@ This audit does not question whether safety monitoring occurred. It examines the
 - Product-specific investigation protocols
 - Dedicated governance and performance tracking
 
-For provisionally approved medicines, implementing these additional strategies was a non-negotiable condition of approval: earlier public access was granted in exchange for demonstrably stronger post-market safeguards beyond routine operations.
+For provisionally approved medicines, implementing these strategies was a non-negotiable condition of approval: earlier public access was granted in exchange for demonstrably stronger post-market safeguards.
 
-**Therefore, this audit asks:** Were the Plan's 17 numbered strategies operationalised through dedicated protocols and audit trails? Was AusVaxSafety's active surveillance systematically integrated with TGA signal management, as Strategies 2.1 and 2.4 required? Was implementation tracked and governed, or—consistent with later descriptions of "day-to-day processes"—were these strategies operationally indistinguishable from routine pharmacovigilance?
+Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalised through dedicated protocols and audit trails? Was AusVaxSafety's active surveillance systematically integrated with TGA signal management, as Strategies 2.1 and 2.4 required? Was implementation tracked and governed, or—consistent with later descriptions of "day-to-day processes"—were these strategies operationally indistinguishable from ongoing pharmacovigilance activities?
 
-This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which legally required enhanced monitoring. If the Plan's 17 strategies cannot be distinguished from routine pharmacovigilance in the documentary record, then:
+**Why This Matters**
+
+This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which legally required enhanced monitoring. If the Plan's 17 strategies cannot be distinguished in the documentary record, then:
 
 - Provisional approval conditions cannot be verified as met
 - Public assurances of heightened oversight are unsubstantiated
 - The integrity of the provisional approval pathway is compromised
 - Fundamental accountability is impaired
 
-This assessment does not critique routine pharmacovigilance activities. It examines whether the **17 additional strategies** legally required and publicly promised in February 2021 were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+This assessment does not critique pharmacovigilance activities that occurred. It examines whether the 17 additional strategies legally required and publicly promised in February 2021 were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+
 
 ## The Challenge of Black Box Governance for Private Citizens
 
