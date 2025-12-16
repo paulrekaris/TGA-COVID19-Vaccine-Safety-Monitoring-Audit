@@ -78,6 +78,7 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 **Date:** 13 October 2021
 
 **Source:** Therapeutic Goods Administration, *Pharmacovigilance – a regulator's perspective* (webinar presentation, UTS "Molecule to Market", 13 October 2021)
+https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilance-regulators-perspective.pdf
 
 **Context:**
 
