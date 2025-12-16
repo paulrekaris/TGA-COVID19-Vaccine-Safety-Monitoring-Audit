@@ -221,6 +221,33 @@ This citizen audit is intended to help fill that oversight gap by providing:
 
 Taken together, the scale of provisional use (68 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
 
+## A Note on Routine Pharmacovigilance and Enhanced Safety Monitoring
+
+This audit does not question whether safety monitoring occurred. It examines the absence of verifiable audit documentation demonstrating that the COVID-19 Vaccine Safety Monitoring Plan was implemented as a discrete, enhanced framework, distinct from routine pharmacovigilance.
+Routine pharmacovigilance constitutes the baseline, mandated surveillance for all medicines: spontaneous adverse event reporting (e.g. DAEN), signal detection, regulatory actions, sponsor reporting, and international data exchange. The TGA clearly conducted these "business as usual" functions during the rollout, evidenced by more than 150 weekly safety reports, 148 safety signals investigated, and 57 regulatory actions.
+Enhanced safety monitoring is a higher standard, required when products are approved on limited pre-market data (such as under provisional approval) or deployed at unprecedented scale. It must systematically exceed routine operations through:
+
+- Dedicated resources and active surveillance (proactive data collection)
+- Documented integration of multiple data sources with clear coordination protocols
+- Product-specific investigation frameworks and governance
+- Performance measurement against defined objectives
+- Verifiable audit trails enabling independent confirmation that enhanced processes were applied
+
+The February 2021 COVID-19 Vaccine Safety Monitoring Plan explicitly promised "enhanced" monitoring, outlining a suite of strategies and activities across five objectives to "strengthen the existing vaccine vigilance system." These commitments—including proactive signal detection, systematic collaboration with AusVaxSafety, and integrated analysis of multiple data sources—describe a formal programme beyond routine operations.
+
+For provisionally approved medicines, this enhanced oversight is a non-negotiable condition of approval: earlier public access is granted in exchange for demonstrably stronger post-market safeguards.
+
+Therefore, this audit asks: Was the Plan's enhanced framework implemented as a distinct, verifiable system? Were its promised strategies operationalised through dedicated protocols and audit trails? Was AusVaxSafety's active surveillance systematically integrated with TGA signal management, as the Plan's collaboration and data-integration strategies required? Was implementation tracked and governed, or—consistent with later descriptions of "day-to-day processes"—was it operationally indistinguishable from routine work?
+
+This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which legally required enhanced monitoring. If the promised enhanced framework cannot be distinguished from routine pharmacovigilance in the documentary record, then:
+
+- Provisional approval conditions cannot be verified as met
+- Public assurances of heightened oversight are unsubstantiated
+- The integrity of the provisional approval pathway is compromised
+- Fundamental accountability is impaired
+
+This assessment does not critique routine pharmacovigilance. It examines whether the enhanced framework legally required and publicly promised in February 2021 was implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+
 ## Methodology and Evidence Base
 
 
