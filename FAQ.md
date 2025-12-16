@@ -1,4 +1,4 @@
-<img width="468" height="550" alt="image" src="https://github.com/user-attachments/assets/572d05c0-7c0c-492f-800f-b58ce2b77bde" />## How to Navigate This Audit
+## How to Navigate This Audit
 
 - **5 minutes**  
   Read **[At a Glance](#at-a-glance)** for a complete high-level summary.
