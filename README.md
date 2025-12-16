@@ -520,8 +520,8 @@ The focus is exclusively on identifying and analysing gaps between published fra
 
 **Copyright & Fair Dealing:** The use of source materials, including Crown Copyright documents, is for the purpose of non-commercial research, criticism, review, and public interest analysis pursuant to fair dealing provisions of the Copyright Act 1968 (Cth).
 
-**Last updated:** 14 December 2025  
-**Version:** 1.6.1
+**Last updated:** 16 December 2025  
+**Version:** 1.6.2
 **Status:** Publication‑ready for open‑repository release
 
 
