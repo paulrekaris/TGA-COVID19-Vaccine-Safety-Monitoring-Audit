@@ -86,6 +86,27 @@ https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilanc
 
 ---
 
+### Content Analysis
+
+**Slide 22: "How the TGA does this?"** - Detailed routine PV infrastructure:
+- Adverse Event Management System (AEMS) database
+- Database of Adverse Event Notifications (DAEN)
+- Daily review of serious adverse events
+- Weekly analysis for some vaccines (e.g. influenza)
+- Bimonthly Proportional Reporting Ratio (PRR) analysis
+- Safety issues tracked through workflow database
+
+**Slide 23: "PV in the times of COVID-19"** - References Safety Plan and lists aspirational strategies:
+- Timely collection and management of adverse event reports
+- Timely detection and investigation of safety signals
+- Timely action to address safety concerns
+- Timely communications to inform the public
+- Close collaboration with vaccine safety stakeholders
+
+**Slide 24:** Weekly COVID-19 vaccine safety reports shown as output
+
+**Pattern:** Detailed routine PV infrastructure presented (Slide 22), but COVID-19 slide (23) shows only aspirational strategies without operational distinction from that routine infrastructure.
+
 ### Key Fact: The Omission of AusVaxSafety
 
 The February 2021 COVID-19 Vaccine Safety Monitoring Plan explicitly designated the AusVaxSafety active surveillance system as a cornerstone of "enhanced" monitoring, critical for proactive signal detection and differentiating it from routine passive surveillance.
