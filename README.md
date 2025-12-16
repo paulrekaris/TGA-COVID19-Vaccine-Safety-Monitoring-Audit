@@ -245,7 +245,7 @@ This audit uses the Plan's own framework as the standard. When we ask whether "e
 
 This audit does not question whether safety monitoring occurred. It examines the absence of verifiable documentation demonstrating that the Plan's **17 numbered strategies** were systematically implemented as enhancements to routine pharmacovigilance.
 
-**Routine pharmacovigilance** constitutes the baseline, mandated surveillance for all medicines: spontaneous adverse event reporting (e.g. DAEN), signal detection, regulatory actions, sponsor reporting, and international data exchange. The TGA clearly conducted these activities during the rollout, evidenced by more than 150 weekly safety reports, 148 safety signals investigated, and 57 regulatory actions.
+**Routine pharmacovigilance** constitutes the baseline, mandated surveillance for all medicines: spontaneous adverse event reporting (e.g. DAEN), signal detection, regulatory actions, sponsor reporting, and international data exchange. The TGA conducted these activities during the rollout, evidenced by 148 safety signals investigated and 57 regulatory actions documented. The TGA also published more than 150 weekly safety reports to communicate findings.
 
 **Enhanced safety monitoring**, as defined by the Plan, means routine pharmacovigilance **plus** the 17 specific strategies, including:
 
