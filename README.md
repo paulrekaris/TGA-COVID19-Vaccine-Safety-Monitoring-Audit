@@ -327,15 +327,6 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
-## Enhanced Evidence Gathering for Version 1.5
-
-Version 1.5 strengthens the evidence base through:
-
-- **Systematic FOI and OAIC analysis** – detailed review of TGA decisions, correspondence and contradictions.  
-- **OAIC‑directed TRIM searches** – analysis of MR22/00538 results covering 531+ containers.  
-- **Structured online sweep** – reproducible searches of government and partner websites for Plan‑specific implementation documents outside FOI.  
-- **AusVaxSafety case study** – analysis of 6.8 million survey outputs and the absence of documented integration with TGA signal management.  
-- **Legislative framework analysis** – review of *Therapeutic Goods Act* provisions and TGA guidance on provisional‑approval verification.
 
 ## Limitations and Falsifiability
 
