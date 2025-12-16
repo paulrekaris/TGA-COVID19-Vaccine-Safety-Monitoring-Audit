@@ -248,6 +248,16 @@ This question is critical. Approximately 68 million COVID-19 vaccine doses (arou
 
 This assessment does not critique routine pharmacovigilance. It examines whether the enhanced framework legally required and publicly promised in February 2021 was implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
 
+## The Challenge of Black Box Governance for Private Citizens
+
+**Summary**
+
+This audit begins with a contradiction that defines its entire scope: The TGA promised a verifiable 'enhanced' system as a legal condition for provisional approval. Four years later, it described that system as undocumented 'day-to-day' processes. Our task is to investigate the gap between that promise and that description using the limited tools of a citizen. We confront the fundamental accountability problem of information asymmetry: regulators hold complete knowledge of internal processes while citizens see only outputs. When the TGA announced "enhanced safety monitoring," it created a definitional crisis: where does routine pharmacovigilance end and enhanced monitoring begin?
+
+For private citizens with limited resources, funding, and investigative powers, this creates an impossible research challenge. Yet patterns emerge that demand explanation—even when definitive proof remains beyond citizen reach.
+
+This audit employs transparent methodology: open access, version control, responsiveness to correction, and explicit limitations. It acknowledges inherent uncertainties while demonstrating what can be verified from outside the black box. Read more: Black Box Governance
+
 ## Methodology and Evidence Base
 
 
