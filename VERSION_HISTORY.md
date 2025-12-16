@@ -5,7 +5,7 @@
 **Major conceptual clarification:**
 - Added comprehensive "Routine Pharmacovigilance vs Enhanced Safety Monitoring" framework throughout document
 - New Section 1.3: Detailed explanation of routine vs enhanced monitoring distinction with regulatory context
-- Added "The Challenge of Black Box Governance for Private Citizens" methodology document addressing information asymmetry, epistemological challenges, and methodological constraints facing citizen auditors with limited investigative powers.
+- Added "The Challenge of Black Box Governance for Private Citizens" methodology document addressing information asymmetry, epistemological challenges, and methodological constraints facing citizen auditors with limited investigative powers. This provides a theoretical framework and epistemological justification for audit scope, constraints, and reasoning approach—allowing main report to focus on findings rather than methodological defense.
 - Enhanced Executive Summary with explicit scope clarification
 - Updated Conclusion to reinforce assessment scope and significance
 - Aligned README with main document framing
