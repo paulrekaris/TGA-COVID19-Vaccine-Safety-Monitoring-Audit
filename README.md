@@ -403,28 +403,6 @@ The comprehensive audit report includes:
   - “Stairs to nowhere: TGA’s vanishing vaccine safety monitoring trail”  
     <https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing>
 
-## Version History
-
-### Current Version: 1.6.1 (December 2025)
-
-Added TGA October 2021 teaching presentation given at UTS describing Safety Monitoring Plan as "overarching framework" for enhanced monitoring, and reference to Commonwealth-state governance framework requiring Statements of Assurance that relied on systematic safety monitoring documentation. No changes to overall audit findings.
-
-## Version: 1.6.0
-
-- Added comprehensive FAQ with "At a Glance" summary, navigation guide, and 31 detailed Q&A. Enhanced accessibility with quick reference sections for visual summaries and organized primary sources.
-
-### Version 1.5.1
-- Additional policy context documentation
-- Enhanced repository navigation (Quick Start section and FAQ)
-
-### Version 1.5.0 (Major Update)
-- Provisional approval verification gap analysis – comprehensive examination of legislation, guidance, OAIC search results and AusPARs
-- Stricter evidence hierarchy – recalculated implementation ratings, reducing "fully implemented" findings from 5 to 3
-- AusVaxSafety case study – detailed analysis of active surveillance performance and absence of documented TGA integration
-- ANAO audit integration – situating pharmacovigilance within broader COVID-19 governance while clarifying scope limitations
-- Structured counter-arguments – explicit responses to common objections (generic SOPs, expert committees, FOI decisions)
-- Refined recommendations – reordered and strengthened reform priorities (governance, records management, independent audit)
-
 ## Oversight and Accountability
 
 This assessment has been provided to multiple oversight bodies:
@@ -548,8 +526,9 @@ The focus is exclusively on identifying and analysing gaps between published fra
 **Copyright & Fair Dealing:** The use of source materials, including Crown Copyright documents, is for the purpose of non-commercial research, criticism, review, and public interest analysis pursuant to fair dealing provisions of the Copyright Act 1968 (Cth).
 
 **Last updated:** 16 December 2025  
-**Version:** 1.6.2
+**Version:** 1.7.0
 **Status:** Publication‑ready for open‑repository release
 
+## Version History
 
-
+For detailed version history and changelog, see [VERSION_HISTORY.md](VERSION_HISTORY.md)
