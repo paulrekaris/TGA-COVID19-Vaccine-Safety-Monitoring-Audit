@@ -82,7 +82,7 @@ The evidence pattern suggests several possible explanations:
 
 ## **Methodological Commitments: Transparency as Accountability**
 
-The methodology is designed to be transparent and correctable:
+This methodology is designed to be transparent and correctable:
 
 **Open access:** All primary sources linked, full analysis published, reasoning documented
 
