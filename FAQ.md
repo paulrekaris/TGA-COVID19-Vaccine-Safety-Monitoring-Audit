@@ -161,7 +161,7 @@ No. This audit explicitly acknowledges that the TGA conducted substantial monito
 
 The audit examines whether these activities constituted the enhanced monitoring framework that was (a) a legal condition of provisional approval, and (b) explicitly promised in the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The core question is whether enhanced monitoring was systematically implemented and documented, not whether monitoring occurred.
 
-### Q2: What is the difference between routine pharmacovigilance and enhanced safety monitoring?
+### Q5: What is the difference between routine pharmacovigilance and enhanced safety monitoring?
 
 Routine pharmacovigilance is the baseline, ongoing surveillance for all marketed medicines. It includes passive adverse event reporting (e.g., DAEN), standard signal detection, regulatory updates, and review of sponsor reports—essentially "business as usual" regulatory functions.
 
@@ -173,7 +173,7 @@ Enhanced safety monitoring is a higher standard, legally mandated when medicines
 - Performance tracking against defined objectives
 - Verifiable audit trails to demonstrate the enhanced system was applied
 
-For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.
+**For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.**
 ---
 
 ## Part 2: The Commitments Made
