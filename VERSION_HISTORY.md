@@ -2,15 +2,19 @@
 
 ## Version 1.7.0 (16 December 2025)
 
-**Major conceptual clarification:**
-- Added comprehensive "Routine Pharmacovigilance vs Enhanced Safety Monitoring" framework throughout document
-- New Section 1.3: Detailed explanation of routine vs enhanced monitoring distinction with regulatory context
-- Added "The Challenge of Black Box Governance for Private Citizens" methodology document addressing information asymmetry, epistemological challenges, and methodological constraints facing citizen auditors with limited investigative powers. This provides a theoretical framework and epistemological justification for audit scope, constraints, and reasoning approach—allowing main report to focus on findings rather than methodological defense.
-- Enhanced Executive Summary with explicit scope clarification
-- Updated Conclusion to reinforce assessment scope and significance
-- Aligned README with main document framing
+**Major Conceptual Clarification:**
 
-**Significance:** This version explicitly addresses potential misreading that the assessment claims "no monitoring occurred." The additions clarify that routine pharmacovigilance demonstrably occurred; the assessment examines whether the enhanced framework required under provisional approval conditions was systematically implemented and documented beyond routine operations.
+- **Cabinet endorsement emphasis:** Strengthened framing throughout document to highlight that Cabinet endorsement elevated the Safety Monitoring Plan from TGA agency guidance to formal government commitment, establishing the 17 numbered strategies as a documented promise to Australian citizens and legal condition of provisional approval
+
+- **Refined audit scope:** Clarified inquiry focuses on whether the Plan's 17 numbered strategies were implemented as distinct, systematically tracked processes with dedicated governance and audit trails, using the Plan's own framework as the verification standard
+
+- **Added "The Challenge of Black Box Governance for Private Citizens" methodology document:** Addresses information asymmetry, epistemological challenges, and limited investigative powers facing citizen auditors under Australian law. Provides theoretical framework (Akerlof, Hayek, Popper, Lipton, O'Neill, Stiglitz, Arrow) justifying audit scope, constraints, and reasoning approach—allowing main report to focus on findings rather than methodological defence
+
+- **Enhanced UTS teaching materials analysis:** Added full slide context (Slides 22-24) demonstrating gap between routine pharmacovigilance infrastructure presented in training and enhanced framework promised in Safety Plan
+
+- **Updated Executive Summary and Conclusion:** Aligned with Cabinet commitment framing and clarified assessment scope
+
+**Significance:** This version explicitly frames the audit question around verifiable implementation of Cabinet-endorsed commitments rather than engaging in routine vs enhanced definitional debate. The assessment acknowledges pharmacovigilance activities occurred; it examines whether the 17 strategies promised as conditions of provisional approval were implemented with the systematic documentation, governance, and audit trails necessary for independent accountability.
 
 **No changes to audit findings or evidence base.**
 
