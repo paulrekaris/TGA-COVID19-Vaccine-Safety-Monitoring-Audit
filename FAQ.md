@@ -196,7 +196,7 @@ The Commonwealth–State implementation agreements—such as those with Victoria
 
 These intergovernmental arrangements therefore anticipated systematic implementation, defined data flows, and clear escalation pathways for safety‑critical issues. This formal, documented framework directly contradicts the Senate testimony of senior TGA officials (9 October 2025), who claimed safety monitoring was managed through undocumented "day‑to‑day processes" rather than systematic tracking against plan objectives. The TGA's admission reveals a fundamental disconnect not only from its own published Plan, but from the documented, multi‑jurisdictional governance standards that governed the entire national vaccination program—reinforcing the audit's central finding that the promised enhanced monitoring required formal, traceable frameworks, not ad‑hoc administration.
 
-### 11: How many doses were affected?
+### Q11: How many doses were affected?
 
 68 million doses were administered nationally during the provisional approval period when this multi-tier monitoring framework was supposed to be operating: Cabinet policy → Commonwealth-State implementation agreements → TGA Safety Monitoring Plan → AusVaxSafety delivery. This represents approximately 94% of Australia's COVID-19 vaccine rollout.
 
