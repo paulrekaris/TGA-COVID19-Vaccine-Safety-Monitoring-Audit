@@ -41,7 +41,7 @@ Provisional approval under the Therapeutic Goods Act 1989 permits time‑limited
 
 This independent audit provides a systematic assessment of whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes that can be verified through records. After four years of Freedom of Information (FOI) requests and structured evidence review, the findings reveal major documentation gaps that prevent verification of enhanced‑monitoring implementation and of compliance with provisional‑approval requirements.
 
-> **Central problem:** On the available documentary record, TGA cannot demonstrate that it systematically implemented the Cabinet‑endorsed enhanced safety monitoring framework set out in the Australian COVID‑19 Vaccination Policy and the February 2021 Safety Monitoring Plan, raising fundamental questions about regulatory accountability during Australia’s largest medical intervention.
+> **Central problem:** TGA cannot demonstrate, on the available documentary record, that it systematically implemented the Cabinet‑endorsed enhanced, TGA‑led safety monitoring framework set out in the Australian COVID‑19 Vaccination Policy, raising fundamental questions about regulatory accountability during Australia’s largest medical intervention.
 
 ## The Investigation: Four Years of FOI Requests
 
