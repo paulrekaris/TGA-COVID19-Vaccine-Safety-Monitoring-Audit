@@ -41,7 +41,7 @@ Enhanced monitoring was a legal condition for provisional approval at population
 ## The Plan
 
 **TGA's Safety Monitoring Plan (February 2021)**  
-TGA published a COVID‑19 Vaccine Safety Monitoring Plan with 20 specific outputs to operationalise the Cabinet commitment.
+TGA published a COVID‑19 Vaccine Safety Monitoring Plan with 17 numbered outputs to operationalise the Cabinet commitment.
 
 **Deployment Scale**  
 Around 26 million Australians received 68 million doses under this framework, with mandates and significant consequences for non‑compliance.
