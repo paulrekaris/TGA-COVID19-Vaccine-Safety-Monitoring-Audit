@@ -5,7 +5,7 @@ This folder contains key source documents referenced in the audit assessment.
 ### Australian COVID‑19 Vaccination Policy (November 2020)
 
   Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA” through a national COVID‑19 Vaccine Pharmacovigilance Plan.
-  https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy?language=en)
+  https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy?language=en
   
 ### TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)
 
@@ -36,7 +36,9 @@ Provisional‑approval processes were benchmarked against comparable frameworks 
 ### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
 Available at: <https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf>
 
-Formal bilateral agreement between Commonwealth and Victoria establishing governance framework for vaccine rollout. Demonstrates that COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation—reinforcing audit finding that enhanced monitoring was not routine business but required systematic framework with traceable records. This directly contradicts Senate testimony by senior TGA officials (9 October 2025) claiming monitoring was managed through "day-to-day processes" rather than systematic tracking against plan objectives.
+Formal bilateral agreement between Commonwealth and Victoria establishing governance framework for vaccine rollout. Demonstrates that COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation—reinforcing audit finding that enhanced monitoring was not routine business but required systematic framework with traceable records. 
+
+This directly contradicts Senate testimony by senior TGA officials (9 October 2025) claiming monitoring was managed through "day-to-day processes" rather than systematic tracking against plan objectives.
 
 ### Senate Community Affairs Legislation Committee testimony transcript excerpts
 
