@@ -1,6 +1,6 @@
 # Version History
 
-## Version 1.7.0 (16 December 2025)
+## Version 1.7.0 (17 December 2025)
 
 **Major Conceptual Clarification:**
 
