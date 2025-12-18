@@ -33,7 +33,7 @@ This pattern combines with:
 
 ## **The Knowledge Problem**
 
-Economist Friedrich Hayek identified that knowledge in complex systems is often **tacit and dispersed**—it cannot be fully articulated even by those who possess it. When regulatory agencies claim processes are "enhanced" but cannot document what makes them so, this creates Hayek's knowledge problem in reverse: knowledge that cannot be articulated cannot be verified.
+Friedrich Hayek identified that knowledge in complex systems is often **tacit and dispersed**—it cannot be fully articulated even by those who possess it. When regulatory agencies claim processes are "enhanced" but cannot document what makes them so, this creates Hayek's knowledge problem in reverse: knowledge that cannot be articulated cannot be verified.
 
 This explains why the TGA might genuinely believe it conducted enhanced monitoring while being unable to demonstrate it externally. But it also reveals why such situations are democratically untenable: if enhanced monitoring cannot be distinguished from routine operations—even by the agency itself—the regulatory commitment becomes meaningless in practice.
 
@@ -43,7 +43,7 @@ Economist George Akerlof demonstrated how information asymmetry destroys markets
 
 In regulation, the same dynamic applies: Without proof that "enhanced" means something operationally distinct from "routine," the claim becomes unverifiable. Citizens cannot distinguish genuinely intensified surveillance from routine work relabelled. As with Akerlof's car market, scepticism becomes rational—not because of proven failure, but because verification is impossible.
 
-Economist Joseph Stiglitz extended this analysis, showing that information problems require special institutional mechanisms to ensure accountability—mechanisms that become critical when citizens must verify regulatory promises they cannot directly observe.
+Joseph Stiglitz extended this analysis, showing that information problems require special institutional mechanisms to ensure accountability—mechanisms that become critical when citizens must verify regulatory promises they cannot directly observe.
 
 ## **The Practical Reality: Limited Powers, Limited Access**
 
