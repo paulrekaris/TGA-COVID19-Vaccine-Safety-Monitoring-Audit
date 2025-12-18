@@ -492,9 +492,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ## Part 8: Evidence Access and Verification
 
-## Research methodology
-
-### Q30: What methodology did I use?
+### Q30: What research methodology did I use?
 
 My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the [Main Audit Documentation Gap Analysis Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) It includes:
 
