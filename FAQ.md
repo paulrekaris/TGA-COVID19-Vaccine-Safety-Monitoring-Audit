@@ -639,7 +639,8 @@ After four years of this work, I can say with certainty: *"I know this much is t
 **Official Documents:**
 - Australian COVID-19 Vaccination Policy (November 2020): https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf
 - TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
-- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
+- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [**Information Commissioner**](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf)
+
 ---
 
 **For queries or corrections:** Contact via GitHub repository issues or email provided in repository documentation.
