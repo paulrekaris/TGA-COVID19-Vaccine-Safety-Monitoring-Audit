@@ -572,7 +572,7 @@ Multiple reasons:
 **Transparency matters**: Particularly for regulatory frameworks governing critical health interventions at population scale, accountability and transparency aren't optional.
 
 
-### A simple formula for democracy:
+### A formula for democratic accountability:
 
 ### Transparency + Openness ⇒ Accountability ⇒ Citizen Trust
 
