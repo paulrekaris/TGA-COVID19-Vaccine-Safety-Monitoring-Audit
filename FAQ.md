@@ -173,7 +173,8 @@ Enhanced safety monitoring is a higher standard, legally mandated when medicines
 - Performance tracking against defined objectives
 - Verifiable audit trails to demonstrate the enhanced system was applied
 
-**For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.**
+### For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.
+
 ---
 
 ## Part 2: The Commitments Made
@@ -380,7 +381,7 @@ Despite AusVaxSafety's public positioning as operating "as part of" the TGA-led 
 
 Active surveillance was supposed to distinguish this monitoring from routine pharmacovigilance, but systematic integration cannot be demonstrated through documentation.
 
-### Q22: What international standards weren't met?
+### Q22: What international standards weren't potentially met?
 
 TGA formally adopted ICH E2E (Pharmacovigilance Planning) and CIOMS (signal management) standards but cannot demonstrate compliance:
 
