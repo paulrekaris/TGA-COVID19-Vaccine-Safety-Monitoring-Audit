@@ -173,7 +173,7 @@ Enhanced safety monitoring is a higher standard, legally mandated when medicines
 - Performance tracking against defined objectives
 - Verifiable audit trails to demonstrate the enhanced system was applied
 
-**For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.**
+## For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.
 ---
 
 ## Part 2: The Commitments Made
@@ -571,9 +571,9 @@ Multiple reasons:
 **Transparency matters**: Particularly for regulatory frameworks governing critical health interventions at population scale, accountability and transparency aren't optional.
 
 
-**A simple formula for democracy:**
+### A simple formula for democracy:
 
-**Transparency + Openness ⇒ Accountability ⇒ Citizen Trust**
+### Transparency + Openness ⇒ Accountability ⇒ Citizen Trust
 
 This audit embodies the transparency it demands.
 
