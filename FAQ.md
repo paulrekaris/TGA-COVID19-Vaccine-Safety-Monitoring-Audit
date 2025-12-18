@@ -570,6 +570,14 @@ Multiple reasons:
 
 **Transparency matters**: Particularly for regulatory frameworks governing critical health interventions at population scale, accountability and transparency aren't optional.
 
+
+**A simple formula for democracy:**
+
+**Transparency + Openness ⇒ Accountability ⇒ Citizen Trust**
+
+This audit embodies the transparency it demands.
+
+
 ### Q35: Do I welcome feedback and correction?
 
 Yes, absolutely. I've published this investigation openly specifically to invite scrutiny and correction.
