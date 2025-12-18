@@ -258,11 +258,10 @@ Government and health authorities repeatedly stated:
 
 **Why Documentation and Verification Matter:**
 
-When government:
-1. Deploys provisionally approved products to 26 million people
-2. Mandates these products with severe personal and professional consequences for refusal
-3. Restricts citizens' fundamental freedoms based on vaccination status
-4. Justifies these extraordinary measures with assurances of enhanced safety monitoring
+When the Australian Government tells 26 million citizens that:
+- COVID‑19 vaccines are provisionally approved by the TGA after rigorous assessment of safety, quality and effectiveness.
+- Enhanced safety monitoring, including active surveillance through AusVaxSafety, will provide near real‑time vaccine safety data.
+- Public health orders and organisational mandates will make participation in many workplaces and public settings conditional on vaccination status.
 
 **Then government must demonstrate:**
 - The promised enhanced monitoring actually occurred systematically
