@@ -1,5 +1,7 @@
 # The Challenge of Black Box Governance for Private Citizens
 
+"Black‑box governance” refers to governance arrangements in which the interactions, information flows and decision rules between public authorities and other actors that shape the implementation and enforcement of public policy and regulatory requirements are opaque to outsiders, even though they significantly affect public and compliance outcomes.
+
 This audit addresses a core problem of democratic accountability: **asymmetric information**. Regulatory agencies possess complete knowledge of their internal processes, while the public sees only outputs. For COVID-19 vaccine safety monitoring, this creates a specific definitional crisis established by the TGA's own contradictory statements.
 
 ## **The Core Contradiction: Promise vs. Description**
@@ -129,19 +131,21 @@ It demonstrates that democratic accountability requires not perfect knowledge bu
 
 ## **References**
 
-1. **Akerlof, G.A.** (1970). "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism." *Quarterly Journal of Economics*, 84(3), 488–500.
+1. Akerlof, G.A.(1970). "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism." *Quarterly Journal of Economics*, 84(3), 488–500.
 
-2. **Arrow, K.J.** (1963). "Uncertainty and the Welfare Economics of Medical Care." *American Economic Review*, 53(5), 941–973.
+2. Arrow, K.J. (1963). "Uncertainty and the Welfare Economics of Medical Care." *American Economic Review*, 53(5), 941–973.
 
-3. **Hayek, F.A.** (1945). "The Use of Knowledge in Society." *American Economic Review*, 35(4), 519–530.
+3. Hayek, F.A. (1945). "The Use of Knowledge in Society." *American Economic Review*, 35(4), 519–530.
 
-4. **Lipton, P.** (2004). *Inference to the Best Explanation* (2nd ed.). London: Routledge.
+4. Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). London: Routledge.
 
-5. **O'Neill, O.** (2002). *A Question of Trust*. Cambridge: Cambridge University Press.
+5. O'Neill, O. (2002). *A Question of Trust*. Cambridge: Cambridge University Press.
 
-6. **Popper, K.R.** (2002). *The Logic of Scientific Discovery*. London: Routledge. (Original work published 1959.)
+6. Popper, K.R. (2002). *The Logic of Scientific Discovery*. London: Routledge. (Original work published 1959.)
 
-7. **Stiglitz, J.E.** (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
+7. Schmid, B., Meister, T., Klagge, B., & Seidl, I. (2020). “Energy cooperatives and municipalities in local energy governance arrangements in Switzerland and Germany.” Journal of Environment & Development, 29(1), 26–53.
+
+8. Stiglitz, J.E. (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
 
 
 
