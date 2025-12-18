@@ -490,9 +490,41 @@ If these records exist, producing them would immediately resolve the documented 
 
 ---
 
-## Evidence Access and Verification
+## Part 8: Evidence Access and Verification
 
-### Q30: How can people access the evidence?
+## Research methodology
+
+### Q30: What methodology did I use?
+
+My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit). It includes:
+
+* Systematic FOI requests (2021–2025)
+* OAIC review materials and decisions
+* Senate Hansard testimony
+* Application of audit principles from ISO 19011:2018 and ANAO guidance, informed by TGA guidance on pharmacovigilance responsibilities and risk-management plans and by international pharmacovigilance standards (ICH E2E, CIOMS), to assess implementation evidence against the Plan's documented commitments
+* Systematic online documentary review of TGA, parliamentary and partner publications (2020–2025) using OSINT-style, domain-restricted search methods and Plan-aligned keywords
+* Australian Government COVID-19 policy documents
+* Timeline reconstruction from official sources
+* Documentation of contradictions across multiple sources
+* Permanent archiving (Zenodo DOI: 10.5281/zenodo.17731054)
+* Not peer reviewed; open to corrections and new information.
+  
+All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent scrutiny and practical replication of my findings.
+
+---
+
+### Q31: How do you reach findings with incomplete evidence?
+
+This audit employs two complementary forms of reasoning:
+
+* **Deductive reasoning:** What should be verifiable if enhanced monitoring was systematically implemented (documented protocols, governance, audit trails, integration records).
+* **Abductive reasoning:** When complete evidence is not accessible, what best explains the available pattern (FOI gaps, OAIC findings, Senate testimony, UTS teaching materials, bilateral agreements).
+
+The finding is **absence of verifiable evidence**, not evidence of absence. I cannot prove enhanced monitoring did not occur internally, but I can demonstrate that it cannot be verified through available records—and that verification gap is the core accountability problem.
+
+For the full epistemological framework, see [Black Box Governance methodology document](docs/black-box-governance.md).
+
+### Q32: How can people access the evidence?
 
 All evidence, methodology, and findings are open source and permanently archived:
 
@@ -502,34 +534,14 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 **Permanent DOI:**  
 https://doi.org/10.5281/zenodo.17731054
 
-**Methodology:**  
-Fully replicable and falsifiable using publicly available documents, FOI records, TGA correspondence, OAIC submissions, Senate testimony, and TGA publications. Not peer reviewed; open to corrections and new information.
-
 **Citation:**  
 Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.5.1). Zenodo. https://doi.org/10.5281/zenodo.17731054
-
-## Research Methodology
-
-### Q31: What methodology did I use?
-
-My investigation follows scientific principles of falsification and replication. The methodology is fully documented in the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit) and includes:
-
-- Systematic FOI requests (2021–2025)
-- OAIC review materials and decisions
-- Senate Hansard testimony
-- Systematic review of all publicly available TGA safety monitoring documents, reports and publications (2020–2025)
-- Australian Government COVID-19 policy documents
-- Timeline reconstruction from official sources
-- Documentation of contradictions across multiple sources
-- Permanent archiving ([Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054))
-
-All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent replication of my findings.
 
 ---
 
 ## Limitations and Peer Review
 
-### Q32: What are the limitations of this research?
+### Q33: What are the limitations of this research?
 
 Several important limitations:
 
@@ -544,7 +556,7 @@ Several important limitations:
 
 ## Purpose and Accountability
 
-### Q33: Why am I doing this?
+### Q34: Why am I doing this?
 
 Multiple reasons:
 
@@ -558,7 +570,7 @@ Multiple reasons:
 
 **Transparency matters**: Particularly for regulatory frameworks governing critical health interventions at population scale, accountability and transparency aren't optional.
 
-### Q34: Do I welcome feedback and correction?
+### Q35: Do I welcome feedback and correction?
 
 Yes, absolutely. I've published this investigation openly specifically to invite scrutiny and correction.
 
@@ -575,9 +587,21 @@ The goal is accuracy and accountability, not advocacy. Correction improves both.
 
 ---
 
+### Q36: How can people access the evidence?
+
+All evidence, methodology, and findings are open source and permanently archived:
+
+**GitHub Repository:**  
+https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+
+**Permanent DOI:**  
+https://doi.org/10.5281/zenodo.17731054
+
+**Citation:**  
+Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.5.1). Zenodo. https://doi.org/10.5281/zenodo.17731054
 # About the Researcher
 
-### Q35: Who am I?
+### Q37: Who am I?
 
 I'm a policy analyst and consultant with 30 years' professional experience across government, higher education and banking sectors. My background includes:
 
