@@ -39,7 +39,7 @@ This explains why the TGA might genuinely believe it conducted enhanced monitori
 
 ## **The Lemon Market Problem**
 
-Economist George Akerlof demonstrated how information asymmetry destroys markets through his "market for lemons" model. Buyers cannot verify quality, so they rationally assume the worst. Honest sellers exit, leaving only poor-quality goods.
+Economist George Akerlof demonstrated how information asymmetry destroys markets through his "market for lemons" model. Buyers cannot verify quality, so they rationally assume the worst. Honest, high‑quality sellers are driven out of the market, leaving only low‑quality goods.
 
 In regulation, the same dynamic applies: Without proof that "enhanced" means something operationally distinct from "routine," the claim becomes unverifiable. Citizens cannot distinguish genuinely intensified surveillance from routine work relabelled. As with Akerlof's car market, scepticism becomes rational—not because of proven failure, but because verification is impossible.
 
