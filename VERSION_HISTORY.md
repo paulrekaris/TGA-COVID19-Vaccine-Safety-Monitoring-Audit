@@ -1,5 +1,15 @@
 # Version History
 
+## Version 1.7.1 (18 December 2025)
+
+– Added an explicit definition of “black box governance” and integrated it into the methodological framing.  
+– Refined wording of government/TGA assurance statements to use accurate reported speech rather than implied verbatim quotes.  
+– Aligned the “Assurances Given to Australians” and “Why Documentation and Verification Matter” sections with the audit test: the existence (or absence) of systematic documentary evidence that Cabinet‑endorsed “enhanced safety monitoring” commitments were implemented as traceable processes.  
+– Added Commonwealth–state bilateral agreements context to demonstrate formal intergovernmental governance frameworks requiring systematic TGA safety monitoring.  
+– Enhanced FAQ: added Q32 on epistemological reasoning (deductive/abductive frameworks under incomplete evidence) and expanded Q35 personal statement with democratic accountability framing, including the formula “Transparency + Openness ⇒ Accountability ⇒ Trust.”  
+– Applied minor editorial and formatting improvements; corrected or updated links and directed readers to the relevant items in the /references folder.  
+– No changes to the underlying evidence base or audit findings.
+
 ## Version 1.7.0 (17 December 2025)
 
 **Major Conceptual Clarification:**
