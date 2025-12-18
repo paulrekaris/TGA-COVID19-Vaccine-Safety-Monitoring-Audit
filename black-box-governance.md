@@ -50,7 +50,7 @@ Joseph Stiglitz extended this analysis, showing that information problems requir
 This creates an acute problem for private citizens. We operate with:
 - No compulsory process to require document production
 - No discovery powers available to courts
-- No section 155 powers to compel answers
+- No section 155 powers to compel answers (statutory powers available to regulatory agencies like the ACCC to compel document production and testimony)
 - Limited statutory investigation tools
 - Reliance primarily on voluntary FOI mechanisms
 - Constrained funding for legal or expert support
