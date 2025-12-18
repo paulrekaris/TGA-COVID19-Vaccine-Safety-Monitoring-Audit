@@ -250,11 +250,11 @@ These vaccines were approved via provisional approval pathway, which:
 **The Assurances Given to Australians:**
 
 Government and health authorities repeatedly stated:
-- "These vaccines have undergone rigorous safety assessment"
-- "The TGA is conducting enhanced safety monitoring"
-- "Active surveillance through AusVaxSafety provides real-time safety data"
-- "We have robust pharmacovigilance systems in place"
-- "Post-market monitoring will detect any safety signals"
+- These vaccines had undergone rigorous safety assessment.
+- The TGA was conducting enhanced safety monitoring.
+- Active surveillance through AusVaxSafety would provide real-time safety data.
+- Robust pharmacovigilance systems were in place.
+- Post-market monitoring would detect any safety signals.
 
 **Why Documentation and Verification Matter:**
 
