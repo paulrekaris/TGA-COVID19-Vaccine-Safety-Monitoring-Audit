@@ -550,7 +550,8 @@ Several important limitations:
 3. **Document-dependent**: Analysis based on publicly available documents and materials TGA released (or confirmed don't exist) through FOI
 4. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
 
-**Crucially**: TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the Information Commissioner's central finding: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html).
+**Crucially**: TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [**Information Commissioner**](reference
+documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf), is the central finding.
 
 ---
 
