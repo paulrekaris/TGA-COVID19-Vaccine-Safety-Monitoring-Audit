@@ -96,7 +96,7 @@ The assessment systematically evaluated all 20 Plan outputs against publicly ava
 
 **Overall implementation**
 
-- **15% Fully implemented (3/20 outputs)** – mainly public‑communication activities with clear documentation.  
+- **15% Fully implemented (3/20 outputs)** – mainly public‑communication activities with clear documentation including publication of more than 150 weekly COVID‑19 vaccine safety reports.
 - **55% Partially implemented / undocumented (11/20 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
 - **30% Not documented (6/20 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
