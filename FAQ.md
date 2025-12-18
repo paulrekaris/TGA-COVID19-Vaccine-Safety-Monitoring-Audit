@@ -588,6 +588,10 @@ I'm a policy analyst and consultant with 30 years' professional experience acros
 
 I'm conducting this investigation in my personal capacity as a private citizen, not on behalf of any organisation or political group.
 
+I don’t claim to have all the answers. I’m simply someone who asked questions, followed the evidence, and found patterns that demanded explanation. Democratic accountability depends on citizens being curious enough to ask whether government commitments and promises to its citizens were kept during an historically unprecedented medical intervention—and honest enough to admit the limits of what can be known from outside the system.
+
+After four years of this work, I can say with certainty: *"I know this much is true."* [♪](https://youtu.be/sWBueqYA2Es?si=E4Og4_T8RUXNw7KQ)
+
 ---
 
 ## Additional Resources
