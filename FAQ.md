@@ -497,7 +497,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit). It includes:
+My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the [Main audit report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
@@ -507,9 +507,8 @@ My investigation follows scientific principles of falsifiability and replicabili
 * Australian Government COVID-19 policy documents
 * Timeline reconstruction from official sources
 * Documentation of contradictions across multiple sources
-* Permanent archiving (Zenodo DOI: 10.5281/zenodo.17731054)
-* Not peer reviewed; open to corrections and new information.
-  
+* Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
+
 All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent scrutiny and practical replication of my findings.
 
 ---
