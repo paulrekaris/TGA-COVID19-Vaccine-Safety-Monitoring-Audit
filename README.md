@@ -273,8 +273,7 @@ These pre-rollout warnings align with TGA Senate testimony (9 Oct 2025): monitor
 
 **Reference:** Phillips A, et al. (2021). *Vaccine*, 39(40), 5968-5981. [doi:10.1016/j.vaccine.2021.07.059](https://doi.org/10.1016/j.vaccine.2021.07.059)
 
-**Full paper (PDF):** [Phillips et al. 2021 - Full Text](references/Phillips_2021_Vaccine_Paper.pdf)
-
+**Full paper (PDF):** [Phillips et al. 2021 - Full Text](reference documents/From%20program%20suspension%20to%20the%20pandemic%20A%20qualitative%20examination%20of%20Australia's%20vaccine%20pharmacovigilance%20system%20over%2010%20years.pdf)
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
