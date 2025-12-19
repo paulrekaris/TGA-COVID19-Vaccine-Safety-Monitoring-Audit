@@ -519,7 +519,7 @@ This audit employs two complementary forms of reasoning:
 
 The finding is **absence of verifiable evidence**, not evidence of absence. I cannot prove enhanced monitoring did not occur internally, but I can demonstrate that it cannot be verified through available records—and that verification gap is the core accountability problem.
 
-For the full epistemological framework, see [Black Box Governance methodology document](black-box-governance.md).
+For the full epistemological framework, see [Black Box Governance methodology document](reference-documents/black-box-governance.md)
 
 ### Q32: How can people access the evidence?
 
