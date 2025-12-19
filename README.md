@@ -430,8 +430,6 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
 
-https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)
-
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (Version 1.5, December 2025)**
 
 The comprehensive audit report includes:
