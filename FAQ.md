@@ -7,13 +7,13 @@
   Browse the full **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** for detailed Q&A on methodology, limitations, oversight context, and how to verify or challenge the findings.
 
 - **Full evidence**  
-  - **[Main Audit Report: Documentation Gap Analysis](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.  
+  - **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.  
   - **[reference-documents folder](reference-documents/)** – All key documents, saftey plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
 
 ### Quick Reference Packs and Supporting Materials
 
-- **[Audit Findings Summary](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)** – Implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate.
-- **[FOI Journey Analysis](TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf)** – Timeline of the FOI process and TGA's contradictory responses.
+- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** - Implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate.
+- **[FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis_v1.5.pdf)** – Timeline of the FOI process and TGA's contradictory responses.
 
 Use these for briefings, presentations, or quick sharing.
 
@@ -494,7 +494,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What research methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the [Main Audit Documentation Gap Analysis Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) It includes:
+My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** - Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
