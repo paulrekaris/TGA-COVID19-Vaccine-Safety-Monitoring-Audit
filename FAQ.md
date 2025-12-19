@@ -142,9 +142,9 @@ Provisional approval is specifically designed for situations where products are 
 **The Social Contract:**
 
 When government tells 26 million citizens:
-1. "These vaccines are provisionally approved"
-2. "We are conducting enhanced safety monitoring"  
-3. "You must take these vaccines to participate in society"
+1. These vaccines are provisionally approved
+2. We are conducting enhanced safety monitoring
+3. You must take these vaccines to participate in society
 
 **Then government must be able to demonstrate:**
 - The enhanced monitoring actually occurred as promised
