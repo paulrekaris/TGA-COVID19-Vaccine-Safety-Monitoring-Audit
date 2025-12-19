@@ -260,7 +260,7 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 **Primary Source:**  
 [Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
 
-## Supporting Literature
+## Supporting Peer Reviewed Literature of Systemic Gaps
 
 A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July-October 2020—before COVID vaccine rollout—documenting significant system limitations.
 
