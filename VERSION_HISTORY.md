@@ -4,7 +4,7 @@
 
 - Added primary-sources folder with Department of Health video transcript (3 February 2021) showing public messaging contradiction: DoH stated COVID monitoring "will be no different" from routine surveillance, same month TGA published 17-strategy enhanced Safety Plan. Enhanced README with "Public Communications vs Policy Commitments" section documenting day-one gap between public communications and formal Cabinet commitments. Repository restructured for clearer source documentation provenance.
 - Restructured repository with professional folder organization: created analysis/ folder for main audit documents (documentation gap analysis, presentation slides, FOI timeline), moved black-box-governance methodology to reference-documents/ folder, and created primary-sources/
-- - No changes to audit findings or evidence base.
+- No changes to audit findings or evidence base.
 
 ## Version 1.7.1 (18 December 2025)
 
