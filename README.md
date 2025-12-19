@@ -312,7 +312,8 @@ This audit begins with a contradiction that defines its entire scope: The TGA pr
 
 For private citizens with limited resources, funding, and investigative powers, this creates an impossible research challenge. Yet patterns emerge that demand explanation—even when definitive proof remains beyond citizen reach.
 
-This audit employs transparent methodology: open access, version control, responsiveness to correction, and explicit limitations. It acknowledges inherent uncertainties while demonstrating what can be verified from outside the black box. [Read more: Black Box Governance](black-box-governance.md)
+This audit employs transparent methodology: open access, version control, responsiveness to correction, and explicit limitations. It acknowledges inherent uncertainties while demonstrating what can be verified from outside the black box. [Read more: Black Box Governance methodology document](reference-documents/black-box-governance.md)
+
 
 ## Methodology and Evidence Base
 
