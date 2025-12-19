@@ -60,8 +60,7 @@ This public communication either:
 Four years later, **TGA Senate testimony (9 October 2025)** described monitoring as "day-to-day processes" that were "never systematically tracked" against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
 
 **Primary Source:**  
-**[DoH Video Transcript (3 Feb 2021)](primary-sources/doh-video-transcript_3feb2021.md)**
-
+[Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
 
 ## Executive Summary
 
@@ -584,8 +583,8 @@ The focus is exclusively on identifying and analysing gaps between published fra
 
 ## Version History
 
-**Last updated:** 18 December 2025  
-**Version:** 1.7.1
+**Last updated:** 19 December 2025  
+**Version:** 1.7.2
 **Status:** Publication‑ready for open‑repository release
 
 For detailed version history and changelog, see [VERSION_HISTORY.md](VERSION_HISTORY.md)
