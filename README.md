@@ -28,39 +28,6 @@ through records, as required for an enhanced monitoring framework relied upon fo
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, 
 and international pharmacovigilance standards (ICH E2E, CIOMS).
 
-## Public Communications vs Policy Commitments
-
-A critical gap exists between public messaging and formal policy commitments regarding COVID-19 vaccine safety monitoring.
-
-### The Public Message: "No Different"
-
-On 3 February 2021—the same month TGA published its COVID-19 Vaccine Safety Monitoring Plan—the Australian Department of Health released a public video explaining the TGA approval process. The video stated:
-
-> "All registered vaccines are closely monitored by the TGA, who will respond to any safety issues. **COVID-19 vaccines will be no different.**"
-
-This communication described COVID-19 vaccine monitoring as **identical to routine registered vaccine surveillance**.
-
-### The Policy Commitment: "Enhanced Monitoring"
-
-However, formal government commitments told a different story:
-
-- **National Cabinet (November 2020):** Endorsed "active and comprehensive" COVID-19 vaccine safety monitoring as a condition of provisional approval
-- **TGA Safety Monitoring Plan (February 2021):** Specified 17 numbered strategies for enhanced post-market surveillance
-- **Commonwealth-State Bilateral Agreements (February 2021):** Established formal governance frameworks requiring systematic safety monitoring implementation and TGA reporting
-
-### The Contradiction
-
-If COVID-19 vaccine monitoring was truly "no different" from routine surveillance, what operational meaning did the Safety Monitoring Plan's 17 strategies have?
-
-This public communication either:
-1. Contradicted formal policy commitments to Cabinet and states/territories, or
-2. Accurately reflected that enhanced monitoring was never implemented as operationally distinct from routine processes, or
-3. Demonstrated the government itself couldn't clearly articulate what made COVID-19 monitoring "enhanced"
-
-Four years later, **TGA Senate testimony (9 October 2025)** described monitoring as "day-to-day processes" that were "never systematically tracked" against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
-
-**Primary Source:**  
-[Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
 
 ## Executive Summary
 
@@ -259,6 +226,40 @@ This citizen audit is intended to help fill that oversight gap by providing:
 - A concrete evidentiary platform on which ANAO could scope and conduct a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance system and its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
 
 Taken together, the scale of provisional use (68 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
+
+## Public Communications vs Policy Commitments
+
+A critical gap exists between public messaging and formal policy commitments regarding COVID-19 vaccine safety monitoring.
+
+### The Public Message: "No Different"
+
+On 3 February 2021—the same month TGA published its COVID-19 Vaccine Safety Monitoring Plan—the Australian Department of Health released a public video explaining the TGA approval process. The video stated:
+
+> "All registered vaccines are closely monitored by the TGA, who will respond to any safety issues. **COVID-19 vaccines will be no different.**"
+
+This communication described COVID-19 vaccine monitoring as **identical to routine registered vaccine surveillance**.
+
+### The Policy Commitment: "Enhanced Monitoring"
+
+However, formal government commitments told a different story:
+
+- **National Cabinet (November 2020):** Endorsed "active and comprehensive" COVID-19 vaccine safety monitoring as a condition of provisional approval
+- **TGA Safety Monitoring Plan (February 2021):** Specified 17 numbered strategies for enhanced post-market surveillance
+- **Commonwealth-State Bilateral Agreements (February 2021):** Established formal governance frameworks requiring systematic safety monitoring implementation and TGA reporting
+
+### The Contradiction
+
+If COVID-19 vaccine monitoring was truly "no different" from routine surveillance, what operational meaning did the Safety Monitoring Plan's 17 strategies have?
+
+This public communication either:
+1. Contradicted formal policy commitments to Cabinet and states/territories, or
+2. Accurately reflected that enhanced monitoring was never implemented as operationally distinct from routine processes, or
+3. Demonstrated the government itself couldn't clearly articulate what made COVID-19 monitoring "enhanced"
+
+Four years later, **TGA Senate testimony (9 October 2025)** described monitoring as "day-to-day processes" that were "never systematically tracked" against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
+
+**Primary Source:**  
+[Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
