@@ -8,7 +8,7 @@ New to this audit? Start here:
 
 - **[Visual Summary: Audit Summary Presentation](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)** – Slide-style overview of key findings and gaps.
 
-- **[Main Audit Report: Documentation Gap Analysis](Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
+- **[Main Audit Report: Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (V1.5.1)](analysis/documentation-gap-analysis_v1.5.1.docx)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
 
 - **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
 
@@ -429,7 +429,8 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 ### Main Assessment Report
 
-[Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (V1.5.1)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)
+[Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (V1.5.1)](analysis/documentation-gap-analysis_v1.5.1.docx)
+https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf)
 
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (Version 1.5, December 2025)**
 
