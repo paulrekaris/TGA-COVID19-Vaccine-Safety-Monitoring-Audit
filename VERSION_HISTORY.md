@@ -1,5 +1,10 @@
 # Version History
 
+## Version 1.7.2 (19 December 2025)
+
+- Added primary-sources folder with Department of Health video transcript (3 February 2021) showing public messaging contradiction: DoH stated COVID monitoring "will be no different" from routine surveillance, same month TGA published 17-strategy enhanced Safety Plan. Enhanced README with "Public Communications vs Policy Commitments" section documenting day-one gap between public communications and formal Cabinet commitments. Repository restructured for clearer source documentation provenance.
+- No changes to audit findings or evidence base.
+
 ## Version 1.7.1 (18 December 2025)
 
 - Added an explicit definition of “black box governance” and integrated it into the methodological framing.
