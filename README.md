@@ -8,7 +8,7 @@ New to this audit? Start here:
 
 - **[Visual Summary: Audit Summary Presentation](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)** – Slide-style overview of key findings and gaps.
 
-**[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.docx)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
+- **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.docx)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
 
 - **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
 
