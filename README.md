@@ -6,10 +6,10 @@ New to this audit? Start here:
 
 - **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, limitations, and how to verify or challenge the findings.
 
-- **[Visual Summary: Audit Summary Presentation](TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)** – Slide-style overview of key findings and gaps.
+- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**– Slide-style overview of key findings and gaps.
 
 - **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
-
+  
 - **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
@@ -448,12 +448,16 @@ The comprehensive audit report includes:
 ### Supporting Documentation
 [](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
 
-- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps.
- - [TGA COVID-19 Safety Plan Implementation Audit slides (Dec 25 Final V1.5.1)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/TGA_COVID-19%20Safety%20Plan%20Implementation_Audit_Dec%2025%20FINAL_V1.5.1%20pptx.pdf)
+- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**
+
+
+
+
+
 
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
-   - [TGA FOI Analysis – Dec 2025 (v1.5)](./TGA%20FOI%20Analysis%20Dec%202025_V1.5.pdf)
-       
+   - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis_v1.5.pdf)       
+
 - **Reference Documents** – TGA’s Safety Monitoring Plan (February 2021), Senate Community Affairs Legislation Committee transcripts (9 October 2025), AusPARs for Comirnaty and Spikevax.  
 
 - **Media Coverage** – investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi’s platform:  
