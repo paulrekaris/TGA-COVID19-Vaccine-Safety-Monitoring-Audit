@@ -22,4 +22,4 @@ Published **same month** as TGA Safety Monitoring Plan (Feb 2021), contradicts:
 
 ## Cross-References
 - [README Policy Contradiction Section](../README.md#public-communications-vs-policy-commitments)
-- [Main Audit Report](../analysis/documentation-gap-analysis_v1.5.1.docx)
+
