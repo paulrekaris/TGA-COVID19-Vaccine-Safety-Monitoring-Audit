@@ -260,6 +260,22 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 **Primary Source:**  
 [Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
 
+## Supporting Literature
+
+A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July-October 2020—before COVID vaccine rollout—documenting significant system limitations.
+
+**Key findings:**
+- Data linkage as a "major gap" despite being "technically feasible"
+- AusVaxSafety-Active and AEMS as "parallel systems" where notifications may "fall through gaps"  
+- COVID-19 monitoring requiring "significant enhancement" with "systematic approaches to population-level active surveillance"
+
+These pre-rollout warnings align with TGA Senate testimony (9 Oct 2025): monitoring was "day-to-day processes" never "systematically tracked" against Safety Plan.
+
+**Reference:** Phillips A, et al. (2021). *Vaccine*, 39(40), 5968-5981. [doi:10.1016/j.vaccine.2021.07.059](https://doi.org/10.1016/j.vaccine.2021.07.059)
+
+**Full paper (PDF):** [Phillips et al. 2021 - Full Text](references/Phillips_2021_Vaccine_Paper.pdf)
+
+
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
 ### Enhanced Monitoring as Defined by the Plan
