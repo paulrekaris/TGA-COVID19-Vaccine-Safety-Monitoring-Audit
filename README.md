@@ -285,8 +285,6 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025): mon
 ---
 
 **Then commit:**
-```
-Update link to renamed Phillips et al. paper
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
