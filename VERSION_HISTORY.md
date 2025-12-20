@@ -8,6 +8,7 @@ who identified data linkage as "major gap," characterized surveillance systems a
 "parallel systems," and recommended "significant enhancement" for COVID vaccines. 
 Expert warnings align with subsequent TGA testimony that monitoring was "day-to-day 
 processes" never "systematically tracked."
+- Refined wording on provisional approval and enhanced monitoring to “regulatory condition and expectation” consistent with TGA guidance
 - Added primary-sources folder with Department of Health video transcript (3 February 2021) showing public messaging contradiction: DoH stated COVID monitoring "will be no different" from routine surveillance, same month TGA published 17-strategy enhanced Safety Plan. Enhanced README with "Public Communications vs Policy Commitments" section documenting day-one gap between public communications and formal Cabinet commitments. Repository restructured for clearer source documentation provenance.
 - Restructured repository with professional folder organisation: created analysis/ folder for main audit documents (documentation gap analysis, presentation slides, FOI timeline), moved black-box-governance methodology to reference-documents/ folder, and created primary-sources/
 - No changes to audit findings or evidence base.
