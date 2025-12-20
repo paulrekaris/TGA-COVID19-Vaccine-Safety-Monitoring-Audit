@@ -625,7 +625,7 @@ The focus is exclusively on identifying and analysing gaps between published fra
 
 ## Version History
 
-**Last updated:** 19 December 2025  
+**Last updated:** 20 December 2025  
 **Version:** 1.7.2
 **Status:** Publication‑ready for open‑repository release
 
