@@ -282,7 +282,7 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025): mon
 
 [**Full paper: Phillips et al. (2021)**](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)
 
----
+
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
