@@ -261,6 +261,26 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 **Primary Source:**  
 [Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
 
+## Official 2021 AEFI Surveillance Report
+
+In 2024, *Communicable Diseases Intelligence* published an annual report on adverse events following COVID‑19 vaccination in 2021, based on data from TGA’s AEMS passive (spontaneous) surveillance system.
+
+**What it shows:**
+- Intensive passive monitoring, with over 111,000 COVID‑19 vaccine AEFI reports in 2021 and much higher reporting rates than for non‑COVID‑19 vaccines.
+- Detection and investigation of rare adverse events (e.g. myocarditis/pericarditis, thrombosis with thrombocytopenia syndrome), leading to changes in product information, clinical guidance, and weekly public safety reports.
+
+**What it does not show:**
+- No mention of the February 2021 **COVID‑19 Vaccine Safety Monitoring Plan** or its 17 strategies.
+- No documentation of plan‑level governance or performance tracking against Safety Plan objectives.  
+- No evidence of systematic AusVaxSafety–TGA integration frameworks or explicit provisional‑approval verification processes.
+
+This report is consistent with the findings in Phillips et al. (2021) discussed in the next section below: it demonstrates that substantial monitoring activity occurred, but does not provide the Safety Plan‑specific implementation, governance, or verification documentation that this audit assesses.
+
+**Reference:**  
+Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)[file:378]
+
+[**Full paper**](reference-documents/ncirs-2024-aefi-surveillance-covid-vaccines-2021.pdf)
+
 ## Supporting Peer Reviewed Literature of Systemic Gaps
 
 A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July–October 2020—**before the COVID-19 vaccine rollout**—and documented significant system limitations.
