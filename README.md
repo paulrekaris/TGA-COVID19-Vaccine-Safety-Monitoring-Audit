@@ -511,7 +511,6 @@ The comprehensive audit report includes:
 - Priority reform recommendations.
 
 ### Supporting Documentation
-[](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#supporting-documentation)
 
 - **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**
 
