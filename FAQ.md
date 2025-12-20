@@ -192,7 +192,7 @@ In February 2021, TGA published the COVID-19 Vaccine Safety Monitoring Plan as t
 
 The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly committed to collaboration with AusVaxSafety for SMS-based active surveillance as the “enhanced” monitoring component required under Cabinet-endorsed policy. This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Despite this scale of active surveillance data collection, TGA cannot demonstrate systematic integration of AusVaxSafety findings into signal detection and regulatory decision-making processes.
 
-### Q10: What role did the states play in managing enhanced saftey monitoring? 
+### Q10: What role did the states play in managing enhanced safety monitoring? 
 
 The Commonwealth–State implementation agreements—such as those with Victoria (signed 19 February 2021) and Western Australia (signed 9 March 2021), executed concurrently with the TGA’s Safety Monitoring Plan—established formal governance structures for the vaccine rollout requiring documented implementation processes, structured data reporting, and formal Statements of Assurance under the National Partnership on COVID‑19 Response. These agreements explicitly framed enhanced safety monitoring as a formal, documented priority. For instance, the WA agreement stated that both governments "consider it a priority that appropriate safety signalling and adverse event monitoring... is in place," and noted the Commonwealth's commitment to "further strengthen the capabilities of the current national, active safety surveillance system known as AusVaxSafety."
 
@@ -495,7 +495,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What research methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** - It includes:
+My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** - It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
@@ -533,7 +533,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 https://doi.org/10.5281/zenodo.17731054
 
 **Citation:**  
-Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.5.1). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.7.2). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 ---
 
