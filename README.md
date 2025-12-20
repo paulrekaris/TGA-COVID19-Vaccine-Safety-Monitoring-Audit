@@ -6,11 +6,11 @@ New to this audit? Start here:
 
 - **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, limitations, and how to verify or challenge the findings.
 
-- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**– Slide-style overview of key findings and gaps.
+- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** – Slide-style overview of key findings and gaps.
 
 - **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Primary, self‑contained report with fully cited references, primary source materials, findings, research methodology, and implementation status by Safety Plan objective.
 
-  - **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
+- **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
 
@@ -225,7 +225,7 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 
 ### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
 
-In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
+In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. *(See [Pharmacovigilance – a regulator’s perspective](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
 
 What they showed:
 - Slide 22: Routine PV infrastructure (AEMS, DAEN, daily/weekly analysis, workflow database)
@@ -497,14 +497,14 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
 
-**Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (Version 1.5, December 2025)**
+**Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (December 2025)**
 
 The comprehensive audit report includes:
 
 - Executive summary with key findings and implications.  
 - Systematic assessment of all 20 Plan outputs across 17 numbered strategies.  
 - Detailed evidence analysis using the four‑tier hierarchy.  
-- **Section 4.3: Provisional‑Approval Lifecycle Verification Gap** (new in v1.5).  
+- Provisional‑Approval Lifecycle Verification Gap   
 - Legislative framework analysis (*Therapeutic Goods Act* ss 22C, 23AA, 29, and related guidance).  
 - Governance and accountability analysis.  
 - Structured responses to likely counter‑arguments.  
@@ -542,7 +542,7 @@ When citing this work, please use:
 
 **Recommended citation:**
 
-Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan*, December 2025 (Version 1.6.0). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan*, December 2025 (Version 1.7.2). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 **BibTeX:**
 ```bibtex
@@ -551,7 +551,7 @@ Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COV
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
   month = {December},
   year = {2025},
-  version = {1.6.1},
+  version = {1.7.2},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
