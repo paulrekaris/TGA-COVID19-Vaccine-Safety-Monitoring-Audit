@@ -8,9 +8,9 @@ New to this audit? Start here:
 
 - **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**– Slide-style overview of key findings and gaps.
 
-- **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Primary, self-contained report with full references and implementation status by Safety Plan objective.
-  
-- **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
+- **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Primary, self‑contained report with fully cited references, primary source materials, findings, research methodology, and implementation status by Safety Plan objective.
+
+  - **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
 
