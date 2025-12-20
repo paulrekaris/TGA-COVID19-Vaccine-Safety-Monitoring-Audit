@@ -188,23 +188,6 @@ Without governance and performance‑measurement records:
 - There is no way to verify that enhanced‑monitoring objectives were achieved.  
 - Oversight bodies cannot assess whether provisional‑approval conditions were systematically monitored and enforced.
 
-### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
-
-In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
-
-What they showed:
-- Slide 22: Routine PV infrastructure (AEMS, DAEN, daily/weekly analysis, workflow database)
-- Slide 23: Safety Plan referenced with aspirational strategies
-- Slide 24: Weekly COVID-19 safety reports
-
-What was absent: Operational mechanisms distinguishing COVID-19 monitoring from routine systems. No AusVaxSafety integration, no Plan's 17 strategies, no governance structures, no performance metrics—despite technical training for professionals.
-
-Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" with no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
-
-The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
-​
-
-
 
 ## Public Communications vs Policy Commitments
 
@@ -239,6 +222,21 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 
 **Primary Source:**  
 [Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
+
+### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
+
+In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
+
+What they showed:
+- Slide 22: Routine PV infrastructure (AEMS, DAEN, daily/weekly analysis, workflow database)
+- Slide 23: Safety Plan referenced with aspirational strategies
+- Slide 24: Weekly COVID-19 safety reports
+
+What was absent: Operational mechanisms distinguishing COVID-19 monitoring from routine systems. No AusVaxSafety integration, no Plan's 17 strategies, no governance structures, no performance metrics—despite technical training for professionals.
+
+Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" with no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
+
+The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
 
 ## Official 2021 AEFI Surveillance Report
 
