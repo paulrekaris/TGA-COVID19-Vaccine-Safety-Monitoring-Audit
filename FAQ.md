@@ -8,7 +8,7 @@
 
 - **Full evidence**  
   - **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.  
-  - **[reference-documents folder](reference-documents/)** – All key documents, saftey plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
+  - **[reference-documents folder](reference-documents/)** – All key documents, safety plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
 
 ### Quick Reference Packs and Supporting Materials
 
@@ -336,7 +336,7 @@ For provisional approval specifically, enhanced monitoring must be demonstrable 
 
 ### Q16: How do you know records are missing (not just withheld)?
 
-The Australian Information Commissioner requsted extensive searches in response to FOI requests and issued a formal decision ([2025] AICmr 54) confirming that TGA implementation records for the Plan do not exist. This finding resulted from OAIC-directed searches conducted by two senior TGA officers covering 531 TRIM containers and reviewing 2,218+ pages. This is not FOI obstruction—the Commissioner independently verified through departmental searches that the records are genuinely absent.
+The Australian Information Commissioner requested extensive searches in response to FOI requests and issued a formal decision ([2025] AICmr 54) confirming that TGA implementation records for the Plan do not exist. This finding resulted from OAIC-directed searches conducted by two senior TGA officers covering 531 TRIM containers and reviewing 2,218+ pages. This is not FOI obstruction—the Commissioner independently verified through departmental searches that the records are genuinely absent.
 
 ### Q17: What did the Information Commissioner find?
 
