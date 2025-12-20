@@ -204,28 +204,7 @@ Four years later (October 2025), Senate testimony described the Plan as managed 
 The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
 ​
 
-## ANAO audit history and the pharmacovigilance gap
 
-The Australian National Audit Office (ANAO) has examined TGA several times since the mid‑1990s, with reports focused on prescription‑medicine evaluation, the regulation of non‑prescription and complementary medicines, manufacturer compliance and cost‑recovery arrangements. These audits have primarily assessed pre‑market evaluation, regulatory processes, enforcement and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed or whether enhanced post‑market commitments were demonstrably delivered.
-
-In 2021–22, ANAO conducted a performance audit of the national COVID‑19 vaccine rollout (*COVID‑19 Vaccines: Vaccine Development and Procurement, and Vaccine Rollout*, Report No. 3 2021‑22). That audit examined rollout efficiency and coordination, vaccine procurement and distribution logistics, TGA’s role in expediting regulatory approval, and high‑level communication and implementation challenges.
-
-Crucially, that audit did **not** examine:
-
-- Whether TGA’s specific pharmacovigilance commitments in the February 2021 COVID‑19 Vaccine Safety Monitoring Plan were implemented as designed.  
-- Whether “enhanced” monitoring, distinct from routine surveillance, actually operated in practice.  
-- Whether provisional‑approval conditions were verified and documented before vaccines transitioned to full registration.  
-- Whether TGA’s records and decision trails met international pharmacovigilance standards (e.g. ICH E2E, CIOMS) for traceable audit trails from signal detection to regulatory action.
-
-As a result, there is currently no independent assurance that the enhanced post‑market safety monitoring promised to Australians – and relied upon to justify provisional approval for 68 million doses – was ever implemented and documented to the standard expected of a national regulator.
-
-This citizen audit is intended to help fill that oversight gap by providing:
-
-- A structured, evidence‑based implementation assessment of the February 2021 Safety Monitoring Plan.  
-- A clear mapping of documentation gaps around signal management, AusVaxSafety integration, provisional‑approval verification and governance.  
-- A concrete evidentiary platform on which ANAO could scope and conduct a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance system and its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
-
-Taken together, the scale of provisional use (68 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
 
 ## Public Communications vs Policy Commitments
 
@@ -279,7 +258,8 @@ This report is consistent with the findings in Phillips et al. (2021) discussed 
 **Reference:**  
 Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)[file:378]
 
-[**Full paper**](reference-documents/ncirs-2024-aefi-surveillance-covid-vaccines-2021.pdf)
+[**Full AEFI surveillance report**](primary-sources/CDI-2024_Surveillance-AEFI-COVID19-2021.pdf)
+
 
 ## Supporting Peer Reviewed Literature of Systemic Gaps
 
@@ -357,6 +337,51 @@ For private citizens with limited resources, funding, and investigative powers, 
 
 This audit employs transparent methodology: open access, version control, responsiveness to correction, and explicit limitations. It acknowledges inherent uncertainties while demonstrating what can be verified from outside the black box. [Read more: Black Box Governance methodology document](reference-documents/black-box-governance.md)
 
+## ANAO audit history and the pharmacovigilance gap
+
+The Australian National Audit Office (ANAO) has examined TGA several times since the mid‑1990s, with reports focused on prescription‑medicine evaluation, the regulation of non‑prescription and complementary medicines, manufacturer compliance and cost‑recovery arrangements. These audits have primarily assessed pre‑market evaluation, regulatory processes, enforcement and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed or whether enhanced post‑market commitments were demonstrably delivered.
+
+In 2021–22, ANAO conducted a performance audit of the national COVID‑19 vaccine rollout (*COVID‑19 Vaccines: Vaccine Development and Procurement, and Vaccine Rollout*, Report No. 3 2021‑22). That audit examined rollout efficiency and coordination, vaccine procurement and distribution logistics, TGA’s role in expediting regulatory approval, and high‑level communication and implementation challenges.
+
+Crucially, that audit did **not** examine:
+
+- Whether TGA’s specific pharmacovigilance commitments in the February 2021 COVID‑19 Vaccine Safety Monitoring Plan were implemented as designed.  
+- Whether “enhanced” monitoring, distinct from routine surveillance, actually operated in practice.  
+- Whether provisional‑approval conditions were verified and documented before vaccines transitioned to full registration.  
+- Whether TGA’s records and decision trails met international pharmacovigilance standards (e.g. ICH E2E, CIOMS) for traceable audit trails from signal detection to regulatory action.
+
+As a result, there is currently no independent assurance that the enhanced post‑market safety monitoring promised to Australians – and relied upon to justify provisional approval for 68 million doses – was ever implemented and documented to the standard expected of a national regulator.
+
+This citizen audit is intended to help fill that oversight gap by providing:
+
+- A structured, evidence‑based implementation assessment of the February 2021 Safety Monitoring Plan.  
+- A clear mapping of documentation gaps around signal management, AusVaxSafety integration, provisional‑approval verification and governance.  
+- A concrete evidentiary platform on which ANAO could scope and conduct a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance system and its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
+
+Taken together, the scale of provisional use (68 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
+
+## Oversight and Accountability
+
+This assessment has been provided to multiple oversight bodies:
+
+- **Australian National Audit Office (ANAO)** – submitted 27 November 2025, requesting a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions.  
+- **Senate Community Affairs Legislation Committee** – provided to members to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025.  
+- **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision.  
+- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
+
+## The Call for Investigation
+
+Australia administered 68 million COVID‑19 vaccine doses under provisional approval – the country’s largest deployment of provisionally approved medicines. Provisional approval was justified on the basis that **enhanced, documented post‑market monitoring** would compensate for limited pre‑market data.
+
+After four years of systematic FOI requests and documentary review, TGA has not demonstrated that:
+
+- It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
+- Enhanced monitoring was distinct from routine “day‑to‑day processes”, as provisional approval requires.  
+- It maintained audit trails linking 148 investigated signals to 57 regulatory actions, as international standards envisage.  
+- It verified, and documented verification of, provisional‑approval conditions before 68 million doses transitioned to full registration.  
+- It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
+
+The problem is straightforward: **TGA made commitments to 26 million Australians about enhanced, documented safety monitoring. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional‑approval frameworks.
 
 ## Methodology and Evidence Base
 
@@ -502,29 +527,6 @@ The comprehensive audit report includes:
     <https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a>  
   - “Stairs to nowhere: TGA’s vanishing vaccine safety monitoring trail”  
     <https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing>
-
-## Oversight and Accountability
-
-This assessment has been provided to multiple oversight bodies:
-
-- **Australian National Audit Office (ANAO)** – submitted 27 November 2025, requesting a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions.  
-- **Senate Community Affairs Legislation Committee** – provided to members to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025.  
-- **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision.  
-- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
-
-## The Call for Investigation
-
-Australia administered 68 million COVID‑19 vaccine doses under provisional approval – the country’s largest deployment of provisionally approved medicines. Provisional approval was justified on the basis that **enhanced, documented post‑market monitoring** would compensate for limited pre‑market data.
-
-After four years of systematic FOI requests and documentary review, TGA has not demonstrated that:
-
-- It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
-- Enhanced monitoring was distinct from routine “day‑to‑day processes”, as provisional approval requires.  
-- It maintained audit trails linking 148 investigated signals to 57 regulatory actions, as international standards envisage.  
-- It verified, and documented verification of, provisional‑approval conditions before 68 million doses transitioned to full registration.  
-- It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
-
-The problem is straightforward: **TGA made commitments to 26 million Australians about enhanced, documented safety monitoring. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional‑approval frameworks.
 
 ## Licence and Citation
 
