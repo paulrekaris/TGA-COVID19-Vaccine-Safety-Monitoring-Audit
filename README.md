@@ -262,14 +262,21 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 
 ## Supporting Peer Reviewed Literature of Systemic Gaps
 
-A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July-October 2020—before COVID vaccine rollout—documenting significant system limitations.
+A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July-October 2020—**before COVID vaccine rollout**—documenting significant system limitations.
 
 **Key findings:**
+
 - Data linkage as a "major gap" despite being "technically feasible"
-- AusVaxSafety-Active and AEMS as "parallel systems" where notifications may "fall through gaps"  
+- AusVaxSafety and AEMS as "parallel systems" where notifications may "fall through gaps"
 - COVID-19 monitoring requiring "significant enhancement" with "systematic approaches to population-level active surveillance"
 
-These pre-rollout warnings align with TGA Senate testimony (9 Oct 2025): monitoring was "day-to-day processes" never "systematically tracked" against Safety Plan.
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025): monitoring was "day-to-day processes" never "systematically tracked" against Safety Plan. OAIC-directed searches found zero documentation that these expert-identified gaps were addressed.
+
+**The experts' conclusion:**
+
+> "There is significant potential for the COVID-19 vaccine safety monitoring plan and program implementation to strengthen the system and drive improvements identified here, including an enhanced ability to capture later onset AEFI."
+
+**What happened:** The Safety Plan was published (February 2021) but cannot be verified as systematically implemented. The "significant potential" to strengthen the system was not realised.
 
 **Reference:** Phillips A, et al. (2021). *Vaccine*, 39(40), 5968-5981. [doi:10.1016/j.vaccine.2021.07.059](https://doi.org/10.1016/j.vaccine.2021.07.059)
 
