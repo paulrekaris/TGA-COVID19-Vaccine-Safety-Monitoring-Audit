@@ -262,7 +262,42 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 
 ## Supporting Peer Reviewed Literature of Systemic Gaps
 
-A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July-October 2020—**before COVID vaccine rollout**—documenting significant system limitations.
+A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July–October 2020—**before the COVID-19 vaccine rollout**—and documented significant system limitations.[file:133]
+
+**Key findings:**
+
+- Data linkage was described as a “big hole” and a “huge omission”, despite being considered “technically quite feasible”.[file:133]  
+- AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.[file:133]  
+- Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.[file:133]
+
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never “systematically tracked” against the COVID-19 Vaccine Safety Monitoring Plan. OAIC-directed searches found no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.[file:133]
+
+**The authors’ conclusion:**
+
+> Phillips et al. concluded that implementation of the COVID-19 immunisation program and its safety monitoring arrangements represented an opportunity to strengthen Australia’s vaccine pharmacovigilance system, including by improving integration between active and passive surveillance, developing population-level active surveillance through linked data, and better capturing later-onset AEFI.[file:133][web:187]
+
+**What happened:** The Safety Plan was published (February 2021) but cannot be verified as systematically implemented. On the available record, the “opportunity” identified by the experts to strengthen the system and capture later-onset AEFI was not realised.[file:133]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Key findings:**
 
