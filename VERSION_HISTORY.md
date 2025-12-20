@@ -13,6 +13,7 @@ Added
 - CDI 2021 AEFI surveillance report section; clarified that it evidences intensive monitoring activity but not Safety Plan implementation or governance documentation
 - Added primary-sources folder with Department of Health video transcript (3 February 2021) showing public messaging contradiction: DoH stated COVID monitoring "will be no different" from routine surveillance, same month TGA published 17-strategy enhanced Safety Plan. Enhanced README with "Public Communications vs Policy Commitments" section documenting day-one gap between public communications and formal Cabinet commitments. Repository restructured for clearer source documentation provenance.
 - Restructured repository with professional folder organisation: created analysis/ folder for main audit documents (documentation gap analysis, presentation slides, FOI timeline), moved black-box-governance methodology to reference-documents/ folder, and created primary-sources/
+- Corrected the name of the TGA official giving evidence to the Senate Community Affairs Legislation Committee on 9 October 2025 to Dr Daniel Dascombe in main audit report.
 - No changes to audit findings or evidence base.
 
 ## Version 1.7.1 (18 December 2025)
