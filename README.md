@@ -262,61 +262,25 @@ Four years later, **TGA Senate testimony (9 October 2025)** described monitoring
 
 ## Supporting Peer Reviewed Literature of Systemic Gaps
 
-A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July–October 2020—**before the COVID-19 vaccine rollout**—and documented significant system limitations.[file:133]
+A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July–October 2020—**before the COVID-19 vaccine rollout**—and documented significant system limitations.
 
 **Key findings:**
 
-- Data linkage was described as a “big hole” and a “huge omission”, despite being considered “technically quite feasible”.[file:133]  
-- AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.[file:133]  
-- Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.[file:133]
+- Data linkage was described as a “big hole” and a “huge omission”, despite being considered “technically quite feasible”.  
+- AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.  
+- Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.
 
-These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never “systematically tracked” against the COVID-19 Vaccine Safety Monitoring Plan. OAIC-directed searches found no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.[file:133]
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never “systematically tracked” against the COVID-19 Vaccine Safety Monitoring Plan. OAIC-directed searches found no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
 
 **The authors’ conclusion:**
 
-> Phillips et al. concluded that implementation of the COVID-19 immunisation program and its safety monitoring arrangements represented an opportunity to strengthen Australia’s vaccine pharmacovigilance system, including by improving integration between active and passive surveillance, developing population-level active surveillance through linked data, and better capturing later-onset AEFI.[file:133][web:187]
+> Phillips et al. concluded that implementation of the COVID-19 immunisation program and its safety monitoring arrangements represented an opportunity to strengthen Australia’s vaccine pharmacovigilance system, including by improving integration between active and passive surveillance, developing population-level active surveillance through linked data, and better capturing later-onset AEFI.
 
-**What happened:** The Safety Plan was published (February 2021) but cannot be verified as systematically implemented. On the available record, the “opportunity” identified by the experts to strengthen the system and capture later-onset AEFI was not realised.[file:133]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Key findings:**
-
-- Data linkage as a "major gap" despite being "technically feasible"
-- AusVaxSafety and AEMS as "parallel systems" where notifications may "fall through gaps"
-- COVID-19 monitoring requiring "significant enhancement" with "systematic approaches to population-level active surveillance"
-
-These pre-rollout warnings align with TGA Senate testimony (9 October 2025): monitoring was "day-to-day processes" never "systematically tracked" against Safety Plan. OAIC-directed searches found zero documentation that these expert-identified gaps were addressed.
-
-**The experts' conclusion:**
-
-> "There is significant potential for the COVID-19 vaccine safety monitoring plan and program implementation to strengthen the system and drive improvements identified here, including an enhanced ability to capture later onset AEFI."
-
-**What happened:** The Safety Plan was published (February 2021) but cannot be verified as systematically implemented. The "significant potential" to strengthen the system was not realised.
+**What happened:** The Safety Plan was published (February 2021) but cannot be verified as systematically implemented. On the available record, the “opportunity” identified by the experts to strengthen the system and capture later-onset AEFI was not realised.
 
 **Reference:** Phillips A, et al. (2021). *Vaccine*, 39(40), 5968-5981. [doi:10.1016/j.vaccine.2021.07.059](https://doi.org/10.1016/j.vaccine.2021.07.059)
 
 [**Full paper: Phillips et al. (2021)**](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)
-
 
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
@@ -507,11 +471,6 @@ The comprehensive audit report includes:
 
 - **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**
 
-
-
-
-
-
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
    - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis_v1.5.pdf)       
 
@@ -533,7 +492,6 @@ This assessment has been provided to multiple oversight bodies:
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
 
 ## The Call for Investigation
-
 
 Australia administered 68 million COVID‑19 vaccine doses under provisional approval – the country’s largest deployment of provisionally approved medicines. Provisional approval was justified on the basis that **enhanced, documented post‑market monitoring** would compensate for limited pre‑market data.
 
