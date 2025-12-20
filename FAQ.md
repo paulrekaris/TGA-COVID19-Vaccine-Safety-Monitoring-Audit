@@ -570,9 +570,7 @@ Multiple reasons:
 **Transparency matters**: Particularly for regulatory frameworks governing critical health interventions at population scale, accountability and transparency aren't optional.
 
 
-### A formula for democratic accountability:
-
-### Transparency + Openness ⇒ Accountability ⇒ Citizen Trust
+**A formula for democratic accountability**: Transparency + Openness ⇒ Accountability ⇒ Citizen Trust
 
 This audit embodies the transparency it demands.
 
@@ -594,21 +592,10 @@ The goal is accuracy and accountability, not advocacy. Correction improves both.
 
 ---
 
-### Q36: How can people access the evidence?
 
-All evidence, methodology, and findings are open source and permanently archived:
-
-**GitHub Repository:**  
-https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
-
-**Permanent DOI:**  
-https://doi.org/10.5281/zenodo.17731054
-
-**Citation:**  
-Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.5.1). Zenodo. https://doi.org/10.5281/zenodo.17731054
 # About the Researcher
 
-### Q37: Who am I?
+### Q36: Who am I?
 
 I'm a policy analyst and consultant with 30 years' professional experience across government, higher education and banking sectors. My background includes:
 
