@@ -165,8 +165,7 @@ Without documented verification:
 
 **Why this matters**
 
-Provisional approval requires **enhanced monitoring** distinct from business‑as‑usual surveillance. If monitoring cannot be distinguished, documented and verified as enhanced, the legal safeguard justifying reduced pre‑market evidence is undermined.
-
+Provisional approval requires **enhanced monitoring** distinct from business‑as‑usual surveillance. If monitoring cannot be distinguished, documented and verified as enhanced, the regulatory safeguard justifying reduced pre‑market evidence is undermined.
 
 ### Gap 4: Governance and Performance Measurement
 
@@ -199,9 +198,11 @@ What they showed:
 - Slide 24: Weekly COVID-19 safety reports
 
 What was absent: Operational mechanisms distinguishing COVID-19 monitoring from routine systems. No AusVaxSafety integration, no Plan's 17 strategies, no governance structures, no performance metrics—despite technical training for professionals.
+
 Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" with no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
 
-The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being the legal condition of provisional approval.
+The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
+​
 
 ## ANAO audit history and the pharmacovigilance gap
 
@@ -292,7 +293,7 @@ The COVID-19 Vaccine Safety Monitoring Plan (February 2021) is the authoritative
 * **Cabinet-endorsed as part of Australia's national COVID-19 vaccination policy rollout**
 * Publicly promised to Australian citizens as the framework for provisional approval oversight
 * Embedded in national vaccination policy as the documented commitment for heightened safety surveillance
-* A legal condition of provisional approval for vaccines with incomplete pre-market data
+* A regulatory condition and expectation of provisional approval for vaccines with incomplete pre‑market data
 
 **This Cabinet endorsement elevated the Plan from agency guidance to formal government commitment**, making enhanced monitoring a documented promise to Australian citizens: earlier vaccine access in exchange for demonstrably stronger post-market safeguards.
 
@@ -319,7 +320,7 @@ Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalis
 
 ### Why This Matters
 
-This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which legally required enhanced monitoring. If the Plan's 17 strategies cannot be distinguished in the documentary record, then:
+This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which required enhanced safety monitoring beyond routine surveillance, as reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
 
 * Provisional approval conditions cannot be verified as met
 * Public assurances of heightened oversight are unsubstantiated
@@ -330,7 +331,7 @@ This assessment does not critique pharmacovigilance activities that occurred. It
 
 ## The Challenge of Black Box Governance for Private Citizens
 
-This audit begins with a contradiction that defines its entire scope: The TGA promised a verifiable 'enhanced' system as a legal condition for provisional approval. Four years later, it described that system as undocumented 'day-to-day' processes. Our task is to investigate the gap between that promise and that description using the limited tools of a citizen. We confront the fundamental accountability problem of information asymmetry: regulators hold complete knowledge of internal processes while citizens see only outputs. When the TGA announced "enhanced safety monitoring," it created a definitional crisis: where does routine pharmacovigilance end and enhanced monitoring begin?
+This audit begins with a contradiction that defines its entire scope: The TGA promised a verifiable “enhanced” system as the oversight framework underpinning provisional approval. Four years later, it described that system as undocumented 'day-to-day' processes. Our task is to investigate the gap between that promise and that description using the limited tools of a citizen. We confront the fundamental accountability problem of information asymmetry: regulators hold complete knowledge of internal processes while citizens see only outputs. When the TGA announced "enhanced safety monitoring," it created a definitional crisis: where does routine pharmacovigilance end and enhanced monitoring begin?
 
 For private citizens with limited resources, funding, and investigative powers, this creates an impossible research challenge. Yet patterns emerge that demand explanation—even when definitive proof remains beyond citizen reach.
 
