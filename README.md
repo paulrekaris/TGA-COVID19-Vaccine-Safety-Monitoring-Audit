@@ -191,7 +191,7 @@ Without governance and performance‑measurement records:
 
 ### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
 
-In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at UTS about COVID-19 vaccine safety monitoring. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
+In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
 
 What they showed:
 - Slide 22: Routine PV infrastructure (AEMS, DAEN, daily/weekly analysis, workflow database)
@@ -280,7 +280,13 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025): mon
 
 **Reference:** Phillips A, et al. (2021). *Vaccine*, 39(40), 5968-5981. [doi:10.1016/j.vaccine.2021.07.059](https://doi.org/10.1016/j.vaccine.2021.07.059)
 
-**Full paper:** [Research Paper](reference-documents/1-s2.0-S0264410X21009506-main.pdf)
+**[Full paper](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)**
+
+---
+
+**Then commit:**
+```
+Update link to renamed Phillips et al. paper
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
