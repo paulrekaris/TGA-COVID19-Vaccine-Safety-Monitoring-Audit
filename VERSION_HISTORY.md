@@ -3,7 +3,7 @@
 ## Version 1.7.2 (19 December 2025)
 
 - Add Phillips et al. (2021) peer-reviewed study documenting pre-rollout expert warnings.
- - Context: Study interviewed 17 Australian vaccine safety experts (July-October 2020) 
+  - Context: Study interviewed 17 Australian vaccine safety experts (July-October 2020) 
 who identified data linkage as "major gap," characterized surveillance systems as 
 "parallel systems," and recommended "significant enhancement" for COVID vaccines. 
 Expert warnings align with subsequent TGA testimony that monitoring was "day-to-day 
