@@ -34,7 +34,8 @@ National Cabinet endorsed "active and comprehensive" COVID‑19 vaccine safety m
 Enhanced post‑market monitoring was the regulatory safeguard that justified provisional, rather than standard, approval (less pre‑market evidence, faster access) and underpinned government mandates affecting employment, travel and social participation.
 
 **Regulatory Requirement**  
-Enhanced monitoring was a legal condition for provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty.
+Enhanced safety monitoring was a regulatory condition and expectation of provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty, as reflected in TGA’s provisional approval and post‑market surveillance framework.
+
 
 ---
 
@@ -119,7 +120,7 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 
 ### Q3: Why does this matter?
 
-68 million doses were administered under provisional approval, where enhanced monitoring beyond routine surveillance was the legal condition for approval. If this enhanced monitoring cannot be verified through documentation, the provisional approval verification framework has failed during Australia's largest deployment of provisionally approved medicines. The gap exists between a formal Cabinet-endorsed commitment and demonstrable delivery.
+68 million doses were administered under provisional approval, where enhanced safety monitoring beyond routine surveillance was a regulatory condition and expectation of approval, reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If this enhanced monitoring cannot be verified through documentation, the provisional approval verification framework has failed during Australia's largest deployment of provisionally approved medicines. The gap exists between a formal Cabinet-endorsed commitment and demonstrable delivery.
 
 ### Q4: Why is accountability for this monitoring framework so critical?
 
@@ -137,7 +138,7 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 
 **The Regulatory Trade-Off:**
 
-Provisional approval is specifically designed for situations where products are approved faster with less complete evidence. **In exchange for faster approval, enhanced safety monitoring is mandatory.** This monitoring is the regulatory safeguard that compensates for abbreviated pre-approval evidence. It's not optional—it's the legal condition that makes provisional approval acceptable.
+Provisional approval is specifically designed for situations where products are approved faster with less complete evidence. **In exchange for faster approval, enhanced safety monitoring is mandatory.** This monitoring is the regulatory safeguard that compensates for abbreviated pre‑approval evidence. Enhanced safety monitoring was a regulatory condition and expectation of provisional approval, reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework
 
 **The Social Contract:**
 
