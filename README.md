@@ -280,7 +280,7 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025): mon
 
 **Reference:** Phillips A, et al. (2021). *Vaccine*, 39(40), 5968-5981. [doi:10.1016/j.vaccine.2021.07.059](https://doi.org/10.1016/j.vaccine.2021.07.059)
 
-**[Full paper](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)**
+[**Full paper: Phillips et al. (2021)**](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)
 
 ---
 
