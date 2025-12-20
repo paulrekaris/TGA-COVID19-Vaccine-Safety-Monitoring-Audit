@@ -494,7 +494,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What research methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** - Audit/blob/main/Documentation%20Gap%20Analysis_%20Independent%20Audit%20of%20TGA%20COVID-19%20Vaccine%20Safety%20Monitoring%20Plan%20_V1.5.1.pdf) It includes:
+My investigation follows scientific principles of falsifiability and replicability and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** - It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
