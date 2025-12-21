@@ -278,7 +278,7 @@ If 26 million Australians:
 - Based on assurances of enhanced safety monitoring
 - During the most significant public health intervention in Australian history
 
-**But that enhanced monitoring cannot be verified through documentation, cannot be demonstrated to have been systematically tracked, and officials confirm it was never measured against Plan objectives...**
+**If enhanced monitoring cannot be verified through documentation, cannot be demonstrated to have been systematically tracked, and officials confirm it was never measured against Plan objectives...**
 
 **Then this represents a fundamental failure of regulatory accountability, transparency, and the provisional approval verification framework at the exact moment when such accountability mattered most.**
 
