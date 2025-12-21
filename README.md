@@ -24,7 +24,7 @@ through records, as required for an enhanced monitoring framework relied upon fo
 
 **Intended for:** Parliamentary oversight, administrative review, accountability assessment, academic research, media investigation, and historical record.
 
-**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, 
+**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
 and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 
@@ -519,7 +519,7 @@ The comprehensive audit report includes:
 
 - **Reference Documents** – TGA’s Safety Monitoring Plan (February 2021), Senate Community Affairs Legislation Committee transcripts (9 October 2025), AusPARs for Comirnaty and Spikevax.  
 
-- **Media Coverage** – investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi’s platform:  
+- **Media Coverage** – investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi’s Substack:  
   - “TGA’s vaccine safety black hole: A concerned citizen’s four‑year quest for answers”  
     <https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a>  
   - “Stairs to nowhere: TGA’s vanishing vaccine safety monitoring trail”  
