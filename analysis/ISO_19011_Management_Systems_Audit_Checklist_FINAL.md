@@ -65,7 +65,7 @@ This audit applies ISO 19011:2018 guidelines to assess implementation of the TGA
 
 ## Managing the Audit Programme
 
-### ✅ Establish Competence of Audit Programme Manager
+### Establish Competence of Audit Programme Manager
 
 **ISO 19011 Requirement:** Audit programme managers must have sufficient competence in auditing, the relevant management system, and the auditee's context.
 
@@ -81,7 +81,7 @@ This audit applies ISO 19011:2018 guidelines to assess implementation of the TGA
 
 ---
 
-### ✅ Establish Context of the Audit Programme
+### Establish Context of the Audit Programme
 
 **Auditee Context:**
 - **Organisational objective:** Assure the safety of provisionally approved COVID-19 vaccines in Australia
@@ -99,7 +99,7 @@ This audit applies ISO 19011:2018 guidelines to assess implementation of the TGA
 
 ---
 
-### ✅ Establish Objectives of the Audit Programme
+### Establish Objectives of the Audit Programme
 
 **Audit Objectives:**
 1. Determine the extent to which TGA has documented implementation of each of the 20 Plan outputs
@@ -112,7 +112,7 @@ This audit applies ISO 19011:2018 guidelines to assess implementation of the TGA
 
 ---
 
-### ✅ Determine Risks and Opportunities of the Audit Programme
+### Determine Risks and Opportunities of the Audit Programme
 
 **Key Risks:**
 - Political sensitivity of COVID-19 vaccine oversight may affect cooperation and interpretation
@@ -135,7 +135,7 @@ This audit applies ISO 19011:2018 guidelines to assess implementation of the TGA
 
 ---
 
-### ✅ Establish Extent and Scope of the Audit Programme
+### Establish Extent and Scope of the Audit Programme
 
 **Audit Scope:**
 - **Subject:** Implementation of TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
@@ -152,7 +152,7 @@ This audit applies ISO 19011:2018 guidelines to assess implementation of the TGA
 
 ---
 
-### ✅ Establish Audit Programme Resources
+### Establish Audit Programme Resources
 
 **Resources Allocated:**
 - **Time:** Four years systematic investigation (2021-2025)
