@@ -1129,7 +1129,7 @@ These limitations are explicitly acknowledged and do not materially affect valid
 32. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
 
 **FOI Framework:**
-33. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. https://www.oaic.gov.au/freedom-of-information/foi-guidelines/part-10
+33. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. [[https://www.oaic.gov.au/freedom-of-information/foi-guidelines/part-10](https://www.oaic.gov.au/freedom-of-information/freedom-of-information-guidance-for-government-agencies/freedom-of-information-reviews/part-10-review-by-the-information-commissioner)]
 
 34. Freedom of Information Act 1982 (Cth)
 
@@ -1153,7 +1153,7 @@ These limitations are explicitly acknowledged and do not materially affect valid
 40. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
 **Bayesian Methods:**
-41. Inter-rater reliability and agreement in audit assessments. *BMC Medical Research Methodology* (2021). https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01368-z
+41. [Bayesian Joint Modeling of Interrater and Intrarater Reliability. arXiv (2024).](https://arxiv.org/abs/2407.12700)
 
 ---
 
@@ -1169,8 +1169,8 @@ https://doi.org/10.5281/zenodo.17731054
 44. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-45. AustLII – OAIC Decisions  
-https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
+45. AustLII – OAIC Decisions
+[(https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=)]
 
 ---
 
