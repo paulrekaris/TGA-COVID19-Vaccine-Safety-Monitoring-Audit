@@ -1129,14 +1129,16 @@ These limitations are explicitly acknowledged and do not materially affect valid
 32. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
 
 **FOI Framework:**
-33. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. [[https://www.oaic.gov.au/freedom-of-information/foi-guidelines/part-10](https://www.oaic.gov.au/freedom-of-information/freedom-of-information-guidance-for-government-agencies/freedom-of-information-reviews/part-10-review-by-the-information-commissioner)]
+33. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
+https://www.oaic.gov.au/freedom-of-information/freedom-of-information-guidance-for-government-agencies/freedom-of-information-reviews/part-10-review-by-the-information-commissioner
 
-34. Freedom of Information Act 1982 (Cth)
+34. Freedom of Information Act 1982 (Cth). 
+https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 **Safety Culture Frameworks:**
-35. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
+36. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
 
-36. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
+37. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
 
 ---
 
@@ -1170,7 +1172,7 @@ https://doi.org/10.5281/zenodo.17731054
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
 45. AustLII – OAIC Decisions
-[(https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=)]
+https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 ---
 
