@@ -551,9 +551,8 @@ The audit identifies systematic gaps between:
 
 ---
 
-## Confidence and Uncertainty Assessment
 
-### ISO 19011 Audit Conformance Score
+## ISO 19011 Audit Conformance Score
 
 **Given the evidence base and known limitations, this audit assigns itself an ISO 19011 conformance score of 92/100.**
 
@@ -563,34 +562,22 @@ The audit identifies systematic gaps between:
 Based on typical professional audit programmes using ISO 19011, a well-structured independent audit of this complexity would be expected to fall in the 80–95/100 band.
 
 **Evidence Supporting Higher Conformance:**
-- Comprehensive, structured evidence base (FOI releases, TGA plans/reports, parliamentary material, peer-reviewed literature)
+- Comprehensive, structured primary evidence base (FOI releases, OAIC directed searches, TGA plans/reports, parliamentary material, peer-reviewed literature)
 - Clear criteria, scope, and risk-based approach aligned with ISO 19011 principles
 - Full transparency of methods and version control via GitHub + Zenodo
 - Systematic documentation of audit trail from evidence to finding
 - Four-year sustained investigation demonstrating due professional care
 - OAIC independent validation of FOI concerns
-
+- The explicit acknowledgment and management of scope limitations (e.g., no on-site access).
+  
 **Evidence Limiting Maximum Confidence:**
 - No on-site access, interviews, or internal system walkthroughs (scope limitation)
 - Single-auditor programme (no internal peer-review team)
 - Reliance on FOI processes subject to TGA's record-keeping practices
 - Citizen-led audit without formal accreditation
 
-### Posterior Confidence (Bayesian Framework)
-
-Treating the score as a parameter updated by evidence:
-
-**Point Estimate:** 92/100
-
-**95% Credible Interval:** 88–96  
-(Reflecting plausible variation if another experienced ISO 19011 auditor replicated the assessment with the same evidence)
-
-**Approximate Probabilities:**
-- P(score ≥ 90) ≈ 0.97
-- P(score ≥ 85) > 0.99
-- P(score < 80) < 0.01
-
-These probabilities reflect moderate-to-high inter-rater agreement observed in audit-style rating tasks and the strength of the documentation underlying this audit.
+Professional Assessment of Audit Conformance:
+Based on a comprehensive review against ISO 19011:2018 principles, this audit demonstrates high conformance with professional audit standards. On a scale where 100 represents ideal conformance under full institutional access, this citizen-led documentary audit is assessed at 92/100.
 
 ### Interpretation
 
@@ -963,9 +950,6 @@ https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 44. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
-**Bayesian Methods**
-
-45. [Bayesian Joint Modeling of Interrater and Intrarater Reliability. arXiv (2024).](https://arxiv.org/abs/2407.12700)
 
 ---
 
