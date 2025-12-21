@@ -327,7 +327,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 - **Evidence:** Official testimony to Senate Estimates (October 9, 2025)
 - **Method:** Analysis of published testimony transcripts
 - **Reliability:** Public record, provided under oath
-- **Finding:** TGA stated monitoring comprised "day-to-day processes" never "systematically tracked"
+- **Finding:** TGA stated monitoring comprised "day-to-day processes" never systematically tracked
 
 **Source 4: Supporting Academic Literature**
 - **Evidence:** Peer-reviewed publications on Australian pharmacovigilance systems
@@ -409,7 +409,7 @@ ISO 19011 principle of transparency; FOI Act 1982 obligations regarding document
 **Audit Evidence:**
 - **Initial position (2022):** "Documents do not exist or have not been created"
 - **Later position (2023):** "Ample documentation was undertaken"  
-- **Final position (2024):** "Too subjective and complex to classify"
+- **Final position (2024):** Too subjective and complex to classify
 - OAIC findings: Inconsistent positions undermine confidence in search adequacy
 
 **Audit Finding:**  
@@ -496,7 +496,7 @@ The audit identifies systematic gaps between:
 
 **1. Gap Between Commitment and Delivery**
 - TGA published comprehensive Safety Monitoring Plan with 17 numbered strategies and 20 specified outputs
-- TGA admits monitoring was "day-to-day processes" never "systematically tracked"
+- TGA admits monitoring was "day-to-day processes" never systematically tracked
 - No evidence formal commitments were operationally distinct from routine processes
 - Only 15% of outputs have fully traceable documentation
 
