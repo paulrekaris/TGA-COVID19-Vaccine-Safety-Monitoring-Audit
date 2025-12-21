@@ -355,7 +355,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 TGA COVID-19 Vaccine Safety Monitoring Plan specified 17 numbered strategies requiring systematic implementation and monitoring
 
 **Audit Evidence:**  
-- TGA Senate testimony (October 9, 2025): Monitoring was "day-to-day processes" that were "never systematically tracked" against the Safety Plan
+- TGA Senate testimony (October 9, 2025): Monitoring was "day-to-day processes" that were never systematically tracked against the Safety Plan
 - FOI responses: No documentation of systematic tracking mechanisms
 - No evidence of performance measurement against Plan outputs
 
@@ -446,7 +446,7 @@ Consistency between public communications and formal policy commitments; transpa
 **Audit Evidence:**
 - **February 3, 2021 public video:** COVID vaccines "will be no different" from routine surveillance
 - **February 2021 Safety Plan:** Specified "enhanced" monitoring with 17 numbered strategies and 20 outputs
-- **October 2025 TGA Senate testimony:** Confirms monitoring was routine "day-to-day processes" never "systematically tracked"
+- **October 2025 TGA Senate testimony:** Confirms monitoring was routine "day-to-day processes" never systematically tracked
 - **National Cabinet (November 2020):** Endorsed "active and comprehensive" monitoring
 - **Bilateral agreements (February 2021):** Required enhanced monitoring and systematic reporting
 
@@ -642,7 +642,7 @@ These limitations are explicitly acknowledged and do not materially affect the v
 | Assessment Area | Rating | Evidence Basis |
 |----------------|--------|----------------|
 | **Documentation & Transparency** | Non-Conforming | Contradictory FOI responses; OAIC findings |
-| **Systematic Implementation** | Non-Conforming | TGA admits "never systematically tracked" |
+| **Systematic Implementation** | Non-Conforming | TGA admits never systematically tracked |
 | **System Integration** | Non-Conforming | No coordination protocols documented |
 | **Learning Culture** | Non-Conforming | Expert warnings 2020 → gaps persist 2025 |
 | **Data Linkage Capability** | Non-Conforming | "Major gap" identified 2020, confirmed 2025 |
@@ -1092,7 +1092,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 | **Apr-Jun 2025** | FOI 25-0166 – Consultation Submissions | Applicant and TGA exchange consultation correspondence regarding scope refinement and resource arguments | Explicit references to Plan objectives and to OAIC MR22/00538 search findings | Shows applicant's progressive narrowing of scope and TGA's maintained practical refusal despite objective refinement. |
 | **3 Jun 2025** | FOI 25-0166 – Notice of Decision | TGA issues practical refusal decision under s24AB(7) despite acknowledging 399 documents fall within scope | Acknowledges 399 documents fall within scope but claims processing "unreasonable diversion of resources" | Confirms that even after identifying finite corpus of in-scope documents, TGA maintains practical refusal rather than facilitating access to Plan-related records. |
 | **Oct 2025** | FOI 25-0166 – s54Z Application to OAIC | Applicant applies to OAIC for review of practical refusal decision | Application reiterates need for Plan-specific implementation evidence and questions resource diversion argument when TGA demonstrated capability (Sept 2024: 3 hours to organise 1,674 docs) | Escalates FOI 25-0166 to independent review. Second OAIC investigation running parallel to MR22/00538. |
-| **9 Oct 2025** | Senate Estimates Testimony | TGA officials testify to Senate Community Affairs Legislation Committee. Dr Dascombe characterises COVID-19 vaccine monitoring as "day-to-day processes" that were "never systematically tracked" | Direct testimony about Safety Monitoring Plan implementation - confirms monitoring not systematically tracked against Plan outputs | Official admission under parliamentary privilege that contradicts "enhanced" monitoring commitments and confirms absence of systematic implementation tracking. |
+| **9 Oct 2025** | Senate Estimates Testimony | TGA officials testify to Senate Community Affairs Legislation Committee. Dr Dascombe characterises COVID-19 vaccine monitoring as "day-to-day processes" that were never systematically tracked | Direct testimony about Safety Monitoring Plan implementation - confirms monitoring not systematically tracked against Plan outputs | Official admission under parliamentary privilege that contradicts "enhanced" monitoring commitments and confirms absence of systematic implementation tracking. |
 
 **D.2: Summary of FOI and OAIC Escalation - Timeline Analysis**
 
@@ -1105,7 +1105,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 5. **OAIC decision (Mar 2025):** Confirms "no documents exist" position
 6. **Refined FOI (Apr 2025):** 399 documents identified but practical refusal invoked
 7. **Second OAIC review (Oct 2025):** Escalation continues
-8. **Senate testimony (Oct 2025):** Official admission monitoring "never systematically tracked"
+8. **Senate testimony (Oct 2025):** Official admission monitoring never systematically tracked
 
 **Evidentiary Significance:** The timeline demonstrates:
 - Multiple formal processes (email, FOI, OAIC review, Senate testimony)
