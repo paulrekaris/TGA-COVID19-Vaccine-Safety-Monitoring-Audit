@@ -860,7 +860,7 @@ These limitations are explicitly acknowledged and do not materially affect valid
 
 **FOI Evidence**
 
-9. FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders)
+9.  FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders)
    
 10. Related FOI matters (multiple requests 2021-2025)
     
@@ -912,23 +912,32 @@ These limitations are explicitly acknowledged and do not materially affect valid
 
 ---
 
+## International Pharmacovigilance Standards 
+
+26. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
+​
+27. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
+​
+28. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
+
+29. European Medicines Agency (EMA). Good Pharmacovigilance Practices (GVP) Module VI – Management and reporting of adverse reactions to medicinal products.​
+
+30. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: 
+https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+​
+31. World Health Organisation (WHO). (2004). Pharmacovigilance: Ensuring the Safe Use of Medicines. WHO Policy Perspectives on Medicines.
+
 ### Supporting References
-
-**Pharmacovigilance Standards**
-
-26. World Health Organisation (WHO). (2004). Pharmacovigilance: Ensuring the Safe Use of Medicines. WHO Policy Perspectives on Medicines.
-
-27. European Medicines Agency (EMA). Good Pharmacovigilance Practices (GVP) Module VI – Management and reporting of adverse reactions to medicinal products.
 
 **Audit Methodology**
 
-28. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+32. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
 
-29. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+33. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
 **Bayesian Methods**
 
-30. Inter-rater reliability and agreement in audit assessments. *BMC Medical Research Methodology* (2021). https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01368-z
+34. Inter-rater reliability and agreement in audit assessments. *BMC Medical Research Methodology* (2021). https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01368-z
 
 ---
 
@@ -936,16 +945,16 @@ These limitations are explicitly acknowledged and do not materially affect valid
 
 **Public Access**
 
-31. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+35. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-32. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+36. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-33. TGA FOI Disclosure Log  
+37. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-34. AustLII – OAIC Decisions  
+38. AustLII – OAIC Decisions  
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 ---
