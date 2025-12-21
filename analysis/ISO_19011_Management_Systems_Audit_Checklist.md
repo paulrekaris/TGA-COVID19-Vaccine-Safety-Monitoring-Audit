@@ -1142,36 +1142,43 @@ https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 ---
 
+### International Pharmacovigilance Standards
+
+Here are concise key citations you can drop straight into the paper, starting at 38.
+
+38. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
+
+39. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
+
+40. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
+
+41. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+
 ### Supporting References
 
-**Pharmacovigilance Standards:**
-37. World Health Organisation (WHO). (2004). Pharmacovigilance: Ensuring the Safe Use of Medicines. WHO Policy Perspectives on Medicines.
-
-38. European Medicines Agency (EMA). Good Pharmacovigilance Practices (GVP) Module VI – Management and reporting of adverse reactions to medicinal products.
-
 **Audit Methodology:**
-39. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+42. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
 
-40. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+43. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
 **Bayesian Methods:**
-41. [Bayesian Joint Modeling of Interrater and Intrarater Reliability. arXiv (2024).](https://arxiv.org/abs/2407.12700)
+44. [Bayesian Joint Modeling of Interrater and Intrarater Reliability. arXiv (2024).](https://arxiv.org/abs/2407.12700)
 
 ---
 
 ### Data Repositories
 
 **Public Access:**
-42. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+45. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-43. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+46. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-44. TGA FOI Disclosure Log  
+47. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-45. AustLII – OAIC Decisions
+48. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 ---
