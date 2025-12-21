@@ -991,18 +991,6 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?conte
    [Full document](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/raw/main/analysis/documentation-gap-analysis_v1.5.1.pdf) | 
    [Reference List (p.63)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/raw/main/analysis/documentation-gap-analysis_v1.5.1.pdf#page=63)
 
-
-
-
-
-
-
-
-
-
-
-[TGA-COVID19 Vaccine Safety Monitoring – Documentation Gap Analysis (see p.63 for full reference list)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/raw/main/analysis/documentation-gap-analysis_v1.5.1.pdf)
-
 ---
 
 ## Appendices
