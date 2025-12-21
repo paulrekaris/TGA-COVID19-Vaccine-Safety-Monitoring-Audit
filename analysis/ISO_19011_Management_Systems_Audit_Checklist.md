@@ -840,89 +840,112 @@ These limitations are explicitly acknowledged and do not materially affect valid
 
 ### Primary Sources
 
-**TGA Policy Documents:**
+**TGA Policy Documents**
+
 1. TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
-2. TGA Provisional Determination Process for COVID-19 Vaccines
-3. TGA Australian Public Assessment Reports (AusPARs) for COVID-19 vaccines
-4. TGA COVID-19 Vaccine Safety Reports (various dates 2021-2025)
+   
+3. TGA Provisional Determination Process for COVID-19 Vaccines
+   
+4. TGA Australian Public Assessment Reports (AusPARs) for COVID-19 vaccines
+   
+5. TGA COVID-19 Vaccine Safety Reports (various dates 2021-2025)
 
-**Government Commitments:**
-5. National Cabinet COVID-19 Vaccination Policy (November 2020)
-6. Commonwealth-State Bilateral Agreements (February 2021)
-7. Department of Health Public Communications (February 3, 2021 video)
+**Government Commitments**
 
-**FOI Evidence:**
-8. FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders)
-9. Related FOI matters (multiple requests 2021-2025)
-10. OAIC Determination MR2200538 and related decisions
-11. OAIC published decision AICmr 54 (2025)
+6. National Cabinet COVID-19 Vaccination Policy (November 2020)
+   
+7. Commonwealth-State Bilateral Agreements (February 2021)
+   
+8. Department of Health Public Communications (February 3, 2021 video)
 
-**Parliamentary Evidence:**
-12. Senate Community Affairs Legislation Committee Hansard (October 9, 2025)
-13. Senate Estimates testimony – TGA officials
-14. Parliamentary questions and responses on vaccine safety monitoring
+**FOI Evidence**
 
-**Academic and Technical Literature:**
-15. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. https://doi.org/10.1016/j.vaccine.2021.07.059
+9. FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders)
+   
+10. Related FOI matters (multiple requests 2021-2025)
+    
+11. OAIC Determination MR2200538 and related decisions
+    
+12. OAIC published decision AICmr 54 (2025)
 
-16. International Council for Harmonisation (ICH) E2E: Pharmacovigilance Planning
+**Parliamentary Evidence**
 
-17. Council for International Organisations of Medical Sciences (CIOMS): Guidelines for Preparing Core Clinical Safety Information
+13. Senate Community Affairs Legislation Committee Hansard (October 9, 2025)
+    
+14. Senate Estimates testimony – TGA officials
+    
+15. Parliamentary questions and responses on vaccine safety monitoring
+
+**Academic and Technical Literature**
+
+16. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. https://doi.org/10.1016/j.vaccine.2021.07.059
+
+17. International Council for Harmonisation (ICH) E2E: Pharmacovigilance Planning
+
+18. Council for International Organisations of Medical Sciences (CIOMS): Guidelines for Preparing Core Clinical Safety Information
 
 ---
 
 ### Standards and Frameworks
 
-**Audit Standards:**
-18. ISO 19011:2018 – Guidelines for Auditing Management Systems. International Organisation for Standardisation. https://www.iso.org/standard/70017.html
+**Audit Standards**
 
-19. ISO 9001:2015 – Quality Management Systems – Requirements
+19. ISO 19011:2018 – Guidelines for Auditing Management Systems. International Organisation for Standardisation. https://www.iso.org/standard/70017.html
 
-**Records Management:**
-20. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
+20. ISO 9001:2015 – Quality Management Systems – Requirements
 
-**FOI Framework:**
-21. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. https://www.oaic.gov.au/freedom-of-information/foi-guidelines/part-10
+**Records Management**
 
-22. Freedom of Information Act 1982 (Cth)
+21. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
 
-**Safety Culture Frameworks:**
-23. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
+**FOI Framework**
 
-24. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
+22. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. https://www.oaic.gov.au/freedom-of-information/foi-guidelines/part-10
+
+23. Freedom of Information Act 1982 (Cth)
+
+**Safety Culture Frameworks**
+
+24. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
+
+25. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
 
 ---
 
 ### Supporting References
 
-**Pharmacovigilance Standards:**
-25. World Health Organisation (WHO). (2004). Pharmacovigilance: Ensuring the Safe Use of Medicines. WHO Policy Perspectives on Medicines.
+**Pharmacovigilance Standards**
 
-26. European Medicines Agency (EMA). Good Pharmacovigilance Practices (GVP) Module VI – Management and reporting of adverse reactions to medicinal products.
+26. World Health Organisation (WHO). (2004). Pharmacovigilance: Ensuring the Safe Use of Medicines. WHO Policy Perspectives on Medicines.
 
-**Audit Methodology:**
-27. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+27. European Medicines Agency (EMA). Good Pharmacovigilance Practices (GVP) Module VI – Management and reporting of adverse reactions to medicinal products.
 
-28. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+**Audit Methodology**
 
-**Bayesian Methods:**
-29. Inter-rater reliability and agreement in audit assessments. *BMC Medical Research Methodology* (2021). https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01368-z
+28. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+
+29. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+
+**Bayesian Methods**
+
+30. Inter-rater reliability and agreement in audit assessments. *BMC Medical Research Methodology* (2021). https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01368-z
 
 ---
 
 ### Data Repositories
 
-**Public Access:**
-30. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+**Public Access**
+
+31. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-31. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+32. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-32. TGA FOI Disclosure Log  
+33. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-33. AustLII – OAIC Decisions  
+34. AustLII – OAIC Decisions  
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 ---
