@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-New to this audit? Start here:
+New to this audit? **Start here:**
 
 - **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, limitations, and how to verify or challenge the findings.
 
