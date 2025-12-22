@@ -844,7 +844,7 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 ## References Summary   
 
-This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into six categories: Primary Sources (TGA documents, FOI evidence, parliamentary testimony); Standards and Frameworks (ISO, ANAO, OSINT); International Pharmacovigilance Standards; Supporting References; High-Reliability Industry Frameworks; and Data Repositories. All URLs were verified as accessible in December 2025. Total: 60 nreferences.
+This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into six categories: Primary Sources (TGA documents, FOI evidence, parliamentary testimony); Standards and Frameworks (ISO, ANAO, OSINT); International Pharmacovigilance Standards; Supporting References; High-Reliability Industry Frameworks; and Data Repositories. All URLs were verified as accessible in December 2025. Total: 60 references.
 
 ---
 
