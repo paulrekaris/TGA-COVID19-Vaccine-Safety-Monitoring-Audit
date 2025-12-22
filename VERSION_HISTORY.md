@@ -2,8 +2,6 @@
 
 ## Version 1.7.3 (22 December 2025)
 
-Here is version-history text you can drop straight into your changelog / README.
-
 **Version history notes**
 
 - **New ISO 19011 checklist:** Added *ISO 19011 Management Systems Audit Checklist* – a standalone, text-based application of ISO 19011:2018 auditing standards to the TGA COVID‑19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non‑conformity ratings and an overall conformity/confidence assessment.
