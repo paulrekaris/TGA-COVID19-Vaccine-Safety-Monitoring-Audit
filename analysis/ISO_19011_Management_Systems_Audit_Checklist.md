@@ -524,33 +524,39 @@ The audit identifies systematic gaps between:
 - Raises accountability questions about gap between formal policy and operational reality
 - Either public misled by formal commitments, or formal commitments were not operationalised
 
-### Comparison to Industry Standards
+## Comparison to High-Reliability Safety Frameworks
 
-**Aviation Safety (ICAO Standards):**
-- Requires documented safety management systems with systematic performance monitoring
-- TGA approach would not meet aviation industry standards for safety-critical operations
+**Aviation and Nuclear Safety Expectations**
 
-**Nuclear Safety (IAEA Framework):**
-- Requires rigorous approach to safety culture with transparent communication
-- TGA approach shows defensive rather than transparent culture; reactive rather than proactive
+In sectors such as commercial aviation and nuclear power, safety management frameworks require formally documented objectives, performance indicators, and continuous monitoring arrangements as core elements of organisational governance (ICAO, 2018; IAEA, 2016). These frameworks treat safety management systems as auditable management systems in their own right, with explicit expectations for documentation, traceability and independent oversight.
 
-**Healthcare Quality (WHO/IHI Standards):**
-- Requires learning culture that systematically acts on expert input
-- TGA approach shows limited evidence of learning from expert warnings over five-year period
+The ICAO Safety Management Manual (Doc 9859, 4th ed.) describes safety management as a systematic, explicit and comprehensive process that includes the definition of safety performance indicators and targets, continuous monitoring of those indicators, and regular reviews of safety performance by management (ICAO, 2018). It emphasises the need for documented safety policies, responsibilities, procedures and records that enable both internal assurance and external oversight.
 
-**TGA's Own Standards for Industry:**
-- TGA requires pharmaceutical companies demonstrate robust safety culture in GMP/GCP compliance
-- TGA Code of Good Manufacturing Practice (GMP) requires documented quality management systems
-- TGA Good Clinical Practice (GCP) standards require systematic safety monitoring and reporting
-- TGA requires sponsors maintain pharmacovigilance systems compliant with ICH E2E
-- TGA expects comprehensive documentation of safety processes for product approval
-- TGA regulatory framework mandates audit trails and systematic performance tracking for industry
-- TGA's own monitoring displays characteristics TGA would likely flag as deficient if observed in regulated industry
-- Applies higher documentation standards to industry than demonstrated in own operations
-- Creates accountability gap: regulator holds industry to standards it doesn't meet itself
+Similarly, the IAEA Safety Requirements on Leadership and Management for Safety (GSR Part 2) require organisations performing nuclear activities to establish an integrated management system in which safety is a core value, supported by documented processes, performance goals and regular evaluation of safety performance (IAEA, 2016). Senior management is required to seek information on safety performance, encourage reporting and learning, and ensure that decisions affecting safety are based on reliable, traceable information.
+
+**Contrast with TGA’s Documented Practice**
+
+Against these high‑reliability benchmarks, the audit’s findings show that TGA’s implementation of the COVID‑19 Vaccine Safety Monitoring Plan lacks a comparable level of documented performance objectives, indicators and tracking. The Plan specified multiple strategies and outputs for “enhanced” monitoring, yet there is no evidence of a systematic mechanism that tracks delivery of those outputs, links safety signals to regulatory actions, or provides regular, documented reviews of safety performance against the Plan’s commitments. This gap is underlined by TGA’s Senate testimony that monitoring relied on “day‑to‑day processes” that were never systematically tracked against the Plan, and by the absence of documentation demonstrating how 6.8 million AusVaxSafety survey responses were translated into the 148 safety signals and 57 regulatory actions TGA reports.
+
+In aviation or nuclear contexts, an organisation that published a formal safety plan with specified outputs but could not produce documentation showing how those outputs were tracked, measured and reviewed over time would be considered non‑conforming with the governing safety management expectations (ICAO, 2018; IAEA, 2016). By comparison, TGA’s inability to demonstrate documented implementation and performance measurement for its COVID‑19 Vaccine Safety Monitoring Plan indicates a safety‑governance approach that falls well short of what is expected in other high‑hazard domains where public protection is paramount.
+
+**High-Reliability Organisation Principles**
+
+This divergence can also be expressed in terms of established high‑reliability organisation (HRO) principles (Weick & Sutcliffe, 2015). High‑reliability theory characterises organisations in high‑risk fields as having a preoccupation with failure, reluctance to simplify, sensitivity to operations, commitment to resilience and deference to expertise. These principles translate operationally into systematic tracking of safety commitments, detailed documentation of how signals are identified and acted upon, and structured responses to expert warnings about system weaknesses.
+
+The audit evidence suggests that TGA’s approach to COVID‑19 vaccine safety monitoring is distant from these HRO characteristics. Despite pre‑rollout expert warnings identifying specific gaps in pharmacovigilance capability and calling for significant enhancements (Phillips et al., 2021), there is no documented programme of corrective actions or capability development that addresses those warnings over the five‑year period reviewed. The absence of a documented signal‑to‑action audit trail, the lack of integration protocols between surveillance systems, and contradictory positions on the existence of implementation documents all point to a reactive, documentation‑light culture rather than the anticipatory, documentation‑rich posture associated with high‑reliability organisations.
+
+In this sense, the comparison to aviation and nuclear safety is not rhetorical but structural: where high‑hazard sectors require documented safety management systems with clear performance monitoring and audit trails (ICAO, 2018; IAEA, 2016), TGA’s documented practice for provisional COVID‑19 vaccine monitoring does not meet comparable expectations for traceability, transparency and systematic learning.
+
+In healthcare, high‑reliability and patient‑safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time.
+
+TGA’s limited evidence of systematic learning from expert warnings, absence of a documented signal‑to‑action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data‑driven learning cultures.
+
+**TGA’s Own Standards for Regulated Industry** 
+
+TGA requires sponsors and manufacturers to demonstrate robust safety culture and documented quality systems under the Code of Good Manufacturing Practice (GMP), Good Clinical Practice (GCP) and ICH E2E‑compliant pharmacovigilance systems. These frameworks expect comprehensive documentation of safety processes, audit trails for critical activities and systematic performance tracking as conditions for approval and ongoing compliance. By contrast, the audit finds that TGA’s own COVID‑19 vaccine safety monitoring lacks equivalent documentation, auditability and performance measurement, displaying characteristics that TGA would likely treat as deficiencies if observed in a regulated sponsor. This asymmetry creates an accountability gap: the regulator holds industry to standards it does not demonstrably meet in its own safety‑critical operations.
 
 ---
-
 
 ## ISO 19011 Audit Conformance Score
 
@@ -880,76 +886,91 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 22. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. https://doi.org/10.1016/j.vaccine.2021.07.059
 
-23. International Council for Harmonisation (ICH) E2E: Pharmacovigilance Planning
-    
-24. Council for International Organisations of Medical Sciences (CIOMS): Guidelines for Preparing Core Clinical Safety Information
-
 ---
 
 ### Standards and Frameworks
 
 **Audit Standards**
 
-25. ISO 19011:2018 – Guidelines for Auditing Management Systems. International Organisation for Standardisation. https://www.iso.org/standard/70017.html
+23. ISO 19011:2018 – Guidelines for Auditing Management Systems. International Organisation for Standardisation. https://www.iso.org/standard/70017.html
 
-26. ISO 9001:2015 – Quality Management Systems – Requirements
+24. ISO 9001:2015 – Quality Management Systems – Requirements
 
 **ISO 19011 Audit Methodology Resources**
 
-27. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+25. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
-28. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+26. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
 
-29. OSHISIS. ISO 19011:2018 Guidelines for Auditing Management Systems - Documentation and Implementation Guide. https://oshisis.com/docs/iso-190112018-guidelines-for-auditing-management-systems/
+27. OSHISIS. ISO 19011:2018 Guidelines for Auditing Management Systems - Documentation and Implementation Guide. https://oshisis.com/docs/iso-190112018-guidelines-for-auditing-management-systems/
 
 **Australian National Audit Office (ANAO) Guidance**
 
-30. Australian National Audit Office (ANAO). Reporting Meaningful Performance Information. https://www.anao.gov.au/work/insights/reporting-meaningful-performance-information
+28. Australian National Audit Office (ANAO). Reporting Meaningful Performance Information. https://www.anao.gov.au/work/insights/reporting-meaningful-performance-information
 
-31. Australian National Audit Office (ANAO). Better Practice Guides. https://www.anao.gov.au/pubs/better-practice-guides
+29. Australian National Audit Office (ANAO). Better Practice Guides. https://www.anao.gov.au/pubs/better-practice-guides
 
-32. Australian National Audit Office (ANAO) (2025). ANAO Audit Manual — Shared Content. ANAO, Canberra. https://www.anao.gov.au/work/audit-manual/shared-content
+30. Australian National Audit Office (ANAO) (2025). ANAO Audit Manual — Shared Content. ANAO, Canberra. https://www.anao.gov.au/work/audit-manual/shared-content
 
-33. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
+31. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
 
 **OSINT Methodology**
 
-34. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
+32. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
 
 **FOI Framework**
 
-35. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
+33. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
 https://www.oaic.gov.au/freedom-of-information/freedom-of-information-guidance-for-government-agencies/freedom-of-information-reviews/part-10-review-by-the-information-commissioner
 
-36. Freedom of Information Act 1982 (Cth). 
+34. Freedom of Information Act 1982 (Cth). 
 https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
+
 
 **Safety Culture Frameworks**
 
-37. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
+35. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
 
-38. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
+36. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
 
+37. World Health Organization. Patient safety (fact sheet). Geneva: WHO; 2023. Available at: https://www.who.int/news-room/fact-sheets/detail/patient-safety.
+​
 ---
 
 ### International Pharmacovigilance Standards
 
-39. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
+38. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
 
-40. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
+39. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
 
-41. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
+40. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
 
-42. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+41. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
 ### Supporting References
 
 **Audit Methodology**
 
-43. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+42. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
 
-44. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+43. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
+
+## High-Reliability Industry & Safety Framework References
+
+44. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
+
+45. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
+
+46. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
+https://www.safetymattersblog.com/2013/05/high-reliability-organizations-and.html
+
+47. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
+
+48. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
+
+49. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
+https://psnet.ahrq.gov/primer/high-reliability
 
 ---
 
@@ -957,16 +978,16 @@ https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 **Public Access**
 
-46. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+50. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-47. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+51. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-48. TGA FOI Disclosure Log  
+52. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-59. AustLII – OAIC Decisions
+53. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 
