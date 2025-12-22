@@ -31,7 +31,7 @@ This ISO 19011 audit complements the comprehensive documentation gap analysis by
 - Conformity ratings (conforming/non-conforming)
 - Severity classification (major/minor non-conformities)
 - Industry benchmarking (comparison to international standards)
-- Quality scoring (Bayesian confidence assessment)
+- Quality scoring
 - Professional accountability (audit conclusions and recommendations)
 
 **Intended Audiences:**
