@@ -543,7 +543,9 @@ When citing this work, please use:
 
 **Recommended citation:**
 
-Rekaris, P. (2025). *Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan*, December 2025 (Version 1.7.2). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan, December 2025. Zenodo. 
+https://doi.org/10.5281/zenodo.17731054
+
 
 **BibTeX:**
 ```bibtex
