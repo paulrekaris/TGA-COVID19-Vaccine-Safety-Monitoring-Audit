@@ -461,6 +461,10 @@ Three possible interpretations:
 
 TGA testimony validates "no different" message was factually correct, while simultaneously confirming formal commitments to "enhanced" monitoring were not systematically tracked or implemented.
 
+**Public reporting of COVID‑19 vaccine safety data and regulatory responses.**  
+
+Between March 2021 and June 2023, TGA published more than 150 weekly COVID‑19 vaccine safety reports, then shifted to a monthly format from July 2023, providing regular public reporting of aggregate adverse event data, safety signals under investigation and, in some cases, related regulatory updates. However, these reports do not show how the Safety Plan’s “enhanced” strategies were implemented and do not provide a documented signal‑to‑action audit trail linking individual safety signals to specific regulatory decisions.
+
 ---
 
 ### FINDING 7: EXPERT WARNINGS NOT SYSTEMATICALLY ADDRESSED
