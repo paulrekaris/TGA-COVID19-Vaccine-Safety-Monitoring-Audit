@@ -1,6 +1,16 @@
 # Version History
 
-## Version 1.7.2 (19 December 2025)
+## Version 1.7.3 (22 December 2025)
+
+Here is version-history text you can drop straight into your changelog / README.
+
+**Version history notes**
+
+- **New ISO 19011 checklist:** Added *ISO 19011 Management Systems Audit Checklist* – a standalone, text-based application of ISO 19011:2018 auditing standards to the TGA COVID‑19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non‑conformity ratings and an overall conformity/confidence assessment.
+- **Tightened legal and regulatory claims:** Refined wording around FOI, OAIC, Senate testimony and the Sparke Helmore case file to ensure all assertions are strictly evidence‑based and anchored in primary sources, strengthening accuracy and avoiding any potential misrepresentation while preserving the core findings on documentation gaps and non‑conformities.
+- **Minor edits and fixes:** Corrected and updated internal and external links, standardised UK spelling, clarified a small number of section headings, and made minor edits to references and section text for accuracy and readability.
+
+## Version 1.7.2 (20 December 2025)
 
 - Add Phillips et al. (2021) peer-reviewed study documenting pre-rollout expert warnings.
   - Context: Study interviewed 17 Australian vaccine safety experts (July-October 2020) 
