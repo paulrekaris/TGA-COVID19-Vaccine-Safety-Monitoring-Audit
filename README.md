@@ -561,76 +561,98 @@ https://doi.org/10.5281/zenodo.17731054
 }
 ```
 
+# DISCLAIMER AND DECLARATION
 
-## Disclaimer and Declaration
+-----
 
+## Scope and Intent
 
-### Scope and Intent
-
-This audit assesses documented evidence of plan implementation and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control. 
+This audit assesses documented evidence of plan implementation and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control.
 
 The findings concern systemic documentation, records management, and governance processes—not individual performance or intent. The absence of documentation may reflect organisational capacity issues, competing priorities during an emergency response, or records-management system limitations rather than deliberate non-implementation.
 
 This distinction is important: even if staff worked conscientiously within existing systems, the documentation gap remains a governance concern requiring independent assessment to verify compliance with provisional approval conditions and international pharmacovigilance standards.
 
-### Scope of Assessment
+-----
 
-This assessment evaluates publicly available evidence for implementation of TGA’s COVID‑19 Vaccine Safety Monitoring Plan commitments. It does **not** assess the clinical safety or efficacy of COVID‑19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management and governance processes, not clinical or scientific judgements.
+## Scope of Assessment
 
-### Peer‑Review Status
+This assessment evaluates publicly available evidence for implementation of TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) commitments. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management and governance processes, not clinical or scientific judgements.
 
-This work has not yet been peer‑reviewed or independently verified. It is published to encourage independent verification, peer review and scrutiny by researchers, citizens, oversight bodies and other interested parties. Corrections and additional evidence are welcomed.
+-----
 
-### Accuracy and Good Faith
+## Peer-Review Status
+
+This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review and scrutiny by researchers, citizens, oversight bodies and other interested parties. Corrections and additional evidence are welcomed.
+
+-----
+
+## Accuracy and Good Faith
 
 This analysis is based on extensive review of available documentation and is accurate to the best of the author’s knowledge. Given the volume and complexity of material, inadvertent errors in citation or interpretation may occur; corrections are welcomed. The work is conducted in good faith and in the public interest.
 
-### Living Document
+-----
 
-This is a living, evidence‑based assessment. It will be updated as new official documents (for example FOI and OAIC material) or substantive analytical feedback become available, with transparent version history so changes in the evidence base and interpretation remain visible to readers.
+## Living Document
 
-### Author Declaration
+This is a living, evidence-based assessment. It will be updated as new official documents (for example, FOI and OAIC material) or substantive analytical feedback become available, with transparent version history so changes in the evidence base and interpretation remain visible to readers.
+
+-----
+
+## Author Declaration
 
 The author declares that the information in this assessment is accurate to the best of their knowledge and that all factual claims are supported by documented evidence with source citations.
 
-## Contact
+-----
 
+## Legal Disclaimer
 
-For enquiries regarding:
-
-- Peer review and methodology  
-- Error reporting or evidence corrections  
-- Collaboration on regulatory‑transparency research  
-- Media enquiries  
-
-**Email:** [prekas23@gmail.com](mailto:prekas23@gmail.com)
-
-
-## Acknowledgements
-
-
-This work builds on four years of systematic FOI requests, Information Commissioner reviews and engagement with parliamentary oversight processes. Thanks are due to those who provided guidance on FOI procedures, regulatory frameworks and academic standards for transparency research.
-
-Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaboration on investigative reporting that brought these issues to wider public attention.
-
-## Disclaimer
-
-This independent audit is conducted and published in the public interest, consistent with principles of open government, parliamentary oversight, and 
-citizen-led accountability. It examines institutional processes and documentary evidence related to the implementation of government policy and regulatory 
-frameworks. The purpose is to inform public and parliamentary understanding and to contribute to accountability and transparency in government administration.
+This independent audit is conducted and published in the public interest, consistent with principles of open government, parliamentary oversight, and citizen-led accountability. It examines institutional processes and documentary evidence related to the implementation of government policy and regulatory frameworks. The purpose is to inform public and parliamentary understanding and to contribute to accountability and transparency in government administration.
 
 The audit does not attribute misconduct or wrongdoing to any individual, question the professional competence or integrity of officials, or suggest deliberate misrepresentation by any person or organisation. References to named individuals reflect standard documentation practices, citing who presented information in their official capacity as identified in public source materials.
 
 The focus is exclusively on identifying and analysing gaps between published frameworks and verifiable records—not on the actions or intentions of any individual or partner organisation.
 
-**Commitment to Accuracy:** If any inadvertent mischaracterisation of fact, evidence, or the position of any individual or entity is identified, it will be promptly reviewed and corrected. Feedback is welcomed via the project's GitHub repository.
+**Commitment to Accuracy:** If any inadvertent mischaracterisation of fact, evidence, or the position of any individual or entity is identified, it will be promptly reviewed and corrected. Feedback is welcomed via the project’s public contact channels.
 
-**Copyright & Fair Dealing:** The use of source materials, including Crown Copyright documents, is for the purpose of non-commercial research, criticism, review, and public interest analysis pursuant to fair dealing provisions of the Copyright Act 1968 (Cth).
+**Copyright & Fair Dealing:** The use of source materials, including Crown Copyright documents, is for the purpose of non-commercial research or study, criticism or review, and public interest analysis pursuant to fair dealing provisions of the *Copyright Act 1968* (Cth).
+
+-----
+
+## Contact
+
+For enquiries regarding:
+
+- Peer review and methodology  
+- Error reporting or evidence corrections  
+- Collaboration on regulatory-transparency research  
+- Media enquiries  
+
+**Email:** prekas23@gmail.com
+
+-----
+
+## Acknowledgements
+
+This work builds on four years of systematic FOI requests, Information Commissioner reviews and engagement with parliamentary oversight processes. Thanks are due to those who provided guidance on FOI procedures, regulatory frameworks and academic standards for transparency research.
+
+Special thanks to Dr Julie Sladden and Dr Maryanne Demasi for collaboration on investigative reporting that brought these issues to wider public attention.
+
+-----
 
 ## Version History
 
-**Last updated:** 22 December 2025  
-**Version:** 1.7.3
-**Status:** Publication‑ready for open‑repository release
+**Last Updated:** 22 December 2025  
+**Version:** 1.7.3  
+**Status:** Publication-ready for open-repository release
 
-For detailed version history and changelog, see [VERSION_HISTORY.md](VERSION_HISTORY.md)
+For detailed version history and changelog, see VERSION_HISTORY.md.
+
+-----
+
+**Repository:** TGA COVID-19 Vaccine Safety Monitoring Audit (public repository).
+**Permanent Archive:** DOI-backed research dataset and documentation (Zenodo record). 
+
+-----
+
+*This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.* 
