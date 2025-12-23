@@ -603,6 +603,10 @@ This is a living, evidence-based assessment. It will be updated as new official 
 
 The author declares that the information in this assessment is accurate to the best of their knowledge and that all factual claims are supported by documented evidence with source citations.
 
+## Conflicts of Interest
+
+The author has no financial, professional, or personal conflicts of interest related to this work. No funding was received from pharmaceutical companies, government agencies, advocacy groups, or other interested parties. This research was conducted independently in the public interest.
+
 -----
 
 ## Legal Disclaimer
