@@ -426,8 +426,8 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
 ## Evidence Sources
 
-- **Australian COVID‑19 Vaccination Policy**  
-  https://www.health.gov.au/sites/default/files/documents/2020/11/australian-covid-19-vaccination-policy.docx  
+- **Australian COVID‑19 Vaccination Policy**
+  https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdd
   Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA” through a national COVID‑19 Vaccine Pharmacovigilance Plan.
 
 - **TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)**  
