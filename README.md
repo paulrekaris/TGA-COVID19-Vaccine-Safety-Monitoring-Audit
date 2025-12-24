@@ -22,7 +22,7 @@ New to this audit? **Start here:**
 - **Permanent Archive** – Full research package: 
   https://doi.org/10.5281/zenodo.17731054
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report] (analysis/documentation-gap-analysis_v1.5.1.pdf)**.
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**.
 
 ## Purpose
 
