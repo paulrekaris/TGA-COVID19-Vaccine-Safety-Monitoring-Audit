@@ -9,7 +9,7 @@ New to this audit? **Start here:**
 
 - **[Visual Summary: One-Page Audit Methodology Flowchart]
   (https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-  blob/main/analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – 
+blob/main/analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – 
   Visual overview of the audit process, evidence hierarchy, and key findings.
 
 - **[Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** – 
