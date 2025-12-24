@@ -4,17 +4,75 @@
 
 New to this audit? **Start here:**
 
-- **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, limitations, and how to verify or challenge the findings.
+- **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, 
+  limitations, and how to verify or challenge the findings.
 
-- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** – Slide-style overview of key findings and gaps.
+- **[Visual Summary: One-Page Audit Methodology Flowchart]
+  (https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
+  blob/main/analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – 
+  Visual overview of the audit process, evidence hierarchy, and key findings.
 
-- **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – Primary, self‑contained report with fully cited references, primary source materials, findings, research methodology, and implementation status by Safety Plan objective.
+- **[Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** – 
+  Slide-style overview of key findings and documentation gaps.
 
-- **[ISO 19011 Management Systems Audit Checklist](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Full ISO 19011:2018 audit of TGA’s COVID‑19 Vaccine Safety Monitoring Plan.
+- **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – 
+  Primary, self-contained report with fully cited references, primary source 
+  materials, findings, research methodology, and implementation status by Safety 
+  Plan objective.
 
-- **Permanent Archive** – Full research package: https://doi.org/10.5281/zenodo.17731054
+- **[ISO 19011 Management Systems Audit Checklist]
+  (https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
+  blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – 
+  Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, 
+  including audit criteria, evidence hierarchy, non-conformity ratings, and 
+  conformity assessment.
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
+- **Permanent Archive** – Full research package: 
+  https://doi.org/10.5281/zenodo.17731054
+
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report] (analysis/documentation-gap-analysis_v1.5.1.pdf)**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Purpose
 
