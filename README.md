@@ -17,9 +17,8 @@ New to this audit? **Start here:**
   materials, findings, research methodology, and implementation status by Safety 
   Plan objective.
 
-- **[ISO 19011 Management Systems Audit Checklist]
-  (https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-  blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – 
+- **[ISO 19011 Management Systems Audit Checklist(https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
+blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – 
   Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, 
   including audit criteria, evidence hierarchy, non-conformity ratings, and 
   conformity assessment.
