@@ -517,7 +517,10 @@ The comprehensive audit report includes:
 - **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**
 
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
-   - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis_v1.5.pdf)       
+   - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis_v1.5.pdf)
+ 
+   - **ISO 19011 Management Systems Audit Checklist** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non-conformity ratings, and overall conformity assessment.
+   - [ISO 19011 Management Systems Audit Checklist](analysis/iso-19011-audit-checklist_v1.0.pdf)
 
 - **Reference Documents** – TGA’s Safety Monitoring Plan (February 2021), Senate Community Affairs Legislation Committee transcripts (9 October 2025), AusPARs for Comirnaty and Spikevax.  
 
