@@ -671,3 +671,8 @@ For detailed version history and changelog, see VERSION_HISTORY.md.
 -----
 
 *This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.* 
+
+---
+
+© 2025 Paul Rekaris | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
