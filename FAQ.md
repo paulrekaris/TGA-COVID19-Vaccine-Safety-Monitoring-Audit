@@ -30,6 +30,8 @@ Everything is freely accessible at:
 **Cabinet Commitment (November 2020)**  
 National Cabinet endorsed "active and comprehensive" COVID‑19 vaccine safety monitoring, to be delivered through TGA's COVID‑19 Vaccine Pharmacovigilance Plan.
 
+> “The TGA has developed a COVID-19 Vaccine Pharmacovigilance Plan that builds on its already well-established Adverse Events Monitoring System (AEMS) by improving capacity and capability for adverse event reporting to the TGA by state and territory health departments, expanding active surveillance systems for COVID-19 vaccines and enhancing existing processes for safety signal detection and investigation, public communications and implementation of regulatory and programmatic responses. International collaboration and building on existing partnerships with organisations in Australia that have high-level technical expertise in vaccine safety are also core elements of the plan.”— Australian COVID-19 Vaccination Policy, 13 November 2020, p.13
+
 **Why It Mattered**  
 Enhanced post‑market monitoring was the regulatory safeguard that justified provisional, rather than standard, approval (less pre‑market evidence, faster access) and underpinned government mandates affecting employment, travel and social participation.
 
