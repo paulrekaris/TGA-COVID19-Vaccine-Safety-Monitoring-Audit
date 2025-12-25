@@ -82,7 +82,7 @@ The Information Commissioner confirmed that implementation records for the Plan 
 TGA officials admitted monitoring was never systematically tracked against Plan objectives and characterised it as "day-to-day processes".
 
 **Legal Commentary**
-The OAIC decision has been noted in independent legal commentary (Sparke Helmore).
+The original OAIC decision (MR22/00538) has been noted in independent legal commentary (Sparke Helmore).
 
 ---
 
@@ -99,7 +99,7 @@ If the enhanced monitoring promised to Cabinet, Parliament and the public cannot
 ## Oversight and Evidence
 
 **Current Status**  
-The matter is now before the OAIC, the Commonwealth Ombudsman, the Australian National Audit Office and a Senate committee.
+The matter is now before the OAIC (MR25/01153), the Commonwealth Ombudsman, the Australian National Audit Office and a Senate committee.
 
 **Evidence Base**  
 All audit reports, timelines and source documents are fully public and permanently archived at DOI: [10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
