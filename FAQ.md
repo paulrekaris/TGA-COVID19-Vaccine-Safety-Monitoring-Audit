@@ -99,7 +99,7 @@ If the enhanced monitoring promised to Cabinet, Parliament and the public cannot
 ## Oversight and Evidence
 
 **Current Status**  
-The matter is now before the OAIC (MR25/01153), the Commonwealth Ombudsman, the Australian National Audit Office and a Senate committee.
+The matter is now before the OAIC (MR25/01153), the Commonwealth Ombudsman (complaint reference 2025‑806374),the Australian National Audit Office and a Senate committee.
 
 **Evidence Base**  
 All audit reports, timelines and source documents are fully public and permanently archived at DOI: [10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
