@@ -396,18 +396,17 @@ The problem is straightforward: **TGA made commitments to 26 million Australians
 
 ### Assessment Framework
 
-
-This audit applies systematic principles drawn from:
+This audit applies systematic evidence based principles consistent with:
 
 - [**ISO 19011:2018 – Guidelines for Auditing Management Systems**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)
   - Evidence‑based approach.  
   - Independence and due professional care.  
   - Fair presentation of findings and limitations.
-
-- **ANAO better‑practice guidance**  
-  - Assessment against published plans and criteria.  
-  - Triangulation across multiple sources.  
-  - Emphasis on accountability and transparency.
+ 
+- **ANAO compliance standards** (ISSAI-aligned)
+  - Assessment against published plans/criteria
+  - Triangulation across multiple sources
+  - Accountability & transparency emphasis
 
 **Regulatory frameworks applied**
 
@@ -418,7 +417,6 @@ This audit applies systematic principles drawn from:
 - Commonwealth records‑management and performance‑reporting frameworks: PGPA Act 2013, Archives Act 1983.
 
 ### Evidence Hierarchy
-
 
 Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
