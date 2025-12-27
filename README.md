@@ -28,7 +28,7 @@ This README contains the narrative executive summary and overview. Key findings 
 
 This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 20 specified enhanced-pharmacovigilance outputs over four years (2021-2025).
 
-During Australia's largest medical intervention in history, approximately 68 million COVID-19 vaccine doses were administered under provisional approval. 
+During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. 
 This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified 
 through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
@@ -44,7 +44,7 @@ On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccina
 
 The Commonwealth signed formal bilateral agreements with Australian states and territories (including Victoria, signed 19 February 2021) that established governance frameworks requiring systematic reporting of vaccine safety and surveillance data through agreed channels and specified protocols, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
 
-Between February 2021 and late June 2023, more than 68 million COVID‑19 vaccine doses (approximately 94% of the total rollout) were administered in Australia under provisional registration on the ARTG.
+Between February 2021 and late June 2023, more than 68.4 million COVID‑19 vaccine doses (approximately 94% of the total rollout) were administered in Australia under provisional registration on the ARTG.
 
 Provisional approval under the Therapeutic Goods Act 1989 permits time‑limited registration on the basis of preliminary clinical data where usual pre‑market evidentiary requirements cannot be met in time for a public‑health emergency, and TGA’s provisional‑registration guidance states that such medicines are subject to enhanced post‑market surveillance, additional pharmacovigilance conditions and prioritisation within its monitoring and compliance framework, expectations that were consolidated in the February 2021 Safety Monitoring Plan.
 
