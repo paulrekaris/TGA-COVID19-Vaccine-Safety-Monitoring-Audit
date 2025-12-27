@@ -47,7 +47,7 @@ Enhanced safety monitoring was a regulatory condition and expectation of provisi
 TGA published a COVID‑19 Vaccine Safety Monitoring Plan with 17 numbered outputs to operationalise the Cabinet commitment.
 
 **Deployment Scale**  
-Around 26 million Australians received 68 million doses under this framework, with mandates and significant consequences for non‑compliance.
+Approximately 21.2 million Australians received 68.4 million doses under this framework, with mandates and significant consequences for non‑compliance.
 
 **AusVaxSafety Implementation**  
 Government‑funded active surveillance delivered 6.8 million SMS surveys, around 3 million adverse events and about 62,000 self‑reported medical visits.
@@ -127,8 +127,8 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 ### Q4: Why is accountability for this monitoring framework so critical?
 
 **Scale and Stakes:**
-- **26 million Australians** received COVID-19 vaccines
-- **73 million doses** administered in total (68 million under provisional approval)
+- **21.2 million Australians** received COVID-19 vaccines
+- **73 million doses** administered in total (68.4 million under provisional approval)
 - This was Australia's **largest and fastest vaccine deployment in history**
 
 **Government Mandates:**
@@ -144,7 +144,7 @@ Provisional approval is specifically designed for situations where products are 
 
 **The Social Contract:**
 
-When government tells 26 million citizens:
+When government tells 21.2 million citizens:
 1. These vaccines are provisionally approved
 2. We are conducting enhanced safety monitoring
 3. You must take these vaccines to participate in society
@@ -207,9 +207,9 @@ These intergovernmental arrangements therefore anticipated systematic implementa
 ### Q12: What was the context for this vaccine deployment?
 
 **Unprecedented Scale:**
-- **26 million Australians** vaccinated (approximately 96% of eligible population)
+- **21.2 million Australians** vaccinated (approximately 96% of eligible population)
 - **73 million total doses** administered
-- **68 million doses** under provisional approval
+- **68.4 million doses** under provisional approval
 - Fastest mass vaccination programme in Australian history
 
 **Government Mandates and Restrictions:**
@@ -261,7 +261,7 @@ Government and health authorities repeatedly stated:
 
 **Why Documentation and Verification Matter:**
 
-When the Australian Government tells 26 million citizens that:
+When the Australian Government tells 26.5 million citizens that:
 - COVID‑19 vaccines are provisionally approved by the TGA after rigorous assessment of safety, quality and effectiveness.
 - Enhanced safety monitoring, including active surveillance through AusVaxSafety, will provide near real‑time vaccine safety data.
 - Public health orders and organisational mandates will make participation in many workplaces and public settings conditional on vaccination status.
@@ -274,7 +274,7 @@ When the Australian Government tells 26 million citizens that:
 
 **The Accountability Question:**
 
-If 26 million Australians:
+If 21.2 million Australians:
 - Received provisionally approved vaccines
 - Under government mandates with severe consequences for refusal
 - Based on assurances of enhanced safety monitoring
