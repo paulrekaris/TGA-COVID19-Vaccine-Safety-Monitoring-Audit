@@ -12,6 +12,8 @@
 
 - **Documentation links:** Added direct references to the *ISO 19011 Management Systems Audit Checklist* in the README quick‑start section and clarified the description of TGA COVID‑19 vaccine safety reports (weekly March 2021–June 2023, then monthly from July 2023), noting the absence of a documented signal‑to‑action audit trail or evidence of “enhanced” Safety Plan strategy implementation.
 
+- **Added reference to ANAO Performance Audit Process and compliance standards:** (ISSAI‑aligned) via https://www.anao.gov.au/work/insights/performance-audit-process.
+  
 - **Technical fixes:** Corrected broken links and typos, made minor spacing and formatting edits, updated the COVID‑19 Vaccination Policy URL, and removed the obsolete `documentation-gap-analysis_v1.5.1.pdf` file, which has been superseded by the revised main audit documentation.
 
 ## Version 1.7.3 (22 December 2025)
