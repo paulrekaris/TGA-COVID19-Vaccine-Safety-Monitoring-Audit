@@ -1,5 +1,19 @@
 # Version History
 
+## Version 1.7.4 (28 December 2025)
+
+- **Dose accuracy verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians, correcting an earlier conflation of total population with vaccinated individuals. References to vaccine recipient numbers have been updated throughout for consistency.
+
+- **Oversight cases documented:** Added OAIC MR25/01153 case number and Commonwealth Ombudsman complaint reference (complaint submitted April 2025, Ref: 2025‑806374) to the FAQ, along with page 13 context from the Australian COVID‑19 Vaccination Policy (November 2020) to clarify the original “enhanced monitoring” commitments.
+
+- **Compliance upgrades:** Added a comprehensive conflicts of interest declaration, CC BY 4.0 licence reference, and revised fair‑dealing disclaimer in the README footer to clarify scope, intent, legal basis, and good‑faith public‑interest purpose of the citizen‑led audit.
+
+- **Methodology refinements:** Clarified the ISO 19011/ANAO (ISSAI‑aligned) methodology statement in the README, added a description of the one‑page audit methodology flowchart, and removed outdated references to Bayesian scoring now that the analytical method has been revised.
+
+- **Documentation links:** Added direct references to the *ISO 19011 Management Systems Audit Checklist* in the README quick‑start section and clarified the description of TGA COVID‑19 vaccine safety reports (weekly March 2021–June 2023, then monthly from July 2023), noting the absence of a documented signal‑to‑action audit trail or evidence of “enhanced” Safety Plan strategy implementation.
+
+- **Technical fixes:** Corrected broken links and typos, made minor spacing and formatting edits, updated the COVID‑19 Vaccination Policy URL, and removed the obsolete `documentation-gap-analysis_v1.5.1.pdf` file, which has been superseded by the revised main audit documentation.
+
 ## Version 1.7.3 (22 December 2025)
 
 - **New ISO 19011 checklist:** Added *ISO 19011 Management Systems Audit Checklist* – a standalone, text-based application of ISO 19011:2018 auditing standards to the TGA COVID‑19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non‑conformity ratings and an overall conformity/confidence assessment.
