@@ -154,7 +154,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 Without documented verification:
 
-- Compliance with provisional‑approval conditions for approximately 68 million doses cannot be confirmed.  
+- Compliance with provisional‑approval conditions for 68.4 million doses cannot be confirmed.  
 - The integrity of the provisional‑approval framework – which relies on enhanced, documented post‑market monitoring – is called into question.
 
 
@@ -189,7 +189,7 @@ Provisional approval requires **enhanced monitoring** distinct from business‑a
 
 - No documentation of Plan‑level governance mechanisms, oversight structures or performance‑measurement systems.  
 - No implementation reviews or evaluations located in public sources, FOI releases or OAIC‑directed searches.  
-- TGA’s 2022‑23 and 2023‑24 annual/performance reports contain **no reference to the Plan**, despite 68 million provisionally approved doses being administered.
+- TGA’s 2022‑23 and 2023‑24 annual/performance reports contain **no reference to the Plan**, despite 68.4 million provisionally approved doses being administered.
 
 **Why this matters**
 
@@ -358,7 +358,7 @@ Crucially, that audit did **not** examine:
 - Whether provisional‑approval conditions were verified and documented before vaccines transitioned to full registration.  
 - Whether TGA’s records and decision trails met international pharmacovigilance standards (e.g. ICH E2E, CIOMS) for traceable audit trails from signal detection to regulatory action.
 
-As a result, there is currently no independent assurance that the enhanced post‑market safety monitoring promised to Australians – and relied upon to justify provisional approval for 68 million doses – was ever implemented and documented to the standard expected of a national regulator.
+As a result, there is currently no independent assurance that the enhanced post‑market safety monitoring promised to Australians – and relied upon to justify provisional approval for 68.4 million doses – was ever implemented and documented to the standard expected of a national regulator.
 
 This citizen audit is intended to help fill that oversight gap by providing:
 
@@ -386,7 +386,7 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 - It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
 - Enhanced monitoring was distinct from routine “day‑to‑day processes”, as provisional approval requires.  
 - It maintained audit trails linking 148 investigated signals to 57 regulatory actions, as international standards envisage.  
-- It verified, and documented verification of, provisional‑approval conditions before 68 million doses transitioned to full registration.  
+- It verified, and documented verification of, provisional‑approval conditions before 68.4 million doses transitioned to full registration.  
 - It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
 
 The problem is straightforward: **TGA made commitments to Australians about enhanced, documented safety monitoring for COVID-19 vaccines administered to 21.2 million people. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional approval frameworks.
