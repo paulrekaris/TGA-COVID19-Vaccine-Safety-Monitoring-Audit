@@ -660,7 +660,7 @@ Special thanks to Dr Julie Sladden and Dr Maryanne Demasi for collaboration on i
 **Version:** 1.7.4  
 **Status:** Publication-ready for open-repository release
 
-For detailed version history and changelog, see VERSION_HISTORY.md.
+For detailed version history and changelog, see [**VERSION_HISTORY.md**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION_HISTORY.md)
 
 -----
 
