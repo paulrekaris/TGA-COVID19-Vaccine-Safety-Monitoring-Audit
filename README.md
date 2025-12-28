@@ -403,10 +403,11 @@ This audit applies systematic evidence based principles consistent with:
   - Independence and due professional care.  
   - Fair presentation of findings and limitations.
  
-- **ANAO compliance standards** (ISSAI-aligned)
+- **[ANAO Performance Audit Process and compliance standards]** (https://www.anao.gov.au/work/insights/performance-audit-process)
   - Assessment against published plans/criteria
   - Triangulation across multiple sources
   - Accountability & transparency emphasis
+  - ISSAI-aligned
 
 **Regulatory frameworks applied**
 
