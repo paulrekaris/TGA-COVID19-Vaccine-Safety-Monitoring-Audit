@@ -328,7 +328,7 @@ Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalis
 
 ### Why This Matters
 
-This question is critical. Approximately 68 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which required enhanced safety monitoring beyond routine surveillance, as reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
+This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which required enhanced safety monitoring beyond routine surveillance, as reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
 
 * Provisional approval conditions cannot be verified as met
 * Public assurances of heightened oversight are unsubstantiated
@@ -366,7 +366,7 @@ This citizen audit is intended to help fill that oversight gap by providing:
 - A clear mapping of documentation gaps around signal management, AusVaxSafety integration, provisional‑approval verification and governance.  
 - A concrete evidentiary platform on which ANAO could scope and conduct a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance system and its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
 
-Taken together, the scale of provisional use (68 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
+Taken together, the scale of provisional use (68.4 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
 
 ## Oversight and Accountability
 
@@ -379,7 +379,7 @@ This assessment has been provided to multiple oversight bodies:
 
 ## The Call for Investigation
 
-Australia administered 68 million COVID‑19 vaccine doses under provisional approval – the country’s largest deployment of provisionally approved medicines. Provisional approval was justified on the basis that **enhanced, documented post‑market monitoring** would compensate for limited pre‑market data.
+Australia administered 68.4 million COVID‑19 vaccine doses under provisional approval – the country’s largest deployment of provisionally approved medicines. Provisional approval was justified on the basis that **enhanced, documented post‑market monitoring** would compensate for limited pre‑market data.
 
 After four years of systematic FOI requests and documentary review, TGA has not demonstrated that:
 
@@ -389,7 +389,7 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 - It verified, and documented verification of, provisional‑approval conditions before 68 million doses transitioned to full registration.  
 - It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
 
-The problem is straightforward: **TGA made commitments to 26 million Australians about enhanced, documented safety monitoring. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional‑approval frameworks.
+The problem is straightforward: **TGA made commitments to Australians about enhanced, documented safety monitoring for COVID-19 vaccines administered to 21.2 million people. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional approval frameworks.
 
 ## Methodology and Evidence Base
 
