@@ -264,7 +264,7 @@ In 2024, *Communicable Diseases Intelligence* published an annual report on adve
 This report is consistent with the findings in Phillips et al. (2021) discussed in the next section below: it demonstrates that substantial monitoring activity occurred, but does not provide the Safety Plan‑specific implementation, governance, or verification documentation that this audit assesses.
 
 **Reference:**  
-Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)[file:378]
+Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)
 
 [**Full AEFI surveillance report**](primary-sources/CDI-2024_Surveillance-AEFI-COVID19-2021.pdf)
 
