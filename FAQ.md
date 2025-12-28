@@ -361,7 +361,7 @@ In testimony to the Senate Community Affairs Legislation Committee on 9 October 
 
 ### Q19: Has this been independently verified by others?
 
-Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent legal analysis of the OAIC case (AUQ and Department of Health and Aged Care). The case has been cited in legal, parliamentary, and media contexts. The matter is currently before multiple oversight bodies: the Australian Information Commissioner (review MR25/01153), Commonwealth Ombudsman (complaint submitted), Australian National Audit Office (audit requested), and Senate Community Affairs Legislation Committee (Senate Estimates).
+Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent legal analysis of the OAIC case (AUQ and Department of Health and Aged Care). The case has been cited in legal, parliamentary, and media contexts. The matter is currently before multiple oversight bodies: the Australian Information Commissioner (review MR25/01153), Commonwealth Ombudsman (complaint submitted in April 2025, Ref: 2025‑806374), Australian National Audit Office (audit requested), and Senate Community Affairs Legislation Committee (Senate Estimates).
 
 
 ---
@@ -467,7 +467,7 @@ This pattern indicates not poor record-keeping, but an absence of the systematic
 - Examining FOI handling and documentation practices
 
 **Commonwealth Ombudsman:**
-- Complaint submitted regarding TGA pharmacovigilance practices
+- Complaint submitted in April 2025 (Ref: 2025‑806374) regarding TGA pharmacovigilance practices
 - Case not yet assigned for investigation
 
 **Australian National Audit Office:**
