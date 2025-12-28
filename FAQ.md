@@ -536,7 +536,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 https://doi.org/10.5281/zenodo.17731054
 
 **Citation:**  
-Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.7.2). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan. Zenodo:https://doi.org/10.5281/zenodo.17731054
 
 ---
 
