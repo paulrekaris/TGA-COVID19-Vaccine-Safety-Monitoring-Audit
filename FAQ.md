@@ -122,7 +122,7 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 
 ### Q3: Why does this matter?
 
-68 million doses were administered under provisional approval, where enhanced safety monitoring beyond routine surveillance was a regulatory condition and expectation of approval, reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If this enhanced monitoring cannot be verified through documentation, the provisional approval verification framework has failed during Australia's largest deployment of provisionally approved medicines. The gap exists between a formal Cabinet-endorsed commitment and demonstrable delivery.
+68.4 million doses were administered under provisional approval, where enhanced safety monitoring beyond routine surveillance was a regulatory condition and expectation of approval, reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If this enhanced monitoring cannot be verified through documentation, the provisional approval verification framework has failed during Australia's largest deployment of provisionally approved medicines. The gap exists between a formal Cabinet-endorsed commitment and demonstrable delivery.
 
 ### Q4: Why is accountability for this monitoring framework so critical?
 
