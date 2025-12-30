@@ -670,6 +670,9 @@ This audit has been permanently archived and cryptographically timestamped:
   SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
   [Verify timestamp](https://opentimestamps.org)
 
+- **Arweave:** [Permanent Storage](https://arweave.net/uzqozj9f1rJ3tl54EOORnqzzrjyRO6xd9us7xlYfhHM)  
+  Immutable blockchain storage
+  
 - **Zenodo Archive:** [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
 
