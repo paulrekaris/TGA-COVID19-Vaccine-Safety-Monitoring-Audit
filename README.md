@@ -662,8 +662,20 @@ For detailed version history and changelog, see [**VERSION_HISTORY.md**](https:/
 
 -----
 
-**Repository:** TGA COVID-19 Vaccine Safety Monitoring Audit (public repository).
-**Permanent Archive:** DOI-backed research dataset and documentation (Zenodo record). 
+## Permanent Archive
+
+This audit has been permanently archived and cryptographically timestamped:
+
+- **Bitcoin Timestamp:** December 31, 2025  
+  SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
+  [Verify timestamp](https://opentimestamps.org)
+
+- **Zenodo Archive:** [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)  
+  Permanent academic archive with CERN backing
+
+- **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
+  Public version control with full history
+
 
 -----
 
