@@ -19,8 +19,7 @@ New to this audit? **Start here:**
 
 - **[ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including ANAO audit criteria, evidence hierarchy, non-conformity ratings, and conformity assessment.
 
-- **Permanent Archive** – Full research package: 
-  https://doi.org/10.5281/zenodo.17731054
+- **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) | Bitcoin Timestamped Dec 31, 2025
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**.
 
@@ -670,9 +669,9 @@ This audit has been permanently archived and cryptographically timestamped:
   SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
   [Verify timestamp](https://opentimestamps.org)
 
-- **Arweave:** [Permanent Storage](https://arweave.net/uzqozj9f1rJ3tl54EOORnqzzrjyRO6xd9us7xlYfhHM)  
-  Immutable blockchain storage
-  
+- **Arweave:** [Permanent Storage](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)  
+  Permanent blockchain storage
+
 - **Zenodo Archive:** [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
 
