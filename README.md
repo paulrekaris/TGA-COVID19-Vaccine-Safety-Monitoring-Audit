@@ -472,7 +472,7 @@ __https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-
 - Contextualises Senate testimony characterisation of "day-to-day processes."
 - Demonstrates baseline infrastructure TGA reverted to; unclear whether COVID-specific signal detection proposals (observed-vs-expected, MaxSPRT, standing VSIG) constituted implementation of the 17 Plan-specified enhanced strategies or represented standard operational adaptations to high-volume reporting. 
 
-**Link**__https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf__
+__https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf__
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
