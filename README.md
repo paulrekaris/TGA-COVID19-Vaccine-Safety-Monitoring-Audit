@@ -444,6 +444,10 @@ Sets out 20 specific outputs across 17 numbered strategies as TGA's operational 
 __https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia__  
 Describes AusVaxSafety as operating "as part of the national COVID‑19 Vaccine Pharmacovigilance Plan, led by the TGA and the Australian Government", complementing TGA and state/territory spontaneous reporting systems.
 
+**Australian Public Assessment Reports and related releases**  
+Comirnaty AusPAR (transition from provisional to full registration)  
+__https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf__
+
 **TGA public databases and publications**  
 Database of Adverse Event Notifications (DAEN), weekly COVID‑19 vaccine safety reports, and published regulatory decisions.
 
@@ -456,31 +460,43 @@ Database of Adverse Event Notifications (DAEN), weekly COVID‑19 vaccine safety
    * 2025 AICmr 54 decision ('AUQ' and Department of Health and Aged Care')  
 __https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html__
 
-**Senate Community Affairs Legislation Committee testimony (9 October 2025)**  
-__https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003__
-
-**Australian Public Assessment Reports and related releases**  
-Comirnaty AusPAR (transition from provisional to full registration)  
-__https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf__
-
 **Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care (AICmr 54)**  
 __https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/__
 
-**FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 2024)**
+**Senate Community Affairs Legislation Committee testimony (9 October 2025)**  
+__https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003__
 
-- **[Internal TGA blueprint](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)** documenting:
-  - Pre-COVID routine pharmacovigilance baseline (January 2019–early 2020)
-  - COVID-19 signal detection enhancements (July–August 2021)
-- Confirms routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG) predating Safety Plan by 12–24 months.
-  
-- **Critical evidentiary significance:** Documents demonstrate TGA's established practice of detailed pharmacovigilance documentation, yet **contain zero references to:**
-  - Safety Plan integration or compliance
-  - Mapping to Plan's specified strategies
-  - Signal-to-action workflows pursuant to Plan requirements
-  - Plan implementation frameworks
-    
-- **Proves absence of Plan implementation documentation is not attributable to lack of documentation practice.**  
-__https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf__
+
+## Documentary Evidence of TGA Documentation Capacity
+
+### FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 26 July 2024)
+
+**Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch
+
+**Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+
+**Note:** Orphaned file discovered incidentally; listed in TGA FOI Disclosure Log (26 Jul 2024) without hyperlink from entry.
+
+**Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
+
+**Archive:** [GitHub backup](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)
+
+---
+
+### Summary
+
+**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021).
+
+**Documents Released** 
+
+Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
+
+Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) documented **without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies**. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
+
+**Significance**
+
+**Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
+
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
