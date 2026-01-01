@@ -466,6 +466,13 @@ __https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf
 **Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care (AICmr 54)**  
 __https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/__
 
+**FOI 5082: TGA Vaccine Pharmacovigilance System (2019-2020)**
+- [Internal TGA blueprint](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf) documenting pre-COVID baseline pharmacovigilance
+- Shows routine "spontaneous reporting → assessment → action" framework
+- Predates Safety Plan by 12-24 months
+- Contextualises what "day-to-day processes" meant in Senate testimony
+- Demonstrates the baseline TGA reverted to instead of implementing enhanced framework
+
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
 
