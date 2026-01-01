@@ -71,6 +71,22 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
 
+## FOI 5082: TGA Vaccine Pharmacovigilance System (~2019–2020)
+
+**Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch. Released 2024.
+
+**Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+
+**Summary:**
+
+Internal blueprint documents TGA's pre-COVID routine pharmacovigilance baseline (January 2019–early 2020), confirming operational infrastructure (AEMS/DAEN/DPAR, VSIG for clusters) that Senate testimony later described as "day-to-day processes." Reveals three core components—spontaneous reporting, cumulative analysis (fortnightly counts, bimonthly DPAR), parallel active surveillance (NCIRS/Vaxtracker)—with proposed COVID AESI enhancements (Brighton Collaboration). 
+
+Predates February 2021 Safety Monitoring Plan by 12–24 months; demonstrates existing systems the audit shows TGA reverted to instead of implementing 17 enhanced strategies. No Plan integration, signal-to-action mapping, or AusVaxSafety protocols. 
+
+**Significance:**
+
+Contextual evidence only—supports "routine PV existed" but doesn't address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results). Shows what the baseline "day-to-day processes" looked like before the Cabinet-endorsed enhanced framework was promised.
+
 ## TGA Pharmacovigilance Teaching Materials (October 2021): Evidence of a Gap Between Promise and Practice
 
 ### Source & Context
