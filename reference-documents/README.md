@@ -71,15 +71,23 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
 
-### FOI 5082: TGA Vaccine Pharmacovigilance System (~2019–2021)
+## FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 26 July 2024)
 
-**Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch. Released 2024.
+**Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch
 
-**Link:** [https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
+**Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+
+**Note:** Orphaned file discovered incidentally; listed in TGA FOI Disclosure Log (26 Jul 2024) without hyperlink from entry.
+
+**Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
+
+**Archive:** [GitHub backup](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)
+
+---
 
 ### Summary
 
-**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021, released 2024). [Internal TGA blueprint](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
+**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021).
 
 **Documents Released:** 
 
