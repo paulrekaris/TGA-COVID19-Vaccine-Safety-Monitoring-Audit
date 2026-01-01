@@ -437,7 +437,6 @@ __https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vacci
 Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring "via the TGA" through a national COVID‑19 Vaccine Pharmacovigilance Plan.
 
 **TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)**
-
 __https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf__      
 Sets out 20 specific outputs across 17 numbered strategies as TGA's operational implementation of the enhanced‑monitoring expectation for provisionally approved COVID‑19 vaccines.
 
