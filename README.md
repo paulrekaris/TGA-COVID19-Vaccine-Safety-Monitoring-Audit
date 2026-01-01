@@ -31,7 +31,7 @@ During Australia's largest medical intervention in history, 68.4 million COVID-1
 This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified 
 through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
-**Intended for:** Parliamentary oversight, administrative review, accountability assessment, academic research, media investigation, and historical record.
+**Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
 and international pharmacovigilance standards (ICH E2E, CIOMS).
