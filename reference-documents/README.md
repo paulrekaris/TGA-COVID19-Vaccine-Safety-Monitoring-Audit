@@ -71,29 +71,32 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
 
-## FOI 5082: TGA Vaccine Pharmacovigilance System (~2019–2020)
+## FOI 5082: TGA Vaccine Pharmacovigilance System (~2019–2021)
 
 **Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch. Released 2024.
 
-**Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+**Link:** [https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
-**Summary:**
+---
 
-**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021, released 2024).
-[Internal TGA blueprint](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf) 
+### Summary
+
+**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021, released 2024). [Internal TGA blueprint](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
 **Documents Released:** 
 
-Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (June–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
-Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, standing VSIG) unclear whether they constituted 17 Plan-specified enhanced strategies or represented standard 
-operational adaptations to high-volume reporting. No Plan integration, signal-to-action mapping, or AusVaxSafety protocols documented. Demonstrates baseline infrastructure; relationship to 
-Plan implementation requires separate analysis. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
+Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
+
+Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) unclear whether they constituted Plan-specified enhanced strategies or represented standard operational adaptations to high-volume reporting. No Plan integration mapping, signal-to-action workflows, or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations; relationship to Plan's 17 specified strategies requires separate analysis. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
 **Significance:**
 
-Contextual evidence only—supports "routine PV existed" but doesn't address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results). Shows what the baseline "day-to-day processes" looked like before the Cabinet-endorsed enhanced framework was promised.
+Contextual evidence only—supports "routine PV existed" but doesn't demonstrate Plan implementation or address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results). Shows what the baseline "day-to-day processes" looked like before the Cabinet-endorsed enhanced framework was promised, and documents some COVID-specific methodological enhancements, but fails to establish their relationship to Plan requirements.
 
-**Link**: https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+---
+
+**Link:** [FOI 5082 - COVID-19 Vaccine Pharmacovigilance Documents](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
+
 
 ## TGA Pharmacovigilance Teaching Materials (October 2021): Evidence of a Gap Between Promise and Practice
 
