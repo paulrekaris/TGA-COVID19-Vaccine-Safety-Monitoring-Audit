@@ -63,23 +63,21 @@ TGA corporate performance reports reviewed to identify any Plan‑related output
 - 2022–23 Performance Report: <https://www.tga.gov.au/sites/default/files/2023-12/tga-performance-report-2022-23.pdf>
 - 2023–24 Performance Report: <https://www.tga.gov.au/sites/default/files/2025-03/tga-performance-report-2023-24.pdf>
 
-## Information Commissioner material
+### Information Commissioner material
 - 2025 AICmr 54 decision (‘AUQ’ and Department of Health and Aged Care’):  
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
-## Sparke Helmore legal case note
+### Sparke Helmore legal case note
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
 
-## FOI 5082: TGA Vaccine Pharmacovigilance System (~2019–2021)
+### FOI 5082: TGA Vaccine Pharmacovigilance System (~2019–2021)
 
 **Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch. Released 2024.
 
 **Link:** [https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
----
-
-### Summary
+## Summary
 
 **FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021, released 2024). [Internal TGA blueprint](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
@@ -93,7 +91,6 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
-**Link:** [FOI 5082 - COVID-19 Vaccine Pharmacovigilance Documents](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
 ## TGA Pharmacovigilance Teaching Materials (October 2021): Evidence of a Gap Between Promise and Practice
 
@@ -109,8 +106,6 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Source:** Therapeutic Goods Administration, *Pharmacovigilance – a regulator's perspective* (webinar presentation, UTS "Molecule to Market", 13 October 2021)  
 https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilance-regulators-perspective.pdf
-
----
 
 ### Content Analysis
 
@@ -139,8 +134,6 @@ The February 2021 COVID-19 Vaccine Safety Monitoring Plan explicitly designated 
 
 However, in this October 2021 training—delivered eight months into the rollout by the branch responsible for pharmacovigilance—AusVaxSafety is not mentioned. Slide 23 of the presentation, which specifically addresses "PV in the times of COVID-19" and lists "key strategies of the plan," describes only passive surveillance systems (AEMS/DAEN) and routine signal detection processes.
 
----
-
 ### Significance of the Omission
 
 This omission is not minor; it is evidence of a disconnect between the published Plan and operational reality.
@@ -153,8 +146,6 @@ This 2021 portrayal of COVID-19 monitoring as functionally indistinguishable fro
 
 **Corroborates the audit finding:**  
 The inability to point to specific, documented enhanced monitoring outputs in 2025 is prefigured here. The training describes aspirational goals ("aiming to enhance") rather than the 20 specified operational outputs listed in the Plan. This aligns with the audit's core finding: the documented, systematic implementation of "enhanced" monitoring cannot be verified.
-
----
 
 ### Conclusion
 
