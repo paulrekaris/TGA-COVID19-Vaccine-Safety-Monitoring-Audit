@@ -479,7 +479,7 @@ __https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-
   - Signal-to-action workflows pursuant to Plan requirements
   - Plan implementation frameworks
     
-- **Proves absence of Plan implementation documentation is not attributable to lack of documentation practice.**
+- **Proves absence of Plan implementation documentation is not attributable to lack of documentation practice.**  
 __https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf__
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
