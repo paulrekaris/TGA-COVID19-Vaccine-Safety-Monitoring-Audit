@@ -71,7 +71,7 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
 
-## FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 26 July 2024)
+### FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 26 July 2024)
 
 **Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch
 
