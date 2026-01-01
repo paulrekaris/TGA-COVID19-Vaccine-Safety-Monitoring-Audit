@@ -49,11 +49,11 @@ Arweave provides permanent, immutable storage of the complete audit archive. The
 
 ## Combined Verification
 
-This audit is protected by multiple independent blockchain verification methods:
+This audit is protected by multiple independent open source databases incuding blockchain verification methods:
 
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
-- **Zenodo:** DOI-backed academic archive (10.5281/zenodo.17731054)
+- **Zenodo:** DOI-all versions backed permanent academic archive (10.5281/zenodo.17731054)
 - **GitHub:** Public version control with complete history
 
-Together, these create nuclear-grade archival protection ensuring the audit cannot be suppressed, altered, backdated, or disappeared.
+Together, these create archival protection ensuring the audit cannot be suppressed, altered, backdated, or disappeared.
