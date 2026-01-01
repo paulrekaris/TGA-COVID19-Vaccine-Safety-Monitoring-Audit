@@ -79,7 +79,9 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **Summary:**
 
-Internal blueprint documents TGA's pre-COVID routine pharmacovigilance baseline (January 2019–early 2020), confirming operational infrastructure (AEMS/DAEN/DPAR, VSIG for clusters) that Senate testimony later described as "day-to-day processes." Reveals three core components—spontaneous reporting, cumulative analysis (fortnightly counts, bimonthly DPAR), parallel active surveillance (NCIRS/Vaxtracker)—with proposed COVID AESI enhancements (Brighton Collaboration). 
+**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2022).
+
+**Documents Released:** Internal blueprint documenting TGA's pre-COVID routine pharmacovigilance baseline (January 2019–early 2020), confirming operational infrastructure (AEMS/DAEN/DPAR, VSIG for clusters) that Senate testimony later described as "day-to-day processes." Reveals three core components—spontaneous reporting, cumulative analysis (fortnightly counts, bimonthly DPAR), parallel active surveillance (NCIRS/Vaxtracker)—with proposed COVID AESI enhancements (Brighton Collaboration).
 
 Predates February 2021 Safety Monitoring Plan by 12–24 months; demonstrates existing systems the audit shows TGA reverted to instead of implementing 17 enhanced strategies. No Plan integration, signal-to-action mapping, or AusVaxSafety protocols. 
 
