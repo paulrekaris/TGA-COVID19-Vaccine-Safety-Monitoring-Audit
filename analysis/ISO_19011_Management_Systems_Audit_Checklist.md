@@ -1181,7 +1181,6 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 **Audit Conducted:** 2021-2025  
 **Audit Lead:** Paul Rekaris, Independent Policy Researcher  
 **Audit Framework:** ISO 19011:2018 with ANAO and OSINT methodologies  
-**Audit Conformance Score:** 92/100 (95% CI: 88-96)  
 **Audit Type:** External independent regulatory documentation-compliance audit  
 **Overall Finding:** NON-CONFORMING (7 major non-conformities)  
 **Audit Status:** Complete
