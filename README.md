@@ -466,13 +466,21 @@ __https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf
 **Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care (AICmr 54)**  
 __https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/__
 
-**FOI 5082: TGA Vaccine Pharmacovigilance System (2019-2022, release 2024)**
-- **[Internal TGA blueprint](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)** documenting pre-COVID routine pharmacovigilance baseline (January 2019– ~ mid 2020) with COVID-19 signal detection enhancements added post-Plan (June–September 2021).
-- Documents routine "spontaneous reporting → assessment → action" framework predating Safety Plan by 12–24 months.
-- Contextualises Senate testimony characterisation of "day-to-day processes."
-- Demonstrates baseline infrastructure TGA reverted to; unclear whether COVID-specific signal detection proposals (observed-vs-expected, MaxSPRT, standing VSIG) constituted implementation of the 17 Plan-specified enhanced strategies or represented standard operational adaptations to high-volume reporting. 
+**FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 2024)**
 
-__https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf__
+- **[Internal TGA blueprint](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)** documenting:
+  - Pre-COVID routine pharmacovigilance baseline (January 2019–early 2020)
+  - COVID-19 signal detection enhancements (July–August 2021)
+- Confirms routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG) predating Safety Plan by 12–24 months.
+  
+- **Critical evidentiary significance:** Documents demonstrate TGA's established practice of detailed pharmacovigilance documentation, yet **contain zero references to:**
+  - Safety Plan integration or compliance
+  - Mapping to Plan's specified strategies
+  - Signal-to-action workflows pursuant to Plan requirements
+  - Plan implementation frameworks
+    
+- **Proves absence of Plan implementation documentation is not attributable to lack of documentation practice.**
+- **https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf**
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
