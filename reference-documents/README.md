@@ -87,16 +87,13 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
 
-Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) unclear whether they constituted Plan-specified enhanced strategies or represented standard operational adaptations to high-volume reporting. No Plan integration mapping, signal-to-action workflows, or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations; relationship to Plan's 17 specified strategies requires separate analysis. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
+Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) documented **without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies**. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
 **Significance:**
 
-Contextual evidence only—supports "routine PV existed" but doesn't demonstrate Plan implementation or address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results). Shows what the baseline "day-to-day processes" looked like before the Cabinet-endorsed enhanced framework was promised, and documents some COVID-specific methodological enhancements, but fails to establish their relationship to Plan requirements.
-
----
+**Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
 **Link:** [FOI 5082 - COVID-19 Vaccine Pharmacovigilance Documents](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
-
 
 ## TGA Pharmacovigilance Teaching Materials (October 2021): Evidence of a Gap Between Promise and Practice
 
