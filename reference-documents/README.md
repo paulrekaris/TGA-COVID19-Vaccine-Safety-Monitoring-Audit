@@ -89,13 +89,13 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021).
 
-**Documents Released:** 
+**Documents Released** 
 
 Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
 
 Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) documented **without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies**. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
-**Significance:**
+**Significance**
 
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
