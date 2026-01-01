@@ -77,7 +77,7 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **Link:** [https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
-# Summary
+### Summary
 
 **FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021, released 2024). [Internal TGA blueprint](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf)
 
