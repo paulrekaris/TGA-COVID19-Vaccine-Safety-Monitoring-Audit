@@ -79,15 +79,21 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **Summary:**
 
-**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2022).
+**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021, released 2024).
+[Internal TGA blueprint](https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf) 
 
-**Documents Released:** Internal blueprint documenting TGA's pre-COVID routine pharmacovigilance baseline (January 2019–early 2020), confirming operational infrastructure (AEMS/DAEN/DPAR, VSIG for clusters) that Senate testimony later described as "day-to-day processes." Reveals three core components—spontaneous reporting, cumulative analysis (fortnightly counts, bimonthly DPAR), parallel active surveillance (NCIRS/Vaxtracker)—with proposed COVID AESI enhancements (Brighton Collaboration).
+**Documents Released:** 
 
-Predates February 2021 Safety Monitoring Plan by 12–24 months; demonstrates existing systems the audit shows TGA reverted to instead of implementing 17 enhanced strategies. No Plan integration, signal-to-action mapping, or AusVaxSafety protocols. 
+Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (June–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
+Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, standing VSIG) unclear whether they constituted 17 Plan-specified enhanced strategies or represented standard 
+operational adaptations to high-volume reporting. No Plan integration, signal-to-action mapping, or AusVaxSafety protocols documented. Demonstrates baseline infrastructure; relationship to 
+Plan implementation requires separate analysis. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
 **Significance:**
 
 Contextual evidence only—supports "routine PV existed" but doesn't address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results). Shows what the baseline "day-to-day processes" looked like before the Cabinet-endorsed enhanced framework was promised.
+
+**Link**: https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 
 ## TGA Pharmacovigilance Teaching Materials (October 2021): Evidence of a Gap Between Promise and Practice
 
