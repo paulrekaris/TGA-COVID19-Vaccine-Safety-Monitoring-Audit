@@ -51,6 +51,23 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 
 > **Central problem:** TGA cannot demonstrate, on the available documentary record, that it systematically implemented the Cabinet‑endorsed enhanced, TGA‑led safety monitoring framework set out in the Australian COVID‑19 Vaccination Policy, raising fundamental questions about regulatory accountability during Australia’s largest medical intervention.
 
+
+## Evidence Standard
+
+This finding is based on official determinations, not interpretation:
+
+**OAIC Decision [2025] AICmr 54** found TGA "could not identify 
+records" demonstrating Plan implementation after 531 TRIM container 
+searches—the most comprehensive search possible under FOI law.
+
+**Senate testimony (9 October 2025):** 
+Officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations, not a 
+distinct enhanced framework.
+
+These are not contested claims requiring further proof. They are 
+matters of official record. The documentation gap is established.
+
+
 ## The Investigation: Four Years of FOI Requests
 
 
