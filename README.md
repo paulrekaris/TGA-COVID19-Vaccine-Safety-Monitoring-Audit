@@ -56,12 +56,12 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 
 This finding is based on official determinations, not interpretation:
 
-**OAIC Decision [2025] AICmr 54** found TGA "could not identify 
+**Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** found TGA "could not identify 
 records" demonstrating Plan implementation after 531 TRIM container 
 searches—the most comprehensive search possible under FOI law.
 
 **Senate testimony (9 October 2025):** 
-Officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations, not a 
+Senior TGA Officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations, not a 
 distinct enhanced framework.
 
 These are not contested claims requiring further proof. They are 
