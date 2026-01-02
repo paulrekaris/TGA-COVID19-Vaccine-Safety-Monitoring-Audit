@@ -58,15 +58,7 @@ This finding is based on official determinations, not interpretation:
 
 The **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** found TGA "could not identify records" demonstrating Plan implementation after searching **531 TRIM containers** and multiple databases. After reviewing TGA's comprehensive evidence of searches across record management systems, staff consultations, and workflow processes (detailed in TGA's September 2024 submission to OAIC, Attachments A-D), the OAIC concluded the Department had taken "all reasonable steps" under s24A of the FOI Act and that **"documents cannot be found or do not exist."**
 
-**Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as **"essentially describ[ing] our day-to-day processes"**—characterising the monitoring activities as routine operations rather than a distinct enhanced framework (Senate Community Affairs Legislation Committee Hansard, 9 October 2025, page 32, Dr Dascombe).
-
-The documentation gap is established as a matter of official record, confirmed through both administrative law proceedings and parliamentary ## Evidence Standard
-
-This finding is based on official determinations, not interpretation:
-
-The **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** found TGA "could not identify records" demonstrating Plan implementation after searching **531 TRIM containers** and multiple databases. After reviewing TGA's comprehensive evidence of searches across record management systems, staff consultations, and workflow processes (detailed in TGA's September 2024 submission to OAIC, Attachments A-D), the OAIC concluded the Department had taken "all reasonable steps" under s24A of the FOI Act and that **"documents cannot be found or do not exist."**
-
-**Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as **"essentially describ[ing] our day-to-day processes"**—characterising the monitoring activities as routine operations rather than a distinct enhanced framework (Senate Community Affairs Legislation Committee Hansard, 9 October 2025, page 34, Dr Dascombe).
+**Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as **"essentially describ[ing] our day-to-day processes"**—characterising the monitoring activities as routine operations rather than a distinct enhanced framework (Senate Community Affairs Legislation Committee Hansard, 9 October 2025, page 34, Dr Daniel Dascombe).
 
 The documentation gap is established as a matter of official record, confirmed through both administrative law proceedings and parliamentary testimony.
 
