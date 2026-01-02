@@ -19,17 +19,19 @@ From outside the agency, both scenarios produce identical outputs. Without clear
 
 ## **The Evidentiary Pattern: A Snapshot from the Peak**
 
-Consider this snapshot from the peak of the rollout: **October 2021**. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials presented their monitoring framework. What they showed was their **routine system**. The promised differentiators—like AusVaxSafety integration and the 17 specific strategies—were absent. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
+Consider this snapshot from the peak of the rollout: October 2021. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials **cited the COVID-19 Vaccine Safety Monitoring Plan** and described its aims of "enhancing rapid detection, investigation and response." **But when they showed how the monitoring actually worked**, what they demonstrated was their routine system: standard AEMS database, bimonthly PRR analysis, conventional workflows. The promised differentiators—AusVaxSafety integration, the 17 specific strategies, enhanced signal detection protocols—were absent. The plan was referenced; the enhanced mechanisms were not shown. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
 
-**This wasn't a public speech; it was technical training for professionals.** If the "enhanced" framework wasn't visible there, in detailed operational training, where was it?
+This wasn't a public speech; it was technical training for professionals. **The gap between what the plan promised and what the operational training demonstrated** raises a fundamental question: if the enhanced framework wasn't visible in detailed technical instruction during peak rollout, where was it?
 
 This pattern combines with:
+
 - FOI searches finding no dedicated Safety Plan tracking systems
 - Senate testimony describing enhanced monitoring as "day-to-day processes"
 - OAIC review documenting contradictory TGA statements
 - Absence of integration evidence or audit trails in available records
 
 **This pattern demands explanation.** You cannot definitively prove what it means, but the circumstantial evidence points toward the Safety Plan's enhanced monitoring not being implemented as a distinct, systematically tracked framework.
+
 
 ## **The Knowledge Problem**
 
