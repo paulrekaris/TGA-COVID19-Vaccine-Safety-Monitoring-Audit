@@ -65,7 +65,7 @@ No audit trail showing how individual safety signals were evaluated or linked to
 No records demonstrating that enhanced monitoring conditions were assessed and met for quarterly extensions and eventual full registration.
 
 **AusVaxSafety–TGA Integration**  
-No systematic documentation of how 6.8 million surveys and ~3 million adverse events were integrated into TGA pharmacovigilance workflows.
+No systematic documentation of how 6.8M+ surveys and 3M+ of safety reports were integrated into TGA pharmacovigilance workflows.
 
 **Governance and Performance Reporting**  
 Only 3 of 20 plan outputs (15%) fully documented; no evidence of systematic tracking against plan objectives.
