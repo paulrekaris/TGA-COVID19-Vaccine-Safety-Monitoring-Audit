@@ -251,7 +251,7 @@ This public communication either:
 2. Accurately reflected that enhanced monitoring was never implemented as operationally distinct from routine processes, or
 3. Demonstrated the government itself couldn't clearly articulate what made COVID-19 monitoring "enhanced"
 
-Four years later, **TGA Senate testimony (9 October 2025)** described monitoring as "day-to-day processes" that were "never systematically tracked" against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
+Four years later, **TGA Senate testimony (9 October 2025)** described monitoring as "day-to-day processes" that were never systematically tracked against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
 
 **Primary Source:**  
 [Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
@@ -302,7 +302,7 @@ A peer-reviewed study published in *Vaccine* (September 2021) provides independe
 - AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.  
 - Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.
 
-These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never “systematically tracked” against the COVID-19 Vaccine Safety Monitoring Plan. OAIC-directed searches found no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never systematically tracked against the COVID-19 Vaccine Safety Monitoring Plan. OAIC-directed searches found no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
 
 **The authors’ conclusion:**
 
@@ -456,6 +456,9 @@ Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
 
 ## Evidence Sources
 
+All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
+
+
 **Australian COVID‑19 Vaccination Policy**  
 __https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf__  
 Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring "via the TGA" through a national COVID‑19 Vaccine Pharmacovigilance Plan.
@@ -520,9 +523,6 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 **Significance**
 
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
-
-
-All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
 
 ## Limitations and Falsifiability
@@ -603,8 +603,6 @@ Full license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ### Citation
 
 When citing this work, please use:
-
-**Recommended citation:**
 
 Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID‑19 Vaccine Safety Monitoring Plan, December 2025. Zenodo. 
 https://doi.org/10.5281/zenodo.17731054
