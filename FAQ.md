@@ -13,8 +13,7 @@
 ### Quick Reference Packs and Supporting Materials
 
 - **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** - Implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate.
-- **[FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis_v1.5.pdf)** – Timeline of the FOI process and TGA's contradictory responses.
-  
+- **[FOI Analysis and Timeline Documentation](analysis/TGA_FOI_Analysis_January_2026_V1.74.pdf)** – Timeline of the FOI process and TGA's contradictory responses.
 - **[One Page Methodology and Audit Criteria](analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – ISO 19011:2018 and ANAO audit of TGA's COVID-19 Vaccine Safety Monitoring Plan.
 
 Use these for briefings, presentations, or quick sharing.
