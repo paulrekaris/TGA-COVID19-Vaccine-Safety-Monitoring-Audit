@@ -693,7 +693,7 @@ For enquiries regarding:
 - Collaboration on regulatory-transparency research  
 - Media enquiries  
 
-**Email:** prekas23@gmail.com
+**Email:** rekasp@protonmail.com
 
 -----
 
