@@ -590,7 +590,7 @@ The research is archived permanently ([DOI: 10.5281/zenodo.17731054](https://doi
 
 **How to provide feedback:**
 - [GitHub issues](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/issues)
-- Email: prekas23@gmail.com
+- Email: rekasp@protonmail.com
 - All substantive corrections will be acknowledged and documented
 
 The goal is accuracy and accountability, not advocacy. Correction improves both.
