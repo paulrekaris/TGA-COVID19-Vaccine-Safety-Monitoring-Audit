@@ -112,11 +112,7 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Purpose:** Formal professional education for future pharmacy professionals on TGA regulatory processes
 
-**Source:** Therapeutic Goods Administration, *Pharmacovigilance – a regulator's perspective* (webinar presentation, UTS "Molecule to Market", 13 October 2021)  
-
-[Therapeutic Goods Administration, Pharmacovigilance – a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf)
-
-https://www.tga.gov.au/sites/default/files/webinar-presentation-pharmacovigilance-regulators-perspective.pdf
+**Source:** [Therapeutic Goods Administration, Pharmacovigilance – a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf) (webinar presentation, UTS "Molecule to Market", 13 October 2021)  
 
 ### Content Analysis
 
