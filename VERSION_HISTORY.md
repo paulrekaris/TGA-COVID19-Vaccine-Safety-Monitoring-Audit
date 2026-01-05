@@ -4,6 +4,8 @@
 
 ### Major Updates
 
+**Updated vaccination data** Updated vaccination coverage figure from 94% (October 2024) to 91.2% (October 2025) as per latest Covid-19 vaccination data.
+
 **Public communications contradiction documented:** Added analysis of Department of Health "no different" video (3 February 2021) positioned against formal Cabinet commitments to "enhanced monitoring" (National Cabinet November 2020, TGA Safety Plan February 2021, Commonwealth-State Bilateral Agreements February 2021). Documented four-year pattern through 2025 Senate testimony confirming "day-to-day processes" never systematically tracked against Safety Plan.
 
 **Pre-FOI evasion pattern established:** Added TGA email responses (18 & 22 February 2022) to direct inquiries requesting Safety Plan implementation evidence. Both responses provided identical template text claiming "enhanced dramatically" and "most intense monitoring ever conducted" while providing zero Plan-specific documentation—establishing systematic evasion pattern predating formal FOI obstruction by several months.
