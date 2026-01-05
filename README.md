@@ -753,5 +753,6 @@ This audit has been permanently archived and cryptographically timestamped:
 
 ---
 
-© 2026 Paul Rekaris | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+© Copyright 2025-2026 Paul Rekaris
+ | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
