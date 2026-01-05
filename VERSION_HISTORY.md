@@ -19,7 +19,6 @@
 - Arweave permanent storage confirmation (January 1, 2026)
 - Combined verification documentation in `/blockchain-verification/`
 - Zenodo academic archive (DOI: 10.5281/zenodo.14634063)
-- GitHub releases with automated traffic monitoring
 
 **Automated traffic monitoring implemented:** Established daily GitHub traffic data collection with email summaries (8 AM AEDT), permanent CSV storage beyond GitHub's 14-day API window, trend analysis, and private repository archival (`TGA-Audit-Traffic-Data`) to preserve institutional engagement metrics as evidence of sustained public interest.
 
