@@ -1,5 +1,55 @@
 # Version History
 
+## Version 1.8.0 (5 January 2026)
+
+### Major Updates
+
+**Public communications contradiction documented:** Added analysis of Department of Health "no different" video (3 February 2021) positioned against formal Cabinet commitments to "enhanced monitoring" (National Cabinet November 2020, TGA Safety Plan February 2021, Commonwealth-State Bilateral Agreements February 2021). Documented four-year pattern through 2025 Senate testimony confirming "day-to-day processes" never systematically tracked against Safety Plan.
+
+**Pre-FOI evasion pattern established:** Added TGA email responses (18 & 22 February 2022) to direct inquiries requesting Safety Plan implementation evidence. Both responses provided identical template text claiming "enhanced dramatically" and "most intense monitoring ever conducted" while providing zero Plan-specific documentation—establishing systematic evasion pattern predating formal FOI obstruction by several months.
+
+**FOI 5082 significance clarified:** Enhanced documentation of FOI 5082 (TGA Vaccine Pharmacovigilance System 2019-2021, released 26 July 2024) as critical comparative evidence demonstrating TGA's documentation capacity versus absence of Safety Plan implementation records. Establishes that documentation absence reflects non-implementation rather than non-documentation practice.
+
+**Vaccination statistics verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period. Primary source documentation uploaded:
+- `covid-19-vaccination-vaccination-data-27-july-2023.xlsx`
+- `covid-19-vaccine-rollout-update-27-july-2023.pdf`
+
+**Permanent archival framework established:** Implemented multi-layer cryptographic preservation:
+- Bitcoin blockchain timestamp proof (December 31, 2025) via OpenTimestamps
+- Arweave permanent storage confirmation (January 1, 2026)
+- Combined verification documentation in `/blockchain-verification/`
+- Zenodo academic archive (DOI: 10.5281/zenodo.14634063)
+- GitHub releases with automated traffic monitoring
+
+**Automated traffic monitoring implemented:** Established daily GitHub traffic data collection with email summaries (8 AM AEDT), permanent CSV storage beyond GitHub's 14-day API window, trend analysis, and private repository archival (`TGA-Audit-Traffic-Data`) to preserve institutional engagement metrics as evidence of sustained public interest.
+
+**Disclaimer consolidated:** Streamlined disclaimer section to improve clarity while maintaining legal protections.
+
+**Technical improvements:** Updated links and references, formatting consistency enhancements, timeline refinements, navigation improvements.
+
+---
+
+### Primary Evidence Added
+- Department of Health "no different" video (3 February 2021)
+- TGA email responses (18 & 22 February 2022)  
+- FOI 5082 correspondence trail
+- COVID-19 vaccination statistics primary data files (XLS/PDF, 27 July 2023)
+- Bitcoin blockchain timestamp proof file
+- Arweave permanent storage confirmation
+
+---
+
+### Archive & Verification
+This release is preserved through multiple independent archival systems:
+- **GitHub:** Version-controlled repository with release tags
+- **Zenodo:** Academic archive with DOI (v1.74: 10.5281/zenodo.14634063)
+- **Bitcoin Blockchain:** Cryptographic timestamp proof via OpenTimestamps
+- **Arweave:** Permanent decentralized storage
+- **Private Backup:** Automated daily traffic monitoring with historical preservation
+
+All verification proofs available in `/blockchain-verification/` directory.
+
+
 ## Version 1.7.4 (28 December 2025)
 
 - **Dose accuracy verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians, correcting an earlier conflation of total population with vaccinated individuals. References to vaccine recipient numbers have been updated throughout for consistency.
