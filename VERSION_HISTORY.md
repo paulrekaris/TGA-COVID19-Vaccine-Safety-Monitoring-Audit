@@ -10,7 +10,7 @@
 
 **FOI 5082 significance clarified:** Enhanced documentation of FOI 5082 (TGA Vaccine Pharmacovigilance System 2019-2021, released 26 July 2024) as critical comparative evidence demonstrating TGA's documentation capacity versus absence of Safety Plan implementation records. Establishes that documentation absence reflects non-implementation rather than non-documentation practice.
 
-- **Updated vaccination data:** Updated vaccination coverage figure from 94% (October 2024) to 91.2% (October 2025) as per latest Covid-19 vaccination data.
+**Updated vaccination coverge:** Updated vaccination coverage figure from 94% (October 2024) to 91.2% (October 2025) as per latest Covid-19 vaccination data.
 
 **Vaccination statistics verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period. Primary source documentation uploaded:
 - `covid-19-vaccination-vaccination-data-27-july-2023.xlsx`
