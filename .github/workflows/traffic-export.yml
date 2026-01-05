@@ -243,7 +243,6 @@ jobs:
           to: prekas23@gmail.com
           from: prekas23@gmail.com
           body: file://traffic-repo/LATEST_SUMMARY.txt
-          content_type: text/plain
       
       - name: Commit and push to traffic repo
         run: |
