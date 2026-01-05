@@ -43,7 +43,7 @@ On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccina
 
 The Commonwealth signed formal bilateral agreements with Australian states and territories (including Victoria, signed 19 February 2021) that established governance frameworks requiring systematic reporting of vaccine safety and surveillance data through agreed channels and specified protocols, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
 
-Between February 2021 and late June 2023, more than 68.4 million COVID‑19 vaccine doses (approximately 91% of the total rollout) were administered in Australia under provisional registration on the ARTG.
+Between February 2021 and late June 2023, more than 68.4 million COVID‑19 vaccine doses (approximately 91% of the total roll out as at October 2025) were administered in Australia under provisional registration on the ARTG.
 
 Provisional approval under the Therapeutic Goods Act 1989 permits time‑limited registration on the basis of preliminary clinical data where usual pre‑market evidentiary requirements cannot be met in time for a public‑health emergency, and TGA’s provisional‑registration guidance states that such medicines are subject to enhanced post‑market surveillance, additional pharmacovigilance conditions and prioritisation within its monitoring and compliance framework, expectations that were consolidated in the February 2021 Safety Monitoring Plan.
 
@@ -383,7 +383,7 @@ Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalis
 
 ### Why This Matters
 
-This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 94 per cent of the total rollout) were administered under provisional approval by late 2023, which required enhanced safety monitoring beyond routine surveillance, as reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
+This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 91 per cent of the total rollout) were administered under provisional approval by late 2023, which required enhanced safety monitoring beyond routine surveillance, as reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
 
 * Provisional approval conditions cannot be verified as met
 * Public assurances of heightened oversight are unsubstantiated
