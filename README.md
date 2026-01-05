@@ -12,7 +12,7 @@ New to this audit? **Start here:**
 - **[Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** – 
   Slide-style overview of key findings and documentation gaps.
 
-- **[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)** – 
+- **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** – 
   Primary, self-contained report with fully cited references, primary source 
   materials, findings, research methodology, and implementation status by Safety 
   Plan objective.
@@ -591,7 +591,7 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 ### Main Assessment Report
 
-**[Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf)**
+**[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**
 
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (December 2025)**
 
