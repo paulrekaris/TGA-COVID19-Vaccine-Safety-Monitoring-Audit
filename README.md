@@ -656,63 +656,45 @@ https://doi.org/10.5281/zenodo.17731054
 
 # DISCLAIMER AND DECLARATION
 
------
-
 ## Scope and Intent
 
-This audit assesses documented evidence of plan implementation and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control.
+This audit assesses documented evidence of Safety Plan implementation against provisional approval commitments and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control.
 
-The findings concern systemic documentation, records management, and governance processes—not individual performance or intent. The absence of documentation may reflect organisational capacity issues, competing priorities during an emergency response, or records-management system limitations rather than deliberate non-implementation.
+The findings concern systemic documentation, records management, and governance processes—not individual performance or intent. The absence of documentation may reflect organisational capacity issues, competing priorities during emergency response, or records-management system limitations rather than deliberate non-implementation.
 
-This distinction is important: even if staff worked conscientiously within existing systems, the documentation gap remains a governance concern requiring independent assessment to verify compliance with provisional approval conditions and international pharmacovigilance standards.
-
------
+This distinction matters: even conscientious work within existing systems can result in documentation gaps that constitute governance concerns requiring independent assessment.
 
 ## Scope of Assessment
 
-This assessment evaluates publicly available evidence for implementation of TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) commitments. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management and governance processes, not clinical or scientific judgements.
+This assessment evaluates publicly available evidence for implementation of TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) commitments. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management, and governance processes, not clinical or scientific judgements.
 
------
+**Evidence base:** Analysis is based on publicly available documentation, FOI responses, OAIC material, Senate testimony, and official publications. All factual claims are supported by cited sources.
 
 ## Peer-Review Status
 
-This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review and scrutiny by researchers, citizens, oversight bodies and other interested parties. Corrections and additional evidence are welcomed.
-
------
+This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. Corrections and additional evidence are welcomed.
 
 ## Accuracy and Good Faith
 
-This analysis is based on extensive review of available documentation and is accurate to the best of the author’s knowledge. Given the volume and complexity of material, inadvertent errors in citation or interpretation may occur; corrections are welcomed. The work is conducted in good faith and in the public interest.
-
------
+This analysis is accurate to the best of the author’s knowledge. Given the volume and complexity of material, inadvertent errors in citation or interpretation may occur; corrections are welcomed via public contact channels. The work is conducted in good faith and in the public interest, consistent with principles of open government and citizen-led accountability.
 
 ## Living Document
 
-This is a living, evidence-based assessment. It will be updated as new official documents (for example, FOI and OAIC material) or substantive analytical feedback become available, with transparent version history so changes in the evidence base and interpretation remain visible to readers.
-
------
-
-## Author Declaration
-
-The author declares that the information in this assessment is accurate to the best of their knowledge and that all factual claims are supported by documented evidence with source citations.
+Updates occur as new official documents (e.g., FOI, OAIC material) or substantive feedback become available, with transparent version history via GitHub tags/releases.
 
 ## Conflicts of Interest
 
-The author has no financial, professional, or personal conflicts of interest related to this work. No funding was received from pharmaceutical companies, government agencies, advocacy groups, or other interested parties. This research was conducted independently in the public interest.
-
------
+The author has no financial, professional, or personal conflicts related to this work. No funding was received from pharmaceutical companies, government agencies, advocacy groups, or other interested parties.
 
 ## Legal Disclaimer
 
-This independent audit is conducted and published in the public interest, consistent with principles of open government, parliamentary oversight, and citizen-led accountability. It examines institutional processes and documentary evidence related to the implementation of government policy and regulatory frameworks. The purpose is to inform public and parliamentary understanding and to contribute to accountability and transparency in government administration.
+This independent audit examines institutional processes and documentary evidence related to implementation of government policy and regulatory frameworks, to inform public and parliamentary understanding.
 
-The audit does not attribute misconduct or wrongdoing to any individual, question the professional competence or integrity of officials, or suggest deliberate misrepresentation by any person or organisation. References to named individuals reflect standard documentation practices, citing who presented information in their official capacity as identified in public source materials.
+References to named individuals reflect standard documentation practices, citing who presented information in their official capacity as identified in public source materials. No attribution of misconduct or deliberate misrepresentation to any person or organisation is intended or should be inferred.
 
-The focus is exclusively on identifying and analysing gaps between published frameworks and verifiable records—not on the actions or intentions of any individual or partner organisation.
+**Copyright:** Use of source materials, including Crown Copyright documents, is for non-commercial research, criticism, review, and public interest analysis pursuant to fair dealing provisions of the Copyright Act 1968 (Cth).
 
-**Commitment to Accuracy:** If any inadvertent mischaracterisation of fact, evidence, or the position of any individual or entity is identified, it will be promptly reviewed and corrected. Feedback is welcomed via the project’s public contact channels.
-
-**Copyright & Fair Dealing:** The use of source materials, including Crown Copyright documents, is for the purpose of non-commercial research or study, criticism or review, and public interest analysis pursuant to fair dealing provisions of the *Copyright Act 1968* (Cth).
+**Corrections:** Feedback identifying inadvertent mischaracterisation of fact, evidence, or position will be promptly reviewed and addressed.
 
 -----
 
