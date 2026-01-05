@@ -593,7 +593,7 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**
 
-**Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (December 2025)**
+**Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (January 2026)**
 
 The comprehensive audit report includes:
 
@@ -644,8 +644,8 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 @misc{rekaris2025tga,
   author = {Rekaris, Paul},
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {December},
-  year = {2025},
+  month = {January},
+  year = {2026},
   version = {1.8},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
