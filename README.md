@@ -9,7 +9,7 @@ New to this audit? **Start here:**
   
 - **[Visual Summary: One-Page Audit Methodology Flowchart](analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
 
-- **[Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)** – 
+- **[Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.8.pdf)** – 
   Slide-style overview of key findings and documentation gaps.
 
 - **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** – 
@@ -608,9 +608,9 @@ The comprehensive audit report includes:
 
 ### Supporting Documentation
 
-- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.5.pdf)**
+- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.8.pdf)**
 
-- **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence. **[FOI Analysis and Timeline Documentation](analysis/TGA_FOI_Analysis_January_2026_V1.74.pdf)**
+- **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence. **[FOI Analysis and Timeline Documentation](analysis/TGA_FOI_Analysis_January_2026_V1.8.pdf)**
  
 - **ISO 19011 Management Systems Audit Checklist** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non-conformity ratings, and overall conformity assessment. **[ISO 19011 Management Systems Audit Checklist](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)**
 
