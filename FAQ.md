@@ -633,4 +633,5 @@ After four years of this work, I can say with certainty: *"I know this much is t
 
 ---
 
-**For queries or corrections:** Contact via GitHub repository issues or email provided in repository documentation.
+**For queries or corrections:** Contact via GitHub repository issues or rekasp@protonmail.com
+
