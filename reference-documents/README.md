@@ -100,7 +100,7 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
 
-## [Therapeutic Goods Administration, Pharmacovigilance – a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf)(October 2021): Evidence of a Gap Between Promise and Practice
+## [Therapeutic Goods Administration, Pharmacovigilance – a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf)(October 2021):Evidence of a Gap Between Promise and Practice
 
 ### Source & Context
 
