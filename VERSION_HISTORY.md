@@ -4,13 +4,13 @@
 
 ### Major Updates
 
-**Updated vaccination data:** Updated vaccination coverage figure from 94% (October 2024) to 91.2% (October 2025) as per latest Covid-19 vaccination data.
-
 **Public communications contradiction documented:** Added analysis of Department of Health "no different" video (3 February 2021) positioned against formal Cabinet commitments to "enhanced monitoring" (National Cabinet November 2020, TGA Safety Plan February 2021, Commonwealth-State Bilateral Agreements February 2021). Documented four-year pattern through 2025 Senate testimony confirming "day-to-day processes" never systematically tracked against Safety Plan.
 
 **Pre-FOI evasion pattern established:** Added TGA email responses (18 & 22 February 2022) to direct inquiries requesting Safety Plan implementation evidence. Both responses provided identical template text claiming "enhanced dramatically" and "most intense monitoring ever conducted" while providing zero Plan-specific documentation—establishing systematic evasion pattern predating formal FOI obstruction by several months.
 
 **FOI 5082 significance clarified:** Enhanced documentation of FOI 5082 (TGA Vaccine Pharmacovigilance System 2019-2021, released 26 July 2024) as critical comparative evidence demonstrating TGA's documentation capacity versus absence of Safety Plan implementation records. Establishes that documentation absence reflects non-implementation rather than non-documentation practice.
+
+- **Updated vaccination data:** Updated vaccination coverage figure from 94% (October 2024) to 91.2% (October 2025) as per latest Covid-19 vaccination data.
 
 **Vaccination statistics verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period. Primary source documentation uploaded:
 - `covid-19-vaccination-vaccination-data-27-july-2023.xlsx`
