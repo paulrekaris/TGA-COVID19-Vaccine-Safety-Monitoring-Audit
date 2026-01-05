@@ -228,33 +228,63 @@ A critical gap exists between public messaging and formal policy commitments reg
 
 ### The Public Message: "No Different"
 
-On 3 February 2021—the same month TGA published its COVID-19 Vaccine Safety Monitoring Plan—the Australian Department of Health released a public video explaining the TGA approval process. The video stated:
+On **3 February 2021**—the same month TGA published its COVID-19 Vaccine Safety Monitoring Plan—the Department of Health released a video stating:
 
-> "All registered vaccines are closely monitored by the TGA, who will respond to any safety issues. **COVID-19 vaccines will be no different.**"
+> "All registered vaccines are closely monitored by the TGA... **COVID-19 vaccines will be no different.**"<sup>[1](#fn1)</sup>
 
-This communication described COVID-19 vaccine monitoring as **identical to routine registered vaccine surveillance**.
+This positioned COVID-19 monitoring as identical to routine surveillance.
 
 ### The Policy Commitment: "Enhanced Monitoring"
 
-However, formal government commitments told a different story:
+Formal commitments told a different story:
 
-- **National Cabinet (November 2020):** Endorsed "active and comprehensive" COVID-19 vaccine safety monitoring as a condition of provisional approval
-- **TGA Safety Monitoring Plan (February 2021):** Specified 17 numbered strategies for enhanced post-market surveillance
-- **Commonwealth-State Bilateral Agreements (February 2021):** Established formal governance frameworks requiring systematic safety monitoring implementation and TGA reporting
+- **National Cabinet** (Nov 2020): "Active and comprehensive" monitoring for provisional approvals
+- **TGA Safety Plan** (Feb 2021): 17 numbered strategies to "strengthen"/"enhance" routine systems
+- **Bilateral Agreements** (Feb 2021): Governance requiring systematic implementation reporting
 
 ### The Contradiction
 
-If COVID-19 vaccine monitoring was truly "no different" from routine surveillance, what operational meaning did the Safety Monitoring Plan's 17 strategies have?
+If COVID-19 vaccine monitoring was truly "no different" from routine surveillance, what operational meaning did the Safety Plan's 17 strategies have?
 
 This public communication either:
+
 1. Contradicted formal policy commitments to Cabinet and states/territories, or
 2. Accurately reflected that enhanced monitoring was never implemented as operationally distinct from routine processes, or
-3. Demonstrated the government itself couldn't clearly articulate what made COVID-19 monitoring "enhanced"
+3. Revealed the government's inability to articulate what made COVID-19 monitoring "enhanced"
 
-Four years later, **TGA Senate testimony (9 October 2025)** described monitoring as "day-to-day processes" that were never systematically tracked against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
+### Testing the Contradiction: 2022 Direct Inquiries
 
-**Primary Source:**  
-[Department of Health Video Transcript: "COVID-19 vaccines will be no different" (3 February 2021)](primary-sources/DoH-Video-No-Different_3Feb2021.md)
+On **18 and 22 February 2022**, I submitted identical inquiries requesting Safety Plan implementation evidence: progress reports against the 17 strategies, investigation documentation, and governance records.
+
+**TGA Responses** (identical template both dates):
+- **Claimed**: Monitoring "enhanced dramatically" and represented "the most intense... ever conducted"
+- **Provided**: Routine weekly surveillance reports + the "no different" video<sup>[1](#fn1)</sup> + safety video<sup>[2](#fn2)</sup>
+- **Delivered**: Zero Plan-specific implementation documentation
+
+The response pattern was clear: claims of dramatic enhancement, evidence of routine processes.<sup>[3](#fn3)</sup>
+
+### Resolution: 2025 Senate Testimony
+
+**Senate testimony (9 October 2025)** confirmed monitoring consisted of "day-to-day processes" never systematically tracked against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
+
+Four years of inquiries produced identical results: assertions of enhancement without documentation of what made the monitoring operationally distinct.
+
+---
+
+**Primary Sources:**
+
+Department of Health, "COVID-19 vaccines – TGA approval process" (3 Feb 2021)<sup>[1](#fn1)</sup>
+
+TGA, "Get vaccine safety information you can trust" (26 Nov 2021)<sup>[2](#fn2)</sup>
+
+---
+
+<a name="fn1">1</a>: https://www.youtube.com/watch?v=XxJ7dnltvtI
+
+<a name="fn2">2</a>: https://www.youtube.com/watch?v=PT4M9fX9sPI
+
+<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis_v1.5.1.pdf), pp. 86-87
+
 
 ### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
 
