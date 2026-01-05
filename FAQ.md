@@ -203,7 +203,7 @@ These intergovernmental arrangements therefore anticipated systematic implementa
 
 ### Q11: How many doses were affected?
 
-68.4 million doses were administered nationally during the provisional approval period when this multi-tier monitoring framework was supposed to be operating: Cabinet policy → Commonwealth-State implementation agreements → TGA Safety Monitoring Plan → AusVaxSafety delivery. This represents approximately 94% of Australia's COVID-19 vaccine rollout.
+68.4 million doses were administered nationally during the provisional approval period when this multi-tier monitoring framework was supposed to be operating: Cabinet policy → Commonwealth-State implementation agreements → TGA Safety Monitoring Plan → AusVaxSafety delivery. This represents approximately 91% of Australia's COVID-19 vaccine rollout as at October 2025.
 
 ### Q12: What was the context for this vaccine deployment?
 
