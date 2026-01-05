@@ -1,6 +1,6 @@
 # Version History
 
-## Version 1.8.0 (5 January 2026)
+## Version 1.8.0 (6 January 2026)
 
 ### Major Updates
 
