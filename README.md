@@ -492,20 +492,20 @@ All material is publicly available or obtained through lawful FOI processes, ena
 
 
 **Australian COVID‑19 Vaccination Policy**  
-__https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf__  
+https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf 
 Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring "via the TGA" through a national COVID‑19 Vaccine Pharmacovigilance Plan.
 
 **TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)**  
-__https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf__      
+https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf     
 Sets out 20 specific outputs across 17 numbered strategies as TGA's operational implementation of the enhanced‑monitoring expectation for provisionally approved COVID‑19 vaccines.
 
 **AusVaxSafety – Active and enhanced vaccine safety surveillance for COVID‑19 vaccines in Australia**
-__https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia__  
+https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia  
 Describes AusVaxSafety as operating "as part of the national COVID‑19 Vaccine Pharmacovigilance Plan, led by the TGA and the Australian Government", complementing TGA and state/territory spontaneous reporting systems.
 
 **Australian Public Assessment Reports and related releases**  
 Comirnaty AusPAR (transition from provisional to full registration)  
-__https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf__
+https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf
 
 **TGA public databases and publications**  
 Database of Adverse Event Notifications (DAEN), weekly COVID‑19 vaccine safety reports, and published regulatory decisions.
@@ -517,13 +517,13 @@ Database of Adverse Event Notifications (DAEN), weekly COVID‑19 vaccine safety
 **Information Commissioner material**
    * OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).
    * 2025 AICmr 54 decision ('AUQ' and Department of Health and Aged Care')  
-__https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html__
+https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 **Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care (AICmr 54)**  
-__https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/__
+https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/
 
 **Senate Community Affairs Legislation Committee testimony (9 October 2025)**  
-__https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003__
+https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
 
 ## Documentary Evidence of TGA Documentation Capacity
