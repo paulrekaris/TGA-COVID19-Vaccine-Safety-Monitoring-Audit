@@ -647,7 +647,7 @@ https://doi.org/10.5281/zenodo.17731054
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
   month = {December},
   year = {2025},
-  version = {1.8.0},
+  version = {1.8},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -722,7 +722,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Last Updated:** 5 January 2026
-**Version:** 1.8.0
+**Version:** 1.8
 **Status:** Publication-ready for open-repository release
 
 For detailed version history and changelog, see [**VERSION_HISTORY.md**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION_HISTORY.md)
