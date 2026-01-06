@@ -661,6 +661,8 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 **Author ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)
+[CITATION.cff](CITATION.cff)
+
 
 # DISCLAIMER AND DECLARATION
 
@@ -750,9 +752,6 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **Zenodo Archive:** [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)
-[CITATION.cff](CITATION.cff)
 
 - **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
   Public version control with full history
