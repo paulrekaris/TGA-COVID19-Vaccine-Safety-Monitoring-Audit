@@ -609,6 +609,8 @@ I'm a policy analyst and consultant with 30 years' professional experience acros
 - Risk management and governance
 - FOI processes and administrative law
 
+**ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
+
 I'm conducting this investigation in my personal capacity as a private citizen, not on behalf of any organisation or political group.
 
 I don’t claim to have all the answers. I’m simply someone who asked questions, followed the evidence, and found patterns that demanded explanation. Democratic accountability depends on citizens being curious enough to ask whether government commitments and promises to its citizens were kept during an historically unprecedented medical intervention—and honest enough to admit the limits of what can be known from outside the black box.
