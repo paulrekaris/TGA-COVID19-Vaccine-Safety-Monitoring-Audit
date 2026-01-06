@@ -1,4 +1,4 @@
-# Documentation Gap Analysis: Implementation Audit of TGA COVID 19 Vaccine Safety Monitoring Plan
+# Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
 
 ## Quick Start
 
