@@ -36,6 +36,9 @@ through records, as required for an enhanced monitoring framework relied upon fo
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
 and international pharmacovigilance standards (ICH E2E, CIOMS).
 
+**This audit is not intended to deliver final conclusions.**
+>It exists to preserve a verifiable record of what could be independently established about the implementation of Australia’s COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms.
+To ensure the integrity and historical persistence of that record, the audit’s core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation or record reconstruction.
 
 ## Executive Summary
 
