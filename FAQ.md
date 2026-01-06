@@ -129,7 +129,7 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 
 **Scale and Stakes:**
 - **21.2 million Australians** received COVID-19 vaccines
-- **75 million doses** administered in total (68.4 million under provisional approval)
+- **75 million doses**<sup>(#f1)</sup> administered in total (68.4 million under provisional approval as of July 2023)<sup>(#f2)</sup>
 - This was Australia's **largest and fastest vaccine deployment in history**
 
 **Government Mandates:**
@@ -635,3 +635,7 @@ After four years of this work, I can say with certainty: *"I know this much is t
 
 **For queries or corrections:** Contact via GitHub repository issues or rekasp@protonmail.com
 
+
+<sup><a id="f1" href="#f1">1</a></sup> Latest available: 75M total doses administered (as of 30 Sep 2025, Australian Immunisation Register/Department of Health); no further updates planned pending new official releases. COVID-19 vaccination rollout update, 1 Oct 2025
+
+<sup><a id="f2" href="#f2">2</a></sup> Provisional approval pathway doses through July 2023 baseline per TGA audit scope. TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.8
