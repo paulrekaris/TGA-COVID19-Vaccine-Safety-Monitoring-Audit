@@ -303,6 +303,8 @@ Four years later (October 2025), Senate testimony described the Plan as managed 
 
 The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
 
+**[See the TGA Pharmacovigilance Gap section.](./reference-documents/README.md#tga-pharmacovigilance--a-regulators-perspective)**
+
 ## Official 2021 AEFI Surveillance Report
 
 In 2024, *Communicable Diseases Intelligence* published an annual report on adverse events following COVID‑19 vaccination in 2021, based on data from TGA’s AEMS passive (spontaneous) surveillance system.
