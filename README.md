@@ -303,7 +303,7 @@ Four years later (October 2025), Senate testimony described the Plan as managed 
 
 The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
 
-*(See [Pharmacovigilance – a regulator's perspective](./reference-documents/#tga-pharmacovigilance--a-regulators-perspective-evidence-of-a-gap-between-promise-and-practice))*
+*(See **[Pharmacovigilance – a regulator's perspective](./reference-documents/#tga-pharmacovigilance--a-regulators-perspective-evidence-of-a-gap-between-promise-and-practice)**)*
 
 
 ## Official 2021 AEFI Surveillance Report
