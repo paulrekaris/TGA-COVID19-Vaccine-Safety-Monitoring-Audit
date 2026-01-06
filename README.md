@@ -290,7 +290,7 @@ TGA, "Get vaccine safety information you can trust" (26 Nov 2021)<sup>[2](#fn2)<
 
 ### From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap
 
-In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. **[See the TGA Pharmacovigilance Gap section.](reference-documents/README.md#in-october-2021)**
+In October 2021, at the peak of provisional approval rollout, senior TGA officials taught Master of Pharmacy students at University of Technology Sydney about COVID-19 vaccine safety monitoring. **[See Pharmacovigilance - a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf)**
 
 What they showed:
 - Slide 22: Routine PV infrastructure (AEMS, DAEN, daily/weekly analysis, workflow database)
