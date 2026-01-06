@@ -129,7 +129,7 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 
 **Scale and Stakes:**
 - **21.2 million Australians** received COVID-19 vaccines
-- **73 million doses** administered in total (68.4 million under provisional approval)
+- **75 million doses** administered in total (68.4 million under provisional approval)
 - This was Australia's **largest and fastest vaccine deployment in history**
 
 **Government Mandates:**
@@ -209,7 +209,7 @@ These intergovernmental arrangements therefore anticipated systematic implementa
 
 **Unprecedented Scale:**
 - **21.2 million Australians** vaccinated (approximately 96% of eligible population)
-- **73 million total doses** administered
+- **75 million total doses** administered
 - **68.4 million doses** under provisional approval
 - Fastest mass vaccination programme in Australian history
 
