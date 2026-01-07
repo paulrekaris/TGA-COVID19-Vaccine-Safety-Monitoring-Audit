@@ -750,7 +750,7 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Arweave:** [Permanent Storage](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)  
   Permanent blockchain storage
 
-- **Zenodo Archive:** [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)  
+- **Zenodo Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)
   Permanent academic archive with CERN backing
 
 - **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
