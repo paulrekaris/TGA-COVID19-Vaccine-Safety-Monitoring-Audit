@@ -648,7 +648,7 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 ```bibtex
 @misc{rekaris2026tga,
   author = {Rekaris, Paul},
-  title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
+  orcid = {0009-0000-1338-9578},  title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
   month = {January},
   year = {2026},
   version = {1.8},
