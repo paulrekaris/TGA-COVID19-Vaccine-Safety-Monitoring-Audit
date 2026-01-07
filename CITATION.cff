@@ -7,6 +7,7 @@ abstract: "ISO 19011:2018 citizen-led audit of TGA's COVID-19 Vaccine Safety Mon
 authors:
   - family-names: "Rekaris"
     given-names: "Paul"
+    orcid: "https://orcid.org/0009-0000-1338-9578"
 keywords:
   - "TGA"
   - "pharmacovigilance"
