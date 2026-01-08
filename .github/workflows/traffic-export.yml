@@ -161,11 +161,10 @@ jobs:
             paths_text = "   No path data available\n"
 
         # Generate summary
-        summary = f"""━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        summary = f"""
         TGA AUDIT TRAFFIC SUMMARY
         {now.strftime('%A, %d %B %Y')}
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+       -----------------------------------------------------
         📊 YESTERDAY'S ACTIVITY
            {yesterday_clones} clones ({yesterday_unique_cloners} unique)
            {yesterday_views} views ({yesterday_unique_visitors} unique visitors)
@@ -178,7 +177,7 @@ jobs:
         {referrers_text}
         📄 MOST VIEWED CONTENT
         {paths_text}
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ---------------------------------------------------
 
         14-DAY WINDOW (Rolling)
            Total clones: {today_clones_total:,} | Unique: {today_clones_unique}
@@ -190,7 +189,7 @@ jobs:
            Total clones recorded: {total_clones_alltime:,}
            Average daily clones: {avg_daily_clones:.1f}
 
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ----------------------------------------------------
         Manual checks:
         Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic
         Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
