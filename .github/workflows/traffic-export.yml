@@ -2,254 +2,237 @@ name: Export Traffic with Daily Summary and Email
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 9 PM UTC = 8 AM AEDT (7 AM AEST in winter)
-  workflow_dispatch:
+    - cron: '0 21 * * *'  # 21:00 UTC = 8:00 AM AEDT (summer) / 7:00 AM AEST (winter)
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   export-traffic:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout traffic repository
-        uses: actions/checkout@v3
-        with:
-          repository: paulrekaris/TGA-Audit-Traffic-Data
-          token: ${{ secrets.TRAFFIC_TOKEN }}
-          path: traffic-repo
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-      
-      - name: Install dependencies
-        run: pip install requests pandas
-      
-      - name: Export traffic data with summary
-        env:
-          GITHUB_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
-        run: |
-          cat > export.py << 'EOF'
-          import os
-          import json
-          import csv
-          from datetime import datetime, timedelta
-          import requests
-          import pandas as pd
+    - name: Checkout traffic data repository
+      uses: actions/checkout@v3
+      with:
+        repository: paulrekaris/TGA-Audit-Traffic-Data
+        token: ${{ secrets.TRAFFIC_TOKEN }}
+        path: traffic-repo
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests pandas
+    
+    - name: Export traffic data
+      working-directory: traffic-repo
+      env:
+        TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+      run: |
+        cat > export.py << 'EXPORT_SCRIPT'
+        import requests
+        import json
+        import os
+        import pandas as pd
+        from datetime import datetime, timezone
 
-          REPO = 'paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit'
-          TOKEN = os.environ.get('GITHUB_TOKEN')
+        # Configuration
+        GITHUB_TOKEN = os.environ['TRAFFIC_TOKEN']
+        REPO_OWNER = 'paulrekaris'
+        REPO_NAME = 'TGA-COVID19-Vaccine-Safety-Monitoring-Audit'
+        BASE_URL = f'https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}'
 
-          headers = {
-              'Authorization': f'token {TOKEN}',
-              'Accept': 'application/vnd.github.v3+json'
-          }
+        headers = {
+            'Authorization': f'token {GITHUB_TOKEN}',
+            'Accept': 'application/vnd.github.v3+json'
+        }
 
-          def fetch_data(endpoint):
-              url = f"https://api.github.com/repos/{REPO}/traffic/{endpoint}"
-              response = requests.get(url, headers=headers)
-              return response.json() if response.status_code == 200 else None
+        # Get current timestamp
+        now = datetime.now(timezone.utc)
+        date_str = now.strftime('%Y-%m-%d')
+        timestamp_str = now.strftime('%Y-%m-%d %H:%M UTC')
 
-          def save_to_csv(data, filename, data_type):
-              filepath = f'traffic-repo/{filename}'
-              file_exists = os.path.isfile(filepath)
-              
-              with open(filepath, 'a', newline='') as f:
-                  today = datetime.now().strftime('%Y-%m-%d')
-                  
-                  if data_type == 'clones':
-                      fields = ['date', 'total_clones', 'unique_cloners']
-                      writer = csv.DictWriter(f, fieldnames=fields)
-                      if not file_exists:
-                          writer.writeheader()
-                      
-                      total_today = sum(e['count'] for e in data.get('clones', []) if e['timestamp'][:10] == today)
-                      unique_today = sum(e['uniques'] for e in data.get('clones', []) if e['timestamp'][:10] == today)
-                      
-                      if total_today > 0:
-                          writer.writerow({
-                              'date': today,
-                              'total_clones': total_today,
-                              'unique_cloners': unique_today
-                          })
-                          return total_today, unique_today
-                  
-                  elif data_type == 'views':
-                      fields = ['date', 'total_views', 'unique_visitors']
-                      writer = csv.DictWriter(f, fieldnames=fields)
-                      if not file_exists:
-                          writer.writeheader()
-                      
-                      total_today = sum(e['count'] for e in data.get('views', []) if e['timestamp'][:10] == today)
-                      unique_today = sum(e['uniques'] for e in data.get('views', []) if e['timestamp'][:10] == today)
-                      
-                      if total_today > 0:
-                          writer.writerow({
-                              'date': today,
-                              'total_views': total_today,
-                              'unique_visitors': unique_today
-                          })
-                          return total_today, unique_today
-              
-              return 0, 0
+        # Fetch traffic data
+        print("Fetching traffic data...")
+        clones_response = requests.get(f'{BASE_URL}/traffic/clones', headers=headers)
+        views_response = requests.get(f'{BASE_URL}/traffic/views', headers=headers)
+        referrers_response = requests.get(f'{BASE_URL}/traffic/popular/referrers', headers=headers)
+        paths_response = requests.get(f'{BASE_URL}/traffic/popular/paths', headers=headers)
 
-          def save_json_backup(data, filename):
-              os.makedirs('traffic-repo/json-backups', exist_ok=True)
-              today = datetime.now().strftime('%Y-%m-%d')
-              filepath = f'traffic-repo/json-backups/{filename}_{today}.json'
-              with open(filepath, 'w') as f:
-                  json.dump(data, f, indent=2)
+        clones_data = clones_response.json()
+        views_data = views_response.json()
+        referrers_data = referrers_response.json()
+        paths_data = paths_response.json()
 
-          def generate_summary(clones_data, views_data, today_clones, today_unique_clones, today_views, today_unique_views):
-              today = datetime.now()
-              summary = []
-              
-              summary.append("=" * 60)
-              summary.append("TGA COVID-19 VACCINE SAFETY AUDIT - TRAFFIC SUMMARY")
-              summary.append("=" * 60)
-              summary.append(f"Date: {today.strftime('%Y-%m-%d %H:%M')} UTC")
-              summary.append("")
-              
-              summary.append("YESTERDAY'S ACTIVITY:")
-              summary.append(f"  Clones: {today_clones} total ({today_unique_clones} unique)")
-              summary.append(f"  Views: {today_views} total ({today_unique_views} unique)")
-              summary.append("")
-              
-              try:
-                  clones_df = pd.read_csv('traffic-repo/clones.csv')
-                  views_df = pd.read_csv('traffic-repo/views.csv')
-                  
-                  if len(clones_df) > 1:
-                      prev_clones = clones_df.iloc[-2]['total_clones']
-                      prev_unique = clones_df.iloc[-2]['unique_cloners']
-                      clone_change = today_clones - prev_clones
-                      unique_change = today_unique_clones - prev_unique
-                      
-                      summary.append("TRENDS (vs. previous day):")
-                      summary.append(f"  Clones: {clone_change:+d} ({clone_change/prev_clones*100:+.1f}%)" if prev_clones > 0 else "  Clones: N/A")
-                      summary.append(f"  Unique cloners: {unique_change:+d} ({unique_change/prev_unique*100:+.1f}%)" if prev_unique > 0 else "  Unique cloners: N/A")
-                  
-                  if len(views_df) > 1:
-                      prev_views = views_df.iloc[-2]['total_views']
-                      prev_unique_views = views_df.iloc[-2]['unique_visitors']
-                      view_change = today_views - prev_views
-                      unique_view_change = today_unique_views - prev_unique_views
-                      
-                      summary.append(f"  Views: {view_change:+d} ({view_change/prev_views*100:+.1f}%)" if prev_views > 0 else "  Views: N/A")
-                      summary.append(f"  Unique visitors: {unique_view_change:+d} ({unique_view_change/prev_unique_views*100:+.1f}%)" if prev_unique_views > 0 else "  Unique visitors: N/A")
-                      summary.append("")
-                  
-                  if len(clones_df) >= 7:
-                      last_7 = clones_df.tail(7)
-                      avg_clones = last_7['total_clones'].mean()
-                      avg_unique = last_7['unique_cloners'].mean()
-                      
-                      summary.append("LAST 7 DAYS AVERAGE:")
-                      summary.append(f"  Daily clones: {avg_clones:.1f}")
-                      summary.append(f"  Daily unique cloners: {avg_unique:.1f}")
-                      summary.append("")
-                  
-                  summary.append("LAST 14 DAYS TOTAL (GitHub API window):")
-                  summary.append(f"  Total clones: {clones_data.get('count', 0):,}")
-                  summary.append(f"  Unique cloners: {clones_data.get('uniques', 0):,}")
-                  summary.append(f"  Total views: {views_data.get('count', 0):,}")
-                  summary.append(f"  Unique visitors: {views_data.get('uniques', 0):,}")
-                  summary.append("")
-                  
-                  days_tracked = len(clones_df)
-                  total_all_clones = clones_df['total_clones'].sum()
-                  total_all_views = views_df['total_views'].sum()
-                  avg_daily_clones = total_all_clones / days_tracked if days_tracked > 0 else 0
-                  
-                  summary.append("ALL-TIME STATS (since tracking began):")
-                  summary.append(f"  Days tracked: {days_tracked}")
-                  summary.append(f"  Total clones: {total_all_clones:,.0f}")
-                  summary.append(f"  Total views: {total_all_views:,.0f}")
-                  summary.append(f"  Average daily clones: {avg_daily_clones:.1f}")
-                  summary.append("")
-                  
-                  summary.append("NOTABLE EVENTS:")
-                  events = []
-                  if today_clones > 100:
-                      events.append("  ⚠️  Clone spike detected (>100 clones)")
-                  if len(clones_df) >= 7:
-                      avg_clones_7d = last_7['total_clones'].mean()
-                      if last_7['unique_cloners'].min() > 50:
-                          events.append("  ✓ Sustained high engagement (>50 unique cloners/day for 7 days)")
-                      if today_clones > avg_clones_7d * 1.5:
-                          events.append(f"  ⬆️  Above-average activity (+{((today_clones/avg_clones_7d - 1)*100):.0f}% vs 7-day avg)")
-                  
-                  if not events:
-                      events.append("  — No unusual activity detected")
-                  
-                  summary.extend(events)
-                  summary.append("")
-                  
-              except Exception as e:
-                  summary.append(f"Note: Historical analysis unavailable ({str(e)})")
-                  summary.append("")
-              
-              summary.append("MANUAL CHECKS:")
-              summary.append("  Referring sites: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/graphs/traffic")
-              summary.append("  Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data")
-              summary.append("")
-              summary.append("=" * 60)
-              summary.append("Automated report | Next update in 24 hours")
-              summary.append("=" * 60)
-              
-              return "\n".join(summary)
+        # Load or create CSVs
+        try:
+            clones_df = pd.read_csv('clones.csv')
+            views_df = pd.read_csv('views.csv')
+        except FileNotFoundError:
+            clones_df = pd.DataFrame(columns=['date', 'total_clones', 'unique_cloners'])
+            views_df = pd.DataFrame(columns=['date', 'total_views', 'unique_visitors'])
 
-          print("Fetching traffic data from GitHub API...")
-          
-          clones = fetch_data('clones')
-          today_c, today_uc = 0, 0
-          if clones:
-              today_c, today_uc = save_to_csv(clones, 'clones.csv', 'clones')
-              save_json_backup(clones, 'clones')
-              print(f"✓ Clones: {clones.get('count', 0)} total, {clones.get('uniques', 0)} unique (14-day window)")
+        # Get today's totals
+        today_clones_total = clones_data.get('count', 0)
+        today_clones_unique = clones_data.get('uniques', 0)
+        today_views_total = views_data.get('count', 0)
+        today_views_unique = views_data.get('uniques', 0)
 
-          views = fetch_data('views')
-          today_v, today_uv = 0, 0
-          if views:
-              today_v, today_uv = save_to_csv(views, 'views.csv', 'views')
-              save_json_backup(views, 'views')
-              print(f"✓ Views: {views.get('count', 0)} total, {views.get('uniques', 0)} unique (14-day window)")
-          
-          summary_text = generate_summary(clones, views, today_c, today_uc, today_v, today_uv)
-          
-          os.makedirs('traffic-repo/daily-summaries', exist_ok=True)
-          today_date = datetime.now().strftime('%Y-%m-%d')
-          summary_file = f'traffic-repo/daily-summaries/summary_{today_date}.txt'
-          with open(summary_file, 'w') as f:
-              f.write(summary_text)
-          
-          with open('traffic-repo/LATEST_SUMMARY.txt', 'w') as f:
-              f.write(summary_text)
-          
-          print("\n" + summary_text)
-          print("\n✓ Traffic data and summary saved successfully")
-          EOF
-          
-          python export.py
-      
-      - name: Send email summary
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 587
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: TGA Audit Traffic Summary
-          to: prekas23@gmail.com
-          from: prekas23@gmail.com
-          body: file://traffic-repo/LATEST_SUMMARY.txt
-      
-      - name: Commit and push to traffic repo
-        run: |
-          cd traffic-repo
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git diff --quiet && git diff --staged --quiet || \
-            git commit -m "Traffic data and summary for $(date +%Y-%m-%d)" && \
-            git push
+        # Check if today's date already exists
+        if date_str in clones_df['date'].values:
+            print(f"Data for {date_str} already exists. Exiting to prevent duplicates.")
+            exit(0)
+
+        # Calculate yesterday's activity (true daily delta)
+        yesterday_clones = 0
+        yesterday_unique_cloners = 0
+        yesterday_views = 0
+        yesterday_unique_visitors = 0
+
+        if len(clones_df) > 0:
+            # Get yesterday's 14-day total
+            prev_clones_total = clones_df.iloc[-1]['total_clones']
+            prev_unique_cloners = clones_df.iloc[-1]['unique_cloners']
+            
+            # Find newest day in today's data (Day 15)
+            if 'clones' in clones_data and len(clones_data['clones']) > 0:
+                newest_day = clones_data['clones'][-1]
+                yesterday_clones = newest_day.get('count', 0)
+                yesterday_unique_cloners = newest_day.get('uniques', 0)
+
+        if len(views_df) > 0:
+            prev_views_total = views_df.iloc[-1]['total_views']
+            prev_unique_visitors = views_df.iloc[-1]['unique_visitors']
+            
+            if 'views' in views_data and len(views_data['views']) > 0:
+                newest_day = views_data['views'][-1]
+                yesterday_views = newest_day.get('count', 0)
+                yesterday_unique_visitors = newest_day.get('uniques', 0)
+
+        # Append new data
+        new_clones_row = pd.DataFrame([{
+            'date': date_str,
+            'total_clones': today_clones_total,
+            'unique_cloners': today_clones_unique
+        }])
+        new_views_row = pd.DataFrame([{
+            'date': date_str,
+            'total_views': today_views_total,
+            'unique_visitors': today_views_unique
+        }])
+
+        clones_df = pd.concat([clones_df, new_clones_row], ignore_index=True)
+        views_df = pd.concat([views_df, new_views_row], ignore_index=True)
+
+        # Save CSVs
+        clones_df.to_csv('clones.csv', index=False)
+        views_df.to_csv('views.csv', index=False)
+
+        # Calculate 7-day averages
+        if len(clones_df) >= 7:
+            avg_7day_clones = clones_df.tail(7)['total_clones'].diff().mean()
+            avg_7day_unique = clones_df.tail(7)['unique_cloners'].diff().mean()
+        else:
+            avg_7day_clones = clones_df['total_clones'].mean() if len(clones_df) > 0 else 0
+            avg_7day_unique = clones_df['unique_cloners'].mean() if len(clones_df) > 0 else 0
+
+        # Calculate all-time stats
+        days_tracked = len(clones_df)
+        total_clones_alltime = clones_df['total_clones'].iloc[-1] if len(clones_df) > 0 else 0
+        avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
+
+        # Format referrers
+        referrers_text = ""
+        if referrers_data and len(referrers_data) > 0:
+            for i, ref in enumerate(referrers_data[:4], 1):
+                referrers_text += f"   {i}. {ref['referrer']} ({ref['count']} views)\n"
+        else:
+            referrers_text = "   No external referrers in past 14 days\n"
+
+        # Format popular paths
+        paths_text = ""
+        if paths_data and len(paths_data) > 0:
+            for i, path in enumerate(paths_data[:4], 1):
+                path_title = path['path'] if path['path'] != '/' else 'Main page'
+                paths_text += f"   {i}. {path_title} ({path['count']} views)\n"
+        else:
+            paths_text = "   No path data available\n"
+
+        # Generate summary
+        summary = f"""━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        TGA AUDIT TRAFFIC SUMMARY
+        {now.strftime('%A, %d %B %Y')}
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        📊 YESTERDAY'S ACTIVITY
+           {yesterday_clones} clones ({yesterday_unique_cloners} unique)
+           {yesterday_views} views ({yesterday_unique_visitors} unique visitors)
+
+        📈 TRENDS (7-day average)
+           Daily clones: {avg_7day_clones:.1f}
+           Daily unique cloners: {avg_7day_unique:.1f}
+
+        🔗 TOP TRAFFIC SOURCES
+        {referrers_text}
+        📄 MOST VIEWED CONTENT
+        {paths_text}
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+        14-DAY WINDOW (Rolling)
+           Total clones: {today_clones_total:,} | Unique: {today_clones_unique}
+           Total views: {today_views_total:,} | Unique: {today_views_unique}
+           Note: Window shifts daily - represents last 14 days
+
+        All-Time Stats (since tracking began)
+           Days tracked: {days_tracked}
+           Total clones recorded: {total_clones_alltime:,}
+           Average daily clones: {avg_daily_clones:.1f}
+
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        Manual checks:
+        Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic
+        Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
+        """
+
+        # Save summary
+        with open('LATEST_SUMMARY.txt', 'w') as f:
+            f.write(summary)
+
+        os.makedirs('daily-summaries', exist_ok=True)
+        with open(f'daily-summaries/summary_{date_str}.txt', 'w') as f:
+            f.write(summary)
+
+        # Save JSON backups
+        os.makedirs('json-backups', exist_ok=True)
+        with open(f'json-backups/clones_{date_str}.json', 'w') as f:
+            json.dump(clones_data, f, indent=2)
+        with open(f'json-backups/views_{date_str}.json', 'w') as f:
+            json.dump(views_data, f, indent=2)
+
+        print("Traffic data exported successfully!")
+        print(summary)
+        EXPORT_SCRIPT
+        python export.py
+    
+    - name: Commit and push changes
+      working-directory: traffic-repo
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add .
+        git commit -m "Traffic data and summary for $(date +%Y-%m-%d)" || echo "No changes to commit"
+        git push
+    
+    - name: Send email with summary
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: TGA Audit Traffic Summary - ${{ github.event.repository.updated_at }}
+        to: prekas23@gmail.com
+        from: GitHub Traffic Monitor <prekas23@gmail.com>
+        body: file://traffic-repo/LATEST_SUMMARY.txt
