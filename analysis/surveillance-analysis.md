@@ -321,7 +321,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Date:** 8 January 2026
 
-**Version:** 1.9
+**Version:** 1.8
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
