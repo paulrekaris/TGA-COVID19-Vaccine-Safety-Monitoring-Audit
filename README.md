@@ -96,6 +96,9 @@ During Australia's largest medical intervention in history, 68.4 million COVID-1
 This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified 
 through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
+The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit 
+examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
+
 **Important distinction**: This audit does NOT claim that routine pharmacovigilance 
 failed to occur. TGA conducted monitoring activities, investigated signals, and published reports.
 
