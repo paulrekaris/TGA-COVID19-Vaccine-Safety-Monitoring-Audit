@@ -35,7 +35,7 @@
 
 This analysis follows:
 - **ISO 19011:2018** - Guidelines for auditing management systems
-- **ANAO Better Practice Guide** - Performance Information in Portfolio Budget Statements (June 2015)
+- **ANAO Better Practice Guide** - Reporting Meaningful Performance Information (2023). Performance reporting principles
 - **ICH E2E** - Pharmacovigilance Planning (adopted by TGA)
 - **WHO/EMA GVP Module IX** - Signal Management principles
 
