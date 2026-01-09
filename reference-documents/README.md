@@ -130,6 +130,8 @@ Available at: [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safe
 
 Third-party FOI request seeking monthly incidence data for conditions identified in the Comirnaty AusPAR as requiring monitoring under provisional approval. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form, providing independent corroboration of Strategy 2.3 AIR-denominator implementation absence documented in this audit. Demonstrates gap between monitoring conditions specified in AusPARs and actual data collection/retention practices.
 
+---
+
 ### TGA Pharmacovigilance – a regulator's perspective: Evidence of a Gap Between Promise and Practice 
 
 ### Source & Context
