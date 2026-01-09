@@ -35,7 +35,7 @@
 
 This analysis follows:
 - **ISO 19011:2018** - Guidelines for auditing management systems
-- **ANAO Better Practice Guide** - Reporting Meaningful Performance Information (2023). Performance reporting principles
+**ANAO *Reporting Meaningful Performance Information* (2023)**-Performance assessment principles
 - **ICH E2E** - Pharmacovigilance Planning (adopted by TGA)
 - **WHO/EMA GVP Module IX** - Signal Management principles
 
@@ -95,7 +95,7 @@ This sampling provides sufficient evidence of systematic patterns without introd
 
 ### Finding 1: Absence of Documented Data Source Reconciliation
 
-**ANAO Principle Applied:** "Performance information should be based on systems that can be replicated and produce consistent data over time."
+**ANAO Principle:** "Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned."
 
 TGA operated two major systems concurrently: DAEN passive (140,000+ reports) and AusVaxSafety active (3M+ responses). Reports reference both but provide no reconciliation methodology, integration framework, or unified analysis approach.
 
@@ -109,7 +109,7 @@ TGA operated two major systems concurrently: DAEN passive (140,000+ reports) and
 
 ### Finding 2: Observable Surveillance Intensity Degradation
 
-**ANAO Principle Applied:** "Performance reporting should enable assessment of whether planned activities were maintained throughout delivery period."
+**ANAO Principle:** "Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned."
 
 Systematic degradation documented across 33 months:
 - **Enhanced (2021):** Weekly, detailed breakdowns, emerging signal investigations
@@ -140,7 +140,7 @@ Reports from mid-2022 onwards employ "rates similar to expected" language extens
 
 ### Finding 4: Zero Plan Framework References
 
-**ANAO Principle Applied:** "Performance information should enable tracking against published strategies and frameworks."
+**ANAO Principle:** "Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned."
 
 Systematic review reveals across 150+ reports spanning 33 months:
 - Zero Plan references as organising framework
@@ -333,3 +333,4 @@ The question "Was the Plan implemented as operational accountability framework a
 
 
 
+<img width="451" height="688" alt="image" src="https://github.com/user-attachments/assets/ad9288dc-c547-4394-8084-425745632269" />
