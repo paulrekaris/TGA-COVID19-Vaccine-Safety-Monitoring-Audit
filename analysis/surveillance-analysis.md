@@ -1,4 +1,3 @@
-```
 > ## Surveillance Data Analysis: Key Takeaways
 > 
 > **What This Analysis Documents:**
@@ -31,7 +30,6 @@
 > 
 > **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E (pharmacovigilance planning), WHO/EMA GVP Module IX (signal management)
 
-```
 
 ## Audit Standards Applied
 
