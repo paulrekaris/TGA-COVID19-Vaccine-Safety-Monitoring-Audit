@@ -57,7 +57,7 @@ This analysis follows:
 | **27 Jul 2023** | Phase 3: Mature | Fortnightly | Minimal reporting as mass campaigns concluded with ongoing surveillance of mature programme. | Below 9% serious with stable established profile and minimal new reports received. | No new signals. Legacy warnings maintained but minimal ongoing surveillance detail provided. | Minimal mentions as active programmes wound down following mass campaign conclusion. | Zero Plan references. "No new concerns" messaging with minimal information on monitoring activities. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-27-07-2023) |
 | **2 Nov 2023** | Phase 3: Cessation | Final report | Minimal reporting at programme conclusion. Final cumulative statistics provided without comprehensive summary. | Stable at cessation with established pattern continuing through programme end. | No new signals. Cessation notice stated "routine monitoring continues" without public reports. | Programmes concluded concurrent with public reporting cessation. Final collection exceeded 3M responses. | Zero Plan references in final report. Cessation without output tracking, completion assessment, or evaluation. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23) |
 
-**0 refs despite** ACV Strategy 2.3 briefing (FOI 4029-03)
+Missing refrences despite ACV Strategy 2.3 briefing (FOI 4029-03)
 ---
 
 ## Report Selection Methodology (ISO 19011 + ANAO Principles)
