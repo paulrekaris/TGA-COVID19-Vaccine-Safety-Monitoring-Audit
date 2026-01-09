@@ -7,7 +7,8 @@
   Browse the full **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** for detailed Q&A on methodology, limitations, oversight context, and how to verify or challenge the findings.
 
 - **Full evidence**  
-  - **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.  
+  - **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.
+  - **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of a sample of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports.
   - **[reference-documents folder](reference-documents/)** – All key documents, safety plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
 
 ### Quick Reference Packs and Supporting Materials
