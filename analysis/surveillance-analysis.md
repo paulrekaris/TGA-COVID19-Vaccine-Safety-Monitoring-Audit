@@ -333,7 +333,7 @@ The question "Was the Plan implemented as operational accountability framework a
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
 **Related Documentation:** 
-- [Main Audit Report v1.8](../audit-v1.8.pdf)
+- [Main Audit Report v1.8](../documentation-gap-analysis_v1.8.pdf)
 - [Compensation Analysis](../compensation-analysis/)
 
 ---
