@@ -1,7 +1,6 @@
 # TGA COVID-19 Vaccine Safety Reports: Comprehensive Surveillance Data Analysis
 
 ---
-
 > ## Surveillance Data Analysis: Key Takeaways
 > 
 > **What This Analysis Documents:**
@@ -16,9 +15,9 @@
 > 
 > • **International standards not met:** ICH E2E requires documented signal evaluation trails; WHO/EMA GVP IX requires signal disposition matrices; ANAO principles require performance tracking—none evidenced in published reports
 > 
-> • **FOI 4029-03 (ACV Mtg 25)** proves capacity: **weekly PRR/MaxSPRT** presented Sep 2021:** TGA presented Strategy 2.3 methodology materials to Advisory Committee on Vaccines (Sep 2021), demonstrating capacity to organise materials by Plan objectives—yet concurrent public reports contained zero Strategy 2.3 references
-
-> • **OAIC search excluded advisory body evidence:** **Public reports exclude** ACV governance evidence (FOI 4029-03, D21-3141615) **despite** TGA Sep 2024 search (531 containers) admitting Obj 5 "unable to meaningfully interpret" Advisory Committee containers where FOI 4029-03 exists—**inadequate scope for Cabinet-endorsed policy verification**
+> • **FOI 4029-03 (ACV Mtg 25) proves capacity: weekly PRR/MaxSPRT presented Sep 2021:** TGA presented Strategy 2.3 methodology materials to Advisory Committee on Vaccines (Sep 2021), demonstrating capacity to organise materials by Plan objectives—yet concurrent public reports contained zero Strategy 2.3 references
+> 
+> • **OAIC search excluded advisory body evidence:** Public reports exclude ACV governance evidence (FOI 4029-03, D21-3141615) despite TGA Sep 2024 search (531 containers) admitting Obj 5 "unable to meaningfully interpret" Advisory Committee containers where FOI 4029-03 exists—inadequate scope for Cabinet-endorsed policy verification
 > 
 > • **Third-party verification confirms gaps:** FOI 5275 (Aug 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval
 > 
@@ -33,7 +32,6 @@
 > • **Central finding validated:** Monitoring activities demonstrably occurred, but systematic documentation showing Plan functioned as operational accountability framework remains absent from accessible public records
 > 
 > **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E (pharmacovigilance planning), WHO/EMA GVP Module IX (signal management)
-
 ---
 
 ## Audit Standards Applied
