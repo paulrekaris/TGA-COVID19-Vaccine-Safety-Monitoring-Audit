@@ -19,6 +19,8 @@ New to this audit? **Start here:**
 
 - **[ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including ANAO audit criteria, evidence hierarchy, non-conformity ratings, and conformity assessment.
 
+-  **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of six representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports, despite FOI 4029-03 proving TGA presented Strategy 2.3 methodology materials to Advisory Committee on Vaccines (September 2021).
+
 - **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) | Bitcoin Timestamped Dec 31, 2025
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**.
@@ -261,6 +263,7 @@ Without documented verification:
 - Documentation showing systematic integration of these activities into the enhanced monitoring framework defined in the Plan.  
 - Coordination protocols or data‑flow documentation linking AusVaxSafety outputs to TGA signal investigations.  
 - Evidence that enhanced processes were distinguished from routine “day‑to‑day” pharmacovigilance and tracked against Plan objectives.
+- **Systematic analysis of 150+ safety reports found zero Plan framework references despite FOI 4029-03 proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021).** **[Surveillance analysis](analysis/surveillance-analysis.md)**
 
 **Why this matters**
 
