@@ -23,7 +23,7 @@ New to this audit? **Start here:**
 
 - **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) |[Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**.
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**
 
 ## Table of Contents
 
