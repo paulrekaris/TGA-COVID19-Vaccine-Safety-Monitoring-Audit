@@ -125,7 +125,7 @@ This audit examines whether the TGA created the verifiable ground required for w
 - Should enhanced monitoring be distinguishable from routine operations?
 - What happens when verification is impossible?
 
-For 68.4 million doses (94% of rollout) administered under provisional approval, these questions matter. The methodology here establishes a replicable standard for citizen oversight when regulatory boundaries remain undefined and evidentiary powers limited.
+For 68.4 million doses (91.2% of rollout) administered under provisional approval, these questions matter. The methodology here establishes a replicable standard for citizen oversight when regulatory boundaries remain undefined and evidentiary powers limited.
 
 It demonstrates that democratic accountability requires not perfect knowledge but honest assessment of what can and cannot be verified from outside, combined with institutional structures that make verification possible.
 
