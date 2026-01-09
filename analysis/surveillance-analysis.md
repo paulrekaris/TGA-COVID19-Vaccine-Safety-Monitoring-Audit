@@ -82,14 +82,12 @@ Each report independently validates zero Plan framework references across divers
 
 ### Sample Size Justification
 
-**Why six reports rather than four:**
-Four reports insufficient for transition phase granularity and distinguishing emerging routine patterns versus established standardised formats.
+Six reports selected to capture:
+- Each surveillance phase (enhanced, transition, routine)
+- All publication frequencies (weekly, biweekly, fortnightly)
+- Key inflection points (initiation, peak, degradation, cessation)
 
-**Why six reports rather than ten:**
-Ten+ reports introduce redundancy without unique evidence value. Adjacent monthly reports within same phase contain substantially similar content without adding analytical value.
-
-**Why these specific dates:**
-Selected dates represent inflection points in surveillance characteristics rather than arbitrary calendar intervals. Each captures distinct characteristics not duplicated by adjacent reports.
+This sampling provides sufficient evidence of systematic patterns without introducing redundancy from adjacent reports with similar characteristics.
 
 ---
 
