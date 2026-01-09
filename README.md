@@ -264,7 +264,7 @@ Without documented verification:
 - Documentation showing systematic integration of these activities into the enhanced monitoring framework defined in the Plan.  
 - Coordination protocols or data‑flow documentation linking AusVaxSafety outputs to TGA signal investigations.  
 - Evidence that enhanced processes were distinguished from routine “day‑to‑day” pharmacovigilance and tracked against Plan objectives.
-- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021)** See **[Surveillance analysis](analysis/surveillance-analysis.md).
+- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021) See **[Surveillance analysis](analysis/surveillance-analysis.md)**
 
 **Why this matters**
 
@@ -683,7 +683,7 @@ The comprehensive audit report includes:
 
 - **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.8.pdf)**
   
-- **Surveillance Data Analysis** – Systematic analysis of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports despite **[FOI 4029-03] (https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf)** proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (Sep 2021). Includes ISO 19011 audit methodology, ANAO performance tracking gaps, and evidence of inadequate OAIC search scope excluding advisory body containers. **[Surveillance Data Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/surveillance-analysis.md)**
+- **Surveillance Data Analysis** – Systematic analysis of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports despite **[FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf)** proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (Sep 2021). Includes ISO 19011 audit methodology, ANAO performance tracking gaps, and evidence of inadequate OAIC search scope excluding advisory body containers. **[Surveillance Data Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/surveillance-analysis.md)**
   
 - **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence. **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis_V1.8.pdf)**
  
