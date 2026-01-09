@@ -2,10 +2,13 @@
 
 This folder contains key source documents referenced in the audit assessment.
 
+
 ### Australian COVID‑19 Vaccination Policy (November 2020)
 
   Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring “via the TGA” through a national COVID‑19 Vaccine Pharmacovigilance Plan.
   https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy?language=en
+
+---
   
 ### TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)
 
@@ -25,6 +28,8 @@ Provisional‑approval processes were benchmarked against comparable frameworks 
 **Original source:**  
 <https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf>
 
+---
+
 ### AusVaxSafety – Active and enhanced vaccine safety surveillance for COVID‑19 vaccines in Australia (February 2021)
 
   https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia  
@@ -32,6 +37,8 @@ Provisional‑approval processes were benchmarked against comparable frameworks 
   AusVaxSafety. *COVID‑19 vaccines – vaccine safety data*. AusVaxSafety website. Accessed 2025.  
   Available at: <https://www.ausvaxsafety.org.au/vaccine-safety-data/covid-19-vaccines>  
   > Active, SMS‑based post‑vaccination surveillance data for COVID‑19 vaccines in Australia, including cumulative counts of invitations sent, responses received, self‑reported adverse events and medical‑attendance rates. Used in this audit for estimates of approximately 6.8 million survey responses, ~3 million adverse‑event reports and ~62,000 reports of medical attention.
+> 
+---
 
 ### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
 Available at: <https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf>
@@ -39,6 +46,8 @@ Available at: <https://federalfinancialrelations.gov.au/sites/federalfinancialre
 Formal bilateral agreement between Commonwealth and Victoria establishing governance framework for vaccine rollout. Demonstrates that COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation—reinforcing audit finding that enhanced monitoring was not routine business but required systematic framework with traceable records. 
 
 This directly contradicts Senate testimony by senior TGA officials (9 October 2025) claiming monitoring was managed through "day-to-day processes" rather than systematic tracking against plan objectives.
+
+---
 
 ### Senate Community Affairs Legislation Committee testimony transcript excerpts
 
@@ -55,6 +64,8 @@ AusPARs documenting the transition of Comirnaty and Spikevax from provisional to
 - Comirnaty AusPAR: <https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf>  
 - Spikevax transition media/AusPAR page: <https://www.tga.gov.au/resources/auspar/auspar-spikevax-1)](https://www.tga.gov.au/sites/default/files/2023-05/auspar-spikevax-230511.pdf>
 
+---
+
 ### TGA performance reports
 
 TGA corporate performance reports reviewed to identify any Plan‑related outputs, indicators or performance measures. These documents provide the official performance‑reporting context against which the absence of Safety Monitoring Plan implementation metrics is assessed.
@@ -67,9 +78,13 @@ TGA corporate performance reports reviewed to identify any Plan‑related output
 - 2025 AICmr 54 decision (‘AUQ’ and Department of Health and Aged Care’):  
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
+---
+
 ### Sparke Helmore legal case note
 
 - [Sparke Helmore legal case note](reference-documents/Case%20note_%20'AUQ'%20and%20Department%20of%20Health%20and%20Aged%20Care%20(Freedom%20of%20Information)%20__%20Sparke%20Helmore.pdf) - independent legal analysis of OAIC Decision [2025] AICmr 54
+
+---
 
 ### FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021, released 26 July 2024)
 
@@ -82,8 +97,6 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
 **Archive:** [GitHub backup](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)
-
----
 
 ### Summary
 
@@ -99,13 +112,17 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
-**FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 Minutes (29 September 2021)**
+---
+
+### FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 Minutes (29 September 2021)**
 
 Available at: [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf)
 
 Advisory Committee on Vaccines meeting minutes (29 September 2021) documenting TGA's presentation of Strategy 2.3 methodology materials organized by Safety Plan objectives, including Proportional Reporting Ratio (PRR) analysis, Maximised Sequential Probability Ratio Test (MaxSPRT) approach, and Australian Immunisation Register (AIR) denominator-based framework discussion. Demonstrates TGA's organizational capacity to prepare and present Plan-framework materials to advisory bodies. Critical evidence: TGA presented Strategy 2.3 materials to advisory committee while concurrent public safety reports (September 2021 onwards) contained zero Strategy 2.3 references, zero PRR methodology outputs, and zero Plan framework acknowledgement. Establishes gap between internal advisory body transparency and public accountability—proving capability existed but was not applied to citizen-accessible reporting.
 
-**FOI 5275 - TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)**
+---
+
+### FOI 5275 - TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)**
 
 Available at: [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf)
 
@@ -113,7 +130,7 @@ Available at: [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safe
 
 Third-party FOI request seeking monthly incidence data for conditions identified in the Comirnaty AusPAR as requiring monitoring under provisional approval. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form, providing independent corroboration of Strategy 2.3 AIR-denominator implementation absence documented in this audit. Demonstrates gap between monitoring conditions specified in AusPARs and actual data collection/retention practices.
 
-## TGA Pharmacovigilance – a regulator's perspective: Evidence of a Gap Between Promise and Practice 
+### TGA Pharmacovigilance – a regulator's perspective: Evidence of a Gap Between Promise and Practice 
 
 ### Source & Context
 
