@@ -327,7 +327,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Related Documentation:** 
 - **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** 
-- **[Compensation Analysis](../compensation-analysis/) (PLACEHOLDER) 
+- **[Compensation Analysis](../compensation-analysis/) (PLACEHOLDER: In draft satge) 
 
 ---
 
