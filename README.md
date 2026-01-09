@@ -108,6 +108,12 @@ provisional approval and promised in the February 2021 Plan?
 After four years of FOI requests: No verifiable documentation 
 of Plan implementation has been produced.
 
+**Critical Distinction: Routine vs Enhanced Monitoring**: The existence of routine pharmacovigilance activities does 
+not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented.
+
+Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The 
+COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including 
+defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
