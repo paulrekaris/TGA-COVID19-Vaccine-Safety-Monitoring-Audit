@@ -99,6 +99,12 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
+**FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 Minutes (29 September 2021)**
+
+Available at: [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf)
+
+Advisory Committee on Vaccines meeting minutes (29 September 2021) documenting TGA's presentation of Strategy 2.3 methodology materials organized by Safety Plan objectives, including Proportional Reporting Ratio (PRR) analysis, Maximised Sequential Probability Ratio Test (MaxSPRT) approach, and Australian Immunisation Register (AIR) denominator-based framework discussion. Demonstrates TGA's organizational capacity to prepare and present Plan-framework materials to advisory bodies. Critical evidence: TGA presented Strategy 2.3 materials to advisory committee while concurrent public safety reports (September 2021 onwards) contained zero Strategy 2.3 references, zero PRR methodology outputs, and zero Plan framework acknowledgement. Establishes gap between internal advisory body transparency and public accountability—proving capability existed but was not applied to citizen-accessible reporting.
+
 **FOI 5275 - TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)**
 
 Available at: [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf)
