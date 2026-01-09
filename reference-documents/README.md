@@ -99,6 +99,13 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
+**FOI 5275 - TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)**
+
+Available at: [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf)
+
+**Source note:** This document was obtained from Russell Broadbent MP's website where it was publicly available from March 2025. The original URL (https://russellbroadbent.com.au/wp-content/uploads/FOI-5275-Notice-of-Decision_redacted-1.pdf) is no longer accessible as of January 9, 2026. This archived copy is provided for research and public interest purposes under fair dealing provisions of the Copyright Act 1968 (Cth). The document has been redacted by the original source. An official unredacted copy from TGA's FOI disclosure log is being sought. **Readers should verify critical details against official TGA sources.**
+
+Third-party FOI request seeking monthly incidence data for conditions identified in the Comirnaty AusPAR as requiring monitoring under provisional approval. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form, providing independent corroboration of Strategy 2.3 AIR-denominator implementation absence documented in this audit. Demonstrates gap between monitoring conditions specified in AusPARs and actual data collection/retention practices.
 
 ## TGA Pharmacovigilance – a regulator's perspective: Evidence of a Gap Between Promise and Practice 
 
