@@ -96,6 +96,16 @@ During Australia's largest medical intervention in history, 68.4 million COVID-1
 This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified 
 through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
+**IMPORTANT DISTINCTION**: This audit does NOT claim that routine pharmacovigilance 
+failed to occur. TGA conducted monitoring activities, investigated signals, and published reports.
+
+The audit asks: Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for 
+provisional approval and promised in the February 2021 Plan?
+
+After four years of FOI requests: No verifiable documentation 
+of Plan implementation has been produced.
+
+
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
