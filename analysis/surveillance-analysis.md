@@ -330,7 +330,3 @@ The question "Was the Plan implemented as operational accountability framework a
 - **[Compensation Analysis](../compensation-analysis/) (PLACEHOLDER: In draft stage) 
 
 ---
-
-
-
-<img width="451" height="688" alt="image" src="https://github.com/user-attachments/assets/ad9288dc-c547-4394-8084-425745632269" />
