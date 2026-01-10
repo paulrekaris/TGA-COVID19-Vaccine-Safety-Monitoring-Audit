@@ -21,5 +21,5 @@ Published **same month** as TGA Safety Monitoring Plan (Feb 2021), contradicts:
 **Day-one evidence of messaging-policy gap.**
 
 ## Cross-References
-- [README Policy Contradiction Section](../README.md#public-communications-vs-policy-commitments)
+- [README Public Communications vs Policy Commitments](../README.md#public-communications-vs-policy-commitments)
 
