@@ -22,3 +22,15 @@ Published **same month** as TGA Safety Monitoring Plan (Feb 2021), contradicts:
 
 ## Cross-References
 **[See Public Communications vs Policy Commitments](./README.md/#public-communications-vs-policy-commitments)**
+
+
+
+
+OPTION 1 (simplest):
+[See Public Communications vs Policy Commitments](../#public-communications-vs-policy-commitments)
+
+OPTION 2 (explicit):
+[See Public Communications vs Policy Commitments](../README.md#public-communications-vs-policy-commitments)
+
+OPTION 3 (absolute):
+[See Public Communications vs Policy Commitments](/README.md#public-communications-vs-policy-commitments)
