@@ -99,7 +99,7 @@ through records, as required for an enhanced monitoring framework relied upon fo
 The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit 
 examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
 
-## Important Distinction: Routine vs Enhanced Monitoring
+### Important Distinction: Routine vs Enhanced Monitoring
 
 This audit does NOT claim that routine pharmacovigilance failed to occur. TGA conducted monitoring activities, investigated 148 signals, and published more than 150 safety reports.
 
