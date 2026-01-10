@@ -116,25 +116,75 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 ---
 
-## FOI 4029 Documents
+## FOI 4029 Documents (Complete Suite)
 
-### FOI 4029-01 - Advisory Committee on Vaccines Meeting 16 Minutes (30 September 2020)
+Released January 2023 under Freedom of Information request 4029. Complete set of documents relating to Advisory Committee on Vaccines deliberations, VSIG procedures, and COVID-19 vaccine safety reporting framework.
 
-Available at: [FOI 4029-01](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-01.PDF)
+### Document Summary Table
 
-Advisory Committee on Vaccines meeting minutes (30 September 2020) documenting discussion of draft COVID-19 Vaccine Pharmacovigilance Plan (22 September 2020 version) under Australian Government COVID-19 Vaccine Strategy. ACV provided advice on enhanced AEFI reporting, signal detection methodologies (Australian baselines, Brighton/SPEAC data), VSIG appropriateness, and ATAGI coordination. Demonstrates pre-rollout planning and expert committee involvement in Plan development.
+| Document | Date/Context | Significance | Link |
+|----------|-------------|--------------|------|
+| **4029-01** | ACV Meeting 16 (30 Sep 2020) | Pre-Plan ACV endorsement | [PDF](foi-4029-01.PDF) |
+| **4029-02** | ACV updates post-Meeting 16 | Plan development evolution | [PDF](foi-4029-02.PDF) |
+| **4029-03** | ACV Meeting 25 (29 Sep 2021) | Strategy 2.3 methods gap | [PDF](foi-4029-03.pdf) |
+| **4029-04** | VSIG referral template | Signal operational tools | [PDF](foi-4029-04.PDF) |
+| **4029-05** | VSIG meeting records | Investigation logs | [PDF](foi-4029-05.PDF) |
+| **4029-06** | VSIG Work Instruction (Jan 2019) | Documentation capacity | [PDF](foi-4029-06.PDF) |
+| **4029-07** | COVID safety reports context | Plan-to-public gap | [PDF](foi-4029-07.PDF) |
+| **4029-08** | Safety report Issue 75 (23 Sep 2022) | Example lacking Plan refs | [PDF](foi-4029-08.PDF) |
+| **4029-09** | Weekly safety report | Aggregate vs tracked data | [PDF](foi-4029-09.PDF) |
 
-### FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 Minutes (29 September 2021)
+### Key Evidence Documents
 
-Available at: [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf)
+#### FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 (29 September 2021)
 
-Advisory Committee on Vaccines meeting minutes (29 September 2021) documenting TGA's presentation of Strategy 2.3 methodology materials organized by Safety Plan objectives, including Proportional Reporting Ratio (PRR) analysis, Maximised Sequential Probability Ratio Test (MaxSPRT) approach, and Australian Immunisation Register (AIR) denominator-based framework discussion. Demonstrates TGA's organizational capacity to prepare and present Plan-framework materials to advisory bodies. Critical evidence: TGA presented Strategy 2.3 materials to advisory committee while concurrent public safety reports (September 2021 onwards) contained zero Strategy 2.3 references, zero PRR methodology outputs, and zero Plan framework acknowledgement. Establishes gap between internal advisory body transparency and public accountability—proving capability existed but was not applied to citizen-accessible reporting.
+TGA presentation to ACV of Strategy 2.3 methodology materials organised by Safety Plan objectives, including Proportional Reporting Ratio (PRR) analysis and MaxSPRT approaches. Critical evidence: TGA presented Strategy 2.3 materials to advisory committee while concurrent public safety reports (September 2021 onwards) contained zero Strategy 2.3 references—establishing gap between internal advisory body transparency and public accountability.
 
-### FOI 4029-06 - Vaccine Safety Investigation Group Work Instruction v1.0 (January 2019)
+#### FOI 4029-05 - VSIG Meeting Records
 
-Available at: [FOI 4029-06](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-06.PDF)
+Vaccine Safety Investigation Group meeting records documenting signal investigation processes. Demonstrates internal signal investigation activity that was not reflected in public safety reporting framework.
 
-Vaccine Safety Investigation Group (VSIG) Work Instruction (January 2019, TRIM D18-10878760) from Pharmacovigilance and Special Access Branch. Details time-limited expert group procedures for serious/unexpected AEFI signals and clusters, including membership composition (TGA/OHP/ACV/ATAGI/NCIRS), investigation criteria, causality assessments (WHO manual), multi-case investigation protocols, communications frameworks, and governance arrangements. Includes operational flowcharts and escalation tables. Demonstrates TGA's established practice of documenting routine surveillance processes with detailed work instructions and governance frameworks—making the absence of equivalent COVID-19 Plan implementation documentation more significant.
+#### FOI 4029-06 - VSIG Work Instruction v1.0 (January 2019)
+
+Detailed work instruction from Pharmacovigilance and Special Access Branch documenting VSIG procedures, governance arrangements, causality assessment protocols, and multi-case investigation frameworks. Demonstrates TGA's established practice of documenting routine surveillance processes with detailed work instructions—making absence of equivalent COVID-19 Plan implementation documentation more significant.
+
+### Supporting Evidence Documents
+
+#### FOI 4029-01 - Advisory Committee on Vaccines Meeting 16 (30 September 2020)
+
+Pre-rollout ACV meeting discussing draft COVID-19 Vaccine Pharmacovigilance Plan (22 September 2020). Documents expert committee endorsement of enhanced AEFI reporting, signal detection methodologies, VSIG appropriateness, and ATAGI coordination. Establishes that enhanced monitoring framework was planned and endorsed before rollout.
+
+#### FOI 4029-02 - ACV Updates Post-Meeting 16
+
+Updates following ACV Meeting 16 showing iterative development of Safety Monitoring Plan towards final February 2021 version.
+
+#### FOI 4029-04 - VSIG Referral Data Template
+
+Operational template for VSIG signal referrals, demonstrating systematic tools for signal management processes.
+
+#### FOI 4029-07 - COVID Safety Reports Context
+
+Documentation linking Safety Plan framework to public reporting processes, highlighting gaps between Plan commitments and public report content.
+
+#### FOI 4029-08 - COVID Safety Report Issue 75 (23 September 2022)
+
+Example of weekly COVID-19 vaccine safety report lacking Plan framework references, VSIG acknowledgement, or Strategy 2.3 methodology outputs despite being published during active rollout period.
+
+#### FOI 4029-09 - Weekly COVID Vaccine Safety Report
+
+Additional example of weekly safety report showing aggregate adverse event data without systematic tracking against Plan objectives or documented integration with enhanced monitoring strategies.
+
+### Audit Significance
+
+This complete FOI 4029 suite demonstrates:
+
+1. **Planning occurred:** ACV endorsed enhanced strategies before rollout (4029-01)
+2. **Methodologies existed:** TGA developed and presented Strategy 2.3 frameworks (4029-03)
+3. **Internal processes operated:** VSIG meetings and signal investigations occurred (4029-05)
+4. **Documentation capacity exists:** TGA routinely documents processes with work instructions (4029-06)
+5. **Public reporting gap:** Safety reports lack Plan framework references despite internal use (4029-03, 08, 09)
+
+The contrast between TGA's demonstrated capacity to document routine processes (4029-06) and organise Plan-framework materials for advisory bodies (4029-03) versus the absence of Plan implementation documentation for public accountability establishes the documentation gap as a policy choice rather than a capability limitation.
 
 ---
 
