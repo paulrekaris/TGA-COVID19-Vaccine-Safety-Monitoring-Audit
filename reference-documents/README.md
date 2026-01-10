@@ -56,6 +56,8 @@ Senate Community Affairs Legislation Committee testimony (9 October 2025) where 
 **Full transcript:**  
 <https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003>
 
+---
+
 ### Australian Public Assessment Reports (AusPARs)
 
 AusPARs documenting the transition of Comirnaty and Spikevax from provisional to full registration. These reports record TGA’s regulatory decisions and summarise clinical and safety data, and were reviewed for any evidence of verification against the February 2021 Safety Monitoring Plan or explicit sign‑off of enhanced‑monitoring conditions.
