@@ -153,8 +153,8 @@ Approximately 4,440 claimants were denied compensation or withdrew their claims 
 11.a. SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
 https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme-is-closing-heres-how-much-it-has-paid-out/vmsag6lb7
 
-16. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
+12. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
     
-17. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
+13. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
 
-18. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
+14. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
