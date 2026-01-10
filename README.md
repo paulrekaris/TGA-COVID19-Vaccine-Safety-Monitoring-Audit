@@ -99,21 +99,15 @@ through records, as required for an enhanced monitoring framework relied upon fo
 The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit 
 examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
 
-**Important distinction**: This audit does NOT claim that routine pharmacovigilance 
-failed to occur. TGA conducted monitoring activities, investigated signals, and published reports.
+## Important Distinction: Routine vs Enhanced Monitoring
 
-The audit asks: Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for 
-provisional approval and promised in the February 2021 Plan?
+This audit does NOT claim that routine pharmacovigilance failed to occur. TGA conducted monitoring activities, investigated 148 signals, and published more than 150 safety reports.
 
-After four years of FOI requests: No verifiable documentation 
-of Plan implementation has been produced.
+**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for provisional approval and promised in the February 2021 Plan?
 
-**Critical Distinction: Routine vs Enhanced Monitoring**: The existence of routine pharmacovigilance activities does 
-not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented.
+**The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
 
-Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The 
-COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including 
-defined outputs, integration mechanisms, and governance expectations beyond routine processes.
+**Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
