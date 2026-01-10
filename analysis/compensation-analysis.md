@@ -144,14 +144,17 @@ Approximately 4,440 claimants were denied compensation or withdrew their claims 
 
 8. Australian Government Department of Health and Aged Care, 'AusVaxSafety COVID-19 vaccine surveillance summary report 2021', September 2022, https://www.health.gov.au/sites/default/files/documents/2022/09/ausvaxsafety-covid-19-vaccine-surveillance-summary-report-2021.pdf.
 
-9. Phillips A, Pillsbury A, Beard F, Jaffe E, Chua I, et al., 'The short term safety of COVID‐19 vaccines in Australia: AusVaxSafety active surveillance', Medical Journal of Australia, 2022; 217(4): 195-199, https://pmc.ncbi.nlm.nih.gov/articles/PMC9350119/.
+9. Deng L, Glover C, Dymock M, Pillsbury A, Marsh JA, Quinn HE, Leeb A, Cashman P, Snelling TL, Wood N, Macartney K. The short term safety of COVID-19 vaccines in Australia: AusVaxSafety active surveillance, February – August 2021. Med J Aust. 2022;217(4):195-202. doi:10.5694/mja2.51619. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC9350119/
 
 10. *Shepherd v State of South Australia* [2024] SAET 2 (15 January 2024). Analysis available at: Shop Giourgas, https://www.shopovgiourgas.com.au/latest/covid-19-and-vaccine-requirements-connection-with-employment/.
 
-11. SBS News, 'For Australians injured by a COVID vaccine, the battle for compensation is "traumatising"', 22 September 2024, https://www.sbs.com.au/news/article/covid-19-vaccine-compensation-scheme-cruel/vmsag6lb7.
+11. SBS News. (2024, September 22). For Australians injured by a COVID vaccine, the battle for compensation is "traumatising". https://www.sbs.com.au/news/article/covid-19-vaccine-compensation-scheme-cruel/vmsag6lb7 (removed; no archive available).
 
-12. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html.
+11.a. SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
+https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme-is-closing-heres-how-much-it-has-paid-out/vmsag6lb7
 
-13. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
+16. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
+    
+17. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
 
-14. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
+18. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
