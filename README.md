@@ -477,7 +477,8 @@ This question is critical. Approximately 68.4 million COVID-19 vaccine doses (ar
 * The integrity of the provisional approval pathway is compromised
 * Fundamental accountability is impaired
 
-This assessment does not question whether routine pharmacovigilance occurred—it did. It examines whether the 17 additional strategies legally required for provisional approval and publicly promised in February 2021 were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+This assessment does not question TGA's routine pharmacovigilance work. It examines whether the 17 enhanced monitoring strategies legally required for provisional approval were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+
 
 ## The Challenge of Black Box Governance for Private Citizens
 
