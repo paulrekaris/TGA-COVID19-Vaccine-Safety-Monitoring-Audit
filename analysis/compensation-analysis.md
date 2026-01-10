@@ -27,7 +27,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 |--------|-------|--------|
 | DAEN adverse event reports | Just over 137,000 (Dec 2022); now >140,000 | TGA Safety Report (22 Dec 2022)² |
 | AusVaxSafety survey responses | 6.8 million+ | AusVaxSafety Data⁸ |
-| Adverse events reported via AusVaxSafty | ~3 million | AusVaxSafety Data⁸,⁹ |
+| Adverse events reported via AusVaxSafety | ~3 million | AusVaxSafety Data⁸,⁹ |
 | Safety signals investigated | 148 | Senate Hansard (9 Oct 2025)³ |
 | Regulatory/information actions taken | 57 | Senate Hansard (9 Oct 2025)³ |
 
