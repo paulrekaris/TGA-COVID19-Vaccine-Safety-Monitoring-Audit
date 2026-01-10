@@ -128,7 +128,7 @@ Approximately 4,440 claimants were denied compensation or withdrew their claims 
 
 ## References
 
-1. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2024, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
+1. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
 
 2. Therapeutic Goods Administration, 'COVID-19 vaccine safety report – 22-12-2022', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-22-12-2022.
 
