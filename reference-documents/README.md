@@ -114,11 +114,25 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 ---
 
-### FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 Minutes (29 September 2021)**
+## FOI 4029 Documents
+
+### FOI 4029-01 - Advisory Committee on Vaccines Meeting 16 Minutes (30 September 2020)
+
+Available at: [FOI 4029-01](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-01.PDF)
+
+Advisory Committee on Vaccines meeting minutes (30 September 2020) documenting discussion of draft COVID-19 Vaccine Pharmacovigilance Plan (22 September 2020 version) under Australian Government COVID-19 Vaccine Strategy. ACV provided advice on enhanced AEFI reporting, signal detection methodologies (Australian baselines, Brighton/SPEAC data), VSIG appropriateness, and ATAGI coordination. Demonstrates pre-rollout planning and expert committee involvement in Plan development.
+
+### FOI 4029-03 - Advisory Committee on Vaccines Meeting 25 Minutes (29 September 2021)
 
 Available at: [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-03.pdf)
 
 Advisory Committee on Vaccines meeting minutes (29 September 2021) documenting TGA's presentation of Strategy 2.3 methodology materials organized by Safety Plan objectives, including Proportional Reporting Ratio (PRR) analysis, Maximised Sequential Probability Ratio Test (MaxSPRT) approach, and Australian Immunisation Register (AIR) denominator-based framework discussion. Demonstrates TGA's organizational capacity to prepare and present Plan-framework materials to advisory bodies. Critical evidence: TGA presented Strategy 2.3 materials to advisory committee while concurrent public safety reports (September 2021 onwards) contained zero Strategy 2.3 references, zero PRR methodology outputs, and zero Plan framework acknowledgement. Establishes gap between internal advisory body transparency and public accountability—proving capability existed but was not applied to citizen-accessible reporting.
+
+### FOI 4029-06 - Vaccine Safety Investigation Group Work Instruction v1.0 (January 2019)
+
+Available at: [FOI 4029-06](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029-06.PDF)
+
+Vaccine Safety Investigation Group (VSIG) Work Instruction (January 2019, TRIM D18-10878760) from Pharmacovigilance and Special Access Branch. Details time-limited expert group procedures for serious/unexpected AEFI signals and clusters, including membership composition (TGA/OHP/ACV/ATAGI/NCIRS), investigation criteria, causality assessments (WHO manual), multi-case investigation protocols, communications frameworks, and governance arrangements. Includes operational flowcharts and escalation tables. Demonstrates TGA's established practice of documenting routine surveillance processes with detailed work instructions and governance frameworks—making the absence of equivalent COVID-19 Plan implementation documentation more significant.
 
 ---
 
