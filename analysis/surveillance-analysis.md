@@ -328,6 +328,8 @@ The question "Was the Plan implemented as operational accountability framework a
 **Related Documentation:** 
 - **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**
   
-- **[Compensation Analysis](compensation-analysis.md/compensation-analysis/)**
+- **[Compensation Analysis](analysis/compensation-analysis.md/)**
+
+- **[Compensation Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/compensation-analysis.md)**
 
 ---
