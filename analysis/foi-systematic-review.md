@@ -78,6 +78,19 @@ Additional FOI releases beyond the reviewed candidates systematically contain ra
 
 This pattern reinforces the audit finding that documentation gaps are comprehensive rather than selective across the entire FOI corpus.
 
+## Scope Exclusions
+
+FOIs identified during this systematic review were assessed against the audit's defined scope: implementation of the COVID-19 Vaccine Safety Monitoring Plan (February 2021) and verification of enhanced monitoring framework delivery.
+
+Documents were excluded where they:
+- Pre-dated the Plan's publication (February 2021)
+- Addressed specific safety signals rather than systematic monitoring processes
+- Contained raw AEFI data without Plan framework integration
+- Focused on pre-market evaluation rather than post-market surveillance implementation
+- Lacked references to Plan strategies, VSIG procedures, or enhanced monitoring governance
+
+All 22 additional FOIs identified beyond FOI 4029 suite and FOI 5082 were deemed out of scope for this implementation audit, as they do not contain evidence relevant to assessing whether the Plan's 17 numbered strategies were operationalised as distinct, documentable processes.
+
 ## Audit Implications
 
 ### Methodological Completeness
