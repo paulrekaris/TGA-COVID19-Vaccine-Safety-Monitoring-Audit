@@ -284,7 +284,8 @@ Without documented verification:
 - Documentation showing systematic integration of these activities into the enhanced monitoring framework defined in the Plan.  
 - Coordination protocols or data‑flow documentation linking AusVaxSafety outputs to TGA signal investigations.  
 - Evidence that enhanced processes were distinguished from routine “day‑to‑day” pharmacovigilance and tracked against Plan objectives.
-- Systematic analysis of 150+ safety reports found zero Plan framework references despite **[FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029/foi-4029-03.pdf)** proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). (Complete [FOI 4029 suite](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/reference-documents/foi-4029) See **[Surveillance analysis](analysis/surveillance-analysis.md)**
+- Systematic analysis of 150+ safety reports found zero Plan framework references despite **[FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029/foi-4029-03.pdf)** proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/reference-documents/foi-4029)
+- See **[Surveillance analysis](analysis/surveillance-analysis.md)**
 
 **Why this matters**
 
