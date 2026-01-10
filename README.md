@@ -560,19 +560,24 @@ This audit applies systematic evidence based principles consistent with:
 - International pharmacovigilance standards: ICH E2E, CIOMS, EMA GVP Module I.  
 - Commonwealth records‑management and performance‑reporting frameworks: PGPA Act 2013, Archives Act 1983.
 
-### Evidence Hierarchy
+## Assessment Output Methodology
 
-Each of the 20 Plan outputs was evaluated using a four‑tier hierarchy:
+Each of the 20 Plan outputs was evaluated using a four-tier evidence standard:
 
-- **Level 1 (highest):** Published reports, AusPARs, peer‑reviewed literature, official databases with independent verification.  
-- **Level 2:** Government websites, official media releases, committee minutes, annual/performance reports.  
-- **Level 3:** FOI decisions and schedules, OAIC submissions and decisions, Senate testimony, official correspondence.  
-- **Level 4 (lowest):** Unsubstantiated claims without supporting documentation.
+**Level 1 (highest):** Published reports, AusPARs, peer-reviewed literature, official databases with independent verification.
 
-**Rating criteria**
+**Level 2:** Government websites, official media releases, advisory committee minutes, annual/performance reports, government documents released under FOI.
 
-- “**Fully implemented**” requires coherent end‑to‑end documentation showing that required processes, integrations, governance arrangements and outputs were in place and sustained over time.  
-- Partial completion of activities without an implementation trail is rated “**partially implemented**”, not “fully implemented”.
+**Level 3:** FOI refusals and schedules, OAIC submissions and decisions, Senate testimony, official correspondence.
+
+**Level 4 (lowest):** Unsubstantiated claims without supporting documentation.
+
+### Rating Criteria
+
+"Fully implemented" requires coherent end-to-end documentation showing that required processes, integrations, governance arrangements and outputs were in place and sustained over time.
+
+Partial completion of activities without an implementation trail is rated "partially implemented", not "fully implemented".
+
 
 ## Evidence Sources
 
