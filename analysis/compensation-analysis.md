@@ -14,10 +14,10 @@ The scheme requires claimants to demonstrate, on the balance of probabilities, a
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Claims lodged | 4,962 (scheme closed Sep 2024) | ABC News (Sep 2024)¹ |
-| Claims approved | 522 (10.5%) | ABC News (Sep 2024)¹ |
-| Claims denied/withdrawn | ~4,440 (89.5%) | ABC News (Sep 2024)¹ |
-| Total paid | >A$40 million | ABC News (Sep 2024)¹ |
+| Claims lodged | 4,962 (scheme closed Sep 2024) | ABC News (Sep 2025)¹ |
+| Claims approved | 522 (10.5%) | ABC News (Sep 2025)¹ |
+| Claims denied/withdrawn | ~4,440 (89.5%) | ABC News (Sep 2025)¹ |
+| Total paid | >A$40 million | ABC News (Sep 2025)¹ |
 
 COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW, documented 91% rejection/withdrawal rate in August 2024 research, citing barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.⁷
 
