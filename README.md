@@ -625,111 +625,29 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 ### FOI 5082: TGA Vaccine Pharmacovigilance System (baseline pre-2021 + COVID implementations July–August 2021, released 26 July 2024)
 
-Source: TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch
-
-Link: https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
-
-Note: Orphaned hyperlink from log entry persists (Jan 2026); PDF accessible via direct/archive links. Listed in TGA FOI Disclosure Log (26 Jul 2024).
-
-Disclosure Log: https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
-
-Archive: GitHub backup
-
-Summary
-
-FOI 5082 Request: TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (baseline pre-2021 + COVID-specific July–August 2021).
-
-Documents Released
-
-Internal blueprint documenting routine pharmacovigilance baseline (pre-2021) with COVID-19 signal detection implementation docs (19 July–24 August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes," including staffing/automation (APS5/6 for DPAR/chi-squared, EL1 for MaxSPRT/O/E, 99-100% QLIK/Stata/R).
-
-Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency/chi-squared comparators) documented without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
-
-Significance
-
-Critical evidentiary significance: FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain zero evidence of Safety Plan integration or compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.[1]
-
-Sources
-[1] FOI 5082 https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Source:** TGA Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch
+**Source:** FOI 5082 https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf. Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch.  
 
 **Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 
-**Note:** Orphaned file discovered incidentally; listed in TGA FOI Disclosure Log (26 Jul 2024) without hyperlink from entry.
+**Note:** Orphaned hyperlink from log entry (Jan 2026); PDF accessible via direct/archive links. Listed in TGA FOI Disclosure Log (26 Jul 2024).
 
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
 **Archive:** [GitHub backup](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)
 
----
+**Summary**
 
-### Summary
+FOI 5082 Request: TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (baseline pre-2021 + COVID-specific July–August 2021).
 
-**FOI 5082 Request:** TGA's internal documents on "COVID-19 vaccine pharmacovigilance"—specifically vaccine safety monitoring systems, signal detection methods, and operational SOPs (~2019–2021).
+**Documents Released**
 
-**Documents Released** 
+Internal blueprint documenting routine pharmacovigilance baseline (pre-2021) with COVID-19 signal detection implementation docs (19 July–24 August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes," including staffing/automation (APS5/6 for DPAR/chi-squared, EL1 for MaxSPRT/O/E, 99-100% QLIK/Stata/R).
 
-Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation docs (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes." 
-
-Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) documented **without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies**. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
+Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency/chi-squared comparators) documented without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
 **Significance**
 
-**Critical evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but **contain zero evidence of Safety Plan integration or compliance**. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
+**Critical evidentiary significance**: FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain zero evidence of Safety Plan integration or compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
 
 ## Limitations and Falsifiability
