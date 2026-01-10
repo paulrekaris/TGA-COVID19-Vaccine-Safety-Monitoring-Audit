@@ -245,6 +245,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 - The enhanced monitoring framework cannot be verified.  
 - Compliance with provisional‑approval conditions cannot be demonstrated.  
 - Regulatory decision‑making remains opaque despite significant public‑health implications.
+- TGA's FOI refusals for signal investigation documentation—despite Senate testimony confirming 'ample documentation' exists—withhold population-level evidence critical to Vaccine Claims Scheme applicants meeting their evidentiary burden on the balance of probabilities. **[Compensation Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/compensation-analysis.md)**
 
 
 ### Gap 2: Provisional Approval Verification
