@@ -150,8 +150,8 @@ Approximately 4,440 claimants were denied compensation or withdrew their claims 
 
 11. SBS News. (2024, September 22). For Australians injured by a COVID vaccine, the battle for compensation is "traumatising". https://www.sbs.com.au/news/article/covid-19-vaccine-compensation-scheme-cruel/vmsag6lb7 (removed; no archive available).
 
-11.a. SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
-https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme-is-closing-heres-how-much-it-has-paid-out/vmsag6lb7
+    11.a. SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
+    https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme-is-closing-heres-how-much-it-has-paid-out/vmsag6lb7
 
 12. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
     
