@@ -59,7 +59,7 @@ This README contains the narrative executive summary and overview. Key findings 
 - [The Call for Investigation](#the-call-for-investigation)
 - [Methodology and Evidence Base](#methodology-and-evidence-base)
   - [Assessment Framework](#assessment-framework)
-  - [Evidence Hierarchy](#evidence-hierarchy)
+  - [Assessment Output Methodology](#assessment-output-methodology)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
   - [FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021)](#foi-5082-tga-vaccine-pharmacovigilance-system-20192021-released-26-july-2024)
