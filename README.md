@@ -579,6 +579,8 @@ Each of the 20 Plan outputs was evaluated using a four-tier evidence standard:
 Partial completion of activities without an implementation trail is rated "partially implemented", not "fully implemented".
 
 
+**Note:** This hierarchy assesses implementation proof; Section 9.4 of the main audit report assesses source reliability.
+
 ## Evidence Sources
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
