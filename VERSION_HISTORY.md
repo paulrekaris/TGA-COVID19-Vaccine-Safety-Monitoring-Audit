@@ -27,7 +27,7 @@
 ### Note
 Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 5275), documents systematic search methodology, corrects presentation errors, and synthesises infrastructure evidence.
 
-**Archive:** Zenodo DOI updated, blockchain timestamp pending.
+**Archive:** Zenodo DOI updated, updated blockchain storage and timestamp pending.
 
 ---
 
