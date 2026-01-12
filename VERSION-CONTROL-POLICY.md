@@ -27,7 +27,7 @@ This audit employs comprehensive version control practices:
 - **Version numbering**: Major version increments (1.8, 1.9) distinguish significant evidence additions from minor corrections
 - **Structured changelogs**: Human-readable version history documenting what changed, why it changed, and what remained unchanged
 - **Permanent archiving**: Zenodo DOI and blockchain timestamping ensure version history cannot be erased or retrospectively altered
-- **Version-agnostic filenames**: Documents use stable filenames (e.g., `TGA-Audit-Report.pdf`) with version control managed through Git tags and releases
+- **Version-agnostic filenames**: Documents use stable filenames (e.g.,`documentation-gap-analysis-audit-report.pdf`) with version control managed through Git tags and releases
 
 ### Rationale
 
