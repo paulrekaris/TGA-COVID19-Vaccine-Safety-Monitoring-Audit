@@ -685,7 +685,7 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 ### Main Assessment Report
 
-**[Main Audit Report](analysis/documentation-gap-analysis.pdf)**
+**[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)**
 
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (January 2026)**
 
