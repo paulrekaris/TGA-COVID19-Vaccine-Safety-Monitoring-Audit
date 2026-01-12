@@ -91,6 +91,23 @@ Documents were excluded where they:
 
 All 22 additional FOIs identified beyond FOI 4029 suite and FOI 5082 were deemed out of scope for this implementation audit, as they do not contain evidence relevant to assessing whether the Plan's 17 numbered strategies were operationalised as distinct, documentable processes.
 
+## Scope Exclusions
+
+FOIs identified during this systematic review were assessed against the audit's defined scope: implementation of the COVID-19 Vaccine Safety Monitoring Plan (February 2021) and verification of enhanced monitoring framework delivery.
+
+Documents were excluded where they:
+- Pre-dated the Plan's publication (February 2021)
+[...list...]
+
+All 22 additional FOIs identified beyond FOI 4029 suite and FOI 5082 were deemed out of scope for this implementation audit, as they do not contain evidence relevant to assessing whether the Plan's 17 numbered strategies were operationalised as distinct, documentable processes.
+
+### Pharmacovigilance Plan Distinction
+FOI log "COVID Vaccine Pharmacovigilance Plan" = national policy umbrella (Cabinet/DoH).  
+**Audit scope**: TGA **COVID-19 Vaccine Safety Monitoring Plan (Feb 2021)**—operational implementation (17 strategies/20 outputs).[^1]
+
+[^1]: https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
+
+
 ## Audit Implications
 
 ### Methodological Completeness
@@ -114,15 +131,6 @@ No additional FOI documents identified that would add strategic value to audit e
 **Documentation gap validated**: Comprehensive absence of Plan framework references, VSIG integration protocols, and systematic tracking documentation across entire FOI corpus confirms audit findings are based on complete available evidence.
 
 **Recommendation**: Zero additions required. 
-
----
-
-### Note: Pharmacovigilance vs Safety Monitoring Plans
-FOI log "COVID Vaccine Pharmacovigilance Plan" = national policy umbrella (Cabinet/DoH).  
-**Audit scope**: TGA **COVID-19 Vaccine Safety Monitoring Plan (Feb 2021)**—operational implementation (17 strategies/20 outputs).[^1][^2]
-
-[^1]: https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf  
-[^2]: FOI 4029-01 (PV context)
 
 ---
 
