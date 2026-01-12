@@ -8,7 +8,7 @@ After completing the main audit, I reviewed TGA's complete FOI disclosure log to
 
 **Date**: 10 January 2026, 9:08–13:41 AEDT (4.5 hours)
 
-**Scope**: TGA FOI disclosure log complete coverage (July 2020–Dec 2025)
+**Scope**: Complete TGA FOI disclosure log (July 2020–Dec 2025). Reviewed HTML log and quarterly PDF extracts manually using keyword search.
 
 ## Method
 
