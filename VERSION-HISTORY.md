@@ -22,7 +22,7 @@
 
 **Methodology enhancements:** Reorganised OSINT description for logical flow (ISO 19011 framework first). Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology. Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation.
 
-**Documentation improvements:** Removed version numbers from all filenames for maintenance simplicity. Updated all internal cross-references for consistency. Added ORCID identifier (0009-0000-1338-9578) to citation metadata. General formatting and readability enhancements.
+**Documentation improvements:** Removed version numbers from all filenames for maintenance simplicity. Updated all internal cross-references for consistency. Added an abstract to main audit report and an ORCID identifier (0009-0000-1338-9578) to citation metadata. General formatting and readability enhancements.
 
 ### Note
 Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 5275), documents systematic search methodology, corrects presentation errors, and synthesises infrastructure evidence.
