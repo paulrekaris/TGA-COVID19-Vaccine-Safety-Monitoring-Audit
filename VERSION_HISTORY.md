@@ -16,6 +16,8 @@
 
 **Infrastructure evidence synthesis:** Documented combined significance of FOI 5082 (documentation capability), FOI 4029 (internal Plan tracking), and "burn out" screening protocol (contradictory policy). Demonstrates TGA possessed comprehensive infrastructure but made deliberate policy decisions to implement outside Cabinet-endorsed Plan framework.
 
+**Version control principles documented:** Added section explaining detailed version history methodology aligned with ISO 19011:2018 (continuous improvement), ISO 15489-1:2016 (records management transparency, integrity, accountability), and research integrity standards. Documents rationale for comprehensive changelogs and permanent archiving as accountability infrastructure.
+
 **Visual summary corrections:** Fixed arithmetic error in outcome percentages (now correctly totals 100%: 15% fully documented, 55% partial, 30% not documented). Updated vaccine rollout to 91.2%. Clarified evidence hierarchy as "Source Reliability" with Tier 1 annotation. Updated Senate testimony terminology to "parliamentary privilege."
 
 **Methodology enhancements:** Reorganised OSINT description for logical flow (ISO 19011 framework first). Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology. Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation.
