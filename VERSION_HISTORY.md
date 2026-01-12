@@ -1,5 +1,34 @@
 # Version History
 
+## Version 1.9 (12 January 2026)
+
+### Major Updates
+
+**FOI 4029 internal tracking documented:** Added complete FOI 4029 suite demonstrating TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Proves Plan strategies were tracked internally while 150+ public safety reports contained zero Plan framework references. Full document suite archived in `/reference-documents/foi-4029/`.
+
+**FOI 5275 verification gap added:** Added FOI 5275 (August 2024) showing TGA response that monthly incidence data for AusPAR-specified monitoring conditions "does not exist" 3.5 years post-approval. Corroborates Strategy 2.3 AIR-denominator implementation gaps and provisional approval verification failure. Source provenance documented.
+
+**Surveillance analysis expanded:** Added systematic review of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports despite FOI 4029 proving internal tracking. Includes ISO 19011 audit methodology assessment and evidence of inadequate OAIC search scope excluding advisory body containers.
+
+**FOI search methodology documented:** Added systematic documentation of evidence completeness verification methodology across four-year FOI investigation. Demonstrates comprehensive search strategy yielding FOI 5082 (capability evidence), FOI 4029 (internal tracking), FOI 5275 (verification gaps), and multiple OAIC reviews establishing systematic pattern of limited external disclosure despite documented internal processes.
+
+**Compensation analysis added:** Created v1.0 analysis examining FOI evidentiary asymmetry affecting Vaccine Claims Scheme applicants. Documented verified statistics: 148 signals/57 actions (Senate Hansard 9 Oct 2025), 4,962 claims lodged/522 approved (Services Australia), 140k+ DAEN reports. Established procedural fairness and evidentiary burden framework. All 14 references verified. ISO 19011 audit standards maintained.
+
+**Infrastructure evidence synthesis:** Documented combined significance of FOI 5082 (documentation capability), FOI 4029 (internal Plan tracking), and "burn out" screening protocol (contradictory policy). Demonstrates TGA possessed comprehensive infrastructure but made deliberate policy decisions to implement outside Cabinet-endorsed Plan framework.
+
+**Visual summary corrections:** Fixed arithmetic error in outcome percentages (now correctly totals 100%: 15% fully documented, 55% partial, 30% not documented). Updated vaccine rollout to 91.2%. Clarified evidence hierarchy as "Source Reliability" with Tier 1 annotation. Updated Senate testimony terminology to "parliamentary privilege."
+
+**Methodology enhancements:** Reorganised OSINT description for logical flow (ISO 19011 framework first). Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology. Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation.
+
+**Documentation improvements:** Removed version numbers from all filenames for maintenance simplicity. Updated all internal cross-references for consistency. Added ORCID identifier (0009-0000-1338-9578) to citation metadata. General formatting and readability enhancements.
+
+### Note
+Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 5275), documents systematic search methodology, corrects presentation errors, and synthesises infrastructure evidence.
+
+**Archive:** Zenodo DOI updated, blockchain timestamp pending.
+
+---
+
 ## Version 1.8.0 (6 January 2026)
 
 ### Major Updates
