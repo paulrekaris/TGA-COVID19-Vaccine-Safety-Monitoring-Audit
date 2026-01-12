@@ -31,7 +31,7 @@ Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 527
 
 ---
 
-## Version 1.8.0 (6 January 2026)
+## Version 1.8 (6 January 2026)
 
 ### Major Updates
 
