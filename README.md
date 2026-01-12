@@ -367,7 +367,7 @@ TGA, "Get vaccine safety information you can trust" (26 Nov 2021)<sup>[2](#fn2)<
 
 <a name="fn2">2</a>: https://www.youtube.com/watch?v=PT4M9fX9sPI
 
-<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis.pdf), pp. 86-87
+<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf), pp. 86-87
 
 ---
 
