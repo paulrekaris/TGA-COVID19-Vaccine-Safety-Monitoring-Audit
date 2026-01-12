@@ -117,6 +117,15 @@ No additional FOI documents identified that would add strategic value to audit e
 
 ---
 
+### Note: Pharmacovigilance vs Safety Monitoring Plans
+FOI log "COVID Vaccine Pharmacovigilance Plan" = national policy umbrella (Cabinet/DoH).  
+**Audit scope**: TGA **COVID-19 Vaccine Safety Monitoring Plan (Feb 2021)**—operational implementation (17 strategies/20 outputs).[^1][^2]
+
+[^1]: https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf  
+[^2]: FOI 4029-01 (PV context)
+
+---
+
 **Search conducted by**: Paul Rekaris
 **Date**: 10 January 2026
 
