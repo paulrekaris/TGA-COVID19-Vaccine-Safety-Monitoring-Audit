@@ -617,8 +617,16 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 **Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care (AICmr 54)**  
 https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/
 
-**Senate Community Affairs Legislation Committee testimony (9 October 2025)**  
+**Senate Community Affairs Legislation Committee testimony (9 October 2025)**
+
+**Video recording (timestamped):**  
+https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s (2:30:40–2:37:00)  
+Dr Daniel Dascombe, TGA acting principal medical adviser
+
+**Hansard transcript:**  
 https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+
+**Key testimony:** TGA officials stated Plan implementation was monitoring occurred through "day-to-day processes" rather than distinct enhanced framework. Confirmed safety plan was not systematically tracked and 148 safety signals investigated and 57 regulatory actions taken.
 
 
 ## Documentary Evidence of TGA Documentation Capacity
