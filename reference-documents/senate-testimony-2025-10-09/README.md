@@ -47,5 +47,3 @@ This confirms monitoring was routine operations, not a distinct enhanced framewo
 ### Significance for Audit
 
 Senate testimony confirms findings from FOI requests and OAIC reviews that Plan implementation was not tracked as a distinct framework despite Cabinet endorsement and provisional approval requirements. The characterisation of Plan strategies as "day-to-day processes" validates audit finding that enhanced monitoring was not implemented as operationally distinct from routine pharmacovigilance.
-
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/c177a9c0-2a63-480c-865f-0875dd476973" />
