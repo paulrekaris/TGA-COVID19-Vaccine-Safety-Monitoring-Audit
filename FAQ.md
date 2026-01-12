@@ -7,15 +7,15 @@
   Browse the full **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** for detailed Q&A on methodology, limitations, oversight context, and how to verify or challenge the findings.
 
 - **Full evidence**  
-  - **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.
+  - **[Main Audit Report](analysis/documentation-gap-analysis.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.
   - **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of a sample of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports.
   - **[reference-documents folder](reference-documents/)** – All key documents, safety plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
 
 ### Quick Reference Packs and Supporting Materials
 
-- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.8.pdf)** - Implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate.
-- **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis_V1.8.pdf)** – Timeline of the FOI process and TGA's contradictory responses.
-- **[One Page Methodology and Audit Criteria](analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – ISO 19011:2018 and ANAO audit of TGA's COVID-19 Vaccine Safety Monitoring Plan.
+- **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf)** - Implementation status by Safety Plan objective, key findings on documentation gaps, and what TGA cannot demonstrate.
+- **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis.pdf)** – Timeline of the FOI process and TGA's contradictory responses.
+- **[One Page Methodology and Audit Criteria](analysis/tga_audit_one_page_flowchart.pdf)** – ISO 19011:2018 and ANAO audit of TGA's COVID-19 Vaccine Safety Monitoring Plan.
 
 Use these for briefings, presentations, or quick sharing.
 
@@ -500,7 +500,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What research methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** - It includes:
+My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis.pdf)** - It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
@@ -542,7 +542,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - Bitcoin timestamp: December 31, 2025
 
 **Citation:**  
-Rekaris, P. (2025). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan. Zenodo: https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan. Zenodo: https://doi.org/10.5281/zenodo.17731054
 
 ---
 
@@ -618,8 +618,6 @@ I'm a policy analyst and consultant with 30 years' professional experience acros
 I'm conducting this investigation in my personal capacity as a private citizen, not on behalf of any organisation or political group.
 
 I don’t claim to have all the answers. I’m simply someone who asked questions, followed the evidence, and found patterns that demanded explanation. Democratic accountability depends on citizens being curious enough to ask whether government commitments and promises to its citizens were kept during an historically unprecedented medical intervention—and honest enough to admit the limits of what can be known from outside the black box.
-
-After four years of this work, I can say with certainty: *"I know this much is true."* [♪](https://youtu.be/sWBueqYA2Es?si=E4Og4_T8RUXNw7KQ)
 
 ---
 
