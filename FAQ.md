@@ -7,7 +7,7 @@
   Browse the full **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** for detailed Q&A on methodology, limitations, oversight context, and how to verify or challenge the findings.
 
 - **Full evidence**  
-  - **[Main Audit Report](analysis/documentation-gap-analysis.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.
+  - **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.
   - **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of a sample of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports.
   - **[reference-documents folder](reference-documents/)** – All key documents, safety plan and vaccination policies, Senate testimony extracts, FOI and OAIC materials, and primary source files used in the audit.
 
@@ -500,7 +500,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What research methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis.pdf)** - It includes:
+My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** - It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
