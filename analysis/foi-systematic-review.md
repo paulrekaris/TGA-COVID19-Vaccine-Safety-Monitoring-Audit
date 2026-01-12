@@ -24,7 +24,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 - "enhanced monitoring"
 - Advanced search: site:tga.gov.au filetype:pdf
 
-### Parameters
+### Search parameters
 - **Timeframe**: 2020–2025
 - **Document type**: Section 11C public releases only
 - **Exclusions**: Business exemptions excluded
