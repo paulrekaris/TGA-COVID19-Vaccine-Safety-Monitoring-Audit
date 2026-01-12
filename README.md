@@ -7,12 +7,12 @@ New to this audit? **Start here:**
 - **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, 
   limitations, and how to verify or challenge the findings.
   
-- **[Visual Summary: One-Page Audit Methodology Flowchart](analysis/TGA_Audit_One_Page_Flowchart%20December%202025.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
+- **[Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
 
-- **[Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.8.pdf)** – 
+- **[Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf)** – 
   Slide-style overview of key findings and documentation gaps.
 
-- **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)** – 
+- **[Main Audit Report](analysis/documentation-gap-analysis.pdf)** – 
   Primary, self-contained report with fully cited references, primary source 
   materials, findings, research methodology, and implementation status by Safety 
   Plan objective.
@@ -23,7 +23,7 @@ New to this audit? **Start here:**
 
 - **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) |[Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis.pdf)**
 
 ## Table of Contents
 
@@ -367,7 +367,7 @@ TGA, "Get vaccine safety information you can trust" (26 Nov 2021)<sup>[2](#fn2)<
 
 <a name="fn2">2</a>: https://www.youtube.com/watch?v=PT4M9fX9sPI
 
-<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf), pp. 86-87
+<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis.pdf), pp. 86-87
 
 ---
 
@@ -685,7 +685,7 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 ### Main Assessment Report
 
-**[Main Audit Report](analysis/documentation-gap-analysis_v1.8.pdf)**
+**[Main Audit Report](analysis/documentation-gap-analysis.pdf)**
 
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (January 2026)**
 
@@ -702,11 +702,11 @@ The comprehensive audit report includes:
 
 ### Supporting Documentation
 
-- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit_v1.8.pdf)**
+- **TGA COVID‑19 Safety Monitoring Plan Implementation Audit Summary** – visual executive summary with implementation status dashboard, evidence hierarchy and key gaps. **[Visual Summary: Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf)**
   
 - **Surveillance Data Analysis** – Systematic analysis of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports despite **[FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029/foi-4029-03.pdf)** proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (Sep 2021). Complete [FOI 4029 suite](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/reference-documents/foi-4029) available in reference documents. Includes ISO 19011 audit methodology, ANAO performance tracking gaps, and evidence of inadequate OAIC search scope excluding advisory body containers. **[Surveillance Data Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/surveillance-analysis.md)**
   
-- **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence. **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis_V1.8.pdf)**
+- **FOI Analysis and Timeline Documentation** – detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence. **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis.pdf)**
  
 - **ISO 19011 Management Systems Audit Checklist** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non-conformity ratings, and overall conformity assessment. **[ISO 19011 Management Systems Audit Checklist](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)**
 
