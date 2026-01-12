@@ -35,10 +35,10 @@ Institutional accountability research faces inherent power asymmetry—regulator
 
 Detailed version control serves multiple purposes:
 
-1. **Documents evolution**: Shows how findings developed as new evidence emerged through FOI processes
+1. **Documents evolution**: Shows how findings developed as new evidence emerged through further research and analysis, collaboration and FOI processes
 2. **Prevents retrospective revision**: Creates immutable record of claims and their supporting evidence at each point in time
 3. **Demonstrates rigour**: Shows systematic, evidence-based methodology rather than predetermined conclusions
-4. **Enables verification**: Allows oversight bodies (ANAO, OAIC, Parliament) and peer reviewers to examine the audit's development
+4. **Enables verification**: Allows oversight bodies (ANAO, OAIC, Ombudsman, Parliament) and peer reviewers to examine the audit's development
 5. **Builds trust**: Transparent correction of errors demonstrates intellectual honesty and good faith
 
 Version history enables accountability infrastructure—proving claims evolved through systematic evidence gathering while meeting international standards for records integrity and audit quality.
