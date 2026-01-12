@@ -8,7 +8,7 @@ Following completion of the main audit, a systematic review of TGA's complete Fr
 
 **Date**: 10 January 2026, 9:08–13:41 AEDT (4 hours 33 minutes total)
 
-**Scope**: TGA FOI disclosure log complete coverage (July 2020–December 2025); 12 quarterly XLS/PDF extracts systematically reviewed via web and log extracts
+**Scope**: TGA FOI disclosure log complete coverage (July 2020–Dec 2025); HTML log + quarterly extracts manually reviewed via Ctrl+F
 
 ## Methodology
 
