@@ -128,10 +128,11 @@ Only 15% of the Plan's 20 specified outputs are fully documented after four year
 
 ### Q4: Why is accountability for this monitoring framework so critical?
 
-**Scale and Stakes:**
-- **21.2 million Australians** received COVID-19 vaccines
-- **75 million doses[^1]** administered in total (68.4 million under provisional approval as of July 2023)[^2]
-- This was Australia's **largest and fastest vaccine deployment in history**
+**Unprecedented Scale:**
+- **21.2 million Australians** vaccinated (approximately 96% of eligible population)
+- **75 million total doses**[^1] administered (as of September 2025)
+- **68.4 million doses**[^2] under provisional approval (through July 2023)
+- Fastest mass vaccination programme in Australian history
 
 **Government Mandates:**
 - Federal and state governments imposed vaccine mandates across multiple sectors
