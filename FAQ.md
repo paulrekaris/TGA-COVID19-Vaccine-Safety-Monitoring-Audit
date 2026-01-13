@@ -186,7 +186,9 @@ Enhanced safety monitoring is a higher standard, legally mandated when medicines
 
 ### Q7: What was the Cabinet policy commitment?
 
-On 13 November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which formally committed the Commonwealth Government to "active and comprehensive" post-market safety monitoring of COVID-19 vaccines. Page 13 of this policy document specified delivery via the TGA's COVID-19 Vaccine Pharmacovigilance Plan. This was not guidance—it was Cabinet-endorsed policy requiring operational implementation.
+On 13 November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which formally committed the Commonwealth Government to "active and comprehensive" post-market safety monitoring of COVID-19 vaccines. Page 13 of this policy document anticipated delivery through a TGA-developed COVID-19 Vaccine Pharmacovigilance Plan. 
+
+This was Cabinet-endorsed policy requiring TGA to develop and implement an operational pharmacovigilance framework—not mere guidance, but a formal government commitment requiring demonstrable delivery.
 
 ### Q8: What was TGA's operational plan?
 
