@@ -325,7 +325,7 @@ Formal commitments told a different story:
 
 - **National Cabinet** (Nov 2020): "Active and comprehensive" monitoring for provisional approvals
 - **TGA Safety Plan** (Feb 2021): 17 numbered strategies to "strengthen"/"enhance" routine systems
-- **Bilateral Agreements** (Feb 2021): Governance requiring systematic implementation reporting
+- **Bilateral Agreements** (Feb 2021): Governance requiring safety monitoring and adverse event reporting
 
 ### The Contradiction
 
