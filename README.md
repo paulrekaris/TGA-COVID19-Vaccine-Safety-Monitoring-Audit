@@ -357,7 +357,7 @@ The response pattern was clear: claims of dramatic enhancement, evidence of rout
 
 ### Resolution: 2025 Senate Testimony
 
-**Senate testimony (9 October 2025)** confirmed monitoring consisted of "day-to-day processes" never systematically tracked against the Safety Plan—aligning with the 2021 public message of "no different," but contradicting the Cabinet-endorsed commitment to enhanced, systematically documented surveillance.
+**Senate testimony (9 October 2025)** revealed that monitoring consisted of "day-to-day processes" with no systematic tracking against the Safety Plan's 17 strategies. This admission confirms what TGA publicly stated in 2021—that COVID-19 vaccine monitoring was "no different" from routine surveillance—directly contradicting the commitment to enhanced monitoring mandated by National Cabinet and operationalised in the published Plan.
 
 Four years of inquiries produced identical results: assertions of enhancement without documentation of what made the monitoring operationally distinct.
 
