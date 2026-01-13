@@ -170,7 +170,7 @@ Around 15 minutes is sufficient to grasp the main findings and their implication
 - [Q35: Do I welcome feedback and correction?](#q35-do-i-welcome-feedback-and-correction)
 
 **About the Researcher**
-- [Q36: Who Am I?](#q36-who-am-i)
+- [Q36: Who am I?](#q36-who-am-i)
 
 
 ## Part 1: Understanding the Issue
@@ -668,7 +668,7 @@ The goal is accuracy and accountability, not advocacy. Correction improves both.
 
 # About the Researcher
 
-### Q36: Who Am I?
+### Q36: Who am I?
 
 I'm a policy analyst and consultant with 30 years' professional experience across government, higher education and banking sectors. My background includes:
 
