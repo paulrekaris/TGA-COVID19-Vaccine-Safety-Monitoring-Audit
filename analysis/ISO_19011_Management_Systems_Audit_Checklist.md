@@ -1035,7 +1035,7 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?conte
 **Main Audit Documentation:**
 1. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis v1.9  
    [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) | 
-   [Reference List (p.64)](analysis/documentation-gap-analysis-audit-report.pdf#page=64)
+   [Reference List (p.64)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf#page=64)
 
 **Notes on Reference Formatting**:
 Web URLs: All checked as of December 2025. TGA URLs may be archived at National Library of Australia if links break.
