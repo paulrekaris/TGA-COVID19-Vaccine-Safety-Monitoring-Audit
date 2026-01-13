@@ -708,4 +708,4 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 [^1]: Latest available: 75M total doses administered (as of 30 Sep 2025, Australian Immunisation Register/Department of Health); no further updates planned pending new official releases. *COVID-19 vaccination rollout update, 1 Oct 2025*
 
-[^2]: Provisional approval pathway doses through July 2023 baseline per TGA audit scope (TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.8).
+[^2]: Provisional approval pathway doses through July 2023 baseline per TGA audit scope (TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9).
