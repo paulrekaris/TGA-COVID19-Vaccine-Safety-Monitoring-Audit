@@ -1,5 +1,5 @@
 > ## Surveillance Data Analysis: Key Takeaways
-> ```
+> 
 >
 > **What This Analysis Documents:**
 > 
@@ -30,7 +30,7 @@
 > • **Central finding validated:** Monitoring activities demonstrably occurred, but systematic documentation showing Plan functioned as operational accountability framework remains absent from accessible public records
 > 
 > **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E (pharmacovigilance planning), WHO/EMA GVP Module IX (signal management)
-```
+
 
 ## Audit Standards Applied
 
