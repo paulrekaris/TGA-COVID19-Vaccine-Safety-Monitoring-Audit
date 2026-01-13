@@ -112,6 +112,67 @@ Around 15 minutes is sufficient to grasp the main findings and their implication
 ---
 # Frequently Asked Questions 
 
+## Frequently Asked Questions - Quick Index
+
+**Part 1: Understanding the Issue**
+- [Q1: What is this audit about?](#q1-what-is-this-audit-about)
+- [Q2: What did I find?](#q2-what-did-i-find)
+- [Q3: Why does this matter?](#q3-why-does-this-matter)
+- [Q4: Why is accountability for this monitoring framework so critical?](#q4-why-is-accountability-for-this-monitoring-framework-so-critical)
+- [Q5: Is this assessment claiming that TGA did no safety monitoring for COVID-19 vaccines?](#q5-is-this-assessment-claiming-that-tga-did-no-safety-monitoring-for-covid-19-vaccines)
+- [Q6: What is the difference between routine pharmacovigilance and enhanced safety monitoring?](#q6-what-is-the-difference-between-routine-pharmacovigilance-and-enhanced-safety-monitoring)
+
+**Part 2: The Commitments Made**
+- [Q7: What was the Cabinet policy commitment?](#q7-what-was-the-cabinet-policy-commitment)
+- [Q8: What was TGA's operational plan?](#q8-what-was-tgas-operational-plan)
+- [Q9: What was AusVaxSafety's enhanced role in the national vaccination rollout?](#q9-what-was-ausvaxsafetys-enhanced-role-in-the-national-vaccination-rollout)
+- [Q10: What role did the states play in managing enhanced safety monitoring?](#q10-what-role-did-the-states-play-in-managing-enhanced-safety-monitoring)
+- [Q11: How many doses were affected?](#q11-how-many-doses-were-affected)
+- [Q12: What was the context for this vaccine deployment?](#q12-what-was-the-context-for-this-vaccine-deployment)
+
+**Part 3: What's Missing**
+- [Q13: What records are missing?](#q13-what-records-are-missing)
+- [Q14: How extensive is the documentation gap?](#q14-how-extensive-is-the-documentation-gap)
+- [Q15: What should exist if implementation occurred as designed?](#q15-what-should-exist-if-implementation-occurred-as-designed)
+
+**Part 4: Independent Verification**
+- [Q16: How do you know records are missing (not just withheld)?](#q16-how-do-you-know-records-are-missing-not-just-withheld)
+- [Q17: What did the Information Commissioner find?](#q17-what-did-the-information-commissioner-find)
+- [Q18: What did TGA tell the Senate?](#q18-what-did-tga-tell-the-senate)
+- [Q19: Has this been independently verified by others?](#q19-has-this-been-independently-verified-by-others)
+
+**Part 5: The Details**
+- [Q20: How many safety signals were investigated?](#q20-how-many-safety-signals-were-investigated)
+- [Q21: What's the AusVaxSafety integration gap?](#q21-whats-the-ausvaxsafety-integration-gap)
+- [Q22: What international standards weren't potentially met?](#q22-what-international-standards-werent-potentially-met)
+- [Q23: What percentage of Plan outputs are documented?](#q23-what-percentage-of-plan-outputs-are-documented)
+
+**Part 6: Addressing Objections**
+- [Q24: Couldn't TGA have done the monitoring without formal tracking?](#q24-couldnt-tga-have-done-the-monitoring-without-formal-tracking)
+- [Q25: Isn't this just a documentation problem, not a safety problem?](#q25-isnt-this-just-a-documentation-problem-not-a-safety-problem)
+- [Q26: Why does it matter if vaccines were approved elsewhere?](#q26-why-does-it-matter-if-vaccines-were-approved-elsewhere)
+- [Q27: Maybe TGA just has poor record-keeping?](#q27-maybe-tga-just-has-poor-record-keeping)
+
+**Part 7: What Happens Next?**
+- [Q28: What oversight processes are underway?](#q28-what-oversight-processes-are-underway)
+- [Q29: What would close this audit gap?](#q29-what-would-close-this-audit-gap)
+
+**Part 8: Evidence Access and Verification**
+- [Q30: What research methodology did I use?](#q30-what-research-methodology-did-i-use)
+- [Q31: How do you reach findings with incomplete evidence?](#q31-how-do-you-reach-findings-with-incomplete-evidence)
+- [Q32: How can people access the evidence?](#q32-how-can-people-access-the-evidence)
+
+**Limitations and Peer Review**
+- [Q33: What are the limitations of this research?](#q33-what-are-the-limitations-of-this-research)
+
+**Purpose and Accountability**
+- [Q34: Why am I doing this?](#q34-why-am-i-doing-this)
+- [Q35: Do I welcome feedback and correction?](#q35-do-i-welcome-feedback-and-correction)
+
+**About the Researcher**
+- [Q36: Who Am I?](#q36-who-am-i)
+
+
 ## Part 1: Understanding the Issue
 
 ### Q1: What is this audit about?
