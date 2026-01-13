@@ -115,8 +115,10 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **This audit is not intended to deliver final conclusions.**
->It exists to preserve a verifiable record of what could be independently established about the implementation of Australia’s COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms.
-To ensure the integrity and historical persistence of that record, the audit’s core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation or record reconstruction.
+
+> It exists to preserve a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms.
+>
+> To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
 
 ## Executive Summary
 
