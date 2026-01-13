@@ -321,11 +321,15 @@ This positioned COVID-19 monitoring as identical to routine surveillance.
 
 ### The Policy Commitment: "Enhanced Monitoring"
 
-Formal commitments told a different story:
+Formal commitments painted a different picture:
 
-- **National Cabinet** (Nov 2020): "Active and comprehensive" monitoring for provisional approvals
-- **TGA Safety Plan** (Feb 2021): 17 numbered strategies to "strengthen"/"enhance" routine systems
-- **Bilateral Agreements** (Feb 2021): Governance requiring safety monitoring and adverse event reporting
+- **National Cabinet** (November 2020): Promised "active and comprehensive" monitoring for provisional approvals
+- **Bilateral Agreements** (February 2021): Established governance requirements for safety monitoring and adverse event reporting
+
+The TGA's own planning documents reinforced this commitment:
+
+- **TGA Safety Monitoring Plan** (February 2021): Outlined 17 numbered strategies to "strengthen" and "enhance" routine pharmacovigilance systems
+
 
 ### The Contradiction
 
