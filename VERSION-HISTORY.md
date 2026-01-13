@@ -16,7 +16,7 @@
 
 **Infrastructure evidence synthesis:** Documented combined significance of FOI 5082 (documentation capability), FOI 4029 (internal Plan tracking), and "burn out" screening protocol (contradictory policy). Demonstrates TGA possessed comprehensive infrastructure but made deliberate policy decisions to implement outside Cabinet-endorsed Plan framework.
 
-**Version control principles documented:** Added section explaining detailed version history methodology aligned with ISO 19011:2018 (continuous improvement), ISO 15489-1:2016 (records management transparency, integrity, accountability), and research integrity standards. Documents rationale for comprehensive changelogs and permanent archiving as accountability infrastructure.
+**Version control principles documented:** Added section explaining detailed version history methodology aligned with ISO 19011:2018 (continuous improvement), ISO 15489-1:2016 (records management transparency, integrity, accountability), OSINT key documentation principles and research integrity standards. Documents rationale for comprehensive changelogs and permanent archiving as accountability infrastructure.
 
 **Senate testimony documentation added:** Created reference documentation for 9 October 2025 Senate Community Affairs Committee testimony with timestamped video link (2:30:40-2:37:00), Hansard transcript, and comprehensive key exchange analysis. Documents critical admission that Plan's "five key themes essentially describe our day-to-day processes" confirming monitoring was routine operations, not distinct enhanced framework. Added to Evidence Sources section in README with link to full analysis.
 
