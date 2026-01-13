@@ -44,7 +44,7 @@ Institutional accountability research faces inherent power asymmetry—regulator
 
 Detailed version control combined with OSINT methodology serves multiple purposes:
 
-1. **Documents evolution**: Shows how findings developed as new evidence emerged through systematic OSINT collection, FOI processes, parliamentary testimony analysis, and ongoing research and collaboration
+1. **Documents evolution**: Shows how findings developed as new evidence emerged through systematic OSINT collection, FOI processes, parliamentary testimony, and ongoing research, analysis and collaboration with experts
 2. **Prevents retrospective revision**: Creates immutable record of claims and their supporting evidence at each point in time
 3. **Demonstrates rigour**: Shows systematic, evidence-based OSINT methodology rather than predetermined conclusions
 4. **Enables verification**: Allows oversight bodies (ANAO, OAIC, Ombudsman, Parliament) and peer reviewers to examine both the audit's development and independently replicate the evidence gathering process
