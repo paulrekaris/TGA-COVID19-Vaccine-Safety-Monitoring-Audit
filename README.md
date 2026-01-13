@@ -329,13 +329,16 @@ Formal commitments told a different story:
 
 ### The Contradiction
 
-If COVID-19 vaccine monitoring was truly "no different" from routine surveillance, what operational meaning did the Safety Plan's 17 strategies have?
+If monitoring was 'no different' from routine surveillance, the Safety Plan's 17 enhancement strategies were either:
 
-This public communication either:
+1. Never implemented (monitoring remained routine despite policy commitments), or
 
-1. Contradicted formal policy commitments to Cabinet and states/territories, or
-2. Accurately reflected that enhanced monitoring was never implemented as operationally distinct from routine processes, or
-3. Revealed the government's inability to articulate what made COVID-19 monitoring "enhanced"
+2. Implemented but indistinguishable from routine processes (no operational meaning), or
+
+3. Mere aspirations never operationalised (policy theatre without substance)
+
+All three possibilities point to the same audit finding: enhanced monitoring cannot be verified as systematically implemented.
+
 
 ### Testing the Contradiction: 2022 Direct Inquiries
 
