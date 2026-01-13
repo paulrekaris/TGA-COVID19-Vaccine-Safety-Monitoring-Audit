@@ -60,6 +60,7 @@ This README contains the narrative executive summary and overview. Key findings 
 - [Methodology and Evidence Base](#methodology-and-evidence-base)
   - [Assessment Framework](#assessment-framework)
   - [Assessment Output Methodology](#assessment-output-methodology)
+  - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
   - [FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021)](#foi-5082-tga-vaccine-pharmacovigilance-system-20192021-released-26-july-2024)
@@ -122,7 +123,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Executive Summary
 
-On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to post‑market safety monitoring of COVID‑19 vaccines by the TGA and flagged the need for dedicated pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 20 outputs across 17 numbered strategies spanning AEFI collection, signal detection, data integration, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
+On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 20 outputs across 17 numbered strategies spanning AEFI collection, signal detection, data integration, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
 
 The Commonwealth signed formal bilateral agreements with Australian states and territories (including Victoria, signed 19 February 2021) that established governance frameworks requiring systematic reporting of vaccine safety and surveillance data through agreed channels and specified protocols, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
 
@@ -837,7 +838,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 **Document Version:** 1.9  
 **Last Updated:** 13 January 2026  
-**Published**: 14 January 2024  
+**Published**: 14 January 2026
 
 For detailed version history and changelog, see [**VERSION-HISTORY.md**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION-HISTORY.md)
 
