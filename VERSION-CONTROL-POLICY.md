@@ -32,7 +32,7 @@ This audit employs comprehensive version control practices combining records man
 - **Git version control**: Every change tracked with descriptive commit messages
 - **Version numbering**: Major version increments (1.8, 1.9) distinguish significant evidence additions from minor corrections
 - **Structured changelogs**: Human-readable version history documenting what changed, why it changed, and what remained unchanged
-- **OSINT documentation**: Search methodology, source identification, and evidence verification processes documented in Appendix A in *[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** for independent replication
+- **OSINT documentation**: Search methodology, source identification, and evidence verification processes documented in Appendix A in **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** for independent replication
 - **Permanent archiving**: Zenodo DOI and blockchain timestamping ensure version history cannot be erased or retrospectively altered
 - **Version-agnostic filenames**: Documents use stable filenames (e.g., `documentation-gap-analysis-audit-report.pdf`) with version control managed through Git tags and releases
 
