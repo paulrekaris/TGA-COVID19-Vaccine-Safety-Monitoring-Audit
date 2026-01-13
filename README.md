@@ -835,9 +835,9 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History
 
-**Document Version:** 1.9
-**Last Updated:** 13 January 2026
-**Published**: 14 January 2024
+**Document Version:** 1.9  
+**Last Updated:** 13 January 2026  
+**Published**: 14 January 2024  
 
 For detailed version history and changelog, see [**VERSION-HISTORY.md**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION-HISTORY.md)
 
