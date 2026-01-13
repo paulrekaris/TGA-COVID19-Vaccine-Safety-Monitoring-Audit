@@ -30,7 +30,7 @@ Everything is freely accessible at:
 ## The Promise
 
 **Cabinet Commitment (November 2020)**  
-National Cabinet endorsed "active and comprehensive" COVID‑19 vaccine safety monitoring, to be delivered through TGA's COVID‑19 Vaccine Pharmacovigilance Plan.
+National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to "active and comprehensive" post-market safety monitoring through a TGA-led pharmacovigilance framework. The policy document described TGA's planned approach:
 
 > “The TGA has developed a COVID-19 Vaccine Pharmacovigilance Plan that builds on its already well-established Adverse Events Monitoring System (AEMS) by improving capacity and capability for adverse event reporting to the TGA by state and territory health departments, expanding active surveillance systems for COVID-19 vaccines and enhancing existing processes for safety signal detection and investigation, public communications and implementation of regulatory and programmatic responses. International collaboration and building on existing partnerships with organisations in Australia that have high-level technical expertise in vaccine safety are also core elements of the plan.”— Australian COVID-19 Vaccination Policy, 13 November 2020, p.13
 
@@ -38,15 +38,15 @@ National Cabinet endorsed "active and comprehensive" COVID‑19 vaccine safety m
 Enhanced post‑market monitoring was the regulatory safeguard that justified provisional, rather than standard, approval (less pre‑market evidence, faster access) and underpinned government mandates affecting employment, travel and social participation.
 
 **Regulatory Requirement**  
-Enhanced safety monitoring was a regulatory condition and expectation of provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty, as reflected in TGA’s provisional approval and post‑market surveillance framework.
 
+Enhanced safety monitoring was a regulatory condition and expectation of provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty, as reflected in TGA’s provisional approval and post‑market surveillance framework.
 
 ---
 
 ## The Plan
 
 **TGA's Safety Monitoring Plan (February 2021)**  
-TGA published a COVID‑19 Vaccine Safety Monitoring Plan with 17 numbered outputs to operationalise the Cabinet commitment.
+TGA published a COVID-19 Vaccine Safety Monitoring Plan with 17 numbered strategies to operationalise the Cabinet-endorsed pharmacovigilance framework.
 
 **Deployment Scale**  
 Approximately 21.2 million Australians received 68.4 million doses under this framework, with mandates and significant consequences for non‑compliance.
