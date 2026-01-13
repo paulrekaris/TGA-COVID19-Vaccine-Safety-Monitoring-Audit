@@ -2,20 +2,24 @@
 
 ## Overview
 
-After completing the main audit, I reviewed TGA's complete FOI disclosure log to verify I hadn't missed any relevant Plan implementation documents.
+After completing the main audit, I conducted a systematic review of TGA's complete FOI disclosure log employing Open Source Intelligence (OSINT) methodology to verify I hadn't missed any relevant Plan implementation documents.
 
 ## Search Details
 
 **Date**: 10 January 2026, 9:08–13:41 AEDT (4.5 hours)
 
+**Methodology**: OSINT systematic collection and verification
+
 **Scope**: Complete TGA FOI disclosure log (July 2020–Dec 2025). Reviewed HTML log and quarterly PDF extracts manually using keyword search.
 
 ## Method
 
-### Primary Source
+### OSINT Collection Strategy
+
+**Primary Source:**  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-### Search Terms
+**Search Terms:**
 - "COVID vaccine safety"
 - "pharmacovigilance"
 - "AEFI COVID"
@@ -24,11 +28,17 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 - "enhanced monitoring"
 - Advanced search: site:tga.gov.au filetype:pdf
 
-### Search parameters
+**Search Parameters:**
 - **Timeframe**: 2020–2025
 - **Document type**: Section 11C public releases only
 - **Exclusions**: Business exemptions excluded
 - **Deep-dive**: Three promising candidates reviewed in detail (FOI 25-0220, 2389-01, 3727-04)
+
+**OSINT Principles Applied:**
+- Systematic source review (complete disclosure log)
+- Keyword-based identification (6 targeted search terms)
+- Deep-dive verification (detailed review of candidates)
+- Cross-reference validation (comparison with existing repository evidence)
 
 ## Key Findings
 
@@ -112,15 +122,19 @@ No additional FOI documents would alter implementation status ratings for the 20
 
 ## Conclusion
 
-**Evidence collection complete**: Review of 500+ FOI releases confirms FOI 4029 suite and FOI 5082 represent all available Plan implementation evidence.
+**Evidence collection complete**: OSINT systematic review of 500+ FOI releases confirms FOI 4029 suite and FOI 5082 represent all available Plan implementation evidence.
 
 **Repository coverage**: 85% of relevant COVID vaccine safety FOI material captured.
 
 **Documentation gap confirmed**: Absence of Plan framework references, VSIG integration protocols, and tracking documentation across entire FOI corpus validates audit findings based on complete available evidence.
 
+**OSINT methodology**: Systematic search approach enables independent replication and verification of comprehensive evidence base.
+
 **Recommendation**: No additions required.
 
 **Search conducted by**: Paul Rekaris  
-**Date**: 10 January 2026
+**Date**: 10 January 2026  
+
+**Reference**: Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
 
 ---
