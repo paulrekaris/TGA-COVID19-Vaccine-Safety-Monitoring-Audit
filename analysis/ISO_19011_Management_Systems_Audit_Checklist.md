@@ -1031,10 +1031,9 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 60. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
-
 **Main Audit Documentation:**
 1. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis v1.9  
-   [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) | 
+   [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) | 
    [Reference List (p.64)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf#page=64)
 
 **Notes on Reference Formatting**:
