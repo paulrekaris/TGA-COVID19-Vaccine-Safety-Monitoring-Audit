@@ -443,23 +443,19 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that
 
 [**Full paper: Phillips et al. (2021)**](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)
 
-
-## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
-
 ### Enhanced Monitoring as Defined by the Plan
 
-The COVID-19 Vaccine Safety Monitoring Plan (February 2021) is the authoritative source for what "enhanced monitoring" means in this context. This Plan was:
+The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to "active and comprehensive" monitoring and was embedded in bilateral agreements as the authoritative framework for provisional approval oversight.
 
-* **Cabinet-endorsed as part of Australia's national COVID-19 vaccination policy rollout**
-* Publicly promised to Australian citizens as the framework for provisional approval oversight
-* Embedded in national vaccination policy as the documented commitment for heightened safety surveillance
-* A regulatory condition and expectation of provisional approval for vaccines with incomplete pre‑market data
+**Status as national policy instrument:**
+* Operationalised Cabinet's mandate (November 2020) for vaccines with incomplete pre-market data
+* Embedded in bilateral state agreements as the governance framework
+* Publicly promised to Australian citizens as the standard for enhanced surveillance
 
-**This Cabinet endorsement elevated the Plan from agency guidance to formal government commitment**, making enhanced monitoring a documented promise to Australian citizens: earlier vaccine access in exchange for demonstrably stronger post-market safeguards.
+**The Plan's explicit definition:** 17 numbered strategies across five objectives designed to "strengthen the existing vaccine vigilance system"—the operational meaning of enhanced monitoring beyond business-as-usual.
 
-The Plan defines "enhanced monitoring" explicitly: 17 numbered strategies across five objectives designed to "strengthen the existing vaccine vigilance system." These 17 strategies constitute the operational definition of what TGA committed to deliver beyond business-as-usual surveillance.
+**This audit uses the Plan's own framework as the standard.** When we ask whether "enhanced monitoring" was implemented, we mean: were these specific 17 strategies operationalised with verifiable documentation?
 
-This audit uses the Plan's own framework as the standard. When we ask whether "enhanced monitoring" was implemented, we mean: were these specific 17 strategies operationalised with verifiable documentation?
 
 ### The Audit Question
 
