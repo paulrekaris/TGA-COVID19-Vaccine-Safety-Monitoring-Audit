@@ -19,9 +19,9 @@ New to this audit? **Start here:**
 
 - **[ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including ANAO audit criteria, evidence hierarchy, non-conformity ratings, and conformity assessment.
 
--  **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of six representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
+-  **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
-- **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) |[Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
+- **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) | [Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)**
 
@@ -495,7 +495,7 @@ For private citizens with limited resources, funding, and investigative powers, 
 
 This audit employs transparent methodology: open access, version control, responsiveness to correction, permanent archive, and explicit limitations. It acknowledges inherent uncertainties while demonstrating what can be verified from outside the black box. [Read more: Black Box Governance](reference-documents/black-box-governance.md)
 
-## ANAO audit history and the pharmacovigilance gap
+## ANAO Audit History and the Pharmacovigilance Gap
 
 The Australian National Audit Office (ANAO) has examined TGA several times since the mid‑1990s, with reports focused on prescription‑medicine evaluation, the regulation of non‑prescription and complementary medicines, manufacturer compliance and cost‑recovery arrangements. These audits have primarily assessed pre‑market evaluation, regulatory processes, enforcement and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed or whether enhanced post‑market commitments were demonstrably delivered.
 
