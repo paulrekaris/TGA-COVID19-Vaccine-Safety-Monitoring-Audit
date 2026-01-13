@@ -1,26 +1,25 @@
-<div style="background-color: #E8F4F8; padding: 20px; border: 1px solid #90CAF9; border-radius: 5px;">
+---
 
-## Surveillance Data Analysis: Key Takeaways
+> ## Surveillance Data Analysis: Key Takeaways
+> 
+> **What This Analysis Documents:**
+> 
+> - **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 148 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
+> - **Two major surveillance systems never reconciled:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite Plan Output 2.1 commitment to unified framework
+> - **Observable degradation from enhanced to routine:** Weekly detailed reports (2021) transitioned to fortnightly minimal summaries (2023) without documented assessment against provisional approval's enhanced monitoring requirements
+> - **"Expected rates" comparisons lack methodology:** Reports from mid-2022 onwards extensively used "rates similar to expected" reassurance language without publishing calculation methods, baseline sources, or statistical confidence intervals
+> - **International standards not met:** ICH E2E requires documented signal evaluation trails; WHO/EMA GVP IX requires signal disposition matrices; ANAO principles require performance tracking—none evidenced in published reports
+> - **FOI 4029-03 (ACV Mtg 25) proves capacity: weekly PRR/MaxSPRT presented Sep 2021:** TGA presented Strategy 2.3 methodology materials to Advisory Committee on Vaccines (Sep 2021), demonstrating capacity to organise materials by Plan objectives—yet concurrent public reports contained zero Strategy 2.3 references
+> - **OAIC search excluded advisory body evidence:** Public reports exclude ACV governance evidence (FOI 4029-03, D21-3141615) despite TGA Sep 2024 search (531 containers) admitting Obj 5 "unable to meaningfully interpret" Advisory Committee containers where FOI 4029-03 exists—inadequate scope for Cabinet-endorsed policy verification
+> - **Third-party verification confirms gaps:** FOI 5275 (Aug 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval
+> - **Compensation barrier documented:** 148 signal investigations generated internal documentation but claimants cannot access this population-level evidence, contributing to 90-95% rejection rate among approximately 10,000 claims
+> - **Six reports systematically selected:** ISO 19011 sampling methodology ensures representative coverage across phases (enhanced/transition/routine), frequencies (weekly/biweekly/fortnightly), and timeline (first through final)
+> - **Complete archive preserved:** All 150+ reports maintained in National Library of Australia Trove and Internet Archive Wayback Machine enabling independent verification
+> - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 20 outputs never tracked in public reports
+> - **Central finding validated:** Monitoring activities demonstrably occurred, but systematic documentation showing Plan functioned as operational accountability framework remains absent from accessible public records
+> - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E (pharmacovigilance planning), WHO/EMA GVP Module IX (signal management)
 
-**What This Analysis Documents:**
-
-- **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 148 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
-- **Two major surveillance systems never reconciled:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite Plan Output 2.1 commitment to unified framework
-- **Observable degradation from enhanced to routine:** Weekly detailed reports (2021) transitioned to fortnightly minimal summaries (2023) without documented assessment against provisional approval's enhanced monitoring requirements
-- **"Expected rates" comparisons lack methodology:** Reports from mid-2022 onwards extensively used "rates similar to expected" reassurance language without publishing calculation methods, baseline sources, or statistical confidence intervals
-- **International standards not met:** ICH E2E requires documented signal evaluation trails; WHO/EMA GVP IX requires signal disposition matrices; ANAO principles require performance tracking—none evidenced in published reports
-- **FOI 4029-03 (ACV Mtg 25) proves capacity: weekly PRR/MaxSPRT presented Sep 2021:** TGA presented Strategy 2.3 methodology materials to Advisory Committee on Vaccines (Sep 2021), demonstrating capacity to organise materials by Plan objectives—yet concurrent public reports contained zero Strategy 2.3 references
-- **OAIC search excluded advisory body evidence:** Public reports exclude ACV governance evidence (FOI 4029-03, D21-3141615) despite TGA Sep 2024 search (531 containers) admitting Obj 5 "unable to meaningfully interpret" Advisory Committee containers where FOI 4029-03 exists—inadequate scope for Cabinet-endorsed policy verification
-- **Third-party verification confirms gaps:** FOI 5275 (Aug 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval
-- **Compensation barrier documented:** 148 signal investigations generated internal documentation but claimants cannot access this population-level evidence, contributing to 90-95% rejection rate among approximately 10,000 claims
-- **Six reports systematically selected:** ISO 19011 sampling methodology ensures representative coverage across phases (enhanced/transition/routine), frequencies (weekly/biweekly/fortnightly), and timeline (first through final)
-- **Complete archive preserved:** All 150+ reports maintained in National Library of Australia Trove and Internet Archive Wayback Machine enabling independent verification
-- **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 20 outputs never tracked in public reports
-- **Central finding validated:** Monitoring activities demonstrably occurred, but systematic documentation showing Plan functioned as operational accountability framework remains absent from accessible public records
-- **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E (pharmacovigilance planning), WHO/EMA GVP Module IX (signal management)
-
-</div>
-
+---
 
 ## Audit Standards Applied
 
