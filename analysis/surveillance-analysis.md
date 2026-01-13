@@ -1,6 +1,5 @@
 > ## Surveillance Data Analysis: Key Takeaways
 > 
->
 > **What This Analysis Documents:**
 > 
 > • **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 148 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
