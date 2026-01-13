@@ -344,7 +344,7 @@ On **18 and 22 February 2022**, I submitted identical inquiries requesting Safet
 
 **TGA Responses** (identical template both dates):
 - **Claimed**: Monitoring "enhanced dramatically" and represented "the most intense... ever conducted"
-- **Provided**: Routine weekly surveillance reports + the "no different" video<sup>[1](#fn1)</sup> + safety video<sup>[2](#fn2)</sup>
+- **Provided**: Routine weekly surveillance reports + a generic covid safety video<sup>[2](#fn2)</sup> "Get vaccine safety information you can trust"
 - **Delivered**: Zero Plan-specific implementation documentation
 
 The response pattern was clear: claims of dramatic enhancement, evidence of routine processes.<sup>[3](#fn3)</sup>
