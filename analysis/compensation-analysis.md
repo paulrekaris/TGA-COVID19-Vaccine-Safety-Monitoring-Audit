@@ -31,7 +31,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | Safety signals investigated | 148 | Senate Hansard (9 Oct 2025)³ |
 | Regulatory/information actions taken | 57 | Senate Hansard (9 Oct 2025)³ |
 
-**Context:** Against 68.4 million doses administered under provisional approval (21.2 million recipients) by July 2023.⁵
+**Context:** Against 68.4 million doses administered under provisional approval (91.2% of 75 million total doses) to 21.2 million recipients by July 2023.⁵
 
 ## Case Study Evidence
 
