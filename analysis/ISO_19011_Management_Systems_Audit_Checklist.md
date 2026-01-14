@@ -1181,6 +1181,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 ---
 
 **Audit Conducted:** October 2025 - January 2026
+**Evidence Collection:** 2022-2026 (Four-year systematic investigation)
 **Audit Lead:** Paul Rekaris, Independent Policy Researcher  
 **Audit Framework:** ISO 19011:2018 with ANAO and OSINT methodologies  
 **Audit Type:** External independent regulatory documentation-compliance audit  
