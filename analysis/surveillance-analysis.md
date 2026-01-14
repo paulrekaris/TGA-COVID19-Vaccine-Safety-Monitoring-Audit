@@ -251,7 +251,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 | **System** | **Volume** | **Type** | **Plan Link** | **Public Trail** | **Claimant Access** |
 |------------|------------|----------|---------------|------------------|---------------------|
-| **DAEN** | 140,000+ reports | Passive spontaneous | No Output 2.2 reconciliation documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 4,400 rejected/withdrawn claimants |
+| **DAEN** | 140,000+ reports | Passive spontaneous | No Output 2.2 reconciliation documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 4,440 rejected/withdrawn claimants |
 | **AusVaxSafety** | 3M+ responses, 62K medical visits | Active proactive | No Output 2.1 linkage documented | Aggregate summaries only, no methodology | No individual case access |
 | **Safety Reports** | 150+ published (33 months) | Synthesis communication | Zero Plan references | No PRR/MaxSPRT outputs, no audit trails | Reassurance only, no signal validation |
 
