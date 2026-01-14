@@ -827,7 +827,7 @@ This reference list provides complete citations for all sources cited in the ISO
 
 5. Therapeutic Goods Administration (TGA). (2024). TGA Performance Report 2023-24. Australian Government Department of Health and Aged Care. https://www.tga.gov.au/sites/default/files/2025-03/tga-performance-report-2023-24.pdf
 
-6. Therapeutic Goods Administration (TGA). Code of Good Manufacturing Practice (GMP). https://www.tga.gov.au/resources/resource/guidance/australian-code-good-manufacturing-practice-medicinal-products
+6. Therapeutic Goods Administration (TGA). PIC/S Guide to Good Manufacturing Practice for medicinal products (PE009-17). https://www.tga.gov.au/resources/guidance/good-manufacturing-practice-gmp-requirements-medicinal-products-pics-guide-gmp-pe009-17
 
 7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook
 
@@ -866,7 +866,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/products/covid-1
 
 19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-government-covid-19-vaccine-national-roll-out-strategy
 
-20. AAustralian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
+20. Australian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
 
 21. Australian Government Department of Health. (2021, February 3). COVID-19 vaccine rollout announcement [Video]. https://www.health.gov.au/news/australian-covid-19-vaccination-policy
 
