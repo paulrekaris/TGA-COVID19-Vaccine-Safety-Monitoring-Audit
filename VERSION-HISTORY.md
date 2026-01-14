@@ -24,7 +24,7 @@
 
 **Visual summary corrections:** Fixed arithmetic error in outcome percentages (now correctly totals 100%: 15% fully documented, 55% partial, 30% not documented). Updated vaccine rollout to 91.2%. Clarified evidence hierarchy as "Source Reliability" with Tier 1 annotation. Updated Senate testimony terminology to "parliamentary privilege."
 
-**Methodology enhancements:** Reorganised OSINT description for logical flow (ISO 19011 framework first). Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology. Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation.
+**Methodology enhancements:** Reorganised OSINT description for logical flow (ISO 19011 framework first). Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology. Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation. Streamlined audit methodology section by replacing ISO 19011 conformance self-assessment with direct conformance statement, allowing audit quality to be demonstrated through systematic evidence-based approach rather than numerical scoring. Corrected audit conduct period to October 2025 - January 2026, clarified evidence collection period as 2022-2026
 
 **Documentation improvements:** Removed version numbers from all filenames for maintenance simplicity. Updated all internal cross-references for consistency. Added an abstract to main audit report and an ORCID identifier (0009-0000-1338-9578) to citation metadata. General formatting and readability enhancements.
 
