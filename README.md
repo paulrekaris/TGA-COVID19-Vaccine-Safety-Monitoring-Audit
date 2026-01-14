@@ -6,7 +6,7 @@ New to this audit? **Start here:**
 
 - **[How to Navigate This Audit](FAQ.md)**
 
-- **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** – Orientation, methodology, 
+- **[Frequently Asked Questions (FAQ.md)](#frequently-asked-questions)** – Orientation, methodology, 
   limitations, and how to verify or challenge the findings.
 
 - **[Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
