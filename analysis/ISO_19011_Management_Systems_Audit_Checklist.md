@@ -832,7 +832,7 @@ This reference list provides complete citations for all sources cited in the ISO
 7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook
 https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways/clinical-trials
 
-9. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors)
+9. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors
 
 **TGA COVID-19 Vaccine Safety Reports**
 
