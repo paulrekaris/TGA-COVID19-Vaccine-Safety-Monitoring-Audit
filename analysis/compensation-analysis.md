@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (10.5% approval rate) before closure in September 2024. The Therapeutic Goods Administration (TGA) investigated 148 COVID-19 vaccine safety signals and took 57 regulatory or information actions, but withholds associated investigation documentation. This creates evidentiary asymmetry: claimants must prove causation without access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million Australians.
+Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (10.5% approval rate) before closure in September 2024. The Therapeutic Goods Administration (TGA) investigated 148 COVID-19 vaccine safety signals and took 57 regulatory or information actions, but withholds associated investigation documentation. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million Australians.
+
+This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data
 
 ## The Core Problem: Causation and Information Asymmetry
 
@@ -159,6 +161,6 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 15. Senate Education and Employment References Committee. (2023). Effectiveness of the Commonwealth's COVID-19 vaccine injury claims scheme - Chapter 2: Matters raised in evidence. Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/VaccineDiscrimination/Report/Chapter_2_-_Matters_raised_in_evidence#_ftn25
 
-16. Australian Government Department of Health and Aged Care. (2023). COVID-19 Vaccine Claims Scheme Policy (Version 1.5, 19 December 2023), Section 19: Causation standard. https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
+16. Australian Government Department of Health and Aged Care. (2024). COVID-19 Vaccine Claims Scheme Policy 2021 (Version 1.6, 24 September 2024). Section 19 (Causation). https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
 
 17. Therapeutic Goods Administration. (2025). FOI 25-0117: TGA response confirming scheme focus on treating doctor's opinion. https://www.tga.gov.au/sites/default/files/2025-03/FOI%2025-0117_2.pdf
