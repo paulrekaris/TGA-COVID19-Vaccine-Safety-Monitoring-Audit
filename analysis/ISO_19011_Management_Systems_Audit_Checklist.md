@@ -566,48 +566,9 @@ TGA requires sponsors and manufacturers to demonstrate robust safety culture and
 
 ---
 
-## ISO 19011 Audit Conformance Score
+## Audit Methodology Conformance
 
-**Given the evidence base and known limitations, this audit assigns itself an ISO 19011 conformance score of 92/100.**
-
-### Prior and Evidence
-
-**Prior Expectation:**  
-Based on typical professional audit programmes using ISO 19011, a well-structured independent audit of this complexity would be expected to fall in the 80–95/100 band.
-
-**Evidence Supporting Higher Conformance:**
-- Comprehensive, structured primary evidence base (FOI releases, OAIC directed searches, TGA plans/reports, parliamentary material, peer-reviewed literature)
-- Clear criteria, scope, and risk-based approach aligned with ISO 19011 principles
-- Full transparency of methods and version control via GitHub + Zenodo
-- Systematic documentation of audit trail from evidence to finding
-- Four-year sustained investigation demonstrating due professional care
-- OAIC independent validation of FOI concerns
-- The explicit acknowledgment and management of scope limitations (e.g., no on-site access).
-  
-**Evidence Limiting Maximum Confidence:**
-- No on-site access, interviews, or internal system walkthroughs (scope limitation)
-- Single-auditor programme (no internal peer-review team)
-- Reliance on FOI processes subject to TGA's record-keeping practices
-- Citizen-led audit without formal accreditation
-
-Professional Assessment of Audit Conformance:
-Based on a comprehensive review against ISO 19011:2018 principles, this audit demonstrates high conformance with professional audit standards. On a scale where 100 represents ideal conformance under full institutional access, this citizen-led documentary audit is assessed at 92/100.
-
-### Interpretation
-
-**Within the constraints of a citizen-led, FOI-based audit, this work demonstrates HIGH CONFORMANCE with ISO 19011 principles and methods.**
-
-The uncertainty band is driven mainly by:
-1. Lack of direct access to internal TGA systems (explicit scope limitation)
-2. Absence of multi-auditor team (resource constraint)
-3. Reliance on FOI-mediated evidence (methodological constraint)
-
-These limitations are explicitly acknowledged and do not materially affect the validity of documented non-conformities, which are based on:
-- TGA's own Senate testimony
-- OAIC independent findings
-- Contradictory FOI positions
-- Absence of documentation despite reasonable searches
-
+This audit was conducted in accordance with ISO 19011:2018 guidelines, applying systematic, evidence-based principles throughout. Methodology limitations (no on-site access, single auditor, FOI-dependent evidence) are explicitly acknowledged in the scope section and do not materially affect findings based on TGA's own testimony and independent oversight body determinations.
 ---
 
 ## Audit Performance Score
