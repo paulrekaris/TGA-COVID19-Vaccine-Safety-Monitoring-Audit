@@ -4,7 +4,8 @@
   Read **[At a Glance](#at-a-glance)** for a complete high-level summary.
 
 - **15–20 minutes**  
-  Browse the full **[Frequently Asked Questions (FAQ)](#frequently-asked-questions)** for detailed Q&A on methodology, limitations, oversight context, and how to verify or challenge the findings.
+  Browse the full - **[Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index)** – Orientation, methodology, 
+  limitations, and how to verify or challenge the findings
 
 - **Full evidence**  
   - **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** – Full findings, implementation status for all 20 Safety Plan outputs, and complete references.
