@@ -99,7 +99,7 @@ Documents were excluded where they:
 
 All 22 additional FOIs beyond FOI 4029 and FOI 5082 fall outside audit scope—they don't contain evidence about whether the Plan's 17 strategies were implemented as distinct, documentable processes.
 
-### Important Distinction: Pharmacovigilance Plans
+### Important Distinction: Pharmacovigilance Plan v Safety Monitoring Plan 
 FOI log references "COVID Vaccine Pharmacovigilance Plan" = national policy umbrella (Cabinet/DoH).[^1]  
 **Audit scope**: TGA's **COVID-19 Vaccine Safety Monitoring Plan (Feb 2021)**—operational implementation (17 strategies/20 outputs).[^2]
 
