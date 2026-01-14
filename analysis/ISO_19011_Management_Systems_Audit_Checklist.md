@@ -821,7 +821,7 @@ This reference list provides complete citations for all sources cited in the ISO
 
 2. Therapeutic Goods Administration (TGA). (2021). Provisional determination process for COVID-19 vaccines. Australian Government. https://www.tga.gov.au/news/news-articles/covid-19-vaccine-provisional-determinations
 
-3. Therapeutic Goods Administration (TGA). Australian Public Assessment Reports (AusPARs) for COVID-19 vaccines. https://www.tga.gov.au/products/covid-19/covid-19-vaccines
+3. Therapeutic Goods Administration (TGA). Australian Public Assessment Reports (AusPARs) for COVID-19 vaccines. https://www.tga.gov.au/resources/auspar
 
 4. Therapeutic Goods Administration (TGA). (2023). TGA Performance Report 2022-23. Australian Government Department of Health and Aged Care. https://www.tga.gov.au/sites/default/files/2023-12/tga-performance-report-2022-23.pdf
 
@@ -832,7 +832,7 @@ This reference list provides complete citations for all sources cited in the ISO
 7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook
 https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways/clinical-trials
 
-9. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors
+8. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors
 
 **TGA COVID-19 Vaccine Safety Reports**
 
