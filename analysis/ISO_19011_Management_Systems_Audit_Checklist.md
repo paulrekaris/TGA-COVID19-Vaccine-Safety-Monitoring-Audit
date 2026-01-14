@@ -835,19 +835,19 @@ This reference list provides complete citations for all sources cited in the ISO
 
 **TGA COVID-19 Vaccine Safety Reports**
 
-9. Therapeutic Goods Administration (TGA). (2021, March 3). COVID-19 vaccine weekly safety report - 3 March 2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-3-march-2021
+9.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report: 3 March 2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-3-march-2021
+    
+11.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 27 January 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-27-01-2022
+    
+13.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 24 February 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-24-02-2022
+    
+15.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 13 July 2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-13-07-2023tga
+    
+17.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 2 November 2023 [Final regular report]. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23
 
-10. Therapeutic Goods Administration (TGA). (2022, January 27). COVID-19 vaccine weekly safety report - 27 January 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-27-01-2022
+18. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety reports (Main archive). https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
 
-11. Therapeutic Goods Administration (TGA). (2022, February 24). COVID-19 vaccine weekly safety report - 24 February 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-24-02-2022
-
-12. Therapeutic Goods Administration (TGA). (2023, July 13). COVID-19 vaccine safety report - 13 July 2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-13-07-2023
-
-13. Therapeutic Goods Administration (TGA). (2023, November 2). COVID-19 vaccine safety report - 2 November 2023 [Final regular report]. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23
-
-14. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety reports (Main archive). https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
-
-15. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety monitoring and reporting. https://www.tga.gov.au/covid-19-vaccine-safety-monitoring-and-reporting
+19. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety monitoring and reporting. https://www.tga.gov.au/covid-19-vaccine-safety-monitoring-and-reporting
 
 **TGA Provisional Approval Decisions**
 
@@ -880,13 +880,16 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/products/covid-1
 
 25. Office of the Australian Information Commissioner (OAIC). (2024, September 20). OAIC Submission MR22/00538 - TGA comprehensive TRIM search documentation.
 
-26. Office of the Australian Information Commissioner (OAIC). (2025). Decision AICmr 54 [2025]. https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
+26.	Office of the Australian Information Commissioner (OAIC). Decision AICmr 54 . https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.htmloaic+1
+
+
+29.	Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. Vaccine, 39(40), 5968-5981. https://doi.org/10.1016/j.vaccine.2021.07.059pmc.ncbi.nlm.nih
 
 **Parliamentary Evidence**
 
-27. Senate Community Affairs Legislation Committee Hansard (October 9, 2025). Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=00032
+27.	Senate Community Affairs Legislation Committee Hansard (October 9, 2025). Parliament of Australia. https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=committees%20estimate%2029000tga
 
-28. Senate Community Affairs Legislation Committee. (2025, October 9). Estimates Hansard - TGA officials testimony on COVID-19 vaccine safety monitoring. Dr Daniel Dascombe, Acting Medical Officer, Medicines Regulatory Division. Testimony on "day-to-day processes" and systematic tracking. Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+28.	Senate Community Affairs Legislation Committee. (2025, October 9). Estimates Hansard - TGA officials testimony on COVID-19 vaccine safety monitoring. Parliament of Australia. https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=committees%20estimate%2029000tga
 
 **Academic and Technical Literature**
 
