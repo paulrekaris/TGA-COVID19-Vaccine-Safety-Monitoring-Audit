@@ -880,7 +880,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/products/covid-1
 
 25. Office of the Australian Information Commissioner (OAIC). (2024, September 20). OAIC Submission MR22/00538 - TGA comprehensive TRIM search documentation.
 
-26.	Office of the Australian Information Commissioner (OAIC). Decision AICmr 54 . https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.htmloaic+1
+26.	Office of the Australian Information Commissioner (OAIC). Decision AICmr 54, (https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path)
 
 
 29.	Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. Vaccine, 39(40), 5968-5981. https://doi.org/10.1016/j.vaccine.2021.07.059pmc.ncbi.nlm.nih
