@@ -887,7 +887,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescr
 
 27.	Senate Community Affairs Legislation Committee Hansard (October 9, 2025). Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
    
-28.	Senate Community Affairs Legislation Committee. (2025, October 9). Estimates Hansard - TGA officials testimony on COVID-19 vaccine safety monitoring. Parliament of Australia. https://www.youtube.com/watch?v=YLFNBFdICU0)
+28.	Senate Community Affairs Legislation Committee. (2025, October 9). Estimates Hansard - TGA officials testimony on COVID-19 vaccine safety monitoring. Parliament of Australia. https://www.youtube.com/watch?v=YLFNBFdICU0
 
 **Academic and Technical Literature**
 
