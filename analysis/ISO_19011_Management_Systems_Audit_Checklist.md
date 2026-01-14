@@ -1001,7 +1001,10 @@ https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?conte
    [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) (Reference List: p.64)
 
 **Notes on Reference Formatting**:
-Web URLs: All checked as of December 2025. TGA URLs may be archived at National Library of Australia if links break.
+
+**Links verified:** All URLs checked and working as of 14 January 2026, 9:18 PM AEDT.
+
+TGA URLs may have been moved or archived at National Library of Australia if links break.
 
 FOI Documents: Some documents available only through FOI disclosure log or direct OAIC decisions.
 
