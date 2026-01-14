@@ -200,7 +200,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 ### COMPLETED: Establish Context of the Audit Programme
 
 **Auditee Context:**
-- **Organisational objective:** Assure the safety of provisionally approved COVID-19 vaccines in Australia
+- **Organisational objective:** Assure the safety of provisionally approved[ ](https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-government-covid-19-vaccine-national-roll-out-strategy)COVID-19 vaccines in Australia
 - **External issues:** Global pandemic, compressed development timelines, rapidly evolving evidence
 - **Internal issues:** Resource constraints, reliance on mix of passive and active surveillance systems
 - **Interested parties:** Commonwealth/State governments, healthcare providers, Australian public
@@ -819,7 +819,7 @@ This reference list provides complete citations for all sources cited in the ISO
 
 1. Therapeutic Goods Administration (TGA). (2021). COVID-19 Vaccine Safety Monitoring Plan. Australian Government Department of Health. https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
 
-2. Therapeutic Goods Administration (TGA). (2021). Provisional determination process for COVID-19 vaccines. Australian Government. https://www.tga.gov.au/products/covid-19/covid-19-vaccines/covid-19-vaccine-provisional-determinations
+2. Therapeutic Goods Administration (TGA). (2021). Provisional determination process for COVID-19 vaccines. Australian Government. https://www.tga.gov.au/news/news-articles/covid-19-vaccine-provisional-determinations
 
 3. Therapeutic Goods Administration (TGA). Australian Public Assessment Reports (AusPARs) for COVID-19 vaccines. https://www.tga.gov.au/products/covid-19/covid-19-vaccines
 
@@ -829,9 +829,9 @@ This reference list provides complete citations for all sources cited in the ISO
 
 6. Therapeutic Goods Administration (TGA). PIC/S Guide to Good Manufacturing Practice for medicinal products (PE009-17). https://www.tga.gov.au/resources/guidance/good-manufacturing-practice-gmp-requirements-medicinal-products-pics-guide-gmp-pe009-17
 
-7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook
+7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook](https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways/clinical-trials
 
-8. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/publication/guidance/pharmacovigilance-responsibilities-medicine-sponsors
+8. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors)
 
 **TGA COVID-19 Vaccine Safety Reports**
 
@@ -841,18 +841,18 @@ This reference list provides complete citations for all sources cited in the ISO
     
 13.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 24 February 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-24-02-2022
     
-15.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 13 July 2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-13-07-2023tga
-    
-17.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 2 November 2023 [Final regular report]. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23
+15.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 13 July 2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-13-07-2023
 
-18. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety reports (Main archive). https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
+16.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 2 November 2023 [Final regular report]. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23
 
-19. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety monitoring and reporting. https://www.tga.gov.au/covid-19-vaccine-safety-monitoring-and-reporting
+17. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety reports (Main archive). https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
+
+18. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety monitoring and reporting. https://www.tga.gov.au/covid-19-vaccine-safety-monitoring-and-reporting
 
 **TGA Provisional Approval Decisions**
 
 16. TGA. (2021, January 25). Australian Product Information - Comirnaty (Pfizer) 
-COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/products/covid-19/covid-19-vaccines/comirnaty-bnt162b2-pfizer-covid-19-vaccine
+COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescription-medicines-registrations/comirnaty-pfizer-australia-pty-ltd-0
 
 **Australian Technical Advisory Group on Immunisation (ATAGI)**
 
@@ -864,7 +864,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/products/covid-1
 
 **Government Commitments and Policy Documents**
 
-19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-government-covid-19-vaccine-national-roll-out-strategy
+19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-government-covid-19-vaccine-national-roll-out-strategy] https://www.health.gov.au/sites/default/files/documents/2021/01/covid-19-vaccination-australia-s-covid-19-vaccine-national-roll-out-strategy.pdf)
 
 20. Australian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
 
