@@ -1,6 +1,5 @@
 # Media Coverage
 
-## Investigative Journalism - Maryanne Demasi
 
 This audit and the underlying FOI investigation have been covered on investigative journalist's Maryanne Demasi Substack:
 
