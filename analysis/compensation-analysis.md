@@ -25,7 +25,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| DAEN adverse event reports | Just over 137,000 (Dec 2022); now >140,000 | TGA Safety Report (22 Dec 2022)² |
+| DAEN adverse event reports | 137,000+ (Dec 2022); ~140,000 (July 2023) | TGA Safety Report (22 Dec 2022)², ¹⁵|
 | AusVaxSafety survey responses | 6.8 million+ | AusVaxSafety Data⁸ |
 | Adverse events reported via AusVaxSafety | ~3 million | AusVaxSafety Data⁸,⁹ |
 | Safety signals investigated | 148 | Senate Hansard (9 Oct 2025)³ |
@@ -156,3 +156,5 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 13. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
 
 14. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
+
+15. Senate Education and Employment References Committee. (2023). Effectiveness of the Commonwealth's COVID-19 vaccine injury claims scheme - Chapter 2: Matters raised in evidence. Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/VaccineDiscrimination/Report/Chapter_2_-_Matters_raised_in_evidence#_ftn25
