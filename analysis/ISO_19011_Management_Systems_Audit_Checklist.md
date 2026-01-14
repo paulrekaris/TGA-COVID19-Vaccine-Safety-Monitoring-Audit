@@ -6,7 +6,8 @@
 **Audit Conducted:** October 2025 – January 2026  
 **Evidence Collection Period:** 2022–2026 (Four-year systematic investigation)  
 **Period Under Audit:** February 2021 – January 2026  
-**Audit Type:** Independent regulatory documentation-compliance audit
+**Audit Type:** Independent regulatory documentation-compliance audit  
+**Permanent Archive:** DOI 10.5281/zenodo.17731054
 
 ---
 
@@ -68,7 +69,7 @@ This audit employs two complementary forms of reasoning:
 
 **This investigation follows scientific principles of falsifiability and replicability.** The complete methodology is fully documented and publicly available, allowing independent scrutiny and verification of findings.
 
-**Systematic Evidence Collection (2021-2025):**
+**Systematic Evidence Collection (2022-2026):**
 - Systematic FOI requests targeting each Plan strategy
 - OAIC review materials and decisions
 - Senate Hansard testimony analysis
@@ -83,7 +84,8 @@ This audit employs two complementary forms of reasoning:
 
 **Permanent Public Archiving:**
 - **GitHub Repository:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
-- **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive)
+- **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive)  
+  https://doi.org/10.5281/zenodo.17731054
 
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. **This work is open source and open for feedback, correction, and collaborative improvement.**
 
