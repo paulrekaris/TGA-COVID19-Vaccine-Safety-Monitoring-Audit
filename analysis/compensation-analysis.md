@@ -68,9 +68,11 @@ The TGA confirms investigating 148 signals and taking 57 documented actions whil
 
 ## Analysis and Implications
 
-The scheme's design creates a structural barrier: claimants need access to population-level signal investigation data to meet the causation burden, but the agency holding that data refuses its release, citing non-consolidation or impracticality. This information asymmetry likely contributes significantly to the 89.5% rejection rate.
+## Analysis and Implications
 
-Internationally recognised pharmacovigilance principles emphasise transparent signal assessment and communication. The Australian approach creates an accountability gap between promised safety monitoring, documented signal detection (148 signals, 57 actions), and actionable public access to investigation findings.
+The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹⁶ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.¹⁷ However, TGA's refusal to release investigation findings from 148 safety signals and 57 regulatory actions³ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
+
+This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the scheme's 89.5% rejection rate, as doctors lack access to evidence that could strengthen their causation opinions.
 
 ## The Catch-22 Logic Chain
 ```
@@ -158,3 +160,7 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 14. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
 
 15. Senate Education and Employment References Committee. (2023). Effectiveness of the Commonwealth's COVID-19 vaccine injury claims scheme - Chapter 2: Matters raised in evidence. Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/VaccineDiscrimination/Report/Chapter_2_-_Matters_raised_in_evidence#_ftn25
+
+16. Australian Government Department of Health and Aged Care. (2023). COVID-19 Vaccine Claims Scheme Policy (Version 1.5, 19 December 2023), Section 19: Causation standard. https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
+
+17. Therapeutic Goods Administration. (2025). FOI 25-0117: TGA response confirming scheme focus on treating doctor's opinion. https://www.tga.gov.au/sites/default/files/2025-03/FOI%2025-0117_2.pdf
