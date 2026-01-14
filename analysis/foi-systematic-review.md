@@ -135,6 +135,14 @@ No additional FOI documents would alter implementation status ratings for the 20
 **Search conducted by**: Paul Rekaris  
 **Date**: 10 January 2026  
 
-**Reference**: Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
+---
+
+## References
+
+TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
+
+TGA. (2021). COVID-19 Vaccine Safety Monitoring Plan. https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
+
+Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
 
 ---
