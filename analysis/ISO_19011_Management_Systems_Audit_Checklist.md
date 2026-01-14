@@ -3,7 +3,9 @@
 
 **Audit Standard:** ISO 19011:2018 – Guidelines for Auditing Management Systems  
 **Audit Subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)  
-**Audit Period:** February 2021 – December 2025  
+**Audit Conducted:** October 2025 – January 2026  
+**Evidence Collection Period:** 2022–2026 (Four-year systematic investigation)  
+**Period Under Audit:** February 2021 – January 2026  
 **Audit Type:** Independent regulatory documentation-compliance audit
 
 ---
