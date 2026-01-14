@@ -829,7 +829,7 @@ This reference list provides complete citations for all sources cited in the ISO
 
 6. Therapeutic Goods Administration (TGA). PIC/S Guide to Good Manufacturing Practice for medicinal products (PE009-17). https://www.tga.gov.au/resources/guidance/good-manufacturing-practice-gmp-requirements-medicinal-products-pics-guide-gmp-pe009-17
 
-7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook](https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways/clinical-trials
+7. Therapeutic Goods Administration (TGA). Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways/clinical-trials
 
 8. Therapeutic Goods Administration (TGA). Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors)
 
