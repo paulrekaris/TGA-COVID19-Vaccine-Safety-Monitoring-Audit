@@ -4,6 +4,8 @@
 
 New to this audit? **Start here:**
 
+- **[How to Navigate This Audit](FAQ.md)**
+
 - **[Frequently Asked Questions (FAQ)](FAQ.md)** – Orientation, methodology, 
   limitations, and how to verify or challenge the findings.
   
