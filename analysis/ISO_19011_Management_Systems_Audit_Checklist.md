@@ -5,7 +5,7 @@
 **Audit Subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)  
 **Audit Conducted:** October 2025 – January 2026  
 **Evidence Collection Period:** 2022–2026 (Four-year systematic investigation)  
-**Period Under Audit:** February 2021 – January 2026  
+**Period Under Audit:** February 2022 – January 2026  
 **Audit Type:** Independent regulatory documentation-compliance audit  
 **Permanent Archive:** DOI 10.5281/zenodo.17731054
 
@@ -147,7 +147,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 
 ### Audit Details
 
-**Scheduled Start:** Ongoing (2021–2026)  
+**Scheduled Start:** Ongoing (2022–2026)  
 **Audit Method:**
 - Documentary evidence review (FOI decisions and released documents, published TGA plans/reports, Senate Hansard, peer-reviewed literature)
 - No on-site access, interviews, or internal system walkthroughs (explicit limitation of scope)
@@ -187,7 +187,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 
 **Evidence of Competence:**
 - Approximately 30 years professional experience in policy, project and governance roles in government and regulated sectors
-- Four-year systematic FOI programme (2021–2026) focused on TGA COVID-19 vaccine monitoring records
+- Four-year systematic FOI programme (2022–2026) focused on TGA COVID-19 vaccine monitoring records
 - Detailed review of international pharmacovigilance standards (ICH E2E, CIOMS) and TGA's own regulatory frameworks
 - Comprehensive documentation of TGA's Plan, FOI responses, Senate evidence within open-source repository
 - Engagement with the Office of the Australian Information Commissioner (OAIC) on FOI search and refusal issues
@@ -257,7 +257,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 - **Subject:** Implementation of TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
 - **Outputs:** All 20 Plan-specified enhanced-pharmacovigilance outputs
 - **Evidence base:** FOI responses (2,218 pages; 531 TRIM folders), TGA publications, Senate evidence, relevant academic literature
-- **Time period:** February 2021 – December 2025
+- **Time period:** February 2022 – Janusry 2026
 - **Geographic:** National, focusing on Commonwealth-level TGA responsibilities and inter-jurisdictional coordination
 
 **Scope Limitations (Explicit):**
@@ -297,7 +297,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 **Primary Methods:**
 
 **1. Freedom of Information Act 1982 Processes**
-- Systematic FOI requests (2021-2025) targeting each numbered strategy
+- Systematic FOI requests (2022-2026) targeting each numbered strategy
 - Internal review processes when responses inadequate
 - OAIC administrative review (IC review) for contested decisions
 - Comprehensive search methodology documented in OAIC proceedings
