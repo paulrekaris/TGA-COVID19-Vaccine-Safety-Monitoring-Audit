@@ -586,7 +586,7 @@ Each of the 20 Plan outputs was evaluated using a four-tier evidence standard:
 Partial completion of activities without an implementation trail is rated "partially implemented", not "fully implemented".
 
 
-**Note:** This hierarchy assesses implementation proof; Section 9.4 of the main audit report assesses source reliability.
+**Note:** This hierarchy assesses implementation proof; Section 9.4 of the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** assesses source reliability.
 
 ## Evidence Sources
 
