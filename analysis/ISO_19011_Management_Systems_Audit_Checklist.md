@@ -122,7 +122,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 **Evidence Quality Principle:** Findings rely primarily on Tier 1-3 evidence (TGA's own searches, official testimony, formal government records), with Tier 4 providing contextual support. This hierarchy ensures conclusions are based on highest-quality, independently verifiable sources rather than interpretation or inference.
 
 **Audit Context:**
-- Approximately 68 million COVID-19 vaccine doses administered under provisional approval (≈94% of total rollout)
+- 68.4 million COVID-19 vaccine doses administered under provisional approval (91.2% of total rollout)
 - Provisional approval predicated on enhanced post-market surveillance and "active and comprehensive" monitoring commitments
 - The February 2021 Plan specifies 20 enhanced-pharmacovigilance outputs across 17 numbered strategies
 - National Cabinet and bilateral agreements formalised monitoring and reporting obligations
@@ -145,7 +145,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 
 ### Audit Details
 
-**Scheduled Start:** Ongoing (2021–2025)  
+**Scheduled Start:** Ongoing (2021–2026)  
 **Audit Method:**
 - Documentary evidence review (FOI decisions and released documents, published TGA plans/reports, Senate Hansard, peer-reviewed literature)
 - No on-site access, interviews, or internal system walkthroughs (explicit limitation of scope)
@@ -185,7 +185,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 
 **Evidence of Competence:**
 - Approximately 30 years professional experience in policy, project and governance roles in government and regulated sectors
-- Four-year systematic FOI programme (2021–2025) focused on TGA COVID-19 vaccine monitoring records
+- Four-year systematic FOI programme (2021–2026) focused on TGA COVID-19 vaccine monitoring records
 - Detailed review of international pharmacovigilance standards (ICH E2E, CIOMS) and TGA's own regulatory frameworks
 - Comprehensive documentation of TGA's Plan, FOI responses, Senate evidence within open-source repository
 - Engagement with the Office of the Australian Information Commissioner (OAIC) on FOI search and refusal issues
@@ -269,7 +269,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 ### COMPLETED: Establish Audit Programme Resources
 
 **Resources Allocated:**
-- **Time:** Four years systematic investigation (2021-2025)
+- **Time:** Four years systematic investigation (2022-2026)
 - **Financial:** Personal investment (no external funding)
 - **Human Resources:** Independent researcher with 30 years experience
 - **Technical Resources:** FOI processes, OAIC administrative review, GitHub documentation platform
@@ -520,7 +520,7 @@ The audit identifies systematic gaps between:
 
 **4. Failure to Address Expert Warnings**
 - Pre-rollout expert consensus (2020) identified specific system gaps requiring attention
-- Five years later (2025), TGA confirms same gaps persist
+- Five years later (2026), TGA confirms same gaps persist
 - No evidence of systematic learning or capability development
 - Indicates reactive rather than proactive safety culture
 
@@ -643,7 +643,7 @@ These limitations are explicitly acknowledged and do not materially affect the v
 | **Documentation & Transparency** | Non-Conforming | Contradictory FOI responses; OAIC findings |
 | **Systematic Implementation** | Non-Conforming | TGA admits never systematically tracked |
 | **System Integration** | Non-Conforming | No coordination protocols documented |
-| **Learning Culture** | Non-Conforming | Expert warnings 2020 → gaps persist 2025 |
+| **Learning Culture** | Non-Conforming | Expert warnings 2020 → gaps persist 2026 |
 | **Data Linkage Capability** | Non-Conforming | "Major gap" identified 2020, confirmed 2025 |
 | **Public Accountability** | Non-Conforming | Unable to demonstrate delivery of commitments |
 | **Signal Pathway Clarity** | Non-Conforming | No documented AusVaxSafety→TGA pathways |
@@ -1114,9 +1114,9 @@ OAIC-directed search under statutory oversight confirms systematic absence of im
 ### Appendix C: COVID-19 Vaccine Doses Under Provisional Approval
 
 **Scale of Provisional Approval Deployment:**
-- **~68 million doses** administered by 23 July 2023
-- **~72.3 million total doses** since February 2021
-- **Approximately 94%** administered under provisional approval
+- ** 68.4 million doses** administered by 23 July 2023
+- ** 75 million total doses** since February 2021
+- **Approximately 91%** administered under provisional approval
 
 **Provisional Approval Timeline:**
 - **Pfizer Comirnaty:** Provisional 25 Jan 2021 → Full registration 13 July 2023
