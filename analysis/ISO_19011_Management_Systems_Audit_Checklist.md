@@ -772,7 +772,7 @@ This audit applies ISO 19011:2018 guidelines to provide:
 
 **Completion Criteria Met:**
 All planned audit activities conducted over four-year period
-Documentary evidence systematically collected (2021-2025)
+Documentary evidence systematically collected (2022-2026)
 Evidence evaluated against clearly defined audit criteria
 Audit findings documented with objective evidence
 Audit conclusions reached based on findings
@@ -1176,7 +1176,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 
 ---
 
-**Audit Conducted:** 2021-2025  
+**Audit Conducted:** October 2025 - January 2026
 **Audit Lead:** Paul Rekaris, Independent Policy Researcher  
 **Audit Framework:** ISO 19011:2018 with ANAO and OSINT methodologies  
 **Audit Type:** External independent regulatory documentation-compliance audit  
