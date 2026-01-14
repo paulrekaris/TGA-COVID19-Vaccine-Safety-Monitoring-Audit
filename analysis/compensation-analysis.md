@@ -68,8 +68,6 @@ The TGA confirms investigating 148 signals and taking 57 documented actions whil
 
 ## Analysis and Implications
 
-## Analysis and Implications
-
 The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹⁶ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.¹⁷ However, TGA's refusal to release investigation findings from 148 safety signals and 57 regulatory actions³ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
 
 This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the scheme's 89.5% rejection rate, as doctors lack access to evidence that could strengthen their causation opinions.
