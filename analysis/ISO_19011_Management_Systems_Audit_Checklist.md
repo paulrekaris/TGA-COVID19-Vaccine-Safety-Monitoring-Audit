@@ -976,7 +976,7 @@ https://www.safetymattersblog.com/2013/05/high-reliability-organizations-and.htm
 55. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
 
 56. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
-(https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures)
+https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures
 ---
 
 ### Data Repositories
