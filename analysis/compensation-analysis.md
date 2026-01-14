@@ -6,7 +6,7 @@ Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (
 
 ## The Core Problem: Causation and Information Asymmetry
 
-The scheme requires claimants to demonstrate, on the balance of probabilities, a causal link between vaccination and injury. This is the primary point of failure. While the TGA collects extensive surveillance data and conducts signal investigations to assess population-level risks, this evidence remains inaccessible to individuals, who are left relying on personal medical records and temporal association alone.
+The scheme requires treating doctors to opine, on the balance of probabilities, that injury was caused by vaccination.¹⁶ This reliance on medical opinion creates challenges when doctors lack access to population-level evidence. While TGA collects extensive surveillance data and conducts signal investigations to assess population-level risks, this evidence remains inaccessible to treating practitioners forming causation opinions, who are left relying on individual medical records and temporal association alone.
 
 ## Quantitative Evidence
 
