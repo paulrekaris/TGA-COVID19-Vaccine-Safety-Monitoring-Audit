@@ -316,7 +316,7 @@ The question "Was the Plan implemented as operational accountability framework a
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
 **Related Documentation:** 
-- **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)**
+- **[Main Audit Report](/documentation-gap-analysis-audit-report.pdf)**
   
 - **[Compensation Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/compensation-analysis.md)**
 
