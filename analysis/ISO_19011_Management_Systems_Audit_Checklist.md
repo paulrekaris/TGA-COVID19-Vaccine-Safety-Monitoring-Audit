@@ -893,7 +893,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/products/covid-1
 
 **Academic and Technical Literature**
 
-29. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. https://doi.org/10.1016/j.vaccine.2021.07.059
+29. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. [https://doi.org/10.1016/j.vaccine.2021.07.059](https://www.sciencedirect.com/science/article/pii/S0264410X21009506?via%3Dihub)
 
 ---
 
