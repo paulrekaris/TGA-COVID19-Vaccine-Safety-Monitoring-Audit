@@ -869,7 +869,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescr
 
 20. Australian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
 
-21. Australian Government Department of Health. (2021, February 3). COVID-19 vaccine rollout announcement [Video]. https://www.health.gov.au/news/australian-covid-19-vaccination-policy
+21. Australian Government Department of Health. (2021, February 3). https://www.health.gov.au/news/australian-covid-19-vaccination-policy](https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy
 
 **FOI Evidence**
 
