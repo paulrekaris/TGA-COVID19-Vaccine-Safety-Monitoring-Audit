@@ -12,7 +12,7 @@
 > - **FOI 4029-03 (ACV Mtg 25) proves capacity: weekly PRR/MaxSPRT presented Sep 2021:** TGA presented Strategy 2.3 methodology materials to Advisory Committee on Vaccines (Sep 2021), demonstrating capacity to organise materials by Plan objectives—yet concurrent public reports contained zero Strategy 2.3 references
 > - **OAIC search excluded advisory body evidence:** Public reports exclude ACV governance evidence (FOI 4029-03, D21-3141615) despite TGA Sep 2024 search (531 containers) admitting Obj 5 "unable to meaningfully interpret" Advisory Committee containers where FOI 4029-03 exists—inadequate scope for Cabinet-endorsed policy verification
 > - **Third-party verification confirms gaps:** FOI 5275 (Aug 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval
-> - **Compensation barrier documented:** 148 signal investigations generated internal documentation but claimants cannot access this population-level evidence, contributing to 89.5% rejection rate among 4,962 lodged claims
+> - **Compensation barrier documented:** 148 signal investigations generated internal documentation inaccessible to treating doctors forming causation opinions, contributing to 89.5% rejection rate among 4,962 lodged claims
 > - **Six reports systematically selected:** ISO 19011 sampling methodology ensures representative coverage across phases (enhanced/transition/routine), frequencies (weekly/biweekly/fortnightly), and timeline (first through final)
 > - **Complete archive preserved:** All 150+ reports maintained in National Library of Australia Trove and Internet Archive Wayback Machine enabling independent verification
 > - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 20 outputs never tracked in public reports
@@ -25,7 +25,7 @@
 
 This analysis follows:
 - **ISO 19011:2018** - Guidelines for auditing management systems
-**ANAO *Reporting Meaningful Performance Information* (2023)**-Performance assessment principles
+- **ANAO *Reporting Meaningful Performance Information* (2023)** - Performance assessment principles
 - **ICH E2E** - Pharmacovigilance Planning (adopted by TGA)
 - **WHO/EMA GVP Module IX** - Signal Management principles
 
@@ -251,7 +251,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 | **System** | **Volume** | **Type** | **Plan Link** | **Public Trail** | **Claimant Access** |
 |------------|------------|----------|---------------|------------------|---------------------|
-| **DAEN** | 140,000+ reports | Passive spontaneous | No Output 2.2 reconciliation documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 9,500 rejected claimants |
+| **DAEN** | 140,000+ reports | Passive spontaneous | No Output 2.2 reconciliation documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 4,400 rejected/withdrawn claimants |
 | **AusVaxSafety** | 3M+ responses, 62K medical visits | Active proactive | No Output 2.1 linkage documented | Aggregate summaries only, no methodology | No individual case access |
 | **Safety Reports** | 150+ published (33 months) | Synthesis communication | Zero Plan references | No PRR/MaxSPRT outputs, no audit trails | Reassurance only, no signal validation |
 
