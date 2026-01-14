@@ -865,7 +865,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescr
 
 **Government Commitments and Policy Documents**
 
-19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-government-covid-19-vaccine-national-roll-out-strategy] https://www.health.gov.au/sites/default/files/documents/2021/01/covid-19-vaccination-australia-s-covid-19-vaccine-national-roll-out-strategy.pdf)
+19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/sites/default/files/documents/2021/01/covid-19-vaccination-australia-s-covid-19-vaccine-national-roll-out-strategy.pdf
 
 20. Australian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
 
