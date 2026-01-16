@@ -1,4 +1,32 @@
-- name: Export traffic data
+name: Export Traffic with Daily Summary and Email
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  export-traffic:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout traffic data repository
+      uses: actions/checkout@v3
+      with:
+        repository: paulrekaris/TGA-Audit-Traffic-Data
+        token: ${{ secrets.TRAFFIC_TOKEN }}
+        path: traffic-repo
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests pandas
+    
+    - name: Export traffic data
       working-directory: traffic-repo
       env:
         TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
@@ -11,7 +39,6 @@
         from datetime import datetime, timezone
         import re
 
-        # Configuration
         GITHUB_TOKEN = os.environ['TRAFFIC_TOKEN']
         REPO_OWNER = 'paulrekaris'
         REPO_NAME = 'TGA-COVID19-Vaccine-Safety-Monitoring-Audit'
@@ -22,7 +49,6 @@
             'Accept': 'application/vnd.github.v3+json'
         }
 
-        # Institutional domain patterns
         INSTITUTIONAL_DOMAINS = {
             'Australian Government': [
                 r'\.gov\.au$',
@@ -78,25 +104,18 @@
         }
 
         def categorize_referrer(referrer):
-            """Categorize a referrer by institutional type"""
             if not referrer or referrer == 'github.com':
                 return None
-            
             referrer_lower = referrer.lower()
-            
             for category, patterns in INSTITUTIONAL_DOMAINS.items():
                 for pattern in patterns:
                     if re.search(pattern, referrer_lower):
                         return category
-            
             return 'Other'
 
-        # Get current timestamp
         now = datetime.now(timezone.utc)
         date_str = now.strftime('%Y-%m-%d')
-        timestamp_str = now.strftime('%Y-%m-%d %H:%M UTC')
 
-        # Fetch traffic data
         print("Fetching traffic data...")
         clones_response = requests.get(f'{BASE_URL}/traffic/clones', headers=headers)
         views_response = requests.get(f'{BASE_URL}/traffic/views', headers=headers)
@@ -108,7 +127,6 @@
         referrers_data = referrers_response.json()
         paths_data = paths_response.json()
 
-        # Load or create CSVs
         try:
             clones_df = pd.read_csv('clones.csv')
             views_df = pd.read_csv('views.csv')
@@ -116,42 +134,32 @@
             clones_df = pd.DataFrame(columns=['date', 'total_clones', 'unique_cloners'])
             views_df = pd.DataFrame(columns=['date', 'total_views', 'unique_visitors'])
 
-        # Get today's totals
         today_clones_total = clones_data.get('count', 0)
         today_clones_unique = clones_data.get('uniques', 0)
         today_views_total = views_data.get('count', 0)
         today_views_unique = views_data.get('uniques', 0)
 
-        # Check if today's date already exists
         if date_str in clones_df['date'].values:
-            print(f"Data for {date_str} already exists. Exiting to prevent duplicates.")
+            print(f"Data for {date_str} already exists. Exiting.")
             exit(0)
 
-        # Calculate yesterday's activity (true daily delta)
         yesterday_clones = 0
         yesterday_unique_cloners = 0
         yesterday_views = 0
         yesterday_unique_visitors = 0
 
         if len(clones_df) > 0:
-            prev_clones_total = clones_df.iloc[-1]['total_clones']
-            prev_unique_cloners = clones_df.iloc[-1]['unique_cloners']
-            
             if 'clones' in clones_data and len(clones_data['clones']) > 0:
                 newest_day = clones_data['clones'][-1]
                 yesterday_clones = newest_day.get('count', 0)
                 yesterday_unique_cloners = newest_day.get('uniques', 0)
 
         if len(views_df) > 0:
-            prev_views_total = views_df.iloc[-1]['total_views']
-            prev_unique_visitors = views_df.iloc[-1]['unique_visitors']
-            
             if 'views' in views_data and len(views_data['views']) > 0:
                 newest_day = views_data['views'][-1]
                 yesterday_views = newest_day.get('count', 0)
                 yesterday_unique_visitors = newest_day.get('uniques', 0)
 
-        # Append new data
         new_clones_row = pd.DataFrame([{
             'date': date_str,
             'total_clones': today_clones_total,
@@ -166,11 +174,9 @@
         clones_df = pd.concat([clones_df, new_clones_row], ignore_index=True)
         views_df = pd.concat([views_df, new_views_row], ignore_index=True)
 
-        # Save CSVs
         clones_df.to_csv('clones.csv', index=False)
         views_df.to_csv('views.csv', index=False)
 
-        # Calculate 7-day averages for clones
         if len(clones_df) >= 8:
             last_7_clones = clones_df.tail(8)['total_clones'].diff().tail(7)
             avg_7day_clones = last_7_clones.mean()
@@ -180,7 +186,6 @@
             avg_7day_clones = 0
             avg_7day_unique_cloners = 0
 
-        # Calculate 14-day averages for clones
         if len(clones_df) >= 15:
             last_14_clones = clones_df.tail(15)['total_clones'].diff().tail(14)
             avg_14day_clones = last_14_clones.mean()
@@ -190,7 +195,6 @@
             avg_14day_clones = 0
             avg_14day_unique_cloners = 0
 
-        # Calculate 7-day averages for views
         if len(views_df) >= 8:
             last_7_views = views_df.tail(8)['total_views'].diff().tail(7)
             avg_7day_views = last_7_views.mean()
@@ -200,7 +204,6 @@
             avg_7day_views = 0
             avg_7day_unique_visitors = 0
 
-        # Calculate 14-day averages for views
         if len(views_df) >= 15:
             last_14_views = views_df.tail(15)['total_views'].diff().tail(14)
             avg_14day_views = last_14_views.mean()
@@ -210,14 +213,11 @@
             avg_14day_views = 0
             avg_14day_unique_visitors = 0
 
-        # Calculate all-time stats
         days_tracked = len(clones_df)
         total_clones_alltime = clones_df['total_clones'].iloc[-1] if len(clones_df) > 0 else 0
         avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
 
-        # Analyze institutional referrers
         institutional_referrers = {}
-        other_referrers = []
         
         if referrers_data and len(referrers_data) > 0:
             for ref in referrers_data:
@@ -229,10 +229,7 @@
                         'referrer': ref['referrer'],
                         'count': ref['count']
                     })
-                elif category == 'Other' and ref['referrer'] != 'github.com':
-                    other_referrers.append(ref)
 
-        # Format institutional referrers section
         institutional_text = ""
         if institutional_referrers:
             institutional_text = "INSTITUTIONAL TRAFFIC DETECTED\n"
@@ -244,7 +241,6 @@
         else:
             institutional_text = "INSTITUTIONAL TRAFFIC\n   No institutional domains detected in past 14 days\n\n"
 
-        # Format all referrers
         referrers_text = ""
         if referrers_data and len(referrers_data) > 0:
             for i, ref in enumerate(referrers_data[:6], 1):
@@ -252,7 +248,6 @@
         else:
             referrers_text = "   No external referrers in past 14 days\n"
 
-        # Format popular paths
         paths_text = ""
         if paths_data and len(paths_data) > 0:
             for i, path in enumerate(paths_data[:4], 1):
@@ -261,7 +256,6 @@
         else:
             paths_text = "   No path data available\n"
 
-        # Generate traffic commentary
         commentary = []
         
         if institutional_referrers:
@@ -269,9 +263,9 @@
             commentary.append(f"INSTITUTIONAL ATTENTION: {categories}")
         
         if avg_7day_clones > avg_14day_clones * 1.2:
-            commentary.append("Clone activity accelerating (7-day avg significantly above 14-day)")
+            commentary.append("Clone activity accelerating")
         elif avg_7day_clones < avg_14day_clones * 0.8:
-            commentary.append("Clone activity declining (7-day avg below 14-day)")
+            commentary.append("Clone activity declining")
         else:
             commentary.append("Clone activity stable")
         
@@ -289,16 +283,15 @@
             elif clone_to_view_ratio > 5:
                 commentary.append("High clone-to-view ratio (serious research interest)")
             else:
-                commentary.append("Normal clone-to-view ratio (browsing activity)")
+                commentary.append("Normal clone-to-view ratio")
         
         commentary_text = "\n   ".join(commentary)
 
-        # Generate summary
-        separator = "----------------------------------------------------------------------"
-        summary = f"""{separator}
+        sep = "----------------------------------------------------------------------"
+        summary = f"""{sep}
 TGA AUDIT TRAFFIC SUMMARY
 {now.strftime('%A, %d %B %Y')}
-{separator}
+{sep}
 
 YESTERDAY'S ACTIVITY
    {yesterday_clones} clones ({yesterday_unique_cloners} unique)
@@ -319,7 +312,7 @@ TRAFFIC COMMENTARY
 {referrers_text}
 MOST VIEWED CONTENT
 {paths_text}
-{separator}
+{sep}
 
 14-DAY WINDOW (Rolling)
    Total clones: {today_clones_total:,} | Unique: {today_clones_unique}
@@ -331,13 +324,12 @@ All-Time Stats (since tracking began)
    Total clones recorded: {total_clones_alltime:,}
    Average daily clones: {avg_daily_clones:.1f}
 
-{separator}
+{sep}
 Manual checks:
 Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic
 Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
 """
 
-        # Save summary
         with open('LATEST_SUMMARY.txt', 'w') as f:
             f.write(summary)
 
@@ -345,13 +337,11 @@ Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
         with open(f'daily-summaries/summary_{date_str}.txt', 'w') as f:
             f.write(summary)
 
-        # Save institutional referrers log
         if institutional_referrers:
             os.makedirs('institutional-logs', exist_ok=True)
             with open(f'institutional-logs/institutional_{date_str}.json', 'w') as f:
                 json.dump(institutional_referrers, f, indent=2)
 
-        # Save JSON backups
         os.makedirs('json-backups', exist_ok=True)
         with open(f'json-backups/clones_{date_str}.json', 'w') as f:
             json.dump(clones_data, f, indent=2)
@@ -364,3 +354,24 @@ Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
         print(summary)
         EXPORT_SCRIPT
         python export.py
+    
+    - name: Commit and push changes
+      working-directory: traffic-repo
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add .
+        git commit -m "Update traffic data" || echo "No changes to commit"
+        git push
+    
+    - name: Send email with summary
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: TGA Audit Traffic Summary
+        to: prekas23@gmail.com
+        from: GitHub Traffic Monitor <prekas23@gmail.com>
+        body: file://traffic-repo/LATEST_SUMMARY.txt
