@@ -288,47 +288,51 @@ jobs:
         commentary_text = "\n   ".join(commentary)
 
         sep = "----------------------------------------------------------------------"
-        summary = f"""{sep}
-TGA AUDIT TRAFFIC SUMMARY
-{now.strftime('%A, %d %B %Y')}
-{sep}
-
-YESTERDAY'S ACTIVITY
-   {yesterday_clones} clones ({yesterday_unique_cloners} unique)
-   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)
-
-CLONE TRENDS
-   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)
-   14-day average: {avg_14day_clones:.1f} clones/day ({avg_14day_unique_cloners:.1f} unique)
-
-VIEW TRENDS
-   7-day average: {avg_7day_views:.1f} views/day ({avg_7day_unique_visitors:.1f} unique)
-   14-day average: {avg_14day_views:.1f} views/day ({avg_14day_unique_visitors:.1f} unique)
-
-TRAFFIC COMMENTARY
-   {commentary_text}
-
-{institutional_text}ALL TRAFFIC SOURCES (Top 6)
-{referrers_text}
-MOST VIEWED CONTENT
-{paths_text}
-{sep}
-
-14-DAY WINDOW (Rolling)
-   Total clones: {today_clones_total:,} | Unique: {today_clones_unique}
-   Total views: {today_views_total:,} | Unique: {today_views_unique}
-   Note: Window shifts daily - represents last 14 days
-
-All-Time Stats (since tracking began)
-   Days tracked: {days_tracked}
-   Total clones recorded: {total_clones_alltime:,}
-   Average daily clones: {avg_daily_clones:.1f}
-
-{sep}
-Manual checks:
-Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic
-Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
-"""
+        
+        summary_parts = []
+        summary_parts.append(sep)
+        summary_parts.append("TGA AUDIT TRAFFIC SUMMARY")
+        summary_parts.append(now.strftime('%A, %d %B %Y'))
+        summary_parts.append(sep)
+        summary_parts.append("")
+        summary_parts.append("YESTERDAY'S ACTIVITY")
+        summary_parts.append(f"   {yesterday_clones} clones ({yesterday_unique_cloners} unique)")
+        summary_parts.append(f"   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)")
+        summary_parts.append("")
+        summary_parts.append("CLONE TRENDS")
+        summary_parts.append(f"   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)")
+        summary_parts.append(f"   14-day average: {avg_14day_clones:.1f} clones/day ({avg_14day_unique_cloners:.1f} unique)")
+        summary_parts.append("")
+        summary_parts.append("VIEW TRENDS")
+        summary_parts.append(f"   7-day average: {avg_7day_views:.1f} views/day ({avg_7day_unique_visitors:.1f} unique)")
+        summary_parts.append(f"   14-day average: {avg_14day_views:.1f} views/day ({avg_14day_unique_visitors:.1f} unique)")
+        summary_parts.append("")
+        summary_parts.append("TRAFFIC COMMENTARY")
+        summary_parts.append(f"   {commentary_text}")
+        summary_parts.append("")
+        summary_parts.append(institutional_text.rstrip())
+        summary_parts.append("ALL TRAFFIC SOURCES (Top 6)")
+        summary_parts.append(referrers_text.rstrip())
+        summary_parts.append("MOST VIEWED CONTENT")
+        summary_parts.append(paths_text.rstrip())
+        summary_parts.append(sep)
+        summary_parts.append("")
+        summary_parts.append("14-DAY WINDOW (Rolling)")
+        summary_parts.append(f"   Total clones: {today_clones_total:,} | Unique: {today_clones_unique}")
+        summary_parts.append(f"   Total views: {today_views_total:,} | Unique: {today_views_unique}")
+        summary_parts.append("   Note: Window shifts daily - represents last 14 days")
+        summary_parts.append("")
+        summary_parts.append("All-Time Stats (since tracking began)")
+        summary_parts.append(f"   Days tracked: {days_tracked}")
+        summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,}")
+        summary_parts.append(f"   Average daily clones: {avg_daily_clones:.1f}")
+        summary_parts.append("")
+        summary_parts.append(sep)
+        summary_parts.append("Manual checks:")
+        summary_parts.append(f"Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic")
+        summary_parts.append("Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data")
+        
+        summary = "\n".join(summary_parts)
 
         with open('LATEST_SUMMARY.txt', 'w') as f:
             f.write(summary)
