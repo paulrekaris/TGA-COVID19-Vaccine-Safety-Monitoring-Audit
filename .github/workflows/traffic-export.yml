@@ -37,6 +37,7 @@ jobs:
         import os
         import pandas as pd
         from datetime import datetime, timezone
+        import re
 
         # Configuration
         GITHUB_TOKEN = os.environ['TRAFFIC_TOKEN']
@@ -48,6 +49,75 @@ jobs:
             'Authorization': f'token {GITHUB_TOKEN}',
             'Accept': 'application/vnd.github.v3+json'
         }
+
+        # Institutional domain patterns
+        INSTITUTIONAL_DOMAINS = {
+            'Australian Government': [
+                r'\.gov\.au$',
+                r'aph\.gov\.au',
+                r'parliament\.vic\.gov\.au',
+                r'parliament\.nsw\.gov\.au',
+                r'parliament\.qld\.gov\.au',
+                r'parliament\.wa\.gov\.au',
+                r'parliament\.sa\.gov\.au',
+                r'parliament\.tas\.gov\.au',
+                r'parliament\.nt\.gov\.au',
+                r'parliament\.act\.gov\.au'
+            ],
+            'Oversight Bodies': [
+                r'ombudsman',
+                r'oaic\.gov\.au',
+                r'humanrights\.gov\.au',
+                r'audit',
+                r'integrity'
+            ],
+            'Academic': [
+                r'\.edu\.au$',
+                r'\.ac\.uk$',
+                r'\.edu$',
+                r'\.ac\.nz$',
+                r'university',
+                r'uni\.',
+                r'\.edu\.sg$'
+            ],
+            'Major Media': [
+                r'abc\.net\.au',
+                r'theguardian\.com',
+                r'smh\.com\.au',
+                r'theage\.com\.au',
+                r'news\.com\.au',
+                r'reuters\.com',
+                r'afr\.com',
+                r'crikey\.com\.au',
+                r'theconversation\.com',
+                r'bbc\.co\.uk',
+                r'nytimes\.com',
+                r'washingtonpost\.com'
+            ],
+            'Health/Medical': [
+                r'tga\.gov\.au',
+                r'health\.gov\.au',
+                r'who\.int',
+                r'nih\.gov',
+                r'bma\.org',
+                r'ama\.com\.au',
+                r'racgp\.org\.au'
+            ]
+        }
+
+        def categorize_referrer(referrer):
+            """Categorize a referrer by institutional type"""
+            if not referrer or referrer == 'github.com':
+                return None
+            
+            referrer_lower = referrer.lower()
+            
+            for category, patterns in INSTITUTIONAL_DOMAINS.items():
+                for pattern in patterns:
+                    if re.search(pattern, referrer_lower):
+                        return category
+            
+            return 'Other'
 
         # Get current timestamp
         now = datetime.now(timezone.utc)
@@ -130,23 +200,84 @@ jobs:
         clones_df.to_csv('clones.csv', index=False)
         views_df.to_csv('views.csv', index=False)
 
-        # Calculate 7-day averages
-        if len(clones_df) >= 7:
-            avg_7day_clones = clones_df.tail(7)['total_clones'].diff().mean()
-            avg_7day_unique = clones_df.tail(7)['unique_cloners'].diff().mean()
+        # Calculate 7-day averages for clones
+        if len(clones_df) >= 8:
+            last_7_clones = clones_df.tail(8)['total_clones'].diff().tail(7)
+            avg_7day_clones = last_7_clones.mean()
+            last_7_unique = clones_df.tail(8)['unique_cloners'].diff().tail(7)
+            avg_7day_unique_cloners = last_7_unique.mean()
         else:
-            avg_7day_clones = clones_df['total_clones'].mean() if len(clones_df) > 0 else 0
-            avg_7day_unique = clones_df['unique_cloners'].mean() if len(clones_df) > 0 else 0
+            avg_7day_clones = 0
+            avg_7day_unique_cloners = 0
+
+        # Calculate 14-day averages for clones
+        if len(clones_df) >= 15:
+            last_14_clones = clones_df.tail(15)['total_clones'].diff().tail(14)
+            avg_14day_clones = last_14_clones.mean()
+            last_14_unique = clones_df.tail(15)['unique_cloners'].diff().tail(14)
+            avg_14day_unique_cloners = last_14_unique.mean()
+        else:
+            avg_14day_clones = 0
+            avg_14day_unique_cloners = 0
+
+        # Calculate 7-day averages for views
+        if len(views_df) >= 8:
+            last_7_views = views_df.tail(8)['total_views'].diff().tail(7)
+            avg_7day_views = last_7_views.mean()
+            last_7_visitors = views_df.tail(8)['unique_visitors'].diff().tail(7)
+            avg_7day_unique_visitors = last_7_visitors.mean()
+        else:
+            avg_7day_views = 0
+            avg_7day_unique_visitors = 0
+
+        # Calculate 14-day averages for views
+        if len(views_df) >= 15:
+            last_14_views = views_df.tail(15)['total_views'].diff().tail(14)
+            avg_14day_views = last_14_views.mean()
+            last_14_visitors = views_df.tail(15)['unique_visitors'].diff().tail(14)
+            avg_14day_unique_visitors = last_14_visitors.mean()
+        else:
+            avg_14day_views = 0
+            avg_14day_unique_visitors = 0
 
         # Calculate all-time stats
         days_tracked = len(clones_df)
         total_clones_alltime = clones_df['total_clones'].iloc[-1] if len(clones_df) > 0 else 0
         avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
 
-        # Format referrers
+        # Analyze institutional referrers
+        institutional_referrers = {}
+        other_referrers = []
+        
+        if referrers_data and len(referrers_data) > 0:
+            for ref in referrers_data:
+                category = categorize_referrer(ref['referrer'])
+                if category and category != 'Other':
+                    if category not in institutional_referrers:
+                        institutional_referrers[category] = []
+                    institutional_referrers[category].append({
+                        'referrer': ref['referrer'],
+                        'count': ref['count']
+                    })
+                elif category == 'Other' and ref['referrer'] != 'github.com':
+                    other_referrers.append(ref)
+
+        # Format institutional referrers section
+        institutional_text = ""
+        if institutional_referrers:
+            institutional_text = "🎯 INSTITUTIONAL TRAFFIC DETECTED\n"
+            for category, refs in institutional_referrers.items():
+                institutional_text += f"\n   {category}:\n"
+                for ref in refs:
+                    institutional_text += f"      • {ref['referrer']} ({ref['count']} views)\n"
+            institutional_text += "\n"
+        else:
+            institutional_text = "🎯 INSTITUTIONAL TRAFFIC\n   No institutional domains detected in past 14 days\n\n"
+
+        # Format all referrers
         referrers_text = ""
         if referrers_data and len(referrers_data) > 0:
-            for i, ref in enumerate(referrers_data[:4], 1):
+            for i, ref in enumerate(referrers_data[:6], 1):
                 referrers_text += f"   {i}. {ref['referrer']} ({ref['count']} views)\n"
         else:
             referrers_text = "   No external referrers in past 14 days\n"
@@ -160,41 +291,84 @@ jobs:
         else:
             paths_text = "   No path data available\n"
 
+        # Generate traffic commentary
+        commentary = []
+        
+        # Institutional attention flag
+        if institutional_referrers:
+            categories = ', '.join(institutional_referrers.keys())
+            commentary.append(f"🔔 INSTITUTIONAL ATTENTION: {categories}")
+        
+        # Clone trends
+        if avg_7day_clones > avg_14day_clones * 1.2:
+            commentary.append("📈 Clone activity accelerating (7-day avg significantly above 14-day)")
+        elif avg_7day_clones < avg_14day_clones * 0.8:
+            commentary.append("📉 Clone activity declining (7-day avg below 14-day)")
+        else:
+            commentary.append("➡️  Clone activity stable")
+        
+        # View trends
+        if avg_7day_views > avg_14day_views * 1.2:
+            commentary.append("📈 View activity increasing")
+        elif avg_7day_views < avg_14day_views * 0.8:
+            commentary.append("📉 View activity declining")
+        else:
+            commentary.append("➡️  View activity stable")
+        
+        # Engagement ratio
+        if today_views_unique > 0:
+            clone_to_view_ratio = today_clones_unique / today_views_unique
+            if clone_to_view_ratio > 20:
+                commentary.append("⚠️  Very high clone-to-view ratio (possible bot activity)")
+            elif clone_to_view_ratio > 5:
+                commentary.append("🔍 High clone-to-view ratio (serious research interest)")
+            else:
+                commentary.append("👁️  Normal clone-to-view ratio (browsing activity)")
+        
+        commentary_text = "\n   ".join(commentary)
+
         # Generate summary
-        summary = f"""━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        TGA AUDIT TRAFFIC SUMMARY
-        {now.strftime('%A, %d %B %Y')}
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        summary = f"""----------------------------------------------------------------------
+TGA AUDIT TRAFFIC SUMMARY
+{now.strftime('%A, %d %B %Y')}
+----------------------------------------------------------------------
 
-        📊 YESTERDAY'S ACTIVITY
-           {yesterday_clones} clones ({yesterday_unique_cloners} unique)
-           {yesterday_views} views ({yesterday_unique_visitors} unique visitors)
+📊 YESTERDAY'S ACTIVITY
+   {yesterday_clones} clones ({yesterday_unique_cloners} unique)
+   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)
 
-        📈 TRENDS (7-day average)
-           Daily clones: {avg_7day_clones:.1f}
-           Daily unique cloners: {avg_7day_unique:.1f}
+📈 CLONE TRENDS
+   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)
+   14-day average: {avg_14day_clones:.1f} clones/day ({avg_14day_unique_cloners:.1f} unique)
 
-        🔗 TOP TRAFFIC SOURCES
-        {referrers_text}
-        📄 MOST VIEWED CONTENT
-        {paths_text}
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📈 VIEW TRENDS
+   7-day average: {avg_7day_views:.1f} views/day ({avg_7day_unique_visitors:.1f} unique)
+   14-day average: {avg_14day_views:.1f} views/day ({avg_14day_unique_visitors:.1f} unique)
 
-        14-DAY WINDOW (Rolling)
-           Total clones: {today_clones_total:,} | Unique: {today_clones_unique}
-           Total views: {today_views_total:,} | Unique: {today_views_unique}
-           Note: Window shifts daily - represents last 14 days
+💬 TRAFFIC COMMENTARY
+   {commentary_text}
 
-        All-Time Stats (since tracking began)
-           Days tracked: {days_tracked}
-           Total clones recorded: {total_clones_alltime:,}
-           Average daily clones: {avg_daily_clones:.1f}
+{institutional_text}🔗 ALL TRAFFIC SOURCES (Top 6)
+{referrers_text}
+📄 MOST VIEWED CONTENT
+{paths_text}
+----------------------------------------------------------------------
 
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-        Manual checks:
-        Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic
-        Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
-        """
+14-DAY WINDOW (Rolling)
+   Total clones: {today_clones_total:,} | Unique: {today_clones_unique}
+   Total views: {today_views_total:,} | Unique: {today_views_unique}
+   Note: Window shifts daily - represents last 14 days
+
+All-Time Stats (since tracking began)
+   Days tracked: {days_tracked}
+   Total clones recorded: {total_clones_alltime:,}
+   Average daily clones: {avg_daily_clones:.1f}
+
+----------------------------------------------------------------------
+Manual checks:
+Referring sites: https://github.com/{REPO_OWNER}/{REPO_NAME}/graphs/traffic
+Full data: https://github.com/paulrekaris/TGA-Audit-Traffic-Data
+"""
 
         # Save summary
         with open('LATEST_SUMMARY.txt', 'w') as f:
@@ -204,12 +378,20 @@ jobs:
         with open(f'daily-summaries/summary_{date_str}.txt', 'w') as f:
             f.write(summary)
 
+        # Save institutional referrers log
+        if institutional_referrers:
+            os.makedirs('institutional-logs', exist_ok=True)
+            with open(f'institutional-logs/institutional_{date_str}.json', 'w') as f:
+                json.dump(institutional_referrers, f, indent=2)
+
         # Save JSON backups
         os.makedirs('json-backups', exist_ok=True)
         with open(f'json-backups/clones_{date_str}.json', 'w') as f:
             json.dump(clones_data, f, indent=2)
         with open(f'json-backups/views_{date_str}.json', 'w') as f:
             json.dump(views_data, f, indent=2)
+        with open(f'json-backups/referrers_{date_str}.json', 'w') as f:
+            json.dump(referrers_data, f, indent=2)
 
         print("Traffic data exported successfully!")
         print(summary)
@@ -235,4 +417,4 @@ jobs:
         subject: TGA Audit Traffic Summary - ${{ github.event.repository.updated_at }}
         to: prekas23@gmail.com
         from: GitHub Traffic Monitor <prekas23@gmail.com>
-        body: file://traffic-repo/LATEST_SUMMARY.txt 
+        body: file://traffic-repo/LATEST_SUMMARY.txt
