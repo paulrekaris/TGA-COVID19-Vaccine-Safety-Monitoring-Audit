@@ -817,14 +817,12 @@ References to named individuals reflect standard documentation practices, citing
 
 ## Contact
 
-For enquiries regarding:
+For enquiries regarding peer review, methodology, evidence corrections, collaboration, or media enquiries:
 
-- Peer review and methodology  
-- Error reporting or evidence corrections  
-- Collaboration on regulatory-transparency research  
-- Media enquiries  
+**Email:** rekasp@protonmail.com  
+**Latest News and Updates:** [@prekas23 on X/Twitter](https://x.com/prekas23)
 
-**Email:** rekasp@protonmail.com
+**Author ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
 
 -----
 
