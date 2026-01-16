@@ -1,20 +1,6 @@
 <meta name="google-site-verification" content="accBHGsn9AYGYutJRutuQ4WUHlpMyp05biSpmUM2RtE" />
 
----
 
-## **MAKE SURE:**
-
-**Remove the old `Apib7-...` tag completely!**
-
-**Your README should have:**
-- ✅ ONE meta tag with `accBHGsn9AYGYutJRutuQ4WUHlpMyp05biSpmUM2RtE`
-- ❌ NO tag with `Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I`
-
----
-
-## **COMMIT MESSAGE:**
-```
-Remove duplicate Google verification tag
 # TGA COVID-19 Vaccine Safety Monitoring Audit
 
 # Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
