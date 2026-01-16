@@ -121,18 +121,26 @@ jobs:
         views_response = requests.get(f'{BASE_URL}/traffic/views', headers=headers)
         referrers_response = requests.get(f'{BASE_URL}/traffic/popular/referrers', headers=headers)
         paths_response = requests.get(f'{BASE_URL}/traffic/popular/paths', headers=headers)
+        repo_response = requests.get(BASE_URL, headers=headers)
 
         clones_data = clones_response.json()
         views_data = views_response.json()
         referrers_data = referrers_response.json()
         paths_data = paths_response.json()
+        repo_data = repo_response.json()
+
+        stars_count = repo_data.get('stargazers_count', 0)
+        forks_count = repo_data.get('forks_count', 0)
+        watchers_count = repo_data.get('subscribers_count', 0)
 
         try:
             clones_df = pd.read_csv('clones.csv')
             views_df = pd.read_csv('views.csv')
+            engagement_df = pd.read_csv('engagement.csv')
         except FileNotFoundError:
             clones_df = pd.DataFrame(columns=['date', 'total_clones', 'unique_cloners'])
             views_df = pd.DataFrame(columns=['date', 'total_views', 'unique_visitors'])
+            engagement_df = pd.DataFrame(columns=['date', 'stars', 'forks', 'watchers'])
 
         today_clones_total = clones_data.get('count', 0)
         today_clones_unique = clones_data.get('uniques', 0)
@@ -160,6 +168,14 @@ jobs:
                 yesterday_views = newest_day.get('count', 0)
                 yesterday_unique_visitors = newest_day.get('uniques', 0)
 
+        prev_stars = engagement_df['stars'].iloc[-1] if len(engagement_df) > 0 else 0
+        prev_forks = engagement_df['forks'].iloc[-1] if len(engagement_df) > 0 else 0
+        prev_watchers = engagement_df['watchers'].iloc[-1] if len(engagement_df) > 0 else 0
+
+        new_stars = stars_count - prev_stars
+        new_forks = forks_count - prev_forks
+        new_watchers = watchers_count - prev_watchers
+
         new_clones_row = pd.DataFrame([{
             'date': date_str,
             'total_clones': today_clones_total,
@@ -170,12 +186,20 @@ jobs:
             'total_views': today_views_total,
             'unique_visitors': today_views_unique
         }])
+        new_engagement_row = pd.DataFrame([{
+            'date': date_str,
+            'stars': stars_count,
+            'forks': forks_count,
+            'watchers': watchers_count
+        }])
 
         clones_df = pd.concat([clones_df, new_clones_row], ignore_index=True)
         views_df = pd.concat([views_df, new_views_row], ignore_index=True)
+        engagement_df = pd.concat([engagement_df, new_engagement_row], ignore_index=True)
 
         clones_df.to_csv('clones.csv', index=False)
         views_df.to_csv('views.csv', index=False)
+        engagement_df.to_csv('engagement.csv', index=False)
 
         if len(clones_df) >= 8:
             last_7_clones = clones_df.tail(8)['total_clones'].diff().tail(7)
@@ -256,11 +280,25 @@ jobs:
         else:
             paths_text = "   No path data available\n"
 
+        engagement_text = ""
+        if new_stars > 0 or new_forks > 0 or new_watchers > 0:
+            engagement_text = "REPOSITORY ENGAGEMENT (New in last 24h)\n"
+            if new_stars > 0:
+                engagement_text += f"   +{new_stars} new stars (total: {stars_count})\n"
+            if new_forks > 0:
+                engagement_text += f"   +{new_forks} new forks (total: {forks_count})\n"
+            if new_watchers > 0:
+                engagement_text += f"   +{new_watchers} new watchers (total: {watchers_count})\n"
+            engagement_text += "\n"
+
         commentary = []
         
         if institutional_referrers:
             categories = ', '.join(institutional_referrers.keys())
             commentary.append(f"INSTITUTIONAL ATTENTION: {categories}")
+        
+        if new_stars > 0 or new_forks > 0:
+            commentary.append(f"ENGAGEMENT ALERT: New stars/forks detected")
         
         if avg_7day_clones > avg_14day_clones * 1.2:
             commentary.append("Clone activity accelerating")
@@ -299,6 +337,8 @@ jobs:
         summary_parts.append(f"   {yesterday_clones} clones ({yesterday_unique_cloners} unique)")
         summary_parts.append(f"   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)")
         summary_parts.append("")
+        if engagement_text:
+            summary_parts.append(engagement_text.rstrip())
         summary_parts.append("CLONE TRENDS")
         summary_parts.append(f"   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)")
         summary_parts.append(f"   14-day average: {avg_14day_clones:.1f} clones/day ({avg_14day_unique_cloners:.1f} unique)")
@@ -321,6 +361,9 @@ jobs:
         summary_parts.append(f"   Total clones: {today_clones_total:,} | Unique: {today_clones_unique}")
         summary_parts.append(f"   Total views: {today_views_total:,} | Unique: {today_views_unique}")
         summary_parts.append("   Note: Window shifts daily - represents last 14 days")
+        summary_parts.append("")
+        summary_parts.append("Repository Engagement")
+        summary_parts.append(f"   Stars: {stars_count} | Forks: {forks_count} | Watchers: {watchers_count}")
         summary_parts.append("")
         summary_parts.append("All-Time Stats (since tracking began)")
         summary_parts.append(f"   Days tracked: {days_tracked}")
