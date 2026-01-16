@@ -2,7 +2,6 @@
 
 ---
 
-
 # TGA COVID-19 Vaccine Safety Monitoring Audit
 
 # Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
