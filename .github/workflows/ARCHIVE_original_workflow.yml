@@ -2,8 +2,8 @@ name: Export Traffic with Daily Summary and Email
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 21:00 UTC = 8:00 AM AEDT (summer) / 7:00 AM AEST (winter)
-  workflow_dispatch:  # Manual trigger
+    - cron: '0 21 * * *'
+  workflow_dispatch:
 
 jobs:
   export-traffic:
