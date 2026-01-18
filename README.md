@@ -771,7 +771,6 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 
 **Author ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)
 [CITATION.cff](CITATION.cff)
 
 
