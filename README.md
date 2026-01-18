@@ -826,7 +826,7 @@ For enquiries regarding peer review, methodology, evidence corrections, collabor
 **Email:** rekasp@protonmail.com  
 **Latest News and Updates:** [@prekas23 on X](https://x.com/prekas23)
 
-**Author ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
+**Author ORCID:**![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)[0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
 
 -----
 
