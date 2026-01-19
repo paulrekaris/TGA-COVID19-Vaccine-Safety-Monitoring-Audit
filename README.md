@@ -651,7 +651,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 **Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 
-**Note:** Orphaned hyperlink from log entry (Jan 2026); PDF accessible via direct/archive links. Listed in TGA FOI Disclosure Log (26 Jul 2024).
+**Note:** Hyperlink from log entry (26 July 2024); PDF accessible via direct/archive links.
 
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
