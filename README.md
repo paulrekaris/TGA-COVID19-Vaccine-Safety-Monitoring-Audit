@@ -744,16 +744,20 @@ The comprehensive audit report includes:
 
 ### Open Access Framework
 
-This audit employs green open access methodology (Suber, 2012)¹ to ensure 
-maximum transparency and public accountability. All evidence, analysis, and 
-findings are published through GitHub with Zenodo DOIs, enabling:
+This work is open access by design: all sources, methods, reasoning, and 
+revisions are publicly available, reusable, and challengeable without restriction.
+
+The audit is disseminated via a green open access pathway (Suber, 2012), with 
+all materials self-archived through GitHub (version control), Zenodo (persistent 
+DOIs), and Arweave (immutable backup). This ensures:
 
 - Independent verification of all claims
-- Reproducible research methods  
-- Permanent public access (Arweave backup)
-- No barriers to public scrutiny
+- Reproducible and inspectable research methods
+- Permanent public accessibility
+- No barriers to scrutiny or reuse
 
-This approach aligns regulatory accountability work with open science principles.
+This approach aligns regulatory accountability work with open science principles 
+of transparency and reproducibility.
 
 **References:**
 
