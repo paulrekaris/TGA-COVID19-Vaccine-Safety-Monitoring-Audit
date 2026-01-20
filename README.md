@@ -756,8 +756,9 @@ DOIs), and Arweave (immutable backup). This ensures:
 - Permanent public accessibility
 - No barriers to scrutiny or reuse
 
-This approach aligns regulatory accountability work with open science principles 
-of transparency and reproducibility.
+This approach aligns regulatory accountability work with open science principles: 
+all findings are transparent, reproducible, and falsifiable through independent 
+verification.
 
 **References:**
 
