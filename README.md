@@ -79,6 +79,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Main Assessment Report](#main-assessment-report)
   - [Supporting Documentation](#supporting-documentation)
 - [Licence and Citation](#licence-and-citation)
+  - [Open Access Framework](#open-access-framework)
   - [Licence](#licence)
   - [Citation](#citation)
 - [Disclaimer and Declaration](#disclaimer-and-declaration)
@@ -740,6 +741,27 @@ The comprehensive audit report includes:
     <https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing>
 
 ## Licence and Citation
+
+### Open Access Framework
+
+This audit employs green open access methodology (Suber, 2012)¹ to ensure 
+maximum transparency and public accountability. All evidence, analysis, and 
+findings are published through GitHub with Zenodo DOIs, enabling:
+
+- Independent verification of all claims
+- Reproducible research methods  
+- Permanent public access (Arweave backup)
+- No barriers to public scrutiny
+
+This approach aligns regulatory accountability work with open science principles.
+
+**References:**
+
+¹ Suber, P. (2012). *Open Access*. MIT Press. Chapter 10: Self-Help. 
+https://cyber.harvard.edu/hoap/Open_Access_(the_book)
+
+² Suber, P. How to make your own work open access. Harvard Open Access Project. 
+https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access
 
 ### Licence
 
