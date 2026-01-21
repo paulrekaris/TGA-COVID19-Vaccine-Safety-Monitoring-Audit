@@ -25,8 +25,8 @@ See also: [Open Access Framework](README.md#open-access-framework)
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from FOI releases, OAIC submissions, Senate Hansard, TGA publications, and official databases following IC tradecraft standards [ODNI, 2024](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf).
 - **Source verification**: Cross-referencing TGA statements across FOI responses, OAIC submissions, Senate testimony, and published reports to identify contradictions per OSINT evolution principles [Glassman & Kang, 2012](https://doi.org/10.1016/j.chb.2011.11.014).
-- **Transparent documentation**: Complete search methodology documented—FOI request scope, OAIC-directed searches, disclosure log analysis—following IC sourcing requirements [ODNI, 2024](https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf).
-- **Replicability**: Evidence collection process structured to enable oversight bodies to independently verify findings using identical FOI/OAIC/Senate sources.
+- **Transparent documentation**: Complete search methodology documented—FOI request scope, OAIC-directed searches, disclosure log analysis—following IC sourcing requirements [ODNI, 2024](https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf) and professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
+- **Replicability**: Evidence collection process structured to enable oversight bodies to independently verify findings using identical FOI/OAIC/Senate sources, following professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
 
 **Research Integrity Standards**
 - **Reproducibility**: Detailed changelogs document how findings evolved as TGA responses contradicted earlier positions—enabling reviewers to trace analytical development.
@@ -73,9 +73,10 @@ Open Access:
 - Suber, P. (n.d.). How to make your own work open access. Harvard Open Access Project. <https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access>
 
 OSINT Methodology:
+- Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). *Computers in Human Behavior*, 28(2), 673–682. <https://doi.org/10.1016/j.chb.2011.11.014>
 - Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*. <https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf>
 - Office of the Director of National Intelligence. (2024). *ICS 206-01: Sourcing Requirements for Disseminated Analytic Products (Publicly Available Information, Commercially Available Information, and Open Source Intelligence)*. <https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf>
-- Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). *Computers in Human Behavior*, 28(2), 673–682. <https://doi.org/10.1016/j.chb.2011.11.014>
+- OSINT Foundation. (2024). *Principles for OSINT Professionals*. <https://www.osintfoundation.com/osint/Standards.asp>
 
 Version Control Best Practices:
 - Vandervalk, O. (2017). Keep a Changelog. <https://keepachangelog.com/>
