@@ -569,6 +569,7 @@ TGA requires sponsors and manufacturers to demonstrate robust safety culture and
 ## Audit Methodology Conformance
 
 This audit was conducted in accordance with ISO 19011:2018 guidelines, applying systematic, evidence-based principles throughout. Methodology limitations (no on-site access, single auditor, FOI-dependent evidence) are explicitly acknowledged in the scope section and do not materially affect findings based on TGA's own testimony and independent oversight body determinations.
+
 ---
 
 ## Audit Performance Score
