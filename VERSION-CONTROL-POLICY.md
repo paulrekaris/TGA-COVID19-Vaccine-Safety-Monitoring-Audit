@@ -20,7 +20,7 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability for regulatory proceedings, academic citation, and parliamentary reference.
 - **Version transparency**: Full evolution of findings visible—showing how TGA FOI responses, OAIC reviews, and Senate testimony shaped analysis over four years.
 
-See also: [Open Access Framework](README.md#open-access-framework) in main README.
+See also:[Open Access Framework](README.md#open-access-framework)
 
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from FOI releases, OAIC submissions, Senate Hansard, TGA publications, and official databases following IC tradecraft standards [ODNI, 2024](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf).
