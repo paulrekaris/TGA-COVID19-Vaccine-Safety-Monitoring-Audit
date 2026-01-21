@@ -1,9 +1,9 @@
-## Version Control Policy
+# Version Control Policy
 
-### Purpose
+## Purpose
 This audit maintains detailed version history reflecting quality management, records management, and research transparency standards.
 
-### Guiding Standards
+## Guiding Standards
 
 **ISO 19011:2018 - Auditing Management Systems**
 - **Continuous improvement** (Principle 7): Documentation of corrections, enhancements, and evidence additions through iterative refinement based on new evidence and feedback.
@@ -33,7 +33,7 @@ See also: [Open Access Framework](README.md#open-access-framework) in main READM
 - **Falsifiability**: Version history creates permanent record that cannot be quietly altered—any revision attempt is publicly visible.
 - **Intellectual honesty**: Corrections (e.g., arithmetic errors) openly acknowledged rather than silently fixed.
 
-### Implementation
+## Implementation
 
 This audit employs comprehensive version control practices combining records management standards with OSINT investigative methodology:
 
@@ -46,7 +46,7 @@ This audit employs comprehensive version control practices combining records man
 
 **See:** [Complete Version History](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION-HISTORY.md)
 
-### Rationale
+## Rationale
 
 Institutional accountability research faces inherent power asymmetry—regulators control internal records while citizens rely on disclosed material. This audit applies transparency and records management standards to its own methodology, modelling the accountability expected of public institutions, while employing Open Source Intelligence principles to systematically gather and verify publicly available evidence.
 
@@ -60,7 +60,7 @@ Detailed version control combined with OSINT methodology serves multiple purpose
 
 Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering while meeting international standards for records integrity, audit quality, and investigative methodology.
 
-### References
+## References
 
 **International Standards:**
 - ISO 19011:2018 - Guidelines for auditing management systems. [International Organization for Standardization](https://www.iso.org/standard/70017.html).
