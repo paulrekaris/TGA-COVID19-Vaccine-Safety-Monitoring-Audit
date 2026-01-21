@@ -15,7 +15,7 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Availability**: Complete version history retrievable and understandable through GitHub and permanent archives.
 
 **Open Access Principles**
-- **Free accessibility**: All versions publicly available without paywalls or restrictions [Suber (2012)](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
+- **Free accessibility**: All versions publicly available without paywalls or restrictions [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
 - **Reusability**: Content licensed under CC BY 4.0 enabling adaptation and reuse with attribution.
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability and discoverability.
 - **Version transparency**: Full evolution of findings visible through open repositories rather than static publications.
