@@ -74,7 +74,7 @@ Open Access:
 
 OSINT Methodology:
 - Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). *Computers in Human Behavior*, 28(2), 673–682. <https://doi.org/10.1016/j.chb.2011.11.014>
-- Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*. <https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf>
+- Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*.<https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf>
 - Office of the Director of National Intelligence. (2024). *ICS 206-01: Sourcing Requirements for Disseminated Analytic Products (Publicly Available Information, Commercially Available Information, and Open Source Intelligence)*. <https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf>
 - OSINT Foundation. (2024). *Principles for OSINT Professionals*. <https://www.osintfoundation.com/osint/Standards.asp>
 
