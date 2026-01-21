@@ -78,8 +78,8 @@ This README contains the narrative executive summary and overview. Key findings 
 - [What's in This Repository](#whats-in-this-repository)
   - [Main Assessment Report](#main-assessment-report)
   - [Supporting Documentation](#supporting-documentation)
+- [Open Access Framework](#open-access-framework)
 - [Licence and Citation](#licence-and-citation)
-  - [Open Access Framework](#open-access-framework)
   - [Licence](#licence)
   - [Citation](#citation)
 - [Disclaimer and Declaration](#disclaimer-and-declaration)
@@ -740,9 +740,7 @@ The comprehensive audit report includes:
   - “Stairs to nowhere: TGA’s vanishing vaccine safety monitoring trail”  
     <https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing>
 
-## Licence and Citation
-
-### Open Access Framework
+## Open Access Framework
 
 This work is open access by design: all sources, methods, reasoning, and 
 revisions are publicly available, reusable, and challengeable without restriction.
@@ -767,6 +765,9 @@ https://cyber.harvard.edu/hoap/Open_Access_(the_book)
 
 ² Suber, P. How to make your own work open access. Harvard Open Access Project. 
 https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access
+
+
+## Licence and Citation
 
 ### Licence
 
