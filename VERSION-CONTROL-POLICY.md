@@ -15,7 +15,7 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Availability**: Complete version history retrievable and understandable through GitHub and permanent archives.
 
 **Open Access Principles**
-- **Free accessibility**: All versions publicly available without paywalls or restrictions (Suber, 2012).
+- **Free accessibility**: All versions publicly available without paywalls or restrictions [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
 - **Reusability**: Content licensed under CC BY 4.0 enabling adaptation and reuse with attribution.
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability and discoverability.
 - **Version transparency**: Full evolution of findings visible through open repositories rather than static publications.
@@ -23,10 +23,10 @@ This audit maintains detailed version history reflecting quality management, rec
 See also: [Open Access Framework](README.md#open-access-framework) in main README.
 
 **Open Source Intelligence (OSINT) Methodology**
-- **Systematic collection**: Structured evidence gathering from publicly available sources following established investigative protocols.
-- **Source verification**: Cross-referencing multiple independent sources to validate claims and identify contradictions.
-- **Transparent documentation**: Complete search methodology and source identification documented for independent replication.
-- **Replicability**: Evidence collection process structured to enable others to verify findings using identical methods.
+- **Systematic collection**: Structured evidence gathering from publicly available sources following IC tradecraft standards [ODNI, 2024](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf).
+- **Source verification**: Cross-referencing multiple independent sources to validate claims per OSINT evolution principles [Glassman & Kang, 2012](https://doi.org/10.1016/j.chb.2011.11.014).
+- **Transparent documentation**: Complete search methodology documented following professional standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
+- **Replicability**: Evidence process structured for replication using established protocols.
 
 **Research Integrity Standards**
 - **Reproducibility**: Detailed changelogs enable others to understand precisely what changed and why.
@@ -52,7 +52,7 @@ Institutional accountability research faces inherent power asymmetry—regulator
 
 Detailed version control combined with OSINT methodology serves multiple purposes:
 
-1. **Documents evolution**: Shows how findings developed as new evidence emerged through systematic OSINT collection, FOI processes, parliamentary testimony, and ongoing research, analysis and collaboration with experts
+1. **Documents evolution**: Shows how findings developed as new evidence emerged through systematic OSINT collection, FOI processes, parliamentary testimony, and ongoing research analysis and collaboration with experts
 2. **Prevents retrospective revision**: Creates immutable record of claims and their supporting evidence at each point in time
 3. **Demonstrates rigour**: Shows systematic, evidence-based OSINT methodology rather than predetermined conclusions
 4. **Enables verification**: Allows oversight bodies (ANAO, OAIC, Ombudsman, Parliament) and peer reviewers to examine both the audit's development and independently replicate the evidence gathering process
@@ -63,19 +63,21 @@ Version history combined with OSINT documentation enables accountability infrast
 ### References
 
 **International Standards:**
-- ISO 19011:2018 - Guidelines for auditing management systems. International Organization for Standardization.
-- ISO 15489-1:2016 - Information and documentation — Records management — Part 1: Concepts and principles. International Organization for Standardization.
+- ISO 19011:2018 - Guidelines for auditing management systems. [International Organization for Standardization](https://www.iso.org/standard/50675.html).
+- ISO 15489-1:2016 - Information and documentation — Records management — Part 1: Concepts and principles. [International Organization for Standardization](https://www.iso.org/standard/62542.html).
 
 **Open Access:**
-- Suber, P. (2012). *Open Access*. MIT Press. Chapter 10: Self-Help. https://cyber.harvard.edu/hoap/Open_Access_(the_book)
-- Suber, P. How to make your own work open access. Harvard Open Access Project. https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access
+- Suber, P. (2012). *Open Access*. MIT Press. Chapter 10: Self-Help. [https://cyber.harvard.edu/hoap/Open_Access_(the_book)](https://cyber.harvard.edu/hoap/Open_Access_(the_book))
+- Suber, P. How to make your own work open access. [Harvard Open Access Project](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
 
 **OSINT Methodology:**
-- Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
+- Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*. [https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf)
+- Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). *Computers in Human Behavior*, 28(2), 673-682. [https://doi.org/10.1016/j.chb.2011.11.014](https://doi.org/10.1016/j.chb.2011.11.014)
+- OSINT Foundation. (2024). *Principles for OSINT Professionals*. [https://www.osintfoundation.com/osint/Standards.asp](https://www.osintfoundation.com/osint/Standards.asp)
 
 **Version Control Best Practices:**
-- Vandervalk, O. (2017). Keep a Changelog. https://keepachangelog.com/
+- Vandervalk, O. (2017). [Keep a Changelog](https://keepachangelog.com/).
 
 **Research Transparency:**
-- Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422-1425. https://doi.org/10.1126/science.aab2374
-- Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). https://doi.org/10.1038/s41562-016-0021
+- Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422-1425. [https://doi.org/10.1126/science.aab2374](https://doi.org/10.1126/science.aab2374)
+- Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). [https://doi.org/10.1038/s41562-016-0021](https://doi.org/10.1038/s41562-016-0021)
