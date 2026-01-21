@@ -63,7 +63,7 @@ Version history combined with OSINT documentation enables accountability infrast
 ### References
 
 **International Standards:**
-- ISO 19011:2018 - Guidelines for auditing management systems. [International Organization for Standardization]([(https://www.iso.org/standard/70017.html)].
+- ISO 19011:2018 - Guidelines for auditing management systems. [International Organization for Standardization](https://www.iso.org/standard/70017.html).
 - ISO 15489-1:2016 - Information and documentation — Records management — Part 1: Concepts and principles. [International Organization for Standardization](https://www.iso.org/standard/62542.html).
 
 **Open Access:**
