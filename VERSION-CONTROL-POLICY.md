@@ -14,6 +14,14 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Accountability**: Clear responsibility for version changes with documented rationale.
 - **Availability**: Complete version history retrievable and understandable through GitHub and permanent archives.
 
+**Open Access Principles**
+- **Free accessibility**: All versions publicly available without paywalls or restrictions (Suber, 2012).
+- **Reusability**: Content licensed under CC BY 4.0 enabling adaptation and reuse with attribution.
+- **Persistent identifiers**: Zenodo DOIs ensure permanent citability and discoverability.
+- **Version transparency**: Full evolution of findings visible through open repositories rather than static publications.
+
+See also: [Open Access Framework](../README.md#open-access-framework) in main README.
+
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from publicly available sources following established investigative protocols.
 - **Source verification**: Cross-referencing multiple independent sources to validate claims and identify contradictions.
@@ -57,6 +65,10 @@ Version history combined with OSINT documentation enables accountability infrast
 **International Standards:**
 - ISO 19011:2018 - Guidelines for auditing management systems. International Organization for Standardization.
 - ISO 15489-1:2016 - Information and documentation — Records management — Part 1: Concepts and principles. International Organization for Standardization.
+
+**Open Access:**
+- Suber, P. (2012). *Open Access*. MIT Press. Chapter 10: Self-Help. https://cyber.harvard.edu/hoap/Open_Access_(the_book)
+- Suber, P. How to make your own work open access. Harvard Open Access Project. https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access
 
 **OSINT Methodology:**
 - Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
