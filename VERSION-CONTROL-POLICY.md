@@ -20,7 +20,7 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability and discoverability.
 - **Version transparency**: Full evolution of findings visible through open repositories rather than static publications.
 
-See also: [Open Access Framework](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md#open-access-framework) in main README.
+See also: [Open Access Framework](README.md#open-access-framework) in main README.
 
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from publicly available sources following established investigative protocols.
