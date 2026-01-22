@@ -671,7 +671,7 @@ The goal is accuracy and accountability, not advocacy. Correction improves both.
 
 ### Q36: Who am I?
 
-I'm a trained policy analyst and consultant with 30 years' professional experience across government, higher education and banking sectors. My background includes:
+I'm a professional policy analyst and consultant with 30 years' professional experience across government, higher education and banking sectors. My background includes:
 
 - Public policy development and analysis
 - Regulatory frameworks and compliance
