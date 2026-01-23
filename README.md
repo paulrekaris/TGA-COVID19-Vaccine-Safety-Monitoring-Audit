@@ -160,6 +160,14 @@ the Plan's "five key themes" as "essentially describ[ing] our
 day-to-day processes"—characterising monitoring as routine operations 
 rather than a distinct enhanced framework.
 
+**Search Methodology Note:** TGA's OAIC-directed searches (September 2024) 
+employed only 8 generic document-title terms ("Implementation of Plan", 
+"Audit Report"), missing output-specific terminology (signal detection, 
+AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary 
+(AEFI escalation, performance metrics, risk management). This audit employed 
+14 strategic terms targeting specific Plan outputs and pharmacovigilance 
+processes. [Detailed search methodology comparison](analysis/search-methodology-comparison.md)
+
 The documentation gap is established as a matter of official record, 
 confirmed through both administrative law proceedings and parliamentary 
 testimony.
