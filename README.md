@@ -603,6 +603,15 @@ Partial completion of activities without an implementation trail is rated "parti
 
 **Note:** This hierarchy assesses implementation proof; Section 9.4 of the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** assesses source reliability.
 
+**Search strategy:** This audit employed systematic keyword searches with 14 
+strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and 
+pharmacovigilance processes, documented in Appendix A.2.2 (pp. 77-78) of the 
+Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 
+generic document-title terms without output-specific or pharmacovigilance 
+vocabulary (TGA OAIC Submission, 20 September 2024, pp. 28-32). [Full search 
+methodology comparison](analysis/search-methodology-comparison.md)
+
+
 ## Evidence Sources
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
