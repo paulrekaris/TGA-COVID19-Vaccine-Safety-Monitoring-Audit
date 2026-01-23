@@ -276,4 +276,4 @@ The question of whether practical refusal provisions under s24(1)(b) can legitim
 **Document Type:** Supporting analysis   
 **Prepared:** 23 January 2026  
 **Author:** Paul Rekaris  
-**Status:** Reference material only. Not part of main audit assessment. Filed for information and potential future use in IC review submissions.
+**Status:** Reference material only. Not part of main audit assessment. 
