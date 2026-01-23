@@ -273,7 +273,7 @@ The question of whether practical refusal provisions under s24(1)(b) can legitim
 
 ---
 
-**Document Type:** Supporting analysis 
+**Document Type:** Supporting analysis   
 **Prepared:** 23 January 2026  
 **Author:** Paul Rekaris  
 **Status:** Filed for information and potential future use in IC review submissions
