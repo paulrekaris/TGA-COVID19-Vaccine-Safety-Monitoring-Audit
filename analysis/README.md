@@ -9,3 +9,4 @@ Main audit documents and supporting materials:
 - `surveillnace-analysis`
 - `tga_audit_one_page_flowchart.pdf`
 - `foi-systematic-review.md`
+- `compensation-analysis.md`
