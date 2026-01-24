@@ -68,6 +68,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Assessment Output Methodology](#assessment-output-methodology)
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
+- [Evidence Storage Approach](#evidence-storage-approach)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
   - [FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021)](#foi-5082-tga-vaccine-pharmacovigilance-system-20192021-released-26-july-2024)
 - [Limitations and Falsifiability](#limitations-and-falsifiability)
@@ -688,6 +689,12 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 **Critical evidentiary significance**
 
 FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain zero evidence of Safety Plan integration or compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
+
+### Evidence Storage and Research Standards
+
+This repository follows open research principles by archiving at-risk primary sources (FOI responses, government documents, OAIC decisions) whilst citing stable institutional sources (peer-reviewed articles, legislation, standards) by reference. This approach aligns with FAIR principles, open access standards, and digital preservation best practices.
+
+**Full documentation:** [Source Storage Methodology and Research Standards](SOURCES.md)
 
 
 ## Limitations and Falsifiability
