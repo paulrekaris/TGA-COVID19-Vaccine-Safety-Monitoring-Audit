@@ -10,7 +10,7 @@ This folder contains documentation of the principles, standards, and version con
 
 - **[VERSION-HISTORY.md](VERSION-HISTORY.md)** - Complete changelog documenting all versions, evidence additions, methodology refinements, and corrections with rationale
 
-- **[PERMANENT ARCHIVE RECORDS.pdf](PERMANENT ARCHIVE RECORDS.pdf)** - Documentation of permanent archiving through Zenodo, Arweave, and Bitcoin blockchain timestamping
+- **[PERMANENT ARCHIVE RECORDS.pdf](<PERMANENT ARCHIVE RECORDS.pdf>)** - Documentation of permanent archiving through Zenodo, Arweave, and Bitcoin blockchain timestamping
 
 ## Purpose
 
