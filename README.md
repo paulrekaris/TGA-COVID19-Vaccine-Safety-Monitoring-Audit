@@ -750,7 +750,7 @@ The comprehensive audit report includes:
 
 - **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports despite [FOI 4029-03](reference-documents/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](reference-documents/foi-4029) available in reference documents. Includes ISO 19011 audit methodology, ANAO performance tracking gaps, and evidence of inadequate OAIC search scope excluding advisory body containers.
 
--- **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis.pdf)** – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
+- **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis.pdf)** – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
 
 - **[TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf)** – Visual executive summary presentation with implementation status dashboard, evidence hierarchy and key gaps.
 
