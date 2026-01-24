@@ -22,9 +22,9 @@ This repository follows open research principles by archiving primary sources ce
 - Peer-reviewed journal articles (stable DOIs)
 - Legislation and acts (official government sources)
 - International standards (ISO, ICH) (purchasable/library accessible)
-- Methodology frameworks (OSINT, ANAO) (stable institutional URLs)
+- Methodology frameworks (Open Access, OSINT, ANAO) (stable institutional URLs)
 
-This approach balances repository size constraints with research reproducibility, ensuring core evidence remains accessible and independently re-checkable whilst maintaining verifiable citations to supporting materials.
+This approach balances repository size constraints with research reproducibility, ensuring core evidence remains accessible and independently re-checkable while maintaining verifiable citations to supporting materials.
 
 ---
 
@@ -60,11 +60,11 @@ Standard data management principles distinguish between materials requiring loca
 
 ## Implementation Notes
 
-- Core evidentiary documents (FOI responses, TGA decisions, testimony) are stored in this repository to ensure permanent accessibility regardless of government website changes
+- Core evidentiary documents (FOI responses, TGA decisions, senate testimony) are stored in this repository to ensure permanent accessibility regardless of government website changes
 
 - Supporting materials (journal articles, standards, frameworks) are cited through stable DOIs and institutional URLs that provide reliable long-term access
 
-- This selective archiving approach follows open science principles whilst managing repository scope
+- This selective archiving approach follows open science principles while managing repository scope
 
 - All archived materials include metadata (date archived, source URL where applicable) to support verification and citation
 
