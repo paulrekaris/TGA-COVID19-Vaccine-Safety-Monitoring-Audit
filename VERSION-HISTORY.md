@@ -1,5 +1,7 @@
 # Version History
 
+**For version control principles and methodology, see [Version Control Policy](VERSION-CONTROL-POLICY.md)**
+
 ## Version 1.9 (14 January 2026)
 
 ### Major Updates
