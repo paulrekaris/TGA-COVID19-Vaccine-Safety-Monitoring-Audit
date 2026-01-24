@@ -3,6 +3,7 @@
 # TGA COVID-19 Vaccine Safety Monitoring Audit
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)
 
