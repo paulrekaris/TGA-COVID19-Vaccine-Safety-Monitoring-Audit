@@ -694,8 +694,7 @@ FOI 5082 demonstrates TGA's established capacity and practice of detailed pharma
 
 This repository follows open research principles by archiving at-risk primary sources (FOI responses, government documents, OAIC decisions) whilst citing stable institutional sources (peer-reviewed articles, legislation, standards) by reference. This approach aligns with FAIR principles, open access standards, and digital preservation best practices.
 
-**Full documentation:** [Source Storage Methodology and Research Standards](EVIDENCE-SOURCES.md)
-
+**Full documentation:** [Evidence Storage Methodology and Research Standards](audit-governance/EVIDENCE-STORAGE.md)
 
 ## Limitations and Falsifiability
 
@@ -904,7 +903,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 **Last Updated:** 14 January 2026  
 **Published**: 14 January 2026
 
-For detailed version history and changelog, see [**VERSION-HISTORY.md**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION-HISTORY.md)
+For detailed version history and changelog, see [**VERSION-HISTORY.md**](audit-governance/VERSION-HISTORY.md)
 
 -----
 
