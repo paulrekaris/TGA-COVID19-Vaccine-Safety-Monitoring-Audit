@@ -8,7 +8,7 @@ This document explains the approach used to manage evidence sources in this audi
 
 ## Source Storage Approach
 
-This repository follows open research principles by archiving primary sources central to the audit's findings whilst citing publicly accessible supporting materials by reference.
+This repository follows open research principles by archiving primary sources central to the audit's findings while citing publicly accessible supporting materials by reference.
 
 ### Archived Locally
 
