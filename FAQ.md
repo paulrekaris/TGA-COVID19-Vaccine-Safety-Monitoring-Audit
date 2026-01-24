@@ -578,7 +578,7 @@ My investigation follows scientific principles of falsifiability and replicabili
 * Australian Government COVID-19 policy documents
 * Timeline reconstruction from official sources
 * Documentation of contradictions across multiple sources
-* **[Version control policy](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION-CONTROL-POLICY.md)** aligned with ISO 15489-1:2016 (records management) ensuring transparency, integrity, and accountability through Git version control, structured changelogs, and permanent archiving* Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
+* **[Version control policy](audit-governance/VERSION-CONTROL-POLICY.md)** aligned with ISO 15489-1:2016 (records management) ensuring transparency, integrity, and accountability through Git version control, structured changelogs, and permanent archiving* Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 
 All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent scrutiny and practical replication of my findings.
 
