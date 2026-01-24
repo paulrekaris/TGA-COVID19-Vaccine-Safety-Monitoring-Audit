@@ -694,7 +694,7 @@ FOI 5082 demonstrates TGA's established capacity and practice of detailed pharma
 
 This repository follows open research principles by archiving at-risk primary sources (FOI responses, government documents, OAIC decisions) whilst citing stable institutional sources (peer-reviewed articles, legislation, standards) by reference. This approach aligns with FAIR principles, open access standards, and digital preservation best practices.
 
-**Full documentation:** [Source Storage Methodology and Research Standards](SOURCES.md)
+**Full documentation:** [Source Storage Methodology and Research Standards](EVIDENCE-SOURCES.md)
 
 
 ## Limitations and Falsifiability
