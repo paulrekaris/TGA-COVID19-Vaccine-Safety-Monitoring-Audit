@@ -21,7 +21,7 @@ This repository follows open research principles by archiving primary sources ce
 
 - Peer-reviewed journal articles (stable DOIs)
 - Legislation and acts (official government sources)
-- International standards (ISO, ICH) (purchasable/library accessible)
+- International standards (ISO, ICH, CIOMS) (purchasable/library accessible)
 - Methodology frameworks (Open Access, OSINT, ANAO) (stable institutional URLs)
 
 This approach balances repository size constraints with research reproducibility, ensuring core evidence remains accessible and independently re-checkable while maintaining verifiable citations to supporting materials.
