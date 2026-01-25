@@ -2,7 +2,7 @@
 
 “Black‑box governance” refers to governance arrangements in which the interactions, information flows and decision rules between public authorities and other actors that shape the implementation and enforcement of public policy and regulatory requirements are opaque to outsiders, even though they significantly affect public and compliance outcomes (Schmid, Meister, Klagge, & Seidl, 2020).
 
-This audit addresses a core problem of democratic accountability: **asymmetric information**. Regulatory agencies possess complete knowledge of their internal processes, while the public sees only outputs. For COVID-19 vaccine safety monitoring, this creates a specific definitional crisis established by the TGA's own contradictory statements.
+This audit addresses a core problem of democratic accountability: asymmetric information. Regulatory agencies possess complete knowledge of their internal processes, while the public sees only outputs. For COVID-19 vaccine safety monitoring, this creates a specific definitional crisis established by the TGA's own contradictory statements.
 
 ## **The Core Contradiction: Promise vs. Description**
 
@@ -19,9 +19,9 @@ From outside the agency, both scenarios produce identical outputs. Without clear
 
 ## **The Evidentiary Pattern: A Snapshot from the Peak**
 
-Consider this snapshot from the peak of the rollout: October 2021. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials **cited the COVID-19 Vaccine Safety Monitoring Plan** and described its aims of "enhancing rapid detection, investigation and response." **But when they showed how the monitoring actually worked**, what they demonstrated was their routine system: standard AEMS database, bimonthly PRR analysis, conventional workflows. The promised differentiators—AusVaxSafety integration, the 17 specific strategies, enhanced signal detection protocols—were absent. The plan was referenced; the enhanced mechanisms were not shown. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
+Consider this snapshot from the peak of the rollout: October 2021. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials cited the COVID-19 Vaccine Safety Monitoring Plan and described its aims of "enhancing rapid detection, investigation and response." But when they showed how the monitoring actually worked, what they demonstrated was their routine system: standard AEMS database, bimonthly PRR analysis, conventional workflows. The promised differentiators—AusVaxSafety integration, the 17 specific strategies, enhanced signal detection protocols—were absent. The plan was referenced; the enhanced mechanisms were not shown. *(See [TGA teaching materials](./reference-documents/#tga-pharmacovigilance-teaching-materials-october-2021-evidence-of-a-gap-between-promise-and-practice))*
 
-This wasn't a public speech; it was technical training for professionals. **The gap between what the plan promised and what the operational training demonstrated** raises a fundamental question: if the enhanced framework wasn't visible in detailed technical instruction during peak rollout, where was it?
+This wasn't a public speech; it was technical training for professionals. The gap between what the plan promised and what the operational training demonstrated** raises a fundamental question: if the enhanced framework wasn't visible in detailed technical instruction during peak rollout, where was it?
 
 This pattern combines with:
 
@@ -35,7 +35,7 @@ This pattern combines with:
 
 ## **The Knowledge Problem**
 
-Friedrich Hayek identified that knowledge in complex systems is often **tacit and dispersed**—it cannot be fully articulated even by those who possess it. When regulatory agencies claim processes are "enhanced" but cannot document what makes them so, this creates Hayek's knowledge problem in reverse: knowledge that cannot be articulated cannot be verified.
+Friedrich Hayek identified that knowledge in complex systems is often tacit and dispersed—it cannot be fully articulated even by those who possess it. When regulatory agencies claim processes are "enhanced" but cannot document what makes them so, this creates Hayek's knowledge problem in reverse: knowledge that cannot be articulated cannot be verified.
 
 This explains why the TGA might genuinely believe it conducted enhanced monitoring while being unable to demonstrate it externally. But it also reveals why such situations are democratically untenable: if enhanced monitoring cannot be distinguished from routine operations—even by the agency itself—the regulatory commitment becomes meaningless in practice.
 
@@ -104,7 +104,7 @@ This transparency creates its own accountability: if the analysis is flawed, the
 
 ## **The Trust Framework**
 
-Philosopher Onora O'Neill established that institutions must **earn trust through verifiable evidence**, not demand it. The TGA's "enhanced monitoring" commitment was precisely such a ground for trust—a specific promise requiring demonstrable proof.
+Philosopher Onora O'Neill established that institutions must earn trust through verifiable evidence, not demand it. The TGA's "enhanced monitoring" commitment was precisely such a ground for trust—a specific promise requiring demonstrable proof.
 
 When that promise cannot be verified—when the line between routine and enhanced remains undefined and undocumented—the foundational bargain of provisional approval breaks down. Citizens cannot assess whether the regulatory *quid pro quo* was honoured.
 
@@ -116,7 +116,7 @@ This matters because the "black box" problem will recur. The next pandemic, the 
 
 **Public trust is not a blank cheque. It is a ledger.**
 
-For every reduction in pre-market evidence (provisional approval), there must be a corresponding, **verifiable entry** of enhanced post-market scrutiny. The ledger for COVID-19 vaccines shows a promise on one side, and an unverifiable "day-to-day" process on the other.
+For every reduction in pre-market evidence (provisional approval), there must be a corresponding, verifiable entry of enhanced post-market scrutiny. The ledger for COVID-19 vaccines shows a promise on one side, and an unverifiable "day-to-day" process on the other.
 
 This audit examines whether the TGA created the verifiable ground required for warranted public confidence. The issue is not vaccine safety outcomes but **regulatory integrity**:
 
