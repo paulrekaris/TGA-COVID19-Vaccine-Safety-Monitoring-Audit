@@ -934,12 +934,11 @@ This audit has been permanently archived and cryptographically timestamped:
 
 -----
 
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
-
 *This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.*
 
 ---
 
 © Copyright 2026 Paul Rekaris
- | Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+ | Licensed under [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+
 
