@@ -173,7 +173,7 @@ employed only 8 generic document-title terms ("Implementation of Plan",
 AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary 
 (AEFI escalation, performance metrics, risk management). This audit employed 
 14 strategic terms targeting specific Plan outputs and pharmacovigilance 
-processes. [Detailed search methodology comparison](analysis/search-methodology-comparison.md)
+processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
 
 The documentation gap is established as a matter of official record, 
 confirmed through both administrative law proceedings and parliamentary 
