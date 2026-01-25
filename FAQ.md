@@ -567,7 +567,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 ### Q30: What research methodology did I use?
 
-My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** - It includes:
+My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - It includes:
 
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
@@ -624,7 +624,7 @@ Several important limitations:
 3. **Document-dependent**: Analysis based on publicly available documents and materials TGA released (or confirmed don't exist) through FOI
 4. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
 
-**Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [**Information Commissioner**](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf), is the central finding.
+**Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [Information Commissioner**](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf), is the central finding.
 
 
 ---
