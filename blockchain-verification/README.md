@@ -1,5 +1,8 @@
 # Blockchain Verification Records
 
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org)
+[![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
+
 ## Bitcoin Timestamp (OpenTimestamps)
 
 **Date:** December 31, 2025  
@@ -49,7 +52,7 @@ Arweave provides permanent, immutable storage of the complete audit archive. The
 
 ## Combined Verification
 
-This audit is protected by multiple independent open source databases incuding blockchain verification methods:
+This audit is protected by multiple independent open source databases including blockchain verification methods:
 
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
