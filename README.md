@@ -933,7 +933,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 -----
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/80x15/by.png)](http://creativecommons.org/licenses/by/4.0/)
 
 *This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.*
 
