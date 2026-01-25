@@ -4,7 +4,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)
-[[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
 ## Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
@@ -933,7 +934,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 -----
 
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 *This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.*
 
