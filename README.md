@@ -34,7 +34,7 @@ New to this audit? **Start here:**
 
 - **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) | [Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
 
-This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)**
+This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
 ## Table of Contents
 
@@ -262,7 +262,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 - The enhanced monitoring framework cannot be verified.  
 - Compliance with provisional‑approval conditions cannot be demonstrated.  
 - Regulatory decision‑making remains opaque despite significant public‑health implications.
-- TGA's FOI refusals for signal investigation documentation—despite Senate testimony confirming 'ample documentation' exists—withhold population-level evidence that could assist treating doctors in forming evidence-based causation opinions for Vaccine Claims Scheme applications. See **[Compensation Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/compensation-analysis.md)** for details. 
+- TGA's FOI refusals for signal investigation documentation—despite Senate testimony confirming 'ample documentation' exists—withhold population-level evidence that could assist treating doctors in forming evidence-based causation opinions for Vaccine Claims Scheme applications. See [Compensation Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/compensation-analysis.md) for details. 
 
 
 ### Gap 2: Provisional Approval Verification
@@ -607,7 +607,7 @@ Each of the 20 Plan outputs was evaluated using a four-tier evidence standard:
 Partial completion of activities without an implementation trail is rated "partially implemented", not "fully implemented".
 
 
-**Note:** This hierarchy assesses implementation proof; Section 9.4 of the **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** assesses source reliability.
+**Note:** This hierarchy assesses implementation proof; Section 9.4 of the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) assesses source reliability.
 
 **Search strategy:** This audit employed systematic keyword searches with 14 
 strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and 
@@ -908,7 +908,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 **Last Updated:** 14 January 2026  
 **Published**: 14 January 2026
 
-For detailed version history and changelog, see [**VERSION-HISTORY.md**](audit-governance/VERSION-HISTORY.md)
+For detailed version history and changelog, see [VERSION-HISTORY.md](audit-governance/VERSION-HISTORY.md)
 
 -----
 
