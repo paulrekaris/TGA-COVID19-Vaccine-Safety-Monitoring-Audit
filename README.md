@@ -925,15 +925,17 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Arweave:** [Permanent Storage](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)  
   Permanent blockchain storage
 
-- **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)
+- **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
 
-- **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)
+- **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
   Public version control with full history
 
 -----
 
-*This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.* 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+*This document is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt this work with appropriate attribution.*
 
 ---
 
