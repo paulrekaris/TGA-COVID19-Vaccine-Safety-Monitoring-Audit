@@ -914,7 +914,7 @@ For detailed version history and changelog, see [VERSION-HISTORY.md](audit-gover
 
 ## Permanent Archive
 
-**Full blockchain verification documentation:** [Blockchain Verification Records](blockchain-verification/)
+**Full blockchain verification documentation:** [Blockchain Verification Records](blockchain-verification/README.md)
 
 This audit has been permanently archived and cryptographically timestamped:
 
