@@ -19,7 +19,7 @@ From outside the agency, both scenarios produce identical outputs. Without clear
 
 ## **The Evidentiary Pattern: A Snapshot from the Peak**
 
-Consider this snapshot from the peak of the rollout: October 2021. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials cited the COVID-19 Vaccine Safety Monitoring Plan and described its aims of "enhancing rapid detection, investigation and response." But when they showed how the monitoring actually worked, what they demonstrated was their routine system: standard AEMS database, bimonthly PRR analysis, conventional workflows. The promised differentiators—AusVaxSafety integration, the 17 specific strategies, enhanced signal detection protocols—were absent. The plan was referenced; the enhanced mechanisms were not shown. *(See [Pharmacovigilance - a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf))*
+Consider this snapshot from the peak of the rollout: October 2021. While teaching future pharmacists about COVID-19 vaccine safety, TGA officials cited the COVID-19 Vaccine Safety Monitoring Plan and described its aims of "enhancing rapid detection, investigation and response." But when they showed how the monitoring actually worked, what they demonstrated was their routine system: standard AEMS database, bimonthly PRR analysis, conventional workflows. The promised differentiators—AusVaxSafety integration, the 17 specific strategies, enhanced signal detection protocols—were absent. The plan was referenced; the enhanced mechanisms were not shown. **(See [Pharmacovigilance - a regulator's perspective](reference-documents/webinar-presentation-pharmacovigilance-regulators-perspective.pdf)**
 
 This wasn't a public speech; it was technical training for professionals. The gap between what the plan promised and what the operational training demonstrated** raises a fundamental question: if the enhanced framework wasn't visible in detailed technical instruction during peak rollout, where was it?
 
@@ -118,7 +118,7 @@ This matters because the "black box" problem will recur. The next pandemic, the 
 
 For every reduction in pre-market evidence (provisional approval), there must be a corresponding, verifiable entry of enhanced post-market scrutiny. The ledger for COVID-19 vaccines shows a promise on one side, and an unverifiable "day-to-day" process on the other.
 
-This audit examines whether the TGA created the verifiable ground required for warranted public confidence. The issue is not vaccine safety outcomes but **regulatory integrity**:
+This audit examines whether the TGA created the verifiable ground required for warranted public confidence. The issue is not vaccine safety outcomes but regulatory integrity:
 
 - Can citizens verify that conditional approval commitments were met?
 - Do regulatory promises require observable implementation evidence?
