@@ -391,7 +391,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 ## References
 
-1. Sandberg-Abellanet R, et al. (2020). Expected versus observed rates of adverse events. In: Vaccine Safety Basics Learning Manual. World Health Organization. https://www.who.int/publications/m/item/expected-versus-observed-rates
+1. World Health Organization. (2013). **Vaccine Safety Basics: Learning Manual** (Module 6: Signal Detection). p. 45-47. Background incidence rates and expected vs observed comparisons. https://iris.who.int/bitstream/handle/10665/340576/WHO-HIS-2013.06-eng.pdf [web:112]
 
 2. International Council for Harmonisation. (2004). ICH E2E Pharmacovigilance Planning. Step 4 Guideline. https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
@@ -409,7 +409,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 9. Therapeutic Goods Administration. (2021). FOI 4029-03: Advisory Committee on Vaccines Meeting 25 Materials. https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-03.PDF
 
-10. Parliament of Australia. (2025). Senate Community Affairs Legislation Committee​​​​​​​​​​​​​​​​
+10.Parliament of Australia. (2025). *Senate Community Affairs Legislation Committee Estimates – 9 October 2025*. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
 ----
 
