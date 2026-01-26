@@ -603,7 +603,7 @@ The problem is straightforward: **TGA made commitments to Australians about enha
 
 This audit applies systematic evidence based principles consistent with:
 
-- [**ISO 19011:2018 – Guidelines for Auditing Management Systems**][ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)
+**ISO 19011:2018 – Guidelines for Auditing Management Systems** - [ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)
   - Evidence‑based approach.  
   - Independence and due professional care.  
   - Fair presentation of findings and limitations.
