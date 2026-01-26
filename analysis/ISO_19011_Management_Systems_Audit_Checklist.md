@@ -188,7 +188,7 @@ This audit operates within explicit methodological constraints that are transpar
 - **Process audit:** Examines documented evidence of implementation, not internal tacit knowledge or undocumented practices
 - **Commonwealth focus:** Primarily examines TGA responsibilities; limited visibility into state/territory implementation
 
-**Impact on Findings:**
+### Impact on Findings:
 
 These limitations do not materially affect the validity of documented non-conformities where:
 - TGA's own OAIC-directed searches found zero implementation documentation
