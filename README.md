@@ -129,6 +129,18 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
 and international pharmacovigilance standards (ICH E2E, CIOMS).
 
+## Guiding Standards
+
+**ISO 19011:2018** - Continuous improvement via iterative refinement (Principle 7)
+
+**ISO 15489-1:2016** - Transparency and integrity via Git version control and blockchain timestamping
+
+**ANAO Better Practice** - Performance assessment against published plans and criteria
+
+**OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles 
+
+**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)
+
 **This audit is not intended to deliver final conclusions.**
 
 > It exists to preserve a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms.
