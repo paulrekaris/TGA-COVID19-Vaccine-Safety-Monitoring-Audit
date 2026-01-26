@@ -154,20 +154,20 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 
 > ### After four years of systematic investigation, this audit finds:
 > 
-> ### 1. **No Systematic Implementation Documentation**
-> TGA's own OAIC-directed searches (September 2024) across 531+ TRIM containers found **zero implementation records** of the Safety Monitoring Plan, confirmed by OAIC Decision [2025] AICmr 54.
+> #### 1. No systematic implementation documentation  
+> TGA's OAIC-directed searches in September 2024 across more than 531 TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54.  
 > 
-> ### 2. **"Day-to-Day Processes" Not Enhanced Monitoring**
-> Senate testimony (October 2025) confirmed Plan implementation was **never systematically tracked**, with monitoring consisting of routine processes—contradicting the "enhanced monitoring" required for provisional approval of 68.4 million doses.
+> #### 2. "Day-to-day processes" instead of enhanced monitoring  
+> Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine "day-to-day processes," contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
 > 
-> ### 3. **85% of Plan Outputs Not Fully Documented**
-> Only **3 of 20 specified Plan outputs** have complete implementation documentation; 11 are partially documented, 6 have no documentation at all.
+> #### 3. 85% of Plan outputs not fully documented  
+> Only 3 of 20 specified Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
-> ### 4. **Signal Investigations Lack Audit Trails**
-> TGA investigated **148 safety signals** and took **57 regulatory actions**, but published **no documentation** linking specific signals to specific actions or explaining decision criteria.
+> #### 4. Signal investigations lack audit trails  
+> TGA investigated 148 safety signals and took 57 regulatory actions, but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
 > 
-> ### 5. **Provisional Approval Verification Gap**
-> No documentation shows **enhanced monitoring requirements were verified** before 68.4 million provisionally approved doses transitioned to full registration.
+> #### 5. Provisional approval verification gap  
+> No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 
 
 ## Evidence Standard
