@@ -1,5 +1,9 @@
 # Version History
 
+**Version Control Policy:** This audit maintains detailed version history following ISO 19011:2018 continuous improvement, ISO 15489-1:2016 records management, OSINT documentation standards, and research integrity principles. See [audit-governance/VERSION-CONTROL-POLICY.md](audit-governance/VERSION-CONTROL-POLICY.md) for complete methodology.
+
+---
+
 ## Version 1.9 (14 January 2026)
 
 ### Major Updates
