@@ -33,7 +33,7 @@
 
 ---
 
-## This surveillance analysis follows:**
+## This surveillance analysis follows:
 
 - **ISO 19011:2018** - Guidelines for auditing management systems
 - **ANAO Reporting Meaningful Performance Information (2023)** - Performance assessment principles
