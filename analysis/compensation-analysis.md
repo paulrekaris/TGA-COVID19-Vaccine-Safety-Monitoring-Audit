@@ -35,6 +35,25 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 
 **Context:** Against 68.4 million doses administered under provisional approval (91.2% of 75 million total doses) to 21.2 million recipients by July 2023.⁵
 
+
+## Timeline of Key Events
+
+| **Date** | **Event** | **Significance** |
+|----------|-----------|------------------|
+| **Feb 2021** | COVID-19 Vaccine Safety Monitoring Plan published | TGA commits to enhanced pharmacovigilance with 17 numbered strategies and 20 specified outputs |
+| **Mar 2021** | First COVID-19 vaccine safety report published | Weekly public reporting begins under provisional approval framework |
+| **Sep 2021** | COVID-19 Vaccine Claims Scheme opens | No-fault compensation scheme established acknowledging potential vaccine injuries |
+| **Sep 2021** | FOI 4029-03: TGA presents Strategy 2.3 methodology to Advisory Committee | Internal demonstration of PRR/MaxSPRT capacity—not published to citizens |
+| **Dec 2022** | 137,000+ DAEN reports documented | Peak passive surveillance activity during mass rollout |
+| **Jul 2023** | Approximately 68.4 million doses administered under provisional approval | Represents approximately 91% of total rollout—largest deployment of provisionally approved medicines in Australian history |
+| **Aug 2024** | COVERSE/UNSW reports approximately 91% rejected/withdrawn claims | Independent research documents systemic barriers including difficulty obtaining causation opinions |
+| **Sep 2024** | Scheme closes to new applications | Final closure with 4,962 claims lodged, 522 approved (10.5% approval rate) |
+| **Sep 2024** | TGA OAIC-directed searches find zero Plan implementation records | Comprehensive searches across 531+ TRIM containers under Information Commissioner direction |
+| **Oct 2025** | Senate testimony: TGA admits investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation withheld from citizens |
+
+**Pattern:** The timeline demonstrates a systematic gap between TGA's internal signal investigation capacity (148 signals documented, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
+
+
 ## Case Study Evidence
 
 ### Successful Claim (Workers' Compensation Pathway)
