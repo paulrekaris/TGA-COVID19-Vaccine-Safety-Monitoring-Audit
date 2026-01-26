@@ -79,6 +79,66 @@ The Office of the Australian Information Commissioner (OAIC) Decision [2025] AIC
 ### The Contradiction
 The TGA confirms investigating 148 signals and taking 57 documented actions whilst simultaneously claiming signal investigation documentation cannot be consolidated or provided to citizens seeking to prove causation for compensation claims.
 
+## Specific Examples of Information Asymmetry
+
+The following examples illustrate how TGA's refusal to publish signal investigation findings creates specific evidentiary barriers for compensation claimants whose injuries match TGA-investigated safety signals.
+
+### Example 1: Young Male with Post-Vaccine Myocarditis
+
+**Claimant profile:** 25-year-old male develops myocarditis within one week of second mRNA COVID-19 vaccine dose, requiring hospitalisation.
+
+**What TGA investigated:** Myocarditis/pericarditis was identified as one of seven priority safety signals in December 2021.²'¹⁸ TGA conducted population-level analysis demonstrating elevated risk in young males following mRNA vaccination, leading to regulatory action including updated product information and clinical guidance.
+
+**What remains inaccessible:** TGA's detailed signal investigation documentation including:
+- Age-stratified risk quantification for young males
+- Temporal analysis of symptom onset post-vaccination
+- Comparative incidence rates versus background population
+- Statistical evidence supporting causality determination
+- Subgroup analyses informing regulatory decisions
+
+**Impact on causation assessment:** The treating cardiologist must form a causation opinion on "balance of probabilities" without access to TGA's population-level evidence demonstrating this exact injury pattern in this exact demographic—despite TGA holding comprehensive analysis that directly supports the causation claim.
+
+---
+
+### Example 2: Woman with Menstrual Irregularities
+
+**Claimant profile:** 32-year-old woman experiences severe menstrual disruption (prolonged heavy bleeding, cycle irregularities) following COVID-19 vaccination, requiring gynaecological intervention.
+
+**What TGA investigated:** Menstrual disorders were identified as a priority safety signal requiring investigation in December 2021.²'¹⁸ TGA reviewed population-level reports of menstrual changes and cycle disruptions following COVID-19 vaccination.
+
+**What remains inaccessible:** TGA's signal investigation documentation including:
+- Incidence rates of menstrual disorders post-vaccination
+- Temporal patterns (onset timing, duration, resolution)
+- Severity grading and clinical outcomes
+- Age and dose-relationship analyses
+- Evidence basis for any regulatory conclusions
+
+**Impact on causation assessment:** The treating gynaecologist must opine on causation without access to TGA's analysis of thousands of similar reports, population-level patterns, or evidence supporting biological plausibility—despite this being one of TGA's 148 formally investigated signals.
+
+---
+
+### Example 3: Person with Guillain-Barré Syndrome (GBS)
+
+**Claimant profile:** 45-year-old develops Guillain-Barré Syndrome within three weeks of COVID-19 vaccination, requiring intensive care admission and prolonged rehabilitation.
+
+**What TGA investigated:** GBS was identified as a priority safety signal in December 2021.²'¹⁸ Multiple TGA safety reports referenced GBS monitoring, with later reports stating observed rates were "similar to expected" without publishing statistical methodology.
+
+**What remains inaccessible:** TGA's signal investigation documentation including:
+- Observed versus expected analysis methodology
+- Background population incidence rates used for comparison
+- Statistical confidence intervals and p-values
+- Temporal clustering analysis post-vaccination
+- Evidence basis for "similar to expected" determination
+- Whether rates differed by vaccine type, age, or dose number
+
+**Impact on causation assessment:** The treating neurologist must form a causation opinion whilst TGA publicly states rates are "similar to expected" but refuses to provide the statistical methodology, baseline data, or analysis that might support or refute the individual claim. The doctor cannot verify whether TGA's population-level analysis actually excludes causation or whether the "expected rates" comparison was methodologically sound.
+
+---
+
+**Common Pattern Across Examples:**
+
+In each case, TGA investigated the exact injury type as a formal safety signal, conducted population-level analysis, and made regulatory or communication decisions based on that analysis. Yet compensation claimants with these same injuries cannot access the evidence TGA used to assess causation at the population level, forcing their treating doctors to form opinions based on individual clinical records and temporal association alone—without the population-level context TGA possesses but withholds.
+
 ## Comparative International Transparency
 
 - **United States:** Centers for Disease Control and Prevention (CDC) publishes regular Vaccine Adverse Event Reporting System (VAERS) summaries and Vaccine Safety Datalink (VSD) analyses with detailed signal detection methodologies and assessment outcomes.¹²
@@ -183,3 +243,5 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 16. Australian Government Department of Health and Aged Care. (2024). COVID-19 Vaccine Claims Scheme Policy 2021 (Version 1.6, 24 September 2024). Section 19 (Causation). https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
 
 17. Therapeutic Goods Administration. (2025). FOI 25-0117: TGA response confirming scheme focus on treating doctor's opinion. https://www.tga.gov.au/sites/default/files/2025-03/FOI%2025-0117_2.pdf
+
+18. Therapeutic Goods Administration, 'COVID-19 vaccine weekly safety report – 23-12-2021', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021.
