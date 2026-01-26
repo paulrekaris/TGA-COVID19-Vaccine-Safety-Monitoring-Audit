@@ -145,13 +145,13 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 - **United Kingdom:** MHRA publishes detailed weekly Yellow Card reports with signal assessments, causality determinations, and incidence rates.²¹
 - **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from 148 investigated signals/57 actions—despite internal capacity (FOI 4029-03).²'³
 
-## International Comparison: Transparency and Compensation
-
 | **Country** | **Regulatory Agency** | **Surveillance Systems** | **Signal Transparency** | **Methodology Publication** | **Compensation Scheme** | **COVID Claim Success Rate** |
 |-------------|----------------------|--------------------------|-------------------------|----------------------------|------------------------|------------------------------|
-| **United States** | CDC | VAERS, VSD, CISA, V-safe | **High:** Raw data publicly accessible, detailed signal reports, real-time dashboards | Myocarditis/TTS investigations published with full methodology within 24-48 hours, statistical methods documented | CICP (Countermeasures Injury Compensation Program) | ~3% (92 of 13,000 eligible claims; $400,000 total COVID payouts) |
-| **United Kingdom** | MHRA | Yellow Card | **High:** Weekly detailed reports with signal assessments and causality determinations | Signal investigations published with population-level incidence rates (3-5 per 1,000), detailed summaries of methodology | VDP (Vaccine Damage Payment) | 148 awards from approximately 4,000 COVID claims (~2-4% success rate) |
+| **United States** | CDC | VAERS, VSD, CISA, V-safe | **High:** Raw data publicly accessible, detailed signal reports, real-time dashboards | Myocarditis/TTS investigations published with full methodology within days post-signal, statistical methods documented | CICP (Countermeasures Injury Compensation Program) | ~0.5% (~72 of 14,000+ eligible claims; ~$400,000 total COVID payouts) |
+| **United Kingdom** | MHRA | Yellow Card | **High:** Weekly detailed reports with signal assessments and causality determinations | Signal investigations published with MaxSPRT/O/E analysis, population-level incidence rates (3-5 per 1,000), detailed summaries of methodology | VDP (Vaccine Damage Payment) | ~1-3% (~600 awards from approximately 17,000 total claims) |
 | **Australia** | TGA | DAEN, AusVaxSafety | **Low:** Aggregate statistics and reassurance messaging only | 148 signals investigated and 57 actions taken but no methodology, confidence intervals, or detailed causality assessments published despite demonstrated internal capacity | CVCS (COVID-19 Vaccine Claims Scheme) | 10.5% (522 of 4,962 claims approved before scheme closure) |
+
+### Key Differences
 
 ### Key Differences
 
@@ -160,12 +160,12 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 - **Australia:** TGA withholds signal investigation documentation despite Senate confirmation of 148 investigated signals and 57 regulatory actions
 
 **Methodology Publication:**
-- **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for all major signals (e.g., myocarditis risk quantification by age/sex/vaccine type)
-- **UK:** MHRA provides weekly detailed causality assessments with population-level incidence rates and investigation summaries
+- **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for all major signals (e.g., myocarditis risk quantification by age/sex/vaccine type) within days post-signal detection
+- **UK:** MHRA provides weekly detailed causality assessments with MaxSPRT/observed-expected analysis, population-level incidence rates and investigation summaries
 - **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis
 
 **Impact on Compensation Claims:**
-All three jurisdictions show low approval rates (2-10.5%), but US and UK systems provide treating doctors with access to published signal investigation data to support causation assessments. Australian claimants face the additional barrier of TGA's refusal to publish the signal investigation documentation that might strengthen their doctors' causation opinions.
+All three jurisdictions show low approval rates, but the US (0.5%) and UK (1-3%) are substantially lower than Australia (10.5%). However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's refusal to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity.
 
 **Documentation Access:**
 - **US:** VAERS raw data publicly downloadable; VSD analyses published; investigation reports detailed
@@ -271,10 +271,10 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 18. Therapeutic Goods Administration, 'COVID-19 vaccine weekly safety report – 23-12-2021', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021.
 
-19. Centers for Disease Control and Prevention, 'Vaccine Safety Surveillance Systems', U.S. Department of Health & Human Services, https://www.cdc.gov/vaccine-safety-systems/vaers/index.html.
+19. Health Resources & Services Administration. (2026). Countermeasures Injury Compensation Program (CICP) Data - Table 4. https://www.hrsa.gov/cicp/cicp-data/table-4
 
-20. CIDRAP (Center for Infectious Disease Research and Policy), 'Review of US vaccine injury reimbursement program shows less than 3% of claims eligible for compensation', University of Minnesota, https://www.cidrap.umn.edu/covid-19/review-us-vaccine-injury-reimbursement-program-shows-less-3-claims-eligible-compensation.
+20. UK Government. (2025). Report of the Commission on Human Medicines Expert Working Group on COVID-19 Vaccine Safety Surveillance. https://www.gov.uk/government/publications/report-of-the-commission-on-human-medicines-expert-working-group-on-covid-19-vaccine-safety-surveillance
 
-21. WhatDoTheyKnow, 'MHRA estimate of COVID vaccine adverse event rates', UK Freedom of Information request, https://www.whatdotheyknow.com/request/mhra_estimate_of_covid_vaccine_a.
+21. The Telegraph. (2025). Covid vaccine damage consultants paid more than victims. https://www.telegraph.co.uk/news/2025/03/16/covid-vaccine-damage-consultants-paid-more-than-victims/
 
-22. UK COVID-19 Inquiry, 'Vaccine Damage Payment Scheme statistics' (Document INQ000474371), https://covid19.public-inquiry.uk/wp-content/uploads/2025/01/15185619/INQ000474371.pdf.
+22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events. MMWR, 70(32). https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
