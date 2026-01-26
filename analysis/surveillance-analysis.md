@@ -163,13 +163,27 @@ Systematic degradation documented across 33 months:
 
 ### Finding 3: Unexplained "Expected Rates" Methodology Gap
 
-**ICH E2E Requirement:** "Statistical methods for signal evaluation should be documented and transparent."
+**Understanding "Expected Rates" Methodology:**
 
-Reports from mid-2022 onwards employ "rates similar to expected" language extensively without publishing:
+From mid-2022 onwards, TGA safety reports increasingly relied on "expected rates" language to provide public reassurance. This statistical approach compares observed adverse event frequencies in vaccinated populations against baseline population rates (background incidence) to determine whether events occur more frequently than would be expected by chance.¹
+
+**Standard methodology requirements:** International pharmacovigilance standards (ICH E2E) indicate that such comparisons should be transparent and verifiable, typically including:²
+- Baseline data sources clearly identified
+- Calculation methodologies documented
+- Confidence intervals provided
+- Statistical significance testing (p-values)
+- Power calculations for detecting differences
+
+**ICH E2E Principle (paraphrased):** Statistical methods for signal evaluation should be documented and transparent.
+
+**The gap:** TGA used "rates similar to expected" and "consistent with background rates" language extensively from mid-2022 onwards, but published zero statistical methodology to support these assertions across all sampled reports. Reports from mid-2022 onwards employ this reassurance language without publishing:
 - Calculation methodologies
 - Baseline data sources
 - Statistical confidence intervals
-- Whether incorporating enhanced monitoring or routine baselines
+- P-values or power calculations
+- Whether incorporating enhanced monitoring (Plan Strategy 2.3 AIR-denominator) or routine baselines
+
+This analysis examines whether this represents a systematic methodological transparency failure inconsistent with international pharmacovigilance standards TGA applies to industry sponsors.
 
 ### "Expected Rates" Evolution: Documented Pattern
 
@@ -374,6 +388,30 @@ The systematic absence of Plan framework references across 150+ public reports, 
 The question "Was the Plan implemented as operational accountability framework accessible to citizens?" cannot be resolved favourably. FOI 4029-03 demonstrates organisational capacity existed and materials were prepared for advisory body presentation, but systematic absence of this material from public reports and inadequate search methodology preventing identification through FOI processes demonstrates the Plan functioned as internal advisory body framework unavailable for public verification.
 
 ---
+
+## References
+
+1. Sandberg-Abellanet R, et al. (2020). Expected versus observed rates of adverse events. In: Vaccine Safety Basics Learning Manual. World Health Organization. https://www.who.int/publications/m/item/expected-versus-observed-rates
+
+2. International Council for Harmonisation. (2004). ICH E2E Pharmacovigilance Planning. Step 4 Guideline. https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+
+3. Therapeutic Goods Administration. (2021). COVID-19 vaccine weekly safety report – 03-03-2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-03-03-2021
+
+4. Therapeutic Goods Administration. (2021). COVID-19 vaccine weekly safety report – 23-12-2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021
+
+5. Therapeutic Goods Administration. (2022). COVID-19 vaccine safety report – 28-07-2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-28-07-2022
+
+6. Therapeutic Goods Administration. (2022). COVID-19 vaccine safety report – 01-12-2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-01-12-2022
+
+7. Therapeutic Goods Administration. (2023). COVID-19 vaccine safety report – 27-07-2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-27-07-2023
+
+8. Therapeutic Goods Administration. (2023). COVID-19 vaccine safety report – 02-11-2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-2023
+
+9. Therapeutic Goods Administration. (2021). FOI 4029-03: Advisory Committee on Vaccines Meeting 25 Materials. https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-03.PDF
+
+10. Parliament of Australia. (2025). Senate Community Affairs Legislation Committee​​​​​​​​​​​​​​​​
+
+----
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
