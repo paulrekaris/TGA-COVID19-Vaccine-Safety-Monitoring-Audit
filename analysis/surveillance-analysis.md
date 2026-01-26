@@ -229,7 +229,7 @@ The absence of accessible signal investigation documentation affects compensatio
 
 FOI 4029-03 demonstrates TGA prepared methodology materials for Advisory Committee discussion—but citizens seeking comparable information through Freedom of Information requests receive refusals stating documents "do not exist in consolidated form" or retrieval would require "unreasonable diversion of resources."
 
-**Detailed [Compensation Analysis](analysis/compensation-analysis.md)**
+**Detailed [Compensation Analysis](compensation-analysis.md)**
 
 **Implication:** FOI 4029-03 demonstrates TGA possessed organisational capacity to prepare Plan-organised materials for advisory body presentation. The systematic absence of this material from concurrent public reports prevents verification that the Plan functioned as operational accountability framework accessible to citizens.
 
