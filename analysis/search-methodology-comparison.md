@@ -179,6 +179,24 @@ Whether such strategies would have located additional documentation cannot be de
 
 ---
 
+### Methodological Note
+
+**Different Search Environments:**
+- **TGA searches:** TRIM records management system (internal, structured)
+- **Audit searches:** Public websites and databases (external, unstructured)
+
+**Despite this difference,** both approaches could have employed output-specific terminology. The comparison focuses on **search strategy design** rather than search environment.
+
+
+### Implications for FOI Administration
+
+The FOI Act s24A requires agencies to take "all reasonable steps" to locate documents. This comparison raises questions about whether:
+
+1. Search strategies focusing on **document titles** rather than **implementation activities** constitute "reasonable steps" under s24A
+2. Agencies should employ **output-specific terminology** when searching for implementation evidence of published commitments
+3. Search scope should be informed by **the nature of the commitments** being searched for, not generic document naming conventions
+
+
 ## Conclusion
 
 TGA's OAIC-directed searches, while extensive in scope (531+ containers, 2,218+ pages reviewed), employed generic document-title terminology rather than output-specific and pharmacovigilance vocabulary.
