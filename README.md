@@ -149,6 +149,27 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 
 > **Central problem**: TGA cannot demonstrate, on the available documentary record, that it systematically implemented the enhanced, TGA-led safety monitoring framework set out in the Cabinet-endorsed Australian COVID-19 Vaccination Policy, raising fundamental questions about regulatory accountability during Australia's largest medical intervention.
 
+
+## Key Findings
+
+> ### After four years of systematic investigation, this audit finds:
+> 
+> ### 1. **No Systematic Implementation Documentation**
+> TGA's own OAIC-directed searches (September 2024) across 531+ TRIM containers found **zero implementation records** of the Safety Monitoring Plan, confirmed by OAIC Decision [2025] AICmr 54.
+> 
+> ### 2. **"Day-to-Day Processes" Not Enhanced Monitoring**
+> Senate testimony (October 2025) confirmed Plan implementation was **never systematically tracked**, with monitoring consisting of routine processes—contradicting the "enhanced monitoring" required for provisional approval of 68.4 million doses.
+> 
+> ### 3. **85% of Plan Outputs Not Fully Documented**
+> Only **3 of 20 specified Plan outputs** have complete implementation documentation; 11 are partially documented, 6 have no documentation at all.
+> 
+> ### 4. **Signal Investigations Lack Audit Trails**
+> TGA investigated **148 safety signals** and took **57 regulatory actions**, but published **no documentation** linking specific signals to specific actions or explaining decision criteria.
+> 
+> ### 5. **Provisional Approval Verification Gap**
+> No documentation shows **enhanced monitoring requirements were verified** before 68.4 million provisionally approved doses transitioned to full registration.
+
+
 ## Evidence Standard
 
 This finding is based on official determinations, not interpretation:
