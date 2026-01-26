@@ -1,5 +1,13 @@
-# ISO 19011 Management Systems Audit Checklist
-## TGA COVID-19 Vaccine Safety Monitoring Plan Implementation Audit
+# Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan Implementation Using ISO 19011:2018 Guidelines
+## Documentation Gap Analysis and Conformity Assessment
+
+
+> **IMPORTANT CLARIFICATION**
+> 
+> This is **NOT an ISO certification audit**. This independent audit uses ISO 19011:2018 guidelines as a professional methodology framework to assess TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. It does not certify TGA to any ISO standard.
+
+>**Purpose:** Apply internationally recognised audit standards to evaluate conformity between TGA's stated commitments and objective documentary evidence of implementation.
+
 
 **Audit Standard:** ISO 19011:2018 – Guidelines for Auditing Management Systems  
 **Audit Subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)  
@@ -153,6 +161,42 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 - No on-site access, interviews, or internal system walkthroughs (explicit limitation of scope)
 
 **Audit Type:** External, citizen-led, independent documentation-compliance audit
+
+---
+
+## Methodological Limitations
+
+This audit operates within explicit methodological constraints that are transparently acknowledged:
+
+### Access Limitations
+- **No internal access:** No access to TGA internal systems, databases, or non-public records
+- **No staff interviews:** No direct consultation with TGA personnel or operational walkthroughs
+- **No on-site verification:** All assessment based on documentary evidence only
+
+### Evidence Constraints
+- **FOI dependency:** Reliant on TGA's FOI responsiveness and record-keeping quality
+- **Public records only:** Limited to publicly released or FOI-obtained documentation
+- **Search limitations:** Cannot verify completeness of TGA's internal searches beyond OAIC-directed processes
+
+### Resource Constraints
+- **Single auditor:** Independent researcher without institutional backing or team resources
+- **No peer review:** Citizen-led audit without formal peer review process during evidence collection
+- **Time limitations:** Four-year investigation period may not capture all relevant documentation
+
+### Scope Boundaries
+- **Documentation focus only:** Does not assess clinical safety/efficacy of vaccines or appropriateness of individual regulatory decisions
+- **Process audit:** Examines documented evidence of implementation, not internal tacit knowledge or undocumented practices
+- **Commonwealth focus:** Primarily examines TGA responsibilities; limited visibility into state/territory implementation
+
+**Impact on Findings:**
+
+These limitations do not materially affect the validity of documented non-conformities where:
+- TGA's own OAIC-directed searches found zero implementation documentation
+- Official Senate testimony confirms absence of systematic tracking
+- OAIC independent oversight validates documentation concerns
+- Multiple formal accountability processes consistently confirm same gaps
+
+The limitations are inherent to citizen-led oversight but do not undermine findings based on TGA's own admissions and independent oversight body determinations.
 
 ---
 
