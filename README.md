@@ -313,7 +313,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 - OAIC‑directed TRIM searches (MR22/00538, September 2024) across **531+ containers** using eight Plan‑aligned search terms identified **zero** documents demonstrating verification that enhanced‑monitoring requirements were satisfied before Comirnaty (July 2023) or Spikevax (April 2023) transitioned to full registration.  
 - Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan**, no checklists of provisional‑approval conditions, and no Plan‑level verification records.
-- Third-party verification of this gap is provided by [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf) (August 2024), where an applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
+- Third-party verification of this gap is provided by [FOI 5275](reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf (August 2024), where an applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
 
 **Why this matters**
 
@@ -337,7 +337,7 @@ Without documented verification:
 - Documentation showing systematic integration of these activities into the enhanced monitoring framework defined in the Plan.  
 - Coordination protocols or data‑flow documentation linking AusVaxSafety outputs to TGA signal investigations.  
 - Evidence that enhanced processes were distinguished from routine “day‑to‑day” pharmacovigilance and tracked against Plan objectives.
-- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/reference-documents/foi-4029) file. See [Surveillance analysis](analysis/surveillance-analysis.md)
+- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](reference-documents/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](reference-documents/foi-4029) available in reference documents.
 
 **Why this matters**
 
@@ -603,7 +603,7 @@ The problem is straightforward: **TGA made commitments to Australians about enha
 
 This audit applies systematic evidence based principles consistent with:
 
-- [**ISO 19011:2018 – Guidelines for Auditing Management Systems**](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/ISO_19011_Management_Systems_Audit_Checklist.md)
+- [**ISO 19011:2018 – Guidelines for Auditing Management Systems**][ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)
   - Evidence‑based approach.  
   - Independence and due professional care.  
   - Fair presentation of findings and limitations.
@@ -713,7 +713,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
-**Archive:** [GitHub backup](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI5082.pdf)
+**Archive:** [GitHub backup](reference-documents/FOI5082.pdf)
 
 **Summary**
 
