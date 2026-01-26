@@ -20,7 +20,7 @@
 > - **Compensation barrier documented:** TGA investigated 148 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved—the remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
 > 
 > - **International transparency comparison:** US CDC and UK MHRA publish detailed signal investigation methodologies (myocarditis/TTS reports within days post-signal with full statistical methods, confidence intervals, causality assessments).
-
+>
 > - **Six reports systematically selected:** ISO 19011 sampling methodology ensures representative coverage across phases (enhanced/transition/routine), frequencies (weekly/biweekly/fortnightly), and timeline (first through final)
 > 
 > - **Complete archive preserved:** All 150+ reports maintained in National Library of Australia Trove and Internet Archive Wayback Machine enabling independent verification
