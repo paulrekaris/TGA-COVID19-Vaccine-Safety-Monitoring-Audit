@@ -40,7 +40,9 @@ This README contains the narrative executive summary and overview. Key findings 
 ## Table of Contents
 
 - [Purpose](#purpose)
+- [Guiding Standards](#guiding-standards)
 - [Executive Summary](#executive-summary)
+- [Key Findings](#key-findings)
 - [Evidence Standard](#evidence-standard)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
