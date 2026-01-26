@@ -44,7 +44,7 @@ This audit employs comprehensive version control combining records management st
 - **Permanent archiving**: Zenodo DOI and blockchain timestamping ensure version history survives potential GitHub removal or institutional pressure.
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
 
-**See:** [Complete Version History](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/VERSION-HISTORY.md)
+**See:** [Complete Version History](VERSION-HISTORY.md)
 
 ## Rationale
 
