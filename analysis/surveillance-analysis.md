@@ -33,13 +33,13 @@
 
 ---
 
-## Audit Standards Applied
-
-This analysis follows:
-- **ISO 19011:2018** - Guidelines for auditing management systems
-- **ANAO *Reporting Meaningful Performance Information* (2023)** - Performance assessment principles
-- **ICH E2E** - Pharmacovigilance Planning (adopted by TGA)
-- **WHO/EMA GVP Module IX** - Signal Management principles
+> **This analysis follows:**
+> 
+> - **ISO 19011:2018** - Guidelines for auditing management systems
+> - **ANAO Reporting Meaningful Performance Information (2023)** - Performance assessment principles
+> - **ICH E2E** - Pharmacovigilance Planning (adopted by TGA)
+> - **WHO/EMA GVP Module IX** - Signal Management principles
+> - **CIOMS Good Pharmacovigilance Practices**
 
 ---
 
