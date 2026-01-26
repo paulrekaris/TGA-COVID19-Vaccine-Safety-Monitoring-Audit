@@ -62,7 +62,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Resolution: 2025 Senate Testimony](#resolution-2025-senate-testimony)
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
-- [Supporting Peer Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
+- [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
 - [What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
   - [Enhanced Monitoring as Defined by the Plan](#enhanced-monitoring-as-defined-by-the-plan)
   - [The Audit Question](#the-audit-question)
@@ -477,7 +477,7 @@ Glover C, et al. (2024). Surveillance of adverse events following immunisation i
 [Full AEFI surveillance report](primary-sources/CDI-2024_Surveillance-AEFI-COVID19-2021.pdf)
 
 
-## Supporting Peer Reviewed Literature of Systemic Gaps
+## Supporting Peer-Reviewed Literature of Systemic Gaps
 
 A peer-reviewed study published in *Vaccine* (September 2021) provides independent validation of identified gaps. Phillips et al. interviewed 17 Australian vaccine safety experts in July–October 2020—**before the COVID-19 vaccine rollout**—and documented significant system limitations.
 
