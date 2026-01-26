@@ -159,6 +159,23 @@ Reports from mid-2022 onwards employ "rates similar to expected" language extens
 - Statistical confidence intervals
 - Whether incorporating enhanced monitoring or routine baselines
 
+### "Expected Rates" Evolution: Documented Pattern
+
+| **Report Date** | **Phase/Frequency** | **Language Used** | **Methodology Provided?** | **Missing Elements** | **ICH E2E Compliance Gap** |
+|-----------------|---------------------|-------------------|---------------------------|----------------------|----------------------------|
+| **3 Mar 2021** | Enhanced/Weekly | None (signal focus: anaphylaxis investigation) | N/A | N/A | Pre-baseline establishment phase |
+| **23 Dec 2021** | Peak Enhanced/Weekly | None (signal lists: TTS, myocarditis, pericarditis, GBS, ITP, capillary leak, menstrual disorders) | N/A | N/A | Raw signal investigations only |
+| **28 Jul 2022** | Transition/Biweekly | "Expected vs observed" language introduced | No | Calculation methodology, baseline data sources, confidence intervals, p-values | Statistical transparency absent |
+| **1 Dec 2022** | Routine/Fortnightly | "Rates similar to expected" (GBS emphasis) | No | Statistical methodology, confidence intervals, baseline sources | Unverifiable reassurance claims |
+| **27 Jul 2023** | Mature/Fortnightly | "No new concerns" (implied stable profile) | No | Power calculations, population baselines, trend analysis | Reassurance without supporting evidence |
+| **2 Nov 2023** | Cessation/Final | "Stable at cessation" (established pattern statement) | No | Retrospective methodology, comprehensive evaluation | No documented audit trail |
+
+**Key Pattern:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Despite TGA's demonstrated internal capacity to conduct statistical signal detection (FOI 4029-03: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis presented to Advisory Committee on Vaccines, September 2021), zero methodology outputs appeared in concurrent public reports.
+
+**ICH E2E Requirement:** "Statistical methods for signal evaluation should be documented and transparent, including baseline data sources, calculation methodologies, and confidence intervals to enable independent verification."
+
+**Finding:** Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions. This represents systematic non-compliance with international pharmacovigilance standards TGA applies to industry sponsors.
+
 **Evidentiary Basis:** Reports 4-6 use this language as primary reassurance mechanism. Zero reports document methodology.
 
 **Implication:** Cannot verify if comparisons incorporated Plan Strategy 2.3 (AIR-denominator analysis) or routine surveillance baselines.
