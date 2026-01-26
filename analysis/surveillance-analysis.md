@@ -45,6 +45,25 @@ This systematic analysis examines TGA's COVID-19 vaccine safety surveillance rep
 
 ---
 
+## Visual Timeline: Surveillance Degradation Pattern
+
+| **Period** | **Frequency** | **Report Characteristics** | **Plan References** | **Methodology Transparency** | **Signal Detail** |
+|------------|---------------|---------------------------|---------------------|------------------------------|-------------------|
+| **Mar-Dec 2021** | Weekly | Detailed breakdowns, emerging signal investigations, comprehensive data presentation | Zero | High - detailed DAEN statistics, signal investigations described | Full investigation summaries for new signals (TTS, myocarditis, etc.) |
+| **Jan-Jun 2022** | Weekly → Biweekly | Transition period, "expected rates" language introduced | Zero | Medium - aggregate data, methodology gaps emerging | Summary statements replacing detailed investigations |
+| **Jul-Dec 2022** | Biweekly → Fortnightly | Standardised template, emphasis on reassurance | Zero | Low - "rates similar to expected" without statistical methodology | Minimal investigation detail, legacy warnings only |
+| **Jan-Jun 2023** | Fortnightly | Minimal detail, "no new concerns" messaging | Zero | Minimal - aggregate summaries only | No new signal investigations, established profile statements |
+| **Jul-Nov 2023** | Fortnightly → Cessation | Programme wind-down, final report Nov 2023 | Zero | None - cessation without evaluation | Cessation notice stating "routine monitoring continues" without public reports |
+
+**Key Pattern:** Progressive degradation from enhanced (weekly, detailed) to routine (fortnightly, minimal) without documented assessment against provisional approval's enhanced monitoring requirements or Plan framework references at any phase.
+
+**Timeline Correlation:**
+- **Sep 2021:** FOI 4029-03 shows TGA presented Strategy 2.3 methodology to Advisory Committee (PRR/MaxSPRT)
+- **Sep 2021-Nov 2023:** Concurrent public reports contain zero Strategy 2.3 references despite internal presentation
+- **Oct 2025:** Senate testimony confirms monitoring was "day-to-day processes" never systematically tracked
+
+---
+
 ## Methodology: Report Selection & Sampling
 
 ### ISO 19011 Sampling Principles
