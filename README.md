@@ -46,7 +46,7 @@ This README contains the narrative executive summary and overview. Key findings 
 - [Key Findings](#key-findings)
 - [The Evidence Base](#the-evidence-base)
 - [The Accountability Standard](#the-accountability-standard)
-  - [Administrative Law vs Accountability](#administrative-law-vs-accountability)
+  - [Foi Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
 - [The Critical Question](#the-critical-question)
@@ -225,7 +225,7 @@ This work exists to ensure that future reviews of Australia's COVID-19 regulator
 
 > In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
 
-### Administrative Law vs Accountability
+### FOI Compliance vs Governance Requirements
 
 OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
 
@@ -233,7 +233,7 @@ TGA's comprehensive search documentation satisfied FOI Act requirements under s2
 
 However, what those thorough searches established—that systematic Plan implementation records "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
 
-Procedural correctness in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
+Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
 
 
 ## The Investigation: Four Years of FOI Requests
