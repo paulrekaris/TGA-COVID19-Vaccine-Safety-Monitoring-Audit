@@ -234,23 +234,17 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 ### Timeline of Contradictions
 
 
-- **February 2022**  
-  TGA claims requested implementation documents “do not exist” (FOI 3643).
+- **February 2022** - TGA claims requested implementation documents “do not exist” (FOI 3643).
 
-- **February 2022**  
-  TGA acknowledges that “ample documentation” exists elsewhere, but does not identify Plan‑specific implementation records.
+- **February 2022** - TGA acknowledges that “ample documentation” exists elsewhere, but does not identify Plan‑specific implementation records.
 
-- **2022–2023**  
-  TGA organises extensive vaccine‑safety documentation for Information Commissioner review.
+- **2022–2023** - TGA organises extensive vaccine‑safety documentation for Information Commissioner review.
 
-- **September 2024**  
-  Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
+- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
 
-- **11 May 2025**  
-  Sparke Helmore case note provides third-party legal analysis of AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
+- **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
-- **June 2025**  
-  TGA identifies **399 Plan‑aligned documents** across 12 document categories but refuses to process them for citizen access, claiming that classification by Plan objectives requires “subjective interpretation”, despite having successfully classified 2,218+ pages nine months earlier (FOI 25‑0166).
+- **June 2025** - TGA identifies **399 Plan‑aligned documents** across 12 document categories but refuses to process them for citizen access, claiming that classification by Plan objectives requires “subjective interpretation”, despite having successfully classified 2,218+ pages nine months earlier (FOI 25‑0166).
 
 - **9 October 2025** – Senate Community Affairs Legislation Committee  
   TGA officials testify that:
