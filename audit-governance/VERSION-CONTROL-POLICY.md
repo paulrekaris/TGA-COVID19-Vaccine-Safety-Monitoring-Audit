@@ -118,9 +118,9 @@ This structured approach ensures every release has cryptographic proof of existe
 
 ## Rationale
 
-Regulatory accountability research faces inherent information asymmetry—TGA controls internal records whilst citizens rely on disclosed material subject to FOI redactions, practical refusals, and contradictory institutional positions.
+Regulatory accountability research faces inherent information asymmetry—TGA controls internal records while citizens rely on disclosed material subject to FOI redactions, practical refusals, and contradictory institutional positions.
 
-This audit applies transparency and records management standards to its own methodology, modelling the accountability expected of public institutions, whilst employing OSINT principles to systematically gather and verify TGA's publicly available statements.
+This audit applies transparency and records management standards to its own methodology, modelling the accountability expected of public institutions, while employing OSINT principles to systematically gather and verify TGA's publicly available statements.
 
 Detailed version control combined with OSINT documentation serves multiple accountability purposes:
 
@@ -130,7 +130,7 @@ Detailed version control combined with OSINT documentation serves multiple accou
 4. **Enables verification**: Allows ANAO, OAIC, Ombudsman, Parliament, and peer reviewers to examine both analytical development and independently replicate FOI/Senate/OAIC evidence gathering.
 5. **Builds trust**: Transparent error correction demonstrates intellectual honesty—documented OSINT methodology enables oversight bodies to verify investigative approach meets IC standards.
 
-Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering from TGA's own statements whilst meeting international standards for records integrity, audit quality, and intelligence community investigative methodology.
+Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering from TGA's own statements while meeting international standards for records integrity, audit quality, and intelligence community investigative methodology.
 
 ## References
 
