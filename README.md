@@ -40,11 +40,11 @@ This README contains the narrative executive summary and overview. Key findings 
 ## Table of Contents
 
 - [Purpose](#purpose)
-- [A Note on Accountability](#a-note-on-accountability)
 - [Guiding Standards](#guiding-standards)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [Evidence Standard](#evidence-standard)
+- [A Note on Accountability](#a-note-on-accountability)
   - [Administrative Law vs Accountability](#administrative-law-vs-accountability)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
@@ -118,22 +118,6 @@ through records, as required for an enhanced monitoring framework relied upon fo
 The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit 
 examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
 
-### Important Distinction: Routine vs Enhanced Monitoring
-
-This audit does NOT claim that routine pharmacovigilance failed to occur. TGA conducted monitoring activities, investigated 148 signals, and published more than 150 safety reports.
-
-**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for provisional approval and promised in the February 2021 Plan?
-
-**The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
-
-**Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
-
-## A Note on Accountability 
-
-This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
-
-In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
-
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
@@ -156,6 +140,18 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 > It exists to preserve a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms.
 >
 > To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
+>
+
+### Important Distinction: Routine vs Enhanced Monitoring
+
+This audit does NOT claim that routine pharmacovigilance failed to occur. TGA conducted monitoring activities, investigated 148 signals, and published more than 150 safety reports.
+
+**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for provisional approval and promised in the February 2021 Plan?
+
+**The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
+
+**Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
+
 
 ## Executive Summary
 
@@ -221,6 +217,12 @@ processes. [See detailed search methodology comparison](analysis/search-methodol
 The documentation gap is established as a matter of official record, 
 confirmed through both administrative law proceedings and parliamentary 
 testimony.
+
+## A Note on Accountability 
+
+This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
+
+In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
 
 ### Administrative Law vs Accountability
 
