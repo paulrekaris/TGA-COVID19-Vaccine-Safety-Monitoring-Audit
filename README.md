@@ -40,6 +40,7 @@ This README contains the narrative executive summary and overview. Key findings 
 ## Table of Contents
 
 - [Purpose](#purpose)
+- [A Note on Accountability](#a-note-on-accountability)
 - [Guiding Standards](#guiding-standards)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
@@ -127,12 +128,13 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 
 **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
-## Provenance and Accountability Principle
+## A Note on Accountability 
 
-> This work exists because Cabinet endorsed enhanced safety monitoring as the regulatory safeguard justifying provisional approval for 68.4 million doses administered to 21.2 million Australians—yet four years later, that monitoring cannot be independently verified through documentation.
->
-> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. The promise was enhanced oversight. The record shows routine processes never systematically tracked against the published plan. What cannot be verified cannot be proven to have existed—regardless of assurances given at the time.
+The documentation gap is established as a matter of official record, confirmed through both administrative law proceedings and parliamentary testimony.
 
+This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
+
+In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate.
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
