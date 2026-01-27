@@ -195,7 +195,7 @@ terms, finding zero Plan implementation records despite reviewing extensive rout
 **Office of the Australian Information Commissioner (OAIC) Decision 
 [2025] AICmr 54** reviewed this evidence and found the Department 
 took "all reasonable steps" under s24A of the FOI Act, concluding 
-"documents cannot be found or do not exist."
+"documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) confirmed the administrative law finding.
 
 **Senate testimony (9 October 2025):** TGA senior officials described 
 the Plan's "five key themes" as "essentially describ[ing] our 
@@ -234,6 +234,9 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **September 2024**  
   Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
+
+- **11 May 2025**  
+  Sparke Helmore case note provides third-party legal analysis of AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
 - **June 2025**  
   TGA identifies **399 Plan‑aligned documents** across 12 document categories but refuses to process them for citizen access, claiming that classification by Plan objectives requires “subjective interpretation”, despite having successfully classified 2,218+ pages nine months earlier (FOI 25‑0166).
