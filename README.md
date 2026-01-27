@@ -41,7 +41,7 @@ This README contains the narrative executive summary and overview. Key findings 
 
 - [Purpose](#purpose)
 - [Guiding Standards](#guiding-standards)
-  - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)-
+  - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Evidence Base](#the-evidence-base)
