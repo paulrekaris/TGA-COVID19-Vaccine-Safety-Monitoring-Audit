@@ -19,7 +19,7 @@ New to this audit? **Start here:**
 - [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) – Orientation, methodology, 
   limitations, and how to verify or challenge the findings.
 
-- [Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
+- [Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf) – Visual overview of the audit process, evidence hierarchy, and key findings.
 
 - [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) – 
   Slide-style overview of key findings and documentation gaps.
