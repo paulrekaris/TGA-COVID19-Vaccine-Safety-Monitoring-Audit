@@ -14,26 +14,26 @@
 
 New to this audit? **Start here:**
 
-- **[How to Navigate This Audit](FAQ.md)**
+- [How to Navigate This Audit](FAQ.md)
 
-- **[Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index)** – Orientation, methodology, 
+- [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) – Orientation, methodology, 
   limitations, and how to verify or challenge the findings.
 
-- **[Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
+- [Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** – Visual overview of the audit process, evidence hierarchy, and key findings.
 
-- **[Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf)** – 
+- [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) – 
   Slide-style overview of key findings and documentation gaps.
 
-- **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** – 
+- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) – 
   Primary, self-contained report with fully cited references, primary source 
   materials, findings, research methodology, and implementation status by Safety 
   Plan objective.
 
-- **[ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including ANAO audit criteria, evidence hierarchy, non-conformity ratings, and conformity assessment.
+- [ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md) – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including ANAO audit criteria, evidence hierarchy, non-conformity ratings, and conformity assessment.
 
--  **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
+- [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
-- **Permanent Archive** – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) | [Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
+- Permanent Archive – [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Arweave Blockchain](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) | [Bitcoin Timestamped Dec 31, 2025](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/blockchain-verification/Bitcoin-Timestamp-Verification-2025-12-31.png)
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
