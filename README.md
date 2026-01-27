@@ -721,7 +721,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
-**Archive:** [GitHub backup](reference-documents/FOI5082.pdf)
+**Archive:** [Download FOI5082.pdf](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/raw/main/reference-documents/FOI5082.pdf) (13.3 MB)
 
 **Summary**
 
