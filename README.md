@@ -223,7 +223,7 @@ testimony.
 
 This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
 
-In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
+> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
 
 ### Administrative Law vs Accountability
 
