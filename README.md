@@ -14,7 +14,7 @@
 
 New to this audit? 
 
-**Start here:**
+Start here:
 
 - [How to Navigate This Audit](FAQ.md)
 
