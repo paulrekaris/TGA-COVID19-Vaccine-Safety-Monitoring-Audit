@@ -44,8 +44,8 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)-
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
-- [Evidence Standard](#evidence-standard)
-- [A Note on Accountability](#a-note-on-accountability)
+- [The Evidence Base](#the-evidence-standard)
+- [The Accountability Standard](#the-accountability-standard)
   - [Administrative Law vs Accountability](#administrative-law-vs-accountability)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
@@ -189,7 +189,7 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 
 
-## Evidence Standard
+## The Evidence Base
 
 This finding is based on official determinations, not interpretation:
 
@@ -219,7 +219,7 @@ The documentation gap is established as a matter of official record,
 confirmed through both administrative law proceedings and parliamentary 
 testimony.
 
-## A Note on Accountability 
+## The Accountability Standard
 
 This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
 
