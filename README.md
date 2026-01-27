@@ -223,8 +223,6 @@ testimony.
 
 This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
 
-> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
-
 ### FOI Compliance vs Governance Requirements
 
 OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
@@ -234,6 +232,8 @@ TGA's comprehensive search documentation satisfied FOI Act requirements under s2
 However, what those thorough searches established—that systematic Plan implementation records "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
 
 Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
+
+> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
 
 
 ## The Investigation: Four Years of FOI Requests
