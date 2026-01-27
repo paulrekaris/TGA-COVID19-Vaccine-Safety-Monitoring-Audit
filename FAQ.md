@@ -277,7 +277,7 @@ These intergovernmental arrangements therefore anticipated systematic implementa
 
 **Unprecedented Scale:**
 - **21.2 million Australians** vaccinated (approximately 96% of eligible population)
-- **75 million total doses** administered (30 September, 2025)
+- **75 million total doses** administered (as of 30 September, 2025)
 - **68.4 million doses** under provisional approval
 - Fastest mass vaccination programme in Australian history
 
