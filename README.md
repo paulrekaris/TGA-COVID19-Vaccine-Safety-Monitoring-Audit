@@ -44,6 +44,7 @@ This README contains the narrative executive summary and overview. Key findings 
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [Evidence Standard](#evidence-standard)
+  - [Administrative Law vs Accountability](#administrative-law-vs-accountability)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
 - [The Critical Question](#the-critical-question)
@@ -213,6 +214,16 @@ processes. [See detailed search methodology comparison](analysis/search-methodol
 The documentation gap is established as a matter of official record, 
 confirmed through both administrative law proceedings and parliamentary 
 testimony.
+
+### Administrative Law vs Accountability
+
+OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
+
+TGA's comprehensive search documentation satisfied FOI Act requirements under s24A, demonstrating proper record-keeping of the search process itself. Independent legal analysis confirmed this procedural compliance.
+
+However, what those thorough searches established—that systematic Plan implementation records "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
+
+Procedural correctness in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
 
 
 ## The Investigation: Four Years of FOI Requests
