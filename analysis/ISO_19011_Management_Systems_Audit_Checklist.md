@@ -217,6 +217,92 @@ This audit operates within explicit methodological constraints that are transpar
 - **Process audit:** Examines documented evidence of implementation, not internal tacit knowledge or undocumented practices
 - **Commonwealth focus:** Primarily examines TGA responsibilities; limited visibility into state/territory implementation
 
+### Evidence Boundaries and Audit Assurance
+
+**ISO 19011 Foundational Principle:**
+
+ISO 19011:2018 Section 6.4.10 establishes that "audit conclusions are based on the audit evidence made available to the auditor" within the defined audit scope. Auditors draw conclusions from accessible evidence, not from hypothetical evidence that might exist but cannot be verified within audit boundaries.
+
+**This Audit's Evidence Boundaries:**
+
+This audit operates within clearly defined evidence boundaries consistent with ISO 19011, ANAO performance audit methodology, and OSINT best practice:
+
+**1. Publicly Accessible Sources:**
+- TGA website, published safety reports, regulatory guidance
+- Parliamentary records (Senate Hansard, committee testimony)
+- Partner organisation reports (AusVaxSafety, NCIRS)
+- Academic peer-reviewed literature
+
+**2. FOI-Obtained Documents:**
+- Materials released under Freedom of Information Act 1982
+- FOI 3643, FOI 4029-03, FOI 5082, FOI 5275, FOI 25-0166
+- Complete systematic review of 500+ FOI releases (2020-2025)
+
+**3. OAIC-Validated Searches:**
+- TGA's own comprehensive searches under OAIC statutory direction
+- 531+ TRIM containers searched (September 2024)
+- 2,218+ pages reviewed and classified by Plan objectives
+- Independent oversight body validation of search adequacy
+
+**4. Senate Testimony Under Privilege:**
+- Official statements by TGA senior officials under parliamentary privilege
+- Direct admissions regarding Plan implementation and tracking
+- Published in Senate Hansard (9 October 2025)
+
+**5. Independent Verification:**
+- OAIC Decision [2025] AICmr 54 (independent statutory oversight)
+- Sparke Helmore legal analysis (independent law firm assessment)
+- Academic literature (Phillips et al 2021, Glover et al 2024)
+
+**Assurance Level:**
+
+This audit provides **reasonable assurance** (not absolute certainty) based on systematic evidence collection within defined boundaries. This assurance level is consistent with:
+- **ISO 19011:** Management systems auditing standards
+- **ANAO:** Performance audit methodology for Commonwealth entities
+- **OSINT:** Best practice for publicly verifiable information analysis
+
+**Audit Standard Compliance:**
+
+The methodology meets professional audit standards for:
+- **Scope definition:** Clear boundaries explicitly stated and consistently maintained
+- **Systematic approach:** Multiple evidence sources, cross-referencing, independent validation
+- **Evidence quality:** Four-tier hierarchy prioritising highest-quality sources
+- **Transparency:** Complete documentation enabling independent verification
+- **Falsifiability:** Clear criteria for refuting findings through document production
+
+**Critical Distinction - Finding Statement:**
+
+The finding is **absence of verifiable evidence**, not **evidence of absence**. 
+
+This audit cannot prove enhanced monitoring did not occur internally within TGA. However, it demonstrates that such monitoring cannot be verified through accessible Commonwealth records under accountability frameworks requiring documented evidence of performance.
+
+This distinction is fundamental:
+- **Not claimed:** "Enhanced monitoring did not occur"
+- **Actual finding:** "Enhanced monitoring cannot be verified through documentation available within Commonwealth accountability frameworks"
+
+The inability to verify implementation through documentation constitutes the accountability gap identified by this audit.
+
+**Information Asymmetry Acknowledgement:**
+
+TGA holds operational knowledge and internal records this audit cannot access. However, under Commonwealth accountability frameworks:
+- **PGPA Act 2013 s37:** Requires entities to "explain" performance (necessitates documentation)
+- **Archives Act 1983:** Requires "full and accurate" records of government activities
+- **FOI Act 1982:** Provides statutory access to government records subject to exemptions
+
+The burden rests with TGA to demonstrate implementation through documentation accessible within these frameworks, not with external auditors to prove documentation doesn't exist somewhere in undisclosed locations.
+
+**If Additional Documentation Exists:**
+
+If implementation documentation exists but was not:
+- Disclosed through FOI processes (multiple requests 2022-2025)
+- Located in TGA's OAIC-directed comprehensive searches (531 containers)
+- Referenced in Senate testimony under parliamentary privilege
+- Published in 150+ public safety reports across 33 months
+
+Then TGA may address audit findings by producing such documentation through appropriate channels (FOI disclosure, OAIC provision, parliamentary submission, or public release).
+
+The audit methodology is designed to be responsive to new evidence whilst maintaining systematic assessment of currently accessible records.
+
 ### Impact on Findings:
 
 These limitations do not materially affect the validity of documented non-conformities where:
@@ -684,6 +770,171 @@ ISO 19011 principle of continuous improvement; learning culture that acts on exp
 **NON-CONFORMITY (MAJOR)** – No evidence expert warnings were systematically addressed despite five-year opportunity and publication in peer-reviewed literature
 
 **Impact:** Failure to learn from expert input indicates reactive rather than proactive culture; same limitations present in 2025 that experts identified in 2020
+
+---
+
+## Burden of Proof and Accountability Framework
+
+### Commonwealth Accountability Standards
+
+**Legislative Requirements:**
+
+Australian Commonwealth entities operate under statutory accountability frameworks requiring documented evidence of performance:
+
+**1. Public Governance, Performance and Accountability Act 2013 (PGPA Act)**
+
+**Section 37 - Preparation of annual performance statements:**
+> "The annual performance statements for a Commonwealth entity for a period must... set out... the results of the measurement and assessment" of entity performance.
+
+**Implication:** Entities must document performance against stated objectives to enable "measurement and assessment". Performance claims require supporting documentation.
+
+**2. Archives Act 1983**
+
+**Section 24 - Records management:**
+> Commonwealth institutions must maintain "full and accurate records" of their activities.
+
+**National Archives Standards:** Information Management Standard requires systematic records enabling "accountability for decisions and actions".
+
+**Implication:** Government activities require contemporaneous documentation enabling accountability verification.
+
+**3. Freedom of Information Act 1982 (FOI Act)**
+
+**Section 24A - Requests for access:**
+> Documents requested must exist or have been created for FOI obligations to apply.
+
+**Section 24AA - Searches:**
+> Agencies must take "all reasonable steps" to locate documents responsive to requests.
+
+**Implication:** Documented evidence of activities should be locatable through reasonable searches if proper records management maintained.
+
+### Burden of Proof Allocation
+
+**Fundamental Principle:**
+
+Under Commonwealth accountability frameworks, the burden rests with government entities to demonstrate performance through documentation, not with oversight bodies or citizens to prove documentation doesn't exist.
+
+**This Allocation Reflects:**
+
+1. **Information asymmetry:** Entities hold operational knowledge external parties cannot access
+2. **Record-keeping obligations:** Entities required to maintain systematic documentation
+3. **Accountability purpose:** Public oversight requires verifiable evidence, not trust-based claims
+4. **Democratic principle:** Government activities conducted on behalf of citizens require transparency
+
+**Application to This Audit:**
+
+TGA published the COVID-19 Vaccine Safety Monitoring Plan (February 2021) specifying 20 outputs across 17 numbered strategies as the operational framework for enhanced monitoring under provisional approval.
+
+**The burden rests with TGA to demonstrate:**
+- Systematic implementation of the 20 specified outputs
+- Governance mechanisms tracking progress against Plan commitments
+- Performance measurement enabling assessment of delivery
+- Documentation enabling independent verification of enhanced monitoring claims
+
+**The burden does NOT rest with this audit to prove:**
+- That monitoring activities never occurred
+- That TGA officials did not work diligently
+- That undocumented processes don't exist somewhere
+- That claimed activities are false
+
+### Evidence of Systematic Documentation Absence
+
+**After comprehensive evidence collection spanning four years (2022-2026):**
+
+**1. TGA's Own Searches (Highest Quality Evidence):**
+- September 2024: OAIC-directed searches of 531+ TRIM containers
+- Eight search terms targeting implementation and audit documentation
+- Classification of 2,218+ pages by Plan objectives (demonstrating classification capability)
+- **Result:** Zero implementation tracking documents identified
+
+**2. TGA's Official Admissions:**
+- **February 2022 (FOI 3643):** "No implementation report exists"
+- **October 2025 (Senate testimony):** Monitoring was "day-to-day processes" never systematically tracked against Plan
+- **September 2024 (OAIC submission):** Objective 5 "unable to meaningfully interpret into searchable item"
+
+**3. Independent Oversight Validation:**
+- **OAIC Decision [2025] AICmr 54:** Confirms searches were adequate and documents "cannot be found or do not exist"
+- **Sparke Helmore analysis:** Administrative law assessment validates FOI concerns
+- **Senate committee:** Public testimony under parliamentary privilege
+
+**4. Systematic Public Document Review:**
+- 150+ weekly/fortnightly safety reports (March 2021-November 2023)
+- Zero Plan framework references across entire 33-month reporting period
+- Zero output tracking despite reports being Output 2.2 deliverables
+- Programme cessation (November 2023) without evaluation or completion assessment
+
+**5. Multiple FOI Processes:**
+- FOI 3643 (2022): Refused under s24A (documents don't exist)
+- FOI 5082 (2023): Routine pharmacovigilance baseline - no Plan-specific enhanced monitoring documentation; confirms gaps persist
+- FOI 25-0166 (2025): 399 documents identified but practical refusal invoked
+- FOI 5275 (2024): Independent applicant receives "does not hold" response
+- Complete systematic review of 500+ FOI releases (2020-2025)
+
+### Accountability Gap Identified
+
+**The systematic absence of implementation documentation across multiple independent verification mechanisms constitutes an accountability gap under Commonwealth frameworks:**
+
+**What cannot be verified:**
+- Whether the 20 Plan outputs were systematically implemented as distinct from routine processes
+- How monitoring was "enhanced" beyond business-as-usual pharmacovigilance
+- Whether provisional approval conditions requiring enhanced monitoring were met
+- What governance mechanisms tracked delivery against Cabinet-endorsed commitments
+- How performance was measured against published Plan framework
+
+**What this means:**
+- TGA cannot demonstrate through documentation that formal commitments were operationalised
+- Citizens cannot verify claims of enhanced monitoring through accessible records
+- Parliament cannot assess performance against published Plan through available evidence
+- OAIC cannot locate implementation records through statutory search processes
+
+**This is the accountability gap:**
+
+Not that monitoring didn't occur (activities clearly happened: 140,000+ DAEN reports, 6.8M+ surveys, 148 signals, 57 actions), but that the Plan's enhanced monitoring framework cannot be verified through documentation accessible within Commonwealth accountability mechanisms.
+
+### ISO 19011 Compliance
+
+**This burden of proof allocation aligns with ISO 19011:2018 audit principles:**
+
+**Section 4.2(a) - Integrity:**
+> "Auditors... report truthfully and accurately."
+
+**Finding statement:** "Implementation cannot be verified through accessible documentation" is truthful and accurate based on available evidence.
+
+**Section 6.4.10 - Audit conclusions:**
+> "Based on audit evidence obtained."
+
+**Audit conclusions:** Drawn from evidence made available through systematic searches, not speculative claims about what might exist in inaccessible locations.
+
+### Addressing the Findings
+
+**TGA may address these findings by:**
+
+1. **Producing documentation demonstrating systematic implementation:**
+   - Progress reports tracking 20 outputs across rollout period
+   - Governance committee minutes documenting Plan oversight
+   - Performance metrics assessing delivery against commitments
+   - Integration protocols between surveillance systems
+   - Signal investigation methodologies and audit trails
+
+2. **Explaining documentation absence:**
+   - Clarifying why Cabinet-endorsed policy implemented without systematic tracking
+   - Addressing contradiction between internal capacity (FOI 4029-03 ACV presentation) and public documentation absence
+   - Reconciling "day-to-day processes" characterisation with "enhanced monitoring" commitment
+
+3. **Implementing corrective actions:**
+   - Establishing systematic performance tracking against published commitments
+   - Strengthening records management to meet Archives Act obligations
+   - Improving FOI processes to enable verification of policy implementation
+   - Creating governance frameworks ensuring accountability for delivery
+
+### Critical Point
+
+**This audit does not claim TGA failed to monitor vaccine safety.**
+
+The finding concerns **documentation and accountability**, not clinical or operational competence.
+
+Activities clearly occurred. The question is whether those activities constituted systematic implementation of the published Plan framework enabling verification through Commonwealth accountability mechanisms.
+
+**The inability to verify implementation through accessible documentation is the accountability gap this audit identifies.**
 
 ---
 
