@@ -627,8 +627,8 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | Finding Category | Count | Percentage |
 |-----------------|-------|-----------|
 | **Fully Documented (Conforming)** | 3 outputs | 15% |
-| **Partially Documented** | 5 outputs | 25% |
-| **Not Documented (Non-Conforming)** | 12 outputs | 60% |
+| **Partially Documented** | 11 outputs | 55% |
+| **Not Documented (Non-Conforming)** | 6 outputs | 30% |
 
 **Major Non-Conformities Identified:** 7
 1. Systematic tracking mechanism absent
