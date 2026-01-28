@@ -55,66 +55,78 @@ This audit follows a structured release process ensuring blockchain verification
 **Semantic Versioning Adapted for Audit Context⁶:**
 - **Major versions (X.0.0)**: Fundamental methodology changes or scope revisions
 - **Minor versions (1.X.0)**: Content updates including new FOI evidence, analytical enhancements, or findings refinements
-- **Patch versions (1.9.X)**: Metadata updates including blockchain verification, archival confirmation, or technical corrections without content changes
+- **Patch versions (1.9.X)**: Technical corrections or minor documentation updates without substantive content changes
 
 ### Standard Release Process
 
 Following ISO 15489-1:2016 records management principles² and OSINT documentation standards⁸,⁹,¹⁰, releases follow this workflow:
 
-**Phase 1: Content Release (Minor Version)**
+**Phase 1: Content Finalisation**
 1. Finalise all content changes (new FOI evidence, analytical updates, methodology refinements)
 2. Update version number and date in README
 3. Document changes in VERSION-HISTORY.md following Keep a Changelog principles⁷
 4. Commit changes to Git with descriptive message
-5. Create Git tag (e.g., `v1.10`)
-6. Push to GitHub and create GitHub Release¹¹
 
-**Phase 2: Blockchain Verification (Patch Version)**
-1. Generate cryptographic hash of released version
+**Phase 2: Blockchain Verification**
+1. Generate cryptographic hash of finalised version
 2. Create Bitcoin blockchain timestamp via OpenTimestamps (OP_RETURN transaction)¹³,¹⁴
 3. Upload to Arweave permanent storage network¹⁵
 4. Record verification transaction IDs
 5. Update VERSION-HISTORY.md with blockchain verification details
-6. Create patch version tag (e.g., `v1.10.1`)
-7. Document verification completion
+6. Commit verification metadata to same version
 
-**Phase 3: Academic Archival**
-1. Upload content release to Zenodo (minor versions only, not patches)
-2. Zenodo concept DOI automatically captures all versions¹⁶
-3. No repository updates required (uses persistent "all versions" DOI)
+**Phase 3: Release and Academic Archival**
+1. Create Git tag (e.g., `v2.0`)
+2. Push to GitHub and create GitHub Release¹¹
+3. Upload to Zenodo
+4. Zenodo concept DOI automatically captures all versions¹⁶
+5. Update DOI badge in README
 
 ### Rationale for Post-Release Verification
 
-Blockchain verification occurs *after* content release rather than before to solve the cryptographic integrity problem:
+Blockchain verification occurs after content finalisation rather than before to solve the cryptographic integrity problem:
 
 - **Authenticity principle²**: Including blockchain hashes *within* the version being hashed would alter the hash itself, creating circular dependency
-- **ISO 15489-1:2016 compliance²**: Separating content releases from verification metadata maintains record authenticity—the content version remains immutable while verification proves its existence at a point in time
+- **ISO 15489-1:2016 compliance²**: Blockchain verification provides proof of existence at a point in time while maintaining record authenticity—the content remains immutable while verification proves when it was fixed
 - **OSINT standards⁹,¹⁰**: Verification metadata documents *when* evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
-- **Audit trail transparency¹²**: Two-phase release (content → verification) creates clear evidence sequence: findings documented, then cryptographically proven to exist at that time
+- **Audit trail transparency¹²**: Sequential workflow (content → verification → release) creates clear evidence sequence: findings documented, then cryptographically proven to exist at that time, then publicly released
 
-This workflow ensures version integrity while maintaining separation between substantive findings (content releases) and provenance documentation (verification patches), following records management best practices for accountability infrastructure¹⁷.
+This workflow ensures version integrity while maintaining separation between substantive findings and provenance documentation, following records management best practices for accountability infrastructure¹⁷.
+
+### Verification Efficiency Principle
+
+This workflow minimises complexity while maintaining verification integrity. Following OSINT reproducibility standards⁹,¹⁰ and ISO 19011:2018 risk-based approach¹, the three-phase process uses the minimum steps necessary to achieve cryptographic proof:
+
+- **Single version per release**: Content and verification combined in one version (e.g., v2.0) rather than multiple patches, reducing version tracking overhead
+- **Sequential workflow**: Linear progression (content → blockchain → release) enables independent verification at each stage
+- **Permanent results**: Each phase produces immutable outputs (Git commits, blockchain transactions, Zenodo DOI) that cannot be altered
+- **Minimal dependencies**: Three verification mechanisms (Git, Bitcoin, Arweave) provide redundancy without excessive complexity
+
+Simpler verification workflows reduce error opportunities while increasing transparency—oversight bodies can reproduce the verification chain without navigating multiple version variants or complex metadata structures.
 
 ### Implementation in Practice
 
-**Example workflow for v1.10 release:**
+**Example workflow for v2.0 release:**
 ```
-v1.10 (Content Release)
+v2.0 (Content Finalisation)
 ├─ New FOI evidence added
 ├─ Analysis updated  
-├─ Git tagged and released
-└─ Documented in VERSION-HISTORY.md
+├─ VERSION-HISTORY.md documented
+└─ Content frozen
 
-v1.10.1 (Verification Patch)
+v2.0 (Blockchain Verification)
 ├─ Bitcoin timestamp recorded¹³,¹⁴ (tx: OP_RETURN abc123...)
 ├─ Arweave storage confirmed¹⁵
 ├─ Verification details added to VERSION-HISTORY.md
-└─ No content changes from v1.10
+└─ Verification metadata committed to v2.0
 
-v1.10 uploaded to Zenodo
-└─ Concept DOI includes both v1.10 and v1.10.1
+v2.0 (Release and Archival)
+├─ Git tagged and pushed to GitHub
+├─ GitHub Release created
+└─ Uploaded to Zenodo (concept DOI includes blockchain-verified v2.0)
 ```
 
-This structured approach ensures every release has cryptographic proof of existence while maintaining clean separation between substantive updates and archival metadata, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
+This structured approach ensures every release has cryptographic proof of existence while maintaining clean workflow separation between content development, verification, and public release, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
 
 ## Rationale
 
