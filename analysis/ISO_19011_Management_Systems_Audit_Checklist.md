@@ -432,7 +432,7 @@ To validate that this audit's evidence collection was comprehensive, a comparati
 
 **Key Difference:** TGA searched for document titles; audit searched for implementation activities and outputs
 
-**Comparative Analysis:** [Search Methodology Comparison](analysis/search-methodology-comparison.md) documents 9 critical evidence categories (64%) not searched by TGA, raising questions about "all reasonable steps" standard under FOI Act s24A
+**Comparative Analysis:** [Search Methodology Comparison](search-methodology-comparison.md) documents 9 critical evidence categories (64%) not searched by TGA, raising questions about "all reasonable steps" standard under FOI Act s24A
 
 **Implication:** This audit's search methodology was demonstrably more comprehensive than TGA's own OAIC-directed searches, strengthening confidence that evidence base is complete
 
@@ -459,7 +459,7 @@ Following completion of primary audit evidence collection, a systematic review o
 
 **Conclusion:** Repository contains all available Plan implementation evidence from complete FOI corpus. Documentation gap is comprehensive and systemic across entire FOI record, not selective sampling
 
-**Systematic Review Documentation:** [FOI Systematic Search and Review (2020-2025)](analysis/foi-systematic-search-review.md) provides complete methodology, quality assurance measures, and detailed candidate assessment
+**Systematic Review Documentation:** [FOI Systematic Search and Review (2020-2025)](foi-systematic-search-review.md) provides complete methodology, quality assurance measures, and detailed candidate assessment
 
 **Implication:** Evidence collection complete; findings based on comprehensive review of all available FOI evidence
 
@@ -517,7 +517,7 @@ TGA's September 2024 OAIC-directed searches excluded Advisory Committee containe
 **6. Compensation Barrier:**
 Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) approved. Remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal investigation documentation TGA holds for exact injury patterns (myocarditis, GBS, menstrual disorders) that could support causation assessments on "balance of probabilities" standard.
 
-**Comprehensive Analysis:** [Surveillance Data Analysis](analysis/surveillance-analysis.md) provides complete sampling methodology, detailed report assessment, data source integration analysis, ICH E2E compliance evaluation, and comparative international practice review
+**Comprehensive Analysis:** [Surveillance Data Analysis](surveillance-analysis.md) provides complete sampling methodology, detailed report assessment, data source integration analysis, ICH E2E compliance evaluation, and comparative international practice review
 
 **Implication:** Extensive monitoring activities occurred (140,000+ DAEN reports, 3M+ AusVaxSafety responses, 148 signals, 57 actions, 150+ reports), but systematic absence of Plan framework references and statistical methodology outputs demonstrates Plan did not function as public accountability framework. Two-tier transparency system: internal advisory bodies received Plan-organised materials while concurrent public reports contained zero Plan references.
 
