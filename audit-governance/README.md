@@ -20,6 +20,7 @@ These documents demonstrate the audit's commitment to:
 - **Integrity** - Version control and blockchain timestamping prevent retrospective alteration
 - **Accountability** - Clear responsibility for all versions with documented rationale
 - **Reproducibility** - Complete methodology enabling independent verification
+- **Permanence** - Long-term preservation ensuring evidence and methodology remain accessible independent of institutional or platform changes
 - **Research Standards** - Alignment with international standards for audit quality, records management, and open science
 
 ## Related Documentation
