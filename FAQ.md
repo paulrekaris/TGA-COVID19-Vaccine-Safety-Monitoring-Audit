@@ -718,4 +718,5 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 <sup>2</sup> Provisional approval pathway doses through July 2023 baseline per TGA audit scope (TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9). <sup>[↩](#fn2-ref)</sup>
 
 
+
 [↑ Back to FAQ index](#frequently-asked-questions---quick-index)
