@@ -265,7 +265,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
   - 148 safety signals were investigated and 57 regulatory actions taken – yet **no documentation links specific signals to specific actions**.
 
-A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. Decision pending as of January 2026
+A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. Decision pending as of January 2026.
 
 
 ## The Critical Question
