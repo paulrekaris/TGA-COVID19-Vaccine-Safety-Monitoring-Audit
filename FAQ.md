@@ -710,7 +710,6 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 ---
 
----
 
 **Footnotes:**
 
