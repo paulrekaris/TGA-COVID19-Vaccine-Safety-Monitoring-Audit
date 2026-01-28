@@ -459,7 +459,7 @@ Following completion of primary audit evidence collection, a systematic review o
 
 **Conclusion:** Repository contains all available Plan implementation evidence from complete FOI corpus. Documentation gap is comprehensive and systemic across entire FOI record, not selective sampling
 
-**Systematic Review Documentation:** [FOI Systematic Search and Review (2020-2025)](foi-systematic-search-review.md) provides complete methodology, quality assurance measures, and detailed candidate assessment
+**Systematic Review Documentation:** [FOI Systematic Search and Review (2020-2025)](foi-systematic-review.md) provides complete methodology, quality assurance measures, and detailed candidate assessment
 
 **Implication:** Evidence collection complete; findings based on comprehensive review of all available FOI evidence
 
