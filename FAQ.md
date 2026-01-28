@@ -713,8 +713,8 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 **Footnotes:**
 
-<sup><a id="fn1" href="#fn1-ref">1</a></sup> Latest available: 75M total doses administered as of 30 September 2025, Australian Immunisation Register/Department of Health. COVID-19 vaccination rollout update, 1 Oct 2025 <sup><a href="#fn1-ref">↩</a></sup>
+<a name="footnote1"></a> [1] Latest available: 75M total doses administered as of 30 September 2025, Australian Immunisation Register/Department of Health. *COVID-19 vaccination rollout update, 1 Oct 2025* [↩](#footnote1-ref)
 
-<sup><a id="fn2" href="#fn2-ref">2</a></sup> Provisional approval pathway doses through July 2023 baseline per TGA audit scope (TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9). <sup><a href="#fn2-ref">↩</a></sup>
+<a name="footnote2"></a> [2] Provisional approval pathway doses through July 2023 baseline per TGA audit scope (TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9). [↩](#footnote2-ref)
 
 [↑ Back to FAQ index](#frequently-asked-questions---quick-index)
