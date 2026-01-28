@@ -436,7 +436,7 @@ To validate that this audit's evidence collection was comprehensive, a comparati
 
 **Implication:** This audit's search methodology was demonstrably more comprehensive than TGA's own OAIC-directed searches, strengthening confidence that evidence base is complete
 
-**Evidence Source 6: Systematic FOI Disclosure Log Review
+**Source 6: Systematic FOI Disclosure Log Review**
 
 **Evidence Base Completeness Validation:**
 
@@ -463,7 +463,7 @@ Following completion of primary audit evidence collection, a systematic review o
 
 **Implication:** Evidence collection complete; findings based on comprehensive review of all available FOI evidence
 
-**Evidence Source 7: Public Surveillance Reports Analysis
+**Source 7: Public Surveillance Reports Analysis**
 
 **Public Reporting Transparency Assessment:**
 
