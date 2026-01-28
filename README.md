@@ -46,9 +46,9 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
-- [The Evidence Base](#the-evidence-base)
 - [The Accountability Standard](#the-accountability-standard)
   - [Foi Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
+- [The Evidence Base](#the-evidence-base)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
 - [The Critical Question](#the-critical-question)
@@ -190,6 +190,22 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 > #### 5. Provisional approval verification gap  
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 
+## The Accountability Standard
+
+This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
+
+### FOI Compliance vs Governance Requirements
+
+OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
+
+TGA's comprehensive search documentation satisfied FOI Act requirements under s24A, demonstrating proper record-keeping of the search process itself. Independent legal analysis confirmed this procedural compliance.
+
+However, what those thorough searches established—that systematic Plan implementation records "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
+
+Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
+
+> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
+
 
 ## The Evidence Base
 
@@ -220,22 +236,6 @@ processes. [See detailed search methodology comparison](analysis/search-methodol
 The documentation gap is established as a matter of official record, 
 confirmed through both administrative law proceedings and parliamentary 
 testimony.
-
-## The Accountability Standard
-
-This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
-
-### FOI Compliance vs Governance Requirements
-
-OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
-
-TGA's comprehensive search documentation satisfied FOI Act requirements under s24A, demonstrating proper record-keeping of the search process itself. Independent legal analysis confirmed this procedural compliance.
-
-However, what those thorough searches established—that systematic Plan implementation records "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
-
-Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
-
-> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
 
 
 ## The Investigation: Four Years of FOI Requests
