@@ -31,7 +31,7 @@ Start here:
   materials, findings, research methodology, and implementation status by Safety 
   Plan objective.
 
-- [ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md) – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including ANAO audit criteria, evidence hierarchy, non-conformity ratings, and conformity assessment.
+- ISO 19011 Management Systems Audit – Independent conformity assessment of TGA’s COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines, ANAO audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
 
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
@@ -811,7 +811,7 @@ The comprehensive audit report includes:
 
 - **[FOI Systematic Review](analysis/foi-systematic-review.md)** – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
-- **[ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Full ISO 19011:2018 audit of TGA's COVID-19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non-conformity ratings, and overall conformity assessment.
+- **[ISO 19011 Management Systems Audit](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – Independent conformity assessment of TGA's Safety Plan implementation using ISO 19011:2018 guidelines, ANAO audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
 
 - **[Search Methodology Comparison](analysis/search-methodology-comparison.md)** – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed document-title searches (8 generic terms), documenting gaps in signal detection, AusVaxSafety coordination, ICMRA sharing, and pharmacovigilance terminology. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
 
