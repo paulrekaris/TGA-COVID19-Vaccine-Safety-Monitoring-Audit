@@ -478,7 +478,7 @@ To assess whether the Plan functioned as public accountability framework, a syst
 
 **1. Zero Plan Framework References:**
 Across all 150+ reports spanning 33 months:
-- Zero references to Plan as organizing framework
+- Zero references to Plan as organising framework
 - Zero Output 2.2 tracking (despite reports being Output 2.2 deliverables)
 - Zero Strategy 2.3 outputs in public reports
 - Zero assessment of Plan delivery status at cessation
@@ -486,7 +486,7 @@ Across all 150+ reports spanning 33 months:
 **2. Internal Capacity Proven, Public Opacity Maintained:**
 FOI 4029-03 (September 2021) demonstrates TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines including:
 - Proportional Reporting Ratio (PRR) analysis: PRR≥1/cases≥2
-- Maximized Sequential Probability Ratio Test (MaxSPRT)
+- Maximised Sequential Probability Ratio Test (MaxSPRT)
 - Australian Immunisation Register (AIR) denominator-based analysis
 - Observed vs expected statistical methodology
 
@@ -500,7 +500,7 @@ Yet concurrent public safety reports (September 2021 onwards) contained:
 Systematic degradation documented across five distinct periods:
 - **Phase 1 (Mar-Dec 2021):** Weekly, detailed signal investigations, comprehensive data
 - **Phase 2 (Jan-Jun 2022):** Biweekly, "expected rates" language introduced without methodology
-- **Phase 3 (Jul-Dec 2022):** Fortnightly, standardized reassurance messaging
+- **Phase 3 (Jul-Dec 2022):** Fortnightly, standardised reassurance messaging
 - **Phase 4 (Jan-Jun 2023):** Minimal detail, "no new concerns" statements
 - **Phase 5 (Jul-Nov 2023):** Wind-down to cessation without evaluation
 
