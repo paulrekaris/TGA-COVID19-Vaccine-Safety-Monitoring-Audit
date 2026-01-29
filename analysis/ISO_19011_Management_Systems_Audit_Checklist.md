@@ -1068,7 +1068,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | | 2.5 | Clinical studies and reports | ✗ Not Doc | OAIC searches: zero enhanced sponsor report processes |
 | | 2.6 | Environmental scanning | ✗ Not Doc | OAIC searches: zero systematic scanning processes |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation but no systematic sharing protocols |
-| | 2.8 | Expert advice | ◐ Partial | ACV meetings but no COVID-specific advisory arrangements |
+| | 2.8 | Expert advice | ◐ Partial |  ACV meetings occurred; FOI 4029-05 shows VSIG operational but child deaths not referred for expert review |
 | **3: Communication** | 3.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
 | **4: Integration** | 4.1 | Data integration | ◐ Partial | Multiple sources accessed but no integration methodology |
 | **5: Research** | 5.1 | Contribution to research | ◐ Partial | OAIC: Objective 5 "unable to meaningfully interpret" |
@@ -1118,7 +1118,15 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 - Process outputs (protocols, governance, integration): 0-40% documented
 - Suggests public-facing activities prioritised over systematic frameworks
 
-**5. International vs Domestic Accountability: Transparency Gap**
+**5: Expert Advisory Mechanisms Not Utilised**
+- FOI 4029-05 shows Vaccine Safety Investigation Group (VSIG) operational
+- Child deaths occurred during period when VSIG operational
+- Deaths not referred to VSIG for expert review
+- TGA Senate testimony claimed "burn out" prevented expert review
+- Evidence contradicts testimony: mechanism existed and was operational but not utilized
+- Demonstrates gap between available processes and systematic implementation
+  
+**6. International vs Domestic Accountability: Transparency Gap**
 - International engagement documented (ICMRA participation, ACV presentations)
 - Domestic public accountability absent (zero Plan references in 150+ reports)
 - Two-tier transparency: internal/advisory vs public
