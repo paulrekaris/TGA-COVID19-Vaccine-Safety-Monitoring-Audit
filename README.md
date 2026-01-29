@@ -98,7 +98,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Licence](#licence)
   - [Citation](#citation)
 - [Disclaimer and Declaration](#disclaimer-and-declaration)
-  - [Nature of This Audit] (#nature-of-this-audit)
+  - [Nature of This Audit](#nature-of-this-audit)
   - [Scope and Intent](#scope-and-intent)
   - [Scope of Assessment](#scope-of-assessment)
   - [Peer-Review Status](#peer-review-status)
