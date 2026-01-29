@@ -14,6 +14,8 @@ This directory contains the main audit report and supporting analysis materials.
 
 - **[ISO_19011_Management_Systems_Audit_Checklist.md](ISO_19011_Management_Systems_Audit_Checklist.md)** – Complete ISO 19011:2018 audit framework assessment with ANAO criteria, evidence hierarchy, and non-conformity ratings
 
+- **[Output Assessment Evidence Matrix (Excel Workbook)](/output-assessment-evidence-matrix.xlsx)** – Granular evidence matrix assessing all 20 Plan outputs with sources checked, findings, documentation gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions. Excel workbook format with multiple sheets.
+
 - **[search-methodology-comparison.md](search-methodology-comparison.md)** – Comparison of audit's 14 output-specific search terms versus TGA's 8 generic document-title terms with gap analysis
 
 - **[surveillance-analysis.md](surveillance-analysis.md)** – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
