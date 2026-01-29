@@ -1201,6 +1201,23 @@ Comprehensive corrective action programme required addressing:
 
 ---
 
+### Scale and Context
+
+This finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million Australians between February 2021 and June 2023.
+
+Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring to compensate for reduced pre-market evidence. TGA's provisional registration guidance states that provisionally approved medicines are subject to enhanced surveillance and additional pharmacovigilance conditions.
+
+The documentation gaps identified in this audit have been:
+- Confirmed through TGA's own OAIC-directed searches (531+ containers, September 2024)
+- Validated by OAIC Decision [2025] AICmr 54 
+- Corroborated by systematic review of publicly available documentation, including 500+ FOI disclosure log entries (2020-2025) and 150+ published safety reports (March 2021-November 2023), containing zero Plan implementation or framework references
+- Acknowledged in Senate testimony (9 October 2025: monitoring "never systematically tracked")
+- Documented across four years of FOI processes (2022-2025)
+
+As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit or formal investigation into these documentation gaps.
+
+---
+
 ## Recommendations
 
 ### For Immediate Action
