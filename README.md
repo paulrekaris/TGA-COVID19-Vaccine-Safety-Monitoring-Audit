@@ -196,9 +196,7 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 
 ## Scale and Context
 
-This finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million Australians. Provisional approval requires enhanced post-market monitoring to compensate for reduced pre-market evidence.
-
-These documentation gaps have been confirmed through TGA's OAIC-directed searches (531+ containers), validated by OAIC Decision [2025] AICmr 54, corroborated by systematic review of publicly available documentation including 500+ FOI releases and 150+ published safety reports containing zero Plan framework references, and acknowledged in Senate testimony (October 2025). As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit.
+This finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million Australians between February 2021 and June 2023. These documentation gaps have been confirmed through TGA's OAIC-directed searches (531+ containers), validated by OAIC Decision [2025] AICmr 54, and acknowledged in Senate testimony (October 2025). As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
 
 ## The Accountability Standard
 
