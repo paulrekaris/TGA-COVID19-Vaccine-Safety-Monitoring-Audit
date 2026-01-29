@@ -1048,6 +1048,94 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 **Observations (Require Explanation):** 1
 - Gap between public messaging and policy commitments requires clarification
 
+---
+
+### Output-by-Output Breakdown
+
+**Detailed assessment of all 20 Plan outputs by objective:**
+
+| Objective | Output # | Output Description | Status | Evidence Basis |
+|-----------|----------|-------------------|--------|----------------|
+| **1: AEFI Collection** | 1.1 | Enhanced reporting of AEFI | ✓ Fully | Website content, 150+ reports published |
+| | 1.2 | Enhanced AEFI reporting forms | ✓ Fully | Updated forms with COVID-19 fields publicly available |
+| | 1.3 | Enhanced AEFI report sharing | ◐ Partial | State data in reports but no sharing protocols documented |
+| | 1.4 | Enhanced AEFI data capabilities | ◐ Partial | 140K+ reports processed but no enhanced preparation documented |
+| | 1.5 | Enhanced AEFI report escalation | ◐ Partial | 148 signals investigated but no COVID-specific protocols documented |
+| **2: Signal Detection** | 2.1 | Understanding safety profiles | ◐ Partial | AESI list used but expected rates methodology not documented |
+| | 2.2 | Protocols for investigating AEFI | ✗ Not Doc | OAIC searches (531 containers): zero COVID-specific protocols found |
+| | 2.3 | Enhanced cumulative data reviews | ✗ Not Doc | FOI 4029-03 shows ACV presentation but zero public outputs |
+| | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys but no TGA coordination protocols documented |
+| | 2.5 | Clinical studies and reports | ✗ Not Doc | OAIC searches: zero enhanced sponsor report processes |
+| | 2.6 | Environmental scanning | ✗ Not Doc | OAIC searches: zero systematic scanning processes |
+| | 2.7 | International safety signals | ◐ Partial | ICMRA participation but no systematic sharing protocols |
+| | 2.8 | Expert advice | ◐ Partial | ACV meetings but no COVID-specific advisory arrangements |
+| **3: Communication** | 3.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
+| **4: Integration** | 4.1 | Data integration | ◐ Partial | Multiple sources accessed but no integration methodology |
+| **5: Research** | 5.1 | Contribution to research | ◐ Partial | OAIC: Objective 5 "unable to meaningfully interpret" |
+| **Cross-cutting** | COLLAB.1 | National collaborations | ◐ Partial | State data visible but no formal frameworks documented |
+| | COLLAB.2 | International collaborations | ◐ Partial | ICMRA participation but no systematic frameworks |
+| | GOV.1 | Implementation oversight | ✗ Not Doc | Senate: "never systematically tracked"; zero governance docs |
+| | GOV.2 | Performance measurement | ✗ Not Doc | Zero metrics; 150+ reports contain zero Plan references |
+
+### Summary by Objective
+
+**Conformity rates show systematic implementation failure for core enhanced monitoring processes:**
+
+| Objective | Total Outputs | Fully ✓ | Partial ◐ | Not Doc ✗ | Conformity % |
+|-----------|---------------|---------|-----------|-----------|--------------|
+| **1: AEFI Collection** | 5 | 2 | 3 | 0 | 40% |
+| **2: Signal Detection** | 8 | 0 | 4 | 4 | 0% |
+| **3: Communication** | 1 | 1 | 0 | 0 | 100% |
+| **4: Integration** | 1 | 0 | 1 | 0 | 0% |
+| **5: Research** | 1 | 0 | 1 | 0 | 0% |
+| **Cross-cutting: Collaboration** | 2 | 0 | 2 | 0 | 0% |
+| **Cross-cutting: Governance** | 2 | 0 | 0 | 2 | 0% |
+| **TOTAL** | **20** | **3** | **11** | **6** | **15%** |
+
+### Critical Gap Analysis
+
+**Key Patterns Identified:**
+
+**1. Enhanced Monitoring (Objective 2): Complete Implementation Failure**
+- 8 outputs assessed: 0 fully implemented (0%)
+- Core enhanced monitoring processes not documented
+- FOI 4029-03 proves TGA presented Strategy 2.3 methodology to Advisory Committee (Sep 2021) but zero outputs in concurrent public reports
+- Gap between internal capacity and public transparency documented
+
+**2. Governance & Performance: Total Documentation Absence**
+- 2 outputs assessed: 0 documented (0%)
+- Senate testimony: monitoring "never systematically tracked" against Plan
+- OAIC searches (531 containers): zero governance documentation found
+- 150+ public reports contain zero Plan framework references across 33 months
+
+**3. Enhanced vs Routine Distinction: Cannot Be Verified**
+- 17 of 20 outputs (85%) cannot distinguish enhanced from routine processes
+- Plan committed to enhanced monitoring but framework implementation not documented
+- Activities clearly occurred (140K DAEN, 6.8M surveys, 148 signals) but systematic Plan implementation not evidenced
+
+**4. Communication vs Process Outputs: Stark Divergence**
+- Communication outputs (1.1, 1.2, 3.1): 100% documented (deliverables exist)
+- Process outputs (protocols, governance, integration): 0-40% documented
+- Suggests public-facing activities prioritised over systematic frameworks
+
+**5. International vs Domestic Accountability: Transparency Gap**
+- International engagement documented (ICMRA participation, ACV presentations)
+- Domestic public accountability absent (zero Plan references in 150+ reports)
+- Two-tier transparency: internal/advisory vs public
+
+### Evidence Matrix Reference
+
+**Complete output-by-output evidence trail available:**
+
+### Evidence Matrix Reference
+
+**Complete output-by-output evidence trail:**
+
+**[Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx)** – Detailed evidence matrix for all 20 outputs with sources, findings, gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions.
+
+---
+
+
 ### Conformity Rating by Assessment Area
 
 | Assessment Area | Rating | Evidence Basis |
