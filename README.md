@@ -98,6 +98,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Licence](#licence)
   - [Citation](#citation)
 - [Disclaimer and Declaration](#disclaimer-and-declaration)
+  - [Nature of This Audit] (#nature-of-this-audit)
   - [Scope and Intent](#scope-and-intent)
   - [Scope of Assessment](#scope-of-assessment)
   - [Peer-Review Status](#peer-review-status)
@@ -907,6 +908,10 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 
 
 # DISCLAIMER AND DECLARATION
+
+## Nature of This Audit
+
+This citizen-led assessment is termed an "audit" because it applies systematic audit methodology (ISO 19011:2018, ANAO principles) to evaluate documented evidence against published commitments. However, it lacks the statutory powers, internal access, and formal appointment of a regulatory audit. All findings are based exclusively on publicly accessible documents, FOI responses, and official testimony. This work cannot compel evidence production or verify internal processes—it can only assess what can be independently verified through available records. The absence of verifiable documentation is itself the key accountability finding. This assessment invites formal audit by ANAO with full access to TGA's internal systems and staff.
 
 ## Scope and Intent
 
