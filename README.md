@@ -298,6 +298,8 @@ The assessment systematically evaluated all 20 Plan outputs against publicly ava
 - **55% Partially implemented/undocumented (11/20 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
 - **30% Not documented (6/20 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
+**Detailed breakdown by objective:** [View complete conformity assessment](analysis/ISO_19011_Management_Systems_Audit_Checklist.md#output-by-output-breakdown) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
+
 
 ## Four Critical Documentation Gaps
 
