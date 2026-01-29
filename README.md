@@ -913,6 +913,8 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 
 This citizen-led assessment is termed an "audit" because it applies systematic audit methodology (ISO 19011:2018, ANAO principles) to evaluate documented evidence against published commitments. However, it lacks the statutory powers, internal access, and formal appointment of a regulatory audit. All findings are based exclusively on publicly accessible documents, FOI responses, and official testimony. This work cannot compel evidence production or verify internal processes—it can only assess what can be independently verified through available records. The absence of verifiable documentation is itself the key accountability finding. This assessment invites formal audit by ANAO with full access to TGA's internal systems and staff.
 
+**Methodological Boundaries:** Consistent with ISO 19011:2018 and ANAO audit principles, findings are presented objectively and conclusions are based strictly on audit evidence. This assessment is limited to evaluating documented evidence of Plan implementation. No opinions are expressed on policy appropriateness, social consequences, or matters beyond audit scope.
+
 ## Scope and Intent
 
 This audit assesses documented evidence of Safety Plan implementation against provisional approval commitments and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control.
