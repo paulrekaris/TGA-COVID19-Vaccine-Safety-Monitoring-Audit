@@ -982,7 +982,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 **Last Updated:** 14 January 2026  
 **Published**: 14 January 2026
 
-For detailed version history and changelog, see [VERSION-HISTORY.md](audit-governance/version-history.md)
+For detailed version history and changelog, see [Version History](audit-governance/version-history.md)
 
 -----
 
