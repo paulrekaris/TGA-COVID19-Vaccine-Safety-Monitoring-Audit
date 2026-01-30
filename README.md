@@ -193,7 +193,7 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
 > #### 6. Detailed conformity assessment: 0% implementation for core monitoring
-> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown][View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs. showing evidence basis for all 20 Plan outputs.
+> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown]      [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs. showing evidence basis for all 20 Plan outputs.
 
 ## Scale and Context
 
