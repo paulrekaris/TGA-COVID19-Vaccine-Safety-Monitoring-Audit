@@ -193,7 +193,7 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
 > #### 6. Detailed conformity assessment: 0% implementation for core monitoring
-> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs   [View detailed output-by-output breakdown](analysis/ISO_19011_Management_Systems_Audit_Checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs.
+> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown][View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs. showing evidence basis for all 20 Plan outputs.
 
 ## Scale and Context
 
@@ -823,7 +823,7 @@ The comprehensive audit report includes:
 - **[FOI Systematic Review](analysis/foi-systematic-review.md)** – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
 - **[ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md)** – 
-  Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown](analysis/ISO_19011_Management_Systems_Audit_Checklist.md#output-by-output-breakdown) showing 15% conformity rate across 20 Plan outputs, with Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
+  Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown]([View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs.) showing 15% conformity rate across 20 Plan outputs, with Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
 
 - **[Search Methodology Comparison](analysis/search-methodology-comparison.md)** – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed document-title searches (8 generic terms), documenting gaps in signal detection, AusVaxSafety coordination, ICMRA sharing, and pharmacovigilance terminology. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
 
