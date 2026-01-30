@@ -1371,7 +1371,9 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 ## References Summary   
 
-This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. Total: 65 references.
+This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. 
+
+Total: 67 references.
 
 **[Reference Documents Folder](../reference-documents)** – Key source documents referenced in the audit assessment.
 
@@ -1402,68 +1404,68 @@ https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways/cli
 
 9.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report: 3 March 2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-3-march-2021
     
-11.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 27 January 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-27-01-2022
+10.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 27 January 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-27-01-2022
     
-12.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 24 February 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-24-02-2022
+11.	Therapeutic Goods Administration (TGA). COVID-19 vaccine weekly safety report - 24 February 2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-24-02-2022
     
-13.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 13 July 2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-13-07-2023
+12.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 13 July 2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-13-07-2023
 
-14.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 2 November 2023 [Final regular report]. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23
+13.	Therapeutic Goods Administration (TGA). COVID-19 vaccine safety report - 2 November 2023 [Final regular report]. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-23
 
-15. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety reports (Main archive). https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
+14. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety reports (Main archive). https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
 
-16. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety monitoring and reporting. https://www.tga.gov.au/covid-19-vaccine-safety-monitoring-and-reporting
+15. Therapeutic Goods Administration (TGA). COVID-19 vaccine safety monitoring and reporting. https://www.tga.gov.au/covid-19-vaccine-safety-monitoring-and-reporting
 
 **TGA Provisional Approval Decisions**
 
-17. TGA. (2021, January 25). Australian Product Information - Comirnaty (Pfizer) 
+16. TGA. (2021, January 25). Australian Product Information - Comirnaty (Pfizer) 
 COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescription-medicines-registrations/comirnaty-pfizer-australia-pty-ltd-0
 
 **Australian Technical Advisory Group on Immunisation (ATAGI)**
 
-18. ATAGI statement on use of COVID-19 vaccines (2021). Australian Government Department of Health. https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi
+17. ATAGI statement on use of COVID-19 vaccines (2021). Australian Government Department of Health. https://www.health.gov.au/committees-and-groups/australian-technical-advisory-group-on-immunisation-atagi
 
 **AusVaxSafety Surveillance System:**
 
-19. AusVaxSafety. Active and enhanced vaccine safety surveillance for COVID-19 vaccines in Australia. National Centre for Immunisation Research and Surveillance (NCIRS). https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia
+18. AusVaxSafety. Active and enhanced vaccine safety surveillance for COVID-19 vaccines in Australia. National Centre for Immunisation Research and Surveillance (NCIRS). https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia
 
 **Government Commitments and Policy Documents**
 
-20. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/sites/default/files/documents/2021/01/covid-19-vaccination-australia-s-covid-19-vaccine-national-roll-out-strategy.pdf
+19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/sites/default/files/documents/2021/01/covid-19-vaccination-australia-s-covid-19-vaccine-national-roll-out-strategy.pdf
 
-21. Australian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
+20. Australian Government. (2021, February). National Partnership on COVID-19 Response - Bilateral Agreements. https://federalfinancialrelations.gov.au/
 
-22. Australian Government Department of Health. (2021, February 3). https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy
+21. Australian Government Department of Health. (2021, February 3). https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy
 
 **FOI Evidence**
 
-23. Therapeutic Goods Administration (TGA). (2022, February 27). FOI Request 3643 – Notice of Decision. Decision maker: Elspeth Kay, Assistant Secretary, Pharmacovigilance Branch. TRIM Reference: D22-5201218. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
+22. Therapeutic Goods Administration (TGA). (2022, February 27). FOI Request 3643 – Notice of Decision. Decision maker: Elspeth Kay, Assistant Secretary, Pharmacovigilance Branch. TRIM Reference: D22-5201218. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-24. Therapeutic Goods Administration (TGA). (2023). FOI Request 4029 – COVID-19 vaccine pharmacovigilance (documents on VSIG Work Instruction, ACV meetings, safety reports; multiple parts released Jan 2023). https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log; https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-01.PDF
+23. Therapeutic Goods Administration (TGA). (2023). FOI Request 4029 – COVID-19 vaccine pharmacovigilance (documents on VSIG Work Instruction, ACV meetings, safety reports; multiple parts released Jan 2023). https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log; https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-01.PDF
 
-25. Therapeutic Goods Administration (TGA). (2024, August). FOI Request 5082 – COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+24. Therapeutic Goods Administration (TGA). (2024, August). FOI Request 5082 – COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 
-26. Therapeutic Goods Administration (TGA). (2024). FOI Request 5725 – Multiple COVID-19 vaccine matters (decision letters via OAIC review). https://www.health.gov.au/sites/default/files/2024-09/foi-5225-foi-2389-decision-letters.pdf
+25. Therapeutic Goods Administration (TGA). (2024). FOI Request 5725 – Multiple COVID-19 vaccine matters (decision letters via OAIC review). https://www.health.gov.au/sites/default/files/2024-09/foi-5225-foi-2389-decision-letters.pdf
 
-27. Office of the Australian Information Commissioner (OAIC). (2024, September 20). OAIC Submission MR22/00538 - TGA comprehensive TRIM search documentation.
+26. Office of the Australian Information Commissioner (OAIC). (2024, September 20). OAIC Submission MR22/00538 - TGA comprehensive TRIM search documentation.
 Therapeutic Goods Administration (TGA). (2024). FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders reviewed).
 
-28. Office of the Australian Information Commissioner (OAIC). Decision AICmr 54, https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path
+27. Office of the Australian Information Commissioner (OAIC). Decision AICmr 54, https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path
 Therapeutic Goods Administration (TGA). (2025, April 24). FOI 25-0166 Consultation Letter – practical refusal position on 399 identified documents.
 
-29. Therapeutic Goods Administration (TGA). (2024). FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders reviewed).
+28. Therapeutic Goods Administration (TGA). (2024). FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders reviewed).
     
-30. Therapeutic Goods Administration (TGA). (2025, April 24). FOI 25-0166 Consultation Letter – practical refusal position on 399 identified documents.
+29. Therapeutic Goods Administration (TGA). (2025, April 24). FOI 25-0166 Consultation Letter – practical refusal position on 399 identified documents.
 
 **Parliamentary Evidence**
 
-31.	Senate Community Affairs Legislation Committee Hansard (October 9, 2025). Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+30.	Senate Community Affairs Legislation Committee Hansard (October 9, 2025). Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
    
-32.	Senate Community Affairs Legislation Committee. (2025, October 9). Estimates Hansard - TGA officials testimony on COVID-19 vaccine safety monitoring. Parliament of Australia. https://www.youtube.com/watch?v=YLFNBFdICU0
+31.	Senate Community Affairs Legislation Committee. (2025, October 9). Estimates Hansard - TGA officials testimony on COVID-19 vaccine safety monitoring. Parliament of Australia. https://www.youtube.com/watch?v=YLFNBFdICU0
 
 **Academic and Technical Literature**
 
-33. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. [https://doi.org/10.1016/j.vaccine.2021.07.059](https://www.sciencedirect.com/science/article/pii/S0264410X21009506?via%3Dihub)
+32. Phillips, A., Carlson, S., Danchin, M., Beard, F., & Macartney, K. (2021). From program suspension to the pandemic: A qualitative examination of Australia's vaccine pharmacovigilance system over 10 years. *Vaccine*, 39(40), 5968-5981. [https://doi.org/10.1016/j.vaccine.2021.07.059](https://www.sciencedirect.com/science/article/pii/S0264410X21009506?via%3Dihub)
 
 ---
 
@@ -1471,84 +1473,91 @@ Therapeutic Goods Administration (TGA). (2025, April 24). FOI 25-0166 Consultati
 
 **Audit Standards**
 
-34. ISO 19011:2018 – Guidelines for Auditing Management Systems. International Organisation for Standardisation. https://www.iso.org/standard/70017.html
+33. ISO 19011:2018 – Guidelines for Auditing Management Systems. International Organisation for Standardisation. https://www.iso.org/standard/70017.html
 
-35. ISO 9001:2015 – Quality Management Systems – Requirements
+34. ISO 9001:2015 – Quality Management Systems – Requirements
 
 **ISO 19011 Audit Methodology Resources**
 
-36. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+35. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
-37. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+36. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
 
-38. OSHISIS. ISO 19011:2018 Guidelines for Auditing Management Systems - Documentation and Implementation Guide. https://oshisis.com/docs/iso-190112018-guidelines-for-auditing-management-systems/
+37. OSHISIS. ISO 19011:2018 Guidelines for Auditing Management Systems - Documentation and Implementation Guide. https://oshisis.com/docs/iso-190112018-guidelines-for-auditing-management-systems/
 
 **Australian National Audit Office (ANAO) Guidance**
 
-39. Australian National Audit Office (ANAO). Reporting Meaningful Performance Information. https://www.anao.gov.au/work/insights/reporting-meaningful-performance-information
+38. Australian National Audit Office (ANAO). Reporting Meaningful Performance Information. https://www.anao.gov.au/work/insights/reporting-meaningful-performance-information
 
-40. Australian National Audit Office (ANAO). Better Practice Guides. https://www.anao.gov.au/pubs/better-practice-guides
+39. Australian National Audit Office (ANAO). Better Practice Guides. https://www.anao.gov.au/pubs/better-practice-guides
 
-41. Australian National Audit Office (ANAO) (2025). ANAO Audit Manual — Shared Content. ANAO, Canberra. https://www.anao.gov.au/work/audit-manual/shared-content
+40. Australian National Audit Office (ANAO) (2025). ANAO Audit Manual — Shared Content. ANAO, Canberra. https://www.anao.gov.au/work/audit-manual/shared-content
 
-42. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
+41. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
 
 **OSINT Methodology**
 
-43. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
+42. Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). Computers in Human Behavior, 28(2), 673–682. https://doi.org/10.1016/j.chb.2011.11.014
+
+43. Office of the Director of National Intelligence. (2024). The IC OSINT Strategy 2024-2026. https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf
+
+44. Office of the Director of National Intelligence. (2024). Intelligence Community Directive, 206: Sourcing Requirements for Disseminated Analytic Products.
+https://www.dni.gov/files/documents/ICD/ICD-206.pdf
+
+45. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
 
 **FOI Framework**
 
-44. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
+46. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
 https://www.oaic.gov.au/freedom-of-information/freedom-of-information-guidance-for-government-agencies/freedom-of-information-reviews/part-10-review-by-the-information-commissioner
 
-45. Freedom of Information Act 1982 (Cth). 
+47. Freedom of Information Act 1982 (Cth). 
 https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 
 **Safety Culture Frameworks**
 
-46. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
+48. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
 
-47. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
+49. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
 
-48. World Health Organization. Patient safety (fact sheet). Geneva: WHO; 2023. Available at: https://www.who.int/news-room/fact-sheets/detail/patient-safety.
+50. World Health Organization. Patient safety (fact sheet). Geneva: WHO; 2023. Available at: https://www.who.int/news-room/fact-sheets/detail/patient-safety.
 ​
 ---
 
 ### International Pharmacovigilance Standards
 
-49. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
+51. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
 
-50. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
+52. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
 
-51. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
+53. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
 
-52. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+54. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
 ### Supporting References
 
 **Audit Methodology**
 
-53. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
+55. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
 
-54. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
+56. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
 
 
 ## High-Reliability Industry & Safety Framework References
 
-55. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
+57. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
 
-56. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
+58. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
 
-57. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
+59. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
 https://www.safetymattersblog.com/2013/05/high-reliability-organizations-and.html
 
-58. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
+60. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
 
-59. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
+61. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
 
-60. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
+62. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
 https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures
 ---
 
@@ -1556,21 +1565,21 @@ https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructur
 
 **Public Access**
 
-61. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+63. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-62. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+64. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-63. TGA FOI Disclosure Log  
+65. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-64. AustLII – OAIC Decisions
+66. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 **Main Audit Documentation:**
 
-65. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
+67. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
    [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) (Reference List: p.64)
 
 **Notes on Reference Formatting**:
