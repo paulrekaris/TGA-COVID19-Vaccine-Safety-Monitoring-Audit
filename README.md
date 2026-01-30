@@ -31,7 +31,7 @@ Start here:
   materials, findings, research methodology, and implementation status by Safety 
   Plan objective.
 
-- [ISO 19011 Management Systems Audit](analysis/ISO_19011_Management_Systems_Audit_Checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines, ANAO audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
+- [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines, ANAO audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
 
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
@@ -303,7 +303,7 @@ The assessment systematically evaluated all 20 Plan outputs against publicly ava
 - **55% Partially implemented/undocumented (11/20 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
 - **30% Not documented (6/20 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
-**Detailed breakdown by objective:** [View complete conformity assessment](analysis/ISO_19011_Management_Systems_Audit_Checklist.md#output-by-output-breakdown) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
+**Detailed breakdown by objective:** [View complete conformity assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
 
 
 ## Four Critical Documentation Gaps
@@ -636,7 +636,7 @@ The problem is straightforward: **TGA made commitments to Australians about enha
 
 This audit applies systematic evidence based principles consistent with:
 
-* **ISO 19011:2018 – Guidelines for Auditing Management Systems** - [ISO 19011 Management Systems Audit Checklist](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)
+* **ISO 19011:2018 – Guidelines for Auditing Management Systems** - [ISO 19011 Management Systems Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md)
   - Evidence‑based approach.  
   - Independence and due professional care.  
   - Fair presentation of findings and limitations.
@@ -822,7 +822,7 @@ The comprehensive audit report includes:
 
 - **[FOI Systematic Review](analysis/foi-systematic-review.md)** – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
-- **[ISO 19011 Management Systems Audit](analysis/ISO_19011_Management_Systems_Audit_Checklist.md)** – 
+- **[ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md)** – 
   Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown](analysis/ISO_19011_Management_Systems_Audit_Checklist.md#output-by-output-breakdown) showing 15% conformity rate across 20 Plan outputs, with Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
 
 - **[Search Methodology Comparison](analysis/search-methodology-comparison.md)** – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed document-title searches (8 generic terms), documenting gaps in signal detection, AusVaxSafety coordination, ICMRA sharing, and pharmacovigilance terminology. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
