@@ -1068,14 +1068,15 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | | 2.5 | Clinical studies and reports | ✗ Not Doc | OAIC searches: zero enhanced sponsor report processes |
 | | 2.6 | Environmental scanning | ✗ Not Doc | OAIC searches: zero systematic scanning processes |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation but no systematic sharing protocols |
-| | 2.8 | Expert advice | ◐ Partial |  ACV meetings occurred; FOI 4029-05 shows VSIG operational but child deaths not referred for expert review |
-|  **3: Communication**  | 3.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
+| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; FOI 4029-05 shows VSIG operational but child deaths not referred for expert review |
+| **3: Communication** | 3.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
 | **4: Integration** | 4.1 | Data integration | ◐ Partial | Multiple sources accessed but no integration methodology |
 | **5: Research** | 5.1 | Contribution to research | ◐ Partial | OAIC: Objective 5 "unable to meaningfully interpret" |
 | **Cross-cutting** | COLLAB.1 | National collaborations | ◐ Partial | State data visible but no formal frameworks documented |
 | | COLLAB.2 | International collaborations | ◐ Partial | ICMRA participation but no systematic frameworks |
 | | GOV.1 | Implementation oversight | ✗ Not Doc | Senate: "never systematically tracked"; zero governance docs |
 | | GOV.2 | Performance measurement | ✗ Not Doc | Zero metrics; 150+ reports contain zero Plan references |
+
 
 ### Summary by Objective
 
