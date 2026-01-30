@@ -49,7 +49,7 @@ This systematic analysis examines TGA's COVID-19 vaccine safety surveillance rep
 
 **Scope:** Six reports systematically selected from 150+ published reports using ISO 19011 sampling methodology to provide representative coverage across surveillance phases (enhanced, transition, routine), publication frequencies (weekly, biweekly, fortnightly), and key programme milestones (initiation, peak, degradation, cessation).
 
-**Assessment Framework:** This analysis applies professional audit standards([ISO 19011:2018](ISO-19011-conformity-assessment-checklist.md)),C ommonwealth performance reporting principles (ANAO Better Practice Guidance), and international pharmacovigilance requirements (ICH E2E, WHO/EMA GVP Module IX) to evaluate conformity between stated commitments and documented implementation.
+**Assessment Framework:** This analysis applies professional audit standards ([ISO 19011:2018](ISO-19011-conformity-assessment-checklist.md)), Commonwealth performance reporting principles (ANAO Better Practice Guidance), and international pharmacovigilance requirements (ICH E2E, WHO/EMA GVP Module IX) to evaluate conformity between stated commitments and documented implementation.
 
 **Context:** Between February 2021 and July 2023, Australia administered 68.4 million COVID-19 vaccine doses under provisional approval—the nation's largest deployment of provisionally approved medicines. Provisional approval was predicated on enhanced post-market surveillance commitments, with the Safety Monitoring Plan specifying 20 outputs across 17 numbered strategies to "strengthen the existing vaccine vigilance system."
 
