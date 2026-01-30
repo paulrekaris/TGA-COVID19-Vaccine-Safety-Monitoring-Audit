@@ -1012,7 +1012,7 @@ This audit has been permanently archived and cryptographically timestamped:
 ---
 
 © Copyright 2026 Paul Rekaris
- | Licensed under [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+| Licensed under [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 [↑ Back to top](#table-of-contents)
 
