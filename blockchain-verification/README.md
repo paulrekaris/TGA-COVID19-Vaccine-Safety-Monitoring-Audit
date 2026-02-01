@@ -4,7 +4,7 @@ This audit is protected by multiple verification and archival methods including 
 
 [![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org)
 [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
-[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Web%20Snapshots-blue)](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
+[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Web%20Snapshots-0088CC)](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
 
 ## Bitcoin Timestamp (OpenTimestamps)
 
