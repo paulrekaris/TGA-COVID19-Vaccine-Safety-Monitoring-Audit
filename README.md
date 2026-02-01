@@ -731,7 +731,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 **Key testimony:** TGA officials stated Plan implementation was "never systematically tracked" and monitoring occurred through "day-to-day processes" rather than distinct enhanced framework. Confirmed 148 safety signals investigated and 57 regulatory actions taken.
 
-**[Full testimony analysis →](reference-documents/senate-testimony-2025-10-09/README.md)**
+[Full testimony analysis →](reference-documents/senate-testimony-2025-10-09/README.md)
 
 ## Documentary Evidence of TGA Documentation Capacity
 
@@ -801,7 +801,7 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 ### Main Assessment Report
 
-**[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)**
+[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
 **Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (January 2026)**
 
@@ -818,26 +818,26 @@ The comprehensive audit report includes:
 
 ### Supporting Documentation
 
-- **[Compensation Analysis](analysis/compensation-analysis.md)** – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments.
+- [Compensation Analysis](analysis/compensation-analysis.md) – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments.
 
-- **[FOI Systematic Review](analysis/foi-systematic-review.md)** – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
+- [FOI Systematic Review](analysis/foi-systematic-review.md)** – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
-- **[ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md)** – 
+- [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – 
   Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown]([View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs). showing 15% conformity rate across 20 Plan outputs, with Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
 
-- **[Search Methodology Comparison](analysis/search-methodology-comparison.md)** – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed document-title searches (8 generic terms), documenting gaps in signal detection, AusVaxSafety coordination, ICMRA sharing, and pharmacovigilance terminology. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
+- [Search Methodology Comparison](analysis/search-methodology-comparison.md) – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed document-title searches (8 generic terms), documenting gaps in signal detection, AusVaxSafety coordination, ICMRA sharing, and pharmacovigilance terminology. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
 
-- **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports despite [FOI 4029-03](reference-documents/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](reference-documents/foi-4029) available in reference documents. Includes ISO 19011 audit methodology, ANAO performance tracking gaps, and evidence of inadequate OAIC search scope excluding advisory body containers.
+- [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports despite [FOI 4029-03](reference-documents/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](reference-documents/foi-4029) available in reference documents. Includes ISO 19011 audit methodology, ANAO performance tracking gaps, and evidence of inadequate OAIC search scope excluding advisory body containers.
 
-- **[FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis.pdf)** – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
+- [FOI Analysis and Timeline Documentation](analysis/tga_foi_analysis.pdf) – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
 
-- **[TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf)** – Visual executive summary presentation with implementation status dashboard, evidence hierarchy and key gaps.
+- [TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf) – Visual executive summary presentation with implementation status dashboard, evidence hierarchy and key gaps.
 
-- **[One-Page Audit Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
+- [One-Page Audit Flowchart](analysis/tga_audit_one_page_flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
-- **[Reference Documents](reference-documents/)** – FOI responses, OAIC decisions, and Senate testimony. Includes foi-3643, foi-25-0166, OAIC Decision [2025] AICmr 54, and Senate transcripts (9 October 2025).
+- [Reference Documents](reference-documents/)** – FOI responses, OAIC decisions, and Senate testimony. Includes foi-3643, foi-25-0166, OAIC Decision [2025] AICmr 54, and Senate transcripts (9 October 2025).
 
-- **[Primary Sources](primary-sources/)** – Source documents including TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), Australian COVID-19 Vaccination Policy, and vaccination data.
+- [Primary Sources](primary-sources/)** – Source documents including TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), Australian COVID-19 Vaccination Policy, and vaccination data.
 
 - **Media Coverage** – Investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi's Substack:  
   - "TGA's vaccine safety black hole: A concerned citizen's four‑year quest for answers"  
