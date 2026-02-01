@@ -346,7 +346,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 - OAIC‑directed TRIM searches (MR22/00538, September 2024) across **531+ containers** using eight Plan‑aligned search terms identified **zero** documents demonstrating verification that enhanced‑monitoring requirements were satisfied before Comirnaty (July 2023) or Spikevax (April 2023) transitioned to full registration.  
 - Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan**, no checklists of provisional‑approval conditions, and no Plan‑level verification records.
-- Third-party verification of this gap is provided by [FOI 5275](reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf) (August 2024), where an applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
+- Third-party verification of this gap is provided by [FOI 5275](reference-documents/foi-5275-notice-of-decision-redacted.pdf) (August 2024), where an applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
 
 **Why this matters**
 
@@ -507,7 +507,7 @@ This report is consistent with the findings in Phillips et al. (2021) discussed 
 **Reference:**  
 Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)
 
-[Full AEFI surveillance report](primary-sources/CDI-2024_Surveillance-AEFI-COVID19-2021.pdf)
+[Full AEFI surveillance report](primary-sources/cdi-2024-surveillance-aefi-covid-19-2021.pdf)
 
 
 ## Supporting Peer-Reviewed Literature of Systemic Gaps
