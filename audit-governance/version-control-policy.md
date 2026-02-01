@@ -41,9 +41,9 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** for independent replication.
-- **Permanent archiving**: Zenodo DOI and blockchain timestamping ensure version history survives potential GitHub removal or institutional pressure.
+- **Permanent archiving**: Zenodo DOI, blockchain timestamping (Bitcoin, Arweave), and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
-
+  
 **See:** [Complete Version History](version-history.md)
 
 ## Release Workflow
@@ -186,14 +186,16 @@ Version history combined with OSINT documentation enables accountability infrast
 
 15. Williams, S. (2018). *Arweave Yellow Paper*. <https://www.arweave.org/yellow-paper.pdf>
 
-16. Zenodo Support. (n.d.). What is DOI versioning? <https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning>
+16. Internet Archive. (2024). Wayback Machine. <https://web.archive.org/>
+    
+17. Zenodo Support. (n.d.). What is DOI versioning? <https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning>
 
 **Records Management:**
 
-17. National Archives of Australia. (n.d.). *Digital Recordkeeping: Guidelines for Creating, Managing...* (aligned ISO 15489). <https://mayaarbinaginting.weebly.com/uploads/1/0/6/1/10612501/digital_recordkeeping.pdf>
+18. National Archives of Australia. (n.d.). *Digital Recordkeeping: Guidelines for Creating, Managing...* (aligned ISO 15489). <https://mayaarbinaginting.weebly.com/uploads/1/0/6/1/10612501/digital_recordkeeping.pdf>
 
 **Research Transparency:**
 
-18. Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422–1425. <https://doi.org/10.1126/science.aab2374>
+19. Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422–1425. <https://doi.org/10.1126/science.aab2374>
 
-19. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
+20. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
