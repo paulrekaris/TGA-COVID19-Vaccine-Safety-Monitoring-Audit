@@ -7,9 +7,9 @@ Read **[At a Glance](#at-a-glance)** for a complete high-level summary.
 Browse the **[Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index)** for orientation, methodology, limitations, and how to verify or challenge findings.
 
 **Full evidence**  
-- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
-- [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md)** - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
-- [Surveillance Data Analysis](analysis/surveillance-analysis.md)** - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
+- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
+- [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
+- [Surveillance Data Analysis](analysis/surveillance-analysis.md) - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
 - [Reference Documents](reference-documents/)** - All key documents including Safety Plan, vaccination policies, Senate testimony, FOI materials, and primary sources
 
 **Visual summaries and quick reference materials**  
@@ -573,7 +573,7 @@ My investigation follows scientific principles of falsifiability and replicabili
 * Systematic FOI requests (2021–2025)
 * OAIC review materials and decisions
 * Senate Hansard testimony
-* Application of audit principles from [**ISO 19011:2018 – Guidelines for Auditing Management Systems**](analysis/ISO-19011-conformity-assessment-checklist.md) and [**ANAO – Performance Audit Process**](https://www.anao.gov.au/work/insights/performance-audit-process)
+* Application of audit principles from [ISO 19011:2018 – Guidelines for Auditing Management Systems](analysis/ISO-19011-conformity-assessment-checklist.md) and [ANAO – Performance Audit Process](https://www.anao.gov.au/work/insights/performance-audit-process)
 * informed by TGA guidance on pharmacovigilance responsibilities and risk-management plans and by international pharmacovigilance standards (ICH E2E, CIOMS), to assess implementation evidence against the Plan's documented commitments
 * Systematic online documentary review of TGA, parliamentary and partner publications (2020–2025) using OSINT-style, domain-restricted search methods and Plan-aligned keywords
 * Australian Government COVID-19 policy documents
@@ -703,7 +703,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 **Official Documents:**
 - Australian COVID-19 Vaccination Policy (November 2020): https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf
 - TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
-- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [**Information Commissioner**](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf)
+- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [Australian Information Commissioner](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf)
 
 ---
 
