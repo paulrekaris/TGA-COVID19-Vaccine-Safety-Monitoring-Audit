@@ -820,7 +820,7 @@ The comprehensive audit report includes:
 
 - [Compensation Analysis](analysis/compensation-analysis.md) – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments.
 
-- [FOI Systematic Review](analysis/foi-systematic-review.md)** – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
+- [FOI Systematic Review](analysis/foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
 - [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – 
   Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown]([View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs). showing 15% conformity rate across 20 Plan outputs, with Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
@@ -835,9 +835,9 @@ The comprehensive audit report includes:
 
 - [One-Page Audit Flowchart](analysis/tga_audit_one_page_flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
-- [Reference Documents](reference-documents/)** – FOI responses, OAIC decisions, and Senate testimony. Includes foi-3643, foi-25-0166, OAIC Decision [2025] AICmr 54, and Senate transcripts (9 October 2025).
+- [Reference Documents](reference-documents/) – FOI responses, OAIC decisions, and Senate testimony. Includes foi-3643, foi-25-0166, OAIC Decision [2025] AICmr 54, and Senate transcripts (9 October 2025).
 
-- [Primary Sources](primary-sources/)** – Source documents including TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), Australian COVID-19 Vaccination Policy, and vaccination data.
+- [Primary Sources](primary-sources/) – Source documents including TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), Australian COVID-19 Vaccination Policy, and vaccination data.
 
 - **Media Coverage** – Investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi's Substack:  
   - "TGA's vaccine safety black hole: A concerned citizen's four‑year quest for answers"  
