@@ -596,9 +596,7 @@ The finding is **absence of verifiable evidence**, not evidence of absence. I ca
 
 For the full epistemological framework, see [Black Box Governance methodology document](reference-documents/black-box-governance.md)
 
-
 ### Q32: How can people access the evidence?
-
 All evidence, methodology, and findings are open source and permanently archived:
 
 **GitHub Repository:**  
@@ -606,8 +604,12 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
 **Permanent Archive:**  
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17731054
-- Arweave (blockchain): https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
 - Bitcoin timestamp: December 31, 2025
+- Arweave (blockchain): https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
+- Internet Archive: https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*
+
+**Verification Documentation:**  
+[Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
 
 **Citation:**  
 Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan. Zenodo: https://doi.org/10.5281/zenodo.17731054
