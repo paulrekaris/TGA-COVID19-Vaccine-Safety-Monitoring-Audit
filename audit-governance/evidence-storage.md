@@ -17,6 +17,12 @@ This repository follows open research principles by archiving primary sources ce
 - Senate testimony transcripts (completeness)
 - OAIC decisions (permanent record)
 
+All locally archived materials are additionally protected through:
+- Bitcoin timestamping (cryptographic proof of existence)
+- Arweave permanent storage (censorship-resistant archiving)
+- Internet Archive snapshots (web presence verification)
+- Zenodo DOI archiving (academic permanence)
+
 ### Cited by Reference
 
 - Peer-reviewed journal articles (stable DOIs)
@@ -48,6 +54,8 @@ Open access research requires that sources be freely available for independent v
 
 Standard digital preservation principles recognise that government websites and official documents are at risk of removal, modification, or link decay. The Digital Preservation Coalition emphasises the importance of archiving at-risk materials to ensure long-term accessibility and authenticity. This audit archives FOI responses, government documents, and regulatory decisions subject to these risks, whilst citing peer-reviewed literature and legislation through permanent institutional sources.
 
+This audit implements multiple preservation layers including blockchain verification (Bitcoin, Arweave), web archival services (Internet Archive), and academic repositories (Zenodo) to ensure evidence remains accessible and tamper-evident.
+
 **Reference:** Digital Preservation Coalition. (2015). *Digital Preservation Handbook* (2nd ed.). https://www.dpconline.org/handbook
 
 ### Data Management Best Practices
@@ -71,5 +79,5 @@ Standard data management principles distinguish between materials requiring loca
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** 24 January 2026  
+**Last Updated:** 1 February 2026  
 **Licence:** CC BY 4.0
