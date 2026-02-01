@@ -180,7 +180,7 @@ Version history combined with OSINT documentation enables accountability infrast
 
 **Blockchain Verification and Archival:**
 
-13. OpenTimestamps. (2024). OpenTimestamps client documentation. <https://github.com/opentimestamps/opentimestamps-client>
+13. OpenTimestamps. (2024). OpenTimestamps: Scalable, trustless, distributed timestamping with Bitcoin. https://opentimestamps.org
 
 14. Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*. <https://bitcoin.org/bitcoin.pdf>
 
