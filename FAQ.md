@@ -7,15 +7,15 @@ Read **[At a Glance](#at-a-glance)** for a complete high-level summary.
 Browse the **[Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index)** for orientation, methodology, limitations, and how to verify or challenge findings.
 
 **Full evidence**  
-- **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
-- **[ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md)** - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
-- **[Surveillance Data Analysis](analysis/surveillance-analysis.md)** - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
-- **[Reference Documents](reference-documents/)** - All key documents including Safety Plan, vaccination policies, Senate testimony, FOI materials, and primary sources
+- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
+- [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md)** - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
+- [Surveillance Data Analysis](analysis/surveillance-analysis.md)** - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
+- [Reference Documents](reference-documents/)** - All key documents including Safety Plan, vaccination policies, Senate testimony, FOI materials, and primary sources
 
 **Visual summaries and quick reference materials**  
-- **[Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf)** - Implementation status by objective, key findings, and documentation gaps
-- **[FOI Analysis and Timeline](analysis/tga_foi_analysis.pdf)** - Timeline of FOI process and contradictory TGA responses
-- **[One-Page Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf)** - ISO 19011:2018 and ANAO audit framework overview
+- [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) - Implementation status by objective, key findings, and documentation gaps
+- [FOI Analysis and Timeline](analysis/tga_foi_analysis.pdf) - Timeline of FOI process and contradictory TGA responses
+- [One-Page Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf) - ISO 19011:2018 and ANAO audit framework overview
 
 *Use visual summaries for briefings, presentations, or quick sharing.*
 
@@ -579,7 +579,7 @@ My investigation follows scientific principles of falsifiability and replicabili
 * Australian Government COVID-19 policy documents
 * Timeline reconstruction from official sources
 * Documentation of contradictions across multiple sources
-* **[Version control policy](audit-governance/version-control-policy.md)** aligned with ISO 15489-1:2016 (records management) ensuring transparency, integrity, and accountability through Git version control, structured changelogs, and permanent archiving* Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
+* [Version control policy](audit-governance/version-control-policy.md) aligned with ISO 15489-1:2016 (records management) ensuring transparency, integrity, and accountability through Git version control, structured changelogs, and permanent archiving* Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 
 All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent scrutiny and practical replication of my findings.
 
