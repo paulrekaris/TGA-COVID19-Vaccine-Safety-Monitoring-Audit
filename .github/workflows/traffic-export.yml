@@ -63,19 +63,19 @@ jobs:
                 r'parliament\.act\.gov\.au'
             ],
             'Oversight Bodies': [
-                r'ombudsman',
+                r'ombudsman\.',
                 r'oaic\.gov\.au',
                 r'humanrights\.gov\.au',
-                r'audit',
-                r'integrity'
+                r'\.audit\.',
+                r'integrity\.'
             ],
             'Academic': [
                 r'\.edu\.au$',
                 r'\.ac\.uk$',
                 r'\.edu$',
                 r'\.ac\.nz$',
-                r'university',
-                r'uni\.',
+                r'\.university\.',
+                r'\.uni\.',
                 r'\.edu\.sg$'
             ],
             'Major Media': [
@@ -117,11 +117,21 @@ jobs:
         date_str = now.strftime('%Y-%m-%d')
 
         print("Fetching traffic data...")
-        clones_response = requests.get(f'{BASE_URL}/traffic/clones', headers=headers)
-        views_response = requests.get(f'{BASE_URL}/traffic/views', headers=headers)
-        referrers_response = requests.get(f'{BASE_URL}/traffic/popular/referrers', headers=headers)
-        paths_response = requests.get(f'{BASE_URL}/traffic/popular/paths', headers=headers)
-        repo_response = requests.get(BASE_URL, headers=headers)
+        
+        try:
+            clones_response = requests.get(f'{BASE_URL}/traffic/clones', headers=headers)
+            clones_response.raise_for_status()
+            views_response = requests.get(f'{BASE_URL}/traffic/views', headers=headers)
+            views_response.raise_for_status()
+            referrers_response = requests.get(f'{BASE_URL}/traffic/popular/referrers', headers=headers)
+            referrers_response.raise_for_status()
+            paths_response = requests.get(f'{BASE_URL}/traffic/popular/paths', headers=headers)
+            paths_response.raise_for_status()
+            repo_response = requests.get(BASE_URL, headers=headers)
+            repo_response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print(f"API request failed: {e}")
+            exit(1)
 
         clones_data = clones_response.json()
         views_data = views_response.json()
@@ -137,7 +147,7 @@ jobs:
             clones_df = pd.read_csv('clones.csv')
             views_df = pd.read_csv('views.csv')
             engagement_df = pd.read_csv('engagement.csv')
-        except FileNotFoundError:
+        except (FileNotFoundError, pd.errors.EmptyDataError):
             clones_df = pd.DataFrame(columns=['date', 'total_clones', 'unique_cloners'])
             views_df = pd.DataFrame(columns=['date', 'total_views', 'unique_visitors'])
             engagement_df = pd.DataFrame(columns=['date', 'stars', 'forks', 'watchers'])
@@ -156,17 +166,15 @@ jobs:
         yesterday_views = 0
         yesterday_unique_visitors = 0
 
-        if len(clones_df) > 0:
-            if 'clones' in clones_data and len(clones_data['clones']) > 0:
-                newest_day = clones_data['clones'][-1]
-                yesterday_clones = newest_day.get('count', 0)
-                yesterday_unique_cloners = newest_day.get('uniques', 0)
+        if 'clones' in clones_data and len(clones_data['clones']) >= 2:
+            yesterday_day = clones_data['clones'][-2]
+            yesterday_clones = yesterday_day.get('count', 0)
+            yesterday_unique_cloners = yesterday_day.get('uniques', 0)
 
-        if len(views_df) > 0:
-            if 'views' in views_data and len(views_data['views']) > 0:
-                newest_day = views_data['views'][-1]
-                yesterday_views = newest_day.get('count', 0)
-                yesterday_unique_visitors = newest_day.get('uniques', 0)
+        if 'views' in views_data and len(views_data['views']) >= 2:
+            yesterday_day = views_data['views'][-2]
+            yesterday_views = yesterday_day.get('count', 0)
+            yesterday_unique_visitors = yesterday_day.get('uniques', 0)
 
         prev_stars = engagement_df['stars'].iloc[-1] if len(engagement_df) > 0 else 0
         prev_forks = engagement_df['forks'].iloc[-1] if len(engagement_df) > 0 else 0
@@ -201,38 +209,30 @@ jobs:
         views_df.to_csv('views.csv', index=False)
         engagement_df.to_csv('engagement.csv', index=False)
 
-        if len(clones_df) >= 8:
-            last_7_clones = clones_df.tail(8)['total_clones'].diff().tail(7)
-            avg_7day_clones = last_7_clones.mean()
-            last_7_unique = clones_df.tail(8)['unique_cloners'].diff().tail(7)
-            avg_7day_unique_cloners = last_7_unique.mean()
+        if len(clones_df) >= 7:
+            avg_7day_clones = clones_df.tail(7)['total_clones'].mean()
+            avg_7day_unique_cloners = clones_df.tail(7)['unique_cloners'].mean()
         else:
             avg_7day_clones = 0
             avg_7day_unique_cloners = 0
 
-        if len(clones_df) >= 15:
-            last_14_clones = clones_df.tail(15)['total_clones'].diff().tail(14)
-            avg_14day_clones = last_14_clones.mean()
-            last_14_unique = clones_df.tail(15)['unique_cloners'].diff().tail(14)
-            avg_14day_unique_cloners = last_14_unique.mean()
+        if len(clones_df) >= 14:
+            avg_14day_clones = clones_df.tail(14)['total_clones'].mean()
+            avg_14day_unique_cloners = clones_df.tail(14)['unique_cloners'].mean()
         else:
             avg_14day_clones = 0
             avg_14day_unique_cloners = 0
 
-        if len(views_df) >= 8:
-            last_7_views = views_df.tail(8)['total_views'].diff().tail(7)
-            avg_7day_views = last_7_views.mean()
-            last_7_visitors = views_df.tail(8)['unique_visitors'].diff().tail(7)
-            avg_7day_unique_visitors = last_7_visitors.mean()
+        if len(views_df) >= 7:
+            avg_7day_views = views_df.tail(7)['total_views'].mean()
+            avg_7day_unique_visitors = views_df.tail(7)['unique_visitors'].mean()
         else:
             avg_7day_views = 0
             avg_7day_unique_visitors = 0
 
-        if len(views_df) >= 15:
-            last_14_views = views_df.tail(15)['total_views'].diff().tail(14)
-            avg_14day_views = last_14_views.mean()
-            last_14_visitors = views_df.tail(15)['unique_visitors'].diff().tail(14)
-            avg_14day_unique_visitors = last_14_visitors.mean()
+        if len(views_df) >= 14:
+            avg_14day_views = views_df.tail(14)['total_views'].mean()
+            avg_14day_unique_visitors = views_df.tail(14)['unique_visitors'].mean()
         else:
             avg_14day_views = 0
             avg_14day_unique_visitors = 0
