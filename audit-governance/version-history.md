@@ -135,7 +135,7 @@
 
 ### Note
 
-Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of evidence through structured findings, output-by-output breakdown with conformity analysis, timeline visualisations, corrected international statistics with detailed comparison tables, clinical examples demonstrating information asymmetry, Sparke Helmore third-party validation, Administrative Law vs Accountability framework, Release Workflow documentation with Verification Efficiency Principle, methodological transparency enhancements including boundaries statement and Nature of This Audit clarification, repository maintenance through kebab-case standardisation and permanent archive restructuring, and formatting consistency improvements across all documentation responding to DeepSeek AI peer feedback and source verification. All changes recorded under commit messages.
+Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of evidence through structured findings, output-by-output breakdown with conformity analysis, timeline visualisations, corrected international statistics with detailed comparison tables, clinical examples demonstrating information asymmetry, Sparke Helmore third-party validation, Administrative Law vs Accountability framework, Release Workflow documentation with Verification Efficiency Principle, methodological transparency enhancements including boundaries statement and Nature of This Audit clarification, repository maintenance through kebab-case standardisation and permanent archive restructuring, and formatting consistency improvements across all documentation and source verification. All changes recorded under commit messages.
 
 **Archive:** Zenodo DOI and blockchain verification current.
 
