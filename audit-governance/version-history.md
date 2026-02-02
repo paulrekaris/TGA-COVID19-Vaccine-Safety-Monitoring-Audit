@@ -467,5 +467,3 @@ No changes to overall audit findings.
 ### Added
 
 - Initial publication
-
-**All US spellings corrected to UK spelling.**
