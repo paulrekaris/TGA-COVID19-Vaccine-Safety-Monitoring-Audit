@@ -143,173 +143,284 @@ Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of
 
 ## Version 1.9 (14 January 2026)
 
-### Major Updates
+### Added
 
-**FOI 4029 internal tracking documented:** Added complete FOI 4029 suite demonstrating TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Proves Plan strategies were tracked internally while 150+ public safety reports contained zero Plan framework references. Full document suite archived in `/reference-documents/foi-4029/`.
+**FOI Evidence**
+- Complete FOI 4029 suite demonstrating TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021)
+- FOI 5275 (August 2024) showing TGA response that monthly incidence data for AusPAR-specified monitoring conditions "does not exist" 3.5 years post-approval
+- Systematic FOI search methodology documentation across four-year investigation
+- Infrastructure evidence synthesis combining FOI 5082 (documentation capability), FOI 4029 (internal Plan tracking), and "burn out" screening protocol
 
-**FOI 5275 verification gap added:** Added FOI 5275 (August 2024) showing TGA response that monthly incidence data for AusPAR-specified monitoring conditions "does not exist" 3.5 years post-approval. Corroborates Strategy 2.3 AIR-denominator implementation gaps and provisional approval verification failure. Source provenance documented.
+**Analysis Documents**
+- Systematic review of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
+- Compensation analysis v1.0 examining FOI evidentiary asymmetry affecting Vaccine Claims Scheme applicants with verified statistics: 148 signals/57 actions, 4,962 claims lodged/522 approved, 140k+ DAEN reports
+- Senate testimony reference documentation for 9 October 2025 with timestamped video link (2:30:40-2:37:00), Hansard transcript, and key exchange analysis
 
-**Surveillance analysis expanded:** Added systematic review of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports despite FOI 4029 proving internal tracking. Includes ISO 19011 audit methodology assessment and evidence of inadequate OAIC search scope excluding advisory body containers.
+**Methodology**
+- Version control principles section explaining detailed version history methodology aligned with ISO 19011:2018, ISO 15489-1:2016, OSINT documentation principles
+- Cabinet commitment and policy framework clarification establishing three-tier accountability (Cabinet policy commitment → national framework → TGA operational implementation)
+- ISO 19011 audit methodology assessment and evidence of inadequate OAIC search scope excluding advisory body containers
 
-**FOI search methodology documented:** Added systematic documentation of evidence completeness verification methodology across four-year FOI investigation. Demonstrates comprehensive search strategy yielding FOI 5082 (capability evidence), FOI 4029 (internal tracking), FOI 5275 (verification gaps), and multiple OAIC reviews establishing systematic pattern of limited external disclosure despite documented internal processes.
+**Documentation**
+- Abstract to main audit report
+- ORCID identifier (0009-0000-1338-9578) to citation metadata
+- Full document suite archived in `/reference-documents/foi-4029/`
 
-**Compensation analysis added:** Created v1.0 analysis examining FOI evidentiary asymmetry affecting Vaccine Claims Scheme applicants. Documented verified statistics: 148 signals/57 actions (Senate Hansard 9 Oct 2025), 4,962 claims lodged/522 approved (Services Australia), 140k+ DAEN reports. Established procedural fairness and evidentiary burden framework. All 14 references verified. ISO 19011 audit standards maintained.
+### Changed
 
-**Infrastructure evidence synthesis:** Documented combined significance of FOI 5082 (documentation capability), FOI 4029 (internal Plan tracking), and "burn out" screening protocol (contradictory policy). Demonstrates TGA possessed comprehensive infrastructure but made deliberate policy decisions to implement outside Cabinet-endorsed Plan framework.
+**Evidence Analysis**
+- Enhanced OSINT description for logical flow (ISO 19011 framework first)
+- Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation
+- Streamlined audit methodology section by replacing ISO 19011 conformance self-assessment with direct conformance statement
+- Refined documentary hierarchy characterisation to distinguish National Cabinet endorsement, national pharmacovigilance plan umbrella framework, and TGA operational plan
 
-**Cabinet commitment and policy framework clarified (January 2026):** Refined characterisation of the documentary hierarchy to accurately distinguish between National Cabinet's endorsement of the Australian COVID-19 Vaccination Policy (November 2020), the national "COVID Vaccine Pharmacovigilance Plan" umbrella framework referenced within that policy, and TGA's operational "COVID-19 Vaccine Safety Monitoring Plan" (February 2021, 17 strategies). This establishes three-tier accountability (Cabinet policy commitment → national framework → TGA operational implementation) strengthening cascade-failure analysis while enhancing documentary precision. Audit scope remains unchanged (TGA operational plan with verifiable outputs). Core finding unchanged (cannot demonstrate implementation of framework intended to deliver Cabinet's enhanced monitoring commitment). Evidence base includes FOI 4029-01 (ACV review of draft national plan), Cabinet-endorsed Vaccination Policy, and TGA published operational plan. Multiple sections including main audit document revised for terminology consistency with source documents; no substantive findings affected.
+**Visual Summary**
+- Fixed arithmetic error in outcome percentages (now correctly totals 100%: 15% fully documented, 55% partial, 30% not documented)
+- Updated vaccine rollout to 91.2%
+- Clarified evidence hierarchy as "Source Reliability" with Tier 1 annotation
+- Updated Senate testimony terminology to "parliamentary privilege"
 
-**Version control principles documented:** Added section explaining detailed version history methodology aligned with ISO 19011:2018 (continuous improvement), ISO 15489-1:2016 (records management transparency, integrity, accountability), OSINT key documentation principles and research integrity standards. Documents rationale for comprehensive changelogs and permanent archiving as accountability infrastructure.
+**Methodology**
+- Corrected audit conduct period to October 2025 - January 2026
+- Clarified evidence collection period as 2022-2026
+- Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology
 
-**Senate testimony documentation added:** Created reference documentation for 9 October 2025 Senate Community Affairs Committee testimony with timestamped video link (2:30:40-2:37:00), Hansard transcript, and comprehensive key exchange analysis. Documents critical admission that Plan's "five key themes essentially describe our day-to-day processes" confirming monitoring was routine operations, not distinct enhanced framework. Added to Evidence Sources section in README with link to full analysis.
+### Fixed
 
-**Visual summary corrections:** Fixed arithmetic error in outcome percentages (now correctly totals 100%: 15% fully documented, 55% partial, 30% not documented). Updated vaccine rollout to 91.2%. Clarified evidence hierarchy as "Source Reliability" with Tier 1 annotation. Updated Senate testimony terminology to "parliamentary privilege."
-
-**Methodology enhancements:** Reorganised OSINT description for logical flow (ISO 19011 framework first). Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology. Tightened audit scope distinction between routine pharmacovigilance versus enhanced monitoring framework implementation. Streamlined audit methodology section by replacing ISO 19011 conformance self-assessment with direct conformance statement, allowing audit quality to be demonstrated through systematic evidence-based approach rather than numerical scoring. Corrected audit conduct period to October 2025 - January 2026, clarified evidence collection period as 2022-2026
-
-**Documentation improvements:** Removed version numbers from all filenames for maintenance simplicity. Updated all internal cross-references for consistency. Added an abstract to main audit report and an ORCID identifier (0009-0000-1338-9578) to citation metadata. General formatting and readability enhancements, checked and upated URLs. 
+**Documentation**
+- Removed version numbers from all filenames for maintenance simplicity
+- Updated all internal cross-references for consistency
+- General formatting and readability enhancements
+- Checked and updated URLs
 
 ### Note
-Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 5275), documents systematic search methodology, corrects presentation errors, and synthesises infrastructure evidence.
 
-**Archive:** Zenodo DOI updated, updated blockchain storage and timestamp pending.
+Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 5275), documents systematic search methodology, corrects presentation errors, and synthesises infrastructure evidence. Audit scope remains unchanged (TGA operational plan with verifiable outputs). Core finding unchanged (cannot demonstrate implementation of framework intended to deliver Cabinet's enhanced monitoring commitment).
+
+**Archive:** Zenodo DOI updated, blockchain storage and timestamp pending.
 
 ---
 
 ## Version 1.8 (6 January 2026)
 
-### Major Updates
+### Added
 
-**Public communications contradiction documented:** Added analysis of Department of Health "no different" video (3 February 2021) positioned against formal Cabinet commitments to "enhanced monitoring" (National Cabinet November 2020, TGA Safety Plan February 2021, Commonwealth-State Bilateral Agreements February 2021). Documented four-year pattern through 2025 Senate testimony confirming "day-to-day processes" never systematically tracked against Safety Plan.
-
-**Pre-FOI evasion pattern established:** Added TGA email responses (18 & 22 February 2022) to direct inquiries requesting Safety Plan implementation evidence. Both responses provided identical template text claiming "enhanced dramatically" and "most intense monitoring ever conducted" while providing zero Plan-specific documentation—establishing systematic evasion pattern predating formal FOI obstruction by several months.
-
-**FOI 5082 significance clarified:** Enhanced documentation of FOI 5082 (TGA Vaccine Pharmacovigilance System 2019-2021, released 26 July 2024) as critical comparative evidence demonstrating TGA's documentation capacity versus absence of Safety Plan implementation records. Establishes that documentation absence reflects non-implementation rather than non-documentation practice.
-
-**Updated vaccination coverge:** Updated vaccination coverage figure from 94% (October 2024) to 91.2% (October 2025) as per latest Covid-19 vaccination data.
-
-**Vaccination statistics verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period. Primary source documentation uploaded:
-- `covid-19-vaccination-vaccination-data-27-july-2023.xlsx`
-- `covid-19-vaccine-rollout-update-27-july-2023.pdf`
-
-**Permanent archival framework established:** Implemented multi-layer cryptographic preservation:
-- Bitcoin blockchain timestamp proof (December 31, 2025) via OpenTimestamps
-- Arweave permanent storage confirmation (January 1, 2026)
-- Combined verification documentation in `/blockchain-verification/`
-- Zenodo academic archive (DOI: 10.5281/zenodo.14634063)
-
-**Automated traffic monitoring implemented:** Established daily GitHub traffic data collection with email summaries (8 AM AEDT), permanent CSV storage beyond GitHub's 14-day API window, trend analysis, and private repository archival (`TGA-Audit-Traffic-Data`) to preserve institutional engagement metrics as evidence of sustained public interest.
-
-**Disclaimer consolidated:** Streamlined disclaimer section to improve clarity while maintaining legal protections.
-
-**Technical improvements:** Updated links and references, formatting consistency enhancements, timeline refinements, navigation improvements.
-
----
-
-### Primary Evidence Added
-- Department of Health "no different" video (3 February 2021)
-- TGA email responses (18 & 22 February 2022)  
+**Primary Evidence**
+- Department of Health "no different" video analysis (3 February 2021) positioned against formal Cabinet commitments
+- TGA email responses (18 & 22 February 2022) to direct inquiries requesting Safety Plan implementation evidence
 - FOI 5082 correspondence trail
 - COVID-19 vaccination statistics primary data files (XLS/PDF, 27 July 2023)
 - Bitcoin blockchain timestamp proof file
 - Arweave permanent storage confirmation
 
----
+**Infrastructure**
+- Permanent archival framework: Bitcoin blockchain timestamp proof (31 December 2025), Arweave permanent storage (1 January 2026), combined verification documentation in `/blockchain-verification/`
+- Automated traffic monitoring: daily GitHub traffic data collection with email summaries (8 AM AEDT), permanent CSV storage beyond GitHub's 14-day API window, trend analysis, private repository archival (`TGA-Audit-Traffic-Data`)
+- Zenodo academic archive (DOI: 10.5281/zenodo.14634063)
+
+**Analysis**
+- Public communications contradiction documentation: four-year pattern from February 2021 "no different" messaging through 2025 Senate testimony confirming "day-to-day processes" never systematically tracked
+- Pre-FOI evasion pattern establishment: identical template text claiming "enhanced dramatically" and "most intense monitoring ever conducted" whilst providing zero Plan-specific documentation
+
+### Changed
+
+**Statistics**
+- Updated vaccination coverage from 94% (October 2024) to 91.2% (October 2025)
+- Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period
+
+**Documentation**
+- Enhanced FOI 5082 significance clarification as critical comparative evidence demonstrating TGA's documentation capacity versus absence of Safety Plan implementation records
+- Streamlined disclaimer section to improve clarity whilst maintaining legal protections
+
+### Fixed
+
+**Technical**
+- Updated links and references
+- Formatting consistency enhancements
+- Timeline refinements
+- Navigation improvements
 
 ### Archive & Verification
-This release is preserved through multiple independent archival systems:
-- **GitHub:** Version-controlled repository with release tags
-- **Zenodo:** Academic archive with DOI (v1.74: 10.5281/zenodo.14634063)
-- **Bitcoin Blockchain:** Cryptographic timestamp proof via OpenTimestamps
-- **Arweave:** Permanent decentralized storage
-- **Private Backup:** Automated daily traffic monitoring with historical preservation
 
-All verification proofs available in `/blockchain-verification/` directory.
+This release is preserved through multiple independent archival systems: GitHub (version-controlled repository with release tags), Zenodo (academic archive DOI v1.74: 10.5281/zenodo.14634063), Bitcoin Blockchain (cryptographic timestamp proof via OpenTimestamps), Arweave (permanent decentralised storage), Private Backup (automated daily traffic monitoring with historical preservation). All verification proofs available in `/blockchain-verification/` directory.
 
+---
 
 ## Version 1.7.4 (28 December 2025)
 
-- **Dose accuracy verified:** Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians, correcting an earlier conflation of total population with vaccinated individuals. References to vaccine recipient numbers have been updated throughout for consistency.
+### Changed
 
-- **Oversight cases documented:** Added OAIC MR25/01153 case number and Commonwealth Ombudsman complaint reference (complaint submitted April 2025, Ref: 2025‑806374) to the FAQ, along with page 13 context from the Australian COVID‑19 Vaccination Policy (November 2020) to clarify the original “enhanced monitoring” commitments.
+**Statistics**
+- Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians, correcting earlier conflation of total population with vaccinated individuals
+- Updated vaccine recipient numbers throughout for consistency
 
-- **Compliance upgrades:** Added a comprehensive conflicts of interest declaration, CC BY 4.0 licence reference, and revised fair‑dealing disclaimer in the README footer to clarify scope, intent, legal basis, and good‑faith public‑interest purpose of the citizen‑led audit.
+**Compliance**
+- Added comprehensive conflicts of interest declaration
+- Added CC BY 4.0 licence reference
+- Revised fair-dealing disclaimer in README footer clarifying scope, intent, legal basis, and good-faith public-interest purpose
 
-- **Methodology refinements:** Clarified the ISO 19011/ANAO (ISSAI‑aligned) methodology statement in the README, added a description of the one‑page audit methodology flowchart, and removed outdated references to Bayesian scoring now that the analytical method has been revised.
+**Methodology**
+- Clarified ISO 19011/ANAO (ISSAI-aligned) methodology statement in README
+- Added description of one-page audit methodology flowchart
+- Removed outdated references to Bayesian scoring
 
-- **Documentation links:** Added direct references to the *ISO 19011 Management Systems Audit Checklist* in the README quick‑start section and clarified the description of TGA COVID‑19 vaccine safety reports (weekly March 2021–June 2023, then monthly from July 2023), noting the absence of a documented signal‑to‑action audit trail or evidence of “enhanced” Safety Plan strategy implementation.
+**Documentation**
+- Added direct references to ISO 19011 Management Systems Audit Checklist in README quick-start section
+- Clarified description of TGA COVID-19 vaccine safety reports (weekly March 2021–June 2023, then monthly from July 2023)
+- Added reference to ANAO Performance Audit Process and compliance standards (ISSAI-aligned)
 
-- **Added reference to ANAO Performance Audit Process and compliance standards:** (ISSAI‑aligned) via https://www.anao.gov.au/work/insights/performance-audit-process.
-  
-- **Technical fixes:** Corrected broken links and typos, made minor spacing and formatting edits, updated the COVID‑19 Vaccination Policy URL, and removed the obsolete `documentation-gap-analysis_v1.5.1.pdf` file, which has been superseded by the revised main audit documentation.
+### Added
+
+**Oversight Documentation**
+- OAIC MR25/01153 case number to FAQ
+- Commonwealth Ombudsman complaint reference (April 2025, Ref: 2025-806374) to FAQ
+- Page 13 context from Australian COVID-19 Vaccination Policy (November 2020) clarifying original "enhanced monitoring" commitments
+
+### Fixed
+
+**Technical**
+- Corrected broken links and typos
+- Minor spacing and formatting edits
+- Updated COVID-19 Vaccination Policy URL
+
+### Removed
+
+- Obsolete `documentation-gap-analysis_v1.5.1.pdf` file (superseded by revised main audit documentation)
+
+---
 
 ## Version 1.7.3 (22 December 2025)
 
-- **New ISO 19011 checklist:** Added *ISO 19011 Management Systems Audit Checklist* – a standalone, text-based application of ISO 19011:2018 auditing standards to the TGA COVID‑19 Vaccine Safety Monitoring Plan, including audit criteria, evidence hierarchy, non‑conformity ratings and an overall conformity/confidence assessment.
-- **New Audit methodology flowchart:** Added a one-page ISO 19011-based audit methodology flowchart to document the audit process (planning, evidence hierarchy, analysis and reporting).
-- **Tightened legal and regulatory claims:** Refined wording around FOI, OAIC, Senate testimony and the Sparke Helmore case file to ensure all assertions are strictly evidence‑based and anchored in primary sources, strengthening accuracy and avoiding any potential misrepresentation while preserving the core findings on documentation gaps and non‑conformities.
-- **Minor edits and fixes:** Corrected and updated internal and external links, clarified a small number of section headings, and made minor edits to references and section text for accuracy and readability.
+### Added
+
+**Audit Documentation**
+- ISO 19011 Management Systems Audit Checklist: standalone text-based application of ISO 19011:2018 auditing standards including audit criteria, evidence hierarchy, non-conformity ratings, and overall conformity/confidence assessment
+- One-page ISO 19011-based audit methodology flowchart documenting audit process (planning, evidence hierarchy, analysis, reporting)
+
+### Changed
+
+**Legal and Regulatory Claims**
+- Refined wording around FOI, OAIC, Senate testimony, and Sparke Helmore case file ensuring all assertions are strictly evidence-based and anchored in primary sources
+- Strengthened accuracy whilst preserving core findings on documentation gaps and non-conformities
+
+### Fixed
+
+**Documentation**
+- Corrected and updated internal and external links
+- Clarified section headings
+- Minor edits to references and section text for accuracy and readability
+
+---
 
 ## Version 1.7.2 (20 December 2025)
 
-- Add Phillips et al. (2021) peer-reviewed study documenting pre-rollout expert warnings.
-  - Context: Study interviewed 17 Australian vaccine safety experts (July-October 2020) 
-who identified data linkage as "major gap," characterized surveillance systems as 
-"parallel systems," and recommended "significant enhancement" for COVID vaccines. 
-Expert warnings align with subsequent TGA testimony that monitoring was "day-to-day 
-processes" never "systematically tracked."
-- Refined wording on provisional approval and enhanced monitoring to “regulatory condition and expectation” consistent with TGA guidance
-Added
-- CDI 2021 AEFI surveillance report section; clarified that it evidences intensive monitoring activity but not Safety Plan implementation or governance documentation
-- Added primary-sources folder with Department of Health video transcript (3 February 2021) showing public messaging contradiction: DoH stated COVID monitoring "will be no different" from routine surveillance, same month TGA published 17-strategy enhanced Safety Plan. Enhanced README with "Public Communications vs Policy Commitments" section documenting day-one gap between public communications and formal Cabinet commitments. Repository restructured for clearer source documentation provenance.
-- Restructured repository with professional folder organisation: created analysis/ folder for main audit documents (documentation gap analysis, presentation slides, FOI timeline), moved black-box-governance methodology to reference-documents/ folder, and created primary-sources/
-- Corrected the name of the TGA official giving evidence to the Senate Community Affairs Legislation Committee on 9 October 2025 to Dr Daniel Dascombe in main audit report.
-- Minor editing, link updates, fixed typos etc.
-- No changes to audit findings or evidence base.
+### Added
+
+**Evidence**
+- Phillips et al. (2021) peer-reviewed study documenting pre-rollout expert warnings: 17 Australian vaccine safety experts (July-October 2020) identified data linkage as "major gap," characterised surveillance systems as "parallel systems," recommended "significant enhancement" for COVID vaccines
+- CDI 2021 AEFI surveillance report section clarifying it evidences intensive monitoring activity but not Safety Plan implementation or governance documentation
+- Primary-sources folder with Department of Health video transcript (3 February 2021) showing public messaging contradiction: DoH stated COVID monitoring "will be no different" from routine surveillance same month TGA published 17-strategy enhanced Safety Plan
+- "Public Communications vs Policy Commitments" section to README documenting day-one gap between public communications and formal Cabinet commitments
+
+**Repository Structure**
+- Analysis folder for main audit documents (documentation gap analysis, presentation slides, FOI timeline)
+- Moved black-box-governance methodology to reference-documents folder
+- Created primary-sources folder
+
+### Changed
+
+**Terminology**
+- Refined wording on provisional approval and enhanced monitoring to "regulatory condition and expectation" consistent with TGA guidance
+
+### Fixed
+
+**Corrections**
+- Corrected name of TGA official giving evidence to Senate Community Affairs Legislation Committee (9 October 2025) to Dr Daniel Dascombe in main audit report
+- Minor editing, link updates, fixed typos
+
+### Note
+
+No changes to audit findings or evidence base.
+
+---
 
 ## Version 1.7.1 (18 December 2025)
 
-- Added an explicit definition of “black box governance” and integrated it into the methodological framing.
-- Refined wording of government/TGA assurance statements to use accurate reported speech rather than implied verbatim quotes.
-- Aligned the “Assurances Given to Australians” and “Why Documentation and Verification Matter” sections with the audit test: the existence (or absence) of systematic documentary evidence that Cabinet‑endorsed “enhanced safety monitoring” commitments were implemented as traceable processes.
-- Added Commonwealth–state bilateral agreements context to demonstrate formal intergovernmental governance frameworks requiring systematic TGA safety monitoring.
-- Enhanced FAQ: added Q32 on epistemological reasoning (deductive/abductive frameworks under incomplete evidence) and expanded Q35 personal statement with democratic accountability framing, including the formula “Transparency + Openness ⇒ Accountability ⇒ Trust.”
-- Applied minor editorial and formatting improvements; corrected or updated links and directed readers to the relevant items in the /references folder.
-- No changes to the underlying evidence base or audit findings.
+### Added
+
+**Methodology**
+- Explicit definition of "black box governance" integrated into methodological framing
+- Commonwealth-state bilateral agreements context demonstrating formal intergovernmental governance frameworks requiring systematic TGA safety monitoring
+
+**FAQ**
+- Q32 on epistemological reasoning (deductive/abductive frameworks under incomplete evidence)
+- Expanded Q35 personal statement with democratic accountability framing including formula "Transparency + Openness ⇒ Accountability ⇒ Trust"
+
+### Changed
+
+**Framing**
+- Refined wording of government/TGA assurance statements to use accurate reported speech rather than implied verbatim quotes
+- Aligned "Assurances Given to Australians" and "Why Documentation and Verification Matter" sections with audit test: existence (or absence) of systematic documentary evidence that Cabinet-endorsed "enhanced safety monitoring" commitments were implemented as traceable processes
+
+### Fixed
+
+**Documentation**
+- Minor editorial and formatting improvements
+- Corrected or updated links
+- Directed readers to relevant items in /references folder
+
+### Note
+
+No changes to underlying evidence base or audit findings.
+
+---
 
 ## Version 1.7.0 (17 December 2025)
 
-**Major Conceptual Clarification:**
+### Added
 
-- **Cabinet endorsement emphasis:** Strengthened framing throughout document to highlight that Cabinet endorsement elevated the Safety Monitoring Plan from TGA agency guidance to formal government commitment, establishing the 17 numbered strategies as a documented promise to Australian citizens and legal condition of provisional approval
+**Methodology Document**
+- "The Challenge of Black Box Governance for Private Citizens" addressing information asymmetry, epistemological challenges, and limited investigative powers facing citizen auditors under Australian law
+- Theoretical framework (Akerlof, Hayek, Popper, Lipton, O'Neill, Stiglitz, Arrow) justifying audit scope, constraints, and reasoning approach
 
-- **Refined audit scope:** Clarified inquiry focuses on whether the Plan's 17 numbered strategies were implemented as distinct, systematically tracked processes with dedicated governance and audit trails, using the Plan's own framework as the verification standard
+**Analysis**
+- Enhanced UTS teaching materials analysis with full slide context (Slides 22-24) demonstrating gap between routine pharmacovigilance infrastructure presented in training and enhanced framework promised in Safety Plan
 
-- **Added "The Challenge of Black Box Governance for Private Citizens" methodology document:** Addresses information asymmetry, epistemological challenges, and limited investigative powers facing citizen auditors under Australian law. Provides theoretical framework (Akerlof, Hayek, Popper, Lipton, O'Neill, Stiglitz, Arrow) justifying audit scope, constraints, and reasoning approach—allowing main report to focus on findings rather than methodological defence
+### Changed
 
-- **Enhanced UTS teaching materials analysis:** Added full slide context (Slides 22-24) demonstrating gap between routine pharmacovigilance infrastructure presented in training and enhanced framework promised in Safety Plan
+**Framing**
+- Strengthened Cabinet endorsement emphasis throughout document highlighting Safety Monitoring Plan elevation from TGA agency guidance to formal government commitment
+- Established 17 numbered strategies as documented promise to Australian citizens and legal condition of provisional approval
+- Refined audit scope clarifying inquiry focuses on whether Plan's 17 numbered strategies were implemented as distinct, systematically tracked processes with dedicated governance and audit trails
+- Updated Executive Summary and Conclusion aligned with Cabinet commitment framing and clarified assessment scope
 
-- **Updated Executive Summary and Conclusion:** Aligned with Cabinet commitment framing and clarified assessment scope
+### Significance
 
-**Significance:** This version explicitly frames the audit question around verifiable implementation of Cabinet-endorsed commitments rather than engaging in routine vs enhanced definitional debate. The assessment acknowledges pharmacovigilance activities occurred; it examines whether the 17 strategies promised as conditions of provisional approval were implemented with the systematic documentation, governance, and audit trails necessary for independent accountability.
+This version explicitly frames audit question around verifiable implementation of Cabinet-endorsed commitments rather than engaging in routine vs enhanced definitional debate. Assessment acknowledges pharmacovigilance activities occurred; examines whether 17 strategies promised as conditions of provisional approval were implemented with systematic documentation, governance, and audit trails necessary for independent accountability.
 
-**No changes to audit findings or evidence base.**
+### Note
+
+No changes to audit findings or evidence base.
 
 ---
 
 ## Version 1.6.1 (14 December 2025)
 
-**Added:**
-- TGA October 2021 teaching presentation given at UTS describing Safety Monitoring Plan as "overarching framework" for enhanced monitoring
-- Reference to Commonwealth-state governance framework requiring Statements of Assurance that relied on systematic safety monitoring documentation
+### Added
 
-**No changes to overall audit findings.**
+- TGA October 2021 teaching presentation given at UTS describing Safety Monitoring Plan as "overarching framework" for enhanced monitoring
+- Reference to Commonwealth-state governance framework requiring Statements of Assurance relying on systematic safety monitoring documentation
+
+### Note
+
+No changes to overall audit findings.
 
 ---
 
 ## Version 1.6.0 (December 2025)
 
-**Major additions:**
+### Added
+
 - Comprehensive FAQ with "At a Glance" summary
 - Navigation guide with 31 detailed Q&A
 - Enhanced accessibility with quick reference sections for visual summaries
@@ -319,33 +430,42 @@ Added
 
 ## Version 1.5.1 (December 2025)
 
-**Updates:**
+### Added
+
 - Additional policy context documentation
 - Enhanced repository navigation (Quick Start section and FAQ)
 
 ---
 
-## Version 1.5.0 (December 2025) - Major Update
+## Version 1.5.0 (December 2025)
 
-**Substantive additions:**
-- Provisional approval verification gap analysis – comprehensive examination of legislation, guidance, OAIC search results and AusPARs
-- AusVaxSafety case study – detailed analysis of active surveillance performance and absence of documented TGA integration
-- ANAO audit integration – situating pharmacovigilance within broader COVID-19 governance while clarifying scope limitations
-- Structured counter-arguments – explicit responses to common objections (generic SOPs, expert committees, FOI decisions)
-- Refined recommendations – reordered and strengthened reform priorities (governance, records management, independent audit)
+### Added
 
-**Methodology enhancements:**
-- Stricter evidence hierarchy – recalculated implementation ratings, reducing "fully implemented" findings from 5 to 3
+**Analysis**
+- Provisional approval verification gap analysis: comprehensive examination of legislation, guidance, OAIC search results, and AusPARs
+- AusVaxSafety case study: detailed analysis of active surveillance performance and absence of documented TGA integration
+- ANAO audit integration: situating pharmacovigilance within broader COVID-19 governance whilst clarifying scope limitations
+- Structured counter-arguments: explicit responses to common objections (generic SOPs, expert committees, FOI decisions)
 
-**Enhanced evidence gathering:**
-- Systematic FOI and OAIC analysis – detailed review of TGA decisions, correspondence and contradictions
-- OAIC-directed TRIM searches – analysis of MR22/00538 results covering 531+ containers
-- Structured online sweep – reproducible searches of government and partner websites for Plan-specific implementation documents outside FOI
-- AusVaxSafety case study – analysis of 6.8 million survey outputs and absence of documented integration with TGA signal management
-- Legislative framework analysis – review of Therapeutic Goods Act provisions and TGA guidance on provisional approval verification
+**Evidence Gathering**
+- Systematic FOI and OAIC analysis: detailed review of TGA decisions, correspondence, and contradictions
+- OAIC-directed TRIM searches: analysis of MR22/00538 results covering 531+ containers
+- Structured online sweep: reproducible searches of government and partner websites for Plan-specific implementation documents outside FOI
+- AusVaxSafety case study: analysis of 6.8 million survey outputs and absence of documented integration with TGA signal management
+- Legislative framework analysis: review of Therapeutic Goods Act provisions and TGA guidance on provisional approval verification
+
+### Changed
+
+**Methodology**
+- Stricter evidence hierarchy: recalculated implementation ratings reducing "fully implemented" findings from 5 to 3
+- Refined recommendations: reordered and strengthened reform priorities (governance, records management, independent audit)
 
 ---
 
 ## Version 1.0 (27 November 2025)
 
-**Initial publication**
+### Added
+
+- Initial publication
+
+**All US spellings corrected to UK spelling.**
