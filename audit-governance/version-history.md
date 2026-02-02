@@ -4,6 +4,143 @@
 
 ---
 
+## Version 1.9.1 (2 February 2026)
+
+### Added
+
+**Evidence Documentation**
+- Output-by-output breakdown table showing all 20 Plan outputs with status and evidence basis to ISO 19011 audit
+- Excel evidence matrix with complete output-by-output evidence trail including sources, findings, and documentation gaps
+- Summary by objective showing conformity rates: Objective 2 (Signal Detection) at 0% fully implemented, Governance & Performance at 0% documented, overall 15% conformity rate
+- Critical gap analysis documenting five key patterns: enhanced monitoring implementation failure, governance absence, enhanced vs routine indistinguishability, communication vs process divergence, international vs domestic transparency gap
+
+**README Enhancements**
+- Key Findings section with five structured findings providing executive-level summary between Executive Summary and Evidence Standard
+- Guiding Standards section documenting ISO 19011:2018, ISO 15489-1:2016, ANAO Better Practice, OSINT methodology, and Open Access framework
+- "A Note on Accountability" section establishing verification framework
+- Sparke Helmore legal analysis (11 May 2025) to Evidence Standard and Timeline of Contradictions
+- Administrative Law vs Accountability section distinguishing procedural FOI compliance from substantive policy implementation accountability
+- Scale and context section after Key Findings (68.4M doses under provisional approval, 94% of rollout)
+
+**ISO 19011 Audit**
+- Prominent disclaimer box distinguishing audit methodology from ISO certification
+- Dedicated Methodological Limitations section covering access limitations, evidence constraints, resource constraints, scope boundaries, and impact on findings
+- FOI 4029-03 evidence integration proving internal capacity (ACV presentation Sep 2021) contrasted with public transparency absence
+
+**Version Control Policy**
+- Release Workflow section documenting three-phase release process (content → blockchain verification → academic archival)
+- Verification Efficiency Principle section explaining minimum steps for cryptographic proof
+- Workflow example with Bitcoin transaction stub
+- 6 new references: Keep a Changelog, Semantic Versioning, GitHub releases/audit log, OpenTimestamps, Nakamoto Bitcoin whitepaper, Arweave Yellow Paper, Zenodo DOI versioning
+
+**Surveillance Data Analysis**
+- Visual Timeline table documenting surveillance degradation across five periods (Mar 2021–Nov 2023)
+- "Expected Rates" methodology explanation to Finding 3 using WHO source and ICH E2E standards
+- Expected Rates Evolution table tracking evolution from signal-focused investigations (2021) to unverifiable reassurance claims (mid-2022+)
+- Enhanced compensation barrier documentation: TGA holds population-level evidence inaccessible to treating doctors, 4,440 rejected/withdrawn claimants unable to access signal validation data
+- International comparison: US CDC/UK MHRA publish detailed methodologies within days vs TGA aggregates only
+- CIOMS Good Pharmacovigilance Practices to standards framework
+
+**Compensation Analysis**
+- Timeline of Key Events tracking critical dates from Safety Plan publication (Feb 2021) through scheme closure (Sep 2024)
+- Specific Examples of Information Asymmetry section with three detailed clinical scenarios (myocarditis in young males, menstrual disorders, GBS)
+- International Comparison table with detailed comparison (US CDC, UK MHRA, AU TGA) documenting transparency levels, methodology publication, and compensation outcomes
+- References with verified HRSA, UK Government, Telegraph, CDC MMWR sources
+
+**Search Methodology Comparison**
+- Methodological Note defending comparison validity despite different search environments (TRIM vs public websites)
+- Implications for FOI Administration section raising three critical questions about s24A "reasonable steps" standard, output-specific terminology, and search scope
+
+**FOI Systematic Review**
+- Detailed search process section covering tools, quality control measures, and search parameters
+- Comprehensive limitations statement covering TGA disclosure log reliance, s.11C public releases limitation, keyword-based approach limitations, and no access to refused/partially released documents
+- 85% repository coverage metric clarification
+
+**Disclaimer**
+- Methodological boundaries statement clarifying citizen-led audit scope, evidence constraints, and verification framework
+- Nature of This Audit section establishing that monitoring without defined metrics, tracking, and records is indistinguishable from no monitoring
+- Updated table of contents
+
+**Permanent Archive**
+- Internet Archive Wayback Machine preservation snapshots for key repository pages
+
+**FAQ**
+- Hyperlinked footnotes with return navigation for dose statistics (75M total, 68.4M provisional)
+- September 2025 timeframe clarification to dose references
+
+**Black Box Governance**
+- Falsification safeguards note to abductive reasoning section with three mitigation strategies
+
+### Changed
+
+**Repository Structure**
+- Standardised all repository files to kebab-case naming convention for command-line compatibility and cross-platform consistency
+- Standardised audit-governance markdown files to kebab-case
+- Restructured permanent archive documentation for improved clarity and accessibility
+- Consolidated blockchain verification records
+
+**ISO 19011 Audit**
+- Revised title to "Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan Implementation Using ISO 19011:2018 Guidelines"
+- Revealed systematic pattern: communication outputs 100% delivered, process outputs 0-40% documented
+
+**Version Control Policy**
+- Replaced patch workflow with streamlined single-version approach
+- Updated ICD-206 sourcing requirements URL
+- Total 19 references with UK spelling throughout
+
+**Surveillance Data Analysis**
+- Restructured section headers for improved navigation
+- Enhanced Key Takeaways with international comparison
+
+**Compensation Analysis**
+- Corrected international compensation statistics: US CICP ~0.5% (~72/14,000+ claims), UK VDP ~1-3% (~600/17,000 claims)
+- Corrected CDC timeline from "24-48 hours" to "days post-signal"
+- Reframed comparison emphasising transparency gap: AU approval rate (10.5%) higher than US/UK but uniquely lacks published signal investigation methodologies
+
+**FOI Systematic Review**
+- Enhanced search methodology documentation
+- Improved professional terminology and structure throughout
+- Version updated 1.0 → 1.1
+
+**Documentation Standards**
+- Removed bold formatting from all hyperlinks throughout repository
+- Maintained bold formatting only in navigation/wayfinding sections
+- Updated internal documentation references throughout FAQ and primary sources
+- Standardised internal document links to relative paths
+- Updated Table of Contents to include new Guiding Standards section
+
+**Reference Lists**
+- Updated documenting FOI evidence sources and methodology (OSINT best practices, systematic search principles, evidence triangulation)
+- Enhanced citations for international pharmacovigilance standards (ICH E2E, CIOMS) and Commonwealth accountability frameworks (PGPA Act, Archives Act, FOI Act)
+
+### Fixed
+
+**ISO 19011 Audit**
+- Conformity assessment numbers: corrected to 11 partial (55%), 6 not documented (30%) to match PowerPoint Slide 9 and README verified data
+- Removed "Checklist" from ISO 19011 audit link text for accuracy (document is full audit report)
+- Added missing markdown link syntax to ISO 19011 audit description
+
+**FAQ**
+- Footnote formatting: added superscript to footnote numbers and working bidirectional return links
+- Corrected AICmr 54 citation formatting to standard legal format
+
+**Documentation**
+- Anchor links throughout repository to reflect new kebab-case file naming structure
+- Relative paths for improved mobile app compatibility
+- Markdown syntax errors in ISO 19011 methodology section
+
+**General**
+- Added Version Control Policy reference statement to version history header
+- General formatting improvements, line breaks, bold emphasis, and readability enhancements throughout README and supporting documents
+
+### Note
+
+Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of evidence through structured findings, output-by-output breakdown with conformity analysis, timeline visualisations, corrected international statistics with detailed comparison tables, clinical examples demonstrating information asymmetry, Sparke Helmore third-party validation, Administrative Law vs Accountability framework, Release Workflow documentation with Verification Efficiency Principle, methodological transparency enhancements including boundaries statement and Nature of This Audit clarification, repository maintenance through kebab-case standardisation and permanent archive restructuring, and formatting consistency improvements across all documentation responding to DeepSeek AI peer feedback and source verification. All changes recorded under commit messages.
+
+**Archive:** Zenodo DOI and blockchain verification current.
+
+---
+
 ## Version 1.9 (14 January 2026)
 
 ### Major Updates
