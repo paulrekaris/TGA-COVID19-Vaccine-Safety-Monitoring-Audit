@@ -71,7 +71,8 @@ jobs:
                 r'ombudsman\.',
                 r'humanrights\.gov\.au',
                 r'\.audit\.',
-                r'integrity\.'
+                r'integrity\.',
+                r'\.gov$'
             ],
             'Academic': [
                 r'\.edu\.au$',
@@ -80,7 +81,8 @@ jobs:
                 r'\.ac\.nz$',
                 r'\.university\.',
                 r'\.uni\.',
-                r'\.edu\.sg$'
+                r'\.edu\.sg$',
+                r'nla\.gov\.au'
             ],
             'Major Media': [
                 r'abc\.net\.au',
