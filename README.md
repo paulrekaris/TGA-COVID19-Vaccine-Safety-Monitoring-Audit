@@ -988,9 +988,14 @@ For detailed version history and changelog, see [Version History](audit-governan
 
 ## Permanent Archive
 
-**Full blockchain verification documentation:** [Blockchain Verification Records](blockchain-and-archival-verification/README.md)
+**Full blockchain and archival verification documentation:** [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
 
 This audit has been permanently archived and cryptographically timestamped:
+
+- **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (National edeposit, discoverable via [Trove](https://trove.nla.gov.au/))
+
+- **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
+  Permanent academic archive with CERN backing
 
 - **Bitcoin Timestamp:** December 31, 2025  
   SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
@@ -999,13 +1004,8 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Arweave:** [Permanent Storage](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)  
   Permanent blockchain storage
 
-- **National Library of Australia**: NED447016P1081502 (National edeposit, discoverable via [Trove](https://trove.nla.gov.au/))
-
 - **Internet Archive:** [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)  
   Dated snapshots proving public web presence
-
-- **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
-  Permanent academic archive with CERN backing
 
 - **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
   Public version control with full history
