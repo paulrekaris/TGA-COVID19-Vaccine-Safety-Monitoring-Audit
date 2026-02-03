@@ -134,10 +134,10 @@ jobs:
             r'solicitors\.'
             ]
            'Corporate': [
-           r'\.com\.au$', 
-           r'corporate\.',
-           r'\.co\.nz$'   
-           ]
+            r'\.com\.au$', 
+            r'corporate\.',
+            r'\.co\.nz$'   
+            ]
         }
 
         def categorize_referrer(referrer):
