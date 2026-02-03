@@ -51,7 +51,6 @@ jobs:
             'Authorization': f'token {GITHUB_TOKEN}',
             'Accept': 'application/vnd.github.v3+json'
         }
-
         INSTITUTIONAL_DOMAINS = {
             'Australian Government': [
                 r'\.gov\.au$',
@@ -105,38 +104,38 @@ jobs:
                 r'nih\.gov',
                 r'bma\.org',
                 r'ama\.com\.au',
-                r'racgp\.org\.au'
+                r'racgp\.org\.au',
                 r'pharma\.',
                 r'pharmaceutical\.'
             ],
             'NGO/Advocacy': [
-            r'\.org\.au$',
-            r'\.org\.nz$',
-            r'\.org$'  # Broad but useful for international NGOs
+                r'\.org\.au$',
+                r'\.org\.nz$',
+                r'\.org$'
             ],
             'Consulting': [
-            r'deloitte\.',
-            r'pwc\.',
-            r'kpmg\.',
-            r'ey\.com',
-            r'mckinsey\.',
-            r'bain\.',
-            r'bcg\.com',
-            r'accenture\.'
+                r'deloitte\.',
+                r'pwc\.',
+                r'kpmg\.',
+                r'ey\.com',
+                r'mckinsey\.',
+                r'bain\.',
+                r'bcg\.com',
+                r'accenture\.'
             ],
             'Legal': [
-            r'\.law$',
-            r'law\.',
-            r'legal\.',
-            r'lawfirm\.',
-            r'lawyers\.',
-            r'barristers\.',
-            r'solicitors\.'
-            ]
-           'Corporate': [
-            r'\.com\.au$', 
-            r'corporate\.',
-            r'\.co\.nz$'   
+                r'\.law$',
+                r'law\.',
+                r'legal\.',
+                r'lawfirm\.',
+                r'lawyers\.',
+                r'barristers\.',
+                r'solicitors\.'
+            ],
+            'Corporate': [
+                r'\.com\.au$', 
+                r'corporate\.',
+                r'\.co\.nz$'   
             ]
         }
 
