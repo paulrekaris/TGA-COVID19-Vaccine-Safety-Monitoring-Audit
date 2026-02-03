@@ -45,6 +45,8 @@ To independently verify this timestamp:
 
 National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
 
+---
+
 ## Arweave Permanent Storage
 
 **Upload Date:** December 31, 2025  
