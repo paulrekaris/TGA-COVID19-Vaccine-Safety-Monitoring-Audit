@@ -61,7 +61,8 @@
 - Nature of This Audit section establishing that monitoring without defined metrics, tracking, and records is indistinguishable from no monitoring
 - Updated table of contents
 
-**Permanent Archive**
+-**Archival Registration**
+- National Library of Australia National edeposit (NED) registration: Deposit ID NED447016 (3 February 2026). Fulfills Commonwealth digital legal deposit requirements, discoverable via Trove as part of Australia's official national collection.
 - Internet Archive Wayback Machine preservation snapshots for key repository pages
 
 **FAQ**
