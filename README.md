@@ -999,6 +999,8 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Arweave:** [Permanent Storage](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)  
   Permanent blockchain storage
 
+- **National Library of Australia**: NED447016 (National edeposit, discoverable via Trove)  
+
 - **Internet Archive:** [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)  
   Dated snapshots proving public web presence
 
