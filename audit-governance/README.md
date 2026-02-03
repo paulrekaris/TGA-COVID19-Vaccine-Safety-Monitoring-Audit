@@ -7,7 +7,7 @@ This folder contains documentation of the principles, standards, and version con
 - [Evidence Storage](evidence-storage.md) - Methodology for archiving primary sources vs citing stable institutional sources, aligned with FAIR principles, open access standards, and digital preservation best practices
 - [Version Control Policy](version-control-policy.md) - Version control principles following ISO 19011:2018 (audit standards), ISO 15489-1:2016 (records management), OSINT methodology, and research integrity standards
 - [Version History](version-history.md) - Complete changelog documenting all versions, evidence additions, methodology refinements, and corrections with rationale
-- [Permanent Archive Records](Permanent-Archive-Records-2026-02-03.pdf) - Documentation of permanent archiving through Bitcoin blockchain timestamping, Arweave permanent storage, National Library of Australia, Internet Archive web snapshots, and Zenodo DOI
+- [Permanent Archive Records](/blockchain-and-archival-verification/permanent-archive-records-2026-02-03.pdf) Documentation of permanent archiving through Bitcoin blockchain timestamping, Arweave permanent storage, National Library of Australia, Internet Archive web snapshots, and Zenodo DOI
 
 ## Purpose
 
