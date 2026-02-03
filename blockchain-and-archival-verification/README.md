@@ -100,12 +100,13 @@ Internet Archive preserves dated snapshots of this repository's public web prese
 
 ## Combined Verification
 
-This audit is protected by multiple independent open source databases including blockchain verification methods:
+This audit is protected by multiple independent verification methods:
 
+- **National Library of Australia (NED):** Official government archive with legal deposit registration
+- **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
-- **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **GitHub:** Public version control with complete history
 
 Together, these create archival protection ensuring the audit cannot be suppressed, altered, backdated, or disappeared.
