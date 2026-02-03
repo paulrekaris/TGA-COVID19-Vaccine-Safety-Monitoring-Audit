@@ -2,9 +2,9 @@
 
 # TGA COVID-19 Vaccine Safety Monitoring Audit
 
-[![NLA](https://img.shields.io/badge/National%20Library%20Australia-NED447016P1081502-2D6F4D?labelColor=512B58)](https://nla.gov.au/nla.obj-4148163541/view)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) 
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+[![NLA](https://img.shields.io/badge/National%20Library%20Australia-NED447016P1081502-2D6F4D?labelColor=512B58)](https://nla.gov.au/nla.obj-4148163541/view)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)   
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)   
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)  
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
