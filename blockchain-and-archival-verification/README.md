@@ -8,6 +8,27 @@ This audit is protected by multiple verification and archival methods including 
 [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Web%20Snapshots-black?logo=internetarchive&logoColor=white)](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
 
+## National Library of Australia – National edeposit (NED)
+
+**Deposit ID:** NED447016  
+**NLA Reference ID:** NED447016P1081502  
+**Deposit Date:** 3 February 2026, 11:24 AM AEDT  
+**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit: Documentation Gap Analysis  
+**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf  
+**Size:** 1.1 MB  
+**Status:** Available via Trove
+
+### Access
+
+**Direct Link:** https://nla.gov.au/nla.obj-4148163541/view  
+**Trove Discovery:** https://trove.nla.gov.au/
+
+### Significance
+
+National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with the National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
+
+---
+
 ## Bitcoin Timestamp (OpenTimestamps)
 
 **Date:** December 31, 2025  
@@ -26,27 +47,10 @@ OpenTimestamps proof file containing cryptographic evidence of timestamp.
 ### Verification
 
 To independently verify this timestamp:
-
 1. Go to https://opentimestamps.org
 2. Upload the `.ots` proof file
 3. System will verify against Bitcoin blockchain
 4. Confirms audit archive existed on December 31, 2025
-
----
-
-### National Library of Australia – National edeposit (NED)
-
-**Deposit ID:** NED447016  
-**Deposit Date:** 3 February 2026, 11:24 AM AEDT  
-**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit: Documentation Gap Analysis  
-**NLA Reference ID:** NED447016P1081502  
-**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf  
-**Size:** 1.1 MB  
-**Status:** Available via Trove
-
-#### Significance
-
-National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with the National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
 
 ---
 
@@ -61,10 +65,8 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 
 ### Access
 
-**Direct Link:** https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
-
+**Direct Link:** https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w  
 **Status Verification:** https://viewblock.io/arweave/tx/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
-
 ### Significance
 
 Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transaction is verified on Arweave blockchain and stored permanently across the distributed network.
