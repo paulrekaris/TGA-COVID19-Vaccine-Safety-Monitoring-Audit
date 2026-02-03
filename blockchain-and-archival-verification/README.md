@@ -32,6 +32,19 @@ To independently verify this timestamp:
 
 ---
 
+### National Library of Australia – National edeposit (NED)
+
+**Deposit ID:** NED447016  
+**Deposit Date:** 3 February 2026, 11:24 AM AEDT  
+**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit: Documentation Gap Analysis  
+**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf  
+**Size:** 1.1 MB  
+**Status:** Available via Trove 
+
+#### Significance
+
+National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
+
 ## Arweave Permanent Storage
 
 **Upload Date:** December 31, 2025  
