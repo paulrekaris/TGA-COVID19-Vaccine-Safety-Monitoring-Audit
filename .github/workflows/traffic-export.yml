@@ -26,6 +26,9 @@ jobs:
       run: |
         pip install requests pandas
     
+    - name: Set date variable
+      run: echo "DATE_STR=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+    
     - name: Export traffic data
       working-directory: traffic-repo
       env:
@@ -52,7 +55,6 @@ jobs:
         INSTITUTIONAL_DOMAINS = {
             'Australian Government': [
                 r'\.gov\.au$',
-                r'aph\.gov\.au',
                 r'parliament\.vic\.gov\.au',
                 r'parliament\.nsw\.gov\.au',
                 r'parliament\.qld\.gov\.au',
@@ -63,8 +65,10 @@ jobs:
                 r'parliament\.act\.gov\.au'
             ],
             'Oversight Bodies': [
-                r'ombudsman\.',
+                r'aph\.gov\.au',
+                r'anao\.gov\.au',
                 r'oaic\.gov\.au',
+                r'ombudsman\.',
                 r'humanrights\.gov\.au',
                 r'\.audit\.',
                 r'integrity\.'
@@ -238,7 +242,7 @@ jobs:
             avg_14day_unique_visitors = 0
 
         days_tracked = len(clones_df)
-        total_clones_alltime = clones_df['total_clones'].iloc[-1] if len(clones_df) > 0 else 0
+        total_clones_alltime = clones_df['total_clones'].sum() if len(clones_df) > 0 else 0
         avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
 
         institutional_referrers = {}
@@ -418,7 +422,29 @@ jobs:
         server_port: 587
         username: ${{ secrets.EMAIL_USERNAME }}
         password: ${{ secrets.EMAIL_PASSWORD }}
-        subject: TGA Audit Traffic Summary
+        subject: TGA Audit Traffic Summary - ${{ env.DATE_STR }}
         to: prekas23@gmail.com
         from: GitHub Traffic Monitor <prekas23@gmail.com>
         body: file://traffic-repo/LATEST_SUMMARY.txt
+    
+    - name: Notify on failure
+      if: failure()
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: smtp.gmail.com
+        server_port: 587
+        username: ${{ secrets.EMAIL_USERNAME }}
+        password: ${{ secrets.EMAIL_PASSWORD }}
+        subject: ⚠️ TGA Traffic Export FAILED - ${{ env.DATE_STR }}
+        to: prekas23@gmail.com
+        from: GitHub Traffic Monitor <prekas23@gmail.com>
+        body: |
+          Traffic export workflow failed on ${{ env.DATE_STR }}.
+          
+          Check workflow logs: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/actions
+          
+          Common issues:
+          - GitHub API rate limit exceeded
+          - Authentication token expired
+          - Network connectivity problems
+          - CSV file corruption
