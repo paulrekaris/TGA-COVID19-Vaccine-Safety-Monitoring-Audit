@@ -12,7 +12,7 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Transparency**: All version changes publicly visible—every FOI response, OAIC submission update, and methodology refinement documented and traceable.
 - **Integrity**: Records protected against unauthorised alteration through Git version control and blockchain timestamping, ensuring the audit trail cannot be retrospectively modified.
 - **Accountability**: Clear responsibility for version changes with documented rationale—corrections, evidence additions, and analytical refinements explicitly identified.
-- **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, Arweave, blockchain), enabling independent verification by oversight bodies.
+- **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
 **Open Access Principles**
 - **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
@@ -41,7 +41,7 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of **[Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)** for independent replication.
-- **Permanent archiving**: Zenodo DOI, blockchain timestamping (Bitcoin, Arweave), and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.
+- **Permanent archiving**: Zenodo DOI, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
   
 **See:** [Complete Version History](version-history.md)
