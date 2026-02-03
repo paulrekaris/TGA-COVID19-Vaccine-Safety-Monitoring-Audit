@@ -8,17 +8,17 @@ This directory contains the main audit report and supporting analysis materials.
 
 ## Supporting Analysis
 
-- [Compensation Analysis](compensation-analysis.md) – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments
-
-- [FOI Systemic Review](foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years
-
 - [ISO 19011 Conformity Assessment Checklist](ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit framework assessment with ANAO criteria, evidence hierarchy, and non-conformity ratings
 
 - [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 20 Plan outputs with sources checked, findings, documentation gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions. Excel workbook format with multiple sheets.
 
-- [Search Methodology Comparison](search-methodology-comparison.md) – Comparison of audit's 14 output-specific search terms versus TGA's 8 generic document-title terms with gap analysis
-
 - [Surveillance Analysis](surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
+
+- [FOI Systemic Review](foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years
+
+- [Compensation Analysis](compensation-analysis.md) – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments
+
+- [Search Methodology Comparison](search-methodology-comparison.md) – Comparison of audit's 14 output-specific search terms versus TGA's 8 generic document-title terms with gap analysis
 
 ## Visual Summaries
 
