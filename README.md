@@ -710,7 +710,7 @@ Comirnaty AusPAR (transition from provisional to full registration)
 https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf
 
 **TGA public databases and publications**  
-Database of Adverse Event Notifications (DAEN), weekly COVID‑19 vaccine safety reports, and published regulatory decisions.
+Database of Adverse Event Notifications (DAEN) and published regulatory decisions.
 
 **FOI responses**
    * FOI 3643 (2022) – refusal of an "implementation report" for the COVID‑19 Vaccine Safety Monitoring Plan.
