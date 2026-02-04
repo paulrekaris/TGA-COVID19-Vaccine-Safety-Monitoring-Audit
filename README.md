@@ -83,7 +83,6 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Assessment Output Methodology](#assessment-output-methodology)
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
-- [Evidence Storage Approach](#evidence-storage-approach)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
   - [FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021)](#foi-5082-tga-vaccine-pharmacovigilance-system-20192021-released-26-july-2024)
 - [Limitations and Falsifiability](#limitations-and-falsifiability)
