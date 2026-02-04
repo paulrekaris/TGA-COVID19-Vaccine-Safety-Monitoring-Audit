@@ -51,6 +51,7 @@ jobs:
             'Authorization': f'token {GITHUB_TOKEN}',
             'Accept': 'application/vnd.github.v3+json'
         }
+
         INSTITUTIONAL_DOMAINS = {
             'Australian Government': [
                 r'\.gov\.au$',
@@ -83,6 +84,30 @@ jobs:
                 r'\.edu\.sg$',
                 r'nla\.gov\.au'
             ],
+            'NGO/Advocacy': [
+                r'\.org\.au$',
+                r'\.org\.nz$',
+                r'\.org$'
+            ],
+            'Consulting': [
+                r'deloitte\.',
+                r'pwc\.',
+                r'kpmg\.',
+                r'ey\.com',
+                r'mckinsey\.',
+                r'bain\.',
+                r'bcg\.com',
+                r'accenture\.'
+            ],
+            'Legal': [
+                r'\.law$',
+                r'law\.',
+                r'legal\.',
+                r'lawfirm\.',
+                r'lawyers\.',
+                r'barristers\.',
+                r'solicitors\.'
+            ],
             'Major Media': [
                 r'abc\.net\.au',
                 r'theguardian\.com',
@@ -108,34 +133,10 @@ jobs:
                 r'pharma\.',
                 r'pharmaceutical\.'
             ],
-            'NGO/Advocacy': [
-                r'\.org\.au$',
-                r'\.org\.nz$',
-                r'\.org$'
-            ],
-            'Consulting': [
-                r'deloitte\.',
-                r'pwc\.',
-                r'kpmg\.',
-                r'ey\.com',
-                r'mckinsey\.',
-                r'bain\.',
-                r'bcg\.com',
-                r'accenture\.'
-            ],
-            'Legal': [
-                r'\.law$',
-                r'law\.',
-                r'legal\.',
-                r'lawfirm\.',
-                r'lawyers\.',
-                r'barristers\.',
-                r'solicitors\.'
-            ],
             'Corporate': [
-                r'\.com\.au$', 
+                r'\.com\.au$',
                 r'corporate\.',
-                r'\.co\.nz$'   
+                r'\.co\.nz$'
             ]
         }
 
@@ -184,19 +185,21 @@ jobs:
             views_df = pd.read_csv('views.csv')
             engagement_df = pd.read_csv('engagement.csv')
         except (FileNotFoundError, pd.errors.EmptyDataError):
-            clones_df = pd.DataFrame(columns=['date', 'total_clones', 'unique_cloners'])
-            views_df = pd.DataFrame(columns=['date', 'total_views', 'unique_visitors'])
+            clones_df = pd.DataFrame(columns=['date', 'daily_clones', 'daily_unique_cloners'])
+            views_df = pd.DataFrame(columns=['date', 'daily_views', 'daily_unique_visitors'])
             engagement_df = pd.DataFrame(columns=['date', 'stars', 'forks', 'watchers'])
 
-        today_clones_total = clones_data.get('count', 0)
-        today_clones_unique = clones_data.get('uniques', 0)
-        today_views_total = views_data.get('count', 0)
-        today_views_unique = views_data.get('uniques', 0)
+        # Get 14-day window totals (for reference and reporting)
+        window_14day_clones = clones_data.get('count', 0)
+        window_14day_unique_cloners = clones_data.get('uniques', 0)
+        window_14day_views = views_data.get('count', 0)
+        window_14day_unique_visitors = views_data.get('uniques', 0)
 
         if date_str in clones_df['date'].values:
             print(f"Data for {date_str} already exists. Exiting.")
             exit(0)
 
+        # Extract YESTERDAY'S single day counts (not 14-day window)
         yesterday_clones = 0
         yesterday_unique_cloners = 0
         yesterday_views = 0
@@ -220,15 +223,16 @@ jobs:
         new_forks = forks_count - prev_forks
         new_watchers = watchers_count - prev_watchers
 
+        # Save DAILY counts (not 14-day windows)
         new_clones_row = pd.DataFrame([{
             'date': date_str,
-            'total_clones': today_clones_total,
-            'unique_cloners': today_clones_unique
+            'daily_clones': yesterday_clones,
+            'daily_unique_cloners': yesterday_unique_cloners
         }])
         new_views_row = pd.DataFrame([{
             'date': date_str,
-            'total_views': today_views_total,
-            'unique_visitors': today_views_unique
+            'daily_views': yesterday_views,
+            'daily_unique_visitors': yesterday_unique_visitors
         }])
         new_engagement_row = pd.DataFrame([{
             'date': date_str,
@@ -245,36 +249,38 @@ jobs:
         views_df.to_csv('views.csv', index=False)
         engagement_df.to_csv('engagement.csv', index=False)
 
+        # Calculate 7-day and 14-day AVERAGES from daily counts
         if len(clones_df) >= 7:
-            avg_7day_clones = clones_df.tail(7)['total_clones'].mean()
-            avg_7day_unique_cloners = clones_df.tail(7)['unique_cloners'].mean()
+            avg_7day_clones = clones_df.tail(7)['daily_clones'].mean()
+            avg_7day_unique_cloners = clones_df.tail(7)['daily_unique_cloners'].mean()
         else:
             avg_7day_clones = 0
             avg_7day_unique_cloners = 0
 
         if len(clones_df) >= 14:
-            avg_14day_clones = clones_df.tail(14)['total_clones'].mean()
-            avg_14day_unique_cloners = clones_df.tail(14)['unique_cloners'].mean()
+            avg_14day_clones = clones_df.tail(14)['daily_clones'].mean()
+            avg_14day_unique_cloners = clones_df.tail(14)['daily_unique_cloners'].mean()
         else:
             avg_14day_clones = 0
             avg_14day_unique_cloners = 0
 
         if len(views_df) >= 7:
-            avg_7day_views = views_df.tail(7)['total_views'].mean()
-            avg_7day_unique_visitors = views_df.tail(7)['unique_visitors'].mean()
+            avg_7day_views = views_df.tail(7)['daily_views'].mean()
+            avg_7day_unique_visitors = views_df.tail(7)['daily_unique_visitors'].mean()
         else:
             avg_7day_views = 0
             avg_7day_unique_visitors = 0
 
         if len(views_df) >= 14:
-            avg_14day_views = views_df.tail(14)['total_views'].mean()
-            avg_14day_unique_visitors = views_df.tail(14)['unique_visitors'].mean()
+            avg_14day_views = views_df.tail(14)['daily_views'].mean()
+            avg_14day_unique_visitors = views_df.tail(14)['daily_unique_visitors'].mean()
         else:
             avg_14day_views = 0
             avg_14day_unique_visitors = 0
 
+        # Calculate accurate all-time totals from DAILY counts
         days_tracked = len(clones_df)
-        total_clones_alltime = clones_df['total_clones'].sum() if len(clones_df) > 0 else 0
+        total_clones_alltime = clones_df['daily_clones'].sum() if len(clones_df) > 0 else 0
         avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
 
         institutional_referrers = {}
@@ -350,8 +356,8 @@ jobs:
         else:
             commentary.append("View activity stable")
         
-        if today_views_unique > 0:
-            clone_to_view_ratio = today_clones_unique / today_views_unique
+        if yesterday_unique_visitors > 0:
+            clone_to_view_ratio = yesterday_unique_cloners / yesterday_unique_visitors
             if clone_to_view_ratio > 20:
                 commentary.append("Very high clone-to-view ratio (possible bot activity)")
             elif clone_to_view_ratio > 5:
@@ -375,11 +381,11 @@ jobs:
         summary_parts.append("")
         if engagement_text:
             summary_parts.append(engagement_text.rstrip())
-        summary_parts.append("CLONE TRENDS")
+        summary_parts.append("CLONE TRENDS (from daily counts)")
         summary_parts.append(f"   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)")
         summary_parts.append(f"   14-day average: {avg_14day_clones:.1f} clones/day ({avg_14day_unique_cloners:.1f} unique)")
         summary_parts.append("")
-        summary_parts.append("VIEW TRENDS")
+        summary_parts.append("VIEW TRENDS (from daily counts)")
         summary_parts.append(f"   7-day average: {avg_7day_views:.1f} views/day ({avg_7day_unique_visitors:.1f} unique)")
         summary_parts.append(f"   14-day average: {avg_14day_views:.1f} views/day ({avg_14day_unique_visitors:.1f} unique)")
         summary_parts.append("")
@@ -393,18 +399,19 @@ jobs:
         summary_parts.append(paths_text.rstrip())
         summary_parts.append(sep)
         summary_parts.append("")
-        summary_parts.append("14-DAY WINDOW (Rolling)")
-        summary_parts.append(f"   Total clones: {today_clones_total:,} | Unique: {today_clones_unique}")
-        summary_parts.append(f"   Total views: {today_views_total:,} | Unique: {today_views_unique}")
-        summary_parts.append("   Note: Window shifts daily - represents last 14 days")
+        summary_parts.append("14-DAY WINDOW (GitHub's rolling window)")
+        summary_parts.append(f"   Total clones: {window_14day_clones:,} | Unique: {window_14day_unique_cloners}")
+        summary_parts.append(f"   Total views: {window_14day_views:,} | Unique: {window_14day_unique_visitors}")
+        summary_parts.append("   Note: This is GitHub's 14-day rolling window total")
         summary_parts.append("")
         summary_parts.append("Repository Engagement")
         summary_parts.append(f"   Stars: {stars_count} | Forks: {forks_count} | Watchers: {watchers_count}")
         summary_parts.append("")
-        summary_parts.append("All-Time Stats (since tracking began)")
+        summary_parts.append("All-Time Stats (from daily tracking)")
         summary_parts.append(f"   Days tracked: {days_tracked}")
         summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,}")
         summary_parts.append(f"   Average daily clones: {avg_daily_clones:.1f}")
+        summary_parts.append(f"   Note: Calculated from actual daily counts, not rolling windows")
         summary_parts.append("")
         summary_parts.append(sep)
         summary_parts.append("Manual checks:")
