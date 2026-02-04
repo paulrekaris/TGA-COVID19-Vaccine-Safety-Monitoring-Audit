@@ -15,9 +15,7 @@
 
 ## Quick Start
 
-New to this audit? 
-
-Start here:
+**New to this audit? Start here:**
 
 - [How to Navigate This Audit](FAQ.md)
 
