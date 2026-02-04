@@ -690,7 +690,6 @@ methodology comparison](analysis/search-methodology-comparison.md)
 
 All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the `references/` folder for archival and offline use.
 
-
 **Australian COVID‑19 Vaccination Policy**  
 https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf 
 Commits the Australian Government to active and comprehensive post‑market safety monitoring for COVID‑19 vaccines and assigns adverse event monitoring "via the TGA" through a national COVID‑19 Vaccine Pharmacovigilance Plan.
@@ -698,6 +697,10 @@ Commits the Australian Government to active and comprehensive post‑market safe
 **TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)**  
 https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf     
 Sets out 20 specific outputs across 17 numbered strategies as TGA's operational implementation of the enhanced‑monitoring expectation for provisionally approved COVID‑19 vaccines.
+
+**COVID-19 vaccine safety reports**
+https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
+TGA published approximately 150 COVID-19 vaccine safety reports—weekly from March 2021, then fortnightly through early 2023—detailing DAEN adverse events, safety signals (e.g., myocarditis/TTS), and regulatory actions.
 
 **AusVaxSafety – Active and enhanced vaccine safety surveillance for COVID‑19 vaccines in Australia**
 https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia  
