@@ -130,10 +130,10 @@ v1.9.1 (Blockchain Verification)
 └─ Archive note: "Zenodo DOI and blockchain verification current."
 ```
 
-A practical [release checklist](../audit-governance/release-checklist.md) provides step-by-step guidance for executing the three-phase workflow, covering content finalisation, release and academic archival, and blockchain verification.
-
 This structured approach ensures the blockchain verifies the published version with stable DOI, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
 
+A practical [release checklist](../audit-governance/release-checklist.md) provides step-by-step guidance for executing the three-phase workflow, covering content finalisation, release and academic archival, and blockchain verification.
+
 ## Rationale
 
 Regulatory accountability research faces inherent information asymmetry—TGA controls internal records while citizens rely on disclosed material subject to FOI redactions, practical refusals, and contradictory institutional positions.
@@ -149,21 +149,7 @@ Detailed version control combined with OSINT documentation serves multiple accou
 5. **Builds trust**: Transparent error correction demonstrates intellectual honesty—documented OSINT methodology enables oversight bodies to verify investigative approach meets IC standards.
 
 Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering from TGA's own statements while meeting international standards for records integrity, audit quality, and intelligence community investigative methodology.
-## Rationale
 
-Regulatory accountability research faces inherent information asymmetry—TGA controls internal records while citizens rely on disclosed material subject to FOI redactions, practical refusals, and contradictory institutional positions.
-
-This audit applies transparency and records management standards to its own methodology, modelling the accountability expected of public institutions, while employing OSINT principles to systematically gather and verify TGA's publicly available statements.
-
-Detailed version control combined with OSINT documentation serves multiple accountability purposes:
-
-1. **Documents evolution**: Shows how findings developed as TGA positions shifted—initial FOI refusals (2022), OAIC-directed comprehensive searches (September 2024), subsequent practical refusal (June 2025), and Senate testimony confirming no systematic tracking (October 2025).
-2. **Prevents retrospective revision**: Creates an immutable record preventing silent correction of claims if TGA later produces contradicting documentation—all prior versions remain accessible.
-3. **Demonstrates rigour**: Shows systematic, evidence-based OSINT methodology rather than predetermined conclusions—findings emerged from documented contradictions in TGA's own statements.
-4. **Enables verification**: Allows ANAO, OAIC, Ombudsman, Parliament, and peer reviewers to examine both analytical development and independently replicate FOI/Senate/OAIC evidence gathering.
-5. **Builds trust**: Transparent error correction demonstrates intellectual honesty—documented OSINT methodology enables oversight bodies to verify investigative approach meets IC standards.
-
-Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering from TGA's own statements while meeting international standards for records integrity, audit quality, and intelligence community investigative methodology.
 
 ## References
 
