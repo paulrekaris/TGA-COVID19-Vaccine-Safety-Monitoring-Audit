@@ -117,6 +117,9 @@
 **Version History Documentation**
 - Streamlined version history and headers/descriptions by consolidating granular change details under major version updates while maintaining complete audit trail via commit log and archived release notes.
 
+**Traffic Monitoring Workflow**
+- Restructured CSV storage to save actual daily counts (`daily_clones`) instead of 14-day window snapshots (`total_clones`). Changed data extraction to use yesterday's single-day value (`clones_data['clones'][-2]`) rather than window total. Fixed all-time calculation from `.iloc[-1]` to `.sum()` and removed `.diff()` from averages. Added error handling, failure notifications, date to email subject, and expanded institutional domain tracking (9 categories vs 5). Distinguished "14-day window" (GitHub's rolling total) from "all-time stats" (cumulative daily tracking) in report labels.
+
 ### Fixed
 
 **ISO 19011 Audit**
