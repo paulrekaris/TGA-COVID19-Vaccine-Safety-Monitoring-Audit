@@ -5,6 +5,7 @@
 - [ ] Finalise all content changes
 - [ ] Update version number and date in README and CITATIONS
 - [ ] Document changes in VERSION-HISTORY.md
+- [ ] Update archive notes in VERSION-HISTORY.md and README to: "Zenodo DOI current. Blockchain and Arweave verification pending."
 - [ ] Review and test:
   - [ ] Run automated checks (CI status green, if applicable)
   - [ ] Verify all links work
@@ -15,13 +16,11 @@
 
 ---
 
-## Phase 2: Git Release (Always Required)
-- [ ] Create Git tag: `git tag -a vX.X.X -m "Description"`
-- [ ] Push tag: `git push origin vX.X.X`
-- [ ] Create GitHub Release:
-  - Title: "Version X.X.X - Brief Description"
-  - Include clear description of changes
-  - Publish release
+## Phase 2: Release and Academic Archival
+- [ ] Create Git tag: `v__________`
+- [ ] Push to GitHub: `git push origin v__________`
+- [ ] Create GitHub Release with appropriate title (triggers Zenodo upload automatically)
+- [ ] Verify new version appears under Concept DOI on Zenodo: `10.5281/zenodo._______`
 
 ---
 
