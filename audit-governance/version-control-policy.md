@@ -130,6 +130,8 @@ v1.9.1 (Blockchain Verification)
 └─ Archive note: "Zenodo DOI and blockchain verification current."
 ```
 
+A practical [release checklist](../audit-governance/release-checklist.md) provides step-by-step guidance for executing the three-phase workflow, covering content finalisation, release and academic archival, and blockchain verification.
+
 This structured approach ensures the blockchain verifies the published version with stable DOI, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
 
 ## Rationale
