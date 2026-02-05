@@ -34,6 +34,9 @@
 - Revised rationale explaining post-release verification approach ensuring blockchain verifies published DOI-stable version
 - 6 new references: Keep a Changelog, Semantic Versioning, GitHub releases/audit log, OpenTimestamps, Nakamoto Bitcoin whitepaper, Arweave Yellow Paper, Zenodo DOI versioning
 
+**Release Checklist**
+- Add generic release checklist covering three-phase workflow execution
+
 **Surveillance Data Analysis**
 - Visual Timeline table documenting surveillance degradation across five periods (Mar 2021–Nov 2023)
 - "Expected Rates" methodology explanation to Finding 3 using WHO source and ICH E2E standards
