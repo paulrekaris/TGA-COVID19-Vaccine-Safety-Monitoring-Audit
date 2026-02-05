@@ -114,7 +114,7 @@ This workflow checklist aligns with the following frameworks:
 
 **Zenodo Best Practices**
 - Main documentation: https://help.zenodo.org/
-- GitHub integration: https://help.zenodo.org/docs/deposit/describe-records/link-github/
+- GitHub integration: https://support.zenodo.org/help/en-gb/24-github-integration
 - Citation guidance: https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
 - Phase 3 implements Zenodo's concept DOI and version-specific DOI guidance
 
