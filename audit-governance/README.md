@@ -8,6 +8,7 @@ This folder contains documentation of the principles, standards, and version con
 - [Version Control Policy](version-control-policy.md) - Version control principles following ISO 19011:2018 (audit standards), ISO 15489-1:2016 (records management), OSINT methodology, and research integrity standards
 - [Version History](version-history.md) - Complete changelog documenting all versions, evidence additions, methodology refinements, and corrections with rationale
 - [Permanent Archive Records](/blockchain-and-archival-verification/permanent-archive-records-2026-02-03.pdf) Documentation of permanent archiving through National Library of Australia legal deposit, Zenodo DOI, Bitcoin blockchain timestamping, Arweave permanent storage, and Internet Archive web snapshots
+- **Release Workflow** - Three-phase release process (content finalisation → release and academic archival → blockchain verification) ensuring cryptographic verification of published DOI-stable versions. Includes practical [release checklist](../audit-governance/release-checklist.md) for workflow execution.
 
 ## Purpose
 
