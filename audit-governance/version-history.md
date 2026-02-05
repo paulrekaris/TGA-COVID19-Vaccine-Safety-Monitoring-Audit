@@ -28,9 +28,10 @@
 - FOI 4029-03 evidence integration proving internal capacity (ACV presentation Sep 2021) contrasted with public transparency absence
 
 **Version Control Policy**
-- Release Workflow section documenting three-phase release process (content → blockchain verification → academic archival)
+- Release Workflow section documenting three-phase release process (content → release and academic archival → blockchain verification)
 - Verification Efficiency Principle section explaining minimum steps for cryptographic proof
-- Workflow example with Bitcoin transaction stub
+- Workflow example with updated implementation showing post-release blockchain verification
+- Revised rationale explaining post-release verification approach ensuring blockchain verifies published DOI-stable version
 - 6 new references: Keep a Changelog, Semantic Versioning, GitHub releases/audit log, OpenTimestamps, Nakamoto Bitcoin whitepaper, Arweave Yellow Paper, Zenodo DOI versioning
 
 **Surveillance Data Analysis**
