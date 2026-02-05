@@ -71,7 +71,9 @@ jobs:
                 r'ombudsman\.',
                 r'humanrights\.gov\.au',
                 r'\.audit\.',
-                r'integrity\.',
+                r'integrity\.'
+            ],
+            'US Government': [
                 r'\.gov$'
             ],
             'Academic': [
@@ -82,12 +84,13 @@ jobs:
                 r'\.university\.',
                 r'\.uni\.',
                 r'\.edu\.sg$',
-                r'nla\.gov\.au'
+                r'nla\.gov\.au',
+                r'zenodo\.org',
+                r'grattan\.edu\.au'
             ],
             'NGO/Advocacy': [
                 r'\.org\.au$',
-                r'\.org\.nz$',
-                r'\.org$'
+                r'\.org\.nz$'
             ],
             'Consulting': [
                 r'deloitte\.',
@@ -254,29 +257,29 @@ jobs:
             avg_7day_clones = clones_df.tail(7)['daily_clones'].mean()
             avg_7day_unique_cloners = clones_df.tail(7)['daily_unique_cloners'].mean()
         else:
-            avg_7day_clones = 0
-            avg_7day_unique_cloners = 0
+            avg_7day_clones = clones_df['daily_clones'].mean() if len(clones_df) > 0 else 0
+            avg_7day_unique_cloners = clones_df['daily_unique_cloners'].mean() if len(clones_df) > 0 else 0
 
         if len(clones_df) >= 14:
             avg_14day_clones = clones_df.tail(14)['daily_clones'].mean()
             avg_14day_unique_cloners = clones_df.tail(14)['daily_unique_cloners'].mean()
         else:
-            avg_14day_clones = 0
-            avg_14day_unique_cloners = 0
+            avg_14day_clones = clones_df['daily_clones'].mean() if len(clones_df) > 0 else 0
+            avg_14day_unique_cloners = clones_df['daily_unique_cloners'].mean() if len(clones_df) > 0 else 0
 
         if len(views_df) >= 7:
             avg_7day_views = views_df.tail(7)['daily_views'].mean()
             avg_7day_unique_visitors = views_df.tail(7)['daily_unique_visitors'].mean()
         else:
-            avg_7day_views = 0
-            avg_7day_unique_visitors = 0
+            avg_7day_views = views_df['daily_views'].mean() if len(views_df) > 0 else 0
+            avg_7day_unique_visitors = views_df['daily_unique_visitors'].mean() if len(views_df) > 0 else 0
 
         if len(views_df) >= 14:
             avg_14day_views = views_df.tail(14)['daily_views'].mean()
             avg_14day_unique_visitors = views_df.tail(14)['daily_unique_visitors'].mean()
         else:
-            avg_14day_views = 0
-            avg_14day_unique_visitors = 0
+            avg_14day_views = views_df['daily_views'].mean() if len(views_df) > 0 else 0
+            avg_14day_unique_visitors = views_df['daily_unique_visitors'].mean() if len(views_df) > 0 else 0
 
         # Calculate accurate all-time totals from DAILY counts
         days_tracked = len(clones_df)
@@ -342,17 +345,23 @@ jobs:
         if new_stars > 0 or new_forks > 0:
             commentary.append(f"ENGAGEMENT ALERT: New stars/forks detected")
         
-        if avg_7day_clones > avg_14day_clones * 1.2:
-            commentary.append("Clone activity accelerating")
-        elif avg_7day_clones < avg_14day_clones * 0.8:
-            commentary.append("Clone activity declining")
+        if len(clones_df) >= 14:
+            if avg_7day_clones > avg_14day_clones * 1.2:
+                commentary.append("Clone activity accelerating")
+            elif avg_7day_clones < avg_14day_clones * 0.8:
+                commentary.append("Clone activity declining")
+            else:
+                commentary.append("Clone activity stable")
         else:
             commentary.append("Clone activity stable")
         
-        if avg_7day_views > avg_14day_views * 1.2:
-            commentary.append("View activity increasing")
-        elif avg_7day_views < avg_14day_views * 0.8:
-            commentary.append("View activity declining")
+        if len(views_df) >= 14:
+            if avg_7day_views > avg_14day_views * 1.2:
+                commentary.append("View activity increasing")
+            elif avg_7day_views < avg_14day_views * 0.8:
+                commentary.append("View activity declining")
+            else:
+                commentary.append("View activity stable")
         else:
             commentary.append("View activity stable")
         
@@ -409,7 +418,7 @@ jobs:
         summary_parts.append("")
         summary_parts.append("All-Time Stats (from daily tracking)")
         summary_parts.append(f"   Days tracked: {days_tracked}")
-        summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,}")
+        summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,.0f}")
         summary_parts.append(f"   Average daily clones: {avg_daily_clones:.1f}")
         summary_parts.append(f"   Note: Calculated from actual daily counts, not rolling windows")
         summary_parts.append("")
