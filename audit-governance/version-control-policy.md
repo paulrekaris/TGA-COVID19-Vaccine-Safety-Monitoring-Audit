@@ -108,21 +108,21 @@ Simpler verification workflows reduce error opportunities while increasing trans
 
 ### Implementation in Practice
 
-**Example workflow for v1.9.1 release:**
+**Example workflow for v1.X.X release:**
 ```
-v1.9.1 (Content Finalisation)
+v1.X.X (Content Finalisation)
 ├─ New evidence added
 ├─ Analysis updated  
 ├─ VERSION-HISTORY.md documented
 └─ Content committed to Git
 
-v1.9.1 (Release and Academic Archival)
+v1.X.X (Release and Academic Archival)
 ├─ Git tagged and pushed to GitHub
 ├─ GitHub Release created
 ├─ Uploaded to Zenodo (DOI: 10.5281/zenodo.xxxxx)
 └─ Archive note: "Zenodo DOI updated. Blockchain verification pending."
 
-v1.9.1 (Blockchain Verification)
+v1.X.X (Blockchain Verification)
 ├─ Bitcoin timestamp recorded¹³,¹⁴ (tx: OP_RETURN abc123...)
 ├─ Arweave storage confirmed¹⁵ (tx: xyz789...)
 ├─ VERSION-HISTORY.md updated with verification details
