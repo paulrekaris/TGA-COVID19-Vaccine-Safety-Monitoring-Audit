@@ -1,10 +1,5 @@
 # Release Workflow Checklist
 
-**Versioning:** Uses semantic versioning (MAJOR.MINOR.PATCH)  
-**Version:** 1.0  
-**Last Updated:** [Date]
-
----
 
 ## Phase 1: Content Finalisation (Always Required)
 - [ ] Finalise all content changes
