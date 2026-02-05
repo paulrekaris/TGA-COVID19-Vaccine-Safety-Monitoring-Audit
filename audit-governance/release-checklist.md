@@ -4,7 +4,7 @@
 
 ## Phase 1: Content Finalisation ✓
 - [ ] Finalised all content changes
-- [ ] Updated version number in README and CITATIONS
+- [ ] Updated version number and version date in README and CITATIONS
 - [ ] Documented changes in VERSION-HISTORY.md
 - [ ] Commit all changes with descriptive release message
 
