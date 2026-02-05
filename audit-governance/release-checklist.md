@@ -24,22 +24,7 @@
 
 ---
 
-## Phase 3: Zenodo Archival (Content Releases Only)
-
-**Apply to:** Major/minor versions (v1.X, v2.X) with substantive content changes  
-**Skip for:** Patch releases (vX.X.1), metadata-only updates
-
-- [ ] Upload repository to Zenodo "all versions" record
-- [ ] Obtain new Zenodo DOI: `10.5281/zenodo._______`
-- [ ] Confirm DOI badge strategy:
-  - [ ] Badge points to concept DOI (all versions) OR version-specific DOI
-  - [ ] Document rationale in VERSION-HISTORY if using version-specific
-- [ ] Update VERSION-HISTORY.md archive note to: "Zenodo DOI updated. Blockchain verification pending."
-- [ ] Commit and push archive note update
-
----
-
-## Phase 4: Blockchain Verification (When Required)
+## Phase 3: Blockchain Verification (When Required)
 
 **Apply to:** 
 - Major evidentiary milestones
@@ -63,14 +48,14 @@
 - [ ] Upload Bitcoin timestamp verification PNG to `/blockchain-and-archival-verification/`
 - [ ] Upload permanent archive records PDF to `/blockchain-and-archival-verification/`
 - [ ] Update VERSION-HISTORY.md with blockchain details
-- [ ] Update VERSION-HISTORY.md archive note to: "Zenodo DOI and blockchain verification current. Bitcoin timestamp: [tx]. Arweave: [ID]."
+- [ ] Update VERSION-HISTORY.md archive note to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
 - [ ] Update GitHub Release notes with blockchain verification metadata
 - [ ] Commit: `"vX.X.X: Add blockchain verification"`
 - [ ] Push blockchain verification updates
 
 ---
 
-## Phase 5: Post-Release Verification (Always Required)
+## Phase 4: Post-Release Verification (Always Required)
 - [ ] Verify all links work (DOI, GitHub release, archive URLs)
 - [ ] Check GitHub Pages deployment succeeded
 - [ ] Test that release is accessible and properly formatted
@@ -85,10 +70,10 @@
 
 | Release Type | Phases Required | Example | Typical Triggers |
 |--------------|-----------------|---------|------------------|
-| **Minor content update** | 1, 2, 5 | Documentation clarifications | Routine updates, typo fixes |
-| **Major content release** | 1, 2, 3, 5 | New evidence, analysis, submissions | Significant FOI responses, new analysis |
-| **Evidentiary milestone** | 1, 2, 3, 4, 5 | Before legal proceedings, major submissions | Pre-OAIC/Ombudsman submission, Senate inquiry |
-| **Metadata/verification only** | 1, 2, 5 | Adding blockchain timestamps to existing release | Post-hoc verification needs |
+| **Minor content update** | 1, 2, 4 | Documentation clarifications | Routine updates, typo fixes |
+| **Major content release** | 1, 2, 4 | New evidence, analysis, submissions | Significant FOI responses, new analysis |
+| **Evidentiary milestone** | 1, 2, 3, 4 | Before legal proceedings, major submissions | Pre-OAIC/Ombudsman submission, Senate inquiry |
+| **Metadata/verification only** | 1, 2, 4 | Adding blockchain timestamps to existing release | Post-hoc verification needs |
 
 ---
 
