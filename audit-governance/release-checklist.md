@@ -24,6 +24,9 @@
 - [ ] Record Bitcoin transaction ID: `___________________________`
 - [ ] Upload to Arweave permanent storage
 - [ ] Record Arweave transaction ID: `___________________________`
+- [ ] Update blockchain verification README.md in `/blockchain-and-archival-verification/` folder
+- [ ] Upload Bitcoin timestamp verification PNG to `/blockchain-and-archival-verification/`
+- [ ] Upload permanent archive records PDF to `/blockchain-and-archival-verification/`
 - [ ] Update VERSION-HISTORY.md with blockchain details
 - [ ] Update VERSION-HISTORY.md archive note to: "Zenodo DOI and blockchain verification current. Bitcoin timestamp: [tx]. Arweave: [ID]."
 - [ ] Update GitHub Release notes with blockchain verification metadata
