@@ -4,7 +4,7 @@
 
 ---
 
-## Version 1.9.1 (2 February 2026)
+## Version 1.9.1 (5 February 2026)
 
 ### Added
 
