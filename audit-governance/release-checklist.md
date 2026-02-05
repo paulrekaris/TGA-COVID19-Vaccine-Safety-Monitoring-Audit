@@ -1,6 +1,6 @@
 # Release Checklist
 
-**Use this checklist to execute the release workflow:**
+**Checklist to execute the release workflow:**
 
 ## Phase 1: Content Finalisation ✓
 - [ ] Finalised all content changes
