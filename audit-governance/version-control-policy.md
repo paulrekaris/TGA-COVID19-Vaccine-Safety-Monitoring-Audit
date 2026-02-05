@@ -67,67 +67,86 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 3. Document changes in VERSION-HISTORY.md following Keep a Changelog principles⁷
 4. Commit changes to Git with descriptive message
 
-**Phase 2: Blockchain Verification**
-1. Generate cryptographic hash of finalised version
+**Phase 2: Release and Academic Archival**
+1. Create Git tag (e.g., `v1.9.1`)
+2. Push to GitHub and create GitHub Release¹¹
+3. Upload to Zenodo and obtain DOI
+4. Zenodo concept DOI automatically captures all versions¹⁶
+5. Update DOI badge in README
+6. Update VERSION-HISTORY.md archive note: "Zenodo DOI updated. Blockchain verification pending."
+
+**Phase 3: Blockchain Verification**
+1. Generate cryptographic hash of released version
 2. Create Bitcoin blockchain timestamp via OpenTimestamps (OP_RETURN transaction)¹³,¹⁴
 3. Upload to Arweave permanent storage network¹⁵
 4. Record verification transaction IDs
-5. Update VERSION-HISTORY.md with blockchain verification details
-6. Commit verification metadata to same version
-
-**Phase 3: Release and Academic Archival**
-1. Create Git tag (e.g., `v2.0`)
-2. Push to GitHub and create GitHub Release¹¹
-3. Upload to Zenodo
-4. Zenodo concept DOI automatically captures all versions¹⁶
-5. Update DOI badge in README
+5. Update VERSION-HISTORY.md with blockchain verification details and archive note: "Zenodo DOI and blockchain verification current."
+6. Update GitHub Release notes with blockchain verification metadata
 
 ### Rationale for Post-Release Verification
 
-Blockchain verification occurs after content finalisation rather than before to solve the cryptographic integrity problem:
+Blockchain verification occurs after public release rather than before to ensure cryptographic integrity of the published version:
 
-- **Authenticity principle²**: Including blockchain hashes *within* the version being hashed would alter the hash itself, creating circular dependency
-- **ISO 15489-1:2016 compliance²**: Blockchain verification provides proof of existence at a point in time while maintaining record authenticity—the content remains immutable while verification proves when it was fixed
-- **OSINT standards⁹,¹⁰**: Verification metadata documents *when* evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
-- **Audit trail transparency¹²**: Sequential workflow (content → verification → release) creates clear evidence sequence: findings documented, then cryptographically proven to exist at that time, then publicly released
+- **Authenticity principle²**: Blockchain verifies the published version with stable DOI, not a pre-release draft—this ensures verification references the canonical academic record
+- **ISO 15489-1:2016 compliance²**: Blockchain verification provides proof of existence at a point in time for the publicly accessible version—the content remains immutable while verification proves when the published version was fixed
+- **OSINT standards⁹,¹⁰**: Verification metadata documents *when* the published evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
+- **Audit trail transparency¹²**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
+- **Flexibility**: Allows minor corrections before cryptographic lock while maintaining complete transparency through version control
 
-This workflow ensures version integrity while maintaining separation between substantive findings and provenance documentation, following records management best practices for accountability infrastructure¹⁷.
+This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁷.
 
 ### Verification Efficiency Principle
 
 This workflow minimises complexity while maintaining verification integrity. Following OSINT reproducibility standards⁹,¹⁰ and ISO 19011:2018 risk-based approach¹, the three-phase process uses the minimum steps necessary to achieve cryptographic proof:
 
-- **Single version per release**: Content and verification combined in one version (e.g., v2.0) rather than multiple patches, reducing version tracking overhead
-- **Sequential workflow**: Linear progression (content → blockchain → release) enables independent verification at each stage
-- **Permanent results**: Each phase produces immutable outputs (Git commits, blockchain transactions, Zenodo DOI) that cannot be altered
-- **Minimal dependencies**: Three verification mechanisms (Git, Bitcoin, Arweave) provide redundancy without excessive complexity
+- **Single version per release**: Content and verification combined in one version (e.g., v1.9.1) rather than multiple patches, reducing version tracking overhead
+- **Sequential workflow**: Linear progression (content → release → verification) enables independent verification at each stage
+- **Permanent results**: Each phase produces immutable outputs (Git commits, GitHub releases, Zenodo DOI, blockchain transactions) that cannot be altered
+- **Minimal dependencies**: Three verification mechanisms (Git, Zenodo, Bitcoin/Arweave) provide redundancy without excessive complexity
 
 Simpler verification workflows reduce error opportunities while increasing transparency—oversight bodies can reproduce the verification chain without navigating multiple version variants or complex metadata structures.
 
 ### Implementation in Practice
 
-**Example workflow for v2.0 release:**
+**Example workflow for v1.9.1 release:**
 ```
-v2.0 (Content Finalisation)
-├─ New FOI evidence added
+v1.9.1 (Content Finalisation)
+├─ New evidence added
 ├─ Analysis updated  
 ├─ VERSION-HISTORY.md documented
-└─ Content frozen
+└─ Content committed to Git
 
-v2.0 (Blockchain Verification)
-├─ Bitcoin timestamp recorded¹³,¹⁴ (tx: OP_RETURN abc123...)
-├─ Arweave storage confirmed¹⁵
-├─ Verification details added to VERSION-HISTORY.md
-└─ Verification metadata committed to v2.0
-
-v2.0 (Release and Archival)
+v1.9.1 (Release and Academic Archival)
 ├─ Git tagged and pushed to GitHub
 ├─ GitHub Release created
-└─ Uploaded to Zenodo (concept DOI includes blockchain-verified v2.0)
+├─ Uploaded to Zenodo (DOI: 10.5281/zenodo.xxxxx)
+└─ Archive note: "Zenodo DOI updated. Blockchain verification pending."
+
+v1.9.1 (Blockchain Verification)
+├─ Bitcoin timestamp recorded¹³,¹⁴ (tx: OP_RETURN abc123...)
+├─ Arweave storage confirmed¹⁵ (tx: xyz789...)
+├─ VERSION-HISTORY.md updated with verification details
+├─ GitHub Release notes updated
+└─ Archive note: "Zenodo DOI and blockchain verification current."
 ```
 
-This structured approach ensures every release has cryptographic proof of existence while maintaining clean workflow separation between content development, verification, and public release, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
+This structured approach ensures the blockchain verifies the published version with stable DOI, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
 
+## Rationale
+
+Regulatory accountability research faces inherent information asymmetry—TGA controls internal records while citizens rely on disclosed material subject to FOI redactions, practical refusals, and contradictory institutional positions.
+
+This audit applies transparency and records management standards to its own methodology, modelling the accountability expected of public institutions, while employing OSINT principles to systematically gather and verify TGA's publicly available statements.
+
+Detailed version control combined with OSINT documentation serves multiple accountability purposes:
+
+1. **Documents evolution**: Shows how findings developed as TGA positions shifted—initial FOI refusals (2022), OAIC-directed comprehensive searches (September 2024), subsequent practical refusal (June 2025), and Senate testimony confirming no systematic tracking (October 2025).
+2. **Prevents retrospective revision**: Creates an immutable record preventing silent correction of claims if TGA later produces contradicting documentation—all prior versions remain accessible.
+3. **Demonstrates rigour**: Shows systematic, evidence-based OSINT methodology rather than predetermined conclusions—findings emerged from documented contradictions in TGA's own statements.
+4. **Enables verification**: Allows ANAO, OAIC, Ombudsman, Parliament, and peer reviewers to examine both analytical development and independently replicate FOI/Senate/OAIC evidence gathering.
+5. **Builds trust**: Transparent error correction demonstrates intellectual honesty—documented OSINT methodology enables oversight bodies to verify investigative approach meets IC standards.
+
+Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering from TGA's own statements while meeting international standards for records integrity, audit quality, and intelligence community investigative methodology.
 ## Rationale
 
 Regulatory accountability research faces inherent information asymmetry—TGA controls internal records while citizens rely on disclosed material subject to FOI redactions, practical refusals, and contradictory institutional positions.
