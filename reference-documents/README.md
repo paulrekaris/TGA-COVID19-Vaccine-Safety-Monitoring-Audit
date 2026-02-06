@@ -188,7 +188,7 @@ The contrast between TGA's demonstrated capacity to document routine processes (
 
 ---
 
-### FOI 5275 - TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)**
+### FOI 5275 - TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)
 
 Available at: [FOI 5275](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/reference-documents/FOI-5275-Notice-of-Decision_redacted.pdf)
 
