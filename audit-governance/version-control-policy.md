@@ -114,20 +114,20 @@ v1.X.X (Content Finalisation)
 ├─ New evidence added
 ├─ Analysis updated  
 ├─ VERSION-HISTORY.md documented
+├─ Archive note set to: "Zenodo DOI current. Blockchain and Arweave verification pending."
 └─ Content committed to Git
 
 v1.X.X (Release and Academic Archival)
 ├─ Git tagged and pushed to GitHub
-├─ GitHub Release created
-├─ Uploaded to Zenodo (DOI: 10.5281/zenodo.xxxxx)
-└─ Archive note: "Zenodo DOI updated. Blockchain verification pending."
+├─ GitHub Release created (triggers Zenodo upload automatically)
+└─ Verified on Zenodo (Concept DOI: 10.5281/zenodo.xxxxx)
 
 v1.X.X (Blockchain Verification)
 ├─ Bitcoin timestamp recorded¹³,¹⁴ (tx: OP_RETURN abc123...)
 ├─ Arweave storage confirmed¹⁵ (tx: xyz789...)
 ├─ VERSION-HISTORY.md updated with verification details
 ├─ GitHub Release notes updated
-└─ Archive note: "Zenodo DOI and blockchain verification current."
+└─ Archive note updated to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
 ```
 
 This structured approach ensures the blockchain verifies the published version with stable DOI, enabling independent verification by oversight bodies following IC OSINT verification standards⁸,⁹.
