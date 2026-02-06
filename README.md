@@ -47,7 +47,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
-- [Scale and Contex](#scale-and-context)
+- [Scale and Context](#scale-and-context)
 - [The Accountability Standard](#the-accountability-standard)
   - [Foi Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
 - [The Evidence Base](#the-evidence-base)
