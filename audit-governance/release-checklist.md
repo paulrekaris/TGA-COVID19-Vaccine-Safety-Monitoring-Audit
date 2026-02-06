@@ -90,7 +90,7 @@ This workflow checklist aligns with the following frameworks:
 
 **ISO 19011:2018 - Guidelines for auditing management systems**
 - https://www.iso.org/standard/70017.html
-- Phases 1 & 5 implement Clause 6.5 (audit report preparation) and Clause 6.7 (follow-up activities)
+- Phases 1 & 4 implement Clause 6.5 (audit report preparation) and Clause 6.7 (follow-up activities)
 
 **Semantic Versioning 2.0.0**
 - https://semver.org/
@@ -104,7 +104,7 @@ This workflow checklist aligns with the following frameworks:
 
 **Data Versioning and Reproducibility**
 - Research Data Alliance: https://zenodo.org/records/3772870 (Data Versioning Principles)
-- Phase 4 blockchain verification supports cryptographic reproducibility
+- Phase 3 blockchain verification supports cryptographic reproducibility
 
 ---
 
