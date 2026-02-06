@@ -4,8 +4,6 @@
 
 Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (10.5% approval rate) before closure in September 2024. The Therapeutic Goods Administration (TGA) investigated 148 COVID-19 vaccine safety signals and took 57 regulatory or information actions, but withholds associated investigation documentation. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million Australians.
 
-This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data
-
 ## The Core Problem: Causation and Information Asymmetry
 
 The scheme requires treating doctors to opine, on the balance of probabilities, that injury was caused by vaccination.¹⁶ This reliance on medical opinion creates challenges when doctors lack access to population-level evidence. While TGA collects extensive surveillance data and conducts signal investigations to assess population-level risks, this evidence remains inaccessible to treating practitioners forming causation opinions, who are left relying on individual medical records and temporal association alone.
