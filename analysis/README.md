@@ -14,7 +14,7 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [Surveillance Analysis](surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
 
-- [FOI Systemic Review](foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years
+- [FOI Systematic Review](foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years
 
 - [Compensation Analysis](compensation-analysis.md) – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments
 
