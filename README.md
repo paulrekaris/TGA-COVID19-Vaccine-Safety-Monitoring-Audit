@@ -934,7 +934,9 @@ This assessment evaluates publicly available evidence for implementation of TGAâ
 
 ## Peer-Review Status
 
-This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. Corrections and additional evidence are welcomed.
+## Peer-Review Status
+
+This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and four-tier evidence hierarchy to enable independent verification and formal peer review. Corrections and additional evidence are welcomed.
 
 ## Accuracy and Good Faith
 
