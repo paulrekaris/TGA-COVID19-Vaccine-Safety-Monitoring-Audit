@@ -1,7 +1,7 @@
 # Media Coverage
 
 
-This audit and the underlying FOI investigation have been covered on investigative journalist's Maryanne Demasi Substack:
+This audit and the underlying FOI investigation have been covered on investigative journalist Maryanne Demasi's Substack:
 
 **1. "TGA's vaccine safety black hole: A concerned citizen's four-year quest for answers"** (May 2024)
    - https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a
