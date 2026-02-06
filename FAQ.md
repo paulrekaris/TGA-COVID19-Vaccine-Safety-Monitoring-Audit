@@ -622,7 +622,7 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 
 Several important limitations:
 
-1. **Not yet peer-reviewed**: My research has been submitted to public health policy journals but has not completed formal peer review
+1. **Not yet peer-reviewed**: This work has not yet completed formal peer review
 2. **Individual researcher**: Conducted in my personal capacity, not institutional research
 3. **Document-dependent**: Analysis based on publicly available documents and materials TGA released (or confirmed don't exist) through FOI
 4. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
