@@ -4,7 +4,7 @@
 
 ---
 
-## Version 1.9.1 (5 February 2026)
+## Version 1.9.1 (6 February 2026)
 
 ### Added
 
@@ -35,7 +35,7 @@
 - 6 new references: Keep a Changelog, Semantic Versioning, GitHub releases/audit log, OpenTimestamps, Nakamoto Bitcoin whitepaper, Arweave Yellow Paper, Zenodo DOI versioning
 
 **Release Checklist**
-- Add five-phase release workflow checklist (content finalisation, Git release, Zenodo archival, blockchain verification, post-release verification)
+- Add four-phase release workflow checklist (content finalisation, release and academic archival, blockchain verification, post-release verification)
 - Includes release type decision guide and semantic versioning convention
 - Documents standards alignment (ISO 19011, SemVer, Zenodo, RDA)
 
