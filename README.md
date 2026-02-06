@@ -981,9 +981,11 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History
 
-**Document Version:** 1.9  
-**Last Updated:** 14 January 2026  
-**Published**: 14 January 2026
+**Document Version:** 1.9.1  
+**Last Updated:** 6 February 2026  
+**Published:** [Not yet - pending release]  
+**First Published:** 27 November 2025  
+**Archive:** Zenodo DOI current. Blockchain and Arweave verification pending.
 
 For detailed version history and changelog, see [Version History](audit-governance/version-history.md)
 
