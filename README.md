@@ -995,6 +995,8 @@ For detailed version history and changelog, see [Version History](audit-governan
 
 **Full blockchain and archival verification documentation:** [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
 
+**Note:** Blockchain verification timestamps below are from Version 1.9.0. Version 1.9.1 blockchain verification pending.
+
 This audit has been permanently archived and cryptographically timestamped:
 
 - **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (National edeposit, discoverable via [Trove](https://trove.nla.gov.au/))
