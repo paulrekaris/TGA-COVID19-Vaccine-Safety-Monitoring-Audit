@@ -63,8 +63,9 @@ Senate Community Affairs Legislation Committee testimony (9 October 2025) where 
 AusPARs documenting the transition of Comirnaty and Spikevax from provisional to full registration. These reports record TGA’s regulatory decisions and summarise clinical and safety data, and were reviewed for any evidence of verification against the February 2021 Safety Monitoring Plan or explicit sign‑off of enhanced‑monitoring conditions.
 
 **Original sources:**  
+
 - Comirnaty AusPAR: <https://www.tga.gov.au/sites/default/files/2023-08/auspar-comirnaty-230807.pdf>  
-- Spikevax transition media/AusPAR page: <https://www.tga.gov.au/resources/auspar/auspar-spikevax-1)(https://www.tga.gov.au/sites/default/files/2023-05/auspar-spikevax-230511.pdf>
+- Spikevax AusPAR (PDF): <https://www.tga.gov.au/sites/default/files/2023-05/auspar-spikevax-230511.pdf>
 
 ---
 
