@@ -416,7 +416,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 - **Subject:** Implementation of TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
 - **Outputs:** All 20 Plan-specified enhanced-pharmacovigilance outputs
 - **Evidence base:** FOI responses (2,218 pages; 531 TRIM folders), TGA publications, Senate evidence, relevant academic literature
-- **Time period:** February 2022 – Janusry 2026
+- **Time period:** February 2022 – January 2026
 - **Geographic:** National, focusing on Commonwealth-level TGA responsibilities and inter-jurisdictional coordination
 
 **Scope Limitations (Explicit):**
