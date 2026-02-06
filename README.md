@@ -84,7 +84,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
-  - [FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021)](#foi-5082-tga-vaccine-pharmacovigilance-system-20192021-released-26-july-2024)
+  - [FOI 5082: TGA Vaccine Pharmacovigilance System (2019–2021)](#foi-5082:tga-vaccine-pharmacovigilance-system-(2019-2021))
 - [Limitations and Falsifiability](#limitations-and-falsifiability)
   - [Scope](#scope)
   - [Meaning of Documentation Gaps](#meaning-of-documentation-gaps)
@@ -739,7 +739,9 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 ## Documentary Evidence of TGA Documentation Capacity
 
 
-### FOI 5082: TGA Vaccine Pharmacovigilance System (baseline pre-2021 + COVID implementations July–August 2021, released 26 July 2024)
+### FOI 5082: TGA Vaccine Pharmacovigilance System 
+
+**Baseline pre-2021 + COVID implementations July–August 2021, released 26 July 2024**
 
 **Source:** FOI 5082 https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf. Signal Investigation Unit (SIU), Pharmacovigilance & Special Access Branch.  
 
