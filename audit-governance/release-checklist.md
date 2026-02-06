@@ -100,7 +100,7 @@ This workflow checklist aligns with the following frameworks:
 - Main documentation: https://help.zenodo.org/
 - GitHub integration: https://support.zenodo.org/help/en-gb/24-github-integration
 - Citation guidance: https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content
-- Phase 3 implements Zenodo's concept DOI and version-specific DOI guidance
+- Phase 2 implements Zenodo's concept DOI and version-specific DOI guidance
 
 **Data Versioning and Reproducibility**
 - Research Data Alliance: https://zenodo.org/records/3772870 (Data Versioning Principles)
