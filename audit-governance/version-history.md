@@ -71,6 +71,9 @@
 - National Library of Australia National edeposit (NED) registration: Deposit ID NED447016. NLA reference ID NED447016P1081502 (3 February 2026). Fulfills Commonwealth digital legal deposit requirements, discoverable via Trove as part of Australia's official national collection.
 - Internet Archive Wayback Machine preservation snapshots for key repository pages
 
+**Peer Review Statement**
+- Add peer review readiness statement to README disclaimer section explaining methodology employs recognised audit standards (ISO 19011:2018, ANAO) enabling independent verification and formal peer review
+
 **FAQ**
 - Hyperlinked footnotes with return navigation for dose statistics (75M total, 68.4M provisional)
 - September 2025 timeframe clarification to dose references
@@ -133,9 +136,10 @@
 - Removed "Checklist" from ISO 19011 audit link text for accuracy (document is full audit report)
 - Added missing markdown link syntax to ISO 19011 audit description
 
-**FAQ**
+**FAQ Updates**
 - Footnote formatting: added superscript to footnote numbers and working bidirectional return links
 - Corrected AICmr 54 citation formatting to standard legal format
+- Remove peer review submission reference from limitations section (Q33)
 
 **Documentation**
 - Anchor links throughout repository to reflect new kebab-case file naming structure
