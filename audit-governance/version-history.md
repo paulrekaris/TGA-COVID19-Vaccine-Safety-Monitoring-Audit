@@ -7,9 +7,9 @@
 # Version History
 
 ## Version 1.9.1 (7 February 2026)
-See GitHub Releases tab for notes. [Commits since v1.9.0](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.0...v1.9.1)
 
-[Full commits since v1.9.0](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.0...v1.9.1)
+[Release](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/v1.9.1)  
+[Commits v1.9.0...v1.9.1](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.0...v1.9.1)
 
 **Previous versions below...**
 
