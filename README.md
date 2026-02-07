@@ -140,7 +140,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)
 
-> This audit preserves a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms. To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
+> Provenance and Authenticity Statement: This audit preserves a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms. To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
 >
 
 ### Important Distinction: Routine vs Enhanced Monitoring
@@ -151,7 +151,7 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 
 **The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
 
-**Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
+> **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
 
 ## Executive Summary
