@@ -834,7 +834,7 @@ The comprehensive audit report includes:
 
 - [TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf) – Visual executive summary presentation with implementation status dashboard, evidence hierarchy and key gaps.
 
-- [One-Page Audit Flowchart](analysis/tga_audit-one-page-flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
+- [One-Page Audit Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
 - [Reference Documents](reference-documents/) – FOI responses, OAIC decisions, and Senate testimony. Includes foi-3643, foi-25-0166, OAIC Decision [2025] AICmr 54, and Senate transcripts (9 October 2025).
 
