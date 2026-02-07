@@ -14,8 +14,8 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 
 **Visual summaries and quick reference materials**  
 - [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) - Implementation status by objective, key findings, and documentation gaps
-- [FOI Analysis and Timeline](analysis/tga_foi_analysis.pdf) - Timeline of FOI process and contradictory TGA responses
-- [One-Page Methodology Flowchart](analysis/tga_audit_one_page_flowchart.pdf) - ISO 19011:2018 and ANAO audit framework overview
+- [FOI Analysis and Timeline](analysis/tga-foi-analysis.pdf) - Timeline of FOI process and contradictory TGA responses
+- [One-Page Methodology Flowchart](analysis/tga-audit-one_page-flowchart.pdf) - ISO 19011:2018 and ANAO audit framework overview
 
 *Use visual summaries for briefings, presentations, or quick sharing.*
 
