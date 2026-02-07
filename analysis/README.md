@@ -26,5 +26,5 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
 
-- [TGA Audit One Page Methodology Flowchart](tga_audit_one_page_flowchart.pdf) - One-page visual flowchart of audit methodology, evidence hierarchy, and key findings
+- [TGA Audit One Page Methodology Flowchart](tga-audit-one-page-flowchart.pdf) - One-page visual flowchart of audit methodology, evidence hierarchy, and key findings
 
