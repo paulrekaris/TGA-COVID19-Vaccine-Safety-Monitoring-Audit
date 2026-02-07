@@ -4,7 +4,7 @@
 
 ---
 
-## Version 1.9.1 (6 February 2026)
+## Version 1.9.1 (7 February 2026)
 
 ### Added
 
@@ -154,7 +154,7 @@
 
 Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of evidence through structured findings, output-by-output breakdown with conformity analysis, timeline visualisations, corrected international statistics with detailed comparison tables, clinical examples demonstrating information asymmetry, Sparke Helmore third-party validation, Administrative Law vs Accountability framework, Release Workflow documentation with Verification Efficiency Principle, methodological transparency enhancements including boundaries statement and Nature of This Audit clarification, repository maintenance through kebab-case standardisation and permanent archive restructuring, and formatting consistency improvements across all documentation and source verification. All changes recorded under commit messages.
 
-**Archive:** Zenodo DOI and blockchain verification current.
+**Archive:** Zenodo DOI current. Blockchain verification pending.
 
 ---
 
