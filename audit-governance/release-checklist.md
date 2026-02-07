@@ -35,11 +35,12 @@
 **Skip for:** Routine documentation updates, minor corrections
 
 ### Blockchain Steps:
+- [ ] Download repository ZIP from GitHub release
 - [ ] Get commit hash: `git rev-parse HEAD`
-- [ ] Generate cryptographic hash of released version
+- [ ] Generate SHA-256 hash of ZIP file
 - [ ] Create Bitcoin timestamp via OpenTimestamps
 - [ ] Record Bitcoin transaction ID: `___________________________`
-- [ ] Upload to Arweave permanent storage
+- [ ] Upload ZIP to Arweave permanent storage
 - [ ] Record Arweave transaction ID: `___________________________`
 - [ ] Verify Arweave transaction is retrievable via public gateway (e.g., arweave.net)
 
