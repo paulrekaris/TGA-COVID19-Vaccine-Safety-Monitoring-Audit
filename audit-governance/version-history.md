@@ -28,7 +28,7 @@
 - "A Note on Accountability" section establishing verification framework
 - Sparke Helmore legal analysis (11 May 2025) to Evidence Standard and Timeline of Contradictions
 - Administrative Law vs Accountability section distinguishing procedural FOI compliance from substantive policy implementation accountability
-- Scale and context section after Key Findings (68.4M doses under provisional approval, 94% of rollout)
+- Scale and context section after Key Findings (68.4M doses under provisional approval, 91.2% of rollout)
 
 **ISO 19011 Audit**
 - Prominent disclaimer box distinguishing audit methodology from ISO certification
