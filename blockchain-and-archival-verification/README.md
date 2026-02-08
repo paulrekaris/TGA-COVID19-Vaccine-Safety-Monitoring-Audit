@@ -6,7 +6,7 @@ This audit is protected by multiple verification and archival methods including 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)
 [![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org)
 [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
-[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Web%20Snapshots-black?logo=internetarchive&logoColor=white)](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
+[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 ## National Library of Australia – National edeposit (NED)
 
@@ -96,6 +96,21 @@ To view historical snapshots:
 ### Significance
 
 Internet Archive preserves dated snapshots of this repository's public web presence, providing legally-recognised evidence that content was publicly accessible at specific points in time. This complements blockchain verification by proving not just that files existed (Bitcoin/Arweave) but that they were publicly visible on the web.
+
+---
+
+## Internet Archive – Direct Upload
+
+**Upload Date:** 8 February 2026
+**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)
+**Item URL:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip
+**Licence:** CC BY 4.0
+**Status:** UPLOADED - Publicly Accessible
+
+### Significance
+
+Direct upload to Internet Archive provides an independent, complete copy of the repository archive beyond Wayback Machine web snapshots. Ensures full file-level access to the complete audit repository regardless of GitHub or Zenodo availability.
 
 ---
 
