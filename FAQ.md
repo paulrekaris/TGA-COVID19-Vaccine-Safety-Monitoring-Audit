@@ -574,7 +574,7 @@ My investigation follows scientific principles of falsifiability and replicabili
 * OAIC review materials and decisions
 * Senate Hansard testimony
 * Application of audit principles from [ISO 19011:2018 – Guidelines for Auditing Management Systems](analysis/ISO-19011-conformity-assessment-checklist.md) and [ANAO – Performance Audit Process](https://www.anao.gov.au/work/insights/performance-audit-process)
-* informed by TGA guidance on pharmacovigilance responsibilities and risk-management plans and by international pharmacovigilance standards (ICH E2E, CIOMS), to assess implementation evidence against the Plan's documented commitments
+* Informed by TGA guidance on pharmacovigilance responsibilities and risk-management plans and by international pharmacovigilance standards (ICH E2E, CIOMS), to assess implementation evidence against the Plan's documented commitments
 * Systematic online documentary review of TGA, parliamentary and partner publications (2020–2025) using OSINT-style, domain-restricted search methods and Plan-aligned keywords
 * Australian Government COVID-19 policy documents
 * Timeline reconstruction from official sources
