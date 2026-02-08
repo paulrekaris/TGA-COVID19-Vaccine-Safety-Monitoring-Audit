@@ -22,9 +22,9 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 ---
 
 **All materials are open source and freely accessible:**
-- **GitHub:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit  
+- **GitHub:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+- **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1  
 - **DOI (permanent archive):** https://doi.org/10.5281/zenodo.17731054
-
 
 ---
 
@@ -607,7 +607,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17731054
 - Bitcoin timestamp: December 31, 2025
 - Arweave (blockchain): https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
-- Internet Archive: https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*
+- Internet Archive: https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1 | https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*
 
 **Verification Documentation:**  
 [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
