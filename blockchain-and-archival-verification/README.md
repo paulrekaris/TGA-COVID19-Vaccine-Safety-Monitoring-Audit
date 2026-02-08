@@ -101,12 +101,12 @@ Internet Archive preserves dated snapshots of this repository's public web prese
 
 ## Internet Archive – Direct Upload
 
-**Upload Date:** 8 February 2026
-**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)
-**Item URL:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip
-**Licence:** CC BY 4.0
-**Status:** UPLOADED - Publicly Accessible
+**Upload Date:** 8 February 2026   
+**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)   
+**Item URL:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1   
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip   
+**Licence:** CC BY 4.0   
+**Status:** UPLOADED - Publicly Accessible    
 
 ### Significance
 
