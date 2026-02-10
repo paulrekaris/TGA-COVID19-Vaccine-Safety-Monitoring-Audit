@@ -797,6 +797,18 @@ The probability that comprehensive implementation documentation exists but could
 
 The methodology is explicitly falsifiable: any finding can be disproved by production of contradicting documentation. Corrections and additional evidence are welcomed, and would be incorporated into future versions with transparent version history.
 
+**Alternative explanations for absent records**
+
+Three possible explanations exist for the documented gaps:
+
+1. **Records never existed:** The enhanced monitoring framework was not systematically implemented as a tracked, documented process distinct from routine operations. Senate testimony (October 2025) describing monitoring as "day-to-day processes" never systematically tracked supports this explanation.
+
+2. **Records existed but were not retained:** Implementation was documented but records were not preserved in accordance with the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
+
+3. **Records exist but have not been produced:** Documentation exists within TGA systems but has not been located or disclosed despite OAIC-directed searches covering 531 TRIM containers and 2,218+ pages, multiple FOI requests, and direct parliamentary questioning.
+
+All three explanations represent significant accountability failures. The first indicates a gap between commitment and delivery. The second indicates a breach of Commonwealth records management obligations. The third would indicate a failure of both FOI compliance and parliamentary accountability. The audit's findings and recommendations apply regardless of which explanation proves correct.
+
 
 ## What's in This Repository
 
