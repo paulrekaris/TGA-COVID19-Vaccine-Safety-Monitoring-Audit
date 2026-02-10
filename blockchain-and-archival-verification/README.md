@@ -27,8 +27,6 @@ This audit is protected by multiple verification and archival methods including 
 
 National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with the National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
 
----
-
 ## National Library of Australia – Australian Web Archive (AWA)
 
 **Archive ID:** 20260205171443  
