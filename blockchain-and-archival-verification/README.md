@@ -27,7 +27,9 @@ This audit is protected by multiple verification and archival methods including 
 
 National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with the National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
 
-**Australian Web Archive (AWA)**
+---
+
+## National Library of Australia – Australian Web Archive (AWA)
 
 **Archive ID:** 20260205171443  
 **NLA Reference:** AWA/PANDORA selective capture  
@@ -36,12 +38,12 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 **Target:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance  
 **Status:** Publicly accessible via webarchive.nla.gov.au and Trove
 
-**Access**
+## Access
 
 **Direct Link:** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance  
 **Trove Discovery:** https://trove.nla.gov.au/
 
-**Significance**
+## Significance
 
 PANDORA is a selective archive. The National Library selects according to collection policies and priorities for content of national relevance and significance.
 
