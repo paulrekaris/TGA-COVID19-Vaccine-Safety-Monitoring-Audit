@@ -90,6 +90,7 @@ This README contains the narrative executive summary and overview. Key findings 
   - [Meaning of Documentation Gaps](#meaning-of-documentation-gaps)
   - [Why the Gaps are Significant](#why-the-gaps-are-significant)
   - [Falsifiability](#falsifiability)
+  - [Alternative explanations for absent records](#alternative-explanations-for-absent-records)
 - [What's in This Repository](#whats-in-this-repository)
   - [Main Assessment Report](#main-assessment-report)
   - [Supporting Documentation](#supporting-documentation)
