@@ -1,4 +1,4 @@
-## How to Navigate This Audit
+# How to Navigate This Audit
 
 **5 minutes**  
 Read [At a Glance](#at-a-glance) for a complete high-level summary.
