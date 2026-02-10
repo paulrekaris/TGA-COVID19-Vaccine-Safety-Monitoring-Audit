@@ -672,7 +672,7 @@ Several important limitations:
 1. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
 1. **Alternative explanations for absent records**: Three possible explanations exist: records never existed because enhanced monitoring was not systematically implemented; records existed but were not retained in accordance with Commonwealth obligations; or records exist but have not been located or disclosed. All three represent significant accountability failures, and the audit’s findings apply regardless of which explanation proves correct.
 
-**Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [Information Commissioner](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf), is the central finding.
+**Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [Australian Information Commissioner](reference-documents/aicmr-54-26-march-2025.pdf), is the cenntral finding.
 
 -----
 
@@ -748,7 +748,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 - Australian COVID-19 Vaccination Policy (November 2020): https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf
 - TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
-- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [Australian Information Commissioner](reference-documents/%27AUQ%27%20and%20Department%20of%20Health%20and%20Aged%20Care%20%28Freedom%20of%20information%29%20%5B2025%5D%20AICmr%2054%20%2826%20March%202025%29.pdf)
+- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [Australian Information Commissioner](reference-documents/aicmr-54-26-march-2025.pdf)
 
 -----
 
