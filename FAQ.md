@@ -649,6 +649,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 **Permanent Archive:**
 
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17731054
+- National Library of Australia – Legal Deposit: NED447016P1081502 [https://nla.gov.au/nla.obj-4148163541/view](https://nla.gov.au/nla.obj-4148163541/view)
 - Bitcoin timestamp: December 31, 2025
 - Arweave (blockchain): https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
 - Internet Archive: [Direct Upload](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1) | [Wayback Machine](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
