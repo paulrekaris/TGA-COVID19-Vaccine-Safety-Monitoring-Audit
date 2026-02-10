@@ -137,7 +137,7 @@ Direct upload to Internet Archive provides an independent, complete copy of the 
 
 This audit is protected by multiple independent verification methods:
 
-- **National Library of Australia (NED):** Official government archive with legal deposit registration
+- **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (PANDORA/AWA)
 - **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
