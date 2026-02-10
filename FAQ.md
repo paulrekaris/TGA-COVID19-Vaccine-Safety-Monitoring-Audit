@@ -650,7 +650,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17731054
 - Bitcoin timestamp: December 31, 2025
 - Arweave (blockchain): https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
-- Internet Archive: https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1 | https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*
+- Internet Archive: [Direct Upload](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1) | [Wayback Machine](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
 
 **Verification Documentation:**  
 [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
