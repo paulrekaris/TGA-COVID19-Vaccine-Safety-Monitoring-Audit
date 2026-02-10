@@ -2,7 +2,7 @@
 
 # TGA COVID-19 Vaccine Safety Monitoring Audit
 
-[![NLA](https://img.shields.io/badge/NLA-Legal%20Deposit%20%26%20AWA%2FPANDORA-NED447016P1081502-2D6F4D?labelColor=512B58)](https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance)
+[![NLA](https://img.shields.io/static/v1?label=NLA&message=Legal+Deposit+%26+AWA%2FPANDORA&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)   
 
