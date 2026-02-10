@@ -26,6 +26,7 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 **All materials are open source and freely accessible:**
 
 - **GitHub:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+- **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
 - **DOI (permanent archive):** https://doi.org/10.5281/zenodo.17731054
 
