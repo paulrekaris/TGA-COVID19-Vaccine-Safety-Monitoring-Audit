@@ -1,12 +1,12 @@
-## How to Navigate This Audit
+# How to Navigate This Audit
 
-**5 minutes**  
+## 5 minutes 
 Read [At a Glance](#at-a-glance) for a complete high-level summary.
 
-**15–20 minutes**  
+## 15–20 minutes**  
 Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) for orientation, methodology, limitations, and how to verify or challenge findings.
 
-**Full evidence**
+## Full evidence**
 
 - [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
 - [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
