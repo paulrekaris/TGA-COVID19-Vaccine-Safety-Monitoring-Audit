@@ -40,6 +40,11 @@
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
+## Official Archival Preservation
+This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (PANDORA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value. Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
+
+**Direct Access:** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
+
 ## Table of Contents
 
 - [Purpose](#purpose)
