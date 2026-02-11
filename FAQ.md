@@ -6,14 +6,14 @@ Read [At a Glance](#at-a-glance) for a complete high-level summary.
 ## 15–20 minutes 
 Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) for orientation, methodology, limitations, and how to verify or challenge findings.
 
-**Full evidence**
+### Full evidence
 
 - [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
 - [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
 - [Reference Documents](reference-documents/) - All key documents including Safety Plan, vaccination policies, Senate testimony, FOI materials, and primary sources
 
-**Visual summaries and quick reference materials**
+### Visual summaries and quick reference materials
 
 - [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) - Implementation status by objective, key findings, and documentation gaps
 - [FOI Analysis and Timeline](analysis/tga-foi-analysis.pdf) - Timeline of FOI process and contradictory TGA responses
