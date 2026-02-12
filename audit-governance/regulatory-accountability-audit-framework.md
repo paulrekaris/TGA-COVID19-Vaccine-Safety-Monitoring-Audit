@@ -1,4 +1,4 @@
-# Principles for Citizen-Led Regulatory Accountability Audit
+# Regulatory Accountability Audit Framework 
 
 ## Part I: Framework
 
@@ -21,6 +21,10 @@ Each layer is examined for documentary evidence of implementation. Outputs are c
 
 Sources are weighted according to independence and probative value. Statutory decisions, parliamentary records, and contemporaneous official documents carry the highest evidentiary weight. Institutional publications are assessed on their own terms. Third-party reporting is secondary. Assertions unsupported by documentary evidence are not treated as proof of implementation.
 
+## Evidence Collection
+
+Evidence is gathered through the systematic review of publicly available primary sources—including statutory decisions, parliamentary records, freedom of information releases, and official publications—using structured open-source investigation methods. The process adheres to best-practice principles of public interest accountability, applying verification protocols that include source preservation, cross-referencing, and contemporaneous documentation. All sources are preserved, cited, and maintained in a reproducible manner.
+
 ### Burden of Falsification
 
 Findings are provisional and remain open to revision upon production of documentary evidence demonstrating implementation. The methodology, evidence base, classifications, and reasoning are published to enable independent verification. Conclusions may be tested by applying the same framework to the same documented record, or by introducing records not previously located.
@@ -28,6 +32,10 @@ Findings are provisional and remain open to revision upon production of document
 ### Reproducibility
 
 Search methods, source citations, evidence classifications, and analytical decisions are documented and published. The framework is designed to enable consistent conclusions when applied to the same documented record.
+
+### Transparency 
+
+All search strategies, document locations, version histories, and analytical decisions are documented and published in a publicly accessible repository. Independent reviewers may replicate findings by applying the same framework to the same evidentiary record.
 
 ### Integrity
 
