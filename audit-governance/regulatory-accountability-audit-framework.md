@@ -21,7 +21,7 @@ Each layer is examined for documentary evidence of implementation. Outputs are c
 
 Sources are weighted according to independence and probative value. Statutory decisions, parliamentary records, and contemporaneous official documents carry the highest evidentiary weight. Institutional publications are assessed on their own terms. Third-party reporting is secondary. Assertions unsupported by documentary evidence are not treated as proof of implementation.
 
-## Evidence Collection
+### Evidence Collection
 
 Evidence is gathered through the systematic review of publicly available primary sources—including statutory decisions, parliamentary records, freedom of information releases, and official publications—using structured open-source investigation methods. The process adheres to best-practice principles of public interest accountability, applying verification protocols that include source preservation, cross-referencing, and contemporaneous documentation. All sources are preserved, cited, and maintained in a reproducible manner.
 
