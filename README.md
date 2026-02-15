@@ -270,7 +270,9 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 - **June 2025** - TGA identifies **399 Plan‑aligned documents** across 12 document categories but refuses to process them for citizen access, claiming that classification by Plan objectives requires “subjective interpretation”, despite having successfully classified 2,218+ pages nine months earlier (FOI 25‑0166).
 
 - **9 October 2025** – Senate Community Affairs Legislation Committee  
+
   TGA officials testify that:
+  
   - Plan implementation was **never systematically tracked** by Plan objectives.  
   - Monitoring was managed through “day‑to‑day processes”, not a distinct enhanced framework.  
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
