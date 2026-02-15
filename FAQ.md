@@ -704,7 +704,7 @@ Yes, absolutely. I’ve published this investigation openly specifically to invi
 
 If errors are identified in my analysis, I will correct them and document the corrections in the repository. If TGA or others can provide evidence that implementation records exist, or that my interpretation of the documentary record is flawed, I welcome that information and will subsequently amend my findings.
 
-The research is archived permanently ([DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)), but the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit) remains open for updates and corrections based on new evidence or valid criticism.
+The research is archived permanently [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054), but the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit) remains open for updates and corrections based on new evidence or valid criticism.
 
 **How to provide feedback:**
 
