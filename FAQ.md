@@ -210,8 +210,8 @@ Only 15% of the Plan’s 20 specified outputs are fully documented after four ye
 **Unprecedented Scale:**
 
 - **21.2 million Australians** vaccinated (approximately 96% of eligible population)
-- **75 million total doses**[^1] administered (as of September 2025)
-- **68.4 million doses**[^2] under provisional approval (through July 2023)
+- **75 million total doses**<sup><a name="footnote1-ref"></a>[[1]](#footnote1)</sup> (as of September 2025)
+- **68.4 million doses**<sup><a name="footnote2-ref"></a>[[2]](#footnote2)</sup> under provisional approval (through July 2023)
 - Fastest mass vaccination programme in Australian history
 
 **Government Mandates:**
