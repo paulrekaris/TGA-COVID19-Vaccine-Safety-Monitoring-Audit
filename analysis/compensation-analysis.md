@@ -151,8 +151,6 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 ### Key Differences
 
-### Key Differences
-
 **Transparency:**
 - **US/UK:** Publish detailed signal investigation reports with full statistical methodology, enabling external verification and supporting clinician causality assessments
 - **Australia:** TGA withholds signal investigation documentation despite Senate confirmation of 148 investigated signals and 57 regulatory actions
