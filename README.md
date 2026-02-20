@@ -89,7 +89,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
- - [FOI 5082: TGA Vaccine Pharmacovigilance System](#foi-5082-tga-vaccine-pharmacovigilance-system)
+  - [FOI 5082: TGA Vaccine Pharmacovigilance System](#foi-5082-tga-vaccine-pharmacovigilance-system)
 - [Limitations and Falsifiability](#limitations-and-falsifiability)
   - [Scope](#scope)
   - [Meaning of Documentation Gaps](#meaning-of-documentation-gaps)
