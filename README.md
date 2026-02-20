@@ -1002,7 +1002,6 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 **Document Version:** 1.9.1  
 **Last Updated:** 7 February 2026  
-**Published:** 7 February 2026 
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Blockchain and Arweave verification pending.
 
