@@ -52,7 +52,6 @@ This repository has been accepted for preservation by the National Library of Au
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
-- [Scale and Context](#scale-and-context)
 - [The Accountability Standard](#the-accountability-standard)
   - [FOI Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
 - [The Evidence Base](#the-evidence-base)
@@ -197,13 +196,11 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 > #### 6. Detailed conformity assessment: 0% implementation for core monitoring
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs. 
 
-## Scale and Context
-
-This finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million Australians between February 2021 and June 2023. These documentation gaps have been confirmed through TGA's OAIC-directed searches (531+ containers), validated by OAIC Decision [2025] AICmr 54, and acknowledged in Senate testimony (October 2025). As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
-
 ## The Accountability Standard
 
 This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
+
+As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
 
 ### FOI Compliance vs Governance Requirements
 
