@@ -688,7 +688,7 @@ methodology comparison](analysis/search-methodology-comparison.md)
 
 ## Evidence Sources
 
-All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the references-documents folder for archival and offline use.
+All material is publicly available or obtained through lawful FOI processes, enabling independent verification of every finding. Key sources are also provided as PDF files in the reference-documents folder for archival and offline use.
 
 **Australian COVID‑19 Vaccination Policy**  
 https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf 
