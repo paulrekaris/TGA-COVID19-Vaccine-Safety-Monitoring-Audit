@@ -1,19 +1,41 @@
 # Regulatory Accountability Audit Framework 
 
+## Principle
+
+Public commitments made with public resources on behalf of the 
+public must be verifiable through documentation accessible to the 
+public. Where verifiable records cannot be produced, that absence 
+constitutes a governance finding.
+
 ## Part I: Framework
 
 ### Scope
 
 This framework applies where a public institution has made published commitments to deliver specific outputs, and the question is whether the institution can demonstrate, through documentary evidence, that those outputs were implemented. The framework assesses implementation as evidenced in records, not policy merit, outcomes, or intent.
 
+### Application Triggers
+
+This framework is appropriate where:
+- A public institution published specific commitments
+- Implementation was expected to generate contemporaneous records
+- Records should be accessible via freedom of information
+- Verification through documentation is feasible
+- Public interest in verification is demonstrable
+
+This framework is not appropriate where:
+- Commitments are aspirational without specific outputs
+- Implementation would not generate accessible records
+- Verification requires classified or confidential access
+- Verification requires specialised technical expertise beyond documentary review and outside the auditor’s demonstrated professional competence
+
 ### Methodology
 
 The audit traces commitments top-down through four governance layers:
 
 1. Policy commitment
-1. Operational framework
-1. Control activities
-1. Reference standards
+2. Operational framework
+3. Control activities
+4. Reference standards
 
 Each layer is examined for documentary evidence of implementation. Outputs are classified as: fully documented, partially documented, not documented, or contradicted by evidence. Classifications are based on publicly verifiable primary sources. The methodology evaluates documentation of execution, not assertions of performance.
 
@@ -88,6 +110,34 @@ The framework may be applied by individuals or distributed networks. Partitionin
 
 -----
 
-## Principle
+## Part III: Design for Verification
 
-Public commitments made with public resources on behalf of the public must be verifiable through documentation accessible to the public. Where verifiable records cannot be produced, that absence constitutes a governance finding.
+This framework inverts traditional research self-protection. Rather 
+than minimising exposure to challenge, the methodology maximises 
+verification opportunities:
+
+**Permanent public archive** invites long-term examination
+**Complete source citation** enables independent verification  
+**Transparent version control** documents evolution and corrections
+**Replicable methods** encourage testing and validation
+**Multiple independent repositories** ensure survival under stress
+
+The framework gains strength through testing. Each scrutiny attempt 
+either confirms findings (strengthening validity) or reveals errors 
+(improving accuracy). Both outcomes enhance the evidence base. Time 
+compounds this effect: blockchain timestamps prevent retroactive 
+alteration, ensuring findings remain independently testable 
+regardless of institutional pressures.
+
+## Framework Licence
+
+This Regulatory Accountability Audit Framework is released under 
+Creative Commons Attribution 4.0 International (CC BY 4.0). You 
+may use, adapt, and distribute this framework with appropriate 
+attribution. 
+
+**Attribution requirement:** "Based on Regulatory Accountability 
+Audit Framework by Paul Rekaris (2026), 
+https://doi.org/10.5281/zenodo.17731054"
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
