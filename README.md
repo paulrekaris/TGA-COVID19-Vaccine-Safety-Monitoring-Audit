@@ -4,7 +4,7 @@
 
 [![NLA](https://img.shields.io/static/v1?label=NLA&message=Legal+Deposit+%26+AWA%2FPANDORA&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054)   
-[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=7-Layer+Verification&color=2D6F4D)](permanent-archive-records-2026-02-11.pdf)
+[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=7-Layer+Verification&color=2D6F4D)](blockchain-and-archival-verification/)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)   
 
