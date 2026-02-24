@@ -174,8 +174,7 @@ This independent audit provides a systematic assessment of whether the Plan's 17
 
 > **Central problem**: TGA cannot demonstrate, on the available documentary record, that it systematically implemented the enhanced, TGA-led safety monitoring framework set out in the Cabinet-endorsed Australian COVID-19 Vaccination Policy, raising fundamental questions about regulatory accountability during Australia's largest medical intervention.
 
-Under the PMC Cabinet Handbook (15th ed., para 25), ministers must carry out Cabinet-determined policies and portfolio agencies must act on Cabinet decisions as recorded in Cabinet minutes — binding TGA, as a portfolio agency under the Department of Health and Aged Care, to implement the enhanced monitoring commitments endorsed by National Cabinet in November 2020.
-
+Under the [PMC Cabinet Handbook (15th ed., para 25)](https://www.pmc.gov.au/government/administration/cabinet-handbook-15th-edition), ministers must carry out Cabinet-determined policies and portfolio agencies must act on Cabinet decisions as recorded in Cabinet minutes — binding TGA, as a portfolio agency under the Department of Health and Aged Care, to implement the enhanced monitoring commitments endorsed by [National Cabinet in November 2020](https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf).
 
 ## Key Findings
 
