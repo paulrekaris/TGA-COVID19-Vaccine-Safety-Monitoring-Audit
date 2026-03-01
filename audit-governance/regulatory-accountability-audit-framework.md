@@ -69,12 +69,12 @@ The framework requires no institutional access, statutory authority, or organisa
 
 ### Standards Referenced
 
-- ISO 19011:2018 — Guidelines for auditing management systems
-- ISO 31000:2018 — Risk management
-- ISO 15489-1:2016 — Records management
-- ISO 14721:2025 — Open Archival Information System (OAIS) reference model 
-- ANAO performance audit principles and Commonwealth Performance Series
-- FAIR Data Principles (Findable, Accessible, Interoperable, Reusable)
+- **ISO 19011:2018** — Guidelines for auditing management systems
+- **ISO 31000:2018** — Risk management
+- **ISO 15489-1:2016** — Records management
+- **ISO 14721:2025** — Open Archival Information System (OAIS) reference model 
+- **ANAO performance audit principle** and Commonwealth Performance Series
+- **FAIR Data Principles** (Findable, Accessible, Interoperable, Reusable)
 
 -----
 
