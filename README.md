@@ -8,7 +8,9 @@
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.1&color=blue)](audit-governance/version-history.md) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
+[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.1&color=blue)](audit-governance/version-history.md) [!
+[![Download](https://img.shields.io/github/v/release/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit?label=⬇️%20Download&color=blue&style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
 ## Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
 
