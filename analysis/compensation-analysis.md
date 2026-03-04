@@ -147,6 +147,18 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 | **United Kingdom** | MHRA | Yellow Card | **High:** Weekly detailed reports with signal assessments and causality determinations | Signal investigations published with MaxSPRT/O/E analysis, population-level incidence rates (3-5 per 1,000), detailed summaries of methodology | VDP (Vaccine Damage Payment) | ~1-3% (~600 awards from approximately 17,000 total claims) |
 | **Australia** | TGA | DAEN, AusVaxSafety | **Low:** Aggregate statistics and reassurance messaging only | 148 signals investigated and 57 actions taken but no methodology, confidence intervals, or detailed causality assessments published despite demonstrated internal capacity | CVCS (COVID-19 Vaccine Claims Scheme) | 10.5% (522 of 4,962 claims approved before scheme closure) |
 
+> ## Case Study in Transparency: How the CDC Does It
+> 
+> The CDC's August 2021 MMWR report on GBS after Janssen vaccine exemplifies what transparency looks like in practice.²³ It doesn't just announce a risk—it publishes:
+> 
+> - **Quantified, stratified risk**: 15.6 cases per million doses in males aged 50–64
+> - **Full methodology**: Observed vs. expected analysis, confidence intervals (95% CI 8.1–41.7)
+> - **Primary data sources**: VAERS and Vaccine Safety Datalink (VSD) clearly identified
+> 
+> This is precisely the type of evidence that could support a causation opinion for an Australian GBS claimant. TGA's equivalent analysis—if it exists—remains locked away behind privacy claims that the CDC has proven are not barriers to transparency.
+> 
+> The difference is not that Australia lacks the data. The difference is that the US publishes it, and Australia withholds it. For a GBS claimant in Australia, that difference can mean the difference between approval and denial.
+
 ### Key Differences
 
 **Transparency:**
@@ -272,3 +284,5 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 21. The Telegraph. (2025). Covid vaccine damage consultants paid more than victims. https://www.telegraph.co.uk/news/2025/03/16/covid-vaccine-damage-consultants-paid-more-than-victims/
 
 22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events. MMWR, 70(32). https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
+
+23. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
