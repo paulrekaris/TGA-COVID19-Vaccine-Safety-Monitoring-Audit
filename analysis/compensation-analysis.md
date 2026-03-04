@@ -131,8 +131,6 @@ The following examples illustrate how TGA's refusal to publish signal investigat
 
 **Impact on causation assessment:** The treating neurologist must form a causation opinion whilst TGA publicly states rates are "similar to expected" but refuses to provide the statistical methodology, baseline data, or analysis that might support or refute the individual claim. The doctor cannot verify whether TGA's population-level analysis actually excludes causation or whether the "expected rates" comparison was methodologically sound.
 
----
-
 **Common Pattern Across Examples:**
 
 In each case, TGA investigated the exact injury type as a formal safety signal, conducted population-level analysis, and made regulatory or communication decisions based on that analysis. Yet compensation claimants with these same injuries cannot access the evidence TGA used to assess causation at the population level, forcing their treating doctors to form opinions based on individual clinical records and temporal association alone—without the population-level context TGA possesses but withholds.
