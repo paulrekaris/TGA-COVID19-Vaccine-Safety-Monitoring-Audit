@@ -149,7 +149,7 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 > ## Case Study in Transparency: How the CDC Does It
 > 
-> The CDC's August 2021 MMWR report on GBS after Janssen vaccine exemplifies what transparency looks like in practice.²³ It doesn't just announce a risk—it publishes:
+> The CDC's August 2021 MMWR report on GBS after Janssen vaccine exemplifies what transparency looks like in practice.²² It doesn't just announce a risk—it publishes:
 > 
 > - **Quantified, stratified risk**: 15.6 cases per million doses in males aged 50–64
 > - **Full methodology**: Observed vs. expected analysis, confidence intervals (95% CI 8.1–41.7)
@@ -283,6 +283,4 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 21. The Telegraph. (2025). Covid vaccine damage consultants paid more than victims. https://www.telegraph.co.uk/news/2025/03/16/covid-vaccine-damage-consultants-paid-more-than-victims/
 
-22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events. MMWR, 70(32). https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
-
-23. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
+22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
