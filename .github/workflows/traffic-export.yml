@@ -285,6 +285,10 @@ jobs:
         days_tracked = len(clones_df)
         total_clones_alltime = clones_df['daily_clones'].sum() if len(clones_df) > 0 else 0
         avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
+        total_views_alltime = views_df['daily_views'].sum() if len(views_df) > 0 else 0
+        total_unique_views_alltime = views_df['daily_unique_visitors'].sum() if len(views_df) > 0 else 0
+        avg_daily_views_alltime = total_views_alltime / days_tracked if days_tracked > 0 else 0
+        avg_daily_unique_views = total_unique_views_alltime / days_tracked if days_tracked > 0 else 0
 
         institutional_referrers = {}
         
@@ -420,6 +424,9 @@ jobs:
         summary_parts.append(f"   Days tracked: {days_tracked}")
         summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,.0f}")
         summary_parts.append(f"   Average daily clones: {avg_daily_clones:.1f}")
+        summary_parts.append(f"   Total views recorded: {total_views_alltime:,.0f}")
+        summary_parts.append(f"   Average daily views: {avg_daily_views_alltime:.1f}")
+        summary_parts.append(f"   Average daily unique views: {avg_daily_unique_views:.1f}")
         summary_parts.append(f"   Note: Calculated from actual daily counts, not rolling windows")
         summary_parts.append("")
         summary_parts.append(sep)
