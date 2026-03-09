@@ -44,7 +44,7 @@ National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which comm
 **Why It Mattered**  
 Enhanced post‑market monitoring was the regulatory safeguard that justified provisional, rather than standard, approval (less pre‑market evidence, faster access) and underpinned government mandates affecting employment, travel and social participation.
 
-**Regulatory Requirement**
+**Regulatory Requirement**  
 Enhanced safety monitoring was a regulatory condition and expectation of provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty, as reflected in TGA’s provisional approval and post‑market surveillance framework.
 
 -----
