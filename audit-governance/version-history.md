@@ -57,12 +57,11 @@
 - Updated to better capture data including average total daily statistics for total/unique views and total/unique clones
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
 
-
----
 **Note:** Core audit findings unchanged. Finding strengthened.
 
 ---
- 
+
+
 ## Version 1.9.1 (7 February 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
