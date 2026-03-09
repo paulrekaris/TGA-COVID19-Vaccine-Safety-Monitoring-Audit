@@ -6,6 +6,63 @@
 
 # Version History
 
+## [Unreleased] — In Progress: Version 1.9.2
+
+### Main README
+- Format changes and minor corrections to text and references (no impact to findings)
+- Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
+- Added Archive and Preservation section with direct link to NLA
+- Added NLA monthly snapshot notification: the National Library of Australia has agreed to archive the TGA dataset (monthly snapshots) in the Australian Web Archive as part of the national web archive
+- Added NLA monthly snapshot of GitHub website to Australian Web Archive (distinct from dataset archiving)
+- Added latest release version badge with auto-updating download icon
+- Added 7-Layer Preservation Architecture badge
+- Introduced buttons for improved navigation and visibility: NLA/PANDORA, ZIP download, Version History, Permanent Archive, and Last Commit
+- Added Prime Minister and Cabinet Handbook citation referencing ministerial obligation to carry out Cabinet-endorsed decisions
+- Added four-layer governance hierarchy framework to repository description
+- Added alternative explanations for absent records to Limitations and Falsifiability section
+- Added 21.2M recipient figure and largest provisional approval deployment context to Executive Summary
+- Moved "No Commonwealth oversight initiated" to Accountability section
+- Removed Scale and Context section to avoid duplication; updated TOC accordingly
+- Directs readers to detailed methodology and output-by-output assessments in Main Audit Report and Evidence Matrix
+- Font sizes, headers, and formatting improvements throughout
+
+### Analysis Folder
+- Added Senate Questions on Notice (December 2025) gap analysis: complete analysis of TGA's December 2025 responses to SQ13–19 including four-layer governance framework mapping, question-by-question assessment table, FOI evidence analysis, prior SQON pattern analysis, and governance failure conclusion
+- Format changes and minor corrections to text and references (no impact to findings)
+- Updated TOC and file references to reflect renamed files
+
+### Reference Documents
+- Added FOI 25-0166 folder with case decisions, key documents, and analysis
+- Updated references throughout repository for Internet Archive direct upload section
+
+### Audit Governance
+- Created `regulatory-accountability-audit-framework.md`: principles and safeguards for citizen-led independent verification of public institution commitments using public records and professional audit standards (ISO 19011, ISO 31000, ISO 15489, FAIR data principles). Two-part structure: framework (methodology, evidence hierarchy, burden of falsification, reproducibility, integrity, independence) and safeguards (materiality, contemporaneity, proportional integrity, audit period, disclosure, negative evidence, scalability)
+- Expanded audit governance folder to include Regulatory Accountability Framework covering principles, methodology, evidence hierarchy, standards, and design
+- Updated Version Control Policy to include quality and records management, research transparency applied to regulatory accountability, expanded OSINT detail, changelog, open access framework, and additional relevant references
+- Added ISO 15489-1:2016 as referenced standard in `release-checklist.md`
+
+### Compensation Analysis
+- Added "Case Study in Transparency" section with CDC MMWR report (August 2021) documenting quantified GBS risk (15.6/million in males 50–64), full methodology (observed/expected, 95% CI), and data sources (VAERS, VSD). Contrasts with TGA's withheld equivalent analysis
+
+### Permanent Archive
+- Added Internet Archive direct upload section and updated references throughout repository
+- Updated Permanent Archive file to include new NLA record of Australian Web Archive
+- Updated Internet Archive badge to Full Repository
+
+### File Maintenance
+- Kebab-case file naming applied to minor file name changes including media files
+- Updated TOC to reflect renamed files
+
+### Traffic Monitoring Workflow
+- Updated to better capture data including average total daily statistics for total/unique views and total/unique clones
+- Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
+
+
+---
+**Note:** Core audit findings unchanged. Finding strengthened.
+
+---
+ 
 ## Version 1.9.1 (7 February 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
