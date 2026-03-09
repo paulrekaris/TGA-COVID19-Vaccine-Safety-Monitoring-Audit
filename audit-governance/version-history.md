@@ -4,8 +4,6 @@
 
 ---
 
-# Version History
-
 ## [Unreleased] — In Progress: Version 1.9.2
 
 ### Main README
