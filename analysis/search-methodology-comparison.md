@@ -20,7 +20,7 @@ The comparison examines why TGA's OAIC-directed comprehensive searches across 53
 
 Therapeutic Goods Administration, *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*, 20 September 2024, OAIC Reference MR22/00538, pp. 28-32.
 
-Repository: [`reference-documents/foi-3643/TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf`](../reference-documents/foi-3643/TGA%20submission%20OAIC%20MR22-00538%20Sept%202024_Redacted.pdf)
+Repository: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/foi/foi-3643/TGA%20submission%20OAIC%20MR22-00538%20Sept%202024_Redacted.pdf)
 
 ### Search Terms Used
 
@@ -216,7 +216,7 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ## References
 
-Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32. Available: [`reference-documents/foi-3643/TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf`](../reference-documents/foi-3643/TGA%20submission%20OAIC%20MR22-00538%20Sept%202024_Redacted.pdf)
+Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32. Available: (../primary-sources/foi/foi-3643/TGA%20submission%20OAIC%20MR22-00538%20Sept%202024_Redacted.pdf)
 
 Rekaris, P. (2026). *Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit (Version 1.9)*. Appendix A.2.2 "Online Document Search Methodology", pp. 77-78. Zenodo. https://doi.org/10.5281/zenodo.17731054. Available: [`analysis/documentation-gap-analysis-audit-report.pdf`](../analysis/documentation-gap-analysis-audit-report.pdf)
 
