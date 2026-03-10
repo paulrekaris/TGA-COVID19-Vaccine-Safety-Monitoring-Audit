@@ -215,7 +215,7 @@ However, what those thorough searches established—that systematic Plan impleme
 
 Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
 
-> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate four years later. 
+> In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate by senior TGA officials four years later. 
 
 
 ## The Evidence Base
