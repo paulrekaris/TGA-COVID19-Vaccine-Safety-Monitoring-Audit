@@ -12,6 +12,10 @@
 [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip)
 [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
+[![SSRN](https://img.shields.io/badge/SSRN-6333058-1f3864?logo=ssrn&logoColor=white)](https://ssrn.com/abstract=6333058)
+
+[![SSRN](https://img.shields.io/badge/SSRN-6333058-1f3864?labelColor=1f3864&color=2d5f9e)](https://ssrn.com/abstract=6333058)
+
 ## Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit
 
 ## Quick Start
