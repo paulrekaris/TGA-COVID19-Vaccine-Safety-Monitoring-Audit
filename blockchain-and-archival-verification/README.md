@@ -2,7 +2,7 @@
 
 This audit is protected by multiple verification and archival methods including blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, GitHub).
 
-[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=7-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-11.pdf)
+[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=8-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-11.pdf)
 [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)
 [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058)
