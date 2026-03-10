@@ -738,7 +738,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 **Key testimony:** TGA officials stated Plan implementation was "never systematically tracked" and monitoring occurred through "day-to-day processes" rather than distinct enhanced framework. Confirmed 148 safety signals investigated and 57 regulatory actions taken.
 
-[Full testimony analysis →](reference-documents/senate-testimony-2025-10-09/README.md)
+[Full testimony analysis →](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
 ## Documentary Evidence of TGA Documentation Capacity
 
