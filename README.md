@@ -1003,6 +1003,8 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
 
+- **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) Academic preprint repository; indexed by Google Scholar
+  
 - **Bitcoin Timestamp:** December 31, 2025  
   SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
   [Verify timestamp](https://opentimestamps.org)
