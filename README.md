@@ -666,14 +666,8 @@ Partial completion of activities without an implementation trail is rated "parti
 
 **Note:** This hierarchy assesses implementation proof; Section 9.4 of the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) assesses source reliability.
 
-**Search strategy:** This audit employed systematic keyword searches with 14 
-strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and 
-pharmacovigilance processes, documented in Appendix A.2.2 (pp. 77-78) of the 
-Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 
-generic document-title terms without output-specific or pharmacovigilance 
-vocabulary (TGA OAIC Submission, 20 September 2024, pp. 28-32). [Full search 
-methodology comparison](analysis/search-methodology-comparison.md)
-
+**Search strategy:** This audit employed systematic keyword searches with 14 strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and pharmacovigilance processes, documented in Appendix A.2.2 (pp. 77-78) of the Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 generic document-title terms without output-specific or pharmacovigilance 
+vocabulary (TGA OAIC Submission, 20 September 2024, pp. 28-32). [Full search methodology comparison](analysis/search-methodology-comparison.md)
 
 ## Evidence Sources
 
@@ -741,7 +735,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
-**Archive:** [Download FOI5082.pdf](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/raw/main/primary-sources/foi/foi-5082.pdf)(13.3 MB)
+**Archive:** [Download FOI5082.pdf](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/raw/main/primary-sources/foi/foi-5082.pdf) (13.3 MB)
 
 **Summary**
 
