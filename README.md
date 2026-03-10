@@ -16,6 +16,8 @@
 
 [![SSRN](https://img.shields.io/badge/SSRN-6333058-1f3864?labelColor=1f3864&color=2d5f9e)](https://ssrn.com/abstract=6333058)
 
+[![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c)](https://ssrn.com/abstract=6333058)
+
 ## Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit
 
 ## Quick Start
