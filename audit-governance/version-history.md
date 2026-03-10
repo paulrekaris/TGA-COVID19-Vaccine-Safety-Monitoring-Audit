@@ -39,6 +39,8 @@
 - Expanded audit governance folder to include Regulatory Accountability Framework covering principles, methodology, evidence hierarchy, standards, and design
 - Updated Version Control Policy to include quality and records management, research transparency applied to regulatory accountability, expanded OSINT detail, changelog, open access framework, and additional relevant references
 - Added ISO 15489-1:2016 as referenced standard in `release-checklist.md`
+- Updated evidence storage methodology to reflect freely available status of ICH and CIOMS standards, with local archiving noted
+- Added repository folder structure explanation with ISO 15489-1:2016 alignment
 
 ### Compensation Analysis
 - Added "Case Study in Transparency" section with CDC MMWR report (August 2021) documenting quantified GBS risk (15.6/million in males 50–64), full methodology (observed/expected, 95% CI), and data sources (VAERS, VSD). Contrasts with TGA's withheld equivalent analysis
