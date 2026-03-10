@@ -456,7 +456,7 @@ The response pattern was clear: claims of dramatic enhancement, evidence of rout
 
 Four years of inquiries produced identical results: assertions of enhancement without documentation of what made the monitoring operationally distinct.
 
-[Full senate testimony analysis](reference-documents/senate-testimony-2025-10-09/README.md)
+[Full senate testimony analysis](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
 ---
 
