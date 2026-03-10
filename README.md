@@ -511,7 +511,7 @@ This report is consistent with the findings in Phillips et al. (2021) discussed 
 **Reference:**  
 Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)
 
-[Full AEFI surveillance report](primary-sources/cdi-2024-surveillance-aefi-covid-19-2021.pdf)
+[Full AEFI surveillance report](primary-sources/vaccine-surveillance/cdi-2024-surveillance-aefi-covid-19-2021.pdf)
 
 
 ## Supporting Peer-Reviewed Literature of Systemic Gaps
