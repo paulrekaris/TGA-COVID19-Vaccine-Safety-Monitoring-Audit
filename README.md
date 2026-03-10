@@ -374,7 +374,7 @@ Without documented verification:
 - Documentation showing systematic integration of these activities into the enhanced monitoring framework defined in the Plan.  
 - Coordination protocols or data‑flow documentation linking AusVaxSafety outputs to TGA signal investigations.  
 - Evidence that enhanced processes were distinguished from routine “day‑to‑day” pharmacovigilance and tracked against Plan objectives.
-- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](reference-documents/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](reference-documents/foi-4029) available in reference documents.
+- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](primary-sources/foi/foi-4029) available in reference documents.
 
 **Why this matters**
 
