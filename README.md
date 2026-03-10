@@ -2,7 +2,7 @@
 
 # TGA COVID-19 Vaccine Safety Monitoring Plan Audit
 
-[![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) [![SSRN](https://img.shields.io/badge/SSRN-6333058-154360?labelColor=154360&color=154360)](https://ssrn.com/abstract=6333058) [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=7-Layer+Verification&color=2D6F4D)](blockchain-and-archival-verification/)
+[![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=7-Layer+Verification&color=2D6F4D)](blockchain-and-archival-verification/)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)
 
@@ -12,11 +12,6 @@
 [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip)
 [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
-[![SSRN](https://img.shields.io/badge/SSRN-6333058-1f3864?logo=ssrn&logoColor=white)](https://ssrn.com/abstract=6333058)
-
-[![SSRN](https://img.shields.io/badge/SSRN-6333058-1f3864?labelColor=1f3864&color=2d5f9e)](https://ssrn.com/abstract=6333058)
-
-[![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c)](https://ssrn.com/abstract=6333058)
 
 ## Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit
 
