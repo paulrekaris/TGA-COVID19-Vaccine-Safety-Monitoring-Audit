@@ -248,10 +248,7 @@ The documentation gap is established as a matter of official record,
 confirmed through both administrative law proceedings and parliamentary 
 testimony.
 
-Detailed definitions, evidence hierarchies, search methodology and output-by-output assessments are provided in the:
-
-- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) – full narrative, methodology, findings
-- [Evidence Matrix](analysis/output-assessment-evidence-matrix.xlsx) – output-by-output ratings with sources and gaps
+Detailed methodology, evidence hierarchies, and output-by-output assessments are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Evidence Matrix](analysis/output-assessment-evidence-matrix.xlsx).
 
 ## The Investigation: Four Years of FOI Requests
 
