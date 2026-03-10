@@ -856,9 +856,9 @@ The comprehensive audit report includes:
 
 - [One-Page Audit Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
-- [Reference Documents](reference-documents/) – FOI responses, OAIC decisions, and Senate testimony. Includes foi-3643, foi-25-0166, OAIC Decision [2025] AICmr 54, and Senate transcripts (9 October 2025).
+- [Primary Sources](primary-sources/) – FOI responses, OAIC decisions, Senate testimony, Australian Government and TGA policy documents, AusPARs, performance reports, vaccination data, and surveillance materials.
 
-- [Primary Sources](primary-sources/) – Source documents including TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), Australian COVID-19 Vaccination Policy, and vaccination data.
+- [Reference Documents](reference-documents/) – Supporting analytical and contextual material including peer-reviewed literature, legal case notes, and international pharmacovigilance standards.
 
 - **Media Coverage** – Investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi's Substack:  
   - "TGA's vaccine safety black hole: A concerned citizen's four‑year quest for answers"  
