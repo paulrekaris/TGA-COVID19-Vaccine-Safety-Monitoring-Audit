@@ -10,8 +10,7 @@ Describes AusVaxSafety as operating "as part of the national COVID-19 Vaccine Ph
 
 Used in this audit for estimates of approximately 6.8 million survey responses, approximately 3 million adverse event reports, and approximately 62,000 reports of medical attention.
 
-**File:** [active-and-enhanced-vaccine-safety-surveillance-for-covid-19 vaccines in Australia _ AusVaxSafety-Feb-2021.pdf](../vaccine-surveillance/active-and-enhanced-vaccine-safety-surveillance-for-covid-19%20vaccines%20in%20Australia%20_%20AusVaxSafety-Feb-2021.pdf)
-
+**File:** [active-and-enhanced-vaccine-safety-surveillance-for-covid-19-vaccines-in-australia-ausvaxsafety-feb-2021.pdf](../vaccine-surveillance/active-and-enhanced-vaccine-safety-surveillance-for-covid-19-vaccines-in-australia-ausvaxsafety-feb-2021.pdf)
 
 **Source:** https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia
 
