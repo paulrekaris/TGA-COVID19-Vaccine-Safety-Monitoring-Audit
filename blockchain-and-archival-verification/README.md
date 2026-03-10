@@ -1,10 +1,11 @@
 # Blockchain and Archival Verification Records
 
-This audit is protected by multiple verification and archival methods including blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, GitHub).
+This audit is protected by multiple verification and archival methods including blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, GitHub).
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=7-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-02-11.pdf)
 [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)
+[![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058)
 [![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org)
 [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
 [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
@@ -44,8 +45,25 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 
 ## Significance
 
-PANDORA is a selective archive. The National Library selects according to collection policies and priorities for content of national relevance and significance.
+The Australian Web Archive (AWA) is a selective web archive operated by the National Library of Australia. The NLA selects content according to collection policies and priorities for material of national relevance and significance. Selection for AWA archiving represents an independent institutional assessment that this audit has ongoing research and documentary value as part of Australia's national information heritage. Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
 
+---
+
+## SSRN – Social Science Research Network
+
+**Submission Date:** January 12, 2026
+**Posted Date:** March 2026
+**Abstract ID:** 6333058
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
+**Author:** Paul Rekaris
+**Item URL:** https://ssrn.com/abstract=6333058
+**DOI:** http://dx.doi.org/10.2139/ssrn.6333058
+**Licence:** CC BY 4.0
+**Status:** POSTED — Publicly Accessible
+
+### Significance
+
+SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by Google Scholar. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit was accepted following reconsideration of an initial rejection on miscategorisation grounds, confirming the work sits within the policy and governance research domain rather than medical preprint classification.
 
 ---
 
@@ -140,6 +158,7 @@ This audit is protected by multiple independent verification methods:
 
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (PANDORA/AWA)
 - **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
+- **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
