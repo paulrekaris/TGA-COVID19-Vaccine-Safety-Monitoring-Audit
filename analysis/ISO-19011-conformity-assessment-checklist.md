@@ -1373,9 +1373,9 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. 
 
-Total: 67 references.
+Total: 65 references.
 
-**[Reference Documents Folder](../reference-documents)** – Key source documents referenced in the audit assessment.
+**[Reference Documents](../reference-documents)** | **[Primary Sources](../primary-sources)** – Key source documents and primary evidentiary materials referenced in the audit assessment.
 
 ---
 
@@ -1537,27 +1537,20 @@ https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 ### Supporting References
 
-**Audit Methodology**
-
-55. Certainty Software. ISO 19011 Risk-Based Auditing Guidance. https://www.certaintysoftware.com/iso-19011/
-
-56. Process Street. ISO 19011 Management Systems Audit Checklist. https://www.process.st/templates/iso-19011-management-systems-audit-checklist/
-
-
 ## High-Reliability Industry & Safety Framework References
 
-57. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
+55. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
 
-58. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
+56. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
 
-59. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
+57. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
 https://www.safetymattersblog.com/2013/05/high-reliability-organizations-and.html
 
-60. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
+58. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
 
-61. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
+59. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
 
-62. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
+60. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
 https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures
 ---
 
@@ -1565,21 +1558,21 @@ https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructur
 
 **Public Access**
 
-63. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+61. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-64. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+62. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-65. TGA FOI Disclosure Log  
+63. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-66. AustLII – OAIC Decisions
+64. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 **Main Audit Documentation:**
 
-67. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
+65. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
    [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) (Reference List: p.64)
 
 **Notes on Reference Formatting**:
