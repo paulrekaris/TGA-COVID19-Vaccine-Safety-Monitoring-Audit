@@ -44,7 +44,7 @@ This README contains the narrative executive summary and overview. Key findings 
 ## Official Archival Preservation
 This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (PANDORA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value. Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
 
-**[View preserved AWA snapshot](https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance)**
+**[View preserved AWA snapshot](https://webarchive.nla.gov.au/tep/221557)**
 
 ## Table of Contents
 
@@ -1017,7 +1017,7 @@ For detailed version history and changelog, see [Version History](audit-governan
 
 This audit has been permanently archived and cryptographically timestamped:
 
-- **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (Legal deposit, [AWA archived](https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance), discoverable via [Trove](https://trove.nla.gov.au/))
+- **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (Legal deposit,[AWA archived](https://webarchive.nla.gov.au/tep/221557), discoverable via [Trove](https://trove.nla.gov.au/))
 
 - **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
