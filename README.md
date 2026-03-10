@@ -222,31 +222,17 @@ Procedural correctness and technical compliance in FOI administration and substa
 
 This finding is based on official determinations, not interpretation:
 
-**TGA's September 2024 submission to OAIC (MR22/00538)** documented 
-comprehensive searches across 531+ TRIM containers using eight search 
-terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation.
+**TGA's September 2024 submission to OAIC (MR22/00538)** documented comprehensive searches across 531+ TRIM containers using eight search terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation.
 
-**Office of the Australian Information Commissioner (OAIC) Decision 
-[2025] AICmr 54** reviewed this evidence and found the Department 
-took "all reasonable steps" under s24A of the FOI Act, concluding 
-"documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) confirmed the administrative law finding.
+**Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** reviewed this evidence and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding 
+"documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) ([case note](reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)) confirmed the administrative law finding.
 
-**Senate testimony (9 October 2025):** TGA senior officials described 
-the Plan's "five key themes" as "essentially describ[ing] our 
-day-to-day processes"—characterising monitoring as routine operations 
-rather than a distinct enhanced framework.
+**Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations rather than a distinct enhanced framework.
 
-**Search Methodology Note:** TGA's OAIC-directed searches (September 2024) 
-employed only 8 generic document-title terms ("Implementation of Plan", 
-"Audit Report"), missing output-specific terminology (signal detection, 
-AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary 
-(AEFI escalation, performance metrics, risk management). This audit employed 
-14 strategic terms targeting specific Plan outputs and pharmacovigilance 
-processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
+**Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed only 8 generic document-title terms ("Implementation of Plan", "Audit Report"), missing output-specific terminology (signal detection, AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary (AEFI escalation, performance metrics, risk management). This audit employed 
+14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
 
-The documentation gap is established as a matter of official record, 
-confirmed through both administrative law proceedings and parliamentary 
-testimony.
+The documentation gap is established as a matter of official record, confirmed through both administrative law proceedings and parliamentary testimony.
 
 Detailed methodology, evidence hierarchies, and output-by-output assessments are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Evidence Matrix](analysis/output-assessment-evidence-matrix.xlsx).
 
