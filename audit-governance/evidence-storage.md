@@ -10,6 +10,10 @@ This document explains the approach used to manage evidence sources in this audi
 
 This repository follows open research principles by archiving primary sources central to the audit's findings while citing publicly accessible supporting materials by reference.
 
+## Repository Folder Structure
+
+Primary sources contains original government and regulatory documents obtained through FOI processes, official proceedings, or direct government publication — material that constitutes the evidentiary record of the audit. Reference documents contains supporting analytical and contextual material including peer-reviewed literature, legal case notes, and international standards cited in the audit methodology. Some documents serve both functions; classification reflects their primary role in the audit. This classification aligns with ISO 15489-1:2016 principles distinguishing records that constitute evidence of activities (primary sources) from supporting reference material (reference documents).
+
 ### Archived Locally
 
 - FOI responses and decisions (including OAIC MR22/00538 and AICmr 54) (risk of URL changes/removal)
