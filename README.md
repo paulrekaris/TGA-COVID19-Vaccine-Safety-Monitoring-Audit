@@ -1017,7 +1017,7 @@ For detailed version history and changelog, see [Version History](audit-governan
 
 This audit has been permanently archived and cryptographically timestamped:
 
-- **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (Legal deposit, [AWA archived] (https://webarchive.nla.gov.au/tep/221557), discoverable via [Trove](https://trove.nla.gov.au/))
+- **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (Legal deposit, [AWA archived](https://webarchive.nla.gov.au/tep/221557), discoverable via [Trove](https://trove.nla.gov.au/))
 
 - **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
