@@ -1,0 +1,50 @@
+# Australian Government Policy Documents
+
+This folder contains Australian Government and state government policy documents establishing the governance framework for COVID-19 vaccine safety monitoring.
+
+---
+
+## Australian COVID-19 Vaccination Policy (November 2020)
+
+Commits the Australian Government to active and comprehensive post-market safety monitoring for COVID-19 vaccines and assigns adverse event monitoring "via the TGA" through a national COVID-19 Vaccine Pharmacovigilance Plan.
+
+**Source:** https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy?language=en
+
+**File:** [covid-19-vaccination-australian-covid-19-vaccination-policy.pdf](covid-19-vaccination-australian-covid-19-vaccination-policy.pdf)
+
+---
+
+## AusVaxSafety – Active and Enhanced Vaccine Safety Surveillance for COVID-19 Vaccines in Australia (February 2021)
+
+Describes AusVaxSafety as operating "as part of the national COVID-19 Vaccine Pharmacovigilance Plan, led by the TGA and the Australian Government", complementing TGA and state/territory spontaneous reporting systems.
+
+Used in this audit for estimates of approximately 6.8 million survey responses, approximately 3 million adverse event reports, and approximately 62,000 reports of medical attention.
+
+**Source:** https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia
+
+**File:** [active-and-enhanced-vaccine-safety-surveillance-for-covid-19 vaccines in Australia _ AusVaxSafety-Feb-2021.pdf](active-and-enhanced-vaccine-safety-surveillance-for-covid-19%20vaccines%20in%20Australia%20_%20AusVaxSafety-Feb-2021.pdf)
+
+---
+
+## Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
+
+Formal bilateral agreement between Commonwealth and Victoria establishing the governance framework for vaccine rollout. Demonstrates that the COVID-19 vaccination program operated under structured intergovernmental agreements requiring formal implementation processes and documentation — reinforcing the audit finding that enhanced monitoring was not routine business but required a systematic framework with traceable records.
+
+This directly contradicts Senate testimony by senior TGA officials (9 October 2025) claiming monitoring was managed through "day-to-day processes" rather than systematic tracking against Plan objectives.
+
+**Source:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf
+
+**File:** [vic-vaccine-plan.pdf](vic-vaccine-plan.pdf)
+
+---
+
+## Western Australian COVID-19 Vaccination Program Implementation Plan
+
+Formal bilateral agreement between Commonwealth and Western Australia establishing the governance framework for vaccine rollout. Provides corroborating evidence that the vaccination program operated under structured intergovernmental agreements requiring systematic implementation documentation.
+
+**File:** [wa-vaccine-plan.pdf](wa-vaccine-plan.pdf)
+
+---
+
+**Last Updated:** March 2026  
+**Licence:** CC BY 4.0
