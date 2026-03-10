@@ -32,6 +32,7 @@
 ### Reference Documents
 - Added FOI 25-0166 folder with case decisions, key documents, and analysis
 - Updated references throughout repository for Internet Archive direct upload section
+- Added ICH E2E Guideline and CIOMS VIII to reference-documents folder for offline accessibility
 
 ### Audit Governance
 - Created `regulatory-accountability-audit-framework.md`: principles and safeguards for citizen-led independent verification of public institution commitments using public records and professional audit standards (ISO 19011, ISO 31000, ISO 15489, FAIR data principles). Two-part structure: framework (methodology, evidence hierarchy, burden of falsification, reproducibility, integrity, independence) and safeguards (materiality, contemporaneity, proportional integrity, audit period, disclosure, negative evidence, scalability)
