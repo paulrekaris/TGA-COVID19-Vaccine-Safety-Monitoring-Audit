@@ -1662,8 +1662,8 @@ OAIC-directed search under statutory oversight confirms systematic absence of im
 ### Appendix C: COVID-19 Vaccine Doses Under Provisional Approval
 
 **Scale of Provisional Approval Deployment:**
-- ** 68.4 million doses** administered by 23 July 2023
-- ** 75 million total doses** since February 2021
+- **68.4 million doses** administered by 23 July 2023
+- **75 million total doses** since February 2021
 - **Approximately 91%** administered under provisional approval
 
 **Provisional Approval Timeline:**
