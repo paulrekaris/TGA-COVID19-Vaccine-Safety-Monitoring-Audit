@@ -20,6 +20,7 @@ Primary sources contains original government and regulatory documents obtained t
 - TGA policy documents and guidance (version control)
 - Senate testimony transcripts (completeness)
 - OAIC decisions (permanent record)
+- International standards (ISO, ICH, CIOMS) (freely available; ICH E2E and CIOMS VIII archived locally)
 
 All locally archived materials are additionally protected through:
 - Bitcoin timestamping (cryptographic proof of existence)
@@ -31,7 +32,7 @@ All locally archived materials are additionally protected through:
 
 - Peer-reviewed journal articles (stable DOIs)
 - Legislation and acts (official government sources)
-- International standards (ISO, ICH, CIOMS) (purchasable/library accessible)
+- International standards (ISO) (purchasable/library accessible)
 - Methodology frameworks (Open Access, OSINT, ANAO) (stable institutional URLs)
 
 This approach balances repository size constraints with research reproducibility, ensuring core evidence remains accessible and independently re-checkable while maintaining verifiable citations to supporting materials.
