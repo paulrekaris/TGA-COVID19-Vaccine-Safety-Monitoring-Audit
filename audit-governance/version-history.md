@@ -39,8 +39,9 @@
 - Added 8-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
 - Introduced navigation buttons: NLA/AWA, ZIP download, Version History, Permanent Archive, and Last Commit
 - Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
-- Added SSRN badge after Zenodo DOI badge; updated NLA badge text to Web Archive
-- Added SSRN citation to citation section; added SSRN entry to permanent archive section
+- Added SSRN badge after Zenodo DOI badge; updated NLA badge text to Web 
+- Archive; added SSRN citation to citation section and permanent archive section
+- Updated Preservation Architecture badge from 7-Layer to 8-Layer
 - Updated internal link paths to reflect repository restructure; added local PDF link to Sparke Helmore case note
 - Reformatted evidence base navigation links to inline prose
 - Moved "No Commonwealth oversight initiated" to Accountability section; removed Scale and Context section to avoid duplication
@@ -52,6 +53,9 @@
 - Added Internet Archive direct upload section; updated Internet Archive badge to Full Repository
 - Updated permanent-archive-records with SSRN entry and March 2026 date; replaced PDF with text file
 - Updated NLA record to include Australian Web Archive
+- Added Zenodo section with full details, significance statement, GitHub integration, and concept DOI
+- Fixed AWA heading levels and removed PANDORA reference
+- Updated preservation layer count from seven to eight
 
 ### Traffic Monitoring Workflow
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
