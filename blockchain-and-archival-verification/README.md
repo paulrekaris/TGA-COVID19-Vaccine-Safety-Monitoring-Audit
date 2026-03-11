@@ -63,7 +63,7 @@ The Australian Web Archive (AWA) is a selective web archive operated by the Nati
 
 ### Significance
 
-SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by Google Scholar. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit was accepted following reconsideration of an initial rejection on miscategorisation grounds, confirming the work sits within the policy and governance research domain rather than medical preprint classification.
+SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by Google Scholar. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification.
 
 ---
 
