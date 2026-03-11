@@ -36,20 +36,22 @@
 - Added Prime Minister and Cabinet Handbook citation referencing ministerial obligation to carry out Cabinet-endorsed decisions
 - Added alternative explanations for absent records to Limitations and Falsifiability section
 - Added Archive and Preservation section with NLA monthly snapshot notifications and direct link to AWA; added NLA monthly snapshot of GitHub website to Australian Web Archive (distinct from dataset archiving)
-- Added 7-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
-- Introduced buttons for improved navigation and visibility: NLA/PANDORA, ZIP download, Version History, Permanent Archive, and Last Commit
+- Added 8-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
+- Introduced navigation buttons: NLA/AWA, ZIP download, Version History, Permanent Archive, and Last Commit
 - Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
-- Moved "No Commonwealth oversight initiated" to Accountability section
-- Removed Scale and Context section to avoid duplication; updated TOC accordingly
-- Directs readers to detailed methodology and output-by-output assessments in Main Audit Report and Evidence Matrix
-- Updated NLA badge and archive links; updated folder descriptions and internal link paths to reflect repository restructure
-- Added local PDF link to Sparke Helmore case note in evidence base section
+- Added SSRN badge after Zenodo DOI badge; updated NLA badge text to Web Archive
+- Added SSRN citation to citation section; added SSRN entry to permanent archive section
+- Updated internal link paths to reflect repository restructure; added local PDF link to Sparke Helmore case note
 - Reformatted evidence base navigation links to inline prose
+- Moved "No Commonwealth oversight initiated" to Accountability section; removed Scale and Context section to avoid duplication
 - Format changes and minor corrections throughout (no impact to findings)
 
-### Permanent Archive
+### Blockchain and Archival Verification
+- Added full SSRN section with significance statement; added SSRN to badges, opening paragraph, and Combined Verification bullet list
+- Expanded AWA significance section and removed PANDORA branding
 - Added Internet Archive direct upload section; updated Internet Archive badge to Full Repository
-- Updated Permanent Archive file to include new NLA record of Australian Web Archive
+- Updated permanent-archive-records with SSRN entry and March 2026 date; replaced PDF with text file
+- Updated NLA record to include Australian Web Archive
 
 ### Traffic Monitoring Workflow
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
