@@ -62,7 +62,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 
 ### Significance
 
-Zenodo is a general-purpose open research repository operated by CERN and developed under the European OpenAIRE programme. It provides DOI-backed permanent archiving for research outputs of all kinds. As the primary citable identifier for this audit, the Zenodo DOI ensures permanent, stable academic referencing independent of GitHub or any other platform. CERN backing provides institutional credibility and long-term preservation guarantees. Each major release of the audit receives its own versioned DOI, enabling precise citation of specific versions while maintaining a concept DOI linking all versions.
+Zenodo is a general-purpose open research repository operated by CERN and developed under the European OpenAIRE programme. It provides DOI-backed permanent archiving for research outputs of all kinds. The repository is linked directly to GitHub, enabling automatic archiving of each release with a versioned DOI. As the primary citable identifier for this audit, the Zenodo DOI ensures permanent, stable academic referencing independent of any single platform. CERN backing provides institutional credibility and long-term preservation guarantees. Each major release receives its own versioned DOI, enabling precise citation of specific versions, while a permanent concept DOI (10.5281/zenodo.17731054) links all versions and always resolves to the latest release.
 
 ---
 
