@@ -32,20 +32,37 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 ## National Library of Australia – Australian Web Archive (AWA)
 
 **Archive ID:** 20260205171443  
-**NLA Reference:** AWA/PANDORA selective capture  
+**NLA Reference:** Australian Web Archive (AWA) selective capture  
 **Archive Date:** 5 February 2026, 5:14 PM AEDT  
 **Title:** TGA COVID-19 Vaccine Safety Monitoring Audit: audit-governance branch  
 **Target:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance  
 **Status:** Publicly accessible via webarchive.nla.gov.au and Trove
 
-## Access
+### Access
 
 **Direct Link:** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance  
 **Trove Discovery:** https://trove.nla.gov.au/
 
-## Significance
+### Significance
 
-The Australian Web Archive (AWA) is a selective web archive operated by the National Library of Australia. The NLA selects content according to collection policies and priorities for material of national relevance and significance. Selection for AWA archiving represents an independent institutional assessment that this audit has ongoing research and documentary value as part of Australia's national information heritage. Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
+AWA is a selective web archive operated by the National Library of Australia. The NLA selects content according to collection policies and priorities for material of national relevance and significance. Selection for AWA archiving represents an independent institutional assessment that this audit has ongoing research and documentary value as part of Australia's national information heritage. Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
+
+---
+
+## Zenodo Archive
+
+**DOI:** 10.5281/zenodo.17731054
+**Link:** https://doi.org/10.5281/zenodo.17731054
+**Upload Date:** February 2026
+**Title:** Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
+**Author:** Paul Rekaris
+**Licence:** CC BY 4.0
+**Status:** PUBLISHED — Publicly Accessible
+**Indexed:** Google Scholar, ORCID
+
+### Significance
+
+Zenodo is a general-purpose open research repository operated by CERN and developed under the European OpenAIRE programme. It provides DOI-backed permanent archiving for research outputs of all kinds. As the primary citable identifier for this audit, the Zenodo DOI ensures permanent, stable academic referencing independent of GitHub or any other platform. CERN backing provides institutional credibility and long-term preservation guarantees. Each major release of the audit receives its own versioned DOI, enabling precise citation of specific versions while maintaining a concept DOI linking all versions.
 
 ---
 
@@ -156,7 +173,7 @@ Direct upload to Internet Archive provides an independent, complete copy of the 
 
 This audit is protected by multiple independent verification methods:
 
-- **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (PANDORA/AWA)
+- **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
 - **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
@@ -166,7 +183,7 @@ This audit is protected by multiple independent verification methods:
 
 ### Preservation Standard
 
-The multi-layer archival architecture aligns with ISO 14721:2025 — Open Archival Information System (OAIS) reference model, the international standard for long-term digital preservation. OAIS defines the framework for ingest, archival storage, data management, access, and preservation planning. The seven independent preservation layers documented above implement OAIS principles of multi-copy redundancy, designated-community access, and long-term availability independent of any single platform.
+The multi-layer archival architecture aligns with ISO 14721:2025 — Open Archival Information System (OAIS) reference model, the international standard for long-term digital preservation. OAIS defines the framework for ingest, archival storage, data management, access, and preservation planning. The eight independent preservation layers documented above implement OAIS principles of multi-copy redundancy, designated-community access, and long-term availability independent of any single platform.
 
 https://www.iso.org/standard/87471.html
 
