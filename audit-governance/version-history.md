@@ -8,6 +8,7 @@
 
 ### Analysis
 - Audit results: aligned assessments to exact TGA COVID-19 Vaccine Safety Monitoring Plan strategies and outputs (pp.6-11). Corrected inconsistencies between Plan commitments and evidence evaluations.  Top-line results adjusted slightly but core findings unchanged: 84% of outputs lack full documentation of systematic/enhanced processes as committed.
+- The audit defined two governance outputs—GOV.1 Implementation oversight and GOV.2 Performance measurement—to reflect requirements under the Public Governance, Performance and Accountability Act 2013 s37(2). These align with ISO 19011:2018 5.2.2 (audit programme objectives) and 6.3.1 (audit criteria). Total outputs audited: 19 (previously 20).
 - Added Senate Questions on Notice (December 2025) gap analysis: complete analysis of TGA's December 2025 responses to SQ13–19 including four-layer governance framework mapping, question-by-question assessment table, FOI evidence analysis, prior SQON pattern analysis, and governance failure conclusion
 - Added "Case Study in Transparency" to Compensation Analysis: CDC MMWR report (August 2021) documenting quantified GBS risk (15.6/million in males 50–64), full methodology (observed/expected, 95% CI), and data sources (VAERS, VSD), contrasting with TGA's withheld equivalent analysis
 - Updated file paths throughout to reflect repository restructure
