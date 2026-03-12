@@ -25,7 +25,7 @@
 > 
 > - **Complete archive preserved:** All 150+ reports maintained in National Library of Australia Trove and Internet Archive Wayback Machine enabling independent verification
 > 
-> - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 20 outputs never tracked in public reports despite FOI 4029-03 proving TGA tracked Strategy 2.3 internally for Advisory Committee
+> - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 19 outputs never tracked in public reports despite FOI 4029-03 proving TGA tracked Strategy 2.3 internally for Advisory Committee
 > 
 > - **Central finding validated:** Monitoring activities demonstrably occurred (148 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
@@ -51,7 +51,7 @@ This systematic analysis examines TGA's COVID-19 vaccine safety surveillance rep
 
 **Assessment Framework:** This analysis applies professional audit standards ([ISO 19011:2018](ISO-19011-conformity-assessment-checklist.md)), Commonwealth performance reporting principles (ANAO Better Practice Guidance), and international pharmacovigilance requirements (ICH E2E, WHO/EMA GVP Module IX) to evaluate conformity between stated commitments and documented implementation.
 
-**Context:** Between February 2021 and July 2023, Australia administered 68.4 million COVID-19 vaccine doses under provisional approval—the nation's largest deployment of provisionally approved medicines. Provisional approval was predicated on enhanced post-market surveillance commitments, with the Safety Monitoring Plan specifying 20 outputs across 17 numbered strategies to "strengthen the existing vaccine vigilance system."
+**Context:** Between February 2021 and July 2023, Australia administered 68.4 million COVID-19 vaccine doses under provisional approval—the nation's largest deployment of provisionally approved medicines. Provisional approval was predicated on enhanced post-market surveillance commitments, with the Safety Monitoring Plan specifying 17 numbered strategies to "strengthen the existing vaccine vigilance system."
 
 **Key Question:** Do published surveillance reports demonstrate that the Plan's enhanced monitoring strategies were implemented as distinct, documentable processes beyond routine pharmacovigilance, enabling independent verification of provisional approval conditions?
 
