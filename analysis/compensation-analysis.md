@@ -38,7 +38,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 
 | **Date** | **Event** | **Significance** |
 |----------|-----------|------------------|
-| **Feb 2021** | COVID-19 Vaccine Safety Monitoring Plan published | TGA commits to enhanced pharmacovigilance with 17 numbered strategies and 20 specified outputs |
+| **Feb 2021** | COVID-19 Vaccine Safety Monitoring Plan published | TGA commits to enhanced pharmacovigilance with 17 numbered strategies across 5 specified objectives|
 | **Mar 2021** | First COVID-19 vaccine safety report published | Weekly public reporting begins under provisional approval framework |
 | **Sep 2021** | COVID-19 Vaccine Claims Scheme opens | No-fault compensation scheme established acknowledging potential vaccine injuries |
 | **Sep 2021** | FOI 4029-03: TGA presents Strategy 2.3 methodology to Advisory Committee | Internal demonstration of PRR/MaxSPRT capacity—not published to citizens |
