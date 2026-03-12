@@ -414,7 +414,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 
 **Audit Scope:**
 - **Subject:** Implementation of TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
-- **Outputs:** All 20 Plan-specified enhanced-pharmacovigilance outputs
+- **Outputs:** All 19 Plan-specified enhanced-pharmacovigilance outputs
 - **Evidence base:** FOI responses (2,218 pages; 531 TRIM folders), TGA publications, Senate evidence, relevant academic literature
 - **Time period:** February 2022 – January 2026
 - **Geographic:** National, focusing on Commonwealth-level TGA responsibilities and inter-jurisdictional coordination
@@ -424,6 +424,8 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 - Reliance on FOI obligations and TGA record-keeping practices for completeness of evidence
 
 **Assessment:** Scope clearly defined, with limitations transparently acknowledged (**CONFORMANT**)
+
+**Note**: The Plan specifies 17 numbered strategies across 5 objectives. This audit assessed these 17 outputs plus 2 additional governance outputs (GOV.1 Implementation oversight; GOV.2 Performance measurement) required under standard public administration frameworks (PGPA Act 2013 s37(2); ISO 19011:2018 5.2.3). Total: 19 outputs audited.
 
 ---
 
