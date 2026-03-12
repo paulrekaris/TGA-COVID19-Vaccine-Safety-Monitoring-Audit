@@ -520,7 +520,7 @@ Of the Plan’s 19 specified outputs assessed:
 - Incomplete audit trails
 - Cannot verify against Plan specifications
 
-**Not documented (32%):** 6 outputs
+**Not documented (31%):** 6 outputs
 
 - No evidence located after four years
 - Include critical integration and governance elements
