@@ -187,7 +187,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine "day-to-day processes," contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
 > 
 > #### 3. 84% of Plan outputs not fully documented  
-> Only 3 of 29 specified Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
+> Only 3 of 19 specified Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions, but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
