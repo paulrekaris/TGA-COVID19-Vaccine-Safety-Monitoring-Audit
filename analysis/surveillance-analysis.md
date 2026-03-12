@@ -345,7 +345,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 **Requirement:** "Performance reporting should track outputs against published commitments."
 
-**Finding:** Plan specified 20 outputs, zero tracking in 150+ reports.
+**Finding:** Plan specified 19 strategies across 5 objectives, zero tracking in 150+ reports.
 
 ### Comparative International Practice
 
