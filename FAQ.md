@@ -198,7 +198,7 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 15% of the Plan’s 20 specified outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the Plan’s 19 specified outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
@@ -416,9 +416,9 @@ Four critical categories of documentation cannot be located:
 
 Assessment of the Plan’s 20 specified outputs shows:
 
-- **15% fully documented** (3 of 20 outputs)
-- **55% partially implemented or undocumented** (11 of 20 outputs)
-- **30% not documented at all** (6 of 20 outputs)
+- **16% fully documented** (3 of 19 outputs)
+- **53% partially implemented or undocumented** (10 of 19 outputs)
+- **31% not documented at all** (6 of 19 outputs)
 
 Critical gaps exist in signal detection protocols, multi-source data integration frameworks, governance oversight, and verification documentation for provisional approval conditions.
 
@@ -506,21 +506,21 @@ The absence of implementation records, audit trails, and systematic tracking ind
 
 ### Q23: What percentage of Plan outputs are documented?
 
-Of the Plan’s 20 specified outputs assessed:
+Of the Plan’s 19 specified outputs assessed:
 
-**Fully documented (15%):** 3 outputs
+**Fully documented (16%):** 3 outputs
 
 - Regular safety updates published
 - DAEN database maintained
 - Some public communications delivered
 
-**Partially implemented or undocumented (55%):** 11 outputs
+**Partially implemented or undocumented (53%):** 10 outputs
 
 - Activities may have occurred but systematic tracking absent
 - Incomplete audit trails
 - Cannot verify against Plan specifications
 
-**Not documented (30%):** 6 outputs
+**Not documented (32%):** 6 outputs
 
 - No evidence located after four years
 - Include critical integration and governance elements
