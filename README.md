@@ -121,11 +121,9 @@ This repository has been accepted for preservation by the National Library of Au
 
 ## Purpose
 
-This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 20 specified enhanced-pharmacovigilance outputs over four years (2021-2025).
+This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 17 specified enhanced-pharmacovigilance straetgies over four years (2021-2025).
 
-During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. 
-This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified 
-through records, as required for an enhanced monitoring framework relied upon for provisional approval.
+During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
 The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit 
 examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
@@ -163,7 +161,7 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 
 ## Executive Summary
 
-On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 20 outputs across 17 numbered strategies spanning AEFI collection, signal detection, data integration, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
+On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 19 outputs across 17 numbered strategies spanning AEFI collection, signal detection, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
 
 The Commonwealth signed formal bilateral agreements with Australian states and territories (including Victoria, signed 19 February 2021) that established governance frameworks requiring systematic reporting of vaccine safety and surveillance data through agreed channels and specified protocols, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
 
@@ -188,8 +186,8 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > #### 2. "Day-to-day processes" instead of enhanced monitoring  
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine "day-to-day processes," contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
 > 
-> #### 3. 85% of Plan outputs not fully documented  
-> Only 3 of 20 specified Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
+> #### 3. 84% of Plan outputs not fully documented  
+> Only 3 of 29 specified Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions, but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
@@ -290,9 +288,9 @@ The assessment systematically evaluated all 20 Plan outputs against publicly ava
 
 **Overall implementation**
 
-- **15% Fully implemented (3/20 outputs)** – mainly public‑communication activities with clear documentation including publication of more than 150 weekly COVID‑19 vaccine safety reports.
-- **55% Partially implemented/undocumented (11/20 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
-- **30% Not documented (6/20 outputs)** – no evidence identified in public material or FOI/OAIC processes.
+- **16% Fully implemented (3/19 outputs)** – mainly public‑communication activities with clear documentation including publication of more than 150 weekly COVID‑19 vaccine safety reports.
+- **53% Partially implemented/undocumented (10/19 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
+- **31% Not documented (6/19 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
 **Detailed breakdown by objective:** [View complete conformity assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
 
@@ -648,7 +646,7 @@ This audit applies systematic evidence based principles consistent with:
 
 ### Assessment Output Methodology
 
-Each of the 20 Plan outputs was evaluated using a four-tier evidence standard:
+Each of the 19 Plan outputs was evaluated using a four-tier evidence standard:
 
 **Level 1 (highest):** Published reports, AusPARs, peer-reviewed literature, official databases with independent verification.
 
@@ -805,12 +803,12 @@ All three explanations represent significant accountability failures. The first 
 
 [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
-**Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (January 2026)**
+**Implementation Status Assessment Report: TGA COVID‑19 Vaccine Safety Monitoring Plan (March 2026)**
 
 The comprehensive audit report includes:
 
 - Executive summary with key findings and implications.  
-- Systematic assessment of all 20 Plan outputs across 17 numbered strategies.  
+- Systematic assessment of all 19 Plan outputs across 17 numbered strategies.  
 - Detailed evidence analysis using the four‑tier hierarchy.  
 - Provisional‑Approval Lifecycle Verification Gap   
 - Legislative framework analysis (*Therapeutic Goods Act* ss 22C, 23AA, 29, and related guidance).  
@@ -825,7 +823,7 @@ The comprehensive audit report includes:
 - [FOI Systematic Review](analysis/foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
 - [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – 
-  Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) with 15% conformity rate across 20 Plan outputs, Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
+  Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) with 16% conformity rate across 19 Plan outputs, Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
 
 - [Search Methodology Comparison](analysis/search-methodology-comparison.md) – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed document-title searches (8 generic terms), documenting gaps in signal detection, AusVaxSafety coordination, ICMRA sharing, and pharmacovigilance terminology. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
 
