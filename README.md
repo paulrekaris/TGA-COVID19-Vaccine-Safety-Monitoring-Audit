@@ -284,8 +284,9 @@ Each plausible explanation points to a serious failure in implementation, docume
 
 ### Implementation Status by the Numbers
 
-The assessment systematically evaluated all 19 Plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance.[^plan-scope]
-**Overall implementation**
+The assessment systematically evaluated all 19 Plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
+
+**Overall implementation**          
 
 - **16% Fully implemented (3/19 outputs)** – mainly public‑communication activities with clear documentation including publication of more than 150 weekly COVID‑19 vaccine safety reports.
 - **53% Partially implemented/undocumented (10/19 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
