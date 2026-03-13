@@ -47,6 +47,7 @@
 - Updated internal link paths to reflect repository restructure; added local PDF link to Sparke Helmore case note
 - Reformatted evidence base navigation links to inline prose
 - Moved "No Commonwealth oversight initiated" to Accountability section; removed Scale and Context section to avoid duplication
+- Added README scope footnote clarifying 17 Plan strategies + 2 governance outputs = 19 total audited (ISO 19011:2018 6.3.1/5.2.2, PGPA s37(2))
 - Format changes and minor corrections throughout (no impact to findings)
 
 ### Blockchain and Archival Verification
