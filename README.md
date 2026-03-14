@@ -199,7 +199,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 20 Plan outputs.
 >
 > #### 7. Safety Monitoring Plan did not meet auditability standards
->The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance. It lacked numbered outputs and an implementation framework, conflating strategies >with deliverables. Analysis identified approximately 36 discrete outputs across five strategies — the audit maintained a conservative scope of 19 specified outputs for methodological rigour and >defensibility. The Plan's structural failure to define auditable outputs means the absence of an implementation trail reflects a design failure as much as an implementation failure.
+>The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables. Analysis identified approximately 36 discrete outputs across five strategies — the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. The Plan's structural failure to define auditable outputs means the absence of an implementation trail reflects a design failure as much as an implementation failure.
 
 ## The Accountability Standard
 
