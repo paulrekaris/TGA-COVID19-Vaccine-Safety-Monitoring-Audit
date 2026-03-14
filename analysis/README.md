@@ -4,13 +4,13 @@ This directory contains the main audit report and supporting analysis materials.
 
 ## Main Audit Report
 
-- [Documentation Gap Analysis Audit Report](documentation-gap-analysis-audit-report.pdf) – Full audit report with systematic assessment of all 20 Plan outputs, evidence hierarchy, and implementation findings
+- [Documentation Gap Analysis Audit Report](documentation-gap-analysis-audit-report.pdf) – Full audit report with systematic assessment of all 19 Plan outputs, evidence hierarchy, and implementation findings
 
 ## Supporting Analysis
 
 - [ISO 19011 Conformity Assessment Checklist](ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit framework assessment with ANAO criteria, evidence hierarchy, and non-conformity ratings
 
-- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 20 Plan outputs with sources checked, findings, documentation gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions. Excel workbook format with multiple sheets.
+- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 Plan outputs with sources checked, findings, documentation gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions. Excel workbook format with multiple sheets.
 
 - [Surveillance Analysis](surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
 
