@@ -1064,7 +1064,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 
 **Detailed assessment of all 19 Plan outputs by objective:**
 
-| Objective | Output ID | Output Description | Status | Evidence Basis |
+| Strategy | Output ID | Output Description | Status | Evidence Basis |
 |-----------|-----------|-------------------|--------|----------------|
 | **1: Enhanced AEFI Reporting** | 1.1 | Enhanced reporting of AEFI | ✓ Fully | Website content, 150+ reports published |
 | | 1.2 | Enhanced AEFI reporting forms | ✓ Fully | Updated forms with COVID-19 fields publicly available |
@@ -1087,6 +1087,8 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | | GOV.2 | Performance measurement | ✗ Not Doc | Zero metrics; 150+ reports contain zero Plan references |
 | | **TOTAL** | **19 outputs assessed** | **3 ✓ Fully / 10 ◐ Partial / 6 ✗ Not Doc** | **16/19 (84%) partially or not documented** |
 
+**Note:** Output descriptions are summarised for readability. Full verbatim language from the Plan is available in the detailed output assessment evidence matrix
+ 
 ### Summary by Objective
 
 **Conformity rates show systematic implementation failure for core enhanced monitoring processes:**
