@@ -678,7 +678,7 @@ Commits the Australian Government to active and comprehensive post‑market safe
 
 **TGA COVID‑19 Vaccine Safety Monitoring Plan (February 2021)**  
 https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf     
-Sets out 20 specific outputs across 17 numbered strategies as TGA's operational implementation of the enhanced‑monitoring expectation for provisionally approved COVID‑19 vaccines.
+Sets out 19 specific outputs across 17 numbered strategies as TGA's operational implementation of the enhanced‑monitoring expectation for provisionally approved COVID‑19 vaccines.
 
 **COVID-19 vaccine safety reports**
 https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
