@@ -89,6 +89,7 @@ This is **NOT an ISO certification audit**. ISO 19011 is a guideline standard fo
 **Key methodological note** 
 
 This audit does not claim to have examined every output in the Plan. It examined 19 specified outputs. The finding that 16 of these 19 (84%) are partially or not documented represents a failure within the audited scope—and given the systemic nature of the gaps, likely indicates broader documentation failure across the Plan's full 36 outputs.
+The Plan does not number its outputs and conflates strategies with deliverables; this audit therefore reconstructs 19 discrete commitments across the five strategies as the defined scope, with the full document containing approximately 36 outputs. The TGA COVID-19 Vaccine Saftey Monitoring Plan does not meet ISO 19011:2018 auditability principles or ANAO better practice guidance for policy implementation. The Plan does not number its outputs and conflates strategies with deliverables; this audit therefore reconstructs 19 discrete commitments across the five strategies as the defined scope, with the full document containing approximately 36 outputs. See Key Finding: Safety Plan design and accountability
 
 ---
 
@@ -609,6 +610,9 @@ TGA's September 2024 OAIC-directed searches excluded Advisory Committee containe
 
 **6. Compensation Barrier:**
 Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) approved. Remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal investigation documentation TGA holds for exact injury patterns (myocarditis, GBS, menstrual disorders) that could support causation assessments on "balance of probabilities" standard.
+
+**7. Key Finding: Safety Plan design and accountability**
+The Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance for policy implementation. It did not number its outputs, conflated strategies with deliverables, and did not include an implementation framework. As a result, the Plan's structure did not support systematic tracking of the TGA's commitments. The TGA therefore lacked a built-in mechanism to monitor its own performance against the Plan from the outset.
 
 **Comprehensive Analysis:** [Surveillance Data Analysis](surveillance-analysis.md) provides complete sampling methodology, detailed report assessment, data source integration analysis, ICH E2E compliance evaluation, and comparative international practice review
 
