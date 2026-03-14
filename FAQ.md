@@ -8,7 +8,7 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 
 ### Full evidence
 
-- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 20 Safety Plan outputs, and complete references
+- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 19 Safety Plan outputs, and complete references
 - [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
 - [Reference Documents](reference-documents/) - All key documents including Safety Plan, vaccination policies, Senate testimony, FOI materials, and primary sources
@@ -74,7 +74,7 @@ No records demonstrating that enhanced monitoring conditions were assessed and m
 No systematic documentation of how 6.8M+ surveys capturing 3M+ adverse event reports were integrated into TGA pharmacovigilance workflows.
 
 **Governance and Performance Reporting**  
-Only 3 of 20 plan outputs (15%) fully documented; no evidence of systematic tracking against plan objectives.
+Only 3 of 19 plan outputs (16%) fully documented; no evidence of systematic tracking against plan objectives.
 
 -----
 
@@ -198,7 +198,7 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 16% of the Plan’s 19 specified outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the Plan’s 19 outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
@@ -275,7 +275,7 @@ This was Cabinet-endorsed policy requiring TGA to develop and implement an opera
 
 ### Q8: What was TGA’s operational plan?
 
-In February 2021, TGA published the COVID-19 Vaccine Safety Monitoring Plan as the operational implementation of the Cabinet commitment. It specified 20 outputs across 5 strategic areas with 17 numbered sub-activities, defining the enhanced monitoring framework required for provisionally approved vaccines. This was published as a formal plan, not internal guidance.
+In February 2021, TGA published the COVID-19 Vaccine Safety Monitoring Plan as the operational implementation of the Cabinet commitment. It specified 5 objectives with 17 numbered strategies, defining the enhanced monitoring framework required for provisionally approved vaccines. This was published as a formal plan, not internal guidance.
 
 ### Q9: What was AusVaxSafety’s enhanced role in the national vaccination rollout?
 
@@ -414,7 +414,7 @@ Four critical categories of documentation cannot be located:
 
 ### Q14: How extensive is the documentation gap?
 
-Assessment of the Plan’s 20 specified outputs shows:
+Assessment of the Plan’s 19 outputs shows:
 
 - **16% fully documented** (3 of 19 outputs)
 - **53% partially implemented or undocumented** (10 of 19 outputs)
