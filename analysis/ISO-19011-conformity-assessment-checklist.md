@@ -1150,7 +1150,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 
 **Complete output-by-output evidence trail:**
 
-**[Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx)** – Detailed evidence matrix for all 20 outputs with sources, findings, gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions.
+[Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx) – Detailed evidence matrix for all 20 outputs with sources, findings, gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions.
 
 ---
 
@@ -1194,8 +1194,8 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 
 **Rationale:**
 - 7 major non-conformities documented with objective evidence
-- Only 15% of Plan outputs have fully traceable documentation
-- 85% of outputs either partially documented or not evidenced
+- Only 16% of Plan outputs have fully traceable documentation
+- 84% of outputs either partially documented or not evidenced
 - Auditee's own testimony confirms absence of systematic implementation
 - Gap between formal commitments and operational delivery is substantial and systematic
 - OAIC independent validation of documentation concerns
