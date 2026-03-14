@@ -1042,9 +1042,9 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 
 | Finding Category | Count | Percentage |
 |-----------------|-------|-----------|
-| **Fully Documented (Conforming)** | 3 outputs | 15% |
-| **Partially Documented** | 11 outputs | 55% |
-| **Not Documented (Non-Conforming)** | 6 outputs | 30% |
+| **Fully Documented (Conforming)** | 3 outputs | 16% |
+| **Partially Documented** | 10 outputs | 53% |
+| **Not Documented (Non-Conforming)** | 6 outputs | 31% |
 
 **Major Non-Conformities Identified:** 7
 1. Systematic tracking mechanism absent
@@ -1097,12 +1097,11 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 |-----------|---------------|---------|-----------|-----------|--------------|
 | **1: AEFI Collection** | 5 | 2 | 3 | 0 | 40% |
 | **2: Signal Detection** | 8 | 0 | 4 | 4 | 0% |
-| **3: Communication** | 1 | 1 | 0 | 0 | 100% |
-| **4: Integration** | 1 | 0 | 1 | 0 | 0% |
-| **5: Research** | 1 | 0 | 1 | 0 | 0% |
-| **Cross-cutting: Collaboration** | 2 | 0 | 2 | 0 | 0% |
+| **3: Regulatory Action** | 1 | 0 | 1 | 0 | 0% |
+| **4: Communication** | 1 | 1 | 0 | 0 | 1000% |
+| **5: Collaborations** | 2 | 0 | 2 | 0 | 0% |
 | **Cross-cutting: Governance** | 2 | 0 | 0 | 2 | 0% |
-| **TOTAL** | **20** | **3** | **11** | **6** | **15%** |
+| **TOTAL** | **19** | **3** | **10** | **6** | **15%** |
 
 ### Critical Gap Analysis
 
@@ -1121,7 +1120,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 - 150+ public reports contain zero Plan framework references across 33 months
 
 **3. Enhanced vs Routine Distinction: Cannot Be Verified**
-- 17 of 20 outputs (85%) cannot distinguish enhanced from routine processes
+- 17 of 19 outputs (84%) cannot distinguish enhanced from routine processes
 - Plan committed to enhanced monitoring but framework implementation not documented
 - Activities clearly occurred (140K DAEN, 6.8M surveys, 148 signals) but systematic Plan implementation not evidenced
 
