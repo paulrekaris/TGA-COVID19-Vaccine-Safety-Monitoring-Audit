@@ -1061,33 +1061,33 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 - Gap between public messaging and policy commitments requires clarification
 
 ---
-
 ### Output-by-Output Breakdown
 
-**Detailed assessment of all 20 Plan outputs by objective:**
+**Detailed assessment of all 19 Plan outputs by objective:**
 
-| Objective | Output # | Output Description | Status | Evidence Basis |
-|-----------|----------|-------------------|--------|----------------|
-| **1: AEFI Collection** | 1.1 | Enhanced reporting of AEFI | ✓ Fully | Website content, 150+ reports published |
+| Objective | Output ID | Output Description | Status | Evidence Basis |
+|-----------|-----------|-------------------|--------|----------------|
+| **1: Enhanced AEFI Reporting** | 1.1 | Enhanced reporting of AEFI | ✓ Fully | Website content, 150+ reports published |
 | | 1.2 | Enhanced AEFI reporting forms | ✓ Fully | Updated forms with COVID-19 fields publicly available |
 | | 1.3 | Enhanced AEFI report sharing | ◐ Partial | State data in reports but no sharing protocols documented |
 | | 1.4 | Enhanced AEFI data capabilities | ◐ Partial | 140K+ reports processed but no enhanced preparation documented |
 | | 1.5 | Enhanced AEFI report escalation | ◐ Partial | 148 signals investigated but no COVID-specific protocols documented |
-| **2: Signal Detection** | 2.1 | Understanding safety profiles | ◐ Partial | AESI list used but expected rates methodology not documented |
-| | 2.2 | Protocols for investigating AEFI | ✗ Not Doc | OAIC searches (531 containers): zero COVID-specific protocols found |
-| | 2.3 | Enhanced cumulative data reviews | ✗ Not Doc | FOI 4029-03 shows ACV presentation but zero public outputs |
+| **2: Enhanced Signal Detection** | 2.1 | Understanding COVID-19 vaccine safety profiles | ◐ Partial | AESI list used but expected rates methodology not documented |
+| | 2.2 | Enhanced capacity for investigating individual AEFI reports | ✗ Not Doc | OAIC searches (531 containers): zero COVID-specific protocols found |
+| | 2.3 | Enhanced cumulative data reviews for each vaccine | ✗ Not Doc | FOI 4029-03 shows ACV presentation but zero public outputs |
 | | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys but no TGA coordination protocols documented |
 | | 2.5 | Clinical studies and reports | ✗ Not Doc | OAIC searches: zero enhanced sponsor report processes |
 | | 2.6 | Environmental scanning | ✗ Not Doc | OAIC searches: zero systematic scanning processes |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation but no systematic sharing protocols |
-| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; FOI 4029-05 shows VSIG operational but child deaths not referred for expert review |
-| **3: Communication** | 3.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
-| **4: Integration** | 4.1 | Data integration | ◐ Partial | Multiple sources accessed but no integration methodology |
-| **5: Research** | 5.1 | Contribution to research | ◐ Partial | OAIC: Objective 5 "unable to meaningfully interpret" |
-| **Cross-cutting** | COLLAB.1 | National collaborations | ◐ Partial | State data visible but no formal frameworks documented |
-| | COLLAB.2 | International collaborations | ◐ Partial | ICMRA participation but no systematic frameworks |
-| | GOV.1 | Implementation oversight | ✗ Not Doc | Senate: "never systematically tracked"; zero governance docs |
+| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; FOI 4029-05 shows VSIG operational but child deaths not referred |
+| **3: Regulatory Action** | 3.1 | Regulatory and programmatic action | ◐ Partial | 57 actions taken but no documented rapid response framework |
+| **4: Communications** | 4.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
+| **5: Collaborations** | 5.1 | National stakeholder collaborations | ◐ Partial | State data visible but no formal frameworks documented |
+| | 5.2 | International collaborations | ◐ Partial | ICMRA participation but no systematic frameworks |
+| **Governance** | GOV.1 | Implementation oversight | ✗ Not Doc | Senate: "never systematically tracked"; zero governance docs |
 | | GOV.2 | Performance measurement | ✗ Not Doc | Zero metrics; 150+ reports contain zero Plan references |
+| | **TOTAL** | **19 outputs assessed** | **3 ✓ Fully / 10 ◐ Partial / 6 ✗ Not Doc** | **16/19 (84%) partially or not documented** |
+
 
 ### Summary by Objective
 
