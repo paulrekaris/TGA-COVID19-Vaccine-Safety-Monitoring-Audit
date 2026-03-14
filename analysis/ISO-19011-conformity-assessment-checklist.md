@@ -962,10 +962,11 @@ The audit identifies systematic gaps between:
 ### Key Conclusions
 
 **1. Gap Between Commitment and Delivery**
-- TGA published comprehensive Safety Monitoring Plan with 17 numbered strategies and 17 specified outputs
-- TGA admits monitoring was "day-to-day processes" never systematically tracked
-- No evidence formal commitments were operationally distinct from routine processes
-- Only 15% of outputs have fully traceable documentation
+- TGA published a comprehensive Safety Monitoring Plan with 17 numbered strategies and 17 specified outputs
+- Plan design violated fundemental ISO/ANAO principles: unnumbered outputs, no implementation framework—structure precluded systematic tracking
+- TGA admits monitoring was conducted through "day-to-day processes" never systematically tracked against the Plan
+- No evidence that formal Plan commitments were operationally distinct from routine pharmacovigilance processes
+- Only 3 of 19 outputs (16%) have fully traceable documentation; 16 (84%) are partially or not documented
 
 **2. Contradictory Documentary Evidence**
 - Multiple contradictory FOI positions on document existence and classification
