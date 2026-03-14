@@ -1738,6 +1738,8 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 **Overall Finding:** NON-CONFORMING (7 major non-conformities)     
 **Audit Status:** Complete   
 
+**Audit Updated:** 14 March 2026
+
 ---
 
 *This audit was conducted using ISO 19011:2018 guidelines, ANAO audit standards, and OSINT methodology to provide systematic, independent, and documented assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. This is NOT an ISO certification audit. All evidence, methods, and findings are publicly available for verification and critique.*
