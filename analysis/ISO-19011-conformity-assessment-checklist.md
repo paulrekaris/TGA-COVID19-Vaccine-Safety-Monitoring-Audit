@@ -86,6 +86,10 @@ This ISO 19011 audit complements the comprehensive documentation gap analysis by
 
 This is **NOT an ISO certification audit**. ISO 19011 is a guideline standard for conducting audits, not a certifiable standard. This audit uses ISO 19011 methodology to assess TGA's monitoring system but does not certify TGA to any standard. The framework ensures professional audit principles (independence, evidence-based approach, transparency) are systematically applied.
 
+**Key methodological note** 
+
+This audit does not claim to have examined every output in the Plan. It examined 19 specified outputs. The finding that 16 of these 19 (84%) are partially or not documented represents a failure within the audited scope—and given the systemic nature of the gaps, likely indicates broader documentation failure across the Plan's full 36 outputs.
+
 ---
 
 ## Introduction
@@ -877,7 +881,7 @@ The TGA published the COVID-19 Vaccine Safety Monitoring Plan (February 2021), s
 **The systematic absence of implementation documentation across multiple independent verification mechanisms constitutes an accountability gap under Commonwealth frameworks:**
 
 **What cannot be verified:**
-- Whether the 20 Plan outputs were systematically implemented as distinct from routine processes
+- Whether the 17 Plan outputs were systematically implemented as distinct from routine processes
 - How monitoring was "enhanced" beyond business-as-usual pharmacovigilance
 - Whether provisional approval conditions requiring enhanced monitoring were met
 - What governance mechanisms tracked delivery against Cabinet-endorsed commitments
@@ -912,7 +916,7 @@ Not that monitoring didn't occur (activities clearly happened: 140,000+ DAEN rep
 **TGA may address these findings by:**
 
 1. **Producing documentation demonstrating systematic implementation:**
-   - Progress reports tracking 20 outputs across rollout period
+   - Progress reports tracking 17 outputs across rollout period
    - Governance committee minutes documenting Plan oversight
    - Performance metrics assessing delivery against commitments
    - Integration protocols between surveillance systems
@@ -954,7 +958,7 @@ The audit identifies systematic gaps between:
 ### Key Conclusions
 
 **1. Gap Between Commitment and Delivery**
-- TGA published comprehensive Safety Monitoring Plan with 17 numbered strategies and 20 specified outputs
+- TGA published comprehensive Safety Monitoring Plan with 17 numbered strategies and 17 specified outputs
 - TGA admits monitoring was "day-to-day processes" never systematically tracked
 - No evidence formal commitments were operationally distinct from routine processes
 - Only 15% of outputs have fully traceable documentation
