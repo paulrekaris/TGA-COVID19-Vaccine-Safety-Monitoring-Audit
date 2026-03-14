@@ -7,7 +7,7 @@
 
 **Overall Finding:** NON-CONFORMING – 7 major non-conformities identified
 
-**Conformity Status:** Only 3 of 20 Plan outputs (15%) fully documented; 17 outputs (85%) partially or not documented
+**Conformity Status:** Only 3 of 19 Plan outputs (16%) fully documented; 16 outputs (84%) partially or not documented
 
 **Major Non-Conformities:**
 1. Systematic tracking mechanism absent – TGA admits monitoring never systematically tracked against Plan
@@ -161,9 +161,10 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 **Evidence Quality Principle:** Findings rely primarily on Tier 1-3 evidence (TGA's own searches, official testimony, formal government records), with Tier 4 providing contextual support. This hierarchy ensures conclusions are based on highest-quality, independently verifiable sources rather than interpretation or inference.
 
 **Audit Context:**
-- 68.4 million COVID-19 vaccine doses administered under provisional approval (91.2% of total rollout)
-- Provisional approval predicated on enhanced post-market surveillance and "active and comprehensive" monitoring commitments
-- The February 2021 Plan specifies 20 enhanced-pharmacovigilance outputs across 17 numbered strategies
+- 68.4 million COVID-19 vaccine doses administered under provisional approval (91.2% of Australia's total rollout)
+- Provisional approval predicated on enhanced post-market surveillance and 'active and comprehensive' monitoring commitments
+- The February 2021 Plan specifies 17 discrete enhanced-pharmacovigilance outputs, each corresponding to one of 17 numbered strategies
+- Applying ISO 19011:2018 audit principles, two additional governance and performance measurement outputs were specified for assessment: systematic oversight mechanisms to track implementation, and   KPIs to evaluate delivery
 - National Cabinet and bilateral agreements formalised monitoring and reporting obligations
 
 ---
@@ -319,7 +320,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 
 ### Primary Criteria
 
-1. **TGA COVID-19 Vaccine Safety Monitoring Plan** (February 2021) – 20 specified outputs across 17 numbered strategies
+1. **TGA COVID-19 Vaccine Safety Monitoring Plan** (February 2021) – The audit assessed 19 outputs: the 17 pharmacovigilance outputs specified across the Plan's 17 numbered strategies, plus two related governance outputs.
 2. **TGA's provisional registration framework** for COVID-19 vaccines (enhanced post-market monitoring expectations)
 3. **International pharmacovigilance standards** cited by TGA: ICH E2E, CIOMS guidance
 4. **ISO 19011:2018** – principles and requirements for auditing management systems
@@ -377,7 +378,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 ### COMPLETED: Establish Objectives of the Audit Programme
 
 **Audit Objectives:**
-1. Determine the extent to which TGA has documented implementation of each of the 20 Plan outputs
+1. Determine the extent to which TGA has documented implementation of each of the 19 Plan outputs including two governance outputs 
 2. Identify conformities, partial implementations, and non-conformities in Plan execution
 3. Quantify documentation coverage (fully, partially, or not evidenceable outputs) to inform oversight bodies
 4. Provide an open, reproducible evidence base for parliamentary, regulatory and academic scrutiny
@@ -414,7 +415,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 
 **Audit Scope:**
 - **Subject:** Implementation of TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
-- **Outputs:** All 19 Plan-specified enhanced-pharmacovigilance outputs
+- **Outputs:** All 17 enhanced-pharmacovigilance outputs specified across the Plan's 17 numbered strategies, plus two governance outputs—19 in total
 - **Evidence base:** FOI responses (2,218 pages; 531 TRIM folders), TGA publications, Senate evidence, relevant academic literature
 - **Time period:** February 2022 – January 2026
 - **Geographic:** National, focusing on Commonwealth-level TGA responsibilities and inter-jurisdictional coordination
@@ -616,8 +617,8 @@ Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) approved.
 ### Quantitative Summary
 
 **Documentation Coverage:**
-- **3 of 20 Plan outputs (15%)** have fully traceable, verifiable documentation
-- **17 of 20 outputs (85%)** are only partially documented or have no identifiable implementation records
+- **3 of 19 Plan outputs (16%)** have fully traceable, verifiable documentation
+- **16 of 19 outputs (84%)** are only partially documented or have no identifiable implementation records
 
 **Evidence Base Validation:**
 - **Systematic FOI review:** 500+ releases examined; repository contains all available evidence
@@ -734,7 +735,7 @@ Consistency between public communications and formal policy commitments; transpa
 
 **Audit Evidence:**
 - **February 3, 2021 public video:** COVID vaccines "will be no different" from routine surveillance
-- **February 2021 Safety Plan:** Specified "enhanced" monitoring with 17 numbered strategies and 20 outputs
+- **February 2021 Safety Plan:** Specified "enhanced" monitoring across 17 strategies, comprising 19 outputs including pharmacovigilance, governance and performance measures.
 - **October 2025 TGA Senate testimony:** Confirms monitoring was routine "day-to-day processes" never systematically tracked
 - **National Cabinet (November 2020):** Endorsed "active and comprehensive" monitoring
 - **Bilateral agreements (February 2021):** Required enhanced monitoring and systematic reporting
@@ -824,10 +825,10 @@ Under Commonwealth accountability frameworks, the burden rests with government e
 
 **Application to This Audit:**
 
-TGA published the COVID-19 Vaccine Safety Monitoring Plan (February 2021) specifying 20 outputs across 17 numbered strategies as the operational framework for enhanced monitoring under provisional approval.
+The TGA published the COVID-19 Vaccine Safety Monitoring Plan (February 2021), specifying 17 outputs across 17 numbered pharmacovigilance strategies as the operational framework for enhanced monitoring under provisional approval.
 
 **The burden rests with TGA to demonstrate:**
-- Systematic implementation of the 20 specified outputs
+- Systematic implementation of the 17 specified outputs
 - Governance mechanisms tracking progress against Plan commitments
 - Performance measurement enabling assessment of delivery
 - Documentation enabling independent verification of enhanced monitoring claims
