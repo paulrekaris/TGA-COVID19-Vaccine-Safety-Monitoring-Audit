@@ -1088,8 +1088,22 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | | GOV.2 | Performance measurement | ✗ Not Doc | Zero metrics; 150+ reports contain zero Plan references |
 | | **TOTAL** | **19 outputs assessed** | **3 ✓ Fully / 10 ◐ Partial / 6 ✗ Not Doc** | **16/19 (84%) partially or not documented** |
 
-
 ### Summary by Objective
+
+**Conformity rates show systematic implementation failure for core enhanced monitoring processes:**
+
+| Objective | Total Outputs | Fully ✓ | Partial ◐ | Not Doc ✗ | Conformity % |
+|-----------|---------------|---------|-----------|-----------|--------------|
+| **1: Enhanced AEFI Reporting** | 5 | 2 | 3 | 0 | 40% |
+| **2: Enhanced Signal Detection** | 8 | 0 | 4 | 4 | 0% |
+| **3: Regulatory Action** | 1 | 0 | 1 | 0 | 0% |
+| **4: Communications** | 1 | 1 | 0 | 0 | 100% |
+| **5: Collaborations** | 2 | 0 | 2 | 0 | 0% |
+| **Governance** | 2 | 0 | 0 | 2 | 0% |
+| **TOTAL** | **19** | **3** | **10** | **6** | **16%** |
+
+*Note: Conformity % = Fully documented outputs only. 16 of 19 outputs (84%) are partially or not documented.*
+
 
 **Conformity rates show systematic implementation failure for core enhanced monitoring processes:**
 
