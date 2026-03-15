@@ -1,5 +1,19 @@
 # Version Control Policy
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [Guiding Standards](#guiding-standards)
+- [Implementation](#implementation)
+- [Release Workflow](#release-workflow)
+  - [Version Numbering Scheme](#version-numbering-scheme)
+  - [Standard Release Process](#standard-release-process)
+  - [Rationale for Post-Release Verification](#rationale-for-post-release-verification)
+  - [Verification Efficiency Principle](#verification-efficiency-principle)
+  - [Implementation in Practice](#implementation-in-practice)
+- [Rationale](#rationale)
+- [References](#references)
+
 ## Purpose
 This audit maintains detailed version history reflecting quality management, records management, and research transparency standards applied to regulatory accountability investigation.
 
