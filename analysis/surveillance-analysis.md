@@ -434,7 +434,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Date:** 14 January 2026
+**Last updated:** 14 January 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
