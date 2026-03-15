@@ -1,5 +1,25 @@
 # Compensation Analysis: COVID-19 Vaccine Claims Scheme and TGA Documentation Gaps
 
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [The Core Problem: Causation and Information Asymmetry](#the-core-problem-causation-and-information-asymmetry)
+- [Quantitative Evidence](#quantitative-evidence)
+  - [Claims Data](#claims-data)
+  - [TGA Surveillance Data](#tga-surveillance-data)
+- [Timeline of Key Events](#timeline-of-key-events)
+- [Case Study Evidence](#case-study-evidence)
+- [The Documented Transparency Failure](#the-documented-transparency-failure)
+- [Specific Examples of Information Asymmetry](#specific-examples-of-information-asymmetry)
+- [Comparative International Transparency](#comparative-international-transparency)
+- [Analysis and Implications](#analysis-and-implications)
+- [The Catch-22 Logic Chain](#the-catch-22-logic-chain)
+- [The Contradiction Matrix](#the-contradiction-matrix)
+- [Proposed Evidence-Based Reforms](#proposed-evidence-based-reforms)
+- [Limitation](#limitation)
+- [Conclusion](#conclusion)
+- [References](#references)
+
 ## Executive Summary
 
 Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (10.5% approval rate) before closure in September 2024. The Therapeutic Goods Administration (TGA) investigated 148 COVID-19 vaccine safety signals and took 57 regulatory or information actions, but withholds associated investigation documentation. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million Australians.
