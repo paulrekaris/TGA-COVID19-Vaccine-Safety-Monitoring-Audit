@@ -2,16 +2,9 @@
 
 ## Documentation Gap Analysis and Conformity Assessment
 
-## Table of Contents
-
-### Overview
+# Table of Contents
 
 - [Executive Summary](#executive-summary)
-  - [Major Non-Conformities](#major-non-conformities)
-  - [Key Supporting Evidence](#key-supporting-evidence)
-
-### Audit Framework
-
 - [Purpose of This ISO 19011 Audit](#purpose-of-this-iso-19011-audit)
   - [What This Document Is](#what-this-document-is)
   - [Why This ISO 19011 Framework](#why-this-iso-19011-framework)
@@ -39,9 +32,6 @@
 - [Audit Criteria](#audit-criteria)
   - [Primary Criteria](#primary-criteria)
   - [Secondary / Contextual Criteria](#secondarycontextual-criteria)
-
-### Audit Programme Management
-
 - [Managing the Audit Programme](#managing-the-audit-programme)
   - [Establish Competence of Audit Programme Manager](#completed-establish-competence-of-audit-programme-manager)
   - [Establish Context of the Audit Programme](#completed-establish-context-of-the-audit-programme)
@@ -49,9 +39,6 @@
   - [Determine Risks and Opportunities](#completed-determine-risks-and-opportunities-of-the-audit-programme)
   - [Establish Extent and Scope](#completed-establish-extent-and-scope-of-the-audit-programme)
   - [Establish Audit Programme Resources](#completed-establish-audit-programme-resources)
-
-### Evidence Collection and Analysis
-
 - [Audit Evidence Collection and Analysis](#audit-evidence-collection-and-analysis)
   - [Evidence Collection Methodology](#evidence-collection-methodology)
   - [Source 1: TGA Freedom of Information Responses](#source-1-tga-freedom-of-information-responses)
@@ -61,9 +48,6 @@
   - [Source 5: Comparative Search Methodology Analysis](#source-5-comparative-search-methodology-analysis)
   - [Source 6: Systematic FOI Disclosure Log Review](#source-6-systematic-foi-disclosure-log-review)
   - [Source 7: Public Surveillance Reports Analysis](#source-7-public-surveillance-reports-analysis)
-
-### Audit Findings
-
 - [Audit Findings](#audit-findings)
   - [Quantitative Summary](#quantitative-summary)
   - [Finding 1: Systematic Tracking Mechanism](#finding-1-systematic-tracking-mechanism)
@@ -73,9 +57,6 @@
   - [Finding 5: AusVaxSafety Signal Pathways](#finding-5-ausvaxsafety-signal-pathways)
   - [Finding 6: Public Communication Versus Policy Commitments](#finding-6-public-communication-versus-policy-commitments)
   - [Finding 7: Expert Warnings Not Systematically Addressed](#finding-7-expert-warnings-not-systematically-addressed)
-
-### Accountability Framework
-
 - [Burden of Proof and Accountability Framework](#burden-of-proof-and-accountability-framework)
   - [Commonwealth Accountability Standards](#commonwealth-accountability-standards)
   - [Burden of Proof Allocation](#burden-of-proof-allocation)
@@ -84,9 +65,6 @@
   - [ISO 19011 Compliance](#iso-19011-compliance)
   - [Addressing the Findings](#addressing-the-findings)
   - [Critical Point](#critical-point)
-
-### Conclusions and Assessment
-
 - [Audit Conclusions](#audit-conclusions)
   - [Overall Conformity Assessment](#overall-conformity-assessment)
   - [Key Conclusions](#key-conclusions)
@@ -110,9 +88,6 @@
   - [For Systemic Improvement](#for-systemic-improvement)
 - [ISO Certification Status](#iso-certification-status)
 - [Audit Completion](#audit-completion)
-
-### References and Appendices
-
 - [Audit Methodology and Sources](#audit-methodology-and-sources)
 - [References](#references)
   - [Primary Sources](#primary-sources)
@@ -126,7 +101,6 @@
 - [Appendix D: FOI and OAIC Timeline](#appendix-d-foi-and-oaic-timeline)
   - [Table D.1: Comprehensive FOI and OAIC Timeline](#table-d1-comprehensive-foi-and-oaic-timeline)
   - [Table D.2: Summary of FOI and OAIC Escalation](#d2-summary-of-foi-and-oaic-escalation---timeline-analysis)
-
 
 ## Executive Summary
 
