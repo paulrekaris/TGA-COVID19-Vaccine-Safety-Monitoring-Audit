@@ -90,6 +90,9 @@
 - Kebab-case file naming applied throughout including media files
 - Updated TOC to reflect renamed and restructured files
 
+### Other changes
+- Added Table of Contents with anchor links to README files requiring navigation aids, based on document length and section complexity.​​​​​​​​​​​​​​​​
+
 ---
 **Note:** Core audit findings unchanged. Finding strengthened.
 
