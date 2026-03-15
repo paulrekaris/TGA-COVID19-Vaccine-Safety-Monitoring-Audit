@@ -1,4 +1,4 @@
-# Surveillance Data Analysis: Key Takeaways
+# Surveillance Data Analysis
 
 ## Table of Contents
 
