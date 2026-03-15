@@ -609,13 +609,16 @@ From mid-2022 onwards, reports used "expected rates" and "rates similar to expec
 - Confidence intervals or p-values
 - Statistical power calculations
 
-**5. OAIC Search Scope Inadequacy:**
+**5.CIOMS Working Group VIII Non-Compliance:**
+CIOMS Working Group VIII (2010), Chapter 4, requires traceable documentation linking signal detection through causality assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. Across 150+ safety reports (March 2021–November 2023), no signal-to-action audit trail is present. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no report documents the decision pathway from signal identification to regulatory outcome or explains why 91 signals (61%) did not lead to action.
+
+**6. OAIC Search Scope Inadequacy:**
 TGA's September 2024 OAIC-directed searches excluded Advisory Committee containers where FOI 4029-03 exists, demonstrating inadequate scope for Cabinet-endorsed policy verification. Search methodology did not include terms like "Advisory Committee" or "ACV" despite these being governance forums where Plan implementation would reasonably be discussed.
 
-**6. Compensation Barrier:**
+**7. Compensation Barrier:**
 Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) approved. Remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal investigation documentation TGA holds for exact injury patterns (myocarditis, GBS, menstrual disorders) that could support causation assessments on "balance of probabilities" standard.
 
-**7. Key Finding: Safety Plan design and accountability**
+**8. Key Finding: Safety Plan design and accountability**
 The Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance for policy implementation. It did not number its outputs, conflated strategies with deliverables, and did not include an implementation framework. As a result, the Plan's structure did not support systematic tracking of the TGA's commitments. The TGA therefore lacked a built-in mechanism to monitor its own performance against the Plan from the outset.
 
 **Comprehensive Analysis:** [Surveillance Data Analysis](surveillance-analysis.md) provides complete sampling methodology, detailed report assessment, data source integration analysis, ICH E2E compliance evaluation, and comparative international practice review
@@ -737,6 +740,10 @@ Safety Plan positioned AusVaxSafety as part of national pharmacovigilance plan; 
 **NON-CONFORMITY (MAJOR)** – No objective evidence of systematic signal pathways from active surveillance (6.8M surveys) to regulatory action
 
 **Impact:** Unclear whether major surveillance investment (6.8M surveys) informed regulatory decisions; audit trail from data to action absent
+
+**International Standard Benchmark**
+
+CIOMS Working Group VIII (2010), Chapter 4, requires pharmacovigilance systems to maintain traceable documentation from signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no documentation links specific signals to specific actions or explains why 91 signals (61%) did not lead to regulatory action. This represents non-conformity with internationally recognised signal management standards.
 
 ---
 
@@ -1078,7 +1085,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | | 1.5 | Enhanced AEFI report escalation | ◐ Partial | 148 signals investigated but no COVID-specific protocols documented |
 | **2: Enhanced Signal Detection** | 2.1 | Understanding COVID-19 vaccine safety profiles | ◐ Partial | AESI list used but expected rates methodology not documented |
 | | 2.2 | Enhanced capacity for investigating individual AEFI reports | ✗ Not Doc | OAIC searches (531 containers): zero COVID-specific protocols found |
-| | 2.3 | Enhanced cumulative data reviews for each vaccine | ✗ Not Doc | FOI 4029-03 shows ACV presentation but zero public outputs |
+| | 2.3 | Enhanced cumulative data reviews for each vaccine | ✗ Not Doc | FOI 4029-03 shows ACV presentation but zero public outputs. CIOMS Working Group VIII (2010) requires traceable documentation linking signal detection through assessment to regulatory decision; no such audit trail exists for TGA's 148 investigated signals |
 | | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys but no TGA coordination protocols documented |
 | | 2.5 | Clinical studies and reports | ✗ Not Doc | OAIC searches: zero enhanced sponsor report processes |
 | | 2.6 | Environmental scanning | ✗ Not Doc | OAIC searches: zero systematic scanning processes |
