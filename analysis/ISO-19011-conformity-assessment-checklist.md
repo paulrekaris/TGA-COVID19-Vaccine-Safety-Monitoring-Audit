@@ -234,7 +234,7 @@ Applying professional judgement consistent with Clause 5.2.2 (audit programme ob
 This audit does not claim to have examined every output in the Plan. It examined 19 specified outputs: the 17 strategies treated as single outputs, plus two governance outputs (GOV.1, GOV.2) reflecting PGPA Act 2013 s37(2) requirements. The finding that 16 of these 19 (84%) are partially or not documented represents a failure within the audited scope — and given the systemic nature of the gaps, likely indicates broader documentation failure across the Plan’s full complement of activities, which contains approximately 36 implied outputs when disaggregated.
 The Plan’s structural failure to define auditable outputs means the absence of an implementation trail reflects a design failure as much as an implementation failure.
 
-→ See Key Finding 7: Safety Monitoring Plan did not meet auditability standards
+→ See [Key Finding 7: Safety Monitoring Plan did not meet auditability standards](../README.md#7-safety-monitoring-plan-did-not-meet-auditability-standards)
 
 ---
 
