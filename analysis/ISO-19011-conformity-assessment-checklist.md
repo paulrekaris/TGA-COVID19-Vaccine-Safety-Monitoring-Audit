@@ -1392,7 +1392,7 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. 
 
-Total: 65 references.
+Total: 66 references.
 
 **[Reference Documents](../reference-documents)** | **[Primary Sources](../primary-sources)** – Key source documents and primary evidentiary materials referenced in the audit assessment.
 
@@ -1514,62 +1514,66 @@ Therapeutic Goods Administration (TGA). (2025, April 24). FOI 25-0166 Consultati
 
 41. Australian National Audit Office (ANAO). (2025). Audit Lessons – Records Management. https://www.anao.gov.au/sites/default/files/2025-06/ANAO%20Insights%20-%20Audit%20Lessons%20-%20Records%20Management.pdf
 
+**United States Government Accountability Office (GAO). Government Auditing Standards**
+
+42. United States Government Accountability Office (GAO). Yellow Book, 2018 Revision. GAO-18-568G. Washington, D.C.: July 2018, para. 8.10. https://www.gao.gov/products/gao-18-568g
+
 **OSINT Methodology**
 
-42. Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). Computers in Human Behavior, 28(2), 673–682. https://doi.org/10.1016/j.chb.2011.11.014
+43. Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). Computers in Human Behavior, 28(2), 673–682. https://doi.org/10.1016/j.chb.2011.11.014
 
-43. Office of the Director of National Intelligence. (2024). The IC OSINT Strategy 2024-2026. https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf
+44. Office of the Director of National Intelligence. (2024). The IC OSINT Strategy 2024-2026. https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf
 
-44. Office of the Director of National Intelligence. (2024). Intelligence Community Directive, 206: Sourcing Requirements for Disseminated Analytic Products.
+45. Office of the Director of National Intelligence. (2024). Intelligence Community Directive, 206: Sourcing Requirements for Disseminated Analytic Products.
 https://www.dni.gov/files/documents/ICD/ICD-206.pdf
 
-45. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
+46. Elshafie A (2025). OSINT for beginners: A practical guide to OSINT basics. Authentic8. https://www.authentic8.com/blog/osint-for-beginners-guide
 
 **FOI Framework**
 
-46. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
+47. Office of the Australian Information Commissioner. FOI Guidelines – Part 10: Review by the Information Commissioner. 
 https://www.oaic.gov.au/freedom-of-information/freedom-of-information-guidance-for-government-agencies/freedom-of-information-reviews/part-10-review-by-the-information-commissioner
 
-47. Freedom of Information Act 1982 (Cth). 
+48. Freedom of Information Act 1982 (Cth). 
 https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 
 **Safety Culture Frameworks**
 
-48. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
+49. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
 
-49. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
+50.. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
 
-50. World Health Organization. Patient safety (fact sheet). Geneva: WHO; 2023. Available at: https://www.who.int/news-room/fact-sheets/detail/patient-safety.
+51. World Health Organization. Patient safety (fact sheet). Geneva: WHO; 2023. Available at: https://www.who.int/news-room/fact-sheets/detail/patient-safety.
 ​
 ---
 
 ### International Pharmacovigilance Standards
 
-51. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
+52. Council for International Organizations of Medical Sciences (CIOMS). Practical Aspects of Signal Detection in Pharmacovigilance: Report of CIOMS Working Group VIII. Geneva: CIOMS; 2010. Available at: https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
 
-52. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
+53. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module I: Pharmacovigilance systems and their quality systems. EMA/541760/2011. 2012. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_i_pv_quality_management_systems.pdf
 
-53. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
+54. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1). EMA/827661/2011 Rev 1. 2017. Available at: https://dcvmn.org/wp-content/uploads/2019/05/ema_gvp_module_ix_signal_management.pdf
 
-54. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+55. International Council for Harmonisation (ICH). ICH E2E: Pharmacovigilance Planning. Step 4 Guideline. 2004. Available at: https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
 ### Supporting References
 
 ## High-Reliability Industry & Safety Framework References
 
-55. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
+56. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859) (4th ed.). Montreal: International Civil Aviation Organization.
 
-56. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
+57. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (IAEA Safety Standards Series No. GSR Part 2). Vienna: International Atomic Energy Agency.
 
-57. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
+58. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World (3rd ed.). San Francisco: Jossey-Bass.
 https://www.safetymattersblog.com/2013/05/high-reliability-organizations-and.html
 
-58. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
+59. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. In PSNet: Patient Safety Network. Rockville, MD: U.S. Department of Health and Human Services.
 
-59. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
+60. SKYbrary. (n.d.). Safety Management System (SMS). In SKYbrary: The Aviation Safety Wiki. Brussels: EUROCONTROL.
 
-60. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
+61. University of California, Berkeley, Center for Catastrophic Risk Management. (n.d.). High Reliability Organizations. 
 https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures
 ---
 
@@ -1577,21 +1581,21 @@ https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructur
 
 **Public Access**
 
-61. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
+62. GitHub Repository: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
-62. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
+63. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-63. TGA FOI Disclosure Log  
+64. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-64. AustLII – OAIC Decisions
+65. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 **Main Audit Documentation:**
 
-65. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
+66. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
    [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) (Reference List: p.64)
 
 **Notes on Reference Formatting**:
