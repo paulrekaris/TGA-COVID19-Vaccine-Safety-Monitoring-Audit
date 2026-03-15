@@ -2,8 +2,6 @@
 
 ## Documentation Gap Analysis and Conformity Assessment
 
----
-
 # Table of Contents
 
 ## Overview
@@ -11,8 +9,6 @@
 - [Executive Summary](#executive-summary)
   - [Major Non-Conformities](#major-non-conformities)
   - [Key Supporting Evidence](#key-supporting-evidence)
-
----
 
 ## Audit Framework
 
@@ -44,8 +40,6 @@
   - [Primary Criteria](#primary-criteria)
   - [Secondary / Contextual Criteria](#secondarycontextual-criteria)
 
----
-
 ## Audit Programme Management
 
 - [Managing the Audit Programme](#managing-the-audit-programme)
@@ -55,8 +49,6 @@
   - [Determine Risks and Opportunities](#completed-determine-risks-and-opportunities-of-the-audit-programme)
   - [Establish Extent and Scope](#completed-establish-extent-and-scope-of-the-audit-programme)
   - [Establish Audit Programme Resources](#completed-establish-audit-programme-resources)
-
----
 
 ## Evidence Collection and Analysis
 
@@ -70,8 +62,6 @@
   - [Source 6: Systematic FOI Disclosure Log Review](#source-6-systematic-foi-disclosure-log-review)
   - [Source 7: Public Surveillance Reports Analysis](#source-7-public-surveillance-reports-analysis)
 
----
-
 ## Audit Findings
 
 - [Audit Findings](#audit-findings)
@@ -84,8 +74,6 @@
   - [Finding 6: Public Communication Versus Policy Commitments](#finding-6-public-communication-versus-policy-commitments)
   - [Finding 7: Expert Warnings Not Systematically Addressed](#finding-7-expert-warnings-not-systematically-addressed)
 
----
-
 ## Accountability Framework
 
 - [Burden of Proof and Accountability Framework](#burden-of-proof-and-accountability-framework)
@@ -96,8 +84,6 @@
   - [ISO 19011 Compliance](#iso-19011-compliance)
   - [Addressing the Findings](#addressing-the-findings)
   - [Critical Point](#critical-point)
-
----
 
 ## Conclusions and Assessment
 
@@ -125,8 +111,6 @@
 - [ISO Certification Status](#iso-certification-status)
 - [Audit Completion](#audit-completion)
 
----
-
 ## References and Appendices
 
 - [Audit Methodology and Sources](#audit-methodology-and-sources)
@@ -142,6 +126,8 @@
 - [Appendix D: FOI and OAIC Timeline](#appendix-d-foi-and-oaic-timeline)
   - [Table D.1: Comprehensive FOI and OAIC Timeline](#table-d1-comprehensive-foi-and-oaic-timeline)
   - [Table D.2: Summary of FOI and OAIC Escalation](#d2-summary-of-foi-and-oaic-escalation---timeline-analysis)
+
+
 ## Executive Summary
 
 **Independent audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation (February 2021-January 2026) using ISO 19011:2018 guidelines, ANAO audit standards, and OSINT methodology.**
