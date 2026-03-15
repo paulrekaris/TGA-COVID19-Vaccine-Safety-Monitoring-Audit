@@ -1903,3 +1903,5 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 ---
 
 *This audit was conducted using ISO 19011:2018 guidelines, ANAO audit standards, and OSINT methodology to provide systematic, independent, and documented assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. This is NOT an ISO certification audit. All evidence, methods, and findings are publicly available for verification and critique.*
+
+[↑ Back to top](#table-of-contents)
