@@ -2,7 +2,7 @@
 
 ## Documentation Gap Analysis and Conformity Assessment
 
-# Table of Contents
+## Table of Contents
 
 - [Executive Summary](#executive-summary)
 - [Purpose of This ISO 19011 Audit](#purpose-of-this-iso-19011-audit)
