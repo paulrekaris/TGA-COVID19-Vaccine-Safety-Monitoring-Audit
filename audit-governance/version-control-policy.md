@@ -221,4 +221,6 @@ Version history combined with OSINT documentation enables accountability infrast
 
 20. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
+**Date**: 14 March, 2026
+
 [↑ Back to top](#table-of-contents)
