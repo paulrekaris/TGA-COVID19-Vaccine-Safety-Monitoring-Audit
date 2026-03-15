@@ -443,3 +443,5 @@ The question "Was the Plan implemented as operational accountability framework a
   
 - [Compensation Analysis](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/compensation-analysis.md)
 
+
+[↑ Back to top](#table-of-contents)
