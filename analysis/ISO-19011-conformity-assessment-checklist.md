@@ -1188,7 +1188,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 
 ### Conformity Assessment Summary
 
-**Total Audit Criteria Assessed:** 17 numbered strategies (20 specified outputs)
+**Total Audit Criteria Assessed:** 17 numbered strategies (19 specified outputs)
 
 **Classification:**
 
