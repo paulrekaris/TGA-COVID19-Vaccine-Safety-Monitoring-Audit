@@ -1,5 +1,17 @@
 # Blockchain and Archival Verification Records
 
+## Table of Contents
+
+- [National Library of Australia – National edeposit (NED)](#national-library-of-australia--national-edeposit-ned)
+- [National Library of Australia – Australian Web Archive (AWA)](#national-library-of-australia--australian-web-archive-awa)
+- [Zenodo Archive](#zenodo-archive)
+- [SSRN – Social Science Research Network](#ssrn--social-science-research-network)
+- [Bitcoin Timestamp (OpenTimestamps)](#bitcoin-timestamp-opentimestamps)
+- [Arweave Permanent Storage](#arweave-permanent-storage)
+- [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
+- [Internet Archive – Direct Upload](#internet-archive--direct-upload)
+- [Combined Verification](#combined-verification)
+
 This audit is protected by multiple verification and archival methods including blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, GitHub).
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=8-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-11.pdf)
