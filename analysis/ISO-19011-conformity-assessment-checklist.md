@@ -1,6 +1,147 @@
 # Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan Implementation Using ISO 19011:2018 Guidelines
+
 ## Documentation Gap Analysis and Conformity Assessment
 
+---
+
+# Table of Contents
+
+## Overview
+
+- [Executive Summary](#executive-summary)
+  - [Major Non-Conformities](#major-non-conformities)
+  - [Key Supporting Evidence](#key-supporting-evidence)
+
+---
+
+## Audit Framework
+
+- [Purpose of This ISO 19011 Audit](#purpose-of-this-iso-19011-audit)
+  - [What This Document Is](#what-this-document-is)
+  - [Why This ISO 19011 Framework](#why-this-iso-19011-framework)
+  - [Relationship to Main Documentation Gap Analysis](#relationship-to-main-documentation-gap-analysis)
+  - [Intended Audiences](#intended-audiences)
+  - [Key Distinction](#key-distinction)
+- [Introduction](#introduction)
+  - [Epistemological Framework and Reasoning](#epistemological-framework-and-reasoning)
+  - [Open Source Principles and Replicability](#open-source-principles-and-replicability)
+  - [Evidence Hierarchy and Quality Assessment](#evidence-hierarchy-and-quality-assessment)
+    - [Tier 1: TGA's Own Systematic Searches](#tier-1-tgas-own-systematic-searches-highest-quality)
+    - [Tier 2: Senate Testimony Under Parliamentary Privilege](#tier-2-senate-testimony-under-parliamentary-privilege)
+    - [Tier 3: FOI Responses](#tier-3-foi-responses-formal-government-records)
+    - [Tier 4: Public Documentation](#tier-4-public-documentation)
+- [Basic Audit Details](#basic-audit-details)
+  - [Auditor Information](#auditor-information)
+  - [Auditee Information](#auditee-information)
+  - [Audit Details](#audit-details)
+- [Methodological Limitations](#methodological-limitations)
+  - [Access Limitations](#access-limitations)
+  - [Evidence Constraints](#evidence-constraints)
+  - [Resource Constraints](#resource-constraints)
+  - [Scope Boundaries](#scope-boundaries)
+  - [Evidence Boundaries and Audit Assurance](#evidence-boundaries-and-audit-assurance)
+- [Audit Criteria](#audit-criteria)
+  - [Primary Criteria](#primary-criteria)
+  - [Secondary / Contextual Criteria](#secondarycontextual-criteria)
+
+---
+
+## Audit Programme Management
+
+- [Managing the Audit Programme](#managing-the-audit-programme)
+  - [Establish Competence of Audit Programme Manager](#completed-establish-competence-of-audit-programme-manager)
+  - [Establish Context of the Audit Programme](#completed-establish-context-of-the-audit-programme)
+  - [Establish Objectives of the Audit Programme](#completed-establish-objectives-of-the-audit-programme)
+  - [Determine Risks and Opportunities](#completed-determine-risks-and-opportunities-of-the-audit-programme)
+  - [Establish Extent and Scope](#completed-establish-extent-and-scope-of-the-audit-programme)
+  - [Establish Audit Programme Resources](#completed-establish-audit-programme-resources)
+
+---
+
+## Evidence Collection and Analysis
+
+- [Audit Evidence Collection and Analysis](#audit-evidence-collection-and-analysis)
+  - [Evidence Collection Methodology](#evidence-collection-methodology)
+  - [Source 1: TGA Freedom of Information Responses](#source-1-tga-freedom-of-information-responses)
+  - [Source 2: OAIC Determinations](#source-2-oaic-determinations)
+  - [Source 3: TGA Senate Testimony](#source-3-tga-senate-testimony)
+  - [Source 4: Supporting Academic Literature](#source-4-supporting-academic-literature)
+  - [Source 5: Comparative Search Methodology Analysis](#source-5-comparative-search-methodology-analysis)
+  - [Source 6: Systematic FOI Disclosure Log Review](#source-6-systematic-foi-disclosure-log-review)
+  - [Source 7: Public Surveillance Reports Analysis](#source-7-public-surveillance-reports-analysis)
+
+---
+
+## Audit Findings
+
+- [Audit Findings](#audit-findings)
+  - [Quantitative Summary](#quantitative-summary)
+  - [Finding 1: Systematic Tracking Mechanism](#finding-1-systematic-tracking-mechanism)
+  - [Finding 2: Coordination Protocols](#finding-2-coordination-protocols)
+  - [Finding 3: Data Linkage Capability](#finding-3-data-linkage-capability)
+  - [Finding 4: Contradictory FOI Positions](#finding-4-contradictory-foi-positions)
+  - [Finding 5: AusVaxSafety Signal Pathways](#finding-5-ausvaxsafety-signal-pathways)
+  - [Finding 6: Public Communication Versus Policy Commitments](#finding-6-public-communication-versus-policy-commitments)
+  - [Finding 7: Expert Warnings Not Systematically Addressed](#finding-7-expert-warnings-not-systematically-addressed)
+
+---
+
+## Accountability Framework
+
+- [Burden of Proof and Accountability Framework](#burden-of-proof-and-accountability-framework)
+  - [Commonwealth Accountability Standards](#commonwealth-accountability-standards)
+  - [Burden of Proof Allocation](#burden-of-proof-allocation)
+  - [Evidence of Systematic Documentation Absence](#evidence-of-systematic-documentation-absence)
+  - [Accountability Gap Identified](#accountability-gap-identified)
+  - [ISO 19011 Compliance](#iso-19011-compliance)
+  - [Addressing the Findings](#addressing-the-findings)
+  - [Critical Point](#critical-point)
+
+---
+
+## Conclusions and Assessment
+
+- [Audit Conclusions](#audit-conclusions)
+  - [Overall Conformity Assessment](#overall-conformity-assessment)
+  - [Key Conclusions](#key-conclusions)
+- [Comparison to High-Reliability Safety Frameworks](#comparison-to-high-reliability-safety-frameworks)
+  - [Aviation and Nuclear Safety Expectations](#aviation-and-nuclear-safety-expectations)
+  - [Contrast with TGA's Documented Practice](#contrast-with-tgas-documented-practice)
+  - [High-Reliability Organisation Principles](#high-reliability-organisation-principles)
+  - [TGA's Own Standards for Regulated Industry](#tgas-own-standards-for-regulated-industry)
+- [Audit Methodology Conformance](#audit-methodology-conformance)
+- [Audit Performance Score](#audit-performance-score)
+  - [Conformity Assessment Summary](#conformity-assessment-summary)
+  - [Output-by-Output Breakdown](#output-by-output-breakdown)
+  - [Summary by Objective](#summary-by-objective)
+  - [Critical Gap Analysis](#critical-gap-analysis)
+  - [Conformity Rating by Assessment Area](#conformity-rating-by-assessment-area)
+  - [Severity Analysis](#severity-analysis)
+  - [Overall Performance Score](#overall-performance-score)
+  - [Scale and Context](#scale-and-context)
+- [Recommendations](#recommendations)
+  - [For Immediate Action](#for-immediate-action)
+  - [For Systemic Improvement](#for-systemic-improvement)
+- [ISO Certification Status](#iso-certification-status)
+- [Audit Completion](#audit-completion)
+
+---
+
+## References and Appendices
+
+- [Audit Methodology and Sources](#audit-methodology-and-sources)
+- [References](#references)
+  - [Primary Sources](#primary-sources)
+  - [Standards and Frameworks](#standards-and-frameworks)
+  - [International Pharmacovigilance Standards](#international-pharmacovigilance-standards)
+  - [High-Reliability Industry and Safety Framework References](#high-reliability-industry--safety-framework-references)
+  - [Data Repositories](#data-repositories)
+- [Appendix A: Direct TGA Responses – Evidence Summary](#appendix-a-direct-tga-responses---evidence-summary)
+- [Appendix B: OAIC-Directed Search Results](#appendix-b-oaic-directed-search-results-september-2024)
+- [Appendix C: COVID-19 Vaccine Doses Under Provisional Approval](#appendix-c-covid-19-vaccine-doses-under-provisional-approval)
+- [Appendix D: FOI and OAIC Timeline](#appendix-d-foi-and-oaic-timeline)
+  - [Table D.1: Comprehensive FOI and OAIC Timeline](#table-d1-comprehensive-foi-and-oaic-timeline)
+  - [Table D.2: Summary of FOI and OAIC Escalation](#d2-summary-of-foi-and-oaic-escalation---timeline-analysis)
 ## Executive Summary
 
 **Independent audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation (February 2021-January 2026) using ISO 19011:2018 guidelines, ANAO audit standards, and OSINT methodology.**
