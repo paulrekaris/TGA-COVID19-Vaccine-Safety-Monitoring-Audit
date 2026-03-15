@@ -1,5 +1,15 @@
 # Blockchain and Archival Verification Records
 
+This audit is protected by multiple verification and archival methods including blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, GitHub).
+
+[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=8-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-11.pdf)
+[![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)
+[![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org)
+[![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
+[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+
 ## Table of Contents
 
 - [National Library of Australia – National edeposit (NED)](#national-library-of-australia--national-edeposit-ned)
@@ -11,16 +21,6 @@
 - [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
 - [Internet Archive – Direct Upload](#internet-archive--direct-upload)
 - [Combined Verification](#combined-verification)
-
-This audit is protected by multiple verification and archival methods including blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, GitHub).
-
-[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=8-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-11.pdf)
-[![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)
-[![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058)
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org)
-[![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w)
-[![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 ## National Library of Australia – National edeposit (NED)
 
