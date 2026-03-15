@@ -4,6 +4,23 @@
 
 ---
 
+## Table of Contents
+
+- [Unreleased — Version 1.9.2](#unreleased--in-progress-version-192)
+- [Version 1.9.1 (7 February 2026)](#version-191-7-february-2026)
+- [Version 1.9 (14 January 2026)](#version-19-14-january-2026)
+- [Version 1.8 (6 January 2026)](#version-18-6-january-2026)
+- [Version 1.7.4 (28 December 2025)](#version-174-28-december-2025)
+- [Version 1.7.3 (22 December 2025)](#version-173-22-december-2025)
+- [Version 1.7.2 (20 December 2025)](#version-172-20-december-2025)
+- [Version 1.7.1 (18 December 2025)](#version-171-18-december-2025)
+- [Version 1.7.0 (17 December 2025)](#version-170-17-december-2025)
+- [Version 1.6.1 (14 December 2025)](#version-161-14-december-2025)
+- [Version 1.6.0 (December 2025)](#version-160-december-2025)
+- [Version 1.5.1 (December 2025)](#version-151-december-2025)
+- [Version 1.5.0 (December 2025)](#version-150-december-2025)
+- [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
+
 ## [Unreleased] — In Progress: Version 1.9.2
 
 ### Analysis and methodology 
