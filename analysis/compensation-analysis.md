@@ -304,3 +304,5 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 21. The Telegraph. (2025). Covid vaccine damage consultants paid more than victims. https://www.telegraph.co.uk/news/2025/03/16/covid-vaccine-damage-consultants-paid-more-than-victims/
 
 22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
+
+[↑ Back to top](#table-of-contents)
