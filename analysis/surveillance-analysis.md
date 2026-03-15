@@ -1,3 +1,22 @@
+# Surveillance Data Analysis: Key Takeaways
+
+## Table of Contents
+
+- [Key Takeaways](#surveillance-data-analysis-key-takeaways)
+- [Introduction and Context](#introduction--context)
+- [Visual Timeline: Surveillance Degradation Pattern](#visual-timeline-surveillance-degradation-pattern)
+- [Methodology: Report Selection and Sampling](#methodology-report-selection--sampling)
+- [Analysis of TGA Surveillance Reports](#analysis-of-tga-surveillance-reports)
+- [Critical Findings and Evidence](#critical-findings--evidence)
+  - [Finding 1: Absence of Documented Data Source Reconciliation](#finding-1-absence-of-documented-data-source-reconciliation)
+  - [Finding 2: Observable Surveillance Intensity Degradation](#finding-2-observable-surveillance-intensity-degradation)
+  - [Finding 3: Unexplained Expected Rates Methodology Gap](#finding-3-unexplained-expected-rates-methodology-gap)
+  - [Finding 4: Zero Plan Framework References](#finding-4-zero-plan-framework-references)
+  - [Finding 5: Inadequate OAIC Search Scope](#finding-5-inadequate-oaic-search-scope-excluded-advisory-body-evidence)
+- [International Standards Assessment](#international-standards-assessment)
+- [Implications and Conclusions](#implications--conclusions)
+- [References](#references)
+
 ---
 > ## Surveillance Data Analysis: Key Takeaways
 > 
