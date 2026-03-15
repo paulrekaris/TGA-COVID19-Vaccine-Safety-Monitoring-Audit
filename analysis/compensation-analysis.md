@@ -305,6 +305,6 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
 
-Date: 14 March 2026
+Last updated: 14 March 2026
 
 [↑ Back to top](#table-of-contents)
