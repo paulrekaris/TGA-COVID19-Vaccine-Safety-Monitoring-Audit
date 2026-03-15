@@ -1,5 +1,8 @@
 # TGA COVID-19 Vaccine Safety Monitoring Audit
 ## ISO 19011:2018 Documentation Gap Analysis and Conformity Assessment
+---
+
+## Table of Contents
 
 - [Executive Summary](#executive-summary)
 - [Purpose of This ISO 19011 Audit](#purpose-of-this-iso-19011-audit)
