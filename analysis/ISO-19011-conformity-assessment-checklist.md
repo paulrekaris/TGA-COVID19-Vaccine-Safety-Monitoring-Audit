@@ -610,7 +610,7 @@ From mid-2022 onwards, reports used "expected rates" and "rates similar to expec
 - Statistical power calculations
 
 **5.CIOMS Working Group VIII Non-Compliance:**
-CIOMS Working Group VIII (2010), Chapter 4, requires traceable documentation linking signal detection through causality assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. Across 150+ safety reports (March 2021–November 2023), no signal-to-action audit trail is present. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no report documents the decision pathway from signal identification to regulatory outcome or explains why 91 signals (61%) did not lead to action.
+CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through causality assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. Across 150+ safety reports (March 2021–November 2023), no signal-to-action audit trail is present. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no report documents the decision pathway from signal identification to regulatory outcome or explains why 91 signals (61%) did not lead to action.
 
 **6. OAIC Search Scope Inadequacy:**
 TGA's September 2024 OAIC-directed searches excluded Advisory Committee containers where FOI 4029-03 exists, demonstrating inadequate scope for Cabinet-endorsed policy verification. Search methodology did not include terms like "Advisory Committee" or "ACV" despite these being governance forums where Plan implementation would reasonably be discussed.
@@ -743,7 +743,7 @@ Safety Plan positioned AusVaxSafety as part of national pharmacovigilance plan; 
 
 **International Standard Benchmark**
 
-CIOMS Working Group VIII (2010), Chapter 4, requires pharmacovigilance systems to maintain traceable documentation from signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no documentation links specific signals to specific actions or explains why 91 signals (61%) did not lead to regulatory action. This represents non-conformity with internationally recognised signal management standards.
+CIOMS Working Group VIII (2010), Chapter VIII, requires pharmacovigilance systems to maintain traceable documentation from signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no documentation links specific signals to specific actions or explains why 91 signals (61%) did not lead to regulatory action. This represents non-conformity with internationally recognised signal management standards.
 
 ---
 
