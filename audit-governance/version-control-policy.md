@@ -220,3 +220,5 @@ Version history combined with OSINT documentation enables accountability infrast
 19. Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422–1425. <https://doi.org/10.1126/science.aab2374>
 
 20. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
+
+[↑ Back to top](#table-of-contents)
