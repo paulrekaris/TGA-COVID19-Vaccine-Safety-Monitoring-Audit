@@ -1,8 +1,5 @@
-# Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan Implementation Using ISO 19011:2018 Guidelines
-
-## Documentation Gap Analysis and Conformity Assessment
-
-## Table of Contents
+# TGA COVID-19 Vaccine Safety Monitoring Audit
+## ISO 19011:2018 Documentation Gap Analysis and Conformity Assessment
 
 - [Executive Summary](#executive-summary)
 - [Purpose of This ISO 19011 Audit](#purpose-of-this-iso-19011-audit)
