@@ -1806,7 +1806,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 
 ### Appendix D: FOI and OAIC Timeline
 
-**Table D.1: Comprehensive FOI and OAIC Timeline for COVID-19 Vaccine Safety Monitoring Plan Investigation**
+#### Table D.1: Comprehensive FOI and OAIC Timeline for COVID-19 Vaccine Safety Monitoring Plan Investigation
 
 | Date | Document Type/Stage | Key Content | Reference to Safety Monitoring Plan | Response to Request |
 |------|-------------------|-------------|-----------------------------------|-------------------|
@@ -1825,7 +1825,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 | **Oct 2025** | FOI 25-0166 – s54Z Application to OAIC | Applicant applies to OAIC for review of practical refusal decision | Application reiterates need for Plan-specific implementation evidence and questions resource diversion argument when TGA demonstrated capability (Sept 2024: 3 hours to organise 1,674 docs) | Escalates FOI 25-0166 to independent review. Second OAIC investigation running parallel to MR22/00538. |
 | **9 Oct 2025** | Senate Estimates Testimony | TGA officials testify to Senate Community Affairs Legislation Committee. Dr Dascombe characterises COVID-19 vaccine monitoring as "day-to-day processes" that were never systematically tracked | Direct testimony about Safety Monitoring Plan implementation - confirms monitoring not systematically tracked against Plan outputs | Official admission under parliamentary privilege that contradicts "enhanced" monitoring commitments and confirms absence of systematic implementation tracking. |
 
-**D.2: Summary of FOI and OAIC Escalation - Timeline Analysis**
+#### D.2: Summary of FOI and OAIC Escalation - Timeline Analysis
 
 **Pattern Identified:** Four-year investigation (2022-2026) demonstrates systematic institutional resistance to producing Plan implementation documentation through escalating formal processes:
 
