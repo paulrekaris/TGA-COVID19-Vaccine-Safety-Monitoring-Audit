@@ -66,7 +66,7 @@
 - Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
 - Added SSRN badge after Zenodo DOI badge; updated NLA badge text to Web 
 - Archive; added SSRN citation to citation section and permanent archive section
-- Updated Preservation Architecture badge from 7-Layer to 8-Layer
+- Expand ISO 19011 guiding standard description
 - Updated internal link paths to reflect repository restructure; added local PDF link to Sparke Helmore case note
 - Reformatted evidence base navigation links to inline prose
 - Moved "No Commonwealth oversight initiated" to Accountability section; removed Scale and Context section to avoid duplication
