@@ -151,11 +151,11 @@
 
 ## Purpose of This ISO 19011 Audit
 
-**What This Document Is:**
+### What This Document Is
 
 This document applies ISO 19011:2018 international auditing standards to provide professional, systematic assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. It evaluates conformity between TGA's stated commitments (audit criteria) and objective documentary evidence of implementation (audit evidence) using established professional audit methodology.
 
-**Why This ISO 19011 Framework:**
+### Why This ISO 19011 Framework
 
 This framework-based audit serves several critical purposes:
 
@@ -166,7 +166,7 @@ This framework-based audit serves several critical purposes:
 5. **Academic Credibility:** Uses established audit framework enabling independent peer review, replication, and verification by academic and professional audiences
 6. **Methodological Transparency:** Documents complete audit trail from evidence collection through findings to conclusions, allowing scrutiny and falsification
 
-**Relationship to Main Documentation Gap Analysis:**
+### Relationship to Main Documentation Gap Analysis
 
 This ISO 19011 audit complements the comprehensive documentation gap analysis by overlaying professional audit framework onto the evidence base. Where the main audit documents "what is missing," this ISO framework assesses "what this means" in terms of:
 - Conformity ratings (conforming/non-conforming)
@@ -175,7 +175,7 @@ This ISO 19011 audit complements the comprehensive documentation gap analysis by
 - Quality scoring
 - Professional accountability (audit conclusions and recommendations)
 
-**Intended Audiences:**
+### Intended Audiences
 
 - **Parliamentary:** Provides structured framework for Senate questions and oversight
 - **Academic:** Enables peer review using recognised methodology
@@ -183,7 +183,7 @@ This ISO 19011 audit complements the comprehensive documentation gap analysis by
 - **Technical/Professional:** Demonstrates rigorous systematic approach
 - **International:** Uses globally recognised ISO standards enabling cross-jurisdictional comparison
 
-**Key Distinction:**
+### Key Distinction
 
 This is **NOT an ISO certification audit**. ISO 19011 is a guideline standard for conducting audits, not a certifiable standard. This audit uses ISO 19011 methodology to assess TGA's monitoring system but does not certify TGA to any standard. The framework ensures professional audit principles (independence, evidence-based approach, transparency) are systematically applied.
 
@@ -239,22 +239,21 @@ This audit employs two complementary forms of reasoning:
 ### Evidence Hierarchy and Quality Assessment
 
 This audit applies a four-tier evidence hierarchy to establish quality and reliability of findings:
-
-**TIER 1: TGA's Own Systematic Searches (Highest Quality)**
+#### TIER 1: TGA's Own Systematic Searches (Highest Quality)
 - September 2024 OAIC-directed searches conducted under FOI Act s55V(2)
 - TGA senior medical officers searched internal systems using TGA's own classification framework
 - Legally obligated searches under OAIC statutory direction
 - Represents TGA's own assessment of what documentation exists
 - **Evidentiary significance:** If implementation documentation existed, TGA's own comprehensive searches would have located it
 
-**TIER 2: Senate Testimony Under Parliamentary Privilege**
+#### TIER 2: Senate Testimony Under Parliamentary Privilege
 - October 2025 Senate Community Affairs Legislation Committee testimony
 - Official statements by TGA senior officials under parliamentary privilege
 - Dr Dascombe's characterisation of monitoring as "day-to-day processes"
 - Admission of "some difficulty" producing implementation documents
 - **Evidentiary significance:** Under oath testimony confirming absence of systematic tracking and documentation challenges
 
-**TIER 3: FOI Responses (Formal Government Records)**
+#### TIER 3: FOI Responses (Formal Government Records)
 - 2022-2025 FOI decisions under Freedom of Information Act 1982
 - Formal government records with legal obligations for accuracy
 - Including Assistant Secretary Kay email (February 2022): "no implementation report... entering phase of reviewing"
@@ -566,7 +565,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 
 ### Evidence Collection Methodology
 
-**Primary Methods:**
+#### Primary Methods 
 
 **1. Freedom of Information Act 1982 Processes**
 - Systematic FOI requests (2022-2026) targeting each numbered strategy
@@ -587,31 +586,31 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 - Followed ANAO records management and audit evidence guidance
 - Systematic evaluation of meaningful performance information against stated commitments
 
-**Source 1: TGA Freedom of Information Responses**
+#### Source 1: TGA Freedom of Information Responses 
 - **Evidence:** 531 TRIM folders, 2,218 pages
 - **Method:** Systematic FOI requests (2021-2025) targeting each numbered strategy
 - **Reliability:** Official government documents, lawfully obtained
 - **Limitations:** TGA control over document provision; potential gaps in record-keeping
 
-**Source 2: OAIC Determinations**
+#### Source 2: OAIC Determinations
 - **Evidence:** OAIC review decisions (including MR2200538)
 - **Method:** Administrative review when FOI responses inadequate
 - **Reliability:** Independent oversight body assessment
 - **Finding:** OAIC validated concerns about FOI response quality and documentation gaps
 
-**Source 3: TGA Senate Testimony**
+#### Source 3: TGA Senate Testimony
 - **Evidence:** Official testimony to Senate Estimates (October 9, 2025)
 - **Method:** Analysis of published testimony transcripts
 - **Reliability:** Public record, provided under oath
 - **Finding:** TGA stated monitoring comprised "day-to-day processes" never systematically tracked
 
-**Source 4: Supporting Academic Literature**
+#### Source 4: Supporting Academic Literature
 - **Evidence:** Peer-reviewed publications on Australian pharmacovigilance systems
 - **Method:** Review of relevant academic literature published pre- and during rollout
 - **Reliability:** Independent academic research, peer-reviewed
 - **Context:** Provides supporting context for identified gaps in system capabilities
 
-**Source 5: Comparative Search Methodology Analysis**
+#### Source 5: Comparative Search Methodology Analysis
 
 **Audit Transparency Validation:**
 
@@ -635,7 +634,7 @@ To validate that this audit's evidence collection was comprehensive, a comparati
 
 **Implication:** This audit's search methodology was demonstrably more comprehensive than TGA's own OAIC-directed searches, strengthening confidence that evidence base is complete
 
-**Source 6: Systematic FOI Disclosure Log Review**
+#### Source 6: Systematic FOI Disclosure Log Review
 
 **Evidence Base Completeness Validation:**
 
@@ -662,7 +661,7 @@ Following completion of primary audit evidence collection, a systematic review o
 
 **Implication:** Evidence collection complete; findings based on comprehensive review of all available FOI evidence
 
-**Source 7: Public Surveillance Reports Analysis**
+#### Source 7: Public Surveillance Reports Analysis
 
 **Public Reporting Transparency Assessment:**
 
@@ -1106,7 +1105,7 @@ The audit identifies systematic gaps between:
 
 ## Comparison to High-Reliability Safety Frameworks
 
-**Aviation and Nuclear Safety Expectations**
+### Aviation and Nuclear Safety Expectations
 
 In sectors such as commercial aviation and nuclear power, safety management frameworks require formally documented objectives, performance indicators, and continuous monitoring arrangements as core elements of organisational governance (ICAO, 2018; IAEA, 2016). These frameworks treat safety management systems as auditable management systems in their own right, with explicit expectations for documentation, traceability and independent oversight.
 
@@ -1114,13 +1113,13 @@ The ICAO Safety Management Manual (Doc 9859, 4th ed.) describes safety managemen
 
 Similarly, the IAEA Safety Requirements on Leadership and Management for Safety (GSR Part 2) require organisations performing nuclear activities to establish an integrated management system in which safety is a core value, supported by documented processes, performance goals and regular evaluation of safety performance (IAEA, 2016). Senior management is required to seek information on safety performance, encourage reporting and learning, and ensure that decisions affecting safety are based on reliable, traceable information.
 
-**Contrast with TGA’s Documented Practice**
+### Contrast with TGA’s Documented Practice
 
 Against these high‑reliability benchmarks, the audit’s findings show that TGA’s implementation of the COVID‑19 Vaccine Safety Monitoring Plan lacks a comparable level of documented performance objectives, indicators and tracking. The Plan specified multiple strategies and outputs for “enhanced” monitoring, yet there is no evidence of a systematic mechanism that tracks delivery of those outputs, links safety signals to regulatory actions, or provides regular, documented reviews of safety performance against the Plan’s commitments. This gap is underlined by TGA’s Senate testimony that monitoring relied on “day‑to‑day processes” that were never systematically tracked against the Plan, and by the absence of documentation demonstrating how 6.8 million AusVaxSafety survey responses were translated into the 148 safety signals and 57 regulatory actions TGA reports.
 
 In aviation or nuclear contexts, an organisation that published a formal safety plan with specified outputs but could not produce documentation showing how those outputs were tracked, measured and reviewed over time would be considered non‑conforming with the governing safety management expectations (ICAO, 2018; IAEA, 2016). By comparison, TGA’s inability to demonstrate documented implementation and performance measurement for its COVID‑19 Vaccine Safety Monitoring Plan indicates a safety‑governance approach that falls well short of what is expected in other high‑hazard domains where public protection is paramount.
 
-**High-Reliability Organisation Principles**
+### High-Reliability Organisation Principles
 
 This divergence can also be expressed in terms of established high‑reliability organisation (HRO) principles (Weick & Sutcliffe, 2015). High‑reliability theory characterises organisations in high‑risk fields as having a preoccupation with failure, reluctance to simplify, sensitivity to operations, commitment to resilience and deference to expertise. These principles translate operationally into systematic tracking of safety commitments, detailed documentation of how signals are identified and acted upon, and structured responses to expert warnings about system weaknesses.
 
@@ -1132,7 +1131,7 @@ In healthcare, high‑reliability and patient‑safety frameworks developed by b
 
 TGA’s limited evidence of systematic learning from expert warnings, absence of a documented signal‑to‑action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data‑driven learning cultures.
 
-**TGA’s Own Standards for Regulated Industry** 
+### TGA’s Own Standards for Regulated Industry
 
 TGA requires sponsors and manufacturers to demonstrate robust safety culture and documented quality systems under the Code of Good Manufacturing Practice (GMP), Good Clinical Practice (GCP) and ICH E2E‑compliant pharmacovigilance systems. These frameworks expect comprehensive documentation of safety processes, audit trails for critical activities and systematic performance tracking as conditions for approval and ongoing compliance. By contrast, the audit finds that TGA’s own COVID‑19 vaccine safety monitoring lacks equivalent documentation, auditability and performance measurement, displaying characteristics that TGA would likely treat as deficiencies if observed in a regulated sponsor. This asymmetry creates an accountability gap: the regulator holds industry to standards it does not demonstrably meet in its own safety‑critical operations.
 
