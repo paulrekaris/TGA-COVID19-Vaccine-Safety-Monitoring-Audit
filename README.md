@@ -121,7 +121,7 @@ This repository has been accepted for preservation by the National Library of Au
 
 ## Purpose
 
-This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 17 specified enhanced-pharmacovigilance straetgies over four years (2021-2025).
+This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 19 specified enhanced-pharmacovigilance outputs — 17 enhanced-pharmacovigilance strategies plus two governance outputs — over four years (2021-2025). 
 
 During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
@@ -135,7 +135,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Guiding Standards
 
-**ISO 19011:2018** - Continuous improvement via iterative refinement (Principle 7)
+**ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments
 
 **ISO 15489-1:2016** - Transparency and integrity via Git version control and blockchain timestamping
 
