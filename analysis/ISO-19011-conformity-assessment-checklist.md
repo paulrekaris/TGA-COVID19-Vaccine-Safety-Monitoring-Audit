@@ -1806,7 +1806,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 
 ### Appendix D: FOI and OAIC Timeline
 
-#### Table D.1: Comprehensive FOI and OAIC Timeline for COVID-19 Vaccine Safety Monitoring Plan Investigation
+#### Table D.1: Comprehensive FOI and OAIC Timeline
 
 | Date | Document Type/Stage | Key Content | Reference to Safety Monitoring Plan | Response to Request |
 |------|-------------------|-------------|-----------------------------------|-------------------|
