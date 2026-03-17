@@ -754,7 +754,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 - Australian COVID-19 Vaccination Policy (November 2020): https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf
 - TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
-- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [Australian Information Commissioner](reference-documents/aicmr-54-26-march-2025.pdf)
+- OAIC Decision [2025] AICmr 54: Available through OAIC public register: https://www.austlii.edu.au and [Australian Information Commissioner](primary-sources/oaic/MR22-00538/aicmr-54-26-march-2025.pdf)
 
 -----
 
