@@ -83,7 +83,9 @@
 - Updated NLA record to include Australian Web Archive
 - Added Zenodo section with full details, significance statement, GitHub integration, and concept DOI
 - Fixed AWA heading levels and removed PANDORA reference
-- Updated preservation layer count from seven to eight
+- Updated preservation layer count from seven to nine
+- Rationale for Platform Selection section added to Permanent Archive README documenting nine-layer archival stack across dissemination, reproducibility, and national permanence categories
+- Two-sentence reference added to main README linking to Rationale for Platform Selection
 
 ### Traffic Monitoring Workflow
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
