@@ -92,6 +92,25 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ---
 
+## SocArXiv – OSF Preprints (Social Sciences)
+
+**Submission Date:** 16 March 2026
+**Accepted Date:** 17 March 2026
+**Preprint DOI:** 10.31235/osf.io/sb4gz_v1
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
+**Author:** Paul Rekaris
+**Item URL:** https://doi.org/10.31235/osf.io/sb4gz_v1
+**Supplemental Materials:** https://osf.io/jvqyt
+**Licence:** CC BY 4.0
+**Status:** ACCEPTED — Publicly Accessible and Searchable
+**Indexed:** Google Scholar
+
+### Significance
+
+SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly standards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and Google Scholar. The audit was accepted following pre-moderation on 17 March 2026, confirming the work meets scholarly standards for social science and policy research.
+
+---
+
 ## Bitcoin Timestamp (OpenTimestamps)
 
 **Date:** December 31, 2025  
