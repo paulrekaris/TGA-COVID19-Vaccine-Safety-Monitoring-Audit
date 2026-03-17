@@ -145,7 +145,7 @@
 **Evidence Collection Period:** 2022–2026 (Four-year systematic investigation)  
 **Period Under Audit:** February 2022 – January 2026  
 **Audit Type:** Independent regulatory documentation-compliance audit  
-**Permanent Archive:** DOI 10.5281/zenodo.17731054
+**Permanent Archive:** See [Blockchain and Archival Verification](blockchain-and-archival-verification.md)
 
 ---
 
@@ -233,6 +233,14 @@ This audit employs two complementary forms of reasoning:
 - **GitHub Repository:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive)  
   https://doi.org/10.5281/zenodo.17731054
+- **SSRN:** 10.2139/ssrn.6333058 (social science preprint repository)  
+  https://doi.org/10.2139/ssrn.6333058
+- **SocArXiv:** 10.31235/osf.io/sb4gz_v1 (open access preprint repository)  
+  https://doi.org/10.31235/osf.io/sb4gz_v1
+- **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
+- **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+- **Arweave (blockchain):** https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
+- **Bitcoin timestamp:** December 31, 2025
 
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. **This work is open source and open for feedback, correction, and collaborative improvement.**
 
