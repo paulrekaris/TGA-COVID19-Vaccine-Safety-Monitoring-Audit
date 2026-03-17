@@ -12,6 +12,7 @@ This audit is protected by multiple verification and archival methods including 
 - [National Library of Australia – Australian Web Archive (AWA)](#national-library-of-australia--australian-web-archive-awa)
 - [Zenodo Archive](#zenodo-archive)
 - [SSRN – Social Science Research Network](#ssrn--social-science-research-network)
+- [SocArXiv – OSF Preprints (Social Sciences)](#socarxiv--osf-preprints-social-sciences)
 - [Bitcoin Timestamp (OpenTimestamps)](#bitcoin-timestamp-opentimestamps)
 - [Arweave Permanent Storage](#arweave-permanent-storage)
 - [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
