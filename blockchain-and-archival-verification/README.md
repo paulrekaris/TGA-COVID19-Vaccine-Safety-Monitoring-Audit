@@ -160,8 +160,6 @@ To independently verify this timestamp:
 
 ### Significance
 
-### Significance
-
 A Bitcoin blockchain timestamp provides cryptographically immutable proof that this audit existed in its current form on December 31, 2025. Unlike institutional archives, the record can only be altered with consensus of the entire distributed network — making it particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
 
 ---
