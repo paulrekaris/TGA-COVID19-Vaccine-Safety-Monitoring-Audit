@@ -8,6 +8,7 @@ This audit is protected by multiple verification and archival methods including 
 
 ## Table of Contents
 
+- [Rationale for Platform Selection](#rationale-for-platform-selection)
 - [National Library of Australia – National edeposit (NED)](#national-library-of-australia--national-edeposit-ned)
 - [National Library of Australia – Australian Web Archive (AWA)](#national-library-of-australia--australian-web-archive-awa)
 - [Zenodo Archive](#zenodo-archive)
@@ -18,6 +19,28 @@ This audit is protected by multiple verification and archival methods including 
 - [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
 - [Internet Archive – Direct Upload](#internet-archive--direct-upload)
 - [Combined Verification](#combined-verification)
+
+
+## Rationale for Platform Selection
+
+Archival platforms were selected across three functional categories to ensure dissemination, reproducibility, and national permanence. Together they form a nine-layer stack that meets academic norms while providing forensic-grade verification appropriate for high-stakes regulatory accountability research.
+
+**Dissemination and Reach**
+- **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
+- **SocArXiv/OSF**: Primary open-access preprint repository for social science; indexed by Google Scholar; hosted by the Center for Open Science
+
+**Reproducibility and Archiving**
+- **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
+- **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
+
+**National Permanence and Decentralised Verification**
+- **National Library of Australia (AWA)**: Legal deposit confirming heritage preservation as a significant Australian policy publication
+- **Internet Archive**: International web preservation via direct upload and Wayback Machine snapshots
+- **Arweave**: Permanent decentralised blockchain storage; cryptographically immutable
+- **Bitcoin timestamp**: OpenTimestamps OP_RETURN transaction; immutable proof-of-existence on the world's most secure blockchain
+
+This architecture exceeds standard academic practice (typically two to three preprint repositories plus a code repository). The blockchain and decentralised storage layers provide tamper-proof verification aligned with OSINT methodology, ISO 19011 evidence chain requirements, and ISO 15489-1:2016 records management principles — ensuring findings remain permanently accessible and independently verifiable regardless of institutional pressure or platform failure.
+
 
 ## National Library of Australia – National edeposit (NED)
 
