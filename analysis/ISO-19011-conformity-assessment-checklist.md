@@ -1507,7 +1507,7 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. 
 
-Total: 66 references.
+Total: 71 references.
 
 **[Reference Documents](../reference-documents)** | **[Primary Sources](../primary-sources)** – Key source documents and primary evidentiary materials referenced in the audit assessment.
 
@@ -1702,15 +1702,30 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 63. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-64. TGA FOI Disclosure Log  
+64. SSRN Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.2139/ssrn.6333058)  
+https://doi.org/10.2139/ssrn.6333058
+
+65. SocArXiv Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.31235/osf.io/sb4gz_v1)  
+https://doi.org/10.31235/osf.io/sb4gz_v1
+
+66. National Library of Australia (AWA): TGA COVID-19 Vaccine Safety Monitoring Audit  
+https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
+
+67. Internet Archive: TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)  
+https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+
+68. Arweave Permanent Storage: TGA COVID-19 Vaccine Safety Monitoring Audit  
+https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
+
+69. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-65. AustLII – OAIC Decisions
+70. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 **Main Audit Documentation:**
 
-66. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
+71. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
    [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) (Reference List: p.64)
 
 **Notes on Reference Formatting**:
