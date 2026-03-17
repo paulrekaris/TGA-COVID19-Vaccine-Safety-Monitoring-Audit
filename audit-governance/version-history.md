@@ -86,6 +86,7 @@
 - Updated preservation layer count from seven to nine
 - Rationale for Platform Selection section added to Permanent Archive README documenting nine-layer archival stack across dissemination, reproducibility, and national permanence categories
 - Two-sentence reference added to main README linking to Rationale for Platform Selection
+- Restructure permanent archive README — significance before access, add missing access sections, add rationale for platform selection
 
 ### Traffic Monitoring Workflow
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
