@@ -64,7 +64,7 @@
 - Added 8-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
 - Introduced navigation buttons: NLA/AWA, ZIP download, Version History, Permanent Archive, and Last Commit
 - Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
-- Added SSRN badge after Zenodo DOI badge; updated NLA badge text to Web 
+- Added SSRN and SocArXiv badges after Zenodo DOI badge; updated NLA badge text to Web 
 - Archive; added SSRN citation to citation section and permanent archive section
 - Expand ISO 19011 guiding standard description
 - Updated internal link paths to reflect repository restructure; added local PDF link to Sparke Helmore case note
@@ -74,7 +74,9 @@
 - Format changes and minor corrections throughout (no impact to findings)
 
 ### Blockchain and Archival Verification
-- Added full SSRN section with significance statement; added SSRN to badges, opening paragraph, and Combined Verification bullet list
+- Preprint deposited on SSRN (DOI: 10.2139/ssrn.6333058) and SocArXiv (DOI: 10.31235/osf.io/sb4gz_v1)
+- Added full SSRN and SocArXiv sections and DOIs with significance statement; added badges, opening paragraph, and Combined Verification bullet list.
+- Updated Version Control polict accordingly
 - Expanded AWA significance section and removed PANDORA branding
 - Added Internet Archive direct upload section; updated Internet Archive badge to Full Repository
 - Updated permanent-archive-records with SSRN entry and March 2026 date; replaced PDF with text file
