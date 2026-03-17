@@ -1026,6 +1026,9 @@ This audit has been permanently archived and cryptographically timestamped:
 - **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
   Public version control with full history
 
+The archival stack was designed to ensure dissemination, reproducibility, and national permanence. It is documented in the [Permanent Archive README](blockchain-and-archival-verification/README.md#rationale-for-platform-selection).  
+
+
 [^plan-scope]: The Plan specifies 17 numbered pharmacovegilance strategies across five objectives. This audit assessed these 17 outputs together with two additional governance outputs: Implementation oversight and Performance measurement—necessary to evaluate implementation effectiveness and organisational performance. These governance elements reflect requirements under the Public Governance, Performance and Accountability Act 2013 s37(2) and are consistent with the definition of audit criteria (ISO 19011:2018 6.3.1) and top management responsibilities (5.2.2). Total: 19 outputs audited.
 
 ---
