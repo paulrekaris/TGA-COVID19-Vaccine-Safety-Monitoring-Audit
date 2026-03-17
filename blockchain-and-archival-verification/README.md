@@ -204,6 +204,7 @@ This audit is protected by multiple independent verification methods:
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
 - **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
+- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar (https://doi.org/10.31235/osf.io/sb4gz_v1)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
