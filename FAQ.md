@@ -591,7 +591,7 @@ This pattern indicates not poor record-keeping, but an absence of the systematic
 - Matter referred to Senate Community Affairs Legislation Committee
 - Senate testimony on record regarding implementation gaps
 
-All oversight bodies have access to the complete audit evidence through public GitHub repository and permanent Zenodo archive.
+All oversight bodies have access to the complete audit evidence through public GitHub repository and permanent Zenodo archive.  For evidence access see [Q32](#q32-how-can-people-access-the-evidence).
 
 ### Q29: What would close this audit gap?
 
@@ -623,7 +623,7 @@ My investigation follows scientific principles of falsifiability and replicabili
 - Timeline reconstruction from official sources
 - Documentation of contradictions across multiple sources
 - [Version control policy](audit-governance/version-control-policy.md) aligned with ISO 15489-1:2016 (records management) ensuring transparency, integrity, and accountability through Git version control, structured changelogs, and permanent archiving
-- Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
+- Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054). See [Q32](#q32-how-can-people-access-the-evidence).
 
 All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent scrutiny and practical replication of my findings.
 
@@ -707,7 +707,7 @@ Yes, absolutely. I’ve published this investigation openly specifically to invi
 
 If errors are identified in my analysis, I will correct them and document the corrections in the repository. If TGA or others can provide evidence that implementation records exist, or that my interpretation of the documentary record is flawed, I welcome that information and will subsequently amend my findings.
 
-The research is archived permanently [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054), but the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit) remains open for updates and corrections based on new evidence or valid criticism.
+The research is archived permanently [DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054), but the [GitHub repository](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit) remains open for updates and corrections based on new evidence or valid criticism. See [Q32](#q32-how-can-people-access-the-evidence).
 
 **How to provide feedback:**
 
