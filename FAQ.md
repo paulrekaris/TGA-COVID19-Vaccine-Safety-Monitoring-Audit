@@ -719,7 +719,7 @@ The goal is accuracy and accountability, not advocacy. Correction improves both.
 
 -----
 
-# About the Researcher
+## About the Researcher
 
 ### Q36: Who am I?
 
