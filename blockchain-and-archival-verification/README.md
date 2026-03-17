@@ -158,6 +158,10 @@ To independently verify this timestamp:
 3. System will verify against Bitcoin blockchain
 4. Confirms audit archive existed on December 31, 2025
 
+### Significance
+
+A Bitcoin blockchain timestamp provides cryptographically immutable proof that this audit existed in its current form on December 31, 2025. Unlike institutional archives, Bitcoin timestamps are decentralised and cannot be altered, suppressed, or withdrawn — making them particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
+
 ---
 
 ## Arweave Permanent Storage
