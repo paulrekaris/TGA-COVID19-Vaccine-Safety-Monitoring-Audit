@@ -26,7 +26,7 @@ This audit maintains detailed version history reflecting quality management, rec
 - **Transparency**: All version changes publicly visible—every FOI response, OAIC submission update, and methodology refinement documented and traceable.
 - **Integrity**: Records protected against unauthorised alteration through Git version control and blockchain timestamping, ensuring the audit trail cannot be retrospectively modified.
 - **Accountability**: Clear responsibility for version changes with documented rationale—corrections, evidence additions, and analytical refinements explicitly identified.
-- **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
+- **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
 **Open Access Principles**
 - **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
