@@ -1011,7 +1011,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) Academic preprint repository; indexed by Google Scholar
 
-- **SocArXiv:** [Preprint sb4gz](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
+- **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
   
 - **Bitcoin Timestamp:** December 31, 2025  
   SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
