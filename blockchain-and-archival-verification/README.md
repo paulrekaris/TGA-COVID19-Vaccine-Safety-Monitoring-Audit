@@ -120,12 +120,12 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 
 ### Significance
 
-SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by Google Scholar. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification.
+SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by Google Scholar. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification. Both SSRN and Mendeley Data are Elsevier platforms, providing discoverability within the same academic ecosystem and a direct preprint-to-dataset link.
 
 ### Access
-
 **Direct Link:** https://ssrn.com/abstract=6333058  
-**DOI:** https://doi.org/10.2139/ssrn.6333058
+**DOI:** https://doi.org/10.2139/ssrn.6333058  
+**Companion Dataset (Mendeley Data):** https://doi.org/10.17632/y5wmt6f8j9.2
 
 ---
 
