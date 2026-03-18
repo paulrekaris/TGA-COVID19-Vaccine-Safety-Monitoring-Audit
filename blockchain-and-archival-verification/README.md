@@ -112,7 +112,7 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
 **DOI:** 10.2139/ssrn.6333058  
-**Companion Dataset (Mendeley Data):** 10.17632/y5wmt6f8j9.2
+**Companion Dataset (Mendeley Data):** 10.17632/y5wmt6f8j9.2   
 **Licence:** CC BY 4.0  
 **Status:** POSTED — Publicly Accessible
 
