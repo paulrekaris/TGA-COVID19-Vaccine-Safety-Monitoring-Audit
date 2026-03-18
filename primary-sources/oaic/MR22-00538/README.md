@@ -18,9 +18,10 @@ The OAIC reviewed TGA's comprehensive TRIM search (September 2024, 531+ containe
 
 ### Evidentiary Significance
 
-The OAIC decision confirms at administrative law level that TGA's Safety Monitoring Plan implementation documentation cannot be found or does not exist. This is an independent government determination, not an audit conclusion. Independent legal analysis by [Sparke Helmore (11 May 2025)](../reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf) confirmed the administrative law finding.
+The OAIC decision confirms at administrative law level that TGA's Safety Monitoring Plan implementation documentation cannot be found or does not exist. This is an independent government determination, not an audit conclusion. Independent legal analysis by [Sparke Helmore (11 May 2025)](../../../reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)
+confirmed the administrative law finding.
 
 ---
 
-**Last Updated:** 18 March 2026  
+**Last Updated:** 19 March 2026  
 **Licence:** CC BY 4.0
