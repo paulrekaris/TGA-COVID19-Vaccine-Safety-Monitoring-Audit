@@ -114,7 +114,7 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Author:** Paul Rekaris  
 **Item URL:** https://ssrn.com/abstract=6333058  
 **DOI:** http://dx.doi.org/10.2139/ssrn.6333058  
-**Companion Dataset:** Mendeley Data DOI: 10.17632/y5wmt6f8j9.2
+**Companion Dataset:** https://doi.org/10.17632/y5wmt6f8j9.2  
 **Licence:** CC BY 4.0  
 **Status:** POSTED — Publicly Accessible
 
