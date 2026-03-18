@@ -39,7 +39,7 @@ Archival platforms were selected across three functional categories to ensure di
 - **Arweave**: Permanent decentralised blockchain storage; cryptographically immutable
 - **Bitcoin timestamp**: OpenTimestamps OP_RETURN transaction; immutable proof-of-existence on the world's most secure blockchain
 
-This architecture exceeds standard academic practice (typically two to three preprint repositories plus a code repository). The blockchain and decentralised storage layers provide tamper-proof verification aligned with OSINT methodology, ISO 19011 evidence chain requirements, and ISO 15489-1:2016 records management principles — ensuring findings remain permanently accessible and independently verifiable regardless of institutional pressure or platform failure.
+The blockchain and decentralised storage layers provide tamper-proof verification aligned with OSINT methodology, ISO 19011 evidence chain requirements, and ISO 15489-1:2016 records management principles — ensuring findings remain permanently accessible and independently verifiable regardless of institutional pressure or platform failure.
 
 ---
 
@@ -87,7 +87,6 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 ## Zenodo Archive
 
 **DOI:** 10.5281/zenodo.17731054  
-**Link:** https://doi.org/10.5281/zenodo.17731054  
 **Upload Date:** February 2026  
 **Title:** Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
@@ -112,7 +111,6 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Abstract ID:** 6333058  
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
-**Item URL:** https://ssrn.com/abstract=6333058  
 **DOI:** http://dx.doi.org/10.2139/ssrn.6333058  
 **Companion Dataset (Mendeley):** https://doi.org/10.17632/y5wmt6f8j9.2  
 **Licence:** CC BY 4.0  
@@ -136,7 +134,6 @@ SSRN is the world's largest preprint repository for social science, law, economi
 **Preprint DOI:** 10.31235/osf.io/sb4gz_v1  
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
-**Item URL:** https://doi.org/10.31235/osf.io/sb4gz_v1  
 **Supplemental Materials:** https://osf.io/jvqyt  
 **Licence:** CC BY 4.0  
 **Status:** ACCEPTED — Publicly Accessible and Searchable  
@@ -230,7 +227,6 @@ To view historical snapshots:
 
 **Upload Date:** 8 February 2026  
 **Title:** TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)  
-**Item URL:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1  
 **File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip  
 **Licence:** CC BY 4.0  
 **Status:** UPLOADED - Publicly Accessible
