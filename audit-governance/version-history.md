@@ -74,7 +74,7 @@
 - Format changes and minor corrections throughout (no impact to findings)
 
 ### Blockchain and Archival Verification
-- Preprint deposited on SSRN (DOI: 10.2139/ssrn.6333058) and SocArXiv (DOI: 10.31235/osf.io/sb4gz_v1) and updated relavant pages
+- Preprint deposited on SSRN (DOI: 10.2139/ssrn.6333058), Mendeley Data companion dataset (doi.org/10.17632/y5wmt6f8j9.2 ) and SocArXiv (DOI: 10.31235/osf.io/sb4gz_v1) and updated relavant pages
 - Added full SSRN and SocArXiv sections and DOIs with significance statement; added badges, opening paragraph, and Combined Verification bullet list.
 - Updated Version Control polict accordingly
 - Expanded AWA significance section and removed PANDORA branding
