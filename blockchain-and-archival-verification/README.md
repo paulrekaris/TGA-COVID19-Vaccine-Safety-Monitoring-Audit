@@ -1,6 +1,6 @@
 # Blockchain and Archival Verification Records
 
-This audit is protected by multiple verification and archival methods including version control/reproducibility(GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv).
+This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv).
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=9-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-17.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
 
@@ -111,8 +111,8 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Abstract ID:** 6333058  
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
-**DOI:** http://dx.doi.org/10.2139/ssrn.6333058  
-**Companion Dataset (Mendeley):** https://doi.org/10.17632/y5wmt6f8j9.2  
+**DOI:** 10.2139/ssrn.6333058  
+**Companion Dataset (Mendeley Data):** 10.17632/y5wmt6f8j9.2
 **Licence:** CC BY 4.0  
 **Status:** POSTED — Publicly Accessible
 
