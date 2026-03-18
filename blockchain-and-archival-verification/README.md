@@ -134,7 +134,6 @@ SSRN is the world's largest preprint repository for social science, law, economi
 **Preprint DOI:** 10.31235/osf.io/sb4gz_v1  
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
-**Supplemental Materials:** https://osf.io/jvqyt  
 **Licence:** CC BY 4.0  
 **Status:** ACCEPTED — Publicly Accessible and Searchable  
 **Indexed:** Google Scholar
