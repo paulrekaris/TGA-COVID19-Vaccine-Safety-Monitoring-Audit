@@ -95,6 +95,7 @@
 ### File Maintenance
 - Kebab-case file naming applied throughout including media files
 - Updated TOC to reflect renamed and restructured files
+- Updated internal relative path references, anchors, and links
 
 ### Other changes
 - Added Table of Contents with anchor links to README files requiring navigation aids, based on document length and section complexity
