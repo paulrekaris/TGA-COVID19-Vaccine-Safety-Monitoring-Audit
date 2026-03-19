@@ -652,6 +652,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17731054
 - SSRN: https://doi.org/10.2139/ssrn.6333058
+- Mendeley Data: https://doi.org/10.17632/y5wmt6f8j9
 - SocArXiv: https://doi.org/10.31235/osf.io/sb4gz_v1
 - National Library of Australia – Legal Deposit: NED447016P1081502 [https://nla.gov.au/nla.obj-4148163541/view](https://nla.gov.au/nla.obj-4148163541/view)
 - Bitcoin timestamp: December 31, 2025
