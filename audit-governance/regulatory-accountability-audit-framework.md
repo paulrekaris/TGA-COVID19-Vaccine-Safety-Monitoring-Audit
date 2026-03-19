@@ -116,18 +116,13 @@ This framework inverts traditional research self-protection. Rather
 than minimising exposure to challenge, the methodology maximises 
 verification opportunities:
 
-**Permanent public archive** invites long-term examination
-**Complete source citation** enables independent verification  
-**Transparent version control** documents evolution and corrections
-**Replicable methods** encourage testing and validation
-**Multiple independent repositories** ensure survival under stress
+**Permanent public archive** invites long-term examination  
+**Complete source citation** enables independent verification    
+**Transparent version control** documents evolution and corrections  
+**Replicable methods** encourage testing and validation  
+**Multiple independent repositories** ensure survival under stress  
 
-The framework gains strength through testing. Each scrutiny attempt 
-either confirms findings (strengthening validity) or reveals errors 
-(improving accuracy). Both outcomes enhance the evidence base. Time 
-compounds this effect: blockchain timestamps prevent retroactive 
-alteration, ensuring findings remain independently testable 
-regardless of institutional pressures.
+The framework gains strength through testing. Each scrutiny attempt either confirms findings (strengthening validity) or reveals errors (improving accuracy). Both outcomes enhance the evidence base. Time compounds this effect: blockchain timestamps prevent retroactive alteration, ensuring findings remain independently testable regardless of institutional pressures.
 
 ## Framework Licence
 
@@ -136,8 +131,6 @@ Creative Commons Attribution 4.0 International (CC BY 4.0). You
 may use, adapt, and distribute this framework with appropriate 
 attribution. 
 
-**Attribution requirement:** "Based on Regulatory Accountability 
-Audit Framework by Paul Rekaris (2026), 
-https://doi.org/10.5281/zenodo.17731054"
+**Attribution requirement:** "Based on Regulatory Accountability Audit Framework by Paul Rekaris (2026), https://doi.org/10.5281/zenodo.17731054"
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
