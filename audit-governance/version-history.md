@@ -61,7 +61,7 @@
 - Added Prime Minister and Cabinet Handbook citation referencing ministerial obligation to carry out Cabinet-endorsed decisions
 - Added alternative explanations for absent records to Limitations and Falsifiability section
 - Added Archive and Preservation section with NLA monthly snapshot notifications and direct link to AWA; added NLA monthly snapshot of GitHub website to Australian Web Archive (distinct from dataset archiving)
-- Added 8-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
+- Added Multi-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
 - Introduced navigation buttons: NLA/AWA, ZIP download, Version History, Permanent Archive, and Last Commit
 - Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
 - Added SSRN and SocArXiv badges after Zenodo DOI badge; updated NLA badge text to Web 
@@ -85,8 +85,8 @@
 - Updated NLA record to include Australian Web Archive
 - Added Zenodo section with full details, significance statement, GitHub integration, and concept DOI
 - Fixed AWA heading levels and removed PANDORA reference
-- Updated preservation layer count from seven to nine
-- Rationale for Platform Selection section added to Permanent Archive README documenting nine-layer archival stack across dissemination, reproducibility, and national permanence categories
+- Updated preservation layer count from seven to a multi-layer approach enabling future proofing
+- Rationale for Platform Selection section added to Permanent Archive README documenting multi-layer archival stack across dissemination, reproducibility, and national permanence categories; changed name of badges and description to multi-layer across the repo to enable future proofing 
 - Two-sentence reference added to main README linking to Rationale for Platform Selection
 - Restructure permanent archive README — significance before access, add missing access sections, add rationale for platform selectio
 - Mendeley Data badge added to Blockchain and Archival Verification README (DOI: 10.17632/y5wmt6f8j9) and reordered badge rows by category: Row 1 (institutional), Row 2 (academic repositories), Row 3 (blockchain/web archive)
