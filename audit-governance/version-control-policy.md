@@ -166,7 +166,6 @@ Detailed version control combined with OSINT documentation serves multiple accou
 
 Version history combined with OSINT documentation enables accountability infrastructure—proving claims evolved through systematic evidence gathering from TGA's own statements while meeting international standards for records integrity, audit quality, and intelligence community investigative methodology.
 
-
 ## References
 
 **International Standards:**
@@ -185,17 +184,17 @@ Version history combined with OSINT documentation enables accountability infrast
 
 5. Glassman, M., & Kang, M. J. (2012). Intelligence in the internet age: The emergence and evolution of Open Source Intelligence (OSINT). *Computers in Human Behavior*, 28(2), 673–682. <https://doi.org/10.1016/j.chb.2011.11.014>
 
-6. Keep a Changelog. <https://keepachangelog.com/>
+6. Preston-Werner, T. (2013). Semantic Versioning 2.0.0. <https://semver.org/spec/v2.0.0.html>
 
-7. Preston-Werner, T. (2013). Semantic Versioning 2.0.0. <https://semver.org/spec/v2.0.0.html>
+7. Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*. <https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf>
 
-8. Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*. <https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf>
+8. Office of the Director of National Intelligence. (2024). Intelligence Community Directive, 206: Sourcing Requirements for Disseminated Analytic Products. Technical Amendment <https://www.dni.gov/files/documents/ICD/ICD-206.pdf>
 
-9. Office of the Director of National Intelligence. (2024). Intelligence Community Directive, 206: Sourcing Requirements for Disseminated Analytic Products. Technical Amendment <https://www.dni.gov/files/documents/ICD/ICD-206.pdf>
-
-10. OSINT Foundation. (2024). *Principles for OSINT Professionals*. <https://www.osintfoundation.com/osint/Standards.asp>
+9. OSINT Foundation. (2024). *Principles for OSINT Professionals*. <https://www.osintfoundation.com/osint/Standards.asp>
 
 **Version Control and Release Management:**
+
+10. Keep a Changelog. <https://keepachangelog.com/>
 
 11. GitHub. (2024). Managing releases in a repository. GitHub Docs. <https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository>
 
