@@ -83,7 +83,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 
 ### Access
 
-**Direct Link:** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance  
+**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
 **Trove Discovery:** https://trove.nla.gov.au/
 
 ---
@@ -116,7 +116,7 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
 **DOI:** 10.2139/ssrn.6333058  
-**Companion Dataset** (Mendeley Data): 10.17632/y5wmt6f8j9
+**Companion Dataset** (Mendeley Data): 10.17632/y5wmt6f8j9  
 **Licence:** CC BY 4.0  
 **Status:** POSTED — Publicly Accessible
 
@@ -126,7 +126,7 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ### Access
 **Direct Link:** https://ssrn.com/abstract=6333058  
-**DOI:** https://doi.org/10.2139/ssrn.6333058 
+**DOI:** https://doi.org/10.2139/ssrn.6333058   
 **Companion Dataset (Mendeley Data):** https://data.mendeley.com/datasets/y5wmt6f8j9
 
 ---
