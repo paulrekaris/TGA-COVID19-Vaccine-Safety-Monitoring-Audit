@@ -126,7 +126,7 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ### Access
 **Direct Link:** https://ssrn.com/abstract=6333058  
-**DOI:** https://doi.org/10.2139/ssrn.6333058 (all versions)  
+**DOI:** https://doi.org/10.2139/ssrn.6333058 
 **Companion Dataset (Mendeley Data):** https://data.mendeley.com/datasets/y5wmt6f8j9
 
 ---
