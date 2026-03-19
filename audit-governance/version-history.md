@@ -104,8 +104,16 @@
 
 ### Other changes
 - Added Table of Contents with anchor links to README files requiring navigation aids, based on document length and section complexity
-- Created primary-source subfolders for OAIC cases MR22/00538 and MR25/01153; MR25/01153 README includes application details, FOI reference (FOI 25-0166), and agency details- Added README files to both subfolders​​​​​​​​​​​​​​​​
+- Created primary-source subfolders for OAIC cases MR22/00538 and MR25/01153; MR25/01153 README includes application details, FOI reference (FOI 25-0166), and agency details- Added README files to both subfolders
 
+### Added
+- Standards badges added to audit-governance folder README (15 badges: ISO 19011:2018, ISO 15489-1:2016, ISO 14721:2025, ANAO, OSINT Foundation, ODNI, Open Access, FAIR Principles, DPC, Semantic Versioning, Keep a Changelog, Zenodo, GitHub, OpenTimestamps, Arweave)
+- Standards badges added to Version Control Policy (ISO 19011:2018, ISO 15489-1:2016, Open Access, Semantic Versioning, Keep a Changelog, OSINT Foundation, ODNI, Zenodo, GitHub, OpenTimestamps, Arweave)
+- Standards badges added to Release Workflow Checklist (ISO 19011:2018, ISO 15489-1:2016, Semantic Versioning, Zenodo)
+- Standards badges added to Evidence Storage Methodology page (ISO 15489-1:2016, FAIR Principles, Open Access, DPC)
+- ISO 14721:2025 badge added to Preservation Standard section in Blockchain and Archival Verification README
+- Standards badges added to ISO 19011 Conformity Assessment page (ISO 19011:2018, ISO 15489-1:2016, ISO 14721:2025, ANAO, GAO)
+​​​​​​​​​​​​​​​​
 ---
 
 **Note:** Core audit findings unchanged. Finding strengthened.
