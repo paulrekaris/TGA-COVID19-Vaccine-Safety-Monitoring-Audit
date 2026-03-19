@@ -2,7 +2,7 @@
 
 This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv, Mendeley Data).
 
-[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=9-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-19.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
+[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-19.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
 
@@ -26,7 +26,7 @@ This audit is protected by multiple verification and archival methods including 
 
 ## Rationale for Platform Selection
 
-Archival platforms were selected across three functional categories to ensure dissemination, reproducibility, and national permanence. Together they form a nine-layer stack that meets academic norms while providing forensic-grade verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
+Archival platforms were selected across three functional categories to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic norms while providing forensic-grade verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
@@ -260,7 +260,7 @@ This audit is protected by multiple independent verification methods:
 
 ### Preservation Standard
 
-The multi-layer archival architecture aligns with ISO 14721:2025 — Open Archival Information System (OAIS) reference model, the international standard for long-term digital preservation. OAIS defines the framework for ingest, archival storage, data management, access, and preservation planning. The nine independent preservation layers documented above implement OAIS principles of multi-copy redundancy, designated-community access, and long-term availability independent of any single platform.
+The multi-layer archival architecture aligns with ISO 14721:2025 — Open Archival Information System (OAIS) reference model, the international standard for long-term digital preservation. OAIS defines the framework for ingest, archival storage, data management, access, and preservation planning. The multi-layer independent preservation layers documented above implement OAIS principles of multi-copy redundancy, designated-community access, and long-term availability independent of any single platform.
 
 https://www.iso.org/standard/87471.html
 
