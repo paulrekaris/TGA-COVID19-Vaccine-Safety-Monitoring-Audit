@@ -1,6 +1,6 @@
 # Blockchain and Archival Verification Records
 
-This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv).
+This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv, Mendeley Data).
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=9-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-19.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 
