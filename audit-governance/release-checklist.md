@@ -94,7 +94,7 @@ This workflow checklist aligns with the following frameworks:
 - https://www.iso.org/standard/70017.html
 - Phases 1 & 4 implement Clause 6.5 (audit report preparation) and Clause 6.7 (follow-up activities)
 
-**ISOISO 15489-1:2016 — Information and documentation — Records management**: Workflow aligns with ISO 15489-1:2016 via structured creation, controls, metadata, permanent disposition (Zenodo, blockchain), and Git version control for reproducible audit trails.
+**ISO 15489-1:2016 — Information and documentation — Records management**: Workflow aligns with ISO 15489-1:2016 via structured creation, controls, metadata, permanent disposition (Zenodo, blockchain), and Git version control for reproducible audit trails.
 - https://www.iso.org/standard/62542.html
 
 **Semantic Versioning 2.0.0**
