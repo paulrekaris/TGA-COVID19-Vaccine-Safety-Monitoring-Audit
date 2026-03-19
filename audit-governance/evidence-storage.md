@@ -1,5 +1,7 @@
 # Evidence Storage Methodology and Research Standards
 
+[![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![FAIR Principles](https://img.shields.io/badge/FAIR-Data%20Principles-2E8B57?labelColor=2E8B57&style=flat-square)](https://doi.org/10.1038/sdata.2016.18) [![Open Access](https://img.shields.io/badge/Open%20Access-Suber%202012-F5A623?labelColor=F5A623&style=flat-square)](https://mitpress.mit.edu/9780262517638/open-access/) [![DPC](https://img.shields.io/badge/DPC-Digital%20Preservation%20Handbook-1B4F72?labelColor=1B4F72&style=flat-square)](https://www.dpconline.org/handbook)
+
 ## Overview
 
 This document explains the approach used to manage evidence sources in this audit, distinguishing between materials archived locally and those cited by reference through stable institutional sources.
