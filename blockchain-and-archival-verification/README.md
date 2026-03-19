@@ -35,7 +35,7 @@ Archival platforms were selected across three functional categories to ensure di
 **Reproducibility and Archiving**
 - **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
 - **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
-- **Mendeley Data**: Elsevier dataset repository powered by Digital Commons Data; DOI-supported, archived in perpetuity by DANS; FAIR data principles; companion dataset to SSRN preprint
+- **Mendeley Data**: Elsevier dataset repository powered by Digital Commons Data; DOI-supported, archived in perpetuity by DANS (Dutch national research data repository, Royal Netherlands Academy of Arts and Sciences); FAIR data principles; companion dataset to SSRN preprint
 
 **National Permanence and Decentralised Verification**
 - **National Library of Australia (AWA)**: Legal deposit confirming heritage preservation as a significant Australian policy publication
@@ -251,7 +251,7 @@ This audit is protected by multiple independent verification methods:
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
 - **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
-- **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS (Dutch national research data repository, Royal Netherlands Academy of Arts and Sciences) (https://data.mendeley.com/datasets/y5wmt6f8j9)
+- **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS (https://data.mendeley.com/datasets/y5wmt6f8j9)
 - **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar (https://doi.org/10.31235/osf.io/sb4gz_v1)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
