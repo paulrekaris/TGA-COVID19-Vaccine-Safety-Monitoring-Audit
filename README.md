@@ -1013,6 +1013,8 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) Academic preprint repository; indexed by Google Scholar
 
+- **Mendeley Data:** https://doi.org/10.17632/y5wmt6f8j9 (companion dataset to SSRN preprint)
+
 - **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
   
 - **Bitcoin Timestamp:** December 31, 2025  
