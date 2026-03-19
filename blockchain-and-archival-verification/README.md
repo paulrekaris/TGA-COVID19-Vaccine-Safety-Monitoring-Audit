@@ -2,7 +2,7 @@
 
 This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv).
 
-[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=9-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-18.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
+[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=9-Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-19.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
 
@@ -73,8 +73,8 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 **Archive ID:** 20260205171443  
 **NLA Reference:** Australian Web Archive (AWA) selective capture  
 **Archive Date:** 5 February 2026, 5:14 PM AEDT  
-**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit: audit-governance branch  
-**Target:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance  
+**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit  
+**Target:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit  
 **Status:** Publicly accessible via webarchive.nla.gov.au and Trove
 
 ### Significance
@@ -90,7 +90,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 
 ## Zenodo Archive
 
-**DOI:** 10.5281/zenodo.17731054  
+**DOI:** 10.5281/zenodo.17731054 (all versions)  
 **Upload Date:** February 2026  
 **Title:** Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
@@ -116,7 +116,7 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
 **DOI:** 10.2139/ssrn.6333058  
-**Companion Dataset (Mendeley Data):** 10.17632/y5wmt6f8j9
+**Companion Dataset** (Mendeley Data): 10.17632/y5wmt6f8j9
 **Licence:** CC BY 4.0  
 **Status:** POSTED — Publicly Accessible
 
@@ -126,7 +126,7 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ### Access
 **Direct Link:** https://ssrn.com/abstract=6333058  
-**DOI:** https://doi.org/10.2139/ssrn.6333058  
+**DOI:** https://doi.org/10.2139/ssrn.6333058 (all versions)  
 **Companion Dataset (Mendeley Data):** https://data.mendeley.com/datasets/y5wmt6f8j9
 
 ---
@@ -251,6 +251,7 @@ This audit is protected by multiple independent verification methods:
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
 - **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
 - **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
+- **Mendeley Data:** Companion dataset repository; Elsevier ecosystem (https://data.mendeley.com/datasets/y5wmt6f8j9)
 - **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar (https://doi.org/10.31235/osf.io/sb4gz_v1)
 - **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
 - **Arweave:** Permanent storage ensuring file accessibility forever
@@ -267,4 +268,4 @@ Together, these create archival protection ensuring the audit cannot be suppress
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 2026-03-18
+**Last updated:** 2026-03-19
