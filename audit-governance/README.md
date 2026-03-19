@@ -27,3 +27,5 @@ These documents demonstrate the audit's commitment to:
 - [Main README](../README.md) - Repository overview and audit findings
 - [FAQ](../FAQ.md) - Frequently asked questions
 - [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) - Complete audit with findings and evidence
+
+**Last updated** 19 March 2026
