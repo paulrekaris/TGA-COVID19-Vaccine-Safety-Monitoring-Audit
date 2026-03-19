@@ -260,7 +260,7 @@ This audit is protected by multiple independent verification methods:
 
 ### Preservation Standard
 
-[![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-0066CC?labelColor=0066CC)](https://www.iso.org/standard/87471.html)
+[[![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html)
 
 The multi-layer archival architecture aligns with ISO 14721:2025 — Open Archival Information System (OAIS) reference model, the international standard for long-term digital preservation. OAIS defines the framework for ingest, archival storage, data management, access, and preservation planning. The independent preservation layers documented above implement OAIS principles of multi-copy redundancy, designated-community access, and long-term availability independent of any single platform.
 
