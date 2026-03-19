@@ -1,6 +1,6 @@
 # Evidence Storage Methodology and Research Standards
 
-[![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![Open Access](https://img.shields.io/badge/Open%20Access-Suber%202012-E67E22?labelColor=E67E22&style=flat-square)](https://mitpress.mit.edu/9780262517638/open-access/) [![FAIR Principles](https://img.shields.io/badge/FAIR-Data%20Principles-1A7A4A?labelColor=1A7A4A&style=flat-square)](https://doi.org/10.1038/sdata.2016.18) [![DPC](https://img.shields.io/badge/DPC-Digital%20Preservation%20Handbook-006666?labelColor=006666&style=flat-square)](https://www.dpconline.org/handbook)
+[![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![Open Access](https://img.shields.io/badge/Open%20Access-Suber%202012-E67E22?labelColor=E67E22&style=flat-square)](https://mitpress.mit.edu/9780262517638/open-access/) [![FAIR Principles](https://img.shields.io/badge/FAIR-Data%20Principles-000000?labelColor=000000&style=flat-square)](https://doi.org/10.1038/sdata.2016.18) [![DPC](https://img.shields.io/badge/DPC-Digital%20Preservation%20Handbook-1A7A4A?labelColor=1A7A4A&style=flat-square)](https://www.dpconline.org/handbook)
 
 ## Overview
 
