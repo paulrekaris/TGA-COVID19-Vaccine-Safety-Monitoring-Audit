@@ -32,6 +32,7 @@ Archival platforms were selected across three functional categories to ensure di
 **Reproducibility and Archiving**
 - **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
 - **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
+- **Mendeley Data**: Elsevier dataset repository; DOI-backed via DataCite, archived in perpetuity by DANS; FAIR data principles; companion dataset to SSRN preprint
 
 **National Permanence and Decentralised Verification**
 - **National Library of Australia (AWA)**: Legal deposit confirming heritage preservation as a significant Australian policy publication
