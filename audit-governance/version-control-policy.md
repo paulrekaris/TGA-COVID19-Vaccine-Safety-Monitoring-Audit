@@ -57,7 +57,7 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) for independent replication.
-- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockcahin timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.
+- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
   
 **See:** [Complete Version History](version-history.md)
