@@ -27,7 +27,7 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 
 - **GitHub:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - **SSRN:** https://doi.org/10.2139/ssrn.6333058
-- **Mendeley Data:** https://data.mendeley.com/datasets/y5wmt6f8j9
+- **Mendeley Data:** https://doi.org/10.17632/y5wmt6f8j9
 - **SocArXiv:** https://doi.org/10.31235/osf.io/sb4gz_v1
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
@@ -475,7 +475,7 @@ Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent 
 
 ### Q20: How many safety signals were investigated?
 
-TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory actions. However, 91 signals (62%) have no documented disposition or decision criteria. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
+TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory actions. However, 91 signals (61%) have no documented disposition or decision criteria. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
 
 ### Q21: What’s the AusVaxSafety integration gap?
 
@@ -614,7 +614,7 @@ If these records exist, producing them would immediately resolve the documented 
 
 My investigation follows scientific principles of falsifiability and replicability, and the methodology is fully documented in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - It includes:
 
-- Systematic FOI requests (2021–2025)
+- Systematic FOI requests (2022–2025)
 - OAIC review materials and decisions
 - Senate Hansard testimony
 - Application of audit principles from [ISO 19011:2018 – Guidelines for Auditing Management Systems](analysis/ISO-19011-conformity-assessment-checklist.md) and [ANAO – Performance Audit Process](https://www.anao.gov.au/work/insights/performance-audit-process)
@@ -674,10 +674,10 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 Several important limitations:
 
 1. **Not yet peer-reviewed**: This work has not yet completed formal peer review
-1. **Individual researcher**: Conducted in my personal capacity, not institutional research
-1. **Document-dependent**: Analysis based on publicly available documents and materials TGA released (or confirmed don’t exist) through FOI
-1. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
-1. **Alternative explanations for absent records**: Three possible explanations exist: records never existed because enhanced monitoring was not systematically implemented; records existed but were not retained in accordance with Commonwealth obligations; or records exist but have not been located or disclosed. All three represent significant accountability failures, and the audit’s findings apply regardless of which explanation proves correct.
+2. **Individual researcher**: Conducted in my personal capacity, not institutional research
+3. **Document-dependent**: Analysis based on publicly available documents and materials TGA released (or confirmed don’t exist) through FOI
+4. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
+5. **Alternative explanations for absent records**: Three possible explanations exist: records never existed because enhanced monitoring was not systematically implemented; records existed but were not retained in accordance with Commonwealth obligations; or records exist but have not been located or disclosed. All three represent significant accountability failures, and the audit’s findings apply regardless of which explanation proves correct.
 
 **Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [Australian Information Commissioner](reference-documents/aicmr-54-26-march-2025.pdf), is the central finding.
 
