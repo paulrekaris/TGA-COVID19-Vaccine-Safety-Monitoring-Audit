@@ -74,6 +74,8 @@
 - Adedd Mendeley Data badge and link to main README (DOI: 10.17632/y5wmt6f8j9)and details to Permanent Archive section
 - Reordered badge rows in main README by credibility and academic identity: Row 1 (Permanent Archive, NLA), Row 2 (Zenodo, Mendeley Data, SSRN, SocArXiv)
 - Expaned ISO 15489-1:2016 description in Guiding Standards section
+- Fix: Clarify 19 audited outputs (17 strategies + 2 governance. Update Key Findings #3, #6, and Implementation Status section to
+distinguish audited outputs from Plan's original specifications.
 - Format changes, updated anchor and page links and minor corrections throughout (no impact to findings)
 
 ### Blockchain and Archival Verification
