@@ -192,7 +192,7 @@ This is **NOT an ISO certification audit**. ISO 19011 is a guideline standard fo
 
 ISO 19011:2018 Clause 6.3.1 requires that audit criteria be clearly defined to enable evidence-based assessment. The TGA COVID-19 Vaccine Safety Monitoring Plan does not meet this standard. It does not number its outputs and conflates strategies with deliverables, meaning that audit criteria were not readily identifiable.  Applying professional judgement consistent with Clause 5.2.2 (audit programme objectives), this audit adopted a conservative approach: treating each of the Plan’s 17 numbered strategies as a single auditable output at the strategy level. Where strategies implied multiple deliverables — for example, Strategy 1.2: “Supporting education and training for reporting” — the audit did not disaggregate into implied sub-outputs but assessed whether any implementation evidence existed for the strategy as a whole. This methodology reduces interpretive risk and aligns with the principle that audit scope must be directly tied to audit objectives (United States Government Accountability Office (GAO), Government Auditing Standards (Yellow Book), 2018 Revision, para. 8.10: “Scope is the boundary of the audit and is directly tied to the audit objectives”; ANAO Performance Audit Better Practice: scope is defined by the audit objectives and the criteria against which evidence is assessed).
 
-This audit does not claim to have examined every output in the Plan. It examined 19 specified outputs: the 17 strategies treated as single outputs, plus two governance outputs (GOV.1, GOV.2) reflecting PGPA Act 2013 s37(2) requirements. The finding that 16 of these 19 (84%) are partially or not documented represents a failure within the audited scope — and given the systemic nature of the gaps, likely indicates broader documentation failure across the Plan’s full complement of activities, which contains approximately 36 implied outputs when disaggregated.
+This audit does not claim to have examined every output in the Plan. It examined 19 outputs: the 17 strategies treated as single outputs, plus two governance outputs (GOV.1, GOV.2) reflecting PGPA Act 2013 s37(2) requirements. The finding that 16 of these 19 (84%) are partially or not documented represents a failure within the audited scope — and given the systemic nature of the gaps, likely indicates broader documentation failure across the Plan’s full complement of activities, which contains approximately 36 implied outputs when disaggregated.
 The Plan’s structural failure to define auditable outputs means the absence of an implementation trail reflects a design failure as much as an implementation failure.
 
 → See [Key Finding 7: Safety Monitoring Plan did not meet auditability standards](../README.md#7-safety-monitoring-plan-did-not-meet-auditability-standards)
@@ -1156,7 +1156,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 
 ### Conformity Assessment Summary
 
-**Total Audit Criteria Assessed:** 17 numbered strategies (19 specified outputs)
+**Total Audit Criteria Assessed:** 17 numbered strategies (19 audited plan outputs)
 
 **Classification:**
 
