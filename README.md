@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I" />
 
-# TGA COVID-19 Vaccine Safety Monitoring Plan Audit
+# Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D)](blockchain-and-archival-verification/) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 
@@ -14,8 +14,6 @@
 [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip)
 [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
-
-## Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit
 
 ## Quick Start
 
