@@ -26,7 +26,7 @@ This audit is protected by multiple verification and archival methods including 
 
 ## Rationale for Platform Selection
 
-Archival platforms were selected across three functional categories to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic norms while providing forensic-grade verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
+Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic standards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
