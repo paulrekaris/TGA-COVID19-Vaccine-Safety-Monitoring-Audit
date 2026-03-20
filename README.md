@@ -137,7 +137,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments
 
-**ISO 15489-1:2016** - Transparency and integrity via Git version control and blockchain timestamping
+**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
 **ANAO Better Practice** - Performance assessment against published plans and criteria
 
