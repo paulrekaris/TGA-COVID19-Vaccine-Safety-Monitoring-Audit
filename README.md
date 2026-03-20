@@ -187,7 +187,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine "day-to-day processes," contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
 > 
 > #### 3. 84% of Plan outputs not fully documented  
-> Only 3 of 19 specified Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
+> Only 3 of 19 audited Plan outputs have complete implementation documentation; 11 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions, but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
@@ -196,7 +196,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
 > #### 6. Detailed conformity assessment: 0% implementation for core monitoring
-> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 Plan outputs.
+> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 Plan audited plan outputs.
 >
 > #### 7. Safety Monitoring Plan did not meet auditability standards
 >The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five strategies; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
@@ -287,7 +287,7 @@ Each plausible explanation points to a serious failure in implementation, docume
 
 ### Implementation Status by the Numbers
 
-The assessment systematically evaluated all 19 Plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
+The assessment systematically evaluated all 19 evaluated audited plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
 
 **Overall implementation**          
 
