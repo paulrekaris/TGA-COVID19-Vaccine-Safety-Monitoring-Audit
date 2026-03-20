@@ -1009,7 +1009,7 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
 
-- **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) Academic preprint repository; indexed by Google Scholar
+- **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) | DOI: [10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058) Academic preprint repository; indexed by Google Scholar
 
 - **Mendeley Data:** https://doi.org/10.17632/y5wmt6f8j9 (companion dataset to SSRN preprint)
 
