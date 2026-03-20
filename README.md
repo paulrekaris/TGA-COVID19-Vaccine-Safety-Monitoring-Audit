@@ -143,7 +143,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles 
 
-**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)
+**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)¹
 
 > **Provenance and Authenticity Statement**: This audit preserves a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms. To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
 >
@@ -850,11 +850,9 @@ The comprehensive audit report includes:
 
 ## Open Access Framework
 
-This work is open access by design: all sources, methods, reasoning, and 
-revisions are publicly available, reusable, and challengeable without restriction.
+This work is open access by design: all sources, methods, reasoning, and revisions are publicly available, reusable, and challengeable without restriction.
 
-The audit is disseminated via a green open access pathway (Suber, 2012), with 
-all materials self-archived through GitHub (version control), Zenodo (persistent 
+The audit is disseminated via a green open access pathway (Suber, 2012)² with all materials self-archived through GitHub (version control), Zenodo (persistent 
 DOIs), and Arweave (immutable backup). This ensures:
 
 - Independent verification of all claims
@@ -863,8 +861,8 @@ DOIs), and Arweave (immutable backup). This ensures:
 - No barriers to scrutiny or reuse
 
 This approach aligns regulatory accountability work with open science principles: 
-all findings are transparent, reproducible, and falsifiable through independent 
-verification.
+
+all findings are transparent, reproducible, and falsifiable through independent verification.
 
 **References:**
 
