@@ -77,7 +77,7 @@ No records demonstrating that enhanced monitoring conditions were assessed and m
 No systematic documentation of how 6.8M+ surveys capturing 3M+ adverse event reports were integrated into TGA pharmacovigilance workflows.
 
 **Governance and Performance Reporting**  
-Only 3 of 19 plan outputs (16%) fully documented; no evidence of systematic tracking against plan objectives.
+Only 3 of 19 audited plan outputs (16%) fully documented; no evidence of systematic tracking against plan objectives.
 
 -----
 
