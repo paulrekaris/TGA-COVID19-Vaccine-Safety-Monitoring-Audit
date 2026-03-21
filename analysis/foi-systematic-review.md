@@ -1,6 +1,6 @@
 # FOI Systematic Search and Review (2020–2025)
 
-[![OSINT Foundation](https://img.shields.io/badge/OSINT-Foundation%20Standards-1A7A4A?labelColor=000000&style=flat-square)](https://www.osintfoundation.com/osint/Standards.asp)
+[![OSINT Foundation](https://img.shields.io/badge/OSINT-Foundation%20Standards-1A7A4A?labelColor=000000&style=flat-square)](https://www.osintfoundation.com/osint/Standards.asp) [![ODNI](https://img.shields.io/badge/ODNI-IC%20OSINT%20Strategy-1B2A4A?labelColor=1B2A4A&style=flat-square)](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf)
 
 ## Overview
 
