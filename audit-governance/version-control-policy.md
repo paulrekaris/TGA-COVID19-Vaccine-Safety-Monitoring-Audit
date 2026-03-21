@@ -5,6 +5,8 @@
 ## Table of Contents
 
 - [Purpose](#purpose)
+- [Scope](#scope)
+- [Maintenance](#maintenance)
 - [Guiding Standards](#guiding-standards)
 - [Implementation](#implementation)
 - [Release Workflow](#release-workflow)
@@ -18,6 +20,14 @@
 
 ## Purpose
 This audit maintains detailed version history reflecting quality management, records management, and research transparency standards applied to regulatory accountability investigation.
+
+## Scope
+
+This version history records significant revisions and major updates to the audit documentation. Minor corrections, typographical fixes, and formatting changes are not individually logged here but are fully captured in the repository's commit history.
+
+## Maintenance
+
+Best efforts are made to document substantive changes. This log is maintained on a best‑efforts basis and is not exhaustive. For a complete record of all changes, refer to the repository's commit history.
 
 ## Guiding Standards
 
