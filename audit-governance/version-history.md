@@ -2,6 +2,8 @@
 
 **Version Control Policy:** This audit maintains detailed version history following ISO 19011:2018 continuous improvement, ISO 15489-1:2016 records management, Keep a Changelog methodology, OSINT documentation standards, and research integrity principles. See [Version Control Policy](version-control-policy.md) for complete methodology.
 
+**Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
+
 ---
 
 ## Table of Contents
