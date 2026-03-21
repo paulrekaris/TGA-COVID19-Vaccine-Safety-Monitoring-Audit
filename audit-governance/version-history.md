@@ -44,6 +44,7 @@
 - Updated Version Control Policy to include quality and records management, research transparency applied to regulatory accountability, expanded OSINT detail, changelog, open access framework, and additional relevant references
 - Updated evidence storage methodology with repository folder structure explanation and ISO 15489-1:2016 alignment; updated international standards classification to reflect freely available status of ICH and CIOMS standards with local archiving noted
 - Added ISO 15489-1:2016 as referenced standard in `release-checklist.md`
+- Add version history policy note: significant revisions only, minor changes in commits
 
 ### Primary Sources
 - Restructured primary-sources folder with seven subfolders (foi, oaic, senate-community-affairs-legislation-committee, tga-documents, aust-gov-policy, vaccination-data, vaccine-surveillance) and three FOI subfolders (foi-25-0166, foi-3643, foi-4029)
