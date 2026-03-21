@@ -216,11 +216,11 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ## References
 
-Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32. Available: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/foi/foi-3643/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
+1. Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32. Available: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/foi/foi-3643/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 
-Rekaris, P. (2026). *Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit (Version 1.9)*. Appendix A.2.2 "Online Document Search Methodology", pp. 77-78. Zenodo. https://doi.org/10.5281/zenodo.17731054. Available: [`analysis/documentation-gap-analysis-audit-report.pdf`](../analysis/documentation-gap-analysis-audit-report.pdf)
+2. Rekaris, P. (2026). *Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit (Version 1.9)*. Appendix A.2.2 "Online Document Search Methodology", pp. 77-78. Zenodo. https://doi.org/10.5281/zenodo.17731054. Available: [`analysis/documentation-gap-analysis-audit-report.pdf`](../analysis/documentation-gap-analysis-audit-report.pdf)
 
-'AUQ' and Department of Health and Aged Care (Freedom of information) [2025] AICmr 54 (26 March 2025). Available: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
+3. 'AUQ' and Department of Health and Aged Care (Freedom of information) [2025] AICmr 54 (26 March 2025). Available: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
 ---
 
