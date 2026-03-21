@@ -136,3 +136,5 @@ attribution.
 **Attribution requirement:** "Based on Regulatory Accountability Audit Framework by Paul Rekaris (2026), https://doi.org/10.5281/zenodo.17731054"
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+**Last updated**: 21 March 2026
