@@ -201,7 +201,7 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 16% of the Plan’s 19 outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the Plan’s 19 audited outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
