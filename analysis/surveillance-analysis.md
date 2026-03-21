@@ -416,21 +416,23 @@ The question "Was the Plan implemented as operational accountability framework a
 
 2. International Council for Harmonisation. (2004). ICH E2E Pharmacovigilance Planning. Step 4 Guideline. https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
-3. Therapeutic Goods Administration. (2021). COVID-19 vaccine weekly safety report – 03-03-2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-03-03-2021
+3. Therapeutic Goods Administration. (2024). ICH Topic E 2 E – Pharmacovigilance Planning (PVP). International Scientific Guidelines Adopted in Australia. https://www.tga.gov.au/resources/resources/international-scientific-guidelines-adopted-australia/ich-topic-e-2-e-pharmacovigilance-planning-pvp
 
-4. Therapeutic Goods Administration. (2021). COVID-19 vaccine weekly safety report – 23-12-2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021
+4. Therapeutic Goods Administration. (2021). COVID-19 vaccine weekly safety report – 03-03-2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-03-03-2021
 
-5. Therapeutic Goods Administration. (2022). COVID-19 vaccine safety report – 28-07-2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-28-07-2022
+5. Therapeutic Goods Administration. (2021). COVID-19 vaccine weekly safety report – 23-12-2021. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021
 
-6. Therapeutic Goods Administration. (2022). COVID-19 vaccine safety report – 01-12-2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-01-12-2022
+6. Therapeutic Goods Administration. (2022). COVID-19 vaccine safety report – 28-07-2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-28-07-2022
 
-7. Therapeutic Goods Administration. (2023). COVID-19 vaccine safety report – 27-07-2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-27-07-2023
+7. Therapeutic Goods Administration. (2022). COVID-19 vaccine safety report – 01-12-2022. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-01-12-2022
 
-8. Therapeutic Goods Administration. (2023). COVID-19 vaccine safety report – 02-11-2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-2023
+8. Therapeutic Goods Administration. (2023). COVID-19 vaccine safety report – 27-07-2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-27-07-2023
 
-9. Therapeutic Goods Administration. (2021). FOI 4029-03: Advisory Committee on Vaccines Meeting 25 Materials. https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-03.PDF
+9. Therapeutic Goods Administration. (2023). COVID-19 vaccine safety report – 02-11-2023. https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-02-11-2023
 
-10.Parliament of Australia. (2025). *Senate Community Affairs Legislation Committee Estimates – 9 October 2025*. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+10. Therapeutic Goods Administration. (2021). FOI 4029-03: Advisory Committee on Vaccines Meeting 25 Materials. https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-03.PDF
+
+11. Parliament of Australia. (2025). *Senate Community Affairs Legislation Committee Estimates – 9 October 2025*. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
 ----
 
