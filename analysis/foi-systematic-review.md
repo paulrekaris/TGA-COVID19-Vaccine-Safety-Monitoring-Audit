@@ -1,5 +1,7 @@
 # FOI Systematic Search and Review (2020–2025)
 
+[![OSINT Foundation](https://img.shields.io/badge/OSINT-Foundation%20Standards-1A7A4A?labelColor=000000&style=flat-square)](https://www.osintfoundation.com/osint/Standards.asp)
+
 ## Overview
 
 Following completion of the primary audit, a systematic review of TGA's complete FOI disclosure log was conducted using Open Source Intelligence (OSINT) methodology to verify completeness of the audit evidence base and identify any potentially relevant Plan implementation documents.
