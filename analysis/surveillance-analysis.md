@@ -272,7 +272,7 @@ Yet concurrent public safety reports provided:
 
 **Impact on Vaccine Injury Compensation:**
 
-The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard.¹⁶ TGA investigated 148 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 rejected/withdrawn claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
+The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 148 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 rejected/withdrawn claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
 
 FOI 4029-03 demonstrates TGA prepared methodology materials for Advisory Committee discussion—but citizens seeking comparable information through Freedom of Information requests receive refusals stating documents "do not exist in consolidated form" or retrieval would require "unreasonable diversion of resources."
 
