@@ -750,7 +750,7 @@ The Plan did not align with ISO 19011:2018 auditability principles or ANAO bette
 - **Surveillance analysis:** 150+ public reports contain zero Plan framework references
 
 **TGA's Own Admissions:**
-- **Senate testimony (9 Oct 2025):** Monitoring was "day-to-day processes" never systematically tracked
+- **Senate testimony (9 October 2025):** Monitoring was "day-to-day processes" never systematically tracked
 - **OAIC searches (Sep 2024):** 531+ containers, 2,218+ pages reviewed, zero implementation docs found
 - **FOI 4029-03 (Sep 2021):** TGA presented Plan-organised materials to Advisory Committee but excluded from public reports
 
