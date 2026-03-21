@@ -412,7 +412,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 ## References
 
-1. World Health Organization. (2013). **Vaccine Safety Basics: Learning Manual** (Module 6: Signal Detection). p. 45-47. Background incidence rates and expected vs observed comparisons. https://iris.who.int/bitstream/handle/10665/340576/WHO-HIS-2013.06-eng.pdf [web:112]
+1. World Health Organization. (2013). **Vaccine Safety Basics: Learning Manual** (Module 6: Signal Detection). p. 45-47. Background incidence rates and expected vs observed comparisons. https://iris.who.int/bitstream/handle/10665/340576/WHO-HIS-2013.06-eng.pdf
 
 2. International Council for Harmonisation. (2004). ICH E2E Pharmacovigilance Planning. Step 4 Guideline. https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
