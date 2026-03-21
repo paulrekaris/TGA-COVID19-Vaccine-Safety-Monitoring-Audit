@@ -121,7 +121,7 @@ Documents were excluded where they:
 - Focused on pre-market evaluation rather than post-market surveillance
 - Lacked references to Plan strategies, VSIG procedures, or enhanced monitoring governance
 
-All 22 additional FOIs beyond FOI 4029 and FOI 5082 fall outside audit scope—they do not contain evidence regarding implementation of the Plan's 17 strategies as distinct, documentable processes.
+All 22 additional FOIs beyond FOI 4029 and FOI 5082 fall outside audit scope—they do not contain evidence regarding implementation of the Plan's 17 strategies and two governance outputs as distinct, documentable processes.
 
 ### Important Distinction: Pharmacovigilance Plan v Safety Monitoring Plan 
 
@@ -144,7 +144,7 @@ The audit repository contains all identified Plan implementation evidence from t
 Complete absence of Plan framework references across the entire FOI corpus confirms the audit finding: enhanced monitoring framework implementation cannot be verified through documentary evidence. The documentation gap is comprehensive and systemic, not selective.
 
 ### Evidence Base Completeness
-No additional FOI documents were identified that would alter implementation status ratings for the 20 Plan outputs assessed in the audit.
+No additional FOI documents were identified that would alter implementation status ratings for the 19 Plan outputs assessed in the audit.
 
 ## Conclusion
 
@@ -161,7 +161,7 @@ No additional FOI documents were identified that would alter implementation stat
 ---
 
 **Systematic review conducted by**: Paul Rekaris  
-**Last updated**: 10 January 2026  
+**Last updated**: 21 March 2026 
 **Version**: 1.1  
 **Methodology**: OSINT systematic collection and verification
 
@@ -169,10 +169,14 @@ No additional FOI documents were identified that would alter implementation stat
 
 ## References
 
-TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
+1. OSINT Foundation. (2024). *Principles for OSINT Professionals*. https://www.osintfoundation.com/osint/Standards.asp
 
-TGA. (2021). COVID-19 Vaccine Safety Monitoring Plan. https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
+2. Office of the Director of National Intelligence. (2024). *The IC OSINT Strategy 2024-2026*. https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf
 
-Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
+3. TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
+
+4. Therapeutic Goods Administration. (2021). *COVID-19 Vaccine Safety Monitoring Plan*. https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
+
+5. Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
 
 ---
