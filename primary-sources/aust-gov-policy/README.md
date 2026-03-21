@@ -34,5 +34,5 @@ Formal bilateral agreement between Commonwealth and Western Australia establishi
 
 ---
 
-**Last Updated:** March 2026  
+**Last Updated:** 12 March 2026  
 **Licence:** CC BY 4.0
