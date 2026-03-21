@@ -1,5 +1,7 @@
 # Surveillance Data Analysis
 
+[![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ANAO](https://img.shields.io/badge/ANAO-Better%20Practice-00558B?labelColor=00558B&style=flat-square)](https://www.anao.gov.au/work/insights/performance-audit-process) [![ICH E2E](https://img.shields.io/badge/ICH-E2E%20Pharmacovigilance-8B0000?labelColor=8B0000&style=flat-square)](https://www.ich.org/page/safety-guidelines) [![EMA GVP IX](https://img.shields.io/badge/EMA-GVP%20Module%20IX-003865?labelColor=003865&style=flat-square)](https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/good-pharmacovigilance-practices) [![CIOMS](https://img.shields.io/badge/CIOMS-Good%20Pharmacovigilance%20Practices-1A5276?labelColor=1A5276&style=flat-square)](https://cioms.ch/publications/)
+
 ## Table of Contents
 
 - [Key Takeaways](#surveillance-data-analysis-key-takeaways)
