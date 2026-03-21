@@ -544,7 +544,7 @@ The limitations are inherent to citizen-led oversight but do not undermine findi
 
 **Assessment:** Scope clearly defined, with limitations transparently acknowledged (**CONFORMANT**)
 
-**Note**:The two governance outputs (GOV.1 Implementation oversight; GOV.2 Performance measurement) are required under standard public administration frameworks (PGPA Act 2013 s37(2); ISO 19011:2018 5.2.3 and 6.3.1).
+**Note**:The two governance outputs (GOV.1 Implementation oversight; GOV.2 Performance measurement) are required under standard public administration frameworks (PGPA Act 2013 s37(2); ISO 19011:2018 5.2.2 and 6.3.1).
 
 ---
 
