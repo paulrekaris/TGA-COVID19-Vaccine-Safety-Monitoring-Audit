@@ -66,7 +66,7 @@
 - Added Archive and Preservation section with NLA monthly snapshot notifications and direct link to AWA; added NLA monthly snapshot of GitHub website to Australian Web Archive (distinct from dataset archiving)
 - Added Multi-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
 - Introduced navigation buttons: NLA/AWA, ZIP download, Version History, Permanent Archive, and Last Commit
-- Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency
+- Changed project title to "TGA COVID-19 Vaccine Safety Monitoring Plan Audit" for consistency and deleted subheadimg
 - Added SSRN and SocArXiv badges after Zenodo DOI badge; updated NLA badge text to Web 
 - Archive; added SSRN citation to citation section and permanent archive section
 - Expand ISO 19011 guiding standard description
@@ -121,6 +121,7 @@ distinguish audited outputs from Plan's original specifications.
 - ISO 19011 Conformity Assessment: ISO 19011:2018, ISO 15489-1:2016, ISO 14721:2025, ANAO, GAO
 - Analysis Documents README: ISO 19011:2018, ISO 15489-1:2016, ANAO, GAO
 - Blockchain and Archival Verification README: ISO 14721:2025 (Preservation Standard section)
+- Standardise reference formatting, and add two OSINT references in FOI systematic review
 ​​​​​​​​​​​​​​​​
 ---
 
