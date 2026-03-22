@@ -5,8 +5,8 @@
 ## Phase 1: Content Finalisation (Always Required)
 - [ ] Finalise all content changes
 - [ ] Update version number and date in README and CITATIONS
-- [ ] Document changes in VERSION-HISTORY.md
-- [ ] Update archive notes in VERSION-HISTORY.md and README to: "Zenodo DOI current. Blockchain and Arweave verification pending."
+- [ ] Document changes in version-history.md
+- [ ] Update archive notes in version-history.md and README to: "Zenodo DOI current. Blockchain and Arweave verification pending."
 - [ ] Review and test:
   - [ ] Run automated checks (CI status green, if applicable)
   - [ ] Verify all links work
@@ -49,8 +49,8 @@
 - [ ] Update blockchain verification README.md in `/blockchain-and-archival-verification/` folder
 - [ ] Upload Bitcoin timestamp verification PNG to `/blockchain-and-archival-verification/`
 - [ ] Upload permanent archive records PDF to `/blockchain-and-archival-verification/`
-- [ ] Update VERSION-HISTORY.md with blockchain details
-- [ ] Update VERSION-HISTORY.md archive note to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
+- [ ] Update version-history.md with blockchain details
+- [ ] Update version-history.md archive note to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
 - [ ] Update GitHub Release notes with blockchain verification metadata
 - [ ] Commit: `"vX.X.X: Add blockchain verification"`
 - [ ] Push blockchain verification updates
