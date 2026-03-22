@@ -718,7 +718,7 @@ From mid-2022 onwards, reports used "expected rates" and "rates similar to expec
 - Confidence intervals or p-values
 - Statistical power calculations
 
-**5.CIOMS Working Group VIII Non-Compliance:**
+**5. CIOMS Working Group VIII Non-Compliance:**
 CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through causality assessment to regulatory decision, including documented rationale for signals not resulting in regulatory action. Across 150+ safety reports (March 2021–November 2023), no signal-to-action audit trail is present. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no report documents the decision pathway from signal identification to regulatory outcome or explains why 91 signals (61%) did not lead to action.
 
 **6. OAIC Search Scope Inadequacy:**
