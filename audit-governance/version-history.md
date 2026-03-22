@@ -35,7 +35,7 @@
 - Added CIOMS Working Group VIII Chapter VIII citations to Output 2.3, Finding 5, and surveillance analysis sections in ISO-19011 conformity assessment 
 - Added Senate Questions on Notice (December 2025) gap analysis: complete analysis of TGA's December 2025 responses to SQ13–19 including four-layer governance framework mapping, question-by-question assessment table, FOI evidence analysis, prior SQON pattern analysis, and governance failure conclusion
 - Added "Case Study in Transparency" to Compensation Analysis: CDC MMWR report (August 2021) documenting quantified GBS risk (15.6/million in males 50–64), full methodology (observed/expected, 95% CI), and data sources (VAERS, VSD), contrasting with TGA's withheld equivalent analysis
-- Refined Strategy 2.3 (Enhanced cumulative data reviews): integrated FOI 5275 across output-by-output breakdown, key supporting evidence, and pattern analysis; tightened FOI 5275 description to specify AIR-denominator methodology; added external validation that Strategy 2.3 incidence data was never produced
+- Refined Strategy 2.3 (Enhanced cumulative data reviews): iintegrated FOI 5275 (direct applicant copy via FOI 26-2581) across output-by-output breakdown, key supporting evidence, and pattern analysis; tightened FOI 5275 description to specify AIR-denominator methodology; added external validation that Strategy 2.3 incidence data was never produced
 - Added markdown Table of Contents with anchor links and a back to the top link to ISO 19011 conformity assessment
 - Updated file paths throughout to reflect repository restructure
 - Format changes and minor corrections to text and references (no impact to findings)
@@ -51,6 +51,8 @@
 - Restructured primary-sources folder with seven subfolders (foi, oaic, senate-community-affairs-legislation-committee, tga-documents, aust-gov-policy, vaccination-data, vaccine-surveillance) and three FOI subfolders (foi-25-0166, foi-3643, foi-4029)
 - Migrated primary evidentiary documents from reference-documents to primary-sources
 - Added README files to all subfolders documenting folder contents and evidentiary significance
+- Updated FOI 5275 entry: replaced third-party redacted copy (sourced from Russell Broadbent MP website) with direct FOI release to applicant (Paul Rekaris) obtained via FOI 26-2581 (decided 2 February 2026, decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch). Updated filename to foi-5275-notice-of-decision.pdf. Updated primary sources README and Reference 25 in ISO 19011 conformity assessment accordingly.
+- Added FOI 5225 / FOI 2389 (Pfizer COMIRNATY provisional registration  documents, July 2021) to primary sources. Evidentiary significance: richness of pre-approval documentation contrasts with absent post-market Safety Monitoring Plan implementation records, reinforcing accountability gap finding. Added to primary sources README in chronological order.
 
 ### Reference Documents
 - Added ICH E2E Guideline and CIOMS VIII international pharmacovigilance standards for offline accessibility
@@ -75,7 +77,7 @@
 - Reformatted evidence base navigation links to inline prose
 - Moved "No Commonwealth oversight initiated" to Accountability section; removed Scale and Context section to avoid duplication
 - Added README scope footnote clarifying 17 Plan strategies + 2 governance outputs = 19 total audited (ISO 19011:2018 6.3.1/5.2.2, PGPA s37(2))
-- Adedd Mendeley Data badge and link to main README (DOI: 10.17632/y5wmt6f8j9)and details to Permanent Archive section
+- Aded Mendeley Data badge and link to main README (DOI: 10.17632/y5wmt6f8j9)and details to Permanent Archive section
 - Reordered badge rows in main README by credibility and academic identity: Row 1 (Permanent Archive, NLA), Row 2 (Zenodo, Mendeley Data, SSRN, SocArXiv)
 - Expaned ISO 15489-1:2016 description in Guiding Standards section
 - Fix: Clarify 19 audited outputs (17 strategies + 2 governance. Update Key Findings #3, #6, and Implementation Status section to
@@ -83,9 +85,9 @@ distinguish audited outputs from Plan's original specifications.
 - Format changes, updated anchor and page links and minor corrections throughout (no impact to findings)
 
 ### Blockchain and Archival Verification
-- Preprint deposited on SSRN (DOI: 10.2139/ssrn.6333058), Mendeley Data companion dataset (doi.org/10.17632/y5wmt6f8j9.2 ) and SocArXiv (DOI: 10.31235/osf.io/sb4gz_v1) and updated relavant pages
+- Preprint deposited on SSRN (DOI: 10.2139/ssrn.6333058), Mendeley Data companion dataset (doi.org/10.17632/y5wmt6f8j9.2 ) and SocArXiv (DOI: 10.31235/osf.io/sb4gz_v1) and updated relevant pages
 - Added full SSRN and SocArXiv sections and DOIs with significance statement; added badges, opening paragraph, and Combined Verification bullet list.
-- Updated Version Control polict accordingly
+- Updated Version Control Policy accordingly
 - Expanded AWA significance section and removed PANDORA branding
 - Added Internet Archive direct upload section; updated Internet Archive badge to Full Repository
 - Updated permanent-archive-records with SSRN entry and March 2026 date; replaced PDF with text file
@@ -95,7 +97,7 @@ distinguish audited outputs from Plan's original specifications.
 - Updated preservation layer count from seven to a multi-layer approach enabling future proofing
 - Rationale for Platform Selection section added to Permanent Archive README documenting multi-layer archival stack across dissemination, reproducibility, and national permanence categories; changed name of badges and description to multi-layer across the repo to enable future proofing 
 - Two-sentence reference added to main README linking to Rationale for Platform Selection
-- Restructure permanent archive README — significance before access, add missing access sections, add rationale for platform selectio
+- Restructure permanent archive README — significance before access, add missing access sections, add rationale for platform selection
 - Mendeley Data badge added to Blockchain and Archival Verification README (DOI: 10.17632/y5wmt6f8j9) and reordered badge rows by category: Row 1 (institutional), Row 2 (academic repositories), Row 3 (blockchain/web archive)
 - Updated the Permanent Archive Records PDF to reflect the complete archival stack as at 19 March 2026. Added Mendeley Data and SocArXiv entries with full metadata. Standardised formatting across all entries including Title, Author, Licence, Status, and Indexed fields. Updated NED entry to distinguish Publication Title (NLA registered) from Document Title (PDF internal). Updated AWA entry with Trove-registered title, snapshot history, and monthly capture confirmation. Added ARK identifier and metadata to Internet Archive Direct Upload entry. Added GitHub Repository entry with current version.
 
