@@ -55,8 +55,8 @@ See also: [Open Access Framework](README.md#open-access-framework)
 - **Replicability**: Evidence collection process structured to enable oversight bodies to independently verify findings using identical FOI/OAIC/Senate sources, following professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
 
 **Research Integrity Standards**
-- **Reproducibility**: Detailed changelogs document how findings evolved as TGA responses contradicted earlier positions—enabling reviewers to trace analytical development.
-- **Falsifiability**: Version history creates an immutable record of claims at each point—TGA can disprove findings by producing contradicting documentation.
+- **Reproducibility**: Detailed changelogs document how findings evolved as TGA responses contradicted earlier positions—enabling reviewers to trace analytical development²⁰.
+- **Falsifiability**: Version history creates an immutable record of claims at each point—TGA can disprove findings by producing contradicting documentation²¹.
 - **Intellectual honesty**: Corrections openly acknowledged rather than silently fixed—arithmetic errors, citation corrections, and analytical refinements explicitly documented.
 
 ## Implementation
@@ -119,7 +119,7 @@ Blockchain verification occurs after public release rather than before to ensure
 - **Audit trail transparency¹³**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
 - **Flexibility**: Allows minor corrections before cryptographic lock while maintaining complete transparency through version control
 
-This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁸.
+This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁸,¹⁹.
 
 ### Verification Efficiency Principle
 
