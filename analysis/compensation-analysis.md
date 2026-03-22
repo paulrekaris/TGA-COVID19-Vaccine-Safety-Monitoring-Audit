@@ -270,7 +270,7 @@ Approximately 4,440 claimants were denied compensation or withdrew their claims 
 
 5. Australian Government Department of Health and Aged Care, 'COVID-19 vaccine rollout update – 27 July 2023', https://www.health.gov.au/sites/default/files/2023-07/covid-19-vaccine-rollout-update-27-july-2023.pdf.
 
-6. Office of the Australian Information Commissioner, *'AUQ' and Department of Health and Aged Care* [2025] AICmr 54. Analysis available at: Sparke Helmore, https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/.
+6. Office of the Australian Information Commissioner, *'AUQ' and Department of Health and Aged Care* [2025] AICmr 54, https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html. Case note also available at: Sparke Helmore, https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/.
 
 7. COVERSE & UNSW, 'The Australian COVID-19 Vaccine Claims Scheme: Research Report', August 2024, https://media.coverse.org.au/documents/reports/2024-08%20misalignment%20report.pdf.
 
@@ -280,7 +280,7 @@ Approximately 4,440 claimants were denied compensation or withdrew their claims 
 
 10. *Shepherd v State of South Australia* [2024] SAET 2 (15 January 2024). Analysis available at: Shop Giourgas, https://www.shopovgiourgas.com.au/latest/covid-19-and-vaccine-requirements-connection-with-employment/.
 
-11. SBS News. (2024, September 22). For Australians injured by a COVID vaccine, the battle for compensation is "traumatising". https://www.sbs.com.au/news/article/covid-19-vaccine-compensation-scheme-cruel/vmsag6lb7 (removed; no archive available). SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
+11. SBS News. (2024, September 22). For Australians injured by a COVID vaccine, the battle for compensation is "traumatising". [URL removed; no archive available] SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
 https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme-is-closing-heres-how-much-it-has-paid-out/vmsag6lb7
 
 12. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
@@ -305,7 +305,7 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
 
-23. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). [primary-sources/foi/foi-5275-redacted.pdf]
+23. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
 Last updated: 22 March 2026
 
