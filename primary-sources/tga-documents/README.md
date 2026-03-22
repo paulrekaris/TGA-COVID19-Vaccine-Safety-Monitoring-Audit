@@ -1,5 +1,6 @@
-
 # TGA Documents
+
+[![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html)
 
 This folder contains original TGA policy documents, regulatory decisions, performance reports, and other TGA-produced materials constituting primary evidence for the audit.
 
@@ -7,7 +8,7 @@ This folder contains original TGA policy documents, regulatory decisions, perfor
 
 ## TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
 
-TGA's published COVID-19 Vaccine Safety Monitoring Plan. This is the primary source document against which implementation was assessed. The Plan specified 20 outputs across five objectives, committing TGA to enhanced post-market safety monitoring as a condition of provisional approval.
+TGA's published COVID-19 Vaccine Safety Monitoring Plan. This is the primary source document against which implementation was assessed. The Plan specified 17 strategies across five objectives, committing TGA to enhanced post-market safety monitoring as a condition of provisional approval.
 
 The audit methodology mapped the Plan's outputs against:
 
