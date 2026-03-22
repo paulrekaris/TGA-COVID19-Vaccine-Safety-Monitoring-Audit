@@ -254,7 +254,7 @@ This analysis cannot determine whether signal investigation documentation would 
 
 ## Conclusion
 
-Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. Their ability to substantiate claims was fundamentally hindered by inability to access TGA's safety signal investigation documentation covering 148 investigated signals and 57 regulatory actions. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
+Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. Their ability to substantiate claims was fundamentally hindered by inability to access TGA's safety signal investigation documentation covering 148 investigated signals and 57 regulatory actions. FOI 5275 further confirms TGA does not hold incidence data required by its own Safety Monitoring Plan conditions — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
 
 ---
 
@@ -305,6 +305,8 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 22. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
 
-Last updated: 15 March 2026
+23. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). [primary-sources/foi/foi-5275-redacted.pdf]
+
+Last updated: 22 March 2026
 
 [↑ Back to top](#table-of-contents)
