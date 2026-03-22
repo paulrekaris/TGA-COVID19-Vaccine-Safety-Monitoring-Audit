@@ -124,6 +124,7 @@
 
 **Key Supporting Evidence:**
 - **FOI 4029-03:** Proves TGA presented Strategy 2.3 methodology to Advisory Committee (Sep 2021) but concurrent public reports contained zero outputs
+- **FOI 5275:** Confirms TGA does not hold incidence data required by Strategy 2.3 — external validation that the AIR-denominator surveillance calculation was never performed
 - **Surveillance Analysis:** 150+ reports show zero Plan references, observable degradation from enhanced to routine, ICH E2E methodology gaps
 - **Evidence Completeness:** Systematic FOI review validates repository contains all available Plan implementation evidence
 
