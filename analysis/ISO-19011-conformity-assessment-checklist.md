@@ -1208,7 +1208,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | | GOV.2 | Performance measurement | ✗ Not Doc | Zero metrics; 150+ reports contain zero Plan references |
 | | **TOTAL** | **19 outputs assessed** | **3 ✓ Fully / 10 ◐ Partial / 6 ✗ Not Doc** | **16/19 (84%) partially or not documented** |
 
-**Note:** Output descriptions are summarised for readability. Full verbatim language from the Plan is available in the detailed output assessment evidence matrix
+**Note:** Output descriptions are summarised for readability. Full verbatim language from the Plan is available in the detailed output assessment evidence matrix.
  
 ### Summary by Objective
 
