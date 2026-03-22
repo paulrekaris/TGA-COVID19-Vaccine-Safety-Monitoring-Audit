@@ -41,7 +41,7 @@ Best efforts are made to document substantive changes. This log is maintained on
 - **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, Mendeley Data, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
 **Open Access Principles**
-- **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
+- **Free accessibility**:⁴ All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).
 - **Reusability**: Content licensed under CC BY 4.0 enabling adaptation and reuse with attribution by researchers, oversight bodies, and FOI applicants.
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability for regulatory proceedings, academic citation, and parliamentary reference.
 - **Version transparency**: Full evolution of findings visible—showing how TGA FOI responses, OAIC reviews, and Senate testimony shaped analysis over four years.
@@ -67,7 +67,7 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) for independent replication.
-- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.
+- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.¹⁷
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
   
 **See:** [Complete Version History](version-history.md)
@@ -119,7 +119,7 @@ Blockchain verification occurs after public release rather than before to ensure
 - **Audit trail transparency¹³**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
 - **Flexibility**: Allows minor corrections before cryptographic lock while maintaining complete transparency through version control
 
-This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁷.
+This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁸.
 
 ### Verification Efficiency Principle
 
@@ -149,7 +149,7 @@ v1.X.X (Release and Academic Archival)
 └─ Verified on Zenodo (Concept DOI: 10.5281/zenodo.17731054)
 
 v1.X.X (Blockchain Verification)
-├─ Bitcoin timestamp recorded¹⁴,¹⁵(tx: OP_RETURN abc123...)
+├─ Bitcoin timestamp recorded¹⁴,¹⁵ (tx: OP_RETURN abc123...)
 ├─ Arweave storage confirmed¹⁶ (tx: xyz789...)
 ├─ VERSION-HISTORY.md updated with verification details
 ├─ GitHub Release notes updated
