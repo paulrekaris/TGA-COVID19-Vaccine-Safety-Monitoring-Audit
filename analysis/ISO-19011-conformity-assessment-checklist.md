@@ -1266,15 +1266,11 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 - Domestic public accountability absent (zero Plan references in 150+ reports)
 - Two-tier transparency: internal/advisory vs public
 
-### Evidence Matrix Reference
-
-**Complete output-by-output evidence trail available:**
-
-### Evidence Matrix Reference
+### Evidence Matrix 
 
 **Complete output-by-output evidence trail:**
 
-[Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx) – Detailed evidence matrix for all 20 outputs with sources, findings, gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions.
+[Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx) – Detailed evidence matrix for all 19 audited Plan outputs with sources, findings, gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions.
 
 ---
 
