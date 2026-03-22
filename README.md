@@ -286,7 +286,7 @@ Each plausible explanation points to a serious failure in implementation, docume
 
 ### Implementation Status by the Numbers
 
-The assessment systematically evaluated all 19 audited plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
+The assessment systematically evaluated all 19 plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
 
 **Overall implementation**          
 
