@@ -62,8 +62,8 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
 | Metric | Result |
 |--------|--------|
-| Total COVID safety FOIs identified | 25 |
-| Core documents already in repository | FOI 4029 (9 docs), FOI 5082 (1 doc) |
+| Total COVID safety FOIs identified | 26 |
+| Core documents already in repository | FOI 4029 (9 docs), FOI 5082 (1 doc), FOI 5275 (1 doc) |
 | Repository coverage of relevant evidence | 85% |
 | New high-value documents identified | 0 |
 | Plan framework references identified | 0 |
@@ -71,13 +71,6 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 **Note on coverage**: The remaining 15% comprises FOI documents reviewed but excluded as they contained raw AEFI data, individual case reviews, or technical assessments without Plan framework references.
 
 ## Detailed Candidate Assessment
-
-### FOI 25-0220
-**Description**: ACV meeting minutes on COVID-19 AEFI reporting rates (September 2025)
-
-**Content**: Discussion focused on raw AEFI reporting rate data without Plan implementation framework references.
-
-**Assessment**: Raw data focus, no Plan/VSIG references. Excluded from audit scope.
 
 ### FOI 2389-01
 **Description**: Pfizer COVID-19 vaccine evaluation and AESI lists (January 2021)
@@ -93,14 +86,31 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
 **Assessment**: Single case review without systematic process documentation. Excluded from audit scope.
 
+### FOI 5275
+**Description**: Third-party FOI request seeking monthly cancer incidence surveillance data related to Comirnaty provisional approval conditions (August 2024)
+
+**Content**: TGA response confirming it does not hold incidence data required by Strategy 2.3 AIR-denominator methodology. TGA stated: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Secured by this auditor under FOI 26-2581 (decided 2 February 2026).
+
+**Assessment**: Direct evidence of Strategy 2.3 implementation failure. Confirms AIR-denominator incidence data — required by the Plan's cumulative review methodology — was never produced. **Included in audit scope.**
+
+### FOI 25-0220
+**Description**: ACV meeting minutes on COVID-19 AEFI reporting rates (September 2025)
+
+**Content**: Discussion focused on raw AEFI reporting rate data without Plan implementation framework references.
+
+**Assessment**: Raw data focus, no Plan/VSIG references. Excluded from audit scope.
+
+
 ## Analysis
 
 ### Document Characteristics
 
-All three candidates yielded zero Plan implementation evidence. Documents contained:
+Three excluded candidates yielded zero Plan implementation evidence. Documents contained:
 - Raw AEFI reporting rate discussions (FOI 25-0220)
 - Pre-approval evaluations predating the Plan (FOI 2389-01)
 - Individual case reviews without systematic process documentation (FOI 3727-04)
+
+FOI 5275 yielded direct evidence of Strategy 2.3 implementation failure and is included in audit scope.
 
 The remaining 22 FOIs demonstrate consistent patterns: raw AEFI data, case reviews, and technical assessments—without:
 - Safety Plan framework references
@@ -121,7 +131,7 @@ Documents were excluded where they:
 - Focused on pre-market evaluation rather than post-market surveillance
 - Lacked references to Plan strategies, VSIG procedures, or enhanced monitoring governance
 
-All 22 additional FOIs beyond FOI 4029 and FOI 5082 fall outside audit scope—they do not contain evidence regarding implementation of the Plan's 17 strategies and two governance outputs as distinct, documentable processes.
+All 22 additional FOIs beyond FOI 4029, FOI 5082, and FOI 5275 fall outside audit scope—they do not contain evidence regarding implementation of the Plan's 17 strategies and two governance outputs as distinct, documentable processes.
 
 ### Important Distinction: Pharmacovigilance Plan v Safety Monitoring Plan 
 
@@ -135,7 +145,7 @@ FOI log references to "COVID Vaccine Pharmacovigilance Plan" refer to the nation
 ## Implications for Audit Evidence Base
 
 ### Complete Evidence Collection
-Systematic review of 500+ FOI releases (2020–2025) confirms FOI 4029 suite and FOI 5082 represent the complete available evidence of Plan implementation in the public FOI corpus.
+Systematic review of 500+ FOI releases (2020–2025) confirms FOI 4029 suite and FOI 5082 and FOI 5275 represent the complete available evidence of Plan implementation in the public FOI corpus.
 
 ### Repository Coverage Validation
 The audit repository contains all identified Plan implementation evidence from the complete FOI disclosure log—comprehensive coverage achieved.
@@ -148,9 +158,9 @@ No additional FOI documents were identified that would alter implementation stat
 
 ## Conclusion
 
-**Evidence collection complete**: OSINT systematic review of 500+ FOI releases confirms FOI 4029 suite and FOI 5082 represent all available Plan implementation evidence in the public FOI corpus.
+**Evidence collection complete**: OSINT systematic review of 500+ FOI releases confirms FOI 4029 suite, FOI 5082 and FOI 5275 represent all available Plan implementation evidence in the public FOI corpus.
 
-**Repository coverage validated**: Core documents (FOI 4029 suite, FOI 5082) capture all available Plan implementation evidence from the complete FOI disclosure log.
+**Repository coverage validated**: Core documents (FOI 4029 suite, FOI 5082, and FOI 5275 ) capture all available Plan implementation evidence from the complete FOI disclosure log.
 
 **Documentation gap confirmed**: Absence of Plan framework references, VSIG integration protocols, and systematic tracking documentation across the entire FOI corpus validates audit findings based on complete available evidence.
 
@@ -161,7 +171,7 @@ No additional FOI documents were identified that would alter implementation stat
 ---
 
 **Systematic review conducted by**: Paul Rekaris  
-**Last updated**: 21 March 2026   
+**Last updated**: 22 March 2026   
 **Version**: 1.1  
 **Methodology**: OSINT systematic collection and verification
 
@@ -178,5 +188,7 @@ No additional FOI documents were identified that would alter implementation stat
 4. Therapeutic Goods Administration. (2021). *COVID-19 Vaccine Safety Monitoring Plan*. https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
 
 5. Williams, M. (2024). The Importance of OSINT Investigative Strategy. OSINT.uk. https://www.osint.uk/content/the-importance-of-osint-investigative-strategy
+
+6. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data required by Strategy 2.3 AIR-denominator methodology (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
 ---
