@@ -1658,7 +1658,7 @@ https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_act/foia1982222/
 
 49. Manchester Patient Safety Assessment Framework (MaPSAF), University of Manchester
 
-50.. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
+50. Agency for Healthcare Research and Quality (AHRQ) – Hospital Survey on Patient Safety Culture
 
 51. World Health Organization. Patient safety (fact sheet). Geneva: WHO; 2023. Available at: https://www.who.int/news-room/fact-sheets/detail/patient-safety.
 ​
