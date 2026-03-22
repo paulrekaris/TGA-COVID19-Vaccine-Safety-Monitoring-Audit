@@ -41,7 +41,7 @@ Best efforts are made to document substantive changes. This log is maintained on
 - **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, Mendeley Data, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
 **Open Access Principles**
-- **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book))³,⁴.
+- **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).³,⁴
 - **Reusability**: Content licensed under CC BY 4.0 enabling adaptation and reuse with attribution by researchers, oversight bodies, and FOI applicants.
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability for regulatory proceedings, academic citation, and parliamentary reference.
 - **Version transparency**: Full evolution of findings visible—showing how TGA FOI responses, OAIC reviews, and Senate testimony shaped analysis over four years.
@@ -50,13 +50,13 @@ See also: [Open Access Framework](README.md#open-access-framework)
 
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from FOI releases, OAIC submissions, Senate Hansard, TGA publications, and official databases following IC tradecraft standards [ODNI, 2024](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf).
-- **Source verification**: Cross-referencing TGA statements across FOI responses, OAIC submissions, Senate testimony, and published reports to identify contradictions per OSINT evolution principles [Glassman & Kang, 2012](https://doi.org/10.1016/j.chb.2011.11.014)⁵.
+- **Source verification**: Cross-referencing TGA statements across FOI responses, OAIC submissions, Senate testimony, and published reports to identify contradictions per OSINT evolution principles [Glassman & Kang, 2012](https://doi.org/10.1016/j.chb.2011.11.014).⁵
 - **Transparent documentation**: Complete search methodology documented—FOI request scope, OAIC-directed searches, disclosure log analysis—following IC sourcing requirements [ODNI, 2024](https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf) and professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
 - **Replicability**: Evidence collection process structured to enable oversight bodies to independently verify findings using identical FOI/OAIC/Senate sources, following professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
 
 **Research Integrity Standards**
-- **Reproducibility**: Detailed changelogs document how findings evolved as TGA responses contradicted earlier positions—enabling reviewers to trace analytical development²⁰.
-- **Falsifiability**: Version history creates an immutable record of claims at each point—TGA can disprove findings by producing contradicting documentation²¹.
+- **Reproducibility**: Detailed changelogs document how findings evolved as TGA responses contradicted earlier positions—enabling reviewers to trace analytical development.²¹
+- **Falsifiability**: Version history creates an immutable record of claims at each point—TGA can disprove findings by producing contradicting documentation.²²
 - **Intellectual honesty**: Corrections openly acknowledged rather than silently fixed—arithmetic errors, citation corrections, and analytical refinements explicitly documented.
 
 ## Implementation
@@ -67,7 +67,7 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) for independent replication.
-- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.¹⁷
+- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure¹⁷.
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
   
 **See:** [Complete Version History](version-history.md)
@@ -106,7 +106,7 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 2. Create Bitcoin blockchain timestamp via OpenTimestamps (OP_RETURN transaction)¹⁴,¹⁵
 3. Upload to Arweave permanent storage network¹⁶
 4. Record verification transaction IDs
-5. Update VERSION-HISTORY.md with blockchain verification details and archive note: "Zenodo DOI and blockchain verification current."
+5. Update VERSION-HISTORY.md with blockchain verification details and archive note: "Zenodo DOI and blockchain verification current"
 6. Update GitHub Release notes with blockchain verification metadata
 
 ### Rationale for Post-Release Verification
@@ -140,7 +140,7 @@ v1.X.X (Content Finalisation)
 ├─ New evidence added
 ├─ Analysis updated  
 ├─ VERSION-HISTORY.md documented
-├─ Archive note set to: "Zenodo DOI current. Blockchain and Arweave verification pending."
+├─ Archive note set to: "Zenodo DOI current. Blockchain and Arweave verification pending"
 └─ Content committed to Git
 
 v1.X.X (Release and Academic Archival)
@@ -226,14 +226,16 @@ Version history combined with OSINT documentation enables accountability infrast
 
 **Records Management:**
 
-19. National Archives of Australia. (n.d.). *Digital Recordkeeping: Guidelines for Creating, Managing...* (aligned ISO 15489). <https://mayaarbinaginting.weebly.com/uploads/1/0/6/1/10612501/digital_recordkeeping.pdf>
+19. National Archives of Australia. (n.d.). *Information Management Standard for Australian Government* (aligned with AS ISO 15489.1:2017). https://www.naa.gov.au/information-management/standards/information-management-standard-australian-government
+
+20. National Archives of Australia. (2015). *Australian Government Recordkeeping Metadata Standard (AGRkMS) Version 2.2*. https://www.naa.gov.au/sites/default/files/2019-09/AGRkMS-Version-2.2-June-2015_tcm16-93990_1.pdf
 
 **Research Transparency:**
 
-20. Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422–1425. <https://doi.org/10.1126/science.aab2374>
+21. Nosek, B. A., et al. (2015). Promoting an open research culture. *Science*, 348(6242), 1422–1425. <https://doi.org/10.1126/science.aab2374>
 
-21. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
+22. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
-**Last updated**: 2026-03-22
+**Last updated**: 2026-03-23
 
 [↑ Back to top](#table-of-contents)
