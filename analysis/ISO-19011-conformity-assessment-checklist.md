@@ -1580,7 +1580,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescr
 
 24. Therapeutic Goods Administration (TGA). (2024, August). FOI Request 5082 – COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 
-25. Therapeutic Goods Administration (TGA). (2024). FOI Request 5275 – Multiple COVID-19 vaccine matters (decision letters via OAIC review). https://www.health.gov.au/sites/default/files/2024-09/foi-5225-foi-2389-decision-letters.pdf
+25. Therapeutic Goods Administration (TGA). (2024). FOI Request 5225 – Multiple COVID-19 vaccine matters (decision letters via OAIC review). https://www.health.gov.au/sites/default/files/2024-09/foi-5225-foi-2389-decision-letters.pdf
 
 26. Office of the Australian Information Commissioner (OAIC). (2024, September 20). OAIC Submission MR22/00538 - TGA comprehensive TRIM search documentation.
 Therapeutic Goods Administration (TGA). (2024). FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders reviewed).
