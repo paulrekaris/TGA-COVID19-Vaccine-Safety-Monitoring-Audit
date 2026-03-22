@@ -85,19 +85,19 @@ This audit follows a structured release process ensuring blockchain verification
 
 ### Standard Release Process
 
-Following ISO 15489-1:2016 records management principles² and OSINT documentation standards⁸,⁹,¹⁰, releases follow this workflow:
+Following ISO 15489-1:2016 records management principles² and OSINT documentation standards⁷,⁸,⁹, releases follow this workflow:
 
 **Phase 1: Content Finalisation**
 1. Finalise all content changes (new FOI evidence, analytical updates, methodology refinements)
 2. Update version number and date in README
-3. Document changes in VERSION-HISTORY.md following Keep a Changelog principles⁷
+3. Document changes in VERSION-HISTORY.md following Keep a Changelog principles¹⁰
 4. Commit changes to Git with descriptive message
 
 **Phase 2: Release and Academic Archival**
 1. Create Git tag (e.g., `v1.9.1`)
 2. Push to GitHub and create GitHub Release¹¹
 3. Upload to Zenodo and obtain DOI
-4. Zenodo concept DOI automatically captures all versions¹⁶
+4. Zenodo concept DOI automatically captures all versions¹⁷
 5. Update DOI badge in README
 6. Update VERSION-HISTORY.md archive note: "Zenodo DOI updated. Blockchain verification pending."
 
@@ -115,7 +115,7 @@ Blockchain verification occurs after public release rather than before to ensure
 
 - **Authenticity principle²**: Blockchain verifies the published version with stable DOI, not a pre-release draft—this ensures verification references the canonical academic record
 - **ISO 15489-1:2016 compliance²**: Blockchain verification provides proof of existence at a point in time for the publicly accessible version—the content remains immutable while verification proves when the published version was fixed
-- **OSINT standards⁹,¹⁰**: Verification metadata documents *when* the published evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
+- **OSINT standards⁸,⁹**: Verification metadata documents *when* the published evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
 - **Audit trail transparency¹²**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
 - **Flexibility**: Allows minor corrections before cryptographic lock while maintaining complete transparency through version control
 
@@ -123,7 +123,7 @@ This workflow ensures the blockchain verifies the published, DOI-referenced vers
 
 ### Verification Efficiency Principle
 
-This workflow minimises complexity while maintaining verification integrity. Following OSINT reproducibility standards⁹,¹⁰ and ISO 19011:2018 risk-based approach¹, the three-phase process uses the minimum steps necessary to achieve cryptographic proof:
+This workflow minimises complexity while maintaining verification integrity. Following OSINT reproducibility standards⁸,⁹ and ISO 19011:2018 risk-based approach¹, the three-phase process uses the minimum steps necessary to achieve cryptographic proof:
 
 - **Single version per release**: Content and verification combined in one version (e.g., v1.9.1) rather than multiple patches, reducing version tracking overhead
 - **Sequential workflow**: Linear progression (content → release → verification) enables independent verification at each stage
