@@ -41,7 +41,7 @@ Best efforts are made to document substantive changes. This log is maintained on
 - **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, Mendeley Data, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
 **Open Access Principles**
-- **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book))³, ⁴.
+- **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book))³,⁴.
 - **Reusability**: Content licensed under CC BY 4.0 enabling adaptation and reuse with attribution by researchers, oversight bodies, and FOI applicants.
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability for regulatory proceedings, academic citation, and parliamentary reference.
 - **Version transparency**: Full evolution of findings visible—showing how TGA FOI responses, OAIC reviews, and Senate testimony shaped analysis over four years.
