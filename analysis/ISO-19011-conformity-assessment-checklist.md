@@ -248,6 +248,7 @@ This audit employs two complementary forms of reasoning:
 ### Evidence Hierarchy and Quality Assessment
 
 This audit applies a four-tier evidence hierarchy to establish quality and reliability of findings:
+
 #### TIER 1: TGA's Own Systematic Searches (Highest Quality)
 - September 2024 OAIC-directed searches conducted under FOI Act s55V(2)
 - TGA senior medical officers searched internal systems using TGA's own classification framework
@@ -269,7 +270,7 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 - OAIC determinations validating FOI concerns
 - **Evidentiary significance:** Statutory admissions through formal government processes
 
-**TIER 4: Public Documentation**
+#### TIER 4: Public Documentation
 - 150+ weekly COVID-19 vaccine safety reports
 - Regulatory decisions and public statements
 - Senate testimony referencing 148 safety signals and 57 regulatory actions
