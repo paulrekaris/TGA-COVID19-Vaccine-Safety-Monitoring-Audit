@@ -14,7 +14,7 @@ Supporting analytical and contextual material is located in the [Reference Docum
 
 | Folder | Contents |
 |--------|----------|
-| [foi/](foi/) | FOI requests and responses (FOI 3643, FOI 4029, FOI 25-0166, FOI 5082, FOI 5275) |
+| [foi/](foi/) | FOI requests and responses (FOI 3643, FOI 4029, FOI 25-0166, FOI 5082, FOI 5225, FOI 5275) |
 | [oaic/](oaic/) | Office of the Australian Information Commissioner decisions |
 | [senate-community-affairs-legislation-committee/](senate-community-affairs-legislation-committee/) | Senate Estimates testimony and Hansard transcripts |
 | [tga-documents/](tga-documents/) | TGA policy documents, AusPARs, performance reports, and webinar materials |
