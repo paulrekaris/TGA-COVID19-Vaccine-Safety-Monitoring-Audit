@@ -42,6 +42,8 @@ International standard establishing requirements for pharmacovigilance planning 
 
 **File:** [e2e-guideline.pdf](e2e-guideline.pdf)
 
+**TGA adoption:** https://www.tga.gov.au/resources/resources/international-scientific-guidelines-adopted-australia/ich-topic-e-2-e-pharmacovigilance-planning-pvp
+
 ---
 
 ## CIOMS Working Group VIII – Signal Detection in Pharmacovigilance
