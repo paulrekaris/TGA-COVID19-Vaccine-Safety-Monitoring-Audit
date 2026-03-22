@@ -21,7 +21,7 @@
 - [ ] Create Git tag: `v__________`
 - [ ] Push to GitHub: `git push origin v__________`
 - [ ] Create GitHub Release with appropriate title (triggers Zenodo upload automatically)
-- [ ] Verify new version appears under Concept DOI on Zenodo: `10.5281/zenodo._______`
+- [ ] Verify new version appears under Concept DOI on Zenodo: `10.5281/zenodo.17731054`
 
 ---
 
