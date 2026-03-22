@@ -93,7 +93,7 @@ Third-party FOI request seeking monthly cancer incidence surveillance data relat
 
 **Source:** Obtained via FOI 26-2581 (applicant: Paul Rekaris; decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch; decided 2 February 2026).
 
-**File:** [foi-5275-notice-of-decision.pdf](foi-5275-notice-of-decision.pdf)
+**File:** [foi-5275-redacted.pdf](foi-5275-redacted.pdf)
 
 ---
 
