@@ -99,14 +99,14 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 3. Upload to Zenodo and obtain DOI
 4. Zenodo concept DOI automatically captures all versions¹⁸
 5. Update DOI badge in README
-6. Update VERSION-HISTORY.md archive note: "Zenodo DOI updated. Blockchain verification pending"
+6. Update version-history.md archive note: "Zenodo DOI updated. Blockchain verification pending"
 
 **Phase 3: Blockchain Verification**
 1. Generate cryptographic hash of released version
 2. Create Bitcoin blockchain timestamp via OpenTimestamps (OP_RETURN transaction)¹⁴,¹⁵
 3. Upload to Arweave permanent storage network¹⁶
 4. Record verification transaction IDs
-5. Update VERSION-HISTORY.md with blockchain verification details and archive note: "Zenodo DOI and blockchain verification current"
+5. Update version-history.md with blockchain verification details and archive note: "Zenodo DOI and blockchain verification current"
 6. Update GitHub Release notes with blockchain verification metadata
 
 ### Rationale for Post-Release Verification
@@ -119,7 +119,7 @@ Blockchain verification occurs after public release rather than before to ensure
 - **Audit trail transparency¹³**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
 - **Flexibility**: Allows minor corrections before cryptographic lock while maintaining complete transparency through version control
 
-This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁸,¹⁹.
+This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁸⁻²⁰.
 
 ### Verification Efficiency Principle
 
@@ -139,7 +139,7 @@ Simpler verification workflows reduce error opportunities while increasing trans
 v1.X.X (Content Finalisation)
 ├─ New evidence added
 ├─ Analysis updated  
-├─ VERSION-HISTORY.md documented
+├─ version-history.md documented
 ├─ Archive note set to: "Zenodo DOI current. Blockchain and Arweave verification pending"
 └─ Content committed to Git
 
@@ -151,7 +151,7 @@ v1.X.X (Release and Academic Archival)
 v1.X.X (Blockchain Verification)
 ├─ Bitcoin timestamp recorded¹⁴,¹⁵ (tx: OP_RETURN abc123...)
 ├─ Arweave storage confirmed¹⁶ (tx: xyz789...)
-├─ VERSION-HISTORY.md updated with verification details
+├─ version-history.md updated with verification details
 ├─ GitHub Release notes updated
 └─ Archive note updated to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
 ```
