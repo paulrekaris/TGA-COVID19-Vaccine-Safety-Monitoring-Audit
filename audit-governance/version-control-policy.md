@@ -67,7 +67,7 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) for independent replication.
-- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure¹⁷.
+- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.¹⁷
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
   
 **See:** [Complete Version History](version-history.md)
@@ -78,7 +78,7 @@ This audit follows a structured release process ensuring blockchain verification
 
 ### Version Numbering Scheme
 
-**Semantic Versioning Adapted for Audit Context¹⁰:**
+**Semantic Versioning Adapted for Audit Context:¹⁰**
 - **Major versions (X.0.0)**: Fundamental methodology changes or scope revisions
 - **Minor versions (1.X.0)**: Content updates including new FOI evidence, analytical enhancements, or findings refinements
 - **Patch versions (1.9.X)**: Technical corrections or minor documentation updates without substantive content changes
@@ -99,7 +99,7 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 3. Upload to Zenodo and obtain DOI
 4. Zenodo concept DOI automatically captures all versions¹⁸
 5. Update DOI badge in README
-6. Update VERSION-HISTORY.md archive note: "Zenodo DOI updated. Blockchain verification pending."
+6. Update VERSION-HISTORY.md archive note: "Zenodo DOI updated. Blockchain verification pending"
 
 **Phase 3: Blockchain Verification**
 1. Generate cryptographic hash of released version
@@ -156,7 +156,7 @@ v1.X.X (Blockchain Verification)
 └─ Archive note updated to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
 ```
 
-This structured approach ensures the blockchain verifies the published version with stable DOI, enabling independent verification by oversight bodies following IC OSINT verification standards⁷,⁸.
+This structured approach ensures the blockchain verifies the published version with stable DOI, enabling independent verification by oversight bodies following IC OSINT verification standards.⁷,⁸
 
 A practical [release checklist](../audit-governance/release-checklist.md) provides step-by-step guidance for executing the three-phase workflow, covering content finalisation, release and academic archival, and blockchain verification.
 
