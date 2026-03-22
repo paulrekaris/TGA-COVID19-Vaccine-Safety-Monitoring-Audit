@@ -264,7 +264,7 @@ Enhanced safety monitoring is a higher standard, legally mandated when medicines
 - Performance tracking against defined objectives
 - Verifiable audit trails to demonstrate the enhanced system was applied
 
-### For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.
+**For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.**
 
 -----
 
@@ -299,8 +299,8 @@ These intergovernmental arrangements therefore anticipated systematic implementa
 **Unprecedented Scale:**
 
 - **21.2 million Australians** vaccinated (approximately 96% of eligible population)
-- **75 million total doses**<sup><a name="footnote1-ref"></a>[[1]](#footnote1)</sup> administered (as of 30 September 2025)
-- **68.4 million doses**<sup>[[2]](#footnote2)</sup> under provisional approval
+- **75 million total doses** administered (as of 30 September 2025)
+- **68.4 million doses** under provisional approval
 - Fastest mass vaccination programme in Australian history
 
 **Government Mandates and Restrictions:**
