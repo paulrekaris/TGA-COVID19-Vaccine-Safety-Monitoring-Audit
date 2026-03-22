@@ -169,6 +169,8 @@ OAIC Decision [2025] AICmr 54 concluded TGA took "all reasonable steps" under s2
 
 However, TGA's search strategy did not employ output-specific terminology, pharmacovigilance vocabulary, or governance/tracking terms that would locate evidence of specific Plan implementation activities.
 
+> FOI 5275 illustrates this gap in practice: a request for cancer incidence surveillance data — directly required by Strategy 2.3 — returned a TGA response that no such data exists, consistent with searches that never employed output-specific terminology to locate it.
+
 This raises questions about whether searches designed primarily to locate Plan-titled documents constitute "reasonable steps" to test the existence of implementation documentation.
 
 ### Alternative Search Strategies
@@ -224,6 +226,6 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ---
 
-**Last Updated:** 23 January 2026  
+**Last Updated:** 22 March 2026  
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0
