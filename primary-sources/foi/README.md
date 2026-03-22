@@ -87,13 +87,13 @@ Post-Plan COVID implementation documents (observed-vs-expected, MaxSPRT, enhance
 
 ---
 
-## FOI 5275 – TGA Response on AusPAR-Specified Monitoring Conditions (August 2024)
+## FOI 5275 – AusPAR-Specified Monitoring Conditions for Comirnaty (21 August 2024)
 
-Third-party FOI request seeking monthly incidence data for conditions identified in the Comirnaty AusPAR as requiring monitoring under provisional approval. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form.
+Third-party FOI request seeking monthly cancer incidence surveillance data related to Comirnaty provisional approval. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form. Released in part under s22. 14 pages.
 
-**Source note:** This document was obtained from Russell Broadbent MP's website where it was publicly available from March 2025. The original URL is no longer accessible as of January 2026. This archived copy is provided for research and public interest purposes under fair dealing provisions of the Copyright Act 1968 (Cth). The document has been redacted by the original source. An official unredacted copy from TGA's FOI disclosure log is being sought. Readers should verify critical details against official TGA sources.
+**Source:** Obtained via FOI 26-2581 (applicant: Paul Rekaris; decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch; decided 2 February 2026).
 
-**File:** [foi-5275-notice-of-decision-redacted.pdf](foi-5275-notice-of-decision-redacted.pdf)
+**File:** [foi-5275-notice-of-decision.pdf](foi-5275-notice-of-decision.pdf)
 
 ---
 
