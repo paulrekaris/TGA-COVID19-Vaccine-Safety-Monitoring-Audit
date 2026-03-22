@@ -86,7 +86,7 @@ The framework requires no institutional access, statutory authority, or organisa
 
 Findings are weighted according to significance. The audit publishes criteria for determining which commitments materially affect regulatory accountability.
 
-### Contemporaneity
+### Contemporaneous Evidence
 
 Documentation is treated as evidence of implementation only where it is contemporaneous with the activity described. Records created solely in response to audit do not retrospectively demonstrate prior implementation.
 
