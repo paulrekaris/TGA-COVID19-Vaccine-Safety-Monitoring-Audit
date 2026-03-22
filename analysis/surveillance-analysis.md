@@ -434,11 +434,13 @@ The question "Was the Plan implemented as operational accountability framework a
 
 11. Parliament of Australia. (2025). *Senate Community Affairs Legislation Committee Estimates – 9 October 2025*. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
+12. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data required by Strategy 2.3 AIR-denominator methodology (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
+
 ----
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 21 March 2026
+**Last updated:** 22 March 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
