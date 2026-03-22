@@ -89,7 +89,7 @@ Post-Plan COVID implementation documents (observed-vs-expected, MaxSPRT, enhance
 
 ## FOI 5275 – AusPAR-Specified Monitoring Conditions for Comirnaty (21 August 2024)
 
-Third-party FOI request seeking monthly cancer incidence surveillance data related to Comirnaty provisional approval. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form. Released in part under s22. 14 pages.
+The absence of condition-specific incidence data is confirmed by the auditor's own FOI request, FOI 26-2581 (decided 2 February 2026, decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch). The request sought monthly cancer incidence surveillance data related to Comirnaty's provisional approval conditions. TGA's response was unambiguous: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." This confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form — consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
 
 **Source:** Obtained via FOI 26-2581 (applicant: Paul Rekaris; decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch; decided 2 February 2026).
 
