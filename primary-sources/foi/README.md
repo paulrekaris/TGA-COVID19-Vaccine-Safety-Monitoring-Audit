@@ -3,6 +3,19 @@
 This folder contains Freedom of Information requests and responses constituting primary evidentiary material for the audit.
 
 ---
+## FOI 5225 / FOI 2389 – Pfizer COMIRNATY Provisional Registration Documents (July 2021)
+
+Decision maker: Director, Prescription Medicines Authorisation Branch (initial decision, 7 July 2021); Dr Jane Cook, First Assistant Secretary, Medicines Regulation Division (internal review decision, 13 August 2021).
+
+Seven documents released in part relating to Pfizer's COMIRNATY BNT162b2 (mRNA) provisional registration application: Delegate's Overview, Approval Letter, Advisory Committee on Vaccines background document and ratified minutes, clinical evaluation report, nonclinical evaluation report, and Risk Management Plan (Australia-Specific Annex). Redactions applied under ss 47, 47E(d) and 47G(1)(b) of the Freedom of Information Act 1982 (commercial value, business information, agency operations).
+
+**Source:** https://www.health.gov.au/sites/default/files/2024-09/foi-5225-foi-2389-decision-letters.pdf
+
+**Evidentiary significance:** These documents establish TGA's pre-market commitments under provisional approval — the regulatory baseline against which post-market enhanced monitoring was required. The richness of pre-approval documentation contrasts directly with the absence of post-market Safety Monitoring Plan implementation records identified across FOI 3643, FOI 25-0166, and OAIC MR22/00538. This contrast supports the accountability gap finding: TGA holds substantial documentation of what it committed to do under provisional approval but cannot produce documentation demonstrating those commitments were systematically operationalised.
+
+**File:** [foi-5225-foi-2389-decision-letters.pdf](foi-5225-foi-2389-decision-letters.pdf)
+
+---
 
 ## FOI 3643 – Notice of Decision (27 February 2022)
 
