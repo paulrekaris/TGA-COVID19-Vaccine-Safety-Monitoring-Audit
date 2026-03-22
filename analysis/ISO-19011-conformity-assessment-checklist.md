@@ -1236,6 +1236,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 - 8 outputs assessed: 0 fully implemented (0%)
 - Core enhanced monitoring processes not documented
 - FOI 4029-03 proves TGA presented Strategy 2.3 methodology to Advisory Committee (Sep 2021) but zero outputs in concurrent public reports
+- FOI 5275 confirms TGA does not hold incidence data required by Strategy 2.3 — the AIR-denominator surveillance calculation was never performed
 - Gap between internal capacity and public transparency documented
 
 **2. Governance & Performance: Total Documentation Absence**
