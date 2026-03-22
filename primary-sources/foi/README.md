@@ -1,9 +1,11 @@
 # FOI Documents
 
+[![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html)
+
 This folder contains Freedom of Information requests and responses constituting primary evidentiary material for the audit.
 
 ---
-## FOI 5225 / FOI 2389 – Pfizer COMIRNATY Provisional Registration Documents (July 2021)
+## FOI 5225/FOI 2389 – Pfizer COMIRNATY Provisional Registration Documents (July 2021)
 
 Decision maker: Director, Prescription Medicines Authorisation Branch (initial decision, 7 July 2021); Dr Jane Cook, First Assistant Secretary, Medicines Regulation Division (internal review decision, 13 August 2021).
 
@@ -109,5 +111,5 @@ TGA advises 399 documents in scope but processing would be a "substantial and un
 
 ---
 
-**Last Updated:** March 2026  
+**Last Updated:** 23 March 2026  
 **Licence:** CC BY 4.0
