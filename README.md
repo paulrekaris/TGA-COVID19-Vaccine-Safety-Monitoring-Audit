@@ -121,7 +121,7 @@ This repository has been accepted for preservation by the National Library of Au
 
 ## Purpose
 
-This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 19 specified enhanced-pharmacovigilance outputs — 17 enhanced-pharmacovigilance strategies plus two governance outputs — over four years (2021-2025). 
+This repository documents an independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan (February 2021), assessing evidence for 19 specified enhanced-pharmacovigilance outputs — 17 enhanced-pharmacovigilance strategies plus two governance outputs — over four years (2021-2026). 
 
 During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
@@ -196,7 +196,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
 > #### 6. Detailed conformity assessment: 0% implementation for core monitoring
-> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 Plan audited plan outputs.
+> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 audited Plan outputs.
 >
 > #### 7. Safety Monitoring Plan did not meet auditability standards
 >The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five strategies; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
@@ -284,10 +284,9 @@ Each plausible explanation points to a serious failure in implementation, docume
 
 ## What This Audit Found
 
-
 ### Implementation Status by the Numbers
 
-The assessment systematically evaluated all 19 evaluated audited plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
+The assessment systematically evaluated all 19 audited plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
 
 **Overall implementation**          
 
@@ -860,9 +859,7 @@ DOIs), and Arweave (immutable backup). This ensures:
 - Permanent public accessibility
 - No barriers to scrutiny or reuse
 
-This approach aligns regulatory accountability work with open science principles: 
-
-all findings are transparent, reproducible, and falsifiable through independent verification.
+This approach aligns regulatory accountability work with open science principles. All findings are transparent, reproducible, and falsifiable through independent verification.
 
 **References:**
 
@@ -1009,7 +1006,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) | DOI: [10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058) Academic preprint repository; indexed by Google Scholar
 
-- **Mendeley Data:** https://doi.org/10.17632/y5wmt6f8j9 (companion dataset to SSRN preprint)
+- **Mendeley Data:** [10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) (companion dataset to SSRN preprint)
 
 - **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
   
