@@ -89,8 +89,8 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 
 **Phase 1: Content Finalisation**
 1. Finalise all content changes (new FOI evidence, analytical updates, methodology refinements)
-2. Update version number and date in README
-3. Document changes in VERSION-HISTORY.md following Keep a Changelog principles¹¹
+2. Update version number and date in README and CITATIONS
+3. Document changes in version-history.md following Keep a Changelog principles¹¹
 4. Commit changes to Git with descriptive message
 
 **Phase 2: Release and Academic Archival**
@@ -99,14 +99,14 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 3. Upload to Zenodo and obtain DOI
 4. Zenodo concept DOI automatically captures all versions¹⁸
 5. Update DOI badge in README
-6. Update version-history.md archive note: "Zenodo DOI updated. Blockchain verification pending"
+6. Update version-history.md archive note: "Zenodo DOI current. Blockchain and Arweave verification pending"
 
 **Phase 3: Blockchain Verification**
 1. Generate cryptographic hash of released version
 2. Create Bitcoin blockchain timestamp via OpenTimestamps (OP_RETURN transaction)¹⁴,¹⁵
 3. Upload to Arweave permanent storage network¹⁶
 4. Record verification transaction IDs
-5. Update version-history.md with blockchain verification details and archive note: "Zenodo DOI and blockchain verification current"
+5. Update version-history.md with blockchain verification details and archive note: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]"
 6. Update GitHub Release notes with blockchain verification metadata
 
 ### Rationale for Post-Release Verification
