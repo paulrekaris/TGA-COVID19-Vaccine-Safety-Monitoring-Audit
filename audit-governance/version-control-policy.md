@@ -146,7 +146,7 @@ v1.X.X (Content Finalisation)
 v1.X.X (Release and Academic Archival)
 ├─ Git tagged and pushed to GitHub
 ├─ GitHub Release created (triggers Zenodo upload automatically)
-└─ Verified on Zenodo (Concept DOI: 10.5281/zenodo.xxxxx)
+└─ Verified on Zenodo (Concept DOI: 10.5281/zenodo.17731054)
 
 v1.X.X (Blockchain Verification)
 ├─ Bitcoin timestamp recorded¹³,¹⁴ (tx: OP_RETURN abc123...)
@@ -232,6 +232,6 @@ Version history combined with OSINT documentation enables accountability infrast
 
 20. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
-**Last updated**: 2026-03-19
+**Last updated**: 2026-03-22
 
 [↑ Back to top](#table-of-contents)
