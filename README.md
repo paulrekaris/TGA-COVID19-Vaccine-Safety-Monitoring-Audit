@@ -43,7 +43,8 @@
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
 ## Official Archival Preservation
-This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (AWA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value. Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
+
+This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (AWA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value, consistent with the [NLA Collection Development Policy](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy). Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
 
 [View preserved AWA snapshot](https://webarchive.nla.gov.au/tep/221557)
 
