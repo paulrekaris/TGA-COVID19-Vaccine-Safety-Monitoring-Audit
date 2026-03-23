@@ -282,7 +282,7 @@ In February 2021, TGA published the COVID-19 Vaccine Safety Monitoring Plan as t
 
 ### Q9: What was AusVaxSafety’s enhanced role in the national vaccination rollout?
 
-The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly committed to collaboration with AusVaxSafety for SMS-based active surveillance as the “enhanced” monitoring component required under Cabinet-endorsed policy. This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Despite this scale of active surveillance data collection, TGA cannot demonstrate systematic integration of AusVaxSafety findings into signal detection and regulatory decision-making processes.
+The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly committed under Strategy 2.4 to collaboration with AusVaxSafety for SMS-based active surveillance as the “enhanced” monitoring component required under Cabinet-endorsed policy. This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Despite this scale of active surveillance data collection, TGA cannot demonstrate systematic integration of AusVaxSafety findings into signal detection and regulatory decision-making processes.
 
 ### Q10: What role did the states play in managing enhanced safety monitoring?
 
@@ -479,7 +479,7 @@ TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory acti
 
 ### Q21: What’s the AusVaxSafety integration gap?
 
-Despite AusVaxSafety’s public positioning as operating “as part of” the TGA-led national pharmacovigilance plan:
+Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration, yet despite AusVaxSafety's public positioning as operating "as part of" the TGA-led national pharmacovigilance plan, no integration documentation has been found:
 
 - Zero documentation of systematic integration into TGA signal detection exists
 - No coordination protocols found in OAIC-directed searches
