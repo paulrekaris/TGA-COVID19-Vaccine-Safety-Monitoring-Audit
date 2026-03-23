@@ -705,7 +705,7 @@ This audit embodies the transparency it demands.
 
 ### Q35: Do I welcome feedback and correction?
 
-Yes, absolutely. I’ve published this investigation openly specifically to invite scrutiny and correction.
+Yes, absolutely. I’ve published this investigation openly specifically to invite scrutiny and correction. GitHub issues are open for feedback and correction.
 
 If errors are identified in my analysis, I will correct them and document the corrections in the repository. If TGA or others can provide evidence that implementation records exist, or that my interpretation of the documentary record is flawed, I welcome that information and will subsequently amend my findings.
 
