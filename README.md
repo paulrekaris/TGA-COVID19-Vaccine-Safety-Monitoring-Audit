@@ -135,15 +135,15 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Guiding Standards
 
-**ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments
+**ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments.
 
 **ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
-**ANAO Better Practice** - Performance assessment against published plans and criteria
+**ANAO Better Practice** - Performance assessment against published plans and criteria.
 
-**OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles 
+**OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles. 
 
-**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)¹
+**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)¹.
 
 > **Provenance and Authenticity Statement**: This audit preserves a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms. To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
 >
@@ -192,13 +192,16 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions, but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
 > 
-> #### 5. Provisional approval verification gap  
+> ### 5. AusVaxSafety integration cannot be demonstrated
+Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration. AusVaxSafety conducted 6.8 million SMS surveys capturing approximately 3 million adverse events and described its program as operating "as part of" the TGA-led national pharmacovigilance plan. No coordination protocols, data integration frameworks, or audit trails showing how these active surveillance findings informed TGA signal detection or regulatory decisions have been located through four years of FOI requests, OAIC-directed searches, or systematic review of published TGA material. TGA's OAIC-directed searches omitted "AusVaxSafety" as a search term entirely — a significant methodological gap given its explicit role in the Plan.
+>
+> #### 6. Provisional approval verification gap  
 > No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
-> #### 6. Detailed conformity assessment: 0% implementation for core monitoring
+> #### 7. Detailed conformity assessment: 0% implementation for core monitoring
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 audited Plan outputs.
 >
-> #### 7. Safety Monitoring Plan did not meet auditability standards
+> #### 8. Safety Monitoring Plan did not meet auditability standards
 >The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five strategies; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
 
 ## The Accountability Standard
@@ -337,7 +340,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 - OAIC‑directed TRIM searches (MR22/00538, September 2024) across **531+ containers** using eight Plan‑aligned search terms identified **zero** documents demonstrating verification that enhanced‑monitoring requirements were satisfied before Comirnaty (July 2023) or Spikevax (April 2023) transitioned to full registration.  
 - Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan**, no checklists of provisional‑approval conditions, and no Plan‑level verification records.
-- Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024), (secured by this auditor under FOI 26-2581, decided Febraury 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
+- Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024), (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
 
 **Why this matters**
 
