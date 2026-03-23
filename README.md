@@ -943,6 +943,12 @@ This assessment evaluates publicly available evidence for implementation of TGA�
 
 This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and four-tier evidence hierarchy to enable independent verification and formal peer review. Corrections and additional evidence are welcomed.
 
+### Open Review Architecture
+
+The public GitHub repository functions as an open review mechanism: the complete methodology, evidence base, version history, and analytical decisions are publicly accessible and inspectable. Anyone may fork the repository, raise issues, propose corrections, or independently replicate the findings. This open architecture provides a form of continuous public scrutiny that traditional closed peer review does not offer — every claim is visible, every source is cited, and every change is documented with rationale.
+
+Corrections and additional evidence are welcomed and would be incorporated into future versions with transparent version history.
+
 ## Accuracy and Good Faith
 
 This analysis is accurate to the best of the author’s knowledge. Given the volume and complexity of material, inadvertent errors in citation or interpretation may occur; corrections are welcomed via public contact channels. The work is conducted in good faith and in the public interest, consistent with principles of open government and citizen-led accountability.
