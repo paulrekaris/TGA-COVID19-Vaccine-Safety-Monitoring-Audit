@@ -131,8 +131,8 @@ distinguish audited outputs from Plan's original specifications.
 - Blockchain and Archival Verification README: ISO 14721:2025 (Preservation Standard section)
 - Standardise reference formatting, and add two OSINT references in FOI systematic review
 - FAQ Q21: added Strategy 2.4 reference for consistency with Key Finding 5
-- Add to main README under Peer Review status and Q35 in the QandA that the public GitHub repository functions as an open review mechanism    
-​
+- Add to main README under Peer Review status and Q35 in the QandA that the public GitHub repository functions as an open review mechanism     
+    
 **Note:** Core audit findings unchanged. Finding strengthened.
 
 **Last updated:** 23 March, 2026
