@@ -39,7 +39,8 @@ jobs:
         import json
         import os
         import pandas as pd
-        from datetime import datetime, timezone
+        from datetime import datetime, timezone, timedelta
+        from zoneinfo import ZoneInfo
         import re
 
         GITHUB_TOKEN = os.environ['TRAFFIC_TOKEN']
@@ -161,6 +162,14 @@ jobs:
         now = datetime.now(timezone.utc)
         date_str = now.strftime('%Y-%m-%d')
 
+        # Calculate AEST/AEDT time and data-through date
+        aest_tz = ZoneInfo('Australia/Melbourne')
+        now_aest = now.astimezone(aest_tz)
+        aest_label = now_aest.strftime('%Z')
+        aest_time_str = now_aest.strftime('%-I:%M %p') + f' {aest_label}'
+        yesterday_utc = now - timedelta(days=1)
+        data_through_str = yesterday_utc.strftime('%A, %d %B %Y')
+
         print("Fetching traffic data...")
         
         try:
@@ -222,6 +231,16 @@ jobs:
             yesterday_day = views_data['views'][-2]
             yesterday_views = yesterday_day.get('count', 0)
             yesterday_unique_visitors = yesterday_day.get('uniques', 0)
+
+        # Capture previous peaks BEFORE appending today's row
+        prev_peak_clones = int(clones_df['daily_clones'].max()) if len(clones_df) > 0 else 0
+        prev_peak_views = int(views_df['daily_views'].max()) if len(views_df) > 0 else 0
+        prev_peak_unique_cloners = int(clones_df['daily_unique_cloners'].max()) if len(clones_df) > 0 else 0
+        prev_peak_unique_views = int(views_df['daily_unique_visitors'].max()) if len(views_df) > 0 else 0
+
+        # Capture previous totals for milestone detection
+        prev_total_clones = clones_df['daily_clones'].sum() if len(clones_df) > 0 else 0
+        prev_total_views = views_df['daily_views'].sum() if len(views_df) > 0 else 0
 
         prev_stars = engagement_df['stars'].iloc[-1] if len(engagement_df) > 0 else 0
         prev_forks = engagement_df['forks'].iloc[-1] if len(engagement_df) > 0 else 0
@@ -289,11 +308,39 @@ jobs:
         # Calculate accurate all-time totals from DAILY counts
         days_tracked = len(clones_df)
         total_clones_alltime = clones_df['daily_clones'].sum() if len(clones_df) > 0 else 0
+        total_unique_cloners_alltime = clones_df['daily_unique_cloners'].sum() if len(clones_df) > 0 else 0
         avg_daily_clones = total_clones_alltime / days_tracked if days_tracked > 0 else 0
         total_views_alltime = views_df['daily_views'].sum() if len(views_df) > 0 else 0
         total_unique_views_alltime = views_df['daily_unique_visitors'].sum() if len(views_df) > 0 else 0
         avg_daily_views_alltime = total_views_alltime / days_tracked if days_tracked > 0 else 0
         avg_daily_unique_views = total_unique_views_alltime / days_tracked if days_tracked > 0 else 0
+
+        # Peak day calculations
+        if len(clones_df) > 0:
+            peak_clones_idx = clones_df['daily_clones'].idxmax()
+            peak_clones_count = int(clones_df.loc[peak_clones_idx, 'daily_clones'])
+            peak_clones_date = clones_df.loc[peak_clones_idx, 'date']
+            peak_unique_clones_idx = clones_df['daily_unique_cloners'].idxmax()
+            peak_unique_clones_count = int(clones_df.loc[peak_unique_clones_idx, 'daily_unique_cloners'])
+            peak_unique_clones_date = clones_df.loc[peak_unique_clones_idx, 'date']
+        else:
+            peak_clones_count = 0
+            peak_clones_date = 'N/A'
+            peak_unique_clones_count = 0
+            peak_unique_clones_date = 'N/A'
+
+        if len(views_df) > 0:
+            peak_views_idx = views_df['daily_views'].idxmax()
+            peak_views_count = int(views_df.loc[peak_views_idx, 'daily_views'])
+            peak_views_date = views_df.loc[peak_views_idx, 'date']
+            peak_unique_views_idx = views_df['daily_unique_visitors'].idxmax()
+            peak_unique_views_count = int(views_df.loc[peak_unique_views_idx, 'daily_unique_visitors'])
+            peak_unique_views_date = views_df.loc[peak_unique_views_idx, 'date']
+        else:
+            peak_views_count = 0
+            peak_views_date = 'N/A'
+            peak_unique_views_count = 0
+            peak_unique_views_date = 'N/A'
 
         institutional_referrers = {}
         
@@ -334,55 +381,46 @@ jobs:
         else:
             paths_text = "   No path data available\n"
 
-        engagement_text = ""
-        if new_stars > 0 or new_forks > 0 or new_watchers > 0:
-            engagement_text = "REPOSITORY ENGAGEMENT (New in last 24h)\n"
-            if new_stars > 0:
-                engagement_text += f"   +{new_stars} new stars (total: {stars_count})\n"
-            if new_forks > 0:
-                engagement_text += f"   +{new_forks} new forks (total: {forks_count})\n"
-            if new_watchers > 0:
-                engagement_text += f"   +{new_watchers} new watchers (total: {watchers_count})\n"
-            engagement_text += "\n"
-
+        # --- Build smart commentary (rare events only) ---
         commentary = []
-        
+
+        # Institutional attention
         if institutional_referrers:
             categories = ', '.join(institutional_referrers.keys())
             commentary.append(f"INSTITUTIONAL ATTENTION: {categories}")
-        
+
+        # New engagement
         if new_stars > 0 or new_forks > 0:
-            commentary.append(f"ENGAGEMENT ALERT: New stars/forks detected")
-        
-        if len(clones_df) >= 14:
-            if avg_7day_clones > avg_14day_clones * 1.2:
-                commentary.append("Clone activity accelerating")
-            elif avg_7day_clones < avg_14day_clones * 0.8:
-                commentary.append("Clone activity declining")
-            else:
-                commentary.append("Clone activity stable")
-        else:
-            commentary.append("Clone activity stable")
-        
-        if len(views_df) >= 14:
-            if avg_7day_views > avg_14day_views * 1.2:
-                commentary.append("View activity increasing")
-            elif avg_7day_views < avg_14day_views * 0.8:
-                commentary.append("View activity declining")
-            else:
-                commentary.append("View activity stable")
-        else:
-            commentary.append("View activity stable")
-        
-        if yesterday_unique_visitors > 0:
-            clone_to_view_ratio = yesterday_unique_cloners / yesterday_unique_visitors
-            if clone_to_view_ratio > 20:
-                commentary.append("Very high clone-to-view ratio (possible bot activity)")
-            elif clone_to_view_ratio > 5:
-                commentary.append("High clone-to-view ratio (serious research interest)")
-            else:
-                commentary.append("Normal clone-to-view ratio")
-        
+            commentary.append("ENGAGEMENT ALERT: New stars/forks detected")
+
+        # New peak alerts
+        if yesterday_clones > prev_peak_clones and prev_peak_clones > 0:
+            commentary.append(f"NEW PEAK: All-time clone record ({yesterday_clones:,} clones, prev: {prev_peak_clones:,})")
+        if yesterday_views > prev_peak_views and prev_peak_views > 0:
+            commentary.append(f"NEW PEAK: All-time view record ({yesterday_views:,} views, prev: {prev_peak_views:,})")
+        if yesterday_unique_cloners > prev_peak_unique_cloners and prev_peak_unique_cloners > 0:
+            commentary.append(f"NEW PEAK: All-time unique cloners record ({yesterday_unique_cloners:,} unique)")
+        if yesterday_unique_visitors > prev_peak_unique_views and prev_peak_unique_views > 0:
+            commentary.append(f"NEW PEAK: All-time unique views record ({yesterday_unique_visitors:,} unique)")
+
+        # Milestone alerts
+        milestones = [1000, 2500, 5000, 7500, 10000, 25000, 50000, 100000]
+        for m in milestones:
+            if total_clones_alltime >= m and prev_total_clones < m:
+                commentary.append(f"MILESTONE: Passed {m:,} total clones")
+            if total_views_alltime >= m and prev_total_views < m:
+                commentary.append(f"MILESTONE: Passed {m:,} total views")
+
+        # Day milestones
+        day_milestones = [50, 100, 150, 200, 365]
+        for m in day_milestones:
+            if days_tracked == m:
+                commentary.append(f"MILESTONE: {m} days of tracking")
+
+        # Fallback
+        if not commentary:
+            commentary.append("No notable events")
+
         commentary_text = "\n   ".join(commentary)
 
         sep = "----------------------------------------------------------------------"
@@ -391,14 +429,13 @@ jobs:
         summary_parts.append(sep)
         summary_parts.append("TGA AUDIT TRAFFIC SUMMARY")
         summary_parts.append(now.strftime('%A, %d %B %Y'))
+        summary_parts.append(f"Report generated: {aest_time_str} | Data through: {data_through_str}")
         summary_parts.append(sep)
         summary_parts.append("")
         summary_parts.append("YESTERDAY'S ACTIVITY")
         summary_parts.append(f"   {yesterday_clones} clones ({yesterday_unique_cloners} unique)")
         summary_parts.append(f"   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)")
         summary_parts.append("")
-        if engagement_text:
-            summary_parts.append(engagement_text.rstrip())
         summary_parts.append("CLONE TRENDS (from daily counts)")
         summary_parts.append(f"   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)")
         summary_parts.append(f"   14-day average: {avg_14day_clones:.1f} clones/day ({avg_14day_unique_cloners:.1f} unique)")
@@ -407,12 +444,14 @@ jobs:
         summary_parts.append(f"   7-day average: {avg_7day_views:.1f} views/day ({avg_7day_unique_visitors:.1f} unique)")
         summary_parts.append(f"   14-day average: {avg_14day_views:.1f} views/day ({avg_14day_unique_visitors:.1f} unique)")
         summary_parts.append("")
-        summary_parts.append("TRAFFIC COMMENTARY")
+        summary_parts.append("KEY OBSERVATIONS")
         summary_parts.append(f"   {commentary_text}")
         summary_parts.append("")
         summary_parts.append(institutional_text.rstrip())
+        summary_parts.append("")
         summary_parts.append("ALL TRAFFIC SOURCES (Top 6)")
         summary_parts.append(referrers_text.rstrip())
+        summary_parts.append("")
         summary_parts.append("MOST VIEWED CONTENT")
         summary_parts.append(paths_text.rstrip())
         summary_parts.append(sep)
@@ -427,12 +466,21 @@ jobs:
         summary_parts.append("")
         summary_parts.append("All-Time Stats (from daily tracking)")
         summary_parts.append(f"   Days tracked: {days_tracked}")
+        summary_parts.append("")
         summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,.0f}")
+        summary_parts.append(f"   Total unique cloners recorded: {total_unique_cloners_alltime:,.0f}")
         summary_parts.append(f"   Average daily clones: {avg_daily_clones:.1f}")
+        summary_parts.append("")
         summary_parts.append(f"   Total views recorded: {total_views_alltime:,.0f}")
         summary_parts.append(f"   Total unique views recorded: {total_unique_views_alltime:,.0f}")
         summary_parts.append(f"   Average daily views: {avg_daily_views_alltime:.1f}")
         summary_parts.append(f"   Average daily unique views: {avg_daily_unique_views:.1f}")
+        summary_parts.append("")
+        summary_parts.append(f"   Peak clone day: {peak_clones_date} ({peak_clones_count:,} clones)")
+        summary_parts.append(f"   Peak unique cloners day: {peak_unique_clones_date} ({peak_unique_clones_count:,} unique)")
+        summary_parts.append(f"   Peak view day: {peak_views_date} ({peak_views_count:,} views)")
+        summary_parts.append(f"   Peak unique views day: {peak_unique_views_date} ({peak_unique_views_count:,} unique)")
+        summary_parts.append("")
         summary_parts.append(f"   Note: Calculated from actual daily counts, not rolling windows")
         summary_parts.append("")
         summary_parts.append(sep)
