@@ -44,6 +44,8 @@ This README contains the narrative executive summary and overview. Key findings 
 
 ## Official Archival Preservation
 
+[![National Library of Australia](https://img.shields.io/badge/National%20Library%20of%20Australia-Collection%20Development%20Policy-000000?labelColor=000000&style=flat-square)](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy)
+
 This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (AWA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value, consistent with the [NLA Collection Development Policy](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy). Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
 
 [View preserved AWA snapshot](https://webarchive.nla.gov.au/tep/221557)
