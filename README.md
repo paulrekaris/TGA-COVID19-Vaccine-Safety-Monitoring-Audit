@@ -941,13 +941,13 @@ This assessment evaluates publicly available evidence for implementation of TGA�
 
 ## Peer-Review Status
 
-This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and four-tier evidence hierarchy to enable independent verification and formal peer review. Corrections and additional evidence are welcomed.
+This work has not yet been peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and four-tier evidence hierarchy to enable independent verification and formal peer review. 
 
 ### Open Review Architecture
 
-The public GitHub repository functions as an open review mechanism: the complete methodology, evidence base, version history, and analytical decisions are publicly accessible and inspectable. Anyone may fork the repository, raise issues, propose corrections, or independently replicate the findings. This open architecture provides a form of continuous public scrutiny that traditional closed peer review does not offer — every claim is visible, every source is cited, and every change is documented with rationale.
+The public GitHub repository functions as an open review mechanism: the complete methodology, evidence base, version history, and analytical decisions are publicly accessible and inspectable. Anyone may fork the repository, raise issues, propose corrections, or independently replicate the findings. This open architecture provides a form of continuous improvement and public scrutiny that traditional closed peer review does not offer — every claim is visible, every source is cited, and every change is documented with rationale.
 
-Corrections and additional evidence are welcomed and would be incorporated into future versions with transparent version history.
+Corrections and additional evidence are welcomed and would be incorporated into future versions with transparent version history.   
 
 ## Accuracy and Good Faith
 
