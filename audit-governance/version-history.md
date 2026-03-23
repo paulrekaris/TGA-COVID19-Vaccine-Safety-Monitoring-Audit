@@ -105,7 +105,7 @@ distinguish audited outputs from Plan's original specifications.
 - Restructure permanent archive README — significance before access, add missing access sections, add rationale for platform selection
 - Mendeley Data badge added to Blockchain and Archival Verification README (DOI: 10.17632/y5wmt6f8j9) and reordered badge rows by category: Row 1 (institutional), Row 2 (academic repositories), Row 3 (blockchain/web archive)
 - Updated the Permanent Archive Records PDF to reflect the complete archival stack as at 19 March 2026. Added Mendeley Data and SocArXiv entries with full metadata. Standardised formatting across all entries including Title, Author, Licence, Status, and Indexed fields. Updated NED entry to distinguish Publication Title (NLA registered) from Document Title (PDF internal). Updated AWA entry with Trove-registered title, snapshot history, and monthly capture confirmation. Added ARK identifier and metadata to Internet Archive Direct Upload entry. Added GitHub Repository entry with current version.
-- NLA Collection Development Policy badge and embedded link added to blockchain and archival verification README and Official Archival Preservation section
+- NLA Collection Development Policy badge and embedded link added to blockchain and archival verification README and Official Archival Preservation section in main README
 
 ### Traffic Monitoring Workflow
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
