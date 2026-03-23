@@ -86,7 +86,12 @@ jobs:
                 r'\.edu\.sg$',
                 r'nla\.gov\.au',
                 r'zenodo\.org',
-                r'grattan\.edu\.au'
+                r'grattan\.edu\.au',
+                r'mendeley\.com',
+                r'ssrn\.com',
+                r'osf\.io',
+                r'socopen\.org',
+                r'elsevier\.com'
             ],
             'NGO/Advocacy': [
                 r'\.org\.au$',
@@ -425,6 +430,7 @@ jobs:
         summary_parts.append(f"   Total clones recorded: {total_clones_alltime:,.0f}")
         summary_parts.append(f"   Average daily clones: {avg_daily_clones:.1f}")
         summary_parts.append(f"   Total views recorded: {total_views_alltime:,.0f}")
+        summary_parts.append(f"   Total unique views recorded: {total_unique_views_alltime:,.0f}")
         summary_parts.append(f"   Average daily views: {avg_daily_views_alltime:.1f}")
         summary_parts.append(f"   Average daily unique views: {avg_daily_unique_views:.1f}")
         summary_parts.append(f"   Note: Calculated from actual daily counts, not rolling windows")
