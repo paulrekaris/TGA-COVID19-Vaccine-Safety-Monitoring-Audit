@@ -66,6 +66,8 @@
 - Added 21.2M recipient figure and largest provisional approval deployment context to Executive Summary
 - Added Prime Minister and Cabinet Handbook citation referencing ministerial obligation to carry out Cabinet-endorsed decisions
 - Added alternative explanations for absent records to Limitations and Falsifiability section
+- Addedd Key Finding 5: AusVaxSafety integration cannot be demonstrated (Strategy 2.4 reference)
+- Key Findings renumbered: former findings 5–7 become 6–8
 - Added Archive and Preservation section with NLA monthly snapshot notifications and direct link to AWA; added NLA monthly snapshot of GitHub website to Australian Web Archive (distinct from dataset archiving)
 - Added Multi-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
 - Introduced navigation buttons: NLA/AWA, ZIP download, Version History, Permanent Archive, and Last Commit
@@ -125,6 +127,7 @@ distinguish audited outputs from Plan's original specifications.
 - Analysis Documents README: ISO 19011:2018, ISO 15489-1:2016, ANAO, GAO
 - Blockchain and Archival Verification README: ISO 14721:2025 (Preservation Standard section)
 - Standardise reference formatting, and add two OSINT references in FOI systematic review
+- FAQ Q21: added Strategy 2.4 reference for consistency with Key Finding 5
 ​​​​​​​​​​​​​​​​
 ---
 
