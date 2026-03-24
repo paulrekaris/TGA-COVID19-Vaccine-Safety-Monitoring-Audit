@@ -53,6 +53,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [Purpose](#purpose)
 - [Guiding Standards](#guiding-standards)
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
+- [Senate Citation – 24 March 2026](#senate-citation-24-march-2026)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
