@@ -57,7 +57,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
   - [FOI Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
-- [Australian Senate Citation - March 2026 ](#australian-senate-citation--march-2026)
+- [Australian Senate Citation – 24 March 2026](#australian-senate-citation--24-march-2026)
 - [The Evidence Base](#the-evidence-base)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
@@ -212,7 +212,7 @@ This work exists to ensure that future reviews of Australia's COVID-19 regulator
 
 As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
 
-## Australian Senate Citation - March 2026
+## Australian Senate Citation – 24 March 2026
 
 Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. Any TGA response — whether producing documentation that closes the audit gap or confirming its absence — itself becomes part of that record.
 
