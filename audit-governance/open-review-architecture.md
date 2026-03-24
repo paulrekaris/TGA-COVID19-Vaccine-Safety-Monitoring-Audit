@@ -31,6 +31,8 @@ This audit implements a continuous, distributed, public review architecture rath
 
 ### 2.1. How to Engage
 
+[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?labelColor=181717&style=flat-square)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+
 Any person or organisation may scrutinise, challenge, or build upon this work through:
 
 - **Fork the repository** — create your own copy, correct errors, or publish alternative analysis
