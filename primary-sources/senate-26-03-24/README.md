@@ -27,7 +27,7 @@ Senator Roberts cited the TGA COVID-19 Vaccine Safety Monitoring Audit by name i
 
 ## Parliamentary Record
 
-Citation in the Australian Senate creates a permanent official record of the audit findings, independent of any platform or institution. The findings cannot be suppressed or ignored without a formal response on the public record. Any TGA response — whether producing documentation that closes the audit gap or confirming its absence — itself becomes part of that record.
+Citation in the Australian Senate creates a permanent official record of the audit findings, independent of any platform or institution. 
 
 **Hansard link:** Pending — to be added when published  
 **Last Updated:** 24 March 2026  
