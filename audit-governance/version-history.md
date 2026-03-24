@@ -143,7 +143,7 @@ distinguish audited outputs from Plan's original specifications.
 
 **Note:** Core audit findings unchanged. Finding strengthened.
 
-**Last updated:** 23 March, 2026
+**Last updated:** 24 March, 2026
 
 ---
 
