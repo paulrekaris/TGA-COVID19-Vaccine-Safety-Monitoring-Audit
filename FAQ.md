@@ -775,6 +775,10 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
+**Last Updated:** 24 March 2024
+**Licence:** CC BY 4.0
+
+
 **Footnotes:**
 
 <a name="footnote1"></a> <sup>[1]</sup> Latest available: 75M total doses administered as of 30 September 2025, Australian Immunisation Register/Department of Health. *COVID-19 vaccination rollout update, 1 Oct 2025* [↩](#footnote1-ref)
