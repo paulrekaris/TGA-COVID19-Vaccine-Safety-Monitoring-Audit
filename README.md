@@ -21,18 +21,16 @@
 
 - [How to Navigate This Audit](FAQ.md)
 
-- [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) – Orientation, methodology, 
-  limitations, and how to verify or challenge the findings.
+- [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) – Orientation, methodology, limitations, and how to verify or challenge the findings.
 
 - [Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – Visual overview of the audit process, evidence hierarchy, and key findings.
 
-- [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) – 
-  Slide-style overview of key findings and documentation gaps.
+- [Open Review Architecture](audit-governance/open-review-architecture.md) - How this audit achieves accountability through public, forkable, permanently archived methodology in place of traditional closed peer review.
 
-- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) – 
-  Primary, self-contained report with fully cited references, primary source 
-  materials, findings, research methodology, and implementation status by Safety 
-  Plan objective.
+- [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) – Slide-style overview of key findings and documentation gaps.
+
+- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) – Primary, self-contained report with fully cited references, primary source 
+  materials, findings, research methodology, and implementation status by Safety Plan objective.
 
 - [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines, ANAO audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
 
