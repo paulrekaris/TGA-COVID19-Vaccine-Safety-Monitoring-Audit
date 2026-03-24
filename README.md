@@ -856,7 +856,7 @@ The comprehensive audit report includes:
 
 - [Open Review Architecture](audit-governance/open-review-architecture.md) – Documents how the audit's public, forkable GitHub architecture functions as a continuous open review mechanism in place of traditional closed peer review.
 
-- **Media Coverage** – Investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi's Substack:  
+- [Media Coverage](media-coverage/)- Investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi's Substack:  
   - "TGA's vaccine safety black hole: A concerned citizen's four‑year quest for answers"  
     <https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a>  
   - "Stairs to nowhere: TGA's vanishing vaccine safety monitoring trail"  
