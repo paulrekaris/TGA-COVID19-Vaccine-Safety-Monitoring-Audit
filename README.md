@@ -53,11 +53,11 @@ This repository has been accepted for preservation by the National Library of Au
 - [Purpose](#purpose)
 - [Guiding Standards](#guiding-standards)
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
+- [Australian Senate Citation – 24 March 2026](#australian-senate-citation--24-march-2026)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
   - [FOI Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
-- [Australian Senate Citation – 24 March 2026](#australian-senate-citation--24-march-2026)
 - [The Evidence Base](#the-evidence-base)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
@@ -161,6 +161,13 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 > **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
 
+## Australian Senate Citation – 24 March 2026
+
+Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
+
+[View Senate speech](primary-sources/senate-2026-03-24/README.md) | [Video](https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31508)
+
+
 ## Executive Summary
 
 On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 19 outputs across 17 numbered strategies spanning AEFI collection, signal detection, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
@@ -212,11 +219,6 @@ This work exists to ensure that future reviews of Australia's COVID-19 regulator
 
 As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
 
-## Australian Senate Citation – 24 March 2026
-
-Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
-
-[View Senate speech](primary-sources/senate-2026-03-24/README.md) | [Video](https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31508)
 
 ### FOI Compliance vs Governance Requirements
 
