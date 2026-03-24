@@ -127,8 +127,7 @@ This repository documents an independent audit of the TGA's COVID-19 Vaccine Saf
 
 During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
-The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit 
-examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
+The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
@@ -150,7 +149,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 > **Provenance and Authenticity Statement**: This audit preserves a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms. To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
 >
 
-### Important Distinction: Routine vs Enhanced Monitoring
+## Important Distinction: Routine vs Enhanced Monitoring
 
 ## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
