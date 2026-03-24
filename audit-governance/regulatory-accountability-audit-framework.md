@@ -126,11 +126,11 @@ verification opportunities:
 
 The framework gains strength through testing. Each scrutiny attempt either confirms findings (strengthening validity) or reveals errors (improving accuracy). Both outcomes enhance the evidence base. Time compounds this effect: blockchain timestamps prevent retroactive alteration, ensuring findings remain independently testable regardless of institutional pressures.
 
+**See also:** [Open Review Architecture](open-review-architecture.md) — describes how this framework's verification principles are implemented through GitHub's public, forkable architecture.
+
 ## Framework Licence
 
-This Regulatory Accountability Audit Framework is released under 
-Creative Commons Attribution 4.0 International (CC BY 4.0). You 
-may use, adapt, and distribute this framework with appropriate 
+This Regulatory Accountability Audit Framework is released under Creative Commons Attribution 4.0 International (CC BY 4.0). You may use, adapt, and distribute this framework with appropriate 
 attribution. 
 
 **Attribution requirement:** "Based on Regulatory Accountability Audit Framework by Paul Rekaris (2026), https://doi.org/10.5281/zenodo.17731054"
