@@ -737,7 +737,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 ## Documentary Evidence of TGA Documentation Capacity
 
 
-### FOI 5082: TGA Vaccine Pharmacovigilance System 
+### FOI 5082: TGA Vaccine Pharmacovigilance System  
 
 **Baseline pre-2021 + COVID implementations July–August 2021, released 26 July 2024**
 
