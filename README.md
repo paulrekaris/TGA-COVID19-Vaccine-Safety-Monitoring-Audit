@@ -25,7 +25,7 @@
 
 - [Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – Visual overview of the audit process, evidence hierarchy, and key findings.
 
-- [Open Review Architecture](audit-governance/open-review-architecture.md) - How this audit achieves accountability through public, forkable, permanently archived methodology in place of traditional closed peer review.
+- [Open Review Architecture](audit-governance/open-review-architecture.md) — How this audit achieves accountability through public, forkable, permanently archived methodology in place of traditional closed peer review.
 
 - [Audit Summary Presentation](analysis/tga-safety-plan-audit.pdf) – Slide-style overview of key findings and documentation gaps.
 
@@ -54,7 +54,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [Guiding Standards](#guiding-standards)
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
   - [What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
-- [Australian Senate Citation – 24 March 2026](#australian-senate-citation--24-march-2026)
+- [Australian Senate Citation — 24 March 2026](#australian-senate-citation--24-march-2026)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
@@ -164,7 +164,7 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 > **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
 
-## Australian Senate Citation – 24 March 2026
+## Australian Senate Citation — 24 March 2026
 
 Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
