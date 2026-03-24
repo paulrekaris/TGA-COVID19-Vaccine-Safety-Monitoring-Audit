@@ -21,6 +21,19 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 
 *Use visual summaries for briefings, presentations, or quick sharing.*
 
+### How to Engage with this Audit  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?labelColor=181717&style=flat-square)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+
+Any person or organisation may scrutinise, challenge, or build upon this work through:
+
+- **Fork the repository** — create your own copy, correct errors, or publish alternative analysis
+- **Open an Issue** — ask questions, raise concerns, or suggest corrections publicly
+- **Cite the permanent archives** — use the NLA, Zenodo, or SSRN identifiers for scholarly or legal reference
+- **Submit corrections** — email the author or open a pull request with proposed changes
+
+For more information please see: [Open Review Architecture](open-review-architecture.md)
+
 -----
 
 ### All materials are open source and freely accessible:
