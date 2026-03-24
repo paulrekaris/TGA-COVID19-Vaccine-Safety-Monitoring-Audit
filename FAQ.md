@@ -32,7 +32,7 @@ Any person or organisation may scrutinise, challenge, or build upon this work th
 - **Cite the permanent archives** — use the NLA, Zenodo, or SSRN identifiers for scholarly or legal reference
 - **Submit corrections** — email the author or open a pull request with proposed changes
 
-For more information please see: [Open Review Architecture](audit-governanance/open-review-architecture.md)
+For more information please see: [Open Review Architecture](audit-governance/open-review-architecture.md)
 
 -----
 
