@@ -6,7 +6,7 @@
 **Date:** 24 March 2026  
 **Chamber:** Australian Senate  
 **Context:** Adjournment debate  
-**Video:** https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31509
+**Video:** https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31509    
 **Hansard:** Pending publication
 
 ## Summary
