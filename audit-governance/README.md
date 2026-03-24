@@ -34,4 +34,4 @@ These documents demonstrate the audit's commitment to:
 - [FAQ](../FAQ.md) - Frequently asked questions
 - [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) - Complete audit with findings and evidence
 
-**Last updated**: 21 March 2026
+**Last updated**: 24 March 2026
