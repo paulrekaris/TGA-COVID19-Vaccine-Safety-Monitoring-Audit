@@ -1,6 +1,6 @@
 # Release Workflow Checklist
 
-[![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-000000?labelColor=000000&style=flat-square)](https://semver.org/) [![Zenodo](https://img.shields.io/badge/Zenodo-Best%20Practice-blue?style=flat-square)](https://help.zenodo.org/)
+[![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![Semantic Versioning](https://img.shields.io/badge/Semver-2.0.0-000000?labelColor=000000&style=flat-square)](https://semver.org/) [![Zenodo](https://img.shields.io/badge/Zenodo-Best%20Practice-blue?style=flat-square)](https://help.zenodo.org/)  [![GitHub](https://img.shields.io/badge/GitHub-Release%20Management-000000?labelColor=000000&style=flat-square)](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository) 
 
 ## Phase 1: Content Finalisation (Always Required)
 - [ ] Finalise all content changes
