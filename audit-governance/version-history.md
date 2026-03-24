@@ -44,7 +44,7 @@
 
 ### Audit Governance
 - Created `regulatory-accountability-audit-framework.md`: principles and safeguards for citizen-led independent verification of public institution commitments using public records and professional audit standards (ISO 19011, ISO 31000, ISO 15489, FAIR data principles). Two-part structure: framework (methodology, evidence hierarchy, burden of falsification, reproducibility, integrity, independence) and safeguards (materiality, contemporaneity, proportional integrity, audit period, disclosure, negative evidence, scalability)
-- Open Review Architecture page added to audit-governance (open-review-architecture.md) with references and links added to Supporting Documentation, Open Access Framework, and Peer-Review Status sections in main README
+- Open Review Architecture page added to audit-governance (open-review-architecture.md) with references and links added to Supporting Documentation, Open Access Framework, and Peer-Review Status sections in main README and link to page in FAQ (Q.33)
 - Updated Version Control Policy to include quality and records management, research transparency applied to regulatory accountability, expanded OSINT detail, changelog, open access framework, and additional relevant references
 - Updated evidence storage methodology with repository folder structure explanation and ISO 15489-1:2016 alignment; updated international standards classification to reflect freely available status of ICH and CIOMS standards with local archiving noted
 - Added ISO 15489-1:2016 as referenced standard in `release-checklist.md`
