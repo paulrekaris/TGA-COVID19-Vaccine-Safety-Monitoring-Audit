@@ -21,7 +21,7 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 
 *Use visual summaries for briefings, presentations, or quick sharing.*
 
-### How to Engage with this Audit  
+## How to Engage with this Audit  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Open%20Source-181717?labelColor=181717&style=flat-square)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 
