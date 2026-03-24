@@ -7,13 +7,9 @@
 
 This audit uses GitHub’s public, forkable, permanently archived architecture—in alignment with open source and open science standards—as its primary accountability mechanism in place of traditional closed peer review. Anyone may verify, challenge, or build upon the work.
 
------
-
 ## 1. Purpose
 
 This document describes the open review architecture underpinning this audit. It explains how the work achieves accountability and scrutiny without reliance on traditional closed peer review, and how it aligns with ISO 19011:2018 audit principles and ANAO performance audit standards.
-
------
 
 ## 2. The Open Review Model
 
@@ -41,8 +37,6 @@ Any person or organisation may scrutinise, challenge, or build upon this work th
 
 All engagement becomes part of the permanent record via the National Library of Australia’s web archive.
 
------
-
 ## 3. Comparison to Traditional Peer Review
 
 |Criterion         |Traditional Closed Peer Review              |This Open Review Architecture                                                                     |
@@ -54,8 +48,6 @@ All engagement becomes part of the permanent record via the National Library of 
 |**Replicability** |Data and methods often not shared           |All evidence deposited, methods documented                                                        |
 |**Accountability**|No requirement for audited entity to respond|Silence becomes part of permanent record                                                          |
 
------
-
 ## 4. Standards Alignment
 
 **ISO 19011:2018** (including clauses on managing the audit programme, conducting audits, and auditor competence) requires that audit findings are based on verifiable evidence and that audit activities are planned, documented, and capable of independent evaluation. This architecture meets those requirements by depositing all evidence in permanently archived, citable locations, documenting search methodologies and evidence hierarchies, and inviting independent replication and challenge.
@@ -66,15 +58,11 @@ All engagement becomes part of the permanent record via the National Library of 
 
 **Public Governance, Performance and Accountability Act 2013** (including sections 37 and 41) requires Commonwealth entities to maintain records and performance information that properly document and demonstrate their performance. This audit tests whether such records exist; the absence of documentation is itself a finding preserved for oversight bodies.
 
------
-
 ## 5. Invitation to Formal Audit
 
 This open architecture is not a substitute for formal audit by a statutory body with powers to compel documents and testimony. It provides a permanent, verifiable evidentiary basis for such an audit.
 
 The Australian National Audit Office (ANAO) is invited to conduct a performance audit of the TGA’s COVID-19 vaccine safety monitoring framework using its statutory powers. The Senate, OAIC, and Commonwealth Ombudsman are similarly invited to use this work as a basis for inquiry.
-
------
 
 ## 6. Conclusion
 
@@ -84,8 +72,6 @@ This work does not claim to have been peer-reviewed in the traditional sense. It
 - **Verifiability** — anyone can replicate, challenge, or build upon the work
 - **Permanence** — the work is designed to resist suppression or retroactive alteration
 - **Accountability** — the audited entity and oversight bodies are invited to respond; silence is recorded
-
------
 
 ## Related Documents
 
@@ -100,7 +86,6 @@ This work does not claim to have been peer-reviewed in the traditional sense. It
 |Open Source Definition                   |<https://opensource.org/osd>                                                                                     |
 |Regulatory Accountability Audit Framework|[audit-governance/regulatory-accountability-audit-framework.md](regulatory-accountability-audit-framework.md)    |
 
------
 
 **Licence:** CC BY 4.0  
 **Last Updated:** 24 March 2026
