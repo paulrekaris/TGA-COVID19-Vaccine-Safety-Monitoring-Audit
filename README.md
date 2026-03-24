@@ -53,7 +53,6 @@ This repository has been accepted for preservation by the National Library of Au
 - [Purpose](#purpose)
 - [Guiding Standards](#guiding-standards)
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
-  - [What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
 - [Australian Senate Citation — 24 March 2026](#australian-senate-citation--24-march-2026)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
