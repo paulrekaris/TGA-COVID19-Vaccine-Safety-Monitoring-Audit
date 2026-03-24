@@ -673,15 +673,13 @@ Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVI
 
 Several important limitations:
 
-1. **Not yet peer-reviewed**: This work has not yet completed formal peer review
+1. **Not yet peer-reviewed**: This work has not yet completed formal peer review.  The audit's open review architecture — public version control, forkability, and permanent archiving — functions as a continuous public scrutiny mechanism. See [Open Review Architecture](audit-governance/open-review-architecture.md) for detail.
 2. **Individual researcher**: Conducted in my personal capacity, not institutional research
 3. **Document-dependent**: Analysis based on publicly available documents and materials TGA released (or confirmed don’t exist) through FOI
 4. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
 5. **Alternative explanations for absent records**: Three possible explanations exist: records never existed because enhanced monitoring was not systematically implemented; records existed but were not retained in accordance with Commonwealth obligations; or records exist but have not been located or disclosed. All three represent significant accountability failures, and the audit’s findings apply regardless of which explanation proves correct.
 
 **Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [Australian Information Commissioner](primary-sources/oaic/MR22-00538/aicmr-54-26-march-2025.pdf) , is the central finding.
-
------
 
 ## Purpose and Accountability
 
