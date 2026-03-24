@@ -53,11 +53,11 @@ This repository has been accepted for preservation by the National Library of Au
 - [Purpose](#purpose)
 - [Guiding Standards](#guiding-standards)
   - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
-- [Senate Citation – 24 March 2026](#senate-citation-24-march-2026)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
   - [FOI Compliance vs Governance Requirements](#foi-compliance-vs-governance-requirements)
+- [Australian Senate Citation – 24 March 2026](#australian-senate-citation-24-march-2026)
 - [The Evidence Base](#the-evidence-base)
 - [The Investigation: Four Years of FOI Requests](#the-investigation-four-years-of-foi-requests)
   - [Timeline of Contradictions](#timeline-of-contradictions)
@@ -212,6 +212,12 @@ This work exists to ensure that future reviews of Australia's COVID-19 regulator
 
 As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
 
+## Australian Senate Citation – 24 March 2026
+
+Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. Any TGA response — whether producing documentation that closes the audit gap or confirming its absence — itself becomes part of that record.
+
+[View Senate speech](primary-sources/senate/2026-03-24/README.md) | [Video](https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31510) 
+
 ### FOI Compliance vs Governance Requirements
 
 OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
@@ -223,7 +229,6 @@ However, what those thorough searches established—that systematic Plan impleme
 Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
 
 > In a cabinet-approved provisional framework governing population-scale medical intervention, monitoring without defined metrics, tracking and records is indistinguishable from no monitoring at all. What cannot be verified cannot be proven to have existed—regardless of assurances provided to Australians by Cabinet and testimony given under oath to the Senate by senior TGA officials four years later. 
-
 
 ## The Evidence Base
 
