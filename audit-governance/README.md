@@ -22,7 +22,7 @@ For the audit-governance README the GitHub contributing badge is appropriate —
 These documents demonstrate the audit's commitment to:
 
 - **Transparency** - All changes publicly visible and documented
-- **Integrity** - Version control and blockchain timestamping prevent retrospective alteration
+- **Integrity** - Version control and blockchain timestamping make retrospective alteration detectable
 - **Accountability** - Clear responsibility for all versions with documented rationale
 - **Reproducibility** - Complete methodology enabling independent verification
 - **Permanence** - Long-term preservation ensuring evidence and methodology remain accessible independent of institutional or platform changes
