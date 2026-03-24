@@ -847,6 +847,8 @@ The comprehensive audit report includes:
 
 - [Reference Documents](reference-documents/) – Supporting analytical and contextual material including peer-reviewed literature, legal case notes, and international pharmacovigilance standards.
 
+- [Open Review Architecture](audit-governance/open-review-architecture.md) – Documents how the audit's public, forkable GitHub architecture functions as a continuous open review mechanism in place of traditional closed peer review.
+
 - **Media Coverage** – Investigative journalism co‑authored by Paul Rekaris and Dr Julie Sladden on Maryanne Demasi's Substack:  
   - "TGA's vaccine safety black hole: A concerned citizen's four‑year quest for answers"  
     <https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a>  
@@ -866,6 +868,8 @@ DOIs), and Arweave (immutable backup). This ensures:
 - No barriers to scrutiny or reuse
 
 This approach aligns regulatory accountability work with open science principles. All findings are transparent, reproducible, and falsifiable through independent verification.
+
+The audit's open review architecture — public version control, forkability, permanent archiving, and continuous public scrutiny — is documented in the [Open Review Architecture](audit-governance/open-review-architecture.md) page.
 
 **References:**
 
