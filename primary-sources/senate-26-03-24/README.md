@@ -1,4 +1,7 @@
-# Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
+# Australian Senate Citation - 24 March 2026
+
+[![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html)
+
 ## Senate Citation – Senator Malcolm Roberts
 ### 24 March 2026 – Australian Senate
 
@@ -11,7 +14,7 @@
 
 ## Summary
 
-Senator Roberts cited the TGA COVID-19 Vaccine Safety Monitoring Audit by name in the Australian Senate on 24 March 2026, referencing key findings from the SSRN publication.
+Senator Roberts cited the Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan in the Australian Senate on 24 March 2026, referencing key findings from the SSRN publication.
 
 ## Key Messages Cited
 
