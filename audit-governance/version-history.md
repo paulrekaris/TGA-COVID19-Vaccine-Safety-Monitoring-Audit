@@ -140,6 +140,7 @@ distinguish audited outputs from Plan's original specifications.
 - FAQ Q21: added Strategy 2.4 reference for consistency with Key Finding 5
 - Add to main README under Peer Review status and Q35 in the QandA that the public GitHub repository functions as an open review mechanism
 - Add How to Engage with this Audit section in the Quick Start Section of README and the FAQ page
+- Added Australian Senate Citation section (24 March 2026) in README and Primary Sources section — Senator Malcolm Roberts cited the audit by name in the Australian Senate adjournment debate,  referencing key findings from the SSRN publication including absence of implementation records, OAIC confirmation, and ISO 19011 conformity assessment results. Section includes summary, key messages cited, and YouTube link to senate proceedings and Hansard.
 
 **Note:** Core audit findings unchanged. Finding strengthened.
 
