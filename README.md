@@ -214,9 +214,9 @@ As of January 2026, no Commonwealth oversight body has initiated a dedicated per
 
 ## Australian Senate Citation – 24 March 2026
 
-Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. Any TGA response — whether producing documentation that closes the audit gap or confirming its absence — itself becomes part of that record.
+Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
-[View Senate speech](primary-sources/senate-2026-03-24/README.md) | [Video](https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=3155) 
+[View Senate speechand analysis] (.../primary-sources/senate-2026-03-24/README.md) | [Video](https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31508)
 
 ### FOI Compliance vs Governance Requirements
 
