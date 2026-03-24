@@ -151,7 +151,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Important Distinction: Routine vs Enhanced Monitoring
 
-## What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
+### What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring
 
 This audit does NOT claim that routine pharmacovigilance failed to occur. TGA conducted monitoring activities, investigated 148 signals, and published more than 150 safety reports.
 
