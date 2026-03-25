@@ -8,5 +8,5 @@ This audit and the underlying FOI investigation have been covered in the followi
 **2. "Stairs to nowhere: TGA's vanishing vaccine safety monitoring trail"** (November 2025)
    - https://blog.maryannedemasi.com/p/stairs-to-nowhere-tgas-vanishing
 
-**3. "Stairs to Nowhere: TGA's vanishing promise of safety monitoring"** (republished at Australians for Science and Freedom)
+**3. "Stairs to Nowhere: TGA's vanishing promise of safety monitoring"** (republished at Australians for Science and Freedom, November 2025)
    - https://www.scienceandfreedom.org/articles/stairs-to-nowhere-tgas-vanishing-promise-of-safety-monitoring/
