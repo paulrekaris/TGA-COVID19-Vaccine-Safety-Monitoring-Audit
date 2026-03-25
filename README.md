@@ -164,10 +164,11 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 
 ## Australian Senate Citation — 24 March 2026
 
+[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)
+
 Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
 [View Senate speech](primary-sources/senate-2026-03-24/README.md) | [Video](https://www.youtube.com/live/lXSeEoT-32g?si=33wfVh9bqonXeSIY&t=31508)
-
 
 ## Executive Summary
 
