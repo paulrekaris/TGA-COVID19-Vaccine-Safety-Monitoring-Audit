@@ -1,6 +1,6 @@
 # Media Coverage
 
-This audit and the underlying FOI investigation have been covered in the following publications. All articles are co-authored by Paul Rekaris and Dr Julie Sladden.  PDF copies are archived in the [`media-coverage`](media-coverage/) folder.
+This audit and the underlying FOI investigation have been covered in the following publications. All articles are co-authored by Paul Rekaris and Dr Julie Sladden.  PDF copies are archived in the media-coverage folder.
 
 **1. "TGA's vaccine safety black hole: A concerned citizen's four-year quest for answers"** (May 2025)
    - https://blog.maryannedemasi.com/p/tgas-vaccine-safety-black-hole-a
