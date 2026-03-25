@@ -10,9 +10,8 @@
 **Chamber:** Australian Senate  
 **Context:** Adjournment debate  
 **Video:** [Australian Senate – 24 March 2026](https://www.youtube.com/live/lXSeEoT-32g?t=30900)
-**Hansard:** Proof Hansard – Senate, 24 March 2026
-*Source: Commonwealth of Australia, Parliamentary Debates, Senate, proof Hansard, 24 March 2026, Senator Malcolm Roberts (One Nation, Queensland). Quotations drawn from proof Hansard; subject to later factual correction.*
-
+**Hansard:** Proof Hansard – Senate, 24 March 2026  
+**Source:** Commonwealth of Australia, Parliamentary Debates, Senate, proof Hansard, 24 March 2026, Senator Malcolm Roberts (One Nation, Queensland). Quotations drawn from the proof Hansard and subject to later factual correction.
 
 ## Summary
 
