@@ -259,7 +259,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 ### Timeline of Contradictions
 
 
-- **February 2022** - TGA claims requested implementation documents “do not exist” (FOI 3643).
+- **February 2022** - TGA claims requested implementation documents “do not exist” [FOI 3643](primary-sources/foi/foi-3643/foi-3643-decision-letter-redacted.pdf)
 
 - **February 2022** - TGA acknowledges that “ample documentation” exists, but does not identify Plan‑specific implementation records.
 
