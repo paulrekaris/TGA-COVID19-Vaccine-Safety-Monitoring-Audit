@@ -621,7 +621,9 @@ This assessment has been provided to multiple oversight bodies:
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision. IC review for MR25/01153 still pending.
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 26 March 2026.
 
-Formal correspondence with oversight bodies including ANAO and Senate Community Affairs Legislation Committee submissions and responses can be read in the [correspondence](primary-sources/correspondence/) folder.
+Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
+
+That sat at the bottom of the Oversight and Accountability section, after the last bullet point.
 
 
 ## The Call for Investigation
@@ -855,6 +857,8 @@ The comprehensive audit report includes:
 - [One-Page Audit Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
 - [Primary Sources](primary-sources/) – FOI responses, OAIC decisions, Senate testimony, Australian Government and TGA policy documents, AusPARs, performance reports, vaccination data, and surveillance materials.
+
+- [Correspondence](primary-sources/correspondence/) – Formal correspondence with oversight bodies including ANAO and Senate Community Affairs Legislation Committee submissions and responses.
 
 - [Reference Documents](reference-documents/) – Supporting analytical and contextual material including peer-reviewed literature, legal case notes, and international pharmacovigilance standards.
 
