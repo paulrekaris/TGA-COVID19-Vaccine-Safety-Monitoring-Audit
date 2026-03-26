@@ -944,7 +944,7 @@ This citizen-led assessment is termed an "audit" because it applies systematic a
 
 ## Scope and Intent
 
-This audit assesses documented evidence of Safety Plan implementation against provisional approval commitments and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control.
+This audit assesses documented evidence of Safety Plan implementation against provisional approval commitments, and does not question the competence, good faith, or professional conduct of TGA staff or partner organisations. Staff may have worked diligently within resource constraints, organisational structures, or system limitations beyond their control.
 
 The findings concern systemic documentation, records management, and governance processes—not individual performance or intent. The absence of documentation may reflect organisational capacity issues, competing priorities during emergency response, or records-management system limitations rather than deliberate non-implementation.
 
