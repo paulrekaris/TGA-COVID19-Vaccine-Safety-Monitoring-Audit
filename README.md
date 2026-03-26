@@ -282,6 +282,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. A decision is pending as of March 2026.
 
+All key documentation and evidence is provided in the [primary sources](primary-sources/) folder.
 
 ## The Critical Question
 
