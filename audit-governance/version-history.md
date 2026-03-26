@@ -122,10 +122,6 @@ distinguish audited outputs from Plan's original specifications.
 - Updated TOC to reflect renamed and restructured files
 - Updated internal relative path references, anchors, and links
 
-### Other changes
-- Added Table of Contents with anchor links to README files requiring navigation aids, based on document length and section complexity
-- Created primary-source subfolders for OAIC cases MR22/00538 and MR25/01153; MR25/01153 README includes application details, FOI reference (FOI 25-0166), and agency details- Added README files to both subfolders
-
 ### Added
 - Standards badges added across audit documentation pages:
 - Audit-governance folder README: ISO 19011:2018, ISO 15489-1:2016, ISO 14721:2025, ANAO, OSINT Foundation, ODNI, Open Access, FAIR Principles, DPC, Semantic Versioning, Keep a Changelog, Zenodo, GitHub, OpenTimestamps, Arweave (15 badges)
@@ -140,6 +136,11 @@ distinguish audited outputs from Plan's original specifications.
 - Add to main README under Peer Review status and Q35 in the QandA that the public GitHub repository functions as an open review mechanism
 - How to Engage with this Audit section in the Quick Start Section of README and the FAQ page
 - Australian Senate Citation section (24 March 2026) in README and Primary Sources section — Senator Malcolm Roberts cited the audit by name in the Australian Senate adjournment debate,  referencing key findings from the SSRN publication including absence of implementation records, OAIC confirmation, and ISO 19011 conformity assessment results. Section includes summary, key messages cited, and YouTube link to senate proceedings and Hansard.
+
+### Other changes
+- Added Table of Contents with anchor links to README files requiring navigation aids, based on document length and section complexity
+- Created primary-source subfolders for OAIC cases MR22/00538 and MR25/01153; MR25/01153 README includes application details, FOI reference (FOI 25-0166), and agency details- Added README files to both subfolders
+- Make minor grammatical and administrative corrections throughout
 
 **Note:** Core audit findings unchanged. Finding strengthened.
 
