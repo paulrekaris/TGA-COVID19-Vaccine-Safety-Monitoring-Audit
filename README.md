@@ -623,8 +623,6 @@ This assessment has been provided to multiple oversight bodies:
 
 Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
 
-That sat at the bottom of the Oversight and Accountability section, after the last bullet point.
-
 
 ## The Call for Investigation
 
