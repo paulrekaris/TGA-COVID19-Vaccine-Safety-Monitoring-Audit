@@ -4,6 +4,9 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
+**Last updated:** 26 March, 2026
+
+
 ---
 
 ## Table of Contents
@@ -147,7 +150,6 @@ distinguish audited outputs from Plan's original specifications.
 
 **Note:** Core audit findings unchanged. Finding strengthened.
 
-**Last updated:** 24 March, 2026
 
 ---
 
