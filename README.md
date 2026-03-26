@@ -615,7 +615,7 @@ Taken together, the scale of provisional use (68.4 million doses), the absence o
 
 This assessment has been provided to multiple oversight bodies:
 
-- **Australian Senate** – Senator Malcolm Roberts cited the audit by name in the adjournment debate on 24 March 2026, referencing key findings from the SSRN publication including absence of implementation records and ISO 19011 conformity assessment results. [Read the Senate Analysis](primary-sources/senate-2026-03-24/)
+- **Australian Senate** – Senator Malcolm Roberts cited the audit by name in the adjournment debate on 24 March 2026, referencing key findings from the SSRN publication including absence of implementation records and ISO 19011 conformity assessment results. [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 - **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
 - **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision. IC review for MR25/01153 still pending.
@@ -639,7 +639,6 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 The problem is straightforward: **TGA made commitments to Australians about enhanced, documented safety monitoring for COVID-19 vaccines administered to 21.2 million people. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional approval frameworks.
 
 ## Methodology and Evidence Base
-
 
 ### Assessment Framework
 
