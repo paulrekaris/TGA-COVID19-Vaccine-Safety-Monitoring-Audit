@@ -42,7 +42,7 @@
 - Added CIOMS Working Group VIII Chapter VIII citations to Output 2.3, Finding 5, and surveillance analysis sections in ISO-19011 conformity assessment 
 - Added Senate Questions on Notice (December 2025) gap analysis: complete analysis of TGA's December 2025 responses to SQ13–19 including four-layer governance framework mapping, question-by-question assessment table, FOI evidence analysis, prior SQON pattern analysis, and governance failure conclusion
 - Added "Case Study in Transparency" to Compensation Analysis: CDC MMWR report (August 2021) documenting quantified GBS risk (15.6/million in males 50–64), full methodology (observed/expected, 95% CI), and data sources (VAERS, VSD), contrasting with TGA's withheld equivalent analysis
-- Refined Strategy 2.3 (Enhanced cumulative data reviews): iintegrated FOI 5275 (direct applicant copy via FOI 26-2581) across output-by-output breakdown, key supporting evidence, and pattern analysis; tightened FOI 5275 description to specify AIR-denominator methodology; added external validation that Strategy 2.3 incidence data was never produced
+- Refined Strategy 2.3 (Enhanced cumulative data reviews): integrated FOI 5275 (direct applicant copy via FOI 26-2581) across output-by-output breakdown, key supporting evidence, and pattern analysis; tightened FOI 5275 description to specify AIR-denominator methodology; added external validation that Strategy 2.3 incidence data was never produced
 - Added markdown Table of Contents with anchor links and a back to the top link to ISO 19011 conformity assessment
 - Updated file paths throughout to reflect repository restructure
 - Format changes and minor corrections to text and references (no impact to findings)
