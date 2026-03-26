@@ -920,9 +920,9 @@ Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vac
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {February},
+  month = {March},
   year = {2026},
-  version = {1.9.1},
+  version = {1.9.2},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -1011,8 +1011,8 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History
 
-**Document Version:** 1.9.1  
-**Last Updated:** 24 March 2026  
+**Document Version:** 1.9.2
+**Last Updated:** 26 March 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Blockchain and Arweave verification pending.
 
@@ -1024,7 +1024,7 @@ For detailed version history and changelog, see [Version History](audit-governan
 
 **Full blockchain and archival verification documentation:** [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
 
-**Note:** Blockchain verification timestamps below are from Version 1.9.0. Version 1.9.1 blockchain verification pending.
+**Note:** Blockchain verification timestamps below are from Version 1.9.0. Version 1.9.2 blockchain verification pending.
 
 This audit has been permanently archived and cryptographically timestamped:
 
