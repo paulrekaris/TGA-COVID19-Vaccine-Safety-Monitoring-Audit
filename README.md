@@ -286,7 +286,6 @@ All key documentation and evidence is provided in the [primary sources](primary-
 
 ## The Critical Question
 
-
 If TGA can organise 2,218+ pages by Plan objectives for the Information Commissioner, why can it not provide equivalent documentation to citizens after four years of requests?
 
 Each plausible explanation points to a serious failure in implementation, documentation, or both:
