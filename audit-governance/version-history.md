@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Version 1.9.2](26 March 2026)(#version-192-26-march-2026)
+- [Version 1.9.2 (26 March 2026)](#version-192-26-march-2026)
 - [Version 1.9.1 (7 February 2026)](#version-191-7-february-2026)
 - [Version 1.9 (14 January 2026)](#version-19-14-january-2026)
 - [Version 1.8 (6 January 2026)](#version-18-6-january-2026)
