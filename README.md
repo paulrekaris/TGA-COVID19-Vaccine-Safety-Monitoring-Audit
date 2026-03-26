@@ -617,8 +617,8 @@ Taken together, the scale of provisional use (68.4 million doses), the absence o
 This assessment has been provided to multiple oversight bodies:
 
 - **Australian Senate** – Senator Malcolm Roberts cited the audit by name in the adjournment debate on 24 March 2026, referencing key findings from the SSRN publication including absence of implementation records and ISO 19011 conformity assessment results. [Read the Senate Analysis](primary-sources/senate-2026-03-24/)
-- **Australian National Audit Office (ANAO)** – submitted 27 November 2025, requesting a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions.  
-- **Senate Community Affairs Legislation Committee** – provided to members to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025.  
+- **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
+- **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision.  
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
 
