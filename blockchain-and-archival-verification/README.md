@@ -226,21 +226,21 @@ To view historical snapshots:
 
 ---
 
-## Internet Archive – Direct Upload
+## Internet Archive – Direct Upload   
 
-**Upload Date:** 26 March 2026 
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip (uploaded 8 February 2026)
-**Licence:** CC BY 4.0  
-**Status:** UPLOADED - Publicly Accessible
+**Upload Date:** 26 March 2026     
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan    
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip (uploaded 8 February 2026)    
+**Licence:** CC BY 4.0        
+**Status:** UPLOADED - Publicly Accessible         
 
 ### Significance
 
-Direct upload to Internet Archive provides an independent, complete copy of the repository archive beyond Wayback Machine web snapshots. Ensures full file-level access to the complete audit repository regardless of GitHub or Zenodo availability.
+Direct upload to Internet Archive provides an independent, complete copy of the repository archive beyond Wayback Machine web snapshots. Ensures full file-level access to the complete audit repository regardless of GitHub or Zenodo availability.      
 
 ### Access
 
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1      
 
 ---
 
