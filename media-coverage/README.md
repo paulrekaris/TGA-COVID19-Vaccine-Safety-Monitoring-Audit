@@ -10,3 +10,5 @@ This audit and the underlying FOI investigation have been covered in the followi
 
 **3. "Stairs to Nowhere: TGA's vanishing promise of safety monitoring"** (republished at Australians for Science and Freedom, November 2025)
    - https://www.scienceandfreedom.org/articles/stairs-to-nowhere-tgas-vanishing-promise-of-safety-monitoring/
+
+**Last updated** 26 March 2026
