@@ -117,7 +117,8 @@ distinguish audited outputs from Plan's original specifications.
 - Expanded institutional traffic monitoring to ten categories: Australian Government, Oversight Bodies, US Government, Academic, NGO/Advocacy, Consulting, Legal, Major Media, Health/Medical, and Corporate
 - Added academic repository domains to institutional detection: Mendeley, SSRN, OSF/SocArXiv, SocOpen, and Elsevier
 - Added AEST report timestamp and data-through date to summary header
-- Expanded all-time stats with total unique cloners, total unique views, average daily unique cloners, and average daily unique views- Added peak day tracking for clones, views, unique cloners, and unique views
+- Expanded all-time stats with total unique cloners, total unique views, average daily unique cloners, and average daily unique views
+- Added peak day tracking for clones, views, unique cloners, and unique views
 - Replaced mechanical traffic commentary with event-driven key observations: new all-time peaks, clone/view milestones, institutional attention alerts, and engagement alerts
 - Removed redundant engagement block (now covered by key observations and repository engagement totals)
 - Improved summary formatting with section spacing for readability
