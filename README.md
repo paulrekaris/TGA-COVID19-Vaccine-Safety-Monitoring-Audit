@@ -620,8 +620,9 @@ This assessment has been provided to multiple oversight bodies:
 - **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision. IC review for MR25/01153 still pending.
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 26 March 2026.
+- **[Correspondence](primary-sources/correspondence/) – 
 
-Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
+Formal correspondence with oversight bodies including ANAO and Senate Community Affairs Legislation Committee submissions and responses can be read in the [correspondence](primary-sources/correspondence/) folder.
 
 
 ## The Call for Investigation
