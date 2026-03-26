@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-- [Unreleased — Version 1.9.2](#unreleased--in-progress-version-192)
+- [Version 1.9.2](26 March 2026)(#version-192-26-march-2026)
 - [Version 1.9.1 (7 February 2026)](#version-191-7-february-2026)
 - [Version 1.9 (14 January 2026)](#version-19-14-january-2026)
 - [Version 1.8 (6 January 2026)](#version-18-6-january-2026)
@@ -23,9 +23,11 @@
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
-## [Unreleased] — In Progress: Version 1.9.2
+## Version 1.9.2 (26 March 2026)
 
-[PLACEHOLDER - COMMIT NOTES/v1.91 v 1.92]
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
+[Commits v1.9.1...v1.9.2](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.1...v1.9.2)
 
 ### Analysis and methodology 
 - Audit results: aligned assessments to exact TGA COVID-19 Vaccine Safety Monitoring Plan strategies and outputs (pp.6-11). Corrected inconsistencies between Plan commitments and evidence evaluations.  Top-line results adjusted slightly but core findings unchanged: Results adjusted to reflect corrected output alignment; core findings unchanged: 84% of outputs lack full documentation of systematic/enhanced processes as committed. Updated plan audit results throughout the repo including relevant Git pages, Main Audit Report and two visuals
