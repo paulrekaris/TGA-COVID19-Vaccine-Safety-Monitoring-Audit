@@ -622,6 +622,9 @@ This assessment has been provided to multiple oversight bodies:
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision.  
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration.
 
+Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
+
+
 ## The Call for Investigation
 
 Australia administered 68.4 million COVID‑19 vaccine doses under provisional approval – the country’s largest deployment of provisionally approved medicines. Provisional approval was justified on the basis that **enhanced, documented post‑market monitoring** would compensate for limited pre‑market data.
