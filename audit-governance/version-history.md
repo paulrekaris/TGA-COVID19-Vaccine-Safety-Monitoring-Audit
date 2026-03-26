@@ -158,7 +158,6 @@ distinguish audited outputs from Plan's original specifications.
 
 [Commits v1.9.0...v1.9.1](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.0...v1.9.1)
 
-**Previous versions below...**
 
 ### Added
 
