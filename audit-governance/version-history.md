@@ -143,11 +143,16 @@ distinguish audited outputs from Plan's original specifications.
 - How to Engage with this Audit section in the Quick Start Section of README and the FAQ page
 - Australian Senate Citation section (24 March 2026) in README and Primary Sources section — Senator Malcolm Roberts cited the audit by name in the Australian Senate adjournment debate,  referencing key findings from the SSRN publication including absence of implementation records, OAIC confirmation, and ISO 19011 conformity assessment results. Section includes summary, key messages cited, and YouTube link to senate proceedings and Hansard.
 - Key correspondence folder containing communications from committees and agencies such as ANAO.
+- Updated Oversight and Accountability section with ANAO response (19 January 2026) and Senate Community Affairs Legislation Committee response (2 March 2026)
+- OAIC and Commonwealth Ombudsman status updates as of 26 March 2026
+- Added correspondence folder with formal submissions and responses from ANAO and Senate Community Affairs Legislation Committee
 
 ### Other changes
 - Added Table of Contents with anchor links to README files requiring navigation aids, based on document length and section complexity
-- Created primary-source subfolders for OAIC cases MR22/00538 and MR25/01153; MR25/01153 README includes application details, FOI reference (FOI 25-0166), and agency details- Added README files to both subfolders
+- Created primary-source subfolders for OAIC cases MR22/00538 and MR25/01153; MR25/01153 README includes application details, FOI reference (FOI 25-0166), and agency details
+- Added README files to both subfolders
 - Make minor grammatical and administrative corrections throughout
+- Fixed CITATION.cff: corrected repository to repository-code per CFF 1.2.0 specification
 
 **Note:** Core audit findings unchanged. Finding strengthened.
 
