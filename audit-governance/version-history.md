@@ -74,7 +74,7 @@
 - Added 21.2M recipient figure and largest provisional approval deployment context to Executive Summary
 - Added Prime Minister and Cabinet Handbook citation referencing ministerial obligation to carry out Cabinet-endorsed decisions
 - Added alternative explanations for absent records to Limitations and Falsifiability section
-- Addedd Key Finding 5: AusVaxSafety integration cannot be demonstrated (Strategy 2.4 reference)
+- Added Key Finding 5: AusVaxSafety integration cannot be demonstrated (Strategy 2.4 reference)
 - Key Findings renumbered: former findings 5–7 become 6–8
 - Added Archive and Preservation section with NLA monthly snapshot notifications and direct link to AWA; added NLA monthly snapshot of GitHub website to Australian Web Archive (distinct from dataset archiving)
 - Added Multi-Layer Preservation Architecture badge and latest release version badge with auto-updating download icon
