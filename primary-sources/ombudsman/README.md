@@ -13,4 +13,4 @@ This complaint was submitted following documented contradictions between TGA's p
 The earlier FOI 3643 and OAIC review MR22/00538 established the initial pattern of TGA resistance to transparency, which escalated through FOI 25-0166 and MR25/01153.
 
 ## Status
-Under review. To the best of the applicant's knowledge as of 26 March 2026, the Ombudsman has not yet commenced their assessment. This folder will be updated when the Commonwealth Ombudsman completes their review.
+Under review. To the best of the applicant's knowledge as of 26 March 2026, the Ombudsman has not yet formally commenced their assessment. This folder will be updated when the Commonwealth Ombudsman completes their review.
