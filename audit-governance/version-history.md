@@ -87,7 +87,7 @@
 - Reformatted evidence base navigation links to inline prose
 - Moved "No Commonwealth oversight initiated" to Accountability section; removed Scale and Context section to avoid duplication
 - Added README scope footnote clarifying 17 Plan strategies + 2 governance outputs = 19 total audited (ISO 19011:2018 6.3.1/5.2.2, PGPA s37(2))
-- Added Mendeley Data badge and link to main README (DOI: 10.17632/y5wmt6f8j9)and details to Permanent Archive section
+- Added Mendeley Data badge and link to main README (DOI: 10.17632/y5wmt6f8j9) and details to Permanent Archive section
 - Reordered badge rows in main README by credibility and academic identity: Row 1 (Permanent Archive, NLA), Row 2 (Zenodo, Mendeley Data, SSRN, SocArXiv)
 - Expanded ISO 15489-1:2016 description in Guiding Standards section
 - Fix: Clarify 19 audited outputs (17 strategies + 2 governance. Update Key Findings #3, #6, and Implementation Status section to
