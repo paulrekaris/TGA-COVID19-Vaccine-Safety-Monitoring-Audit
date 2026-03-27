@@ -15,14 +15,14 @@ This document describes the open review architecture underpinning this audit. It
 
 This audit implements a continuous, distributed, public review architecture rather than traditional closed peer review:
 
-|Feature                       |Description                                                                                                                                |
-|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-|**Public repository (GitHub)**|Full version control, transparent revision history, public by default                                                                      |
-|**Forkability (CC BY 4.0)**   |Anyone may copy, adapt, or redistribute. Forking is an invitation to correct, improve, or challenge                                        |
-|**Issues and discussion**     |Public forum for questions, critiques, and corrections                                                                                     |
-|**Permanent archiving**       |NLA (AWA), Zenodo, SSRN, SocArXiv, Mendeley Data, Arweave, blockchain. The work is designed to resist suppression or retroactive alteration|
-|**Deposited evidence**        |All FOI documents, evidence matrices, and primary sources preserved and citable                                                            |
-|**Falsifiability**            |Any finding can be disproved by production of contradictory documentation                                                                  |
+| Feature | Description |
+|---------|-------------|
+| **Public repository (GitHub)** | Full version control, transparent revision history, public by default |
+| **Forkability (CC BY 4.0)** | Anyone may copy, adapt, or redistribute. Forking is an invitation to correct, improve, or challenge |
+| **Issues and discussion** | Public forum for questions, critiques, and corrections |
+| **Permanent archiving** | NLA (AWA), Zenodo, SSRN, SocArXiv, Mendeley Data (persistent DOIs), Arweave, blockchain. The work is designed to resist suppression or retroactive alteration |
+| **Deposited evidence** | All FOI documents, evidence matrices, and primary sources preserved and citable |
+| **Falsifiability** | Any finding can be disproved by production of contradictory documentation |
 
 ### 2.1. How to Engage
 
