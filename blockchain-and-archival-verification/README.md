@@ -184,21 +184,21 @@ To independently verify this timestamp:
 
 ## Arweave Permanent Storage
 
-### Current Version (v1.92)
-**Upload Date:** March 27, 2026
-**Confirmation Date:** March 27, 2026 - 9:55 AM AEDT
-**Transaction ID:** `k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY`
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.92.zip
-**Size:** 64.44 MB
-**Status:** CONFIRMED - Permanent and Accessible
+### Current Version (v1.92)   
+**Upload Date:** March 27, 2026   
+**Confirmation Date:** March 27, 2026 - 9:55 AM AEDT   
+**Transaction ID:** `k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY`   
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.92.zip   
+**Size:** 64.44 MB   
+**Status:** CONFIRMED - Permanent and Accessible    
 
-### Significance
+### Significance   
 Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
 
-### Access
-**Current Version (v1.92)**
-**Direct Link:** https://arweave.net/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY
-**Status Verification:** https://viewblock.io/arweave/tx/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY
+### Access   
+**Current Version (v1.92)**    
+**Direct Link:** https://arweave.net/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY    
+**Status Verification:** https://viewblock.io/arweave/tx/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY    
 
 
 ---
