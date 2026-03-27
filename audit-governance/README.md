@@ -14,7 +14,7 @@ For the audit-governance README the GitHub contributing badge is appropriate —
 - [Open Review Architecture](open-review-architecture.md) - Documents how the audit's public, forkable GitHub architecture functions as a continuous open review mechanism, with comparison to traditional peer review and standards alignment to ISO 19011:2018, ISO 15489-1:2016, and ANAO Better Practice
 - [Version Control Policy](version-control-policy.md) - Version control principles following ISO 19011:2018 (audit standards), ISO 15489-1:2016 (records management), OSINT methodology, and research integrity standards
 - [Version History](version-history.md) - Complete changelog documenting all versions, evidence additions, methodology refinements, and corrections with rationale
-- [Permanent Archive Records](/blockchain-and-archival-verification/permanent-archive-records-2026-03-23.pdf) - Documentation of permanent archiving through National Library of Australia (Legal deposit + Australian Web Archive), Zenodo DOI, Mendeley Data DOI, Bitcoin blockchain timestamping, Arweave permanent storage, and Internet Archive web snapshots
+- [Permanent Archive Records](/blockchain-and-archival-verification).) - Documentation of permanent archiving through National Library of Australia (Legal deposit + Australian Web Archive), Zenodo DOI, Mendeley Data DOI, Bitcoin blockchain timestamping, Arweave permanent storage, and Internet Archive web snapshots
 - [Release Workflow](release-checklist.md) - Three-phase release process (content finalisation → release and academic archival → blockchain verification) ensuring cryptographic verification of published DOI-stable versions. Includes practical checklist for workflow execution.
 
 ## Purpose
