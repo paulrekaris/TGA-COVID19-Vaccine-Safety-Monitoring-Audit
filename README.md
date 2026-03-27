@@ -36,7 +36,7 @@
 
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
-- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped Dec 31, 2025](blockchain-and-archival-verification/bitcoin-timestamp-verification-2025-12-31.png) | [Arweave Blockchain](TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped Dec 31, 2025](blockchain-and-archival-verification/bitcoin-timestamp-verification-2025-12-31.png) | [Arweave Blockchain](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)| [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
@@ -1043,7 +1043,7 @@ This audit has been permanently archived and cryptographically timestamped:
   SHA-256: `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
   [Verify timestamp](https://opentimestamps.org)
 
-- **Arweave:** [Permanent Storage](TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
+- **Arweave:** [Permanent Storage](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
 - **Internet Archive:** [Full Repository](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)  
   Complete archive and dated snapshots proving public web presence
