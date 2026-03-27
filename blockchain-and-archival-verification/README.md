@@ -6,7 +6,7 @@ This audit is protected by multiple verification and archival methods including 
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 
 ## Table of Contents
@@ -184,21 +184,22 @@ To independently verify this timestamp:
 
 ## Arweave Permanent Storage
 
-**Upload Date:** December 31, 2025  
-**Confirmation Date:** January 1, 2026 - 9:55 AM AEDT  
-**Transaction ID:** `ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w`  
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-main.zip  
-**Size:** 36.54 MB  
+### Current Version (v1.92)
+**Upload Date:** March 27, 2026
+**Confirmation Date:** March 27, 2026 - 9:55 AM AEDT
+**Transaction ID:** `k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY`
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.92.zip
+**Size:** 64.44 MB
 **Status:** CONFIRMED - Permanent and Accessible
 
 ### Significance
-
-Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transaction is verified on Arweave blockchain and stored permanently across the distributed network.
+Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
 
 ### Access
+**Current Version (v1.92)**
+**Direct Link:** https://arweave.net/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY
+**Status Verification:** https://viewblock.io/arweave/tx/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY
 
-**Direct Link:** https://arweave.net/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w  
-**Status Verification:** https://viewblock.io/arweave/tx/ngN5BSDprWQwcqxp0IokO3UC2UwQinebxCc7N2lbz6w
 
 ---
 
