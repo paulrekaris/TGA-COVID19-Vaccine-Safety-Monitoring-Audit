@@ -147,7 +147,7 @@
 **Evidence Collection Period:** 2022–2026 (Four-year systematic investigation)  
 **Period Under Audit:** February 2022 – January 2026  
 **Audit Type:** Independent regulatory documentation-compliance audit  
-**Permanent Archive:** See [Blockchain and Archival Verification](blockchain-and-archival-verification/README.md)
+**Permanent Archive:** See [Blockchain and Archival Verification](../blockchain-and-archival-verification/README.md)
 
 ---
 
