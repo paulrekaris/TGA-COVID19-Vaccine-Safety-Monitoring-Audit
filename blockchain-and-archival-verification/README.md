@@ -260,6 +260,8 @@ This audit is protected by multiple independent verification methods:
 - **Internet Archive:** Web presence verification with dated snapshots
 - **GitHub:** Public version control with complete history
 
+[Permanent Archive Records](permanent-archive-records-2026-03-23.pdf)
+
 ### Preservation Standard
 
 [![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html)
