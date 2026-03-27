@@ -6,7 +6,7 @@ This audit is protected by multiple verification and archival methods including 
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 
 ## Table of Contents
@@ -198,9 +198,8 @@ Arweave provides permanent, immutable storage of the complete audit archive. The
 
 ### Access   
 **Current Version (v1.92)**    
-**Direct Link:** https://arweave.net/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY    
-**Status Verification:** https://viewblock.io/arweave/tx/k2sN-Wh0cN9gxYrzFUuCYYEukMSl-h2wE5YSytj1grY    
-
+**Direct Link:** https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
+**Status Verification:** https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 
 ---
 
