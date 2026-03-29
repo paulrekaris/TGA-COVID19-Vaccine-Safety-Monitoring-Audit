@@ -173,19 +173,6 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 ### Significance
 Bitcoin blockchain timestamps provide cryptographically immutable proof that this audit existed in its verified form at a specific point in time. Unlike institutional archives, the record can only be altered through consensus of the entire distributed network — making it particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
 
-### Files
-**bitcoin-timestamp-verification-2026-03-29.png**
-Screenshot showing verified Bitcoin blockchain timestamp confirmation for v1.9.2 (block 942725).
-
-**TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip.ots**
-OpenTimestamps proof file for v1.9.2.
-
-**bitcoin-timestamp-verification-2025-12-31.png**
-Screenshot showing verified Bitcoin blockchain timestamp confirmation for v1.9.0.
-
-**TGA-COVID19-Vaccine-Safety-Monitoring-Audit-main.zip.ots**
-OpenTimestamps proof file for v1.9.0.
-
 ### Verification
 To independently verify either timestamp:
 1. Go to https://opentimestamps.org
