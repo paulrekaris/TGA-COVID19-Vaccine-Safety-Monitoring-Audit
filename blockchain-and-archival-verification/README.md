@@ -253,7 +253,7 @@ This audit is protected by multiple independent verification methods:
 - **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
 - **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS (https://data.mendeley.com/datasets/y5wmt6f8j9)
 - **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar (https://doi.org/10.31235/osf.io/sb4gz_v1)
-- **Bitcoin:** Cryptographic timestamp proving existence on December 31, 2025
+- **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
 - **GitHub:** Public version control with complete history
