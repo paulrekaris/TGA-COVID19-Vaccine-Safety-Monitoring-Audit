@@ -156,30 +156,43 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 
 ## Bitcoin Timestamp (OpenTimestamps)
 
-**Date:** December 31, 2025  
-**Time:** 2:15 AM AEDT  
-**SHA-256:** `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`  
-**Status:** VERIFIED - Bitcoin Attestation Confirmed
+### Version 1.9.2
+**Date:** 29 March 2026 AEDT
+**Bitcoin Block:** 942725
+**SHA-256:** `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`
+**Status:** VERIFIED — Bitcoin Attestation Confirmed
+**Verification Screenshot:** [View](bitcoin-timestamp-verification-2026-03-29.png)
+
+### Version 1.9.0 (previous)
+**Date:** December 31, 2025
+**Time:** 2:15 AM AEDT
+**SHA-256:** `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`
+**Status:** VERIFIED — Bitcoin Attestation Confirmed
+**Verification Screenshot:** [View](bitcoin-timestamp-verification-2025-12-31.png)
 
 ### Significance
-
-A Bitcoin blockchain timestamp provides cryptographically immutable proof that this audit existed in its current form on December 31, 2025. Unlike institutional archives, the record can only be altered through consensus of the entire distributed network — making it particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
+Bitcoin blockchain timestamps provide cryptographically immutable proof that this audit existed in its verified form at a specific point in time. Unlike institutional archives, the record can only be altered through consensus of the entire distributed network — making it particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
 
 ### Files
+**bitcoin-timestamp-verification-2026-03-29.png**
+Screenshot showing verified Bitcoin blockchain timestamp confirmation for v1.9.2 (block 942725).
 
-**Bitcoin-Timestamp-Verification-2025-12-31.png**  
-Screenshot showing verified Bitcoin blockchain timestamp confirmation via OpenTimestamps.
+**TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip.ots**
+OpenTimestamps proof file for v1.9.2.
 
-**TGA-COVID19-Vaccine-Safety-Monitoring-Audit-main.zip.ots**  
-OpenTimestamps proof file containing cryptographic evidence of timestamp.
+**bitcoin-timestamp-verification-2025-12-31.png**
+Screenshot showing verified Bitcoin blockchain timestamp confirmation for v1.9.0.
+
+**TGA-COVID19-Vaccine-Safety-Monitoring-Audit-main.zip.ots**
+OpenTimestamps proof file for v1.9.0.
 
 ### Verification
-
-To independently verify this timestamp:
+To independently verify either timestamp:
 1. Go to https://opentimestamps.org
 2. Upload the `.ots` proof file
-3. System will verify against Bitcoin blockchain
-4. Confirms audit archive existed on December 31, 2025
+3. Upload the corresponding ZIP file
+4. System will verify against Bitcoin blockchain
+5. Confirms audit archive existed at the attested date
 
 ---
 
