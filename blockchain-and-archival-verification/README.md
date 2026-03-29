@@ -160,19 +160,19 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 ## Bitcoin Timestamp (OpenTimestamps)
 
 ### Version 1.9.2
-**Date:** 29 March 2026 AEDT
-****Time:** 3:29 PM AEDT
-**Bitcoin Block:** 942725   
+**Date:** 29 March 2026 AEDT    
+****Time:** 3:29 PM AEDT    
+**Bitcoin Block:** 942725         
 **SHA-256:** `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`   
-**Status:** VERIFIED — Bitcoin Attestation Confirmed   
+**Status:** VERIFIED — Bitcoin Attestation Confirmed       
 **Verification Screenshot:** [View](bitcoin-timestamp-verification-2026-03-29.png)   
 
-### Version 1.9.0 (previous)   
-**Date:** December 31, 2025   
-**Time:** 2:15 AM AEDT   
-**SHA-256:** `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`   
-**Status:** VERIFIED — Bitcoin Attestation Confirmed   
-**Verification Screenshot:** [View](bitcoin-timestamp-verification-2025-12-31.png)   
+### Version 1.9.0 (previous)      
+**Date:** December 31, 2025       
+**Time:** 2:15 AM AEDT       
+**SHA-256:** `9c6d7a040cc6b083397be8076633b7a508fe49d8a5866f107f96d106c2a59615`       
+**Status:** VERIFIED — Bitcoin Attestation Confirmed         
+**Verification Screenshot:** [View](bitcoin-timestamp-verification-2025-12-31.png)           
 
 ### Significance
 Bitcoin blockchain timestamps provide cryptographically immutable proof that this audit existed in its verified form at a specific point in time. Unlike institutional archives, the record can only be altered through consensus of the entire distributed network — making it particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
