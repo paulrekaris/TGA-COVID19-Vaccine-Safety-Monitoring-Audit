@@ -4,10 +4,11 @@ This audit is protected by multiple verification and archival methods including 
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-03-23.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![National Library of Australia](https://img.shields.io/badge/National%20Library%20of%20Australia-Collection%20Development%20Policy-000000?labelColor=000000&style=flat-square)](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy)
 
+[![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html)
+
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
-
+[![LOCKSS](https://img.shields.io/badge/LOCKSS-Lots%20of%20Copies%20Keep%20Stuff%20Safe-8C1515?labelColor=8C1515&style=flat-square)](https://www.lockss.org/) [![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-Dec%2031%202025-orange?logo=bitcoin)](https://opentimestamps.org) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 ## Table of Contents
 
@@ -27,6 +28,8 @@ This audit is protected by multiple verification and archival methods including 
 ## Rationale for Platform Selection
 
 Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic standards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
+
+The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuff Safe") — the established digital preservation standard that no single archive, platform, or jurisdiction should be a single point of failure for material of enduring public significance.
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
@@ -185,11 +188,11 @@ To independently verify either timestamp:
 
 ## Arweave Permanent Storage
 
-### Current Version (v1.92)   
+### Current Version (v1.9.2)   
 **Upload Date:** March 27, 2026   
 **Confirmation Date:** March 27, 2026 - 9:55 AM AEDT   
 **Transaction ID:** `TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps`   
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.92.zip   
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9.2.zip   
 **Size:** 64.44 MB   
 **Status:** CONFIRMED - Permanent and Accessible    
 
@@ -199,7 +202,7 @@ Transaction status independently verified via [ViewBlock explorer](arweave-trans
 Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
 
 ### Access   
-**Current Version (v1.92)**    
+**Current Version (v1.9.2)**    
 **Direct Link:** https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 **Status Verification:** https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 
@@ -261,7 +264,7 @@ This audit is protected by multiple independent verification methods:
 - **Internet Archive:** Web presence verification with dated snapshots
 - **GitHub:** Public version control with complete history
 
-[Permanent Archive Records](permanent-archive-records-2026-03-23.pdf)
+[Permanent Archive Records](permanent-archive-records-2026-03-29.pdf)
 
 ### Preservation Standard
 
@@ -275,4 +278,4 @@ Together, these create archival protection ensuring the audit cannot be suppress
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 2026-03-27
+**Last updated:** 2026-03-29
