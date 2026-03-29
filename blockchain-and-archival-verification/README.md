@@ -193,6 +193,8 @@ To independently verify this timestamp:
 **Size:** 64.44 MB   
 **Status:** CONFIRMED - Permanent and Accessible    
 
+Transaction status independently verified via [ViewBlock explorer](arweave-transaction-verification-2026-03-29.png) on 29 March 2026 (1,468 confirmations, block 1,884,750).
+
 ### Significance   
 Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
 
