@@ -1024,8 +1024,6 @@ For detailed version history and changelog, see [Version History](audit-governan
 
 **Full blockchain and archival verification documentation:** [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
 
-**Note:** Blockchain verification timestamps below are from Version 1.9.0. Version 1.9.2 blockchain verification pending.
-
 This audit has been permanently archived and cryptographically timestamped:
 
 - **National Library of Australia**: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) (Legal deposit, [AWA archived](https://webarchive.nla.gov.au/tep/221557), discoverable via [Trove](https://trove.nla.gov.au/))
@@ -1040,7 +1038,7 @@ This audit has been permanently archived and cryptographically timestamped:
 - **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
   
 - **Bitcoin Timestamp:** 29 March 2026  
- SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`
+ SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`    
  Verification Screenshot: [View](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png)
 
 - **Arweave:** [Permanent Storage](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
