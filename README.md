@@ -1040,8 +1040,8 @@ This audit has been permanently archived and cryptographically timestamped:
 - **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
   
 - **Bitcoin Timestamp:** 29 March 2026  
-  SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`
-  [Verify timestamp](https://opentimestamps.org)
+ SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`
+ Verification Screenshot: [View] (blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png)
 
 - **Arweave:** [Permanent Storage](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
