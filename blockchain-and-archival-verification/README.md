@@ -162,21 +162,23 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 ### Version 1.9.2
 **Date:** 29 March 2026 AEDT    
 **Time:** 3:29 PM AEDT    
-**Bitcoin Block:** 942725         
+**Bitcoin Block:** 942725  
+**Block Hash:** [00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a)       
 **SHA-256:** `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`   
 **Status:** VERIFIED — Bitcoin Attestation Confirmed       
-**Verification Screenshot:** [View](bitcoin-timestamp-verification-2026-03-29.png)   
+**Proof File:** [TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip.ots](TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip.ots)
+**Verification Screenshot:** [View](bitcoin-timestamp-verification-2026-03-29.png)
 
 ### Significance
 Bitcoin blockchain timestamps provide cryptographically immutable proof that this audit existed in its verified form at a specific point in time. Unlike institutional archives, the record can only be altered through consensus of the entire distributed network — making it particularly appropriate for regulatory accountability research where institutional pressure on evidence is a documented risk.
 
-### Verification
-To independently verify either timestamp:
-1. Go to https://opentimestamps.org
-2. Upload the `.ots` proof file
-3. Upload the corresponding ZIP file
-4. System will verify against Bitcoin blockchain
-5. Confirms audit archive existed at the attested date
+### Verification 
+1. Download the [.ots proof file](TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip.ots) above
+2. Download the matching ZIP from Arweave:  
+   https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
+3. Go to https://opentimestamps.org
+4. First drop the `.ots` file, then drop the ZIP file
+5. The tool will confirm: "Bitcoin block 942725 attests existence as of 2026-03-29 AEDT"
 
 ---
 
