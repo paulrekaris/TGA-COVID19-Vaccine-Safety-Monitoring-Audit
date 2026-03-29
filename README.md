@@ -1014,7 +1014,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 **Document Version:** 1.9.2   
 **Last Updated:** 29 March 2026  
 **First Published:** 27 November 2025  
-**Archive:** Zenodo DOI current. Blockchain and Arweave verification pending.
+**Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
 For detailed version history and changelog, see [Version History](audit-governance/version-history.md)
 
