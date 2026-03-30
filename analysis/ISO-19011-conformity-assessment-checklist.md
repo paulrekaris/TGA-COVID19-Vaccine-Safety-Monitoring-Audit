@@ -241,7 +241,7 @@ This audit employs two complementary forms of reasoning:
   https://doi.org/10.31235/osf.io/sb4gz_v1
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
-- **Arweave (blockchain):** [https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps]
+- **Arweave (blockchain):** [Download](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. **This work is open source and open for feedback, correction, and collaborative improvement.**
 
 ### Evidence Hierarchy and Quality Assessment
