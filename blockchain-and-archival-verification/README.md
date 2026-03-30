@@ -159,10 +159,10 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 
 ## Bitcoin Timestamp (OpenTimestamps)
 
-### Version 1.9.2
+### Version 1.9.2 
 **Date:** 29 March 2026 AEDT    
 **Time:** 3:29 PM AEDT    
-**Bitcoin Block:** 942725  
+**Bitcoin Block:** 942725
 **Block Hash:** [00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a)       
 **SHA-256:** `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`   
 **Status:** VERIFIED — Bitcoin Attestation Confirmed       
