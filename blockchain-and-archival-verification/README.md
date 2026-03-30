@@ -175,22 +175,22 @@ Bitcoin blockchain timestamps provide cryptographically immutable proof that thi
 ### Verification 
 1. Download the [.ots proof file](TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip.ots) above
 2. Download the matching ZIP from Arweave:  
-   https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
-3. Go to https://opentimestamps.org
-4. First drop the `.ots` file, then drop the ZIP file
-5. The tool will confirm: "Bitcoin block 942725 attests existence as of 2026-03-29 AEDT"
+   https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps   
+3. Go to https://opentimestamps.org   
+4. First drop the `.ots` file, then drop the ZIP file   
+5. The tool will confirm: "Bitcoin block 942725 attests existence as of 2026-03-29 AEDT"   
 
 ---
 
 ## Arweave Permanent Storage
 
 ### Current Version (v1.9.2)   
-**Upload Date:** March 27, 2026   
-**Confirmation Date:** March 27, 2026 - 9:55 AM AEDT   
-**Transaction ID:** `TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps`   
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9.2.zip   
-**Size:** 64.44 MB   
-**Status:** CONFIRMED - Permanent and Accessible    
+**Upload Date:** March 27, 2026      
+**Confirmation Date:** March 27, 2026 - 9:55 AM AEDT     
+**Transaction ID:** `TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps`     
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9.2.zip     
+**Size:** 64.44 MB     
+**Status:** CONFIRMED - Permanent and Accessible      
 
 Transaction status independently verified via [ViewBlock explorer](arweave-transaction-verification-2026-03-29.png) on 29 March 2026 (1,468 confirmations, block 1,884,750).
 
