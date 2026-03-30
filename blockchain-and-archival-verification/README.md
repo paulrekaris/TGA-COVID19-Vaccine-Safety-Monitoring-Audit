@@ -251,10 +251,10 @@ Direct upload to Internet Archive provides an independent, complete copy of the 
 This audit is protected by multiple independent verification methods:
 
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
-- **Zenodo:** DOI-backed permanent academic archive (10.5281/zenodo.17731054)
-- **SSRN:** Academic preprint repository; indexed by Google Scholar (https://ssrn.com/abstract=6333058)
-- **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS (https://data.mendeley.com/datasets/y5wmt6f8j9)
-- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar (https://doi.org/10.31235/osf.io/sb4gz_v1)
+- **Zenodo:** DOI-backed permanent academic archive: 10.5281/zenodo.17731054  
+- **SSRN:** Academic preprint repository; indexed by Google Scholar: https://ssrn.com/abstract=6333058  
+- **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS: https://data.mendeley.com/datasets/y5wmt6f8j9  
+- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar: https://doi.org/10.31235/osf.io/sb4gz_v1  
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
