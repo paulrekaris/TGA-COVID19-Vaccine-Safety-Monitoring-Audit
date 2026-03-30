@@ -66,8 +66,8 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 
 ### Access
 
-**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-**Trove Discovery:** https://trove.nla.gov.au/
+**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/  
+**Trove Discovery:** https://trove.nla.gov.au/  
 
 ---
 
@@ -86,8 +86,8 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 
 ### Access
 
-**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-**Trove Discovery:** https://trove.nla.gov.au/
+**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/  
+**Trove Discovery:** https://trove.nla.gov.au/  
 
 ---
 
@@ -198,9 +198,9 @@ Transaction status independently verified via [ViewBlock explorer](arweave-trans
 Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
 
 ### Access   
-**Current Version (v1.9.2)**    
-**Direct Link:** https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
-**Status Verification:** https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
+**Current Version (v1.9.2)**      
+**Direct Link:** https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps  
+**Status Verification:** https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps  
 
 ---
 
