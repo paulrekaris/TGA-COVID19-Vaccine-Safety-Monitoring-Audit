@@ -4,16 +4,11 @@
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D)](blockchain-and-archival-verification/README.md) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
-
-[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.2&color=blue)](audit-governance/version-history.md) 
-[![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip)
-[![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
-
+[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.2&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
 ## Quick Start
 
