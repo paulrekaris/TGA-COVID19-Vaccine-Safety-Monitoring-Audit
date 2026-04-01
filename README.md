@@ -53,7 +53,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [Purpose](#purpose)
 - [Guiding Standards](#guiding-standards)
 - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
-- [Australian Senate Citation — 24 March 2026](#australian-senate-citation--24-march-2026)
+- [Australian Senate Citation](#australian-senate-citation)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
@@ -162,11 +162,11 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 > **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
 
-## Australian Senate Citation — 24 March 2026
+## Australian Senate Citation
 
 [![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)
 
-Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
+On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
 [Watch the Australian Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900) | [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 
