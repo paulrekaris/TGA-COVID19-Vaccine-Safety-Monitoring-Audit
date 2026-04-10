@@ -1498,13 +1498,7 @@ Complete audit trail available through:
 
 These limitations are explicitly acknowledged and do not materially affect the validity of documented non-conformities where relevant documentation is absent, inconsistent or contradictory.
 
-# References - ISO 19011 Management Systems Audit
-
-## TGA COVID-19 Vaccine Safety Monitoring Plan Implementation Audit
-
----
-
-## References Summary   
+# References
 
 This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. 
 
