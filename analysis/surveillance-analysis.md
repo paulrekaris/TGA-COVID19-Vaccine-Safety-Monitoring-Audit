@@ -50,9 +50,9 @@
 > 
 > - **Central finding validated:** Monitoring activities demonstrably occurred (148 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
-> - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E Pharmacovigilance Planning (signal evaluation transparency), WHO/EMA GVP Module IX (signal management), CIOMS Good Pharmacovigilance Practices
-
 > - **Peer-reviewed support:** Malikova (2020) establishes signal management as a documented process requiring tracked actions at every stage — directly supporting Finding 1 (data source reconciliation absence) and Finding 3 (expected rates methodology gap)
+
+> - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E Pharmacovigilance Planning (signal evaluation transparency), WHO/EMA GVP Module IX (signal management), CIOMS Good Pharmacovigilance Practices
 
 ---
 
