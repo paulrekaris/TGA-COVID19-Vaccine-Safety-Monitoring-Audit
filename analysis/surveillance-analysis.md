@@ -161,6 +161,10 @@ TGA operated two major systems concurrently: DAEN passive (140,000+ reports) and
 
 **ICH E2E Requirement:** "Signal detection should employ multiple data sources with documented integration methodology."
 
+Malikova (2020) establishes that signal management requires documented integration 
+of multiple data sources, with all actions accurately tracked at every stage 
+(Malikova, 2020, p.2).
+
 **Evidentiary Basis:** All six reports reference both systems without documenting how discrepancies resolved or outputs combined for signal detection.
 
 **Implication:** Cannot verify Plan Output 2.1 (real-time active surveillance) functioned as implemented strategy versus aspirational commitment.
@@ -196,6 +200,10 @@ From mid-2022 onwards, TGA safety reports increasingly relied on "expected rates
 - Power calculations for detecting differences
 
 **ICH E2E Principle (paraphrased):** Statistical methods for signal evaluation should be documented and transparent.
+
+Malikova (2020) identifies signal management as a documented process requiring 
+recommended actions, follow-up tracking, communication, and risk minimisation — 
+all of which must be accurately tracked and documented at every stage (Malikova, 2020, p.2).
 
 **The gap:** TGA used "rates similar to expected" and "consistent with background rates" language extensively from mid-2022 onwards, but published zero statistical methodology to support these assertions across all sampled reports. Reports from mid-2022 onwards employ this reassurance language without publishing:
 - Calculation methodologies
@@ -412,7 +420,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 ## References
 
-1. World Health Organization. (2013). **Vaccine Safety Basics: Learning Manual** (Module 6: Signal Detection). p. 45-47. Background incidence rates and expected vs observed comparisons. https://iris.who.int/bitstream/handle/10665/340576/WHO-HIS-2013.06-eng.pdf
+1. World Health Organization. (2013). Vaccine Safety Basics: Learning Manual (Module 6: Signal Detection). p. 45-47. Background incidence rates and expected vs observed comparisons. https://iris.who.int/bitstream/handle/10665/340576/WHO-HIS-2013.06-eng.pdf
 
 2. International Council for Harmonisation. (2004). ICH E2E Pharmacovigilance Planning. Step 4 Guideline. https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
@@ -432,9 +440,11 @@ The question "Was the Plan implemented as operational accountability framework a
 
 10. Therapeutic Goods Administration. (2021). FOI 4029-03: Advisory Committee on Vaccines Meeting 25 Materials. https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-03.PDF
 
-11. Parliament of Australia. (2025). *Senate Community Affairs Legislation Committee Estimates – 9 October 2025*. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
+11. Parliament of Australia. (2025). Senate Community Affairs Legislation Committee Estimates – 9 October 2025. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
 12. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data required by Strategy 2.3 AIR-denominator methodology (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
+
+13. Malikova, M.A. (2020). Practical applications of regulatory requirements for signal detection and communications in pharmacovigilance. Therapeutic Advances in Drug Safety, 11, 1–15. Peer-reviewed pharmacovigilance reference establishing signal management as a documented process requiring tracked actions at every stage. https://doi.org/10.1177/2042098620909614
 
 ----
 
