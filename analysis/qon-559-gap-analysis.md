@@ -64,7 +64,7 @@ TGA's answer to Question 19 states:
 
 "The five key elements articulated in the COVID-19 Vaccine Safety Monitoring Plan describe the internationally agreed practice of pharmacovigilance that is the core work of the TGA's Pharmacovigilance Branch. For COVID-19 vaccines, the TGA's already robust pharmacovigilance processes were dramatically enhanced, making it the most intensive safety monitoring of therapeutic goods ever conducted in Australia."
 
-This framing characterises the Plan's five elements as describing routine pharmacovigilance practice — consistent with the audit's finding that monitoring was conducted as "day-to-day processes" not systematically tracked against Plan objectives (Senate testimony, October 2025).
+This framing characterises the Plan's five elements as describing routine pharmacovigilance practice — consistent with the audit's finding that monitoring was conducted as "day-to-day processes" not systematically tracked against Plan objectives (Senate testimony, 9 October 2025).
 
 TGA's answer to Question 20 provides examples of activities under each of the five key strategies. These examples reference DAEN entries, weekly safety reports, safety updates, FOI releases, and collaborative processes. None of the examples map activities to the Plan's 17 numbered strategies or 2 governance outputs. No document is produced demonstrating systematic Plan implementation as a distinct accountability framework.
 
