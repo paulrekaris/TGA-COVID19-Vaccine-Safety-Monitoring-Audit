@@ -30,7 +30,7 @@
 >
 > - **AusVaxSafety integration gap confirmed:** TGA's answer to Strategy 5 does not mention AusVaxSafety despite Strategy 2.4's specific commitment to collaborate with AusVaxSafety to receive active surveillance information and coordinate safety signal detection and investigation activities
 >
-> - **Strategy 2 most significant gap:** TGA's answer to enhanced signal detection produces no statistical methodology outputs despite [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) proving TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines in September 2021
+> - **Strategy 2 most significant gap:** TGA's answer to enhanced signal detection produces no statistical methodology outputs despite [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) proving TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines in September 2021
 >
 > - **Activity confirmed, plan-level documentation absent:** The QON confirms monitoring activities occurred — consistent with the main audit's finding that activities occurred but cannot be verified as systematic Plan implementation through documentary evidence
 >
@@ -156,7 +156,7 @@ The 14-day publication improvement is a concrete change — but it is not refere
 - TGA continues to investigate signals associated with COVID-19 vaccines
 
 **Assessment:**
-TGA describes signal detection and investigation activities in general terms. No statistical methodology is produced — no PRR outputs, no MaxSPRT results, no AIR-denominator calculations. This directly contradicts [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) (September 2021), which proves TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines including PRR≥1/cases≥2, MaxSPRT, and AIR-denominator analysis.
+TGA describes signal detection and investigation activities in general terms. No statistical methodology is produced — no PRR outputs, no MaxSPRT results, no AIR-denominator calculations. This directly contradicts [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) (September 2021), which proves TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines including PRR≥1/cases≥2, MaxSPRT, and AIR-denominator analysis.
 
 TGA possessed and used these methodologies internally. The QON answer does not produce them publicly. The 93-signal gap — 150 signals investigated, 57 regulatory actions, 93 with no documented public disposition — falls entirely within this strategy's scope.
 
@@ -257,7 +257,7 @@ Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer 
 Strategy 5 answer omits AusVaxSafety entirely despite Strategy 2.4's specific commitment. No coordination protocol documentation produced for any collaboration partner.
 
 **Finding 5 — No Signal Pathways: Significantly Strengthened**
-Strategy 2 answer produces no signal detection methodology outputs despite [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) proving methodology existed. AusVaxSafety omitted from collaboration answer. 93-signal gap is now a derived finding from TGA's own parliamentary record numbers.
+Strategy 2 answer produces no signal detection methodology outputs despite [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) proving methodology existed. AusVaxSafety omitted from collaboration answer. 93-signal gap is now a derived finding from TGA's own parliamentary record numbers.
 
 **Finding 7 — Safety Plan Design: Strengthened**
 TGA's characterisation of the Plan elements as describing "internationally agreed practice of pharmacovigilance that is the core work of the TGA's Pharmacovigilance Branch" — in a formal written parliamentary answer — directly confirms the audit's finding that the Plan was not designed or operated as a distinct enhanced monitoring framework with verifiable outputs.
@@ -331,16 +331,17 @@ The core audit finding — NON-CONFORMING — stands.
 
 8. ISO. (2016). ISO 15489-1:2016 — Information and Documentation — Records Management. https://www.iso.org/standard/62542.html
 
-9. Therapeutic Goods Administration. (2021). [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) Advisory Committee on Vaccines Meeting 25 Materials.
+9. Therapeutic Goods Administration. (2021). FOI 4029-03: Advisory Committee on Vaccines Meeting 25 Materials. https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-4029/foi-4029-03.pdf
+
 ---
 
 **Document Status:** Supplementary evidence analysis. Core audit findings unchanged.
 
 **Related documentation:**
-- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
-- [Surveillance Data Analysis](analysis/surveillance-analysis.md)
-- [ISO 19011 Conformity Assessment](analysis/ISO-19011-conformity-assessment-checklist.md)
-- [Primary Sources — Senate Committee](primary-sources/senate-community-affairs-legislation-committee/)
+- [Main Audit Report](documentation-gap-analysis-audit-report.pdf)
+- [Surveillance Data Analysis](surveillance-analysis.md)
+- [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
+- [Primary Sources — Senate Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
 **Last updated:** 13 April 2026
 
