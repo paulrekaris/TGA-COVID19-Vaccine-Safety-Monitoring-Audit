@@ -240,6 +240,8 @@ This finding is based on official determinations, not interpretation:
 
 **Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations rather than a distinct enhanced framework.
 
+**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. 93 of 150 investigated signals reported in the Senate QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](analysis/qon-559-gap-analysis.md).
+
 **Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed only 8 generic document-title terms ("Implementation of Plan", "Audit Report"), missing output-specific terminology (signal detection, AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary (AEFI escalation, performance metrics, risk management). This audit employed 
 14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
 
@@ -1007,7 +1009,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.2   
-**Last Updated:** 11 April 2026  
+**Last Updated:** 13 April 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
