@@ -47,11 +47,13 @@
 > - **Complete archive preserved:** All 150+ reports maintained in National Library of Australia Trove and Internet Archive Wayback Machine enabling independent verification
 > 
 > - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 19 outputs never tracked in public reports despite FOI 4029-03 proving TGA tracked Strategy 2.3 internally for Advisory Committee
+>
+> - **Senate QON 559 corroboration:** TGA's formal written answer to Question 20 (Strategy 2: Signal Detection) produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. Strategy 5 (Collaborations) omits AusVaxSafety entirely. 93 of 150 investigated signals reported in the QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](qon-559-gap-analysis.md)
 > 
 > - **Central finding validated:** Monitoring activities demonstrably occurred (148 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
 > - **Peer-reviewed support:** Malikova (2020) establishes signal management as a documented process requiring tracked actions at every stage — directly supporting Finding 1 (data source reconciliation absence) and Finding 3 (expected rates methodology gap)
-
+>
 > - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E Pharmacovigilance Planning (signal evaluation transparency), WHO/EMA GVP Module IX (signal management), CIOMS Good Pharmacovigilance Practices
 
 ---
@@ -186,6 +188,8 @@ Systematic degradation documented across 33 months:
 
 **Implication:** Observable shift from enhanced to routine contradicts provisional approval requirement for enhanced monitoring throughout approval period.
 
+Senate QON 559 (SQ25-001584) Strategy 2 answer provides direct corroboration — TGA's formal written answer to enhanced signal detection produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
+
 ---
 
 ### Finding 3: Unexplained "Expected Rates" Methodology Gap
@@ -236,6 +240,8 @@ This analysis examines whether this represents a systematic methodological trans
 **Evidentiary Basis:** Reports 4-6 use this language as primary reassurance mechanism. Zero reports document methodology.
 
 **Implication:** Cannot verify if comparisons incorporated Plan Strategy 2.3 (AIR-denominator analysis) or routine surveillance baselines.
+
+Senate QON 559 (SQ25-001584) Strategy 2 answer confirms this gap — TGA describes signal detection activities in general terms but produces no PRR outputs, no MaxSPRT results, and no AIR-denominator calculations in its formal parliamentary answer. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
 
 ---
 
@@ -289,6 +295,8 @@ FOI 4029-03 demonstrates TGA prepared methodology materials for Advisory Committ
 See [Compensation Analysis](compensation-analysis.md) for further detail.
 
 **Implication:** FOI 4029-03 demonstrates TGA possessed organisational capacity to prepare Plan-organised materials for advisory body presentation. The systematic absence of this material from concurrent public reports prevents verification that the Plan functioned as operational accountability framework accessible to citizens.
+
+Senate QON 559 (SQ25-001584) provides direct corroboration — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" describes activities under each strategy but maps none to the Plan's numbered outputs. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
 
 ---
 
@@ -448,11 +456,13 @@ The question "Was the Plan implemented as operational accountability framework a
 
 13. Malikova, M.A. (2020). Practical applications of regulatory requirements for signal detection and communications in pharmacovigilance. Therapeutic Advances in Drug Safety, 11, 1–15. Peer-reviewed pharmacovigilance reference establishing signal management as a documented process requiring tracked actions at every stage. https://doi.org/10.1177/2042098620909614
 
+14. Parliament of Australia. (2025). Senate Question on Notice 559 — SQ25-001584: Covid-19 Vaccine Safety Monitoring Plan. Community Affairs Legislation Committee, Supplementary Budget Estimates 2025-26. TGA's formal written answer to direct Plan compliance question. https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates
+
 ----
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 11 April 2026
+**Last updated:** 13 April 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
