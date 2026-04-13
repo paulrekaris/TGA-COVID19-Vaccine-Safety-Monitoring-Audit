@@ -341,7 +341,7 @@ The core audit finding — NON-CONFORMING — stands.
 - [Main Audit Report](documentation-gap-analysis-audit-report.pdf)
 - [Surveillance Data Analysis](surveillance-analysis.md)
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
-- [Primary Sources — Senate Committee](../primary-sources/senate-community-affairs-legislation-committee/)
+- [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
 **Last updated:** 13 April 2026
 
