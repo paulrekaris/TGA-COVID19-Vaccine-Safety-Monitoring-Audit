@@ -852,7 +852,7 @@ Safety Plan positioned AusVaxSafety as part of national pharmacovigilance plan; 
 
 Peer-reviewed pharmacovigilance literature (Malikova 2020) describes signal management as including recommended actions, tracking of follow-up activities, communication, and risk minimisation, and states that actions taken and recommendations made should be accurately tracked and documented at every stage; against that benchmark, the absence of a documented pathway from AusVaxSafety outputs to TGA signal handling and resulting measures is a material traceability gap.
 
-Senate QON 559 (SQ25-001584) provides additional corroboration — TGA's formal written answer to Question 20 (Strategy 5: Collaborations) does not mention AusVaxSafety despite Strategy 2.4's specific commitment. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
+Senate QON 559 (SQ25-001584) provides additional corroboration — TGA's formal written answer to Question 20 (Strategy 5: Collaborations) does not mention AusVaxSafety despite Strategy 2.4's specific commitment. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md).
 
 **Impact:** Unclear whether major surveillance investment (6.8M surveys) informed regulatory decisions; audit trail from data to action absent
 
@@ -1201,7 +1201,7 @@ This audit was conducted in accordance with ISO 19011:2018 guidelines, applying 
 | **2: Enhanced Signal Detection** | 2.1 | Understanding COVID-19 vaccine safety profiles | ◐ Partial | AESI list used but expected rates methodology not documented |
 | | 2.2 | Enhanced capacity for investigating individual AEFI reports | ✗ Not Doc | OAIC searches (531 containers): zero COVID-specific protocols found |
 | | 2.3 | Enhanced cumulative data reviews for each vaccine | ✗ Not Doc | FOI 4029-03 shows ACV presentation but zero public outputs. FOI 5275 confirms TGA does not hold incidence data required by this strategy — the AIR-denominator surveillance calculation was never performed. CIOMS Working Group VIII (2010) requires traceable documentation linking signal detection through assessment to regulatory decision; no such audit trail exists for TGA's 148 investigated signals |
-| | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys but no TGA coordination protocols documented. Corroborated by Senate QON 559 — AusVaxSafety omitted from TGA's formal collaboration answer despite Strategy 2.4 commitment. See [QON 559 Gap Analysis](qon-559-gap-analysis.md) |
+| | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys but no TGA coordination protocols documented. Corroborated by Senate QON 559 — AusVaxSafety omitted from TGA's formal collaboration answer despite Strategy 2.4 commitment. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md) |
 | | 2.5 | Clinical studies and reports | ✗ Not Doc | OAIC searches: zero enhanced sponsor report processes |
 | | 2.6 | Environmental scanning | ✗ Not Doc | OAIC searches: zero systematic scanning processes |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation but no systematic sharing protocols |
@@ -1883,7 +1883,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 **Overall Finding:** NON-CONFORMING (7 major non-conformities)     
 **Audit Status:** Complete   
 
-**Audit Updated:** 2026-04-13
+**Audit Updated:** 2026-04-14
 
 ---
 
