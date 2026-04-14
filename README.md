@@ -240,7 +240,7 @@ This finding is based on official determinations, not interpretation:
 
 **Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations rather than a distinct enhanced framework.
 
-**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. 93 of 150 investigated signals reported in the Senate QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](analysis/qon-559-gap-analysis.md).
+**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. 93 of 150 investigated signals reported in the Senate QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md).
 
 **Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed only 8 generic document-title terms ("Implementation of Plan", "Audit Report"), missing output-specific terminology (signal detection, AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary (AEFI escalation, performance metrics, risk management). This audit employed 
 14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
@@ -834,6 +834,10 @@ The comprehensive audit report includes:
 
 ### Supporting Documentation
 
+- [TGA Senate QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) – Gap analysis of TGA's formal written answer to Senate Question on Notice 559 (SQ25-001584, October 2025) assessing TGA's stated positions against all five Safety Monitoring Plan strategies and documenting the 93-signal gap derived from TGA's own parliamentary figures.
+
+- [TGA Senate QON SQ13-19 Gap Analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards.
+
 - [Compensation Analysis](analysis/compensation-analysis.md) – Analysis of TGA's FOI refusals for signal investigation documentation and implications for Vaccine Claims Scheme causation assessments.
 
 - [FOI Systematic Review](analysis/foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
@@ -1009,7 +1013,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.2   
-**Last Updated:** 13 April 2026  
+**Last Updated:** 14 April 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
