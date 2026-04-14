@@ -48,7 +48,7 @@
 > 
 > - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 19 outputs never tracked in public reports despite FOI 4029-03 proving TGA tracked Strategy 2.3 internally for Advisory Committee
 >
-> - **Senate QON 559 corroboration:** TGA's formal written answer to Question 20 (Strategy 2: Signal Detection) produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. Strategy 5 (Collaborations) omits AusVaxSafety entirely. 93 of 150 investigated signals reported in the QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](qon-559-gap-analysis.md)
+> - **Senate QON 559 corroboration:** TGA's formal written answer to Question 20 (Strategy 2: Signal Detection) produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. Strategy 5 (Collaborations) omits AusVaxSafety entirely. 93 of 150 investigated signals reported in the QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md)
 > 
 > - **Central finding validated:** Monitoring activities demonstrably occurred (148 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
@@ -188,7 +188,7 @@ Systematic degradation documented across 33 months:
 
 **Implication:** Observable shift from enhanced to routine contradicts provisional approval requirement for enhanced monitoring throughout approval period.
 
-Senate QON 559 (SQ25-001584) Strategy 2 answer provides direct corroboration — TGA's formal written answer to enhanced signal detection produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
+Senate QON 559 (SQ25-001584) Strategy 2 answer provides direct corroboration — TGA's formal written answer to enhanced signal detection produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md).
 
 ---
 
@@ -241,7 +241,7 @@ This analysis examines whether this represents a systematic methodological trans
 
 **Implication:** Cannot verify if comparisons incorporated Plan Strategy 2.3 (AIR-denominator analysis) or routine surveillance baselines.
 
-Senate QON 559 (SQ25-001584) Strategy 2 answer confirms this gap — TGA describes signal detection activities in general terms but produces no PRR outputs, no MaxSPRT results, and no AIR-denominator calculations in its formal parliamentary answer. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
+Senate QON 559 (SQ25-001584) Strategy 2 answer confirms this gap — TGA describes signal detection activities in general terms but produces no PRR outputs, no MaxSPRT results, and no AIR-denominator calculations in its formal parliamentary answer. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md).
 
 ---
 
@@ -296,7 +296,7 @@ See [Compensation Analysis](compensation-analysis.md) for further detail.
 
 **Implication:** FOI 4029-03 demonstrates TGA possessed organisational capacity to prepare Plan-organised materials for advisory body presentation. The systematic absence of this material from concurrent public reports prevents verification that the Plan functioned as operational accountability framework accessible to citizens.
 
-Senate QON 559 (SQ25-001584) provides direct corroboration — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" describes activities under each strategy but maps none to the Plan's numbered outputs. See [QON 559 Gap Analysis](qon-559-gap-analysis.md).
+Senate QON 559 (SQ25-001584) provides direct corroboration — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" describes activities under each strategy but maps none to the Plan's numbered outputs. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md).
 
 ---
 
@@ -462,7 +462,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 13 April 2026
+**Last updated:** 14 April 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
