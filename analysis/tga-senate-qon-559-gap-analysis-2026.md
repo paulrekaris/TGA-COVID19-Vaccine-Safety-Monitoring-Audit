@@ -53,7 +53,7 @@ The QON asked four direct questions:
 
 Question 19 is the most significant for audit purposes — it is the most direct question ever formally put to TGA about Plan compliance, submitted as a written question on notice requiring a formal answer on the parliamentary record.
 
-TGA's written answer is publicly available on the Parliament of Australia website as part of the 2025-26 Supplementary Budget Estimates record and the complete Senate QON is available here: ([QON 559](primary-sources/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf))
+TGA's written answer is publicly available on the Parliament of Australia website as part of the 2025-26 Supplementary Budget Estimates record and the complete Senate QON is available here: [[QON 559](../primary-sources/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
 ---
 
