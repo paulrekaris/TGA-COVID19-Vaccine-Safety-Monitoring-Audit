@@ -186,6 +186,8 @@ However, the 57 actions cover only 38% of the 150 investigated signals. For the 
 
 The audit does not dispute that 57 regulatory actions occurred. The gap is the audit trail from signal investigation to regulatory decision for all 150 signals — not just the 57 that resulted in action.
 
+The 57 regulatory actions are documented as completed outcomes, but no public documentation establishes an auditable link between these actions and the underlying investigated signals, the evidence thresholds applied, or the decision‑making and closure pathways. This is inconsistent with Malikova’s (2020) formulation of signal management, which requires that all actions and recommendations be “accurately tracked and documented at every stage” of the process, and reinforces the finding that systematic signal‑to‑action documentation is absent for both the 93 non‑actioned signals and the 57 regulatory actions.
+
 **ISO 19011 principle:** Audit evidence must document the complete process — not just successful outcomes. An audit trail covering 57 of 150 signals leaves 93 without publicly verifiable documentation.
 
 **Finding:** Partially documented. The 57 actions are verifiable. The 93-signal gap is not. This partially strengthens the audit's evidence base for the 57 actions while reinforcing the finding that systematic signal-to-action documentation is absent. Consistent with partial conformity rating for this output.
@@ -351,6 +353,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 15 April 2026
+**Last updated:** 16 April 2026
 
 [↑ Back to top](#table-of-contents)
