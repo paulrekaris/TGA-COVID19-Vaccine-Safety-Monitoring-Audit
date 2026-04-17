@@ -190,7 +190,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > TGA's OAIC-directed searches in September 2024 across more than 531 TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54.  
 > 
 > #### 2. "Day-to-day processes" instead of enhanced monitoring  
-> Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine "day-to-day processes," contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
+> Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
 > 
 > #### 3. 84% of Plan outputs not fully documented  
 > Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
