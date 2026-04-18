@@ -983,7 +983,7 @@ The author has no financial, professional, or personal conflicts related to this
 
 This independent audit examines institutional processes and documentary evidence related to implementation of government policy and regulatory frameworks, to inform public and parliamentary understanding.
 
-The dataset comprises documentary materials — government records, FOI responses, parliamentary testimony, and public regulatory publications. It does not contain clinical trial data, patient records, or individual health information.
+The dataset comprises documentary materials — government records, FOI responses, parliamentary testimony, and public regulatory publications — obtained through lawful public accountability mechanisms. It does not involve human participants, clinical data, or identifiable personal information, and no ethics approval was required.
 
 References to named individuals reflect standard documentation practices, citing who presented information in their official capacity as identified in public source materials. No attribution of misconduct or deliberate misrepresentation to any person or organisation is intended or should be inferred.
 
