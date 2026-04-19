@@ -1,7 +1,6 @@
 # The Challenge of Black Box Governance for Private Citizens
 
-Black‑box governance” refers to governance arrangements in which the interactions, information flows and decision rules between public authorities and other actors that shape the implementation and enforcement of public policy and regulatory requirements are not observable or independently verifiable by external parties, even though they materially affect public and compliance outcomes (Hood, 2006; Power, 1997).
-
+“Black-box governance” refers to governance arrangements in which the interactions, information flows and decision rules between public authorities and other actors that shape the implementation and enforcement of public policy and regulatory requirements are opaque to outsiders, even though they significantly affect public and compliance outcomes (Hood, 2006; Power, 1997).
 
 This audit addresses a core problem of democratic accountability: asymmetric information. Regulatory agencies possess complete knowledge of their internal processes, while the public sees only outputs. For COVID-19 vaccine safety monitoring, this creates a specific definitional crisis established by the TGA's own contradictory statements.
 
