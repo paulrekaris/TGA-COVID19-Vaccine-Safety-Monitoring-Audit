@@ -1,6 +1,7 @@
 # The Challenge of Black Box Governance for Private Citizens
 
-“Black‑box governance” refers to governance arrangements in which the interactions, information flows and decision rules between public authorities and other actors that shape the implementation and enforcement of public policy and regulatory requirements are opaque to outsiders, even though they significantly affect public and compliance outcomes (Schmid, Meister, Klagge, & Seidl, 2020).
+Black‑box governance” refers to governance arrangements in which the interactions, information flows and decision rules between public authorities and other actors that shape the implementation and enforcement of public policy and regulatory requirements are not observable or independently verifiable by external parties, even though they materially affect public and compliance outcomes (Hood, 2006; Michael Power, 1997).
+
 
 This audit addresses a core problem of democratic accountability: asymmetric information. Regulatory agencies possess complete knowledge of their internal processes, while the public sees only outputs. For COVID-19 vaccine safety monitoring, this creates a specific definitional crisis established by the TGA's own contradictory statements.
 
@@ -141,15 +142,14 @@ It demonstrates that democratic accountability requires not perfect knowledge bu
 
 3. Hayek, F.A. (1945). "The Use of Knowledge in Society." *American Economic Review*, 35(4), 519–530.
 
-4. Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). London: Routledge.
+4. Hood, C. (2006). "Transparency in Historical Perspective." In C. Hood & D. Heald (Eds.), Transparency: The Key to Better Governance? Oxford University Press, 3–23.
 
-5. O'Neill, O. (2002). *A Question of Trust*. Cambridge: Cambridge University Press.
+5. Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). London: Routledge.
 
-6. Popper, K.R. (2002). *The Logic of Scientific Discovery*. London: Routledge. (Original work published 1959.)
+6. O'Neill, O. (2002). *A Question of Trust*. Cambridge: Cambridge University Press.
 
-7. Schmid, B., Meister, T., Klagge, B., & Seidl, I. (2020). “Energy cooperatives and municipalities in local energy governance arrangements in Switzerland and Germany.” Journal of Environment & Development, 29(1), 26–53.
+7. Popper, K.R. (2002). *The Logic of Scientific Discovery*. London: Routledge. (Original work published 1959.)
 
-8. Stiglitz, J.E. (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
+8. Power, M. (1997). The Audit Society: Rituals of Verification. Oxford University Press.
 
-
-
+9. Stiglitz, J.E. (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
