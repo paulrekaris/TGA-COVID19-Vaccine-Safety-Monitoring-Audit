@@ -16,7 +16,7 @@ This folder contains decisions and material from the Office of the Australian In
 
 ### Summary
 
-The OAIC reviewed TGA's comprehensive TRIM search (September 2024, 531+ containers, eight search terms, two independent searchers) and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding that the requested implementation documentation "cannot be found or does not exist."
+The OAIC reviewed TGA's comprehensive TRIM search (September 2024, 531+ containers, eight search terms, two independent searchers) and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding that the requested implementation documentation "cannot be found or does not exist." [TGA submission to OAIC (MR22/00538, Sept 2024, redacted)](../primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 
 ### Evidentiary Significance
 
