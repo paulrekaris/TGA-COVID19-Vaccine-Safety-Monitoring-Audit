@@ -1583,7 +1583,7 @@ COVID-19 vaccine [Provisional approval]. https://www.tga.gov.au/resources/prescr
 https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
 26. Office of the Australian Information Commissioner (OAIC). (2024, September 20). OAIC Submission MR22/00538 - TGA comprehensive TRIM search documentation.
-Therapeutic Goods Administration (TGA). (2024). FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders reviewed).
+Therapeutic Goods Administration (TGA). (2024). FOI Request 25-0166 and responses (2,218 pages, 531 TRIM folders reviewed). [TGA submission to OAIC (MR22/00538, Sept 2024, redacted)](../primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 
 27. Office of the Australian Information Commissioner (OAIC). Decision AICmr 54, https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path
 Therapeutic Goods Administration (TGA). (2025, April 24). FOI 25-0166 Consultation Letter – practical refusal position on 399 identified documents.
