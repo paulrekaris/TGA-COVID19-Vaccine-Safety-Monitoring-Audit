@@ -16,7 +16,7 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
 
 **Access:**
 - SSRN: [https://doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)
-- SocArXiv: [https://doi.org/10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1)
+- SocArXiv: [https://osf.io/preprints/socarxiv/sb4gz_v1](https://osf.io/preprints/socarxiv/sb4gz_v1)
 - Zenodo: [https://doi.org/10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 - Mendeley Data: [https://doi.org/10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9)
 - National Library of Australia: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view)
