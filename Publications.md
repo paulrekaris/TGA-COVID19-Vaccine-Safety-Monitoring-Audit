@@ -82,7 +82,7 @@ All publications and supporting materials are licensed under [Creative Commons A
 ## Contact
 
 **Email:** rekasp@protonmail.com
-**ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
+**ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578) 
 **Updates:** [@prekas23 on X](https://x.com/prekas23)
 
 ---
