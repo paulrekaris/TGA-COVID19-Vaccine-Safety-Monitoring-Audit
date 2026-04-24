@@ -49,6 +49,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [Guiding Standards](#guiding-standards)
 - [Important Distinction: Routine vs Enhanced Monitoring](#important-distinction-routine-vs-enhanced-monitoring)
 - [Australian Senate Citation](#australian-senate-citation)
+- [Publications](#publications)
 - [Executive Summary](#executive-summary)
 - [Key Findings](#key-findings)
 - [The Accountability Standard](#the-accountability-standard)
@@ -164,6 +165,12 @@ This audit does NOT claim that routine pharmacovigilance failed to occur. TGA co
 On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication, including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
 [Watch the Australian Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900) | [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
+
+## Publications
+
+This audit is part of a broader research programme on independent regulatory accountability. The audit report itself is published as a preprint on SSRN, with companion materials archived across multiple preservation platforms.
+
+For the complete list of publications, preprints, and research outputs related to this work, see [**PUBLICATIONS.md**](PUBLICATIONS.md).
 
 ## Executive Summary
 
