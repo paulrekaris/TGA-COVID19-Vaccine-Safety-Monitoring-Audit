@@ -19,7 +19,7 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
 - SocArXiv: [https://osf.io/preprints/socarxiv/sb4gz_v1](https://osf.io/preprints/socarxiv/sb4gz_v1)
 - Zenodo: [https://doi.org/10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 - Mendeley Data: [https://doi.org/10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9)
-- National Library of Australia: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view)
+- National Library of Australia: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) ([AWA archived snapshot](https://webarchive.nla.gov.au/tep/221557))
 
 **Parliamentary recognition:** Cited by name in the Australian Senate by Senator Malcolm Roberts on 24 March 2026 ([Hansard record](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)).
 
