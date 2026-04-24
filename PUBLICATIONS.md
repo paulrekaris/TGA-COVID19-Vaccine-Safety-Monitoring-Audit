@@ -69,7 +69,7 @@ Companion paper describing the structured dataset compiled between 2022 and 2026
 
 ## Research Programme
 
-Ongoing research extends this work into areas including documentary accountability frameworks, preservation architecture for independent research, and regulatory governance theory. Further publications are in preparation.
+Ongoing research, now entering official peer review, extends this work into areas including documentary accountability frameworks, preservation architecture for independent research, and regulatory governance theory. Further publications are in preparation.
 
 ---
 
