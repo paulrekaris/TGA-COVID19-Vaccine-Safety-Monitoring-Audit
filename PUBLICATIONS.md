@@ -1,12 +1,11 @@
 # Publications
 
-This repository supports a research programme on independent regulatory accountability. The outputs listed below draw on the evidence base assembled here, with different framings for different audiences.
-
+This repository supports a research programme on independent regulatory accountability. The outputs listed below draw on this evidence base and present findings from the audit.
 All materials are licensed CC BY 4.0 and are freely available for use, adaptation, and citation.
 
 ---
 
-## Preprints
+## Primary Output
 
 ### Documentation Gap Analysis
 
@@ -15,16 +14,15 @@ All materials are licensed CC BY 4.0 and are freely available for use, adaptatio
 Comprehensive independent audit assessing implementation of the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan against publicly available documentary evidence, applying ISO 19011:2018 audit principles and ANAO performance audit standards.
 
 **Access:**
+- Zenodo: [https://doi.org/10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 - SSRN: [https://doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)
 - SocArXiv: [https://osf.io/preprints/socarxiv/sb4gz_v1](https://osf.io/preprints/socarxiv/sb4gz_v1)
-- Zenodo: [https://doi.org/10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 - Mendeley Data: [https://doi.org/10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9)
 - National Library of Australia: [NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) ([AWA archived snapshot](https://webarchive.nla.gov.au/tep/221557))
 
-**Parliamentary recognition:** Cited by name in the Australian Senate by Senator Malcolm Roberts on 24 March 2026 ([Hansard record](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)).
+**Parliamentary recognition:** Cited by name in the Australian Senate on 24 March 2026 ([Hansard record](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)).
 
 **BibTeX:**
-
 ```bibtex
 @misc{rekaris2026tga,
   author = {Rekaris, Paul},
@@ -51,7 +49,6 @@ Companion paper describing the structured dataset compiled between 2022 and 2026
 - SSRN: [https://doi.org/10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438)
 
 **BibTeX:**
-
 ```bibtex
 @misc{rekaris2026dataset,
   author = {Rekaris, Paul},
@@ -67,9 +64,9 @@ Companion paper describing the structured dataset compiled between 2022 and 2026
 
 ---
 
-## Research Programme
+## Related Publications
 
-Ongoing research, now entering official peer review, extends this work into areas including documentary accountability frameworks, preservation architecture for independent research, and regulatory governance theory. Further publications are in preparation.
+*Further publications drawing on this audit are in preparation and will be listed here as they become available.*
 
 ---
 
@@ -81,8 +78,8 @@ All publications and supporting materials are licensed under [Creative Commons A
 
 ## Contact
 
-**Email:** rekasp@protonmail.com  
-**ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)  
+**Email:** [rekasp@protonmail.com](mailto:rekasp@protonmail.com)
+**ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
 **Updates:** [@prekas23 on X](https://x.com/prekas23)
 
 ---
