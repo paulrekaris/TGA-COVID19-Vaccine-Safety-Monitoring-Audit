@@ -10,7 +10,7 @@ This codebook documents the variables, classification codes, evidence tiers, and
 
 Documented classification outcome across all 19 outputs: 3 Fully Implemented, 10 Partially Implemented, 6 Not Documented.
 
-The codebook should be read in conjunction with the data article: Rekaris, P. (2026). A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan. SSRN. https://doi.org/10.2139/ssrn.6333058
+The codebook should be read in conjunction with the data article: Rekaris, P. (2026). A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan. SSRN. Available at SSRN: http://dx.doi.org/10.2139/ssrn.6610438.
 
 ---
 
