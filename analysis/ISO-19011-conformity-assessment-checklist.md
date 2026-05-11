@@ -280,6 +280,8 @@ This audit applies a four-tier evidence hierarchy to establish quality and relia
 
 Review of the TGA Performance Reports for 2022–23 and 2023–24 identified no explicit references to the COVID-19 Vaccine Safety Monitoring Plan, despite discussion of COVID-19 vaccine evaluation and post-market monitoring.
 
+This hierarchy represents evidence quality for the specific audit finding. The source reliability framework applied in the audit methodology is documented in Section 9.4 of the audit report.
+
 **Evidence Quality Principle:** Findings rely primarily on Tier 1-3 evidence (TGA's own searches, official testimony, formal government records), with Tier 4 providing contextual support. This hierarchy ensures conclusions are based on highest-quality, independently verifiable sources rather than interpretation or inference.
 
 **Audit Context:**
