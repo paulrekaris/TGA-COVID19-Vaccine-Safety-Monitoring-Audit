@@ -39,6 +39,8 @@ Collected materials are organised using a four-tier evidence classification fram
 | 3 | Secondary Documentary Evidence | Partner organisation reports; Australian Immunisation Register data; publicly accessible surveillance data |
 | 4 | Tertiary Contextual Evidence | International regulatory guidance; ICH E2E; CIOMS; comparative regulatory frameworks |
 
+> **Note:** This codebook documents evidence collection and classification for dataset purposes. For the source reliability hierarchy applied in the audit methodology, see Section 9.4 of the audit report. For implementation proof classification, see the [repository README](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md).
+
 ---
 
 ## 4. Severity Rating Scale
