@@ -46,7 +46,7 @@ Collected materials are organised using a four-tier evidence classification fram
 ## 4. Severity Rating Scale
 
 Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation position relative to the monitoring framework objectives. The mean severity rating across 
-all 19 outputs is 3.5.
+all 19 outputs is 3.47.
 
 | Rating | Label | Definition |
 |---|---|---|
