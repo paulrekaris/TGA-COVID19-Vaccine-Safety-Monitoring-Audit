@@ -34,10 +34,10 @@ Collected materials are organised using a four-tier evidence classification fram
 
 | Tier | Label | Source Types |
 |---|---|---|
-| 1 | Independently verifiable published sources | Peer-reviewed literature; publicly accessible databases |
-| 2 | Official government publications and released documents | TGA publications; FOI-released internal documents; agency reports |
-| 3 | FOI process records, statutory review materials, and parliamentary records | FOI decision letters; OAIC submissions and determinations; Senate Hansard; Questions on Notice |
-| 4 | Claims without supporting documentation | Statements unsupported by retrievable primary documentation |
+| 1 | Primary Statutory Evidence | FOI decision letters; OAIC submissions and determinations; direct TGA communications |
+| 2 | Primary Documentary Evidence | Senate Hansard; Questions on Notice; TGA Annual Reports; published TGA safety reports; Safety Monitoring Plan |
+| 3 | Secondary Documentary Evidence | Partner organisation reports; Australian Immunisation Register data; publicly accessible surveillance data |
+| 4 | Tertiary Contextual Evidence | International regulatory guidance; ICH E2E; CIOMS; comparative regulatory frameworks |
 
 ---
 
