@@ -42,17 +42,19 @@ Collected materials are organised using a four-tier evidence classification fram
 > **Note:** This codebook documents evidence collection and classification for dataset purposes. For the source reliability hierarchy applied in the audit methodology, see Section 9.4 of the audit report. For implementation proof classification, see the [repository README](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md).
 
 ---
+
 ## 4. Severity Rating Scale
 
-Each assessed output is assigned a severity rating (1–5) reflecting the significance of the output to the overall monitoring framework. The rating is independent of documentation status and indicates the centrality of the output to the framework's pharmacovigilance objectives. Where a significant output is also not documented, the combination of high severity rating and Not Documented status identifies the most critical accountability gaps. The mean severity rating across all 19 outputs is 4.0.
+Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation position relative to the monitoring framework objectives. The mean severity rating across 
+all 19 outputs is 3.5.
 
 | Rating | Label | Definition |
 |---|---|---|
-| 1 | Minimal | Peripheral to the monitoring framework; limited bearing on core pharmacovigilance objectives |
-| 2 | Low | Minor contribution to monitoring completeness; limited impact on safety signal detection or reporting |
-| 3 | Moderate | Contributes to a monitoring objective but not central to the framework's core pharmacovigilance functions |
-| 4 | High | Significant contribution to a core monitoring objective; material to the framework's pharmacovigilance integrity |
-| 5 | Critical | Central to the monitoring framework; a primary pharmacovigilance output whose absence or inadequate documentation represents the most serious accountability concern |
+| 1 | Minimal | No documentation gap or negligible impact on overall monitoring integrity |
+| 2 | Low | Limited gap with minor impact on completeness of safety signal detection or reporting |
+| 3 | Moderate | Partial gap with potential impact on a monitoring objective or pharmacovigilance output |
+| 4 | High | Significant gap materially affecting a core monitoring objective |
+| 5 | Critical | No documentary evidence identified for a primary pharmacovigilance output |
 
 ---
 
