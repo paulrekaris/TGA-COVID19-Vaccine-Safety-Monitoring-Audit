@@ -235,6 +235,8 @@ This audit employs two complementary forms of reasoning:
 - **GitHub Repository:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive)  
   https://doi.org/10.5281/zenodo.17731054
+- **Harvard Dataverse:** 10.7910/DVN/BDKZQJ (Harvard University research data repository)  
+  https://doi.org/10.7910/DVN/BDKZQJ
 - **SSRN:** 10.2139/ssrn.6333058 (social science preprint repository)  
   https://doi.org/10.2139/ssrn.6333058
 - **SocArXiv:** 10.31235/osf.io/sb4gz_v1 (open access preprint repository)  
@@ -1509,7 +1511,7 @@ These limitations are explicitly acknowledged and do not materially affect the v
 
 This reference list provides complete citations for all sources cited in the ISO 19011 Management Systems Audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation. References are organised into research categories. All URLs were verified as accessible in December 2025. 
 
-Total: 74 references.
+Total: 75 references.
 
 **[Reference Documents](../reference-documents)** | **[Primary Sources](../primary-sources)** – Key source documents and primary evidentiary materials referenced in the audit assessment.
 
@@ -1711,30 +1713,33 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 66. Zenodo Permanent Archive: TGA Safety Monitoring Audit (DOI 10.5281/zenodo.17731054)  
 https://doi.org/10.5281/zenodo.17731054
 
-67. SSRN Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.2139/ssrn.6333058)  
+67. Harvard Dataverse: TGA COVID-19 Vaccine Safety Monitoring Plan — Implementation and Governance Evidence Dataset (2021–2026) (DOI: 10.7910/DVN/BDKZQJ)  
+https://doi.org/10.7910/DVN/BDKZQJ
+
+68. SSRN Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.2139/ssrn.6333058)  
 https://doi.org/10.2139/ssrn.6333058
 
-68. SocArXiv Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.31235/osf.io/sb4gz_v1)  
+69. SocArXiv Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.31235/osf.io/sb4gz_v1)  
 https://doi.org/10.31235/osf.io/sb4gz_v1
 
-69. National Library of Australia (AWA): TGA COVID-19 Vaccine Safety Monitoring Audit  
+70. National Library of Australia (AWA): TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 
-70. Internet Archive: TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)  
+71. Internet Archive: TGA COVID-19 Vaccine Safety Monitoring Audit (v1.9.1)  
 https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
 
-71. Arweave Permanent Storage: TGA COVID-19 Vaccine Safety Monitoring Audit  
+72. Arweave Permanent Storage: TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 
-72. TGA FOI Disclosure Log  
+73. TGA FOI Disclosure Log  
 https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
-73. AustLII – OAIC Decisions
+74. AustLII – OAIC Decisions
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=
 
 **Main Audit Documentation:**
 
-74. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
+75. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring – Documentation Gap Analysis   
    [Main Audit Report](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf) (Reference List: p.64)
 
 **Notes on Reference Formatting**:
@@ -1889,7 +1894,7 @@ Enhanced post-market safety monitoring was regulatory condition of provisional a
 **Overall Finding:** NON-CONFORMING (7 major non-conformities)     
 **Audit Status:** Complete   
 
-**Audit Updated:** 2026-04-20
+**Audit Updated:** 2026-05-12
 
 ---
 
