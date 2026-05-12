@@ -1754,7 +1754,7 @@ Parliamentary Records: Hansard available through Parliament of Australia website
 
 Academic Citations: Standard DOI/journal format where available.
 
-GitHub/Zenodo/SSRN/Mendeley Data/SocArXiv: Permanent archival links with DOI for research reproducibility and Google Scholar indexing. NLA, Internet Archive, and Arweave provide additional preservation layers.
+GitHub/Zenodo/Harvard Dataverse/SSRN/Mendeley Data/SocArXiv: Permanent archival links with DOI for research reproducibility and Google Scholar indexing. NLA, Internet Archive, and Arweave provide additional preservation layers.
 
 ---
 
