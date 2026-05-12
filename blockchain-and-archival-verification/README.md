@@ -16,6 +16,7 @@ This audit is protected by multiple verification and archival methods including 
 - [National Library of Australia – National edeposit (NED)](#national-library-of-australia--national-edeposit-ned)
 - [National Library of Australia – Australian Web Archive (AWA)](#national-library-of-australia--australian-web-archive-awa)
 - [Zenodo Archive](#zenodo-archive)
+- [Harvard Dataverse – Harvard University Research Data Repository](#harvard-dataverse--harvard-university-research-data-repository)
 - [SSRN – Social Science Research Network](#ssrn--social-science-research-network)
 - [SocArXiv – OSF Preprints (Social Sciences)](#socarxiv--osf-preprints-social-sciences)
 - [Bitcoin Timestamp (OpenTimestamps)](#bitcoin-timestamp-opentimestamps)
@@ -37,6 +38,7 @@ The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuf
 
 **Reproducibility and Archiving**
 - **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
+- **Harvard Dataverse**: Harvard University research data repository; DOI-registered scholarly dataset archive supporting long-term preservation, discoverability, citation, and reproducibility
 - **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
 - **Mendeley Data**: Elsevier dataset repository powered by Digital Commons Data; DOI-supported, archived in perpetuity by DANS (Dutch national research data repository, Royal Netherlands Academy of Arts and Sciences); FAIR data principles; companion dataset to SSRN preprint
 
@@ -111,6 +113,27 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Direct Link:** https://doi.org/10.5281/zenodo.17731054
 
 ---
+
+## Harvard Dataverse – Harvard University Research Data Repository
+
+**DOI:** 10.7910/DVN/BDKZQJ  
+**Published:** 12 May 2026  
+**Title:** TGA COVID-19 Vaccine Safety Monitoring Plan — Implementation and Governance Evidence Dataset (2021–2026)  
+**Author:** Paul Rekaris  
+**Licence:** CC BY 4.0  
+**Status:** PUBLISHED — Publicly Accessible  
+**Persistent Identifier Provider:** DataCite  
+**Indexed:** DOI-registered scholarly repository infrastructure
+
+### Significance
+
+Harvard Dataverse is a major scholarly research data repository operated by Harvard University. It provides DOI-backed archival preservation, citation infrastructure, metadata indexing, and long-term public access for research datasets. Publication in Harvard Dataverse supports transparency, reproducibility, discoverability, and independent verification of the audit evidence base. The repository forms part of the project’s multi-layer preservation architecture built around the LOCKSS principle (“Lots of Copies Keep Stuff Safe”), ensuring that the underlying implementation and governance dataset remains permanently accessible independent of any single platform or jurisdiction.
+
+### Access
+
+**Direct Link:** https://doi.org/10.7910/DVN/BDKZQJ
+
+----
 
 ## SSRN – Social Science Research Network
 
@@ -251,7 +274,8 @@ Direct upload to Internet Archive provides an independent, complete copy of the 
 This audit is protected by multiple independent verification methods:
 
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
-- **Zenodo:** DOI-backed permanent academic archive: 10.5281/zenodo.17731054  
+- **Zenodo:** DOI-backed permanent academic archive: 10.5281/zenodo.17731054
+- **Harvard Dataverse:** Harvard University research data repository supporting long-term preservation, citation, and reproducibility: https://doi.org/10.7910/DVN/BDKZQJ  
 - **SSRN:** Academic preprint repository; indexed by Google Scholar: https://ssrn.com/abstract=6333058  
 - **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS: https://data.mendeley.com/datasets/y5wmt6f8j9  
 - **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar: https://doi.org/10.31235/osf.io/sb4gz_v1  
