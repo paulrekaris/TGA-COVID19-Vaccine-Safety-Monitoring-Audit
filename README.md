@@ -4,7 +4,7 @@
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D)](blockchain-and-archival-verification/README.md) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17731054.svg)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v1-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v1) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) 
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -33,7 +33,7 @@
 
 - [Verify the Findings (5 minutes)](analysis/output-assessment-evidence-matrix.xlsx) – Every classification is reproducible directly from the dataset. Open the file, go to the Evidence Matrix sheet (19 rows, one per Plan output), filter the `Status` column (column D) to see classifications by output. The Rating Criteria sheet defines each classification; the Summary sheet pre-computes the headline statistics. Tool-agnostic (spreadsheet, R, Python). Full data paper: [SSRN 10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438). For reproducibility steps, classification codes, evidence tiers, and severity ratings, see the [Dataset Codebook](analysis/dataset-codebook.md).
 
-- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped 29 March 2026](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png) | [Arweave Blockchain](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Harvard Dataverse: 10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped 29 March 2026](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png) | [Arweave Blockchain](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
@@ -1043,6 +1043,9 @@ This audit has been permanently archived and cryptographically timestamped:
 - **Zenodo Archive:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054)  
   Permanent academic archive with CERN backing
 
+- **Harvard Dataverse:** [10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ)  
+  Harvard University research data repository; DOI-registered scholarly dataset archive  
+
 - **SSRN:** [Abstract 6333058](https://ssrn.com/abstract=6333058) | DOI: [10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058) Academic preprint repository; indexed by Google Scholar
 
 - **Mendeley Data:** [10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) (companion dataset to SSRN preprint)
@@ -1050,8 +1053,8 @@ This audit has been permanently archived and cryptographically timestamped:
 - **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
   
 - **Bitcoin Timestamp:** 29 March 2026, 3:29 PM AEDT  
- SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`    
- Verification Screenshot: [View](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png)
+  SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`    
+  Verification Screenshot: [View](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png)
 
 - **Arweave:** [Permanent Storage](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
