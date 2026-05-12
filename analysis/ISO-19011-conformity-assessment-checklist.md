@@ -1457,6 +1457,7 @@ Complete audit trail available through:
 - **Permanent Archives:** Zenodo DOI https://doi.org/10.5281/zenodo.17731054, Harvard Dataverse: https://doi.org/10.7910/DVN/BDKZQJ
 - **OAIC Published Decisions:** Including MR2200538
 - **Senate Hansard:** October 9, 2025 testimony
+- **Senate QON 559**
 
 ---
 
