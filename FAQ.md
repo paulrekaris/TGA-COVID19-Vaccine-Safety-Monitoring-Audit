@@ -29,7 +29,7 @@ Any person or organisation may scrutinise, challenge, or build upon this work th
 
 - **Fork the repository** — create your own copy, correct errors, or publish alternative analysis
 - **Open an Issue** — ask questions, raise concerns, or suggest corrections publicly
-- **Cite the permanent archives** — use the NLA, Zenodo, or SSRN identifiers for scholarly or legal reference
+- **Cite the permanent archives** — use the NLA, Zenodo, Harvard Dataverse or SSRN identifiers for scholarly or legal reference
 - **Submit corrections** — email the author or open a pull request with proposed changes
 
 For more information please see: [Open Review Architecture](audit-governance/open-review-architecture.md)
@@ -637,7 +637,7 @@ My investigation follows scientific principles of falsifiability and replicabili
 - Timeline reconstruction from official sources
 - Documentation of contradictions across multiple sources
 - [Version control policy](audit-governance/version-control-policy.md) aligned with ISO 15489-1:2016 (records management) ensuring transparency, integrity, and accountability through Git version control, structured changelogs, and permanent archiving
-- Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054). See [Q32](#q32-how-can-people-access-the-evidence).
+- Permanent archiving [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) and [Harvard Dataverse DOI: 10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ). See [Q32](#q32-how-can-people-access-the-evidence).
 
 All evidence is primary-source and publicly verifiable. The repository contains complete documentation allowing independent scrutiny and practical replication of my findings.
 
@@ -664,6 +664,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 **Permanent Archive:**
 
 - Zenodo DOI: https://doi.org/10.5281/zenodo.17731054
+- Harvard Dataverse: https://doi.org/10.7910/DVN/BDKZQJ
 - SSRN: https://doi.org/10.2139/ssrn.6333058
 - Mendeley Data: https://doi.org/10.17632/y5wmt6f8j9
 - SocArXiv: https://doi.org/10.31235/osf.io/sb4gz_v1
