@@ -1454,7 +1454,7 @@ This audit applies ISO 19011:2018 guidelines to provide:
 
 Complete audit trail available through:
 - **GitHub Repository:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
-- **Permanent Archive:** Zenodo DOI https://doi.org/10.5281/zenodo.17731054
+- **Permanent Archives:** Zenodo DOI https://doi.org/10.5281/zenodo.17731054, Harvard Dataverse: https://doi.org/10.7910/DVN/BDKZQJ
 - **OAIC Published Decisions:** Including MR2200538
 - **Senate Hansard:** October 9, 2025 testimony
 
