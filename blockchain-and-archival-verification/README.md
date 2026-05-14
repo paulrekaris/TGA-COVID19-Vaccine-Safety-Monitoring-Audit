@@ -294,7 +294,11 @@ The multi-layer archival architecture aligns with ISO 14721:2025 — Open Archiv
 
 https://www.iso.org/standard/87471.html
 
-Together, these create archival protection ensuring the audit cannot be suppressed, altered, backdated, or disappeared.
+The repository supports long-term preservation and reproducibility consistent with the Australian Code for the Responsible Conduct of Research (2018). The evidence base draws together FOI materials, OAIC proceedings, parliamentary records, and related documentation accumulated over several years that would be difficult to reconstruct in equivalent form.
+
+https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018
+
+Together, the technical preservation layers ensure the audit cannot be suppressed, altered, backdated, or disappeared.
 
 [↑ Back to top](#table-of-contents)
 
