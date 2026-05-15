@@ -66,7 +66,7 @@ The Australian National Audit Office (ANAO) is invited to conduct a performance 
 
 ## 6. Conclusion
 
-This work does not claim to have been peer-reviewed in the traditional sense. It claims something different: it is designed for continuous, public, adversarial scrutiny, with the evidence preserved permanently for anyone to judge.
+This work does not claim to have undergone traditional peer review. Instead, it is designed for continuous public scrutiny, with the evidence permanently preserved for independent verification, challenge, replication, and reuse.
 
 - **Transparency** — all evidence and methods are public and permanently archived
 - **Verifiability** — anyone can replicate, challenge, or build upon the work
