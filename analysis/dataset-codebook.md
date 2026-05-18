@@ -123,6 +123,8 @@ The dataset was developed using a documentation analysis approach informed by IS
 
 All source materials were obtained through lawful public accountability mechanisms. The full methodology, version history, evidence handling procedures, and open repository documentation are documented in this repository: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
+Replication code for all summary statistics is provided in analysis/replication-readme.md.
+
 ---
 
 **Codebook:** v1.0  
