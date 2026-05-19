@@ -151,7 +151,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ### What This Audit Examines
 
-This audit does NOT claim that routine pharmacovigilance failed to occur. TGA conducted monitoring activities, investigated 148 signals, and published more than 150 safety reports.
+This audit examines whether enhanced monitoring commitments were implemented and documented in a verifiable way. Routine pharmacovigilance activities are acknowledged in the record.
 
 **The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for provisional approval and promised in the February 2021 Plan?
 
@@ -559,7 +559,7 @@ The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised Nati
 
 ### The Audit Question
 
-This audit does not question whether safety monitoring occurred. The TGA conducted pharmacovigilance activities during the rollout, investigating 148 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
+The audit question is whether the Plan’s 17 numbered strategies were implemented as distinct, documentable processes. The TGA conducted pharmacovigilance activities during the rollout, investigating 148 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
 
 The audit question is whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes beyond these activities.
 
@@ -583,8 +583,7 @@ This question is critical. Approximately 68.4 million COVID-19 vaccine doses (ar
 * The integrity of the provisional approval pathway is compromised
 * Fundamental accountability is impaired
 
-This assessment does not question TGA's routine pharmacovigilance work. It examines whether the 17 enhanced monitoring strategies legally required for provisional approval were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
-
+The audit scope is limited to documented implementation of the 17 enhanced monitoring strategies legally required for provisional approval. It examines whether the 17 enhanced monitoring strategies legally required for provisional approval were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
 
 ## The Challenge of Black Box Governance for Private Citizens
 
@@ -786,7 +785,7 @@ This repository follows open research principles by archiving at-risk primary so
 
 **Scope**
 
-This audit assesses **documented evidence only**. It does **not** evaluate clinical safety or efficacy of COVID‑19 vaccines, nor the appropriateness of individual regulatory decisions. Findings concern documentation, records management and governance processes.
+This audit examines documented evidence of implementation against the February 2021 Safety Monitoring Plan. The scope is limited to documentation, records management, and governance processes. Clinical safety outcomes and individual regulatory decisions are outside scope.​​​​​​​​​​​​​​​​
 
 **Meaning of documentation gaps**
 
