@@ -132,3 +132,6 @@ For variable definitions, evidence tier classification, severity rating scale, a
 ## Reference
 
 Social Science Data Editors. (n.d.). *Template README for social science replication packages*. https://social-science-data-editors.github.io/template_README/
+
+**Vesrion:** v1.0  
+**Last updated:** 19 May 2026
