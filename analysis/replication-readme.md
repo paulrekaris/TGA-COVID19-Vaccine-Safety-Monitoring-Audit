@@ -4,6 +4,32 @@
 
 This file provides replication code for all summary statistics reported in the dataset paper. All operations are directly reproducible from the evidence matrix using standard analytical tools.
 
+## Quick Start
+
+Download the evidence matrix from [Harvard Dataverse](https://doi.org/10.7910/DVN/BDKZQJ) or [Zenodo](https://doi.org/10.5281/zenodo.20175557), then run:
+
+```python
+import pandas as pd
+
+df = pd.read_excel('output-assessment-evidence-matrix.xlsx', 
+                   sheet_name='Evidence Matrix', header=1)
+
+print(df['Status'].value_counts())
+```
+
+Expected output:
+
+```
+◐ Partially Implemented    10
+✗ Not Documented            6
+✓ Fully Implemented         3
+Name: Status, dtype: int64
+```
+
+Full replication code for all three analytical operations is provided below.
+
+---
+
 ## Resources
 
 - **Dataset paper**: [SSRN DOI: 10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438)
