@@ -561,8 +561,6 @@ The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised Nati
 
 The audit question is whether the Plan’s 17 numbered strategies were implemented as distinct, documentable processes. The TGA conducted pharmacovigilance activities during the rollout, investigating 148 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
 
-The audit question is whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes beyond these activities.
-
 The Plan's 17 strategies included:
 * Active surveillance through AusVaxSafety integration (Strategy 2.1)
 * Systematic collaboration frameworks (Strategy 2.4)
@@ -583,7 +581,7 @@ This question is critical. Approximately 68.4 million COVID-19 vaccine doses (ar
 * The integrity of the provisional approval pathway is compromised
 * Fundamental accountability is impaired
 
-The audit scope is limited to documented implementation of the 17 enhanced monitoring strategies legally required for provisional approval. It examines whether the 17 enhanced monitoring strategies legally required for provisional approval were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+The audit scope is limited to documented implementation of the 17 enhanced monitoring strategies legally required for provisional approval. It examines whether those strategies were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
 
 ## The Challenge of Black Box Governance for Private Citizens
 
