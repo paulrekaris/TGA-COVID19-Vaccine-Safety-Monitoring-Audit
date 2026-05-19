@@ -11,9 +11,7 @@ This directory contains the main audit report and supporting analysis materials.
 ## Supporting Analysis
 
 - [ISO 19011 Conformity Assessment Checklist](ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit framework assessment with ANAO criteria, evidence hierarchy, and non-conformity ratings
-
-- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 assessed Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column (column D) to see classifications by output. The Rating Criteria sheet defines each classification; the Summary sheet pre-computes the headline statistics. For variable definitions and replication code in Python, R, and Stata, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
-
+  
 - [Surveillance Analysis](surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
 
 - [FOI Systematic Review](foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years
@@ -27,6 +25,8 @@ This directory contains the main audit report and supporting analysis materials.
 - [TGA Senate QON SQ13-19 Gap Analysis](tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards against the four-layer governance hierarchy framework consistent with the main audit
 
 ## Replication Materials
+
+- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 assessed Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column (column D) to see classifications by output. The Rating Criteria sheet defines each classification; the Summary sheet pre-computes the headline statistics. For variable definitions and replication code in Python, R, and Stata, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
 
 - [Dataset Codebook](dataset-codebook.md) – Documents variables, classification codes, evidence tiers, and rating scales used in the evidence matrix. Defines documentation status classifications, severity rating scale, analytical objective categories, and all matrix variables.
 
