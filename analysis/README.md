@@ -12,7 +12,7 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [ISO 19011 Conformity Assessment Checklist](ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit framework assessment with ANAO criteria, evidence hierarchy, and non-conformity ratings
 
-- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 Plan outputs with sources checked, findings, documentation gaps, rating justifications, severity ratings, methodology assumptions, and rating criteria definitions. Excel workbook format with multiple sheets.
+- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 assessed Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column to see classifications by output. The Rating Criteria sheet defines each classification. For variable definitions and replication code, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
 
 - [Surveillance Analysis](surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
 
@@ -26,6 +26,12 @@ This directory contains the main audit report and supporting analysis materials.
   
 - [TGA Senate QON SQ13-19 Gap Analysis](tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards against the four-layer governance hierarchy framework consistent with the main audit
 
+## Replication Materials
+
+- [Dataset Codebook](dataset-codebook.md) – Documents variables, classification codes, evidence tiers, and rating scales used in the evidence matrix. Defines documentation status classifications, severity rating scale, analytical objective categories, and all matrix variables.
+
+- [Replication README](replication-readme.md) – Replication code in Python, R, and Stata for all summary statistics reported in the dataset paper, with quick start guide and file structure notes.
+
 ## Visual Summaries
 
 - [TGA FOI Analysis](tga-foi-analysis.pdf) – FOI timeline analysis (2022-2025) documenting contradictory TGA responses
@@ -35,5 +41,5 @@ This directory contains the main audit report and supporting analysis materials.
 - [TGA Audit One Page Methodology Flowchart](tga-audit-one-page-flowchart.pdf) - One-page visual flowchart of audit methodology, evidence hierarchy, and key findings
 
 
-**Last Updated:** 14 April 2026  
+**Last Updated:** 19 May 2026 
 **Licence:** CC BY 4.0
