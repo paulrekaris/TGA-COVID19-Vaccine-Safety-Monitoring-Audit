@@ -12,7 +12,7 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [ISO 19011 Conformity Assessment Checklist](ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit framework assessment with ANAO criteria, evidence hierarchy, and non-conformity ratings
 
-- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 assessed Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column to see classifications by output. The Rating Criteria sheet defines each classification. For variable definitions and replication code, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
+- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 assessed Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column (column D) to see classifications by output. The Rating Criteria sheet defines each classification; the Summary sheet pre-computes the headline statistics. For variable definitions and replication code in Python, R, and Stata, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
 
 - [Surveillance Analysis](surveillance-analysis.md) – Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
 
