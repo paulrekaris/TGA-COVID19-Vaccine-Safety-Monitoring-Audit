@@ -127,5 +127,5 @@ Replication code for all summary statistics is provided in [Replication README](
 
 ---
 
-**Codebook:** v1.0  
-**Last updated:** 12 May 2026
+**Codebook vesrion:** v1.0  
+**Last updated:** 19 May 2026
