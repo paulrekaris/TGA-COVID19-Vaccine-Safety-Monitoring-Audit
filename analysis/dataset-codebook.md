@@ -103,7 +103,7 @@ The following statistics are directly reproducible from the evidence matrix usin
 | Documentation status distribution | Count of outputs by Status | `df['Status'].value_counts()` |
 | Status by objective cross-tabulation | Pivot of Status × Objective category | `pd.crosstab(df['Objective'], df['Status'])` |
 | Severity rating by objective | Mean, min, max of Rating (1–5) grouped by Objective | `df.groupby('Objective')['Rating (1-5)'].agg(['mean','min','max'])` |
-| Mean severity rating | Average of Rating (1–5) across all 19 outputs | `df['Rating (1-5)'].mean()` → 4.0 |
+| Mean severity rating | Average of Rating (1–5) across all 19 outputs | `df['Rating (1-5)'].mean()` → 3.47 |
 
 ---
 
