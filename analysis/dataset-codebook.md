@@ -128,4 +128,4 @@ Replication code for all summary statistics is provided in [Replication README](
 ---
 
 **Codebook vesrion:** v1.0  
-**Last updated:** 19 May 2026
+**Last updated:** 22 May 2026
