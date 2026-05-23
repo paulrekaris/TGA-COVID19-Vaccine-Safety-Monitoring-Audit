@@ -33,7 +33,7 @@
 
 - [Verify the Findings](analysis/output-assessment-evidence-matrix.xlsx) – Every classification is reproducible directly from the dataset. Open the file, go to the Evidence Matrix sheet (19 rows, one per Plan output), filter the `Status` column to see classifications by output. Full data paper: [SSRN 10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438). See the [Dataset Codebook](analysis/dataset-codebook.md) and [Replication README](analysis/replication-readme.md) for variable definitions and replication code.
 
-- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Harvard Dataverse: 10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped 29 March 2026](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png) | [Arweave Blockchain](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED447016P1081502](https://nla.gov.au/nla.obj-4148163541/view) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Harvard Dataverse: 10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz_v3](https://doi.org/10.31235/osf.io/sb4gz_v3) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped 29 March 2026](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png) | [Arweave Blockchain](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
@@ -1047,7 +1047,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **Mendeley Data:** [10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) (companion dataset to SSRN preprint)
 
-- **SocArXiv:** [10.31235/osf.io/sb4gz_v1](https://doi.org/10.31235/osf.io/sb4gz_v1) Social science preprint repository; indexed by Google Scholar
+- **SocArXiv:** [10.31235/osf.io/sb4gz_v3](https://doi.org/10.31235/osf.io/sb4gz_v3) Social science preprint repository; indexed by Google Scholar
   
 - **Bitcoin Timestamp:** 29 March 2026, 3:29 PM AEDT  
   SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`    
