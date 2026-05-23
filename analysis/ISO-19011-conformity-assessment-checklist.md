@@ -239,7 +239,7 @@ This audit employs two complementary forms of reasoning:
   https://doi.org/10.7910/DVN/BDKZQJ
 - **SSRN:** 10.2139/ssrn.6333058 (social science preprint repository)  
   https://doi.org/10.2139/ssrn.6333058
-- **SocArXiv:** 10.31235/osf.io/sb4gz_v1 (open access preprint repository)  
+- **SocArXiv:** 10.31235/osf.io/sb4gz_v3 (open access preprint repository)  
   https://doi.org/10.31235/osf.io/sb4gz_v1
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
@@ -1721,7 +1721,7 @@ https://doi.org/10.7910/DVN/BDKZQJ
 https://doi.org/10.2139/ssrn.6333058
 
 69. SocArXiv Preprint: Documentation Gap Analysis – Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (DOI: 10.31235/osf.io/sb4gz_v1)  
-https://doi.org/10.31235/osf.io/sb4gz_v1
+https://doi.org/10.31235/osf.io/sb4gz_v3
 
 70. National Library of Australia (AWA): TGA COVID-19 Vaccine Safety Monitoring Audit  
 https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
