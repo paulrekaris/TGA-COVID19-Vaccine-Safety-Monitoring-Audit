@@ -1,6 +1,6 @@
 # Blockchain and Archival Verification Records
 
-This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, SSRN, SocArXiv, Mendeley Data).
+This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, Harvard Dataverse, SSRN, SocArXiv, Mendeley Data).
 
 [![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-05-12.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![National Library of Australia](https://img.shields.io/badge/National%20Library%20of%20Australia-Collection%20Development%20Policy-000000?labelColor=000000&style=flat-square)](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy)
 
@@ -302,4 +302,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 2026-05-14
+**Last updated:** 2026-05-23
