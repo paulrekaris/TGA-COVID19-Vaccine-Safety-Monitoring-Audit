@@ -160,10 +160,10 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ## SocArXiv – OSF Preprints (Social Sciences)
 
-**Submission Date:** 16 March 2026  
-**Accepted Date:** 17 March 2026  
-**Preprint DOI:** 10.31235/osf.io/sb4gz_v3 
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
+**Submission Date:** 16 March 2026     
+**Accepted Date:** 17 March 2026     
+**Preprint DOI:** 10.31235/osf.io/sb4gz_v3    
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan     
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0  
 **Status:** ACCEPTED — Publicly Accessible and Searchable  
@@ -175,7 +175,7 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 
 ### Access
 
-**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz_v1  
+**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz_v3     
 **Supplemental Materials:** https://osf.io/jvqyt
 
 ---
@@ -278,7 +278,7 @@ This audit is protected by multiple independent verification methods:
 - **Harvard Dataverse:** Harvard University research data repository supporting long-term preservation, citation, and reproducibility: https://doi.org/10.7910/DVN/BDKZQJ  
 - **SSRN:** Academic preprint repository; indexed by Google Scholar: https://ssrn.com/abstract=6333058  
 - **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS: https://data.mendeley.com/datasets/y5wmt6f8j9  
-- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar: https://doi.org/10.31235/osf.io/sb4gz_v1  
+- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar: https://doi.org/10.31235/osf.io/sb4gz_v3  
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
