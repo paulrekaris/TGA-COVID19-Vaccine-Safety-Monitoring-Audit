@@ -142,7 +142,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles. 
 
-**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, GitHub, and Arweave (Suber, 2012)<sup>[1](#fn1)</sup>
+**Open Access** - CC BY 4.0 licence; permanent archives via Zenodo DOIs, Harvard Dataverse, Mendeley Data, GitHub, and Arweave.
 
 > **Provenance and Authenticity Statement**: This audit preserves a verifiable record of what could be independently established about the implementation of Australia's COVID-19 vaccine safety monitoring framework at a specific point in time, using only public accountability mechanisms. To ensure the integrity and historical persistence of that record, the audit's core artefacts and findings have been cryptographically timestamped and anchored to a public blockchain. This provides an immutable reference point, allowing future reviewers—including courts, inquiries, and researchers—to determine what evidence was publicly available, in what form, and at what time, independent of subsequent institutional reinterpretation, record reconstruction or changes to public accessibility.
 >
@@ -879,8 +879,7 @@ The comprehensive audit report includes:
 
 This work is open access by design: all sources, methods, reasoning, and revisions are publicly available, reusable, and challengeable without restriction.
 
-The audit is disseminated via a green open access pathway (Suber, 2012)<sup>[2](#fn2)</sup> with all materials self-archived through GitHub (version control), Zenodo (persistent 
-DOIs), and Arweave (immutable backup). This ensures:
+The audit is disseminated via a green open access pathway<sup>1</sup> with all materials self-archived through GitHub (version control), Zenodo (persistent DOIs), Harvard Dataverse, Mendeley Data, SSRN, SocArXiv, and Arweave (immutable backup)<sup>2</sup>. This ensures:
 
 - Independent verification of all claims
 - Reproducible and inspectable research methods
@@ -893,10 +892,9 @@ The audit's open review architecture — public version control, forkability, pe
 
 **References:**
 
-<a name="fn1"></a>¹ Suber, P. (2012). *Open Access*. MIT Press. Chapter 10: Self-Help. https://cyber.harvard.edu/hoap/Open_Access_(the_book)
+<sup>1</sup> Suber, P. (2012). *Open Access*. MIT Press. https://cyber.harvard.edu/hoap/Open_Access_(the_book)
 
-<a name="fn2"></a>² Suber, P. *How to make your own work open access*. Harvard Open Access Project. https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access
-
+<sup>2</sup> Suber, P. *How to make your own work open access*. Harvard Open Access Project. https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access
 
 ## Licence and Citation
 
@@ -1019,7 +1017,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.2   
-**Last Updated:** 23 May 2026  
+**Last Updated:** 5 June 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
