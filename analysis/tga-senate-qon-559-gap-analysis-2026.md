@@ -55,6 +55,8 @@ Question 19 is the most significant for audit purposes — it is the most direct
 
 TGA's written answer is publicly available on the Parliament of Australia website as part of the 2025-26 Supplementary Budget Estimates record. The complete Senate QON is available here: [QON 559](../primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
+This analysis evaluates documentary traceability of implementation rather than operational activity.
+
 ---
 
 ## TGA's Formal Answer to Plan Compliance
