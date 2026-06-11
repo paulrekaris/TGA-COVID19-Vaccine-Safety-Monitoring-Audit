@@ -44,10 +44,11 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
 
 **Rekaris, P. (2026).** *A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan.*
 
-Companion paper describing the structured dataset and methodology compiled between 2022 and 2026 to support independent documentary analysis of the Plan. Comprises FOI decision letters, released government documents, OAIC submissions and determinations, Senate Hansard extracts, policy and surveillance documents, and an output-level evidence matrix assessing 19 Plan outputs using a structured four-tier classification framework.
+Companion paper describing the structured dataset and methodology compiled between 2022 and 2026 to support independent documentary analysis of the Plan. Comprises FOI decision letters, released government documents, OAIC submissions and determinations, Senate Hansard extracts, policy and surveillance documents, and an output-level evidence matrix assessing 19 Plan outputs using a structured four-tier classification framework. Includes codebook documenting variables, classification codes, evidence tiers, and severity ratings, replication code (Python/R/Stata), and a step-by-step replication pathway designed to be applied to other regulatory and governance accountability settings.
 
 **Access:**
 - SSRN: [https://doi.org/10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438)
+- Zenodo: [https://doi.org/10.5281/zenodo.20175557](https://doi.org/10.5281/zenodo.20175557)
 
 **BibTeX:**
 ```bibtex
@@ -85,4 +86,4 @@ All publications and supporting materials are licensed under [Creative Commons A
 
 ---
 
-**Last updated:** 12 May 2026
+**Last updated:** 12 June 2026
