@@ -318,9 +318,9 @@ A comparison was conducted between TGA's OAIC-directed search strategy (Septembe
 
 **TGA's OAIC-directed searches (MR22/00538):** 8 search terms; document title-matching approach (e.g., "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring"); 531+ TRIM containers searched; result: zero implementation records found.
 
-**This audit's search strategy:** 14 search terms (75 per cent more comprehensive); output-specific and activity-based terms (e.g., "signal detection", "AusVaxSafety coordination", "data integration", "enhanced monitoring", "AEFI escalation", "performance metrics"); scope: public documents, FOI releases, parliamentary records, partner publications; result: identified the same evidence gaps plus additional validation through systematic FOI corpus review.
+**This audit's search strategy:** 14 output-specific and activity-based search terms (e.g., "signal detection", "AusVaxSafety coordination", "data integration", "enhanced monitoring", "AEFI escalation", "performance metrics"); scope: public documents, FOI releases, parliamentary records, partner publications; result: identified the same evidence gaps plus additional validation through systematic FOI corpus review.
 
-**Key difference:** TGA searched for document titles; this audit searched for implementation activities and outputs. The audit's methodology was demonstrably more comprehensive, raising questions about the "all reasonable steps" standard under FOI Act s 24A.
+**Key difference:** TGA searched for document titles; this audit searched for implementation activities and outputs. That difference in approach raises questions about the "all reasonable steps" standard under FOI Act s 24A.
 
 ---
 
