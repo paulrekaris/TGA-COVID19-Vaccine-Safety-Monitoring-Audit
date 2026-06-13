@@ -527,7 +527,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | Governance | 2 | 0 | 0 | 2 | 0% |
 | **Total** | **19** | **3** | **10** | **6** | **16%** |
 
-The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1). The process, integration, and governance outputs — those that would distinguish enhanced from routine monitoring — are the ones not documented. *(Objective 3 shows 0% on a single partial output; the low percentage reflects the single-output denominator, not a separate failure beyond what Finding 1 records.)*
+The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1). The undocumented outputs are the ones that would distinguish enhanced monitoring from routine: the process, integration, and governance outputs. *(Objective 3 shows 0% on a single partial output; the low percentage reflects the single-output denominator, not a separate failure beyond what Finding 1 records.)*
 
 ### Critical Gap Analysis
 
