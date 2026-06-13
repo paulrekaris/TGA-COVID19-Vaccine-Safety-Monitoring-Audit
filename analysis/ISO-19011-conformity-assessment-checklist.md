@@ -468,7 +468,7 @@ Per ISO 19011:2018, 6.4.9, conclusions address the extent of conformity with the
 
 With that stated: ICAO and IAEA frameworks treat safety management as an auditable system with documented objectives, performance indicators, continuous monitoring, and traceable decision records enabling external oversight (ICAO, 2018; IAEA, 2016). On the disclosable record, the TGA's COVID-19 monitoring lacks comparable documented performance objectives, signal-to-action traceability, and periodic documented review against the Plan, a gap underlined by the Senate evidence that monitoring relied on "day-to-day processes" never systematically tracked. High-reliability theory (Weick and Sutcliffe, 2015) describes a documentation-rich, anticipatory posture; the disclosable record here is closer to a documentation-light one, though the asymmetry caveat above applies throughout.
 
-In healthcare, high-reliability and patient-safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time. The Manchester Patient Safety Assessment Framework (MaPSAF) provides a recognised tool for evaluating safety culture in healthcare settings. TGA's limited evidence of systematic learning from expert warnings, absence of a documented signal-to-action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data-driven learning cultures.
+In healthcare, high-reliability and patient-safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time. The Manchester Patient Safety Assessment Framework (MaPSAF), provides a recognised tool for evaluating safety culture in healthcare settings. TGA's limited evidence of systematic learning from expert warnings, absence of a documented signal-to-action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data-driven learning cultures.
 
 **The regulator's own standard for industry.** The TGA requires sponsors to maintain documented quality systems, audit trails and performance tracking under GMP, GCP and ICH E2E-compliant pharmacovigilance, as conditions of approval. On the disclosable record, the TGA's own COVID-19 monitoring does not demonstrate the same documentation discipline it requires of industry. That asymmetry is the accountability point.
 
@@ -730,29 +730,31 @@ All URLs were verified as accessible in January 2026.
 53. Manchester Patient Safety Assessment Framework (MaPSAF). University of Manchester.
 54. Agency for Healthcare Research and Quality (AHRQ). Hospital Survey on Patient Safety Culture. Rockville, MD.
 55. World Health Organization. (2023). Patient safety (fact sheet). Geneva: WHO. https://www.who.int/news-room/fact-sheets/detail/patient-safety
+56. Institute for Healthcare Improvement. (2023). A Framework for Safe, Reliable, and Effective Care. Cambridge, MA: IHI. https://www.ihi.org
+57. The Joint Commission. (2021). Sentinel Event Policy and Procedures. Oakbrook Terrace, IL: The Joint Commission. https://www.jointcommission.org
 
 ### High-Reliability Industry and Safety Framework References
 
-56. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859), 4th ed. Montreal: ICAO.
-57. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (GSR Part 2). Vienna: IAEA.
-58. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World, 3rd ed. San Francisco: Jossey-Bass.
-59. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. PSNet: Patient Safety Network. Rockville, MD.
-60. SKYbrary. Safety Management System (SMS). EUROCONTROL.
-61. University of California, Berkeley, Center for Catastrophic Risk Management. High Reliability Organizations. https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures
+58. International Civil Aviation Organization (ICAO). (2018). Safety Management Manual (Doc 9859), 4th ed. Montreal: ICAO.
+59. International Atomic Energy Agency (IAEA). (2016). Leadership and Management for Safety (GSR Part 2). Vienna: IAEA.
+60. Weick, K. E., & Sutcliffe, K. M. (2015). Managing the Unexpected: Sustained Performance in a Complex World, 3rd ed. San Francisco: Jossey-Bass.
+61. Agency for Healthcare Research and Quality (AHRQ). (2019). High Reliability. PSNet: Patient Safety Network. Rockville, MD.
+62. SKYbrary. Safety Management System (SMS). EUROCONTROL.
+63. University of California, Berkeley, Center for Catastrophic Risk Management. High Reliability Organizations. https://ccrm.berkeley.edu/high-reliability-management-and-critical-infrastructures
 
 ### Data Repositories
 
-62. GitHub repository. https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
-63. Zenodo (DOI 10.5281/zenodo.17731054). https://doi.org/10.5281/zenodo.17731054
-64. Harvard Dataverse (DOI 10.7910/DVN/BDKZQJ). https://doi.org/10.7910/DVN/BDKZQJ
-65. SSRN (DOI 10.2139/ssrn.6333058). https://doi.org/10.2139/ssrn.6333058
-66. SocArXiv (DOI 10.31235/osf.io/sb4gz_v3). https://doi.org/10.31235/osf.io/sb4gz_v3
-67. National Library of Australia (Australian Web Archive). https://webarchive.nla.gov.au/tep/221557
-68. Internet Archive (v1.9.1). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
-69. Arweave permanent storage. https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
-70. TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
-71. AustLII: OAIC decision AICmr 54. https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
-72. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring: Documentation Gap Analysis (main audit report). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf
+64. GitHub repository. https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+65. Zenodo (DOI 10.5281/zenodo.17731054). https://doi.org/10.5281/zenodo.17731054
+66. Harvard Dataverse (DOI 10.7910/DVN/BDKZQJ). https://doi.org/10.7910/DVN/BDKZQJ
+67. SSRN (DOI 10.2139/ssrn.6333058). https://doi.org/10.2139/ssrn.6333058
+68. SocArXiv (DOI 10.31235/osf.io/sb4gz_v3). https://doi.org/10.31235/osf.io/sb4gz_v3
+69. National Library of Australia (Australian Web Archive). https://webarchive.nla.gov.au/tep/221557
+70. Internet Archive (v1.9.1). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+71. Arweave permanent storage. https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
+72. TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
+73. AustLII: OAIC decision AICmr 54. https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
+74. Rekaris, P. (2026). TGA COVID-19 Vaccine Safety Monitoring: Documentation Gap Analysis (main audit report). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/documentation-gap-analysis-audit-report.pdf
 
 ---
 
