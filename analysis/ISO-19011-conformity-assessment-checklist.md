@@ -415,38 +415,37 @@ With that stated: ICAO and IAEA frameworks treat safety management as an auditab
 
 **Major non-conformities:** 7. **Minor non-conformities:** 0.
 
-### Output-by-Output Breakdown
+## Output-by-Output Assessment
+
+Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and "✗ Not documented" together represent the outputs that cannot be verified as fully implemented.
 
 | Objective | Output | Description | Status | Evidence basis |
 |---|---|---|---|---|
-| 1: Enhanced AEFI reporting | 1.1 | Enhanced AEFI reporting | Fully | Website content; 150+ reports published |
-| | 1.2 | Enhanced AEFI reporting forms | Fully | Updated COVID-19 forms publicly available |
-| | 1.3 | Enhanced AEFI report sharing | Partial | State data in reports; no sharing protocols documented |
-| | 1.4 | Enhanced AEFI data capabilities | Partial | 140k+ reports processed; no enhanced preparation documented |
-| | 1.5 | Enhanced AEFI escalation | Partial | Signals investigated; no COVID-specific escalation protocol documented |
-| 2: Enhanced signal detection | 2.1 | Safety-profile understanding | Partial | AESI list used; expected-rates methodology not documented |
-| | 2.2 | Enhanced individual-AEFI investigation | Not doc | OAIC searches (531 containers): no COVID-specific protocols |
-| | 2.3 | Enhanced cumulative data reviews | Not doc | FOI 4029-03 shows ACV presentation but no public outputs; FOI 5275 confirms the TGA does not hold the incidence data the strategy required; no CIOMS-style signal-to-action trail |
-| | 2.4 | Active surveillance (AusVaxSafety) | Partial | 6.8M surveys; no TGA coordination protocols; QON 559 omits AusVaxSafety from the collaborations answer |
-| | 2.5 | Clinical studies and reports | Not doc | OAIC searches: no enhanced sponsor-report process |
-| | 2.6 | Environmental scanning | Not doc | OAIC searches: no systematic scanning process |
-| | 2.7 | International safety signals | Partial | ICMRA participation; no systematic sharing protocol |
-| | 2.8 | Expert advice | Partial | ACV meetings occurred; documentary gaps in referral records |
-| 3: Regulatory action | 3.1 | Regulatory and programmatic action | Partial | 57 actions taken; no documented rapid-response framework |
-| 4: Communications | 4.1 | Communications and media | Fully | 150+ reports, media releases, website content |
-| 5: Collaborations | 5.1 | National stakeholder collaborations | Partial | State data visible; no formal frameworks documented |
-| | 5.2 | International collaborations | Partial | ICMRA participation; no systematic frameworks |
-| Governance | GOV.1 | Implementation oversight | Not doc | Senate: never systematically tracked; no governance documents located |
-| | GOV.2 | Performance measurement | Not doc | No metrics; Plan not referenced in performance reports |
-| | Total | 19 outputs | 3 Fully / 10 Partial / 6 Not doc | 16 of 19 (84%) partially or not documented |
+| **1: Enhanced AEFI reporting** | 1.1 | Enhanced AEFI reporting | ✓ Fully | Website content; 150+ reports published |
+| | 1.2 | Enhanced AEFI reporting forms | ✓ Fully | Updated COVID-19 forms publicly available |
+| | 1.3 | Enhanced AEFI report sharing | ◐ Partial | State data in reports; no sharing protocols documented |
+| | 1.4 | Enhanced AEFI data capabilities | ◐ Partial | 140k+ reports processed; no enhanced-preparation evidence |
+| | 1.5 | Enhanced AEFI escalation | ◐ Partial | 148 signals investigated; no COVID-specific escalation protocol documented |
+| **2: Enhanced signal detection** | 2.1 | Safety-profile understanding | ◐ Partial | AESI list used; expected-rates methodology not documented |
+| | 2.2 | Enhanced individual-AEFI investigation | ✗ Not doc | OAIC searches: no COVID-specific protocols |
+| | 2.3 | Enhanced cumulative data reviews | ✗ Not doc | FOI 4029-03 shows ACV presentation but no public outputs; FOI 5275 confirms the TGA does not hold the incidence data the strategy required (AIR-denominator calculation not performed); no CIOMS-style signal-to-action trail |
+| | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys; no TGA coordination protocols; QON 559 omits AusVaxSafety from the collaborations answer |
+| | 2.5 | Clinical studies and reports | ✗ Not doc | OAIC searches: no enhanced sponsor-report process |
+| | 2.6 | Environmental scanning | ✗ Not doc | OAIC searches: no systematic scanning process |
+| | 2.7 | International safety signals | ◐ Partial | ICMRA participation; no systematic sharing protocol |
+| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; documentary gaps in referral records |
+| **3: Regulatory action** | 3.1 | Regulatory/programmatic action | ◐ Partial | 57 actions; no documented rapid-response framework |
+| **4: Communications** | 4.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
+| **5: Collaborations** | 5.1 | National collaborations | ◐ Partial | State data visible; no formal frameworks documented |
+| | 5.2 | International collaborations | ◐ Partial | ICMRA participation; no systematic frameworks |
+| **Governance** | GOV.1 | Implementation oversight | ✗ Not doc | Senate: "never systematically tracked"; no governance documents located |
+| | GOV.2 | Performance measurement | ✗ Not doc | No metrics; Plan not referenced in performance reports |
+| | **TOTAL** | **19 outputs** | **3 ✓ / 10 ◐ / 6 ✗** | **16% fully documented; 84% partial or not documented** |
 
-Output descriptions are summarised; full Plan language is in the output assessment evidence matrix.
 
-### Summary by Objective
+### Summary by objective
 
-The percentage column reports fully-documented outputs only.
-
-| Objective | Outputs | Fully | Partial | Not doc | Fully-documented % |
+| Objective | Outputs | Fully ✓ | Partial ◐ | Not doc ✗ | Fully-documented % |
 |---|---|---|---|---|---|
 | 1: Enhanced AEFI reporting | 5 | 2 | 3 | 0 | 40% |
 | 2: Enhanced signal detection | 8 | 0 | 4 | 4 | 0% |
@@ -454,7 +453,10 @@ The percentage column reports fully-documented outputs only.
 | 4: Communications | 1 | 1 | 0 | 0 | 100% |
 | 5: Collaborations | 2 | 0 | 2 | 0 | 0% |
 | Governance | 2 | 0 | 0 | 2 | 0% |
-| Total | 19 | 3 | 10 | 6 | 16% |
+| **Total** | **19** | **3** | **10** | **6** | **16%** |
+
+The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1). The process, integration, and governance outputs — those that would distinguish enhanced from routine monitoring — are the ones not documented. *(Objective 3 shows 0% on a single partial output; the low percentage reflects the single-output denominator, not a separate failure beyond what Finding 1 records.)*
+
 
 ### Critical Gap Analysis
 
