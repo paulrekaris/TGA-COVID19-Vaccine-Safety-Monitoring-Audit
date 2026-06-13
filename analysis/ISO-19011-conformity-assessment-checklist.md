@@ -6,13 +6,13 @@
 
 **Why ISO 19011 is used here.** ISO 19011:2018 is the internationally recognised guideline for how management-system audits are planned, conducted and reported. It is used in this document as the auditor's method, because it provides a tested, public, and replicable structure for comparing a defined set of commitments (audit criteria) against objective evidence, for grading findings, and for stating conclusions and limitations in a way that others can scrutinise and test. Applying an established audit standard, rather than an ad hoc framework, lets parliamentary, legal, academic and professional readers evaluate the method on familiar terms and replicate or challenge it. ISO 19011 is a guideline for conducting audits; it is not a certifiable standard, and this document does not certify the TGA to any standard. Where the TGA's own Plan is assessed for whether it could be tracked and verified, that assessment is made against the obligations that actually bound the TGA (its published commitments and Commonwealth records and performance-reporting law), not against ISO 19011 itself.
 
-**Audit standard:** ISO 19011:2018 (Guidelines for auditing management systems)
-**Audit subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)
-**Audit conducted:** October 2025 – January 2026
-**Evidence collection:** 2022 – 2026
-**Period under audit:** February 2021 – January 2026
-**Audit type:** Independent, second-party (external interested party) documentation-compliance audit
-**Overall conclusion:** Does not conform (7 major non-conformities)
+**Audit standard:** ISO 19011:2018 (Guidelines for auditing management systems)  
+**Audit subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)  
+**Audit conducted:** October 2025 – January 2026  
+**Evidence collection:** 2022 – 2026  
+**Period under audit:** February 2021 – January 2026  
+**Audit type:** Independent, second-party (external interested party) documentation-compliance audit  
+**Overall conclusion:** Does not conform (7 major non-conformities)   
 
 ## Table of Contents
 
@@ -822,14 +822,14 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 ---
 
-**Audit lead:** Paul Rekaris, independent policy researcher
-**Audit framework:** ISO 19011:2018, with ANAO and open-source methods
-**Audit type:** independent, second-party documentation-compliance audit
-**Overall conclusion:** does not conform (7 major non-conformities)
+**Audit lead:** Paul Rekaris, independent policy researcher  
+**Audit framework:** ISO 19011:2018, with ANAO and open-source methods  
+**Audit type:** independent, second-party documentation-compliance audit  
+**Overall conclusion:** does not conform (7 major non-conformities)  
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Version 3.0** · 13 June 2026 · Fully restored merged version incorporating all evidence from Version 2 into Version 1's structure and tone, with all links, footnotes, MaPSAF reference, FOI review date/duration, "If Additional Documentation Exists" paragraph, and ISO Certification Status box restored. Commercial ISO checklist references dropped. Findings unchanged. Full changelog: audit-governance/version-history.md
+**Version 3.0** · 13 June 2026 ·
 
 [Back to top](#table-of-contents)
 
