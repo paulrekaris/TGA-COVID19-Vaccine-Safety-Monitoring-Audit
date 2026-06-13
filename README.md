@@ -648,10 +648,10 @@ The problem is straightforward: **TGA made commitments to Australians about enha
 This audit applies systematic evidence based principles consistent with:
 
 - **ISO 19011:2018 – Guidelines for Auditing Management Systems** - [ISO 19011 Management Systems Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md)
- - Evidence-based approach (Clause 4 f).
- - Risk-based approach (Clause 4 g).
- - Independence (Clause 4 e) and due professional care (Clause 4 c).
- - Fair presentation of findings and limitations (Clause 4 b).
+ - Evidence-based approach (Clause 4 f)
+ - Risk-based approach (Clause 4 g)
+ - Independence (Clause 4 e) and due professional care (Clause 4 c)
+ - Fair presentation of findings and limitations (Clause 4 b)
 
 - **ANAO Performance Audit Process and compliance standards** - [Performance Audit Process](https://www.anao.gov.au/work/insights/performance-audit-process)
   - Assessment against published plans and criteria  
