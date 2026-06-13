@@ -729,10 +729,10 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 ---
 
-Audit lead: Paul Rekaris, independent policy researcher.
-Audit framework: ISO 19011:2018, with ANAO and open-source methods.
-Audit type: independent, second-party documentation-compliance audit.
-Overall conclusion: does not conform (7 major non-conformities).
+Audit lead: Paul Rekaris, independent policy researcher  
+Audit framework: ISO 19011:2018, with ANAO and open-source methods  
+Audit type: independent, second-party documentation-compliance audit  
+Overall conclusion: does not conform (7 major non-conformities)  
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
