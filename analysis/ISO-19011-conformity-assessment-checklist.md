@@ -568,7 +568,7 @@ Reasons: 7 major non-conformities documented with objective evidence; only 16 pe
 
 ### Scale and Context
 
-The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring to compensate for reduced pre-market evidence. The documentation gaps were confirmed by the TGA's own OAIC-directed searches (531+ containers, September 2024), by OAIC Decision [2025] AICmr 54, by systematic review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of January 2026, no Commonwealth oversight body had initiated a dedicated performance audit into these documentation gaps.
+The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring to compensate for reduced pre-market evidence. The documentation gaps were confirmed by the TGA's own OAIC-directed searches (531+ containers, September 2024), by OAIC Decision [2025] AICmr 54, by systematic review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of June 2026, no Commonwealth oversight body had initiated a dedicated performance audit into these documentation gaps.
 
 ---
 
