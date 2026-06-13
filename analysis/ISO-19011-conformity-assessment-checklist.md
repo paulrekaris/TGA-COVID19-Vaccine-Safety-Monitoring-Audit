@@ -72,7 +72,7 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 
 - FOI 4029-03: the TGA presented Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021), while concurrent public reports carried no such output.
 - FOI 5275: the TGA does not hold the incidence data Strategy 2.3 required, indicating the AIR-denominator calculation was not performed.
-- FOI 4029-05: the Vaccine Safety Investigation Group (VSIG) was operational during the relevant period, yet child deaths were not referred to it for expert review, illustrating the gap between available mechanisms and systematic implementation.
+- FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review, against the TGA's own Work Instruction threshold (FOI 4029-06).
 - Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and gaps against ICH E2E and CIOMS Working Group VIII practice.
 - Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)** , confirming the repository contains all available Plan implementation evidence; no additional records were missed.
 - TGA Performance Reports 2022-23 and 2023-24 contain no explicit references to the COVID-19 Vaccine Safety Monitoring Plan.
@@ -396,7 +396,7 @@ Each finding states the criterion, the evidence, the finding and grade, and the 
 
 **Criterion.** The Plan's own review and evaluation commitments and PGPA s 38. ISO 19011 has no "continuous-improvement principle"; the criterion is the Plan's commitments and the statutory duty, not the audit guideline.
 
-**Evidence.** Expert system-gap findings (interviews 2020; published in Vaccine, 2021) recommending significant enhancement, including data linkage, system integration and population-level surveillance; Senate evidence (2025) consistent with the same gaps persisting; no documented corrective-action programme located. Further concrete evidence: FOI 4029-05 shows the Vaccine Safety Investigation Group (VSIG) was operational during the relevant period, yet child deaths that occurred during this time were not referred to VSIG for expert review. TGA Senate testimony claimed "burn out" prevented expert review, but the evidence shows the mechanism existed and was operational but was not utilised, demonstrating a gap between available processes and systematic implementation.
+**Evidence.** Expert system-gap findings (interviews 2020; published in Vaccine, 2021) recommending significant enhancement, including data linkage, system integration and population-level surveillance; Senate evidence (2025) consistent with the same gaps persisting; no documented corrective-action programme located. Further documentary evidence: FOI 4029-05 indicates the Vaccine Safety Investigation Group (VSIG) was operational during the relevant period (it assessed a fatal case in a 21-year-old in September 2022). The TGA's own VSIG Work Instruction (FOI 4029-06) records that youth deaths "had potential to change the favourable benefit-risk balance." The documentary record does not show that child deaths reported in the same period were referred to VSIG for expert review. This points to a gap between an available expert mechanism, the TGA's own stated criteria, and the documented practice.
 
 **Finding.** Major non-conformity. No evidence that the documented expert warnings were systematically addressed over the multi-year opportunity. The VSIG/child deaths example illustrates the gap between available expert mechanisms and systematic implementation.
 
@@ -504,7 +504,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | | 2.5 | Clinical studies and reports | ✗ Not doc | OAIC searches: no enhanced sponsor-report process |
 | | 2.6 | Environmental scanning | ✗ Not doc | OAIC searches: no systematic scanning process |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation; no systematic sharing protocol |
-| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; VSIG operational but child deaths not referred (FOI 4029-05) |
+| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; VSIG operational (FOI 4029-05); record does not show child deaths referred, against Work Instruction threshold (FOI 4029-06) |
 | **3: Regulatory action** | 3.1 | Regulatory/programmatic action | ◐ Partial | 57 actions; no documented rapid-response framework |
 | **4: Communications** | 4.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
 | **5: Collaborations** | 5.1 | National collaborations | ◐ Partial | State data visible; no formal frameworks documented |
