@@ -104,7 +104,8 @@ Core audit findings unchanged throughout. This release strengthens the evidence 
 - Updated reference lists and added new citations across affected documents.
 - Format changes and minor corrections throughout (no impact to findings).
 
-Note: Core audit findings unchanged. The findings are strengthened by the QON 559 analysis, the TGA Performance Reports review, and the July 2022 OAIC correspondence. Prior versions remain permanently accessible via Git history, the Zenodo DOI, and the NLA snapshot.
+**Note: Core audit findings unchanged. The findings are strengthened by the QON 559 analysis, the TGA Performance Reports review, and the July 2022 OAIC correspondence. Prior versions remain permanently accessible via Git history, the Zenodo DOI, and the NLA snapshot**.
+
 ---
 
 ## Version 1.9.2 (26 March 2026)
