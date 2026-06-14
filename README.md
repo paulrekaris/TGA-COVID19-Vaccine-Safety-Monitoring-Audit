@@ -912,7 +912,7 @@ Full license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 When citing this work, please use:
 
 **Zenodo (primary):**
-Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.2). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.3). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 **SSRN:**
 Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (January 12, 2026). Available at SSRN: https://ssrn.com/abstract=6333058 or http://dx.doi.org/10.2139/ssrn.6333058
