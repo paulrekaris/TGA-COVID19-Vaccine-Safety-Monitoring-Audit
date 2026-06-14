@@ -4,13 +4,13 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 26 March, 2026
+**Last updated:** 14 June, 2026
 
 
 ---
 
 ## Table of Contents
-
+- [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
 - [Version 1.9.2 (26 March 2026)](#version-192-26-march-2026)
 - [Version 1.9.1 (7 February 2026)](#version-191-7-february-2026)
 - [Version 1.9 (14 January 2026)](#version-19-14-january-2026)
@@ -25,6 +25,87 @@
 - [Version 1.5.1 (December 2025)](#version-151-december-2025)
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
+
+
+## Version 1.9.3 (June 2026)
+
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
+[Commits v1.9.2...v1.9.3](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.2...v1.9.3)
+
+Core audit findings unchanged throughout. This release strengthens the evidence base (Senate QON 559, TGA Performance Reports review, July 2022 OAIC correspondence), corrects framework and statutory citations, and adds reproducibility infrastructure. The 7 major non-conformities, the 19-output scope, and the conclusion that the Plan's enhanced monitoring framework cannot be verified from available documentation are unchanged.
+
+### Analysis and Methodology
+- Added Senate Question on Notice 559 (SQ25-001584) gap analysis (`analysis/qon-559-gap-analysis.md`): assessment of TGA's formal written answer against all five Plan strategies, alignment with all seven audit findings, and ISO 19011 principles applied. Derived finding: 150 signals investigated and 57 regulatory actions taken, leaving 93 signals with no publicly documented decision rationale (from TGA's own parliamentary figures). NON-CONFORMING rating confirmed by TGA's own formal written parliamentary answer.
+- Added review of the TGA Performance Reports for 2022-23 and 2023-24, identifying no explicit references to the COVID-19 Vaccine Safety Monitoring Plan despite discussion of COVID-19 vaccine evaluation and post-market monitoring.
+- Amended Finding 2 to make the implementation inference explicit: TGA's "day-to-day processes" characterisation indicates the enhanced framework was not operationalised as distinct from routine surveillance.
+- Noted the AusVaxSafety search-term omission in the evidence base discussion.
+- Added Malikova (2020) peer-reviewed pharmacovigilance reference to the ISO analysis (Finding 5, AusVaxSafety integration gap) and to the surveillance data analysis (Finding 1, absence of documented data-source reconciliation; Finding 3, unexplained expected-rates methodology gap), with reference lists standardised.
+- Updated `black-box-governance.md`: replaced Schmid et al. (2020) with Hood (2006) and Power (1997) for consistency with the transparency and auditability framework used across the work.
+- Aligned README audit principles with ISO 19011:2018 Clause 4: added the risk-based approach (4 g) and Clause 4 sub-references for each named principle; previously listed principles verified as correctly attributed.
+
+### Main Audit Report
+- Citation-accuracy and readability revision. ISO 19011:2018 clause references corrected throughout and verified against the standard: audit criteria and scope anchored to Clause 5.5.2; evidence collection and verification to Clause 6.4.7; generation of findings to Clause 6.4.8; audit conclusions to Clause 6.4.9 (with 6.4.9.1 b) for the treatment of audit uncertainty).
+- Re-anchored the two governance outputs (GOV.1, GOV.2) to the obligations that bind the auditee under the PGPA Act 2013 ss 37-39, rather than to ISO 19011, which provides the audit method.
+- Updated ANAO references to current products (Audit Insights and the ANAO Audit Manual), reflecting the withdrawal of the ANAO Better Practice Guides in 2018.
+- Re-characterised parliamentary evidence as given under parliamentary privilege rather than under oath, consistent with Senate estimates practice.
+- Aligned records-management references to the Archives Act 1983 s 24 and the records duty under the PGPA Act 2013 s 37.
+- Standardised status labels to the three-category scheme used throughout (Fully Implemented, Partially Implemented, Not Documented), correcting stray labels.
+- Clarified AusVaxSafety figures in Strategy 2.4 as survey-response counts rather than unique individuals, with medical-attention figures noted as self-reported rather than confirmed attendances; percentages unchanged.
+- Replaced "84% of Plan outputs not fully documented" with "Only 16% of Plan outputs have complete implementation documentation" in Key Findings.
+- May 2026 amendment incorporated: added a keywords section and clarified enhanced-monitoring wording to better reflect the regulatory basis and documented surveillance obligations.
+- Added date to the title page; added version-history amendment note; fixed a double negation (line 916). Readability edits throughout; no change to findings, ratings, or conclusions.
+
+### Evidence Matrix, Codebook and Dataset
+- Corrected transcription errors in the Summary sheet and cleaned the Evidence Matrix structure: corrected Rating by Objective values (Actions, Communications, National Collaborations); replaced the mean-of-means formula in the OVERALL row with a SUMPRODUCT weighted mean; corrected individual severity ratings for outputs 1.1, 1.2, 2.4, 2.5, 2.6 and 4.1; corrected the grand mean to 3.47; removed an orphan "Governance" header row, leaving a clean 19-row dataset. Status counts unchanged; no impact on audit findings.
+- Added the dataset codebook as markdown for GitHub rendering.
+- Aligned codebook evidence-tier definitions to Section 9.4 of the audit report for cross-document consistency.
+- Added cross-reference notes distinguishing the codebook evidence classification, the source-reliability framework, and the implementation-proof framework; and distinguishing the ISO 19011 checklist evidence hierarchy from the Section 9.4 source-reliability framework.
+- Revised the severity-rating scale definition to reflect output significance rather than documentation-gap severity, and aligned the Section 4 intro wording accordingly.
+- Clarified that the dataset comprises documentary materials only (government records, FOI responses, parliamentary testimony, public regulatory publications) and contains no clinical-trial data, patient records, or individual health information.
+
+### Replication and Reproducibility
+- Added `analysis/replication-readme.md`: replication code for the evidence-matrix summary statistics in Python, R and Stata, with file-structure notes for all five spreadsheet sheets, Stata variable-name guidance, and links to the dataset paper, codebook, and evidence matrix.
+- Added a Quick Start section to the replication readme with a minimal working example and expected output.
+- Added a Replication Materials section to the analysis README and updated the evidence-matrix description with instructional guidance and cross-references.
+- Added a verification bullet to the Quick Start path pointing readers to the Evidence Matrix with a five-minute reproduction path, linking to the data paper on SSRN.
+
+### Primary Sources
+- Added Senate QON 559 (SQ25-001584) to primary sources: TGA's formal written answer to the direct Plan-compliance question.
+- Added the redacted TGA letter to OAIC dated July 2022 (MR22-00538), in which the Assistant Secretary acknowledges "ample documents" exist demonstrating actions corresponding to each Plan objective, contrasting with the earlier FOI 3643 assertion that records do not exist.
+- Added the redacted TGA submission to OAIC (MR22/00538, September 2024) to the MR22-00538 folder, with links from the README and reference 26 of the ISO 19011 analysis.
+
+### Publications
+- Created `PUBLICATIONS.md` documenting the research-programme outputs, and added a Publications section to the main README linking to it.
+
+### Main README
+- Reframed the documentation headline to "Only 16% of Plan outputs have complete implementation documentation".
+- Added the QON 559 entry to the evidence-base section with a link to the gap analysis.
+- Edited the Senate citation heading and citation text.
+- Added a verification/reproducibility bullet to the Quick Start (Evidence Matrix five-minute path; data-paper SSRN link).
+- Added the Harvard Dataverse DOI badge and repository link; reorganised repository and archival badges into a clearer scholarly-infrastructure hierarchy.
+- Added the Mendeley Data DOI to the Open Review Architecture page.
+
+### Blockchain and Archival Verification
+- Corrected the Arweave transaction ID from the metadata transaction to the data transaction (`TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps`, 64.44 MB); added an Arweave verification screenshot (ViewBlock, 1,468 confirmations, block 1,884,750) and an Arweave verification badge.
+- Added Bitcoin timestamp verification for v1.9.2 (SHA-256 `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`, Bitcoin block 942725, 29 March 2026 AEDT); updated the Bitcoin Timestamp section to a dual-version format (v1.9.2 and v1.9.0) with verification screenshots, `.ots` proof files, and independent verification instructions; added a Bitcoin Block Explorer badge and standardised Bitcoin badge colours.
+- Updated blockchain verification status from "pending" to "confirmed" for v1.9.2.
+- Added the LOCKSS principle ("Lots of Copies Keep Stuff Safe") to the archival rationale and badge row.
+- Added the three ISO standards badges to the badge header rows (ISO 19011:2018, ISO 15489-1:2016, ISO 14721:2025), previously referenced only in page content.
+- Added the Harvard Dataverse repository record and metadata; reorganised the scholarly repository references.
+- Added the ACRCR preservation statement and link to the Preservation Standard section.
+- Refactored archive links (main README, FAQ, blockchain README) to point to `blockchain-and-archival-verification/` rather than a direct PDF; fixed broken link syntax in the Quick Start permanent-archive line; corrected Last Updated dates.
+
+### Repositories and Links
+- Updated SSRN files and SocArXiv links and badges from v1 to v3.
+- Aligned the workflow evidence-tier hierarchy with the codebook (strongest to weakest; Tier 1 = OAIC).
+
+### Other Changes
+- Updated reference lists and added new citations across affected documents.
+- Format changes and minor corrections throughout (no impact to findings).
+
+Note: Core audit findings unchanged. The findings are strengthened by the QON 559 analysis, the TGA Performance Reports review, and the July 2022 OAIC correspondence. Prior versions remain permanently accessible via Git history, the Zenodo DOI, and the NLA snapshot.
+---
 
 ## Version 1.9.2 (26 March 2026)
 
