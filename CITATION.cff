@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 message: "If using this TGA audit, cite as below."
 title: "Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit"
-version: "1.9.2"
+version: "1.9.3"
 abstract: "ISO 19011:2018 citizen-led audit of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation (68.4M provisional doses). Documents gaps in verifiable records."
 authors:
   - family-names: "Rekaris"
@@ -16,4 +16,4 @@ keywords:
   - "FOI audit"
 doi: 10.5281/zenodo.17731054
 repository-code: "https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit"
-date-released: "2026-03-26"
+date-released: "2026-06-15"
