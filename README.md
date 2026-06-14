@@ -924,9 +924,9 @@ Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vac
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {March},
+  month = {June},
   year = {2026},
-  version = {1.9.2},
+  version = {1.9.3},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -1017,8 +1017,8 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History
 
-**Document Version:** 1.9.2   
-**Last Updated:** 13 June 2026  
+**Document Version:** 1.9.3  
+**Last Updated:** 15 June 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
