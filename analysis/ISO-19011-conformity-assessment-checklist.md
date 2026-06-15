@@ -140,7 +140,7 @@ The audit uses two forms of reasoning.
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
 - **Arweave (blockchain):** https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 
-Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/read.md](../blockchain-and-archival-verification/read.md).
+Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/read.md](../blockchain-and-archival-verification/README.md)
 
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. This work is open source and open for feedback, correction, and collaborative improvement.
 
