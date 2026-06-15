@@ -6,9 +6,9 @@ This audit is protected by multiple verification and archival methods including 
 
 [![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html) [![LOCKSS](https://img.shields.io/badge/LOCKSS-Lots%20of%20Copies%20Keep%20Stuff%20Safe-8C1515?labelColor=8C1515&style=flat-square)](https://www.lockss.org/) 
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v3-C0392B?labelColor=C0392B)](https://doi.org/10.31235/osf.io/sb4gz_v3) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz__v3-C0392B?labelColor=C0392B)](https://osf.io/preprints/socarxiv/sb4gz) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) 
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave Verified](https://img.shields.io/badge/Arweave-Confirmation-000000?logo=arweave&logoColor=white&style=flat-square)](arweave-transaction-verification-2026-03-29.png) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave Verified](https://img.shields.io/badge/Arweave-Confirmation-000000?logo=arweave&logoColor=white&style=flat-square)](arweave-transaction-verification-2026-03-29.png) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3)
 
 ## Table of Contents
 
@@ -28,9 +28,9 @@ This audit is protected by multiple verification and archival methods including 
 
 ## Rationale for Platform Selection
 
-Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic standards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
+Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic ards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
 
-The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuff Safe") — the established digital preservation standard that no single archive, platform, or jurisdiction should be a single point of failure for material of enduring public significance.
+The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuff Safe") — the established digital preservation ard that no single archive, platform, or jurisdiction should be a single point of failure for material of enduring public significance.
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
@@ -162,7 +162,8 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 **Submission Date:** 16 March 2026     
 **Accepted Date:** 17 March 2026     
-**Preprint DOI:** 10.31235/osf.io/sb4gz_v3    
+**Preprint DOI:** 10.31235/osf.io/sb4gz_v4
+**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan     
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0  
@@ -171,7 +172,7 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ### Significance
 
-SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly standards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and Google Scholar. The audit was accepted following pre-moderation on 17 March 2026, confirming the work meets scholarly standards for social science and policy research.
+SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly ards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and Google Scholar. The audit was accepted following pre-moderation on 17 March 2026, confirming the work meets scholarly ards for social science and policy research.
 
 ### Access
 
@@ -229,9 +230,8 @@ Arweave provides permanent, immutable storage of the complete audit archive. The
 
 ## Internet Archive (Wayback Machine)
 
-**Latest Snapshot:** February 1, 2026, 12:05 PM AEDT  
-**Archive URL:** https://web.archive.org/web/20260201010511/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit  
-**Status:** CAPTURED - Publicly Accessible
+**Latest Snapshot:** 15 June 2026  
+**Archive URL:** https://web.archive.org/web/20260615104416/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
 ### Significance
 
@@ -251,21 +251,41 @@ To view historical snapshots:
 
 ---
 
-## Internet Archive – Direct Upload   
+## Internet Archive – Direct Upload
 
-**Upload Date:** 26 March 2026     
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan    
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.1.zip (uploaded 8 February 2026)    
-**Licence:** CC BY 4.0        
-**Status:** UPLOADED - Publicly Accessible         
+### Current Version (v1.9.3) — Full Repository
+**Upload Date:** 15 June 2026
+**Added Date:** 2026-06-15 10:31:58 UTC
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3
+**ARK:** ark:/13960/s286k8jsv6x
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.3.zip
+**Licence:** CC BY 4.0
+**Status:** UPLOADED - Publicly Accessible
 
-### Significance
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3
 
-Direct upload to Internet Archive provides an independent, complete copy of the repository archive beyond Wayback Machine web snapshots. Ensures full file-level access to the complete audit repository regardless of GitHub or Zenodo availability.      
+### Current Version (v1.9.3) — Audit Report PDF
+**Upload Date:** 15 June 2026
+**Added Date:** 2026-06-15 10:10:43 UTC
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report
+**ARK:** ark:/13960/s2p1rjx1r14
+**File:** tga-covid19-vaccine-safety-monitoring-audit-report.pdf
+**Licence:** CC BY 4.0
+**Status:** UPLOADED - Publicly Accessible
 
-### Access
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
 
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1      
+### Previous Version (v1.9.1/v1.9.2)
+**Upload Date:** 25 March 2026
+**Added Date:** 2026-02-08 06:02:55 UTC
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+**ARK:** ark:/13960/s217k4jpdgp
+**File:** documentation-gap-analysis-audit-report.pdf
+**Licence:** CC BY 4.0
+**Status:** UPLOADED - Publicly Accessible
+**Note:** Identifier reflects v1.9.1 (original upload February 2026). Internet Archive identifiers cannot be changed after creation. Content updated to v1.9.2 on 25 March 2026.
+
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
 
 ---
 
@@ -276,15 +296,17 @@ This audit is protected by multiple independent verification methods:
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
 - **Zenodo:** DOI-backed permanent academic archive: 10.5281/zenodo.17731054
 - **Harvard Dataverse:** Harvard University research data repository supporting long-term preservation, citation, and reproducibility: https://doi.org/10.7910/DVN/BDKZQJ  
-- **SSRN:** Academic preprint repository; indexed by Google Scholar: https://ssrn.com/abstract=6333058  
+- **SSRN:** Academic preprint repository; indexed by ORCID: https://ssrn.com/abstract=6333058  
 - **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS: https://data.mendeley.com/datasets/y5wmt6f8j9  
-- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by Google Scholar: https://doi.org/10.31235/osf.io/sb4gz_v3  
+- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by ORCID: https://doi.org/10.31235/osf.io/sb4gz_v4  
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
 - **GitHub:** Public version control with complete history
 
-[Permanent Archive Records](permanent-archive-records-2026-06-15.pdf)
+**Dataset Paper:** The companion dataset paper and evidence matrix are separately archived at Zenodo (10.5281/zenodo.20175557) and SSRN (10.2139/ssrn.6610438).  
+
+Full deposit records are maintained in [permanent-archive-records-2026-06-15.pdf](permanent-archive-records-2026-06-15.pdf).
 
 ### Preservation Standard
 
@@ -302,4 +324,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 2026-05-23
+**Last updated:** 2026-06-15
