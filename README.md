@@ -636,7 +636,7 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 
 - It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
 - Enhanced monitoring was distinct from routine “day‑to‑day processes”, as provisional approval requires.  
-- It maintained audit trails linking 148 investigated signals to 57 regulatory actions, as international standards envisage.  
+- It maintained audit trails linking 150 investigated signals to 57 regulatory actions, as international standards envisage.  
 - It verified, and documented verification of, provisional‑approval conditions before 68.4 million doses transitioned to full registration.  
 - It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
 
