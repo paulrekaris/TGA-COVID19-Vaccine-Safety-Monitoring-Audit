@@ -135,10 +135,12 @@ The audit uses two forms of reasoning.
 - **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive) https://doi.org/10.5281/zenodo.17731054
 - **Harvard Dataverse:** 10.7910/DVN/BDKZQJ (Harvard University research data repository) https://doi.org/10.7910/DVN/BDKZQJ
 - **SSRN:** 10.2139/ssrn.6333058 (social science preprint repository) https://doi.org/10.2139/ssrn.6333058
-- **SocArXiv:** 10.31235/osf.io/sb4gz_v3 (open access preprint repository) https://doi.org/10.31235/osf.io/sb4gz_v3
+- **SocArXiv:** 10.31235/osf.io/sb4gz (open access preprint repository) https://doi.org/10.31235/osf.io/sb4gz
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
-- **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+- **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
 - **Arweave (blockchain):** https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
+
+Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/read.md](../blockchain-and-archival-verification/read.md).
 
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. This work is open source and open for feedback, correction, and collaborative improvement.
 
