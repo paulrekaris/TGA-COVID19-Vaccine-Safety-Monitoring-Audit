@@ -327,7 +327,7 @@ The core audit finding — NON-CONFORMING — stands.
 
 ## References
 
-1. Parliament of Australia. (2025). Senate Question on Notice 559 — SQ25-001584: Covid-19 Vaccine Safety Monitoring Plan. Community Affairs Legislation Committee, Supplementary Budget Estimates 2025-26. /primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf
+1. Parliament of Australia. (2025). Senate Question on Notice 559 — SQ25-001584: Covid-19 Vaccine Safety Monitoring Plan. Community Affairs Legislation Committee, Supplementary Budget Estimates 2025-26. [Senate QON 559 (SQ25-001584)](../primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
 2. Parliament of Australia. (2025). Senate Community Affairs Legislation Committee Estimates — 9 October 2025. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
