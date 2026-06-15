@@ -284,7 +284,7 @@ This audit is protected by multiple independent verification methods:
 - **Internet Archive:** Web presence verification with dated snapshots
 - **GitHub:** Public version control with complete history
 
-[Permanent Archive Records](permanent-archive-records-2026-05-12.pdf)
+[Permanent Archive Records](permanent-archive-records-2026-06-15.pdf)
 
 ### Preservation Standard
 
