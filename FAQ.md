@@ -43,7 +43,7 @@ For more information please see: [Open Review Architecture](audit-governance/ope
 - **Harvard Dataverse:** https://doi.org/10.7910/DVN/BDKZQJ
 - **SSRN:** https://doi.org/10.2139/ssrn.6333058
 - **Mendeley Data:** https://doi.org/10.17632/y5wmt6f8j9
-- **SocArXiv:** https://doi.org/10.31235/osf.io/sb4gz_v3  
+- **SocArXiv:** https://doi.org/10.31235/osf.io/sb4gz  
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
 
@@ -489,7 +489,7 @@ Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent 
 
 ### Q20: How many safety signals were investigated?
 
-TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory actions. However, 91 signals (61%) have no documented disposition or decision criteria. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
+TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory actions. However, 91 signals (61%) have no documented disposition or decision criteria. Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
 
 ### Q21: What’s the AusVaxSafety integration gap?
 
@@ -668,7 +668,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - Harvard Dataverse: https://doi.org/10.7910/DVN/BDKZQJ
 - SSRN: https://doi.org/10.2139/ssrn.6333058
 - Mendeley Data: https://doi.org/10.17632/y5wmt6f8j9
-- SocArXiv: https://doi.org/10.31235/osf.io/sb4gz_v3  
+- SocArXiv: https://doi.org/10.31235/osf.io/sb4gz  
 - National Library of Australia – Legal Deposit: NED447016P1081502 [https://nla.gov.au/nla.obj-4148163541/view](https://nla.gov.au/nla.obj-4148163541/view)
 - Bitcoin timestamp: 29 March 2026
 - Arweave (blockchain): [Permanent Storage](blockchain-and-archival-verification/)
@@ -777,7 +777,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 23 May 2026   
+**Last Updated:** 16 June 2026   
 **Licence:** CC BY 4.0
 
 
