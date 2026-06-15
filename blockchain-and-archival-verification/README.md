@@ -253,39 +253,39 @@ To view historical snapshots:
 
 ## Internet Archive – Direct Upload
 
-### Current Version (v1.9.3) — Full Repository
-**Upload Date:** 15 June 2026
-**Added Date:** 2026-06-15 10:31:58 UTC
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3
-**ARK:** ark:/13960/s286k8jsv6x
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.3.zip
-**Licence:** CC BY 4.0
-**Status:** UPLOADED - Publicly Accessible
+### Current Version (v1.9.3) — Full Repository   
+**Upload Date:** 15 June 2026   
+**Added Date:** 2026-06-15 10:31:58 UTC   
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3   
+**ARK:** ark:/13960/s286k8jsv6x  
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.3.zip   
+**Licence:** CC BY 4.0  
+**Status:** UPLOADED - Publicly Accessible  
 
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3  
 
-### Current Version (v1.9.3) — Audit Report PDF
-**Upload Date:** 15 June 2026
-**Added Date:** 2026-06-15 10:10:43 UTC
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report
-**ARK:** ark:/13960/s2p1rjx1r14
-**File:** tga-covid19-vaccine-safety-monitoring-audit-report.pdf
-**Licence:** CC BY 4.0
-**Status:** UPLOADED - Publicly Accessible
+### Current Version (v1.9.3) — Audit Report PDF  
+**Upload Date:** 15 June 2026   
+**Added Date:** 2026-06-15 10:10:43 UTC  
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report  
+**ARK:** ark:/13960/s2p1rjx1r14  
+**File:** tga-covid19-vaccine-safety-monitoring-audit-report.pdf  
+**Licence:** CC BY 4.0  
+**Status:** UPLOADED - Publicly Accessible  
 
 **Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
 
-### Previous Version (v1.9.1/v1.9.2)
-**Upload Date:** 25 March 2026
-**Added Date:** 2026-02-08 06:02:55 UTC
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
-**ARK:** ark:/13960/s217k4jpdgp
-**File:** documentation-gap-analysis-audit-report.pdf
-**Licence:** CC BY 4.0
-**Status:** UPLOADED - Publicly Accessible
-**Note:** Identifier reflects v1.9.1 (original upload February 2026). Internet Archive identifiers cannot be changed after creation. Content updated to v1.9.2 on 25 March 2026.
+### Previous Version (v1.9.1/v1.9.2)   
+**Upload Date:** 25 March 2026  
+**Added Date:** 2026-02-08 06:02:55 UTC  
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1   
+**ARK:** ark:/13960/s217k4jpdgp   
+**File:** documentation-gap-analysis-audit-report.pdf   
+**Licence:** CC BY 4.0  
+**Status:** UPLOADED - Publicly Accessible   
+**Note:** Identifier reflects v1.9.1 (original upload February 2026). Internet Archive identifiers cannot be changed after creation. Content updated to v1.9.2 on 25 March 2026.  
 
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1  
 
 ---
 
