@@ -96,7 +96,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 ## Zenodo Archive
 
 **DOI:** 10.5281/zenodo.17731054 (all versions)  
-**Version:** v1.9.2
+**Version:** v1.9.2 (v1.9.3 pending)
 **Upload Date:** 26 March 2026  
 **Title:** Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan  
 **Author:** Paul Rekaris  
