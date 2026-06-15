@@ -43,7 +43,7 @@ For more information please see: [Open Review Architecture](audit-governance/ope
 - **Harvard Dataverse:** https://doi.org/10.7910/DVN/BDKZQJ
 - **SSRN:** https://doi.org/10.2139/ssrn.6333058
 - **Mendeley Data:** https://doi.org/10.17632/y5wmt6f8j9
-- **SocArXiv:** https://doi.org/10.31235/osf.io/sb4gz  
+- **SocArXiv:** https://osf.io/preprints/socarxiv/sb4gz  
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
 
@@ -668,7 +668,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - Harvard Dataverse: https://doi.org/10.7910/DVN/BDKZQJ
 - SSRN: https://doi.org/10.2139/ssrn.6333058
 - Mendeley Data: https://doi.org/10.17632/y5wmt6f8j9
-- SocArXiv: https://doi.org/10.31235/osf.io/sb4gz  
+- SocArXiv: https://osf.io/preprints/socarxiv/sb4gz  
 - National Library of Australia – Legal Deposit: NED447016P1081502 [https://nla.gov.au/nla.obj-4148163541/view](https://nla.gov.au/nla.obj-4148163541/view)
 - Bitcoin timestamp: 29 March 2026
 - Arweave (blockchain): [Permanent Storage](blockchain-and-archival-verification/)
