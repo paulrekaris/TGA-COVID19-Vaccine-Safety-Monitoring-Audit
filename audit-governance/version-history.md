@@ -96,9 +96,13 @@ Core audit findings unchanged throughout. This release strengthens the evidence 
 - Added the ACRCR preservation statement and link to the Preservation Standard section.
 - Refactored archive links (main README, FAQ, blockchain README) to point to `blockchain-and-archival-verification/` rather than a direct PDF; fixed broken link syntax in the Quick Start permanent-archive line; corrected Last Updated dates.
 
-### Repositories and Links
-- Updated SSRN files and SocArXiv links and badges from v1 to v3.
-- Aligned the workflow evidence-tier hierarchy with the codebook (strongest to weakest; Tier 1 = OAIC).
+### Repositories and archival records 
+- Uploaded audit report PDF and full repository zip to Internet Archive
+- Triggered Wayback Machine snapshot of GitHub repository
+- SocArXiv links and badges updated to current version 
+- SSRN dataset paper posted (Abstract ID: 6610438)
+- Zenodo dataset paper v2.3 published (DOI: 10.5281/zenodo.20637857)
+- Permanent archive records updated
 
 ### Other Changes
 - Updated reference lists and added new citations across affected documents.
