@@ -205,7 +205,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
-> TGA investigated 150 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150 after senate testimony, with 93 signals having no publicly documented decision rationale), but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
+> TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150 after senate testimony, with 93 signals having no publicly documented decision rationale), but has published no documentation linking specific signals to specific actions or explaining the decision criteria applied.  
 > 
 > #### 5. AusVaxSafety integration cannot be demonstrated
 > Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration. AusVaxSafety conducted 6.8 million SMS surveys capturing approximately 3 million adverse events and described its program as operating "as part of" the TGA-led national pharmacovigilance plan. No coordination protocols, data integration frameworks, or audit trails showing how these active surveillance findings informed TGA signal detection or regulatory decisions have been located through four years of FOI requests, OAIC-directed searches, or systematic review of published TGA material. TGA's OAIC-directed searches omitted "AusVaxSafety" as a search term entirely — a significant methodological gap given its explicit role in the Plan.
@@ -332,7 +332,7 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 
 - No published documentation linking individual signals to specific actions.  
 - No documented investigation protocols applied to each signal.  
-- No decision‑making criteria explaining why 57 signals led to actions while 91 did not.  
+- No decision‑making criteria explaining why 57 signals led to actions while 93 did not.  
 - No signal‑by‑signal audit trails enabling independent scrutiny.
 
 **Why this matters**
