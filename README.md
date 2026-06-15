@@ -1044,19 +1044,16 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **Mendeley Data:** [10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) (companion dataset to SSRN preprint)
 
-- **SocArXiv:** [10.31235/osf.io/sb4gz_v3](https://doi.org/10.31235/osf.io/sb4gz_v3) Social science preprint repository; indexed by Google Scholar
-  
+- **SocArXiv:** [10.31235/osf.io/sb4gz](https://osf.io/preprints/socarxiv/sb4gz) Social science preprint repository
+
 - **Bitcoin Timestamp:** 29 March 2026, 3:29 PM AEDT  
   SHA-256: `eb0cbfc1b582f861b7c103120a491640ee3c1c4f1ac3606c80d0751564610347`    
   Verification Screenshot: [View](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png)
 
 - **Arweave:** [Permanent Storage](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
-- **Internet Archive:** [Full Repository](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)  
-  Complete archive and dated snapshots proving public web presence
-
-- **GitHub Repository:** [TGA COVID-19 Vaccine Safety Monitoring Audit](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)  
-  Public version control with full history
+- **Internet Archive:** [Full Repository (v1.9.3)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3) | [Audit Report PDF](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)  
+ Complete archive and dated snapshots proving public web presence
 
 The archival stack was designed to ensure dissemination, reproducibility, and national permanence.  The rationale is documented in the [Permanent Archive README](blockchain-and-archival-verification/README.md#rationale-for-platform-selection).  
 
