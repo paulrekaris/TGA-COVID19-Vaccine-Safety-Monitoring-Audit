@@ -113,4 +113,4 @@ This workflow checklist aligns with the following frameworks:
 
 ---
 
-**Last Updated:** 2026-03-24
+**Last Updated:** 24 March 2026
