@@ -34,7 +34,7 @@ The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuf
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
-- **SocArXiv/OSF**: Primary open-access preprint repository for social science; indexed by Google Scholar; hosted by the Center for Open Science
+- **SocArXiv/OSF**: Primary open-access preprint repository for social science; indexed by ORCID; hosted by the Center for Open Science
 
 **Reproducibility and Archiving**
 - **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
@@ -102,7 +102,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0  
 **Status:** PUBLISHED — Publicly Accessible  
-**Indexed:** Google Scholar, ORCID
+**Indexed:** ORCID
 
 ### Significance
 
@@ -149,7 +149,7 @@ Harvard Dataverse is a major scholarly research data repository operated by Harv
 
 ### Significance
 
-SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by Google Scholar. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification. Both SSRN and Mendeley Data are Elsevier platforms, providing discoverability within the same academic ecosystem and a direct preprint-to-dataset link.
+SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by ORCID. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification. Both SSRN and Mendeley Data are Elsevier platforms, providing discoverability within the same academic ecosystem and a direct preprint-to-dataset link.
 
 ### Access
 **Direct Link:** https://ssrn.com/abstract=6333058  
@@ -168,11 +168,11 @@ SSRN is the world's largest preprint repository for social science, law, economi
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0  
 **Status:** ACCEPTED — Publicly Accessible and Searchable  
-**Indexed:** Google Scholar
+**Indexed:** ORCID
 
 ### Significance
 
-SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly ards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and Google Scholar. The audit was accepted following pre-moderation on 17 March 2026, confirming the work meets scholarly ards for social science and policy research.
+SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly ards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and ORCID. The audit was accepted following pre-moderation on 17 March 2026, confirming the work meets scholarly ards for social science and policy research.
 
 ### Access
 
