@@ -138,7 +138,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
-**ANAO Better Practice** - Performance assessment against published plans and criteria.
+*ANAO Performance Audit Standards — Performance assessment against published plans and criteria, consistent with ANAO performance audit methodology and ISSAI standards. 
 
 **OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles. 
 
