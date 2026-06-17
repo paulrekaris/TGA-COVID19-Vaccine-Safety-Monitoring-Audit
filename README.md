@@ -138,7 +138,7 @@ and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 **ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
-*ANAO Performance Audit Standards — Performance assessment against published plans and criteria, consistent with ANAO performance audit methodology and ISSAI standards. 
+**ANAO Performance Audit Standards** — Performance assessment against published plans and criteria, consistent with ANAO performance audit methodology and ISSAI standards. 
 
 **OSINT Methodology** - Systematic evidence collection from publicly accessible sources following established open-source intelligence principles. 
 
@@ -218,7 +218,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 audited Plan outputs.
 >
 > #### 8. Safety Monitoring Plan did not meet auditability standards
->The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO better practice guidance. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five objectives; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
+>The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO performance audit standards. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five objectives; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
 
 ## The Accountability Standard
 
@@ -307,7 +307,7 @@ Each plausible explanation points to a serious failure in implementation, docume
 
 ### Implementation Status by the Numbers
 
-The assessment systematically evaluated all 19 plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO better‑practice guidance. [^plan-scope]
+The assessment systematically evaluated all 19 plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO performance audit standards. [^plan-scope]
 
 **Overall implementation**          
 
