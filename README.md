@@ -287,7 +287,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
   - 148 safety signals were investigated and 57 regulatory actions taken – yet **no documentation links specific signals to specific actions**.
 
-A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. A decision is pending as of March 2026.
+A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. A decision is pending as of June 2026.
 
 All key documentation and evidence is provided in the [primary sources](primary-sources/) folder.
 
@@ -623,7 +623,7 @@ This assessment has been provided to multiple oversight bodies:
 - **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
 - **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision. IC review for MR25/01153 still pending.
-- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 26 March 2026.
+- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 17 June 2026.
 
 Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
 
