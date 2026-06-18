@@ -17,7 +17,7 @@ This audit is protected by multiple verification and archival methods including 
 | Scholarly dissemination | Discoverability and academic reach | SSRN, SocArXiv | Can it be found and read? |
 | Research data preservation | Long-term access to evidence | Harvard Dataverse, Mendeley Data | Is the evidence independently accessible? |
 | Citable archival record | Stable scholarly citation | Zenodo DOI | Can it be precisely cited? |
-| Reproducibility | Transparency and independent replication | GitHub | Can the methodology be traced and replicated? |
+| Reproducibility and version control  | Transparency and independent replication, and version history | GitHub | Can the methodology be traced and replicated? |
 | Long-term preservation | Protection against loss or suppression | NLA, Internet Archive | Will it survive platform failure? |
 | Cryptographic verification | Proof of existence and integrity | Bitcoin OpenTimestamps, Arweave | Did it exist at a specific point in time? |
 | Independent scholarly scrutiny | Evaluation by subject-matter experts | Journal peer review | Is the work sufficiently rigorous? |
