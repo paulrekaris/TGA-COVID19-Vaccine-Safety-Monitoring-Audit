@@ -10,6 +10,19 @@ This audit is protected by multiple verification and archival methods including 
 
 [![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Storage-FF4E42)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave Verified](https://img.shields.io/badge/Arweave-Confirmation-000000?logo=arweave&logoColor=white&style=flat-square)](arweave-transaction-verification-2026-03-29.png) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3)
 
+## Research Infrastructure Architecture
+
+| Function | Purpose | Mechanism | Question Answered |
+|---|---|---|---|
+| Scholarly dissemination | Discoverability and academic reach | SSRN, SocArXiv | Can it be found and read? |
+| Research data preservation | Long-term access to evidence | Harvard Dataverse, Mendeley Data | Is the evidence independently accessible? |
+| Citable archival record | Stable scholarly citation | Zenodo DOI | Can it be precisely cited? |
+| Reproducibility | Transparency and independent replication | GitHub | Can the methodology be traced and replicated? |
+| Long-term preservation | Protection against loss or suppression | NLA, Internet Archive | Will it survive platform failure? |
+| Cryptographic verification | Proof of existence and integrity | Bitcoin OpenTimestamps, Arweave | Did it exist at a specific point in time? |
+| Independent scholarly scrutiny | Evaluation by subject-matter experts | Journal peer review | Is the work sufficiently rigorous? |
+
+
 ## Table of Contents
 
 - [Rationale for Platform Selection](#rationale-for-platform-selection)
