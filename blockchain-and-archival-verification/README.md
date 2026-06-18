@@ -47,7 +47,7 @@ The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuf
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
-- **SocArXiv/OSF**: Primary open-access preprint repository for social science; indexed by ORCID; hosted by the Center for Open Science
+- **SocArXiv/OSF**: Primary open-access preprint repository for social science; registerd by ORCID; hosted by the Center for Open Science
 
 **Reproducibility and Archiving**
 - **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
@@ -115,7 +115,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 **Author:** Paul Rekaris     
 **Licence:** CC BY 4.0     
 **Status:** PUBLISHED — Publicly Accessible     
-**Indexed:** ORCID   
+**Registered:** ORCID   
 
 ### Significance
 
@@ -162,7 +162,7 @@ Harvard Dataverse is a major scholarly research data repository operated by Harv
 
 ### Significance
 
-SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and indexed by ORCID. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification. Both SSRN and Mendeley Data are Elsevier platforms, providing discoverability within the same academic ecosystem and a direct preprint-to-dataset link.
+SSRN is the world's largest preprint repository for social science, law, economics, and public policy research, owned by Elsevier and registered by ORCID. Listing ensures the audit appears in academic search results globally and is discoverable by researchers, parliamentary staff, legal practitioners, and journalists using academic search tools. The audit sits within the policy and governance research domain rather than medical preprint classification. Both SSRN and Mendeley Data are Elsevier platforms, providing discoverability within the same academic ecosystem and a direct preprint-to-dataset link.
 
 ### Access
 **Direct Link:** https://ssrn.com/abstract=6333058  
@@ -181,7 +181,7 @@ SSRN is the world's largest preprint repository for social science, law, economi
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0  
 **Status:** ACCEPTED — Publicly Accessible and Searchable  
-**Indexed:** ORCID
+**Registered:** ORCID
 
 ### Significance
 
@@ -309,9 +309,9 @@ This audit is protected by multiple independent verification methods:
 - **National Library of Australia:** Official Australian Government archive with legal deposit registration and selective historical web archiving (AWA)
 - **Zenodo:** DOI-backed permanent academic archive: 10.5281/zenodo.17731054
 - **Harvard Dataverse:** Harvard University research data repository supporting long-term preservation, citation, and reproducibility: https://doi.org/10.7910/DVN/BDKZQJ  
-- **SSRN:** Academic preprint repository; indexed by ORCID: https://ssrn.com/abstract=6333058  
+- **SSRN:** Academic preprint repository; registered by ORCID: https://ssrn.com/abstract=6333058  
 - **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS: https://data.mendeley.com/datasets/y5wmt6f8j9  
-- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; indexed by ORCID: https://doi.org/10.31235/osf.io/sb4gz_v4  
+- **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; registered by ORCID: https://doi.org/10.31235/osf.io/sb4gz_v4  
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
