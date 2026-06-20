@@ -77,6 +77,10 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - **QON response received December 2025** — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" produces no documentary evidence of systematic implementation; 93 of 150 investigated signals have no publicly documented decision rationale
 - [Senate Questions on Notice — Community Affairs](https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md) | [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) | [QON 559 document](primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
+**27 November and 10 December 2025**
+- **ANAO submissions** — requesting a dedicated performance audit of TGA's COVID-19 vaccine pharmacovigilance implementation and compliance with provisional-approval conditions
+- ANAO response received confirming the request has been passed to the annual audit work program team for consideration. The 2026-27 Annual Audit Work Program is expected July 2026.
+
 **16 December 2025**
 - Audit provided to key Senate Community Affairs Legislation Committee members to inform questioning and oversight
 
@@ -103,7 +107,6 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [Commonwealth Ombudsman](primary-sources/ombudsman/)
 
 ## Summary
-
 | Date | Event |
 |---|---|
 | February 2022 | FOI 3643 submitted; refused — no implementation report exists |
@@ -115,7 +118,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 | June 2025 | IC review MR25/01153 lodged |
 | 9 October 2025 | Senate testimony — monitoring was "day-to-day processes" |
 | 17 October 2025 | QON SQ25-001584 placed on notice |
-| December 2025 | QON response — no systematic tracking, 93 of 150 signals undocumented |
+| November–December 2025 | ANAO submissions lodged; QON response received — no systematic tracking, 93 of 150 signals undocumented |
 | 24 March 2026 | Australian Senate — audit cited by name, Senator Malcolm Roberts |
 | Mid-2027 (est.) | OAIC MR25/01153 determination anticipated |
 
