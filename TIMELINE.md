@@ -49,7 +49,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 **April 2025**
 - **FOI 25-0166** — TGA identifies 399 Plan-aligned documents across 12 document categories but refuses to process them under practical refusal provisions, claiming classification by Plan objectives requires "subjective interpretation" despite having successfully classified 2,218+ pages nine months earlier
-[FOI 25-0166 analysis](primary-sources/foi/foi-25-0166/foi-25-0166-analysis.md)
+- [FOI 25-0166 analysis](primary-sources/foi/foi-25-0166/foi-25-0166-analysis.md)
   
 **1 April 2025**
 - **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration
@@ -83,6 +83,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 **16 December 2025**
 - Audit provided to key Senate Community Affairs Legislation Committee members to inform questioning and oversight
+- [Correspondence](primary-sources/correspondence/)
 
 ---
 
@@ -104,7 +105,8 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [OAIC MR25/01153 primary sources](primary-sources/oaic/MR25-01153/README.md)
 
 **Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — no action commenced as of June 2026.
-- [Commonwealth Ombudsman](primary-sources/ombudsman/)
+- [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
+
 
 ## Summary
 | Date | Event |
