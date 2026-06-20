@@ -342,7 +342,7 @@ Each finding states the criterion, the evidence, the finding and grade, and the 
 
 **Finding.** Major non-conformity. No systematic mechanism existed to track implementation of the Plan.
 
-TGA’s formal OAIC submission (20 September 2024, MR22/00538, page 15) states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” This is the Department’s own acknowledgement in formal proceedings that no internal mechanism existed to assess whether the Plan’s outputs were achieved — directly corroborating this finding from within TGA’s own documentary record.
+TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” This is the Department’s own acknowledgement in formal proceedings that no internal mechanism existed to assess whether the Plan’s outputs were achieved — directly corroborating this finding from within TGA’s own documentary record.
 
 **Impact.** Conformity with the formal monitoring commitment cannot be demonstrated; there is no accountability framework against which delivery could be assessed.
 
@@ -780,7 +780,7 @@ Method: two independent searchers (a senior medical officer and an assistant dir
 
 Results: no implementation reports; no evaluation documents; no systematic Plan-tracking documentation. The only documents located were emails to the applicant stating that no implementation report exists.
 
-Attachment D of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
+Attachment B, page 29 of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
 
 Gaps identified:
 
