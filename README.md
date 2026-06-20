@@ -627,6 +627,7 @@ This assessment has been provided to multiple oversight bodies:
 
 Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
 
+For the full chronology of FOI requests, OAIC proceedings, Senate engagement, and oversight body submissions from February 2022 see Investigation Timeline.
 
 ## The Call for Investigation
 
