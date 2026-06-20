@@ -843,7 +843,8 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Version 2.0** · 20 June 2026 ·
+**Version 2.0**:
+21 June 2026
 
 [Back to top](#table-of-contents)
 
