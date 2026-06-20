@@ -118,7 +118,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 | June 2025 | IC review MR25/01153 lodged |
 | 9 October 2025 | Senate testimony — monitoring was "day-to-day processes" |
 | 17 October 2025 | QON SQ25-001584 placed on notice |
-| November–December 2025 | ANAO submissions lodged; QON response received — no systematic tracking, 93 of 150 signals undocumented |
+| November–December 2025 | ANAO submissions lodged; QON SQ25-001584 — no systematic tracking, 93 of 150 signals undocumented |
 | 24 March 2026 | Australian Senate — audit cited by name, Senator Malcolm Roberts |
 | Mid-2027 (est.) | OAIC MR25/01153 determination anticipated |
 
