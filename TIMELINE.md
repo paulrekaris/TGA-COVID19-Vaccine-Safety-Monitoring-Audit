@@ -110,7 +110,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [OAIC MR25/01153 primary sources](primary-sources/oaic/MR25-01153/README.md)
 
 **Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — no action commenced as of June 2026.
-- [Correspondence](primary-sources/correspondence/)
+- [Commonwealth Ombudsman(primary-sources/ombudsman/)
 
 ---
 
