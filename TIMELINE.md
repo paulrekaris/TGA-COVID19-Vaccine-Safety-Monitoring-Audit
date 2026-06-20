@@ -53,7 +53,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
   
 **1 April 2025**
 - **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration
-- [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Correspondence](primary-sources/correspondence/)
+- [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
 
 **11 May 2025**
 - Sparke Helmore case note published — independent legal analysis of AICmr 54 confirming comprehensive searches established Plan implementation records "cannot be found or do not exist" as a matter of administrative law
