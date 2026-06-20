@@ -83,6 +83,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [The Challenge of Black Box Governance for Private Citizens](#the-challenge-of-black-box-governance-for-private-citizens)
 - [ANAO Audit History and the Pharmacovigilance Gap](#anao-audit-history-and-the-pharmacovigilance-gap)
 - [Oversight and Accountability](#oversight-and-accountability)
+  - [Investigation Timeline](TIMELINE.md)
 - [The Call for Investigation](#the-call-for-investigation)
 - [Methodology and Evidence Base](#methodology-and-evidence-base)
   - [Assessment Framework](#assessment-framework)
