@@ -16,16 +16,9 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - FOI request submitted to the Department of Health and Aged Care requesting an implementation report on the COVID-19 Vaccine Safety Monitoring Plan against its five key objectives (FOI 3643)
 - Department refuses access on 27 February 2022 — no implementation report exists
 - Department acknowledges "ample documentation" exists but does not identify Plan-specific implementation records
-- IC review MR22/00538 lodged following the Department's refusal decision
-- [FOI 3643 primary sources](primary-sources/foi/foi-3643) | [FOI primary sources index](primary-sources/foi/README.md)
+- IC review MR22/00538 lodged; OAIC proceedings continue through 2022–2023 with submissions, directions, and notices issued to the Department
+- [FOI 3643 primary sources](primary-sources/foi/foi-3643) | [FOI primary sources index](primary-sources/foi/README.md) | [OAIC MR22/00538 primary sources](primary-sources/oaic/MR22-00538/README.md)
 
----
-
-## 2022–2023
-
-- TGA organises extensive vaccine-safety documentation for Information Commissioner review
-- OAIC proceedings MR22/00538 continue — submissions, directions, and notices issued by OAIC to the Department
-- [OAIC MR22/00538 primary sources](primary-sources/oaic/MR22-00538/README.md)
 
 ---
 
@@ -56,7 +49,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 **April 2025**
 - **FOI 25-0166** — TGA identifies 399 Plan-aligned documents across 12 document categories but refuses to process them under practical refusal provisions, claiming classification by Plan objectives requires "subjective interpretation" despite having successfully classified 2,218+ pages nine months earlier
-- [FOI 25-0166 analysis](analysis/foi-25-0166-analysis.md)
+- [FOI 25-0166 analysis](primary-sources/foi/foi-25-0166-analysis.md)
 
 **1 April 2025**
 - **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration
@@ -79,13 +72,10 @@ This timeline documents the full chronology of FOI requests, Information Commiss
   - 148 safety signals were investigated and 57 regulatory actions taken — yet no documentation links specific signals to specific actions
 - [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) | [Video (timestamped 2:30:40–2:37:00)](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
-**17 October 2025**
-- **Senate Question on Notice 559 (SQ25-001584)** placed on notice by Senator Alex Antic following the 9 October 2025 hearing
-- [Senate Questions on Notice — Community Affairs](https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates)
-
-**December 2025**
-- **QON SQ25-001584 response received** — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" produces no documentary evidence of systematic implementation; 93 of 150 investigated signals have no publicly documented decision rationale
-- [Senate Questions on Notice — Community Affairs](https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md)
+**October–December 2025**
+- **Senate Question on Notice 559 (SQ25-001584)** placed on notice by Senator Alex Antic on 17 October 2025 following the 9 October 2025 hearing
+- **QON response received December 2025** — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" produces no documentary evidence of systematic implementation; 93 of 150 investigated signals have no publicly documented decision rationale
+- [Senate Questions on Notice — Community Affairs](https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md) | [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) | [QON 559 document](primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
 **16 December 2025**
 - Audit provided to key Senate Community Affairs Legislation Committee members to inform questioning and oversight
