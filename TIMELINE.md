@@ -112,8 +112,6 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 **Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — no action commenced as of June 2026.
 - [Commonwealth Ombudsman](primary-sources/ombudsman/)
 
----
-
 ## Summary
 
 | Date | Event |
