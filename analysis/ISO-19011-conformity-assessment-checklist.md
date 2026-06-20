@@ -342,6 +342,8 @@ Each finding states the criterion, the evidence, the finding and grade, and the 
 
 **Finding.** Major non-conformity. No systematic mechanism existed to track implementation of the Plan.
 
+TGA’s formal OAIC submission (20 September 2024, MR22/00538, page 15) states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” This is the Department’s own acknowledgement in formal proceedings that no internal mechanism existed to assess whether the Plan’s outputs were achieved — directly corroborating this finding from within TGA’s own documentary record.
+
 **Impact.** Conformity with the formal monitoring commitment cannot be demonstrated; there is no accountability framework against which delivery could be assessed.
 
 ### Finding 2: coordination protocols (major)
@@ -778,6 +780,8 @@ Method: two independent searchers (a senior medical officer and an assistant dir
 
 Results: no implementation reports; no evaluation documents; no systematic Plan-tracking documentation. The only documents located were emails to the applicant stating that no implementation report exists.
 
+Attachment D of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
+
 Gaps identified:
 
 1. **AusVaxSafety omission.** The TGA acknowledged the Strategy 2.4 commitment to collaborate with AusVaxSafety but did not use "AusVaxSafety" as a search term. No documented bridge was found between the survey responses and the signals and actions.
@@ -837,7 +841,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Version 2.0** · 15 June 2026 ·
+**Version 2.0** · 20 June 2026 ·
 
 [Back to top](#table-of-contents)
 
