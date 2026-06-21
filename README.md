@@ -165,7 +165,7 @@ This audit examines whether enhanced monitoring commitments were implemented and
 
 [![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)
 
-On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication (doi.org/10.2139/ssrn.6333058), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
+On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication ([doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
 [Watch the Australian Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900) | [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 
