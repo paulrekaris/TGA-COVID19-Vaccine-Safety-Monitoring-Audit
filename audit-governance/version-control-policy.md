@@ -27,7 +27,7 @@ This audit maintains detailed version history reflecting quality management, rec
 
 This version history records significant revisions and major updates to the audit documentation. Minor corrections, typographical fixes, and formatting changes are not individually logged here but are fully captured in the repository's commit history.
 
-## Clasdification Rules
+## Classification Rules
 
 ### Defenition of a Major Update
 
