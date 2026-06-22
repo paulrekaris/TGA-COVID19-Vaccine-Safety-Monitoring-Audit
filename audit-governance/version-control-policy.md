@@ -7,6 +7,7 @@
 
 - [Purpose](#purpose)
 - [Scope](#scope)
+- [Classification Rules](#classification-rules)
 - [Maintenance](#maintenance)
 - [Guiding Standards](#guiding-standards)
 - [Implementation](#implementation)
@@ -25,6 +26,16 @@ This audit maintains detailed version history reflecting quality management, rec
 ## Scope
 
 This version history records significant revisions and major updates to the audit documentation. Minor corrections, typographical fixes, and formatting changes are not individually logged here but are fully captured in the repository's commit history.
+
+## Clasdification Rules
+
+### Defenition of a Major Update
+
+A major update (X.0.0) is a substantive change that materially affects the structure, methodology, scope, or interpretive conclusions of the audit. This includes changes that alter analytical frameworks, introduce or remove primary datasets or evidence classes, or meaningfully revise established findings.
+
+### Blockchain Release Rule
+
+Blockchain verification is applied only to major updates (X.0.0) or to releases designated as stable reference points following a sustained period of inactivity or external citation requirements. Patch-level corrections and minor updates are excluded to ensure blockchain timestamps reflect stable, publication-relevant versions rather than routine iterative changes.
 
 ## Maintenance
 
@@ -237,6 +248,6 @@ Version history combined with OSINT documentation enables accountability infrast
 
 22. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
-**Last updated**: 15 June 2026
+**Last updated**: 22 June 2026
 
 [↑ Back to top](#table-of-contents)
