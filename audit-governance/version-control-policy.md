@@ -39,7 +39,7 @@ Blockchain verification is applied only to major updates (X.0.0) or to releases 
 
 ## Maintenance
 
-Best efforts are made to document substantive changes. This log is maintained on a best‑efforts basis and is not exhaustive. For a complete record of all changes, refer to the repository's commit history.
+Best efforts are made to document substantive changes. The Version History log is maintained on a best‑efforts basis and is not exhaustive. For a complete record of all changes, refer to the repository's commit history.
 
 ## Guiding Standards
 
