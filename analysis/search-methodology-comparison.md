@@ -163,6 +163,8 @@ These represent fundamentally different search strategies:
 - Title-matching approach vs evidence-based approach
 - Document name focus vs activity documentation focus
 
+The search exercise was estimated by the Principal Medical Advisor to take “no longer than 30 minutes” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31). For context, this was a search of the implementation record of a Cabinet-endorsed monitoring framework governing 68.4 million provisionally approved doses. The estimate is consistent with a search designed to demonstrate FOI compliance rather than comprehensively test document existence.
+
 ### Implications for OAIC Finding
 
 OAIC Decision [2025] AICmr 54 concluded TGA took "all reasonable steps" under s24A of the FOI Act and that implementation documents "cannot be found or do not exist."
@@ -226,6 +228,6 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ---
 
-**Last Updated:** 22 March 2026  
+**Last Updated:** 23 June 2026  
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0
