@@ -784,6 +784,8 @@ Attachment A, page 29 of the TGA’s OAIC submission (20 September 2024, MR22/00
 
 Notably, the search officer did not limit the search to the original terms. Rows 7 and 8 of Attachment A show the officer independently added “Implementation COVID-19 vaccine pharmacovigilance plan” and “Audit report COVID-19 vaccine pharmacovigilance plan” as additional search terms — expanding the scope beyond what was requested. Both returned zero results. The inability to locate records was not the product of a constrained or narrow search design. It reflects an expanded, good-faith search that still returned nothing.
 
+The Principal Medical Advisor’s covering email estimated the search exercise would take “no longer than 30 minutes.” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31)
+
 Gaps identified:
 
 1. **AusVaxSafety omission.** The TGA acknowledged the Strategy 2.4 commitment to collaborate with AusVaxSafety but did not use "AusVaxSafety" as a search term. No documented bridge was found between the survey responses and the signals and actions.
@@ -844,7 +846,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0**:
-21 June 2026
+23 June 2026
 
 [Back to top](#table-of-contents)
 
