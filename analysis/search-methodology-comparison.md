@@ -2,7 +2,7 @@
 
 ## TGA OAIC-Directed Searches vs Audit Search Strategy
 
-**Last Updated:** 23 January 2026  
+**Last Updated:** 23 June 2026  
 
 ---
 
