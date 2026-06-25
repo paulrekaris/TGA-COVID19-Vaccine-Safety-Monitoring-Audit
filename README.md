@@ -162,7 +162,7 @@ This audit examines whether enhanced monitoring commitments were implemented and
 
 ## Australian Senate Citation
 
-[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000)
+[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003)
 
 On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication ([doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
@@ -857,7 +857,7 @@ The comprehensive audit report includes:
 
 - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis.pdf) – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
 
-- [TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf) – Visual executive summary presentation with implementation status dashboard, source relaibility hierarchy and key gaps.
+- [TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf) – Visual executive summary presentation with implementation status dashboard, source reliability hierarchy and key gaps.
 
 - [One-Page Audit Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
@@ -1017,7 +1017,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.3  
-**Last Updated:** 25 June 2026  
+**Last Updated:** 27 June 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
