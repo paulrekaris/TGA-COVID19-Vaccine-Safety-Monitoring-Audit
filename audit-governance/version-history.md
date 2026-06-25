@@ -27,7 +27,7 @@
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
 
-## Version 1.9.3 (June 2026)
+## Version 1.9.3 (14 June 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
 
