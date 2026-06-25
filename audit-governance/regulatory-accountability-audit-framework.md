@@ -43,7 +43,7 @@ Each layer is examined for documentary evidence of implementation. Outputs are c
 
 ### Evidence Hierarchy
 
-Sources are weighted according to independence and probative value. Statutory decisions, parliamentary records, and contemporaneous official documents carry the highest evidentiary weight. Institutional publications are assessed on their own terms. Third-party reporting is secondary. Assertions unsupported by documentary evidence are not treated as proof of implementation.
+Sources are weighted according to independence and evidential value. Statutory decisions, parliamentary records, and contemporaneous official documents carry the highest evidentiary weight. Institutional publications are assessed on their own terms. Third-party reporting is secondary. Assertions unsupported by documentary evidence are not treated as proof of implementation.
 
 ### Evidence Collection
 
@@ -75,7 +75,7 @@ The framework requires no institutional access, statutory authority, or organisa
 - **ISO 31000:2018** — Risk management
 - **ISO 15489-1:2016** — Records management
 - **ISO 14721:2025** — Open Archival Information System (OAIS) reference model 
-- **ANAO performance audit principle** and Commonwealth Performance Series
+- **ANAO performance audit principle** and Commonwealth Performance Framework
 - **FAIR Data Principles** (Findable, Accessible, Interoperable, Reusable)
 
 -----
