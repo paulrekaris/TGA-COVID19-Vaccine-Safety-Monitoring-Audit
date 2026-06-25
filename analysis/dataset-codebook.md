@@ -6,7 +6,7 @@
 
 ## 1. Purpose
 
-This codebook documents the variables, classification codes, evidence tiers, and rating scales used in the evidence matrix underlying the TGA COVID-19 Vaccine Safety Monitoring Documentation Dataset (v1.9.2). The matrix assesses 19 analytical outputs derived from the TGA Safety Monitoring Plan (February 2021) — comprising 17 pharmacovigilance strategies and two additional governance-related outputs. The primary analytical unit is the assessed output classification, with each output mapped to associated documentary evidence, evidence tiers, severity ratings, and explanatory metadata. All summary statistics are directly reproducible from the matrix using standard analytical tools.
+This codebook documents the variables, classification codes, evidence tiers, and rating scales used in the evidence rix underlying the TGA COVID-19 Vaccine Safety Monitoring Documentation Dataset (v1.9.3). The matrix assesses 19 analytical outputs derived from the TGA Safety Monitoring Plan (February 2021) — comprising 17 pharmacovigilance strategies and two additional governance-related outputs. The primary analytical unit is the assessed output classification, with each output mapped to associated documentary evidence, evidence tiers, severity ratings, and explanatory metadata. All summary statistics are directly reproducible from the matrix using standard analytical tools.
 
 Documented classification outcome across all 19 outputs: 3 Fully Implemented, 10 Partially Implemented, 6 Not Documented.
 
@@ -30,7 +30,7 @@ Each of the 19 assessed outputs is assigned one of three documentation status la
 
 ## 3. Evidence Tier Classification
 
-Collected materials are organised using a four-tier evidence classification framework based on source type and verification characteristics. Each of the 19 assessed outputs is mapped to corresponding documentary evidence using this framework.
+Collected materials are organised using a four-tier source-reliability framework, ranking evidence by verifiability, reliability, and evidential authoritativeness. Each of the 19 assessed outputs is mapped to corresponding documentary evidence using this framework.
 
 | Tier | Label | Source Types |
 |---|---|---|
@@ -39,7 +39,7 @@ Collected materials are organised using a four-tier evidence classification fram
 | 3 | Secondary Documentary Evidence | Partner organisation reports; Australian Immunisation Register data; publicly accessible surveillance data |
 | 4 | Tertiary Contextual Evidence | International regulatory guidance; ICH E2E; CIOMS; comparative regulatory frameworks |
 
-> **Note:** This codebook documents evidence collection and classification for dataset purposes. For the source reliability hierarchy applied in the audit methodology, see Section 9.4 of the audit report. For implementation proof classification, see the [repository README](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/README.md).
+> **Note:** This four-tier framework assesses source reliability (verifiability, reliability, and evidential authoritativeness). It is the same hierarchy applied in Section 9.4 of the audit report and the repository README, and is distinct from the output-level documentation status classification in Section 2.
 
 ---
 
@@ -60,7 +60,7 @@ all 19 outputs is 3.47.
 
 ## 5. Analytical Objective Categories
 
-Assessed outputs are grouped under seven analytical objective categories used in status-by-objective cross-tabulation analysis. These categories reflect the Plan's five original pharmacovigilance objectives and two additional governance-related outputs.
+Assessed outputs are grouped under seven analytical objective categories used in status-by-objective cross-tabulation analysis. These categories reflect the Plan's five original pharmacovigilance objecti and two additional governance-related outputs.
 
 | Category | Scope |
 |---|---|
@@ -121,11 +121,11 @@ Later document releases or institutional disclosures may alter the available evi
 
 The dataset was developed using a documentation analysis approach informed by ISO 19011:2018 auditing principles, ANAO performance audit guidance, and pharmacovigilance standards including ICH E2E and CIOMS Working Group VIII. Classifications were assigned by the auditor (Rekaris, P.) through mapping of specified Plan outputs to corresponding documentary evidence using predefined classification criteria and evidence tier classification.
 
-All source materials were obtained through lawful public accountability mechanisms. The full methodology, version history, evidence handling procedures, and open repository documentation are documented in this repository: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+All source erials were obtained through lawful public accountability mechanisms. The full methodology, version history, evidence handling procedures, and open repository documentation are documented in this repository: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
 Replication code for all summary statistics is provided in [Replication README](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/replication-readme.md).
 
 ---
 
 **Codebook vesrion:** v1.0  
-**Last updated:** 22 May 2026
+**Last updated:** 25 June 2026
