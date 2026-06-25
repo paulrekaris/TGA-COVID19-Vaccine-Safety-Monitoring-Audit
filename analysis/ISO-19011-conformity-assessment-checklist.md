@@ -680,7 +680,7 @@ All URLs were verified as accessible in January 2026.
 23. TGA. (2023). FOI 4029: COVID-19 vaccine pharmacovigilance (VSIG work instruction, ACV meetings, safety reports). https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-01.PDF
 24. TGA. (2024, August). FOI 5082: COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 25. TGA. (2024). FOI 5275 Notice of Decision (21 August 2024). Third-party request for monthly cancer-incidence surveillance data related to Comirnaty provisional approval; response: documents do not exist; TGA does not hold incidence data. Obtained via FOI 26-2581 (decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
-26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (2,218 pages, 531 TRIM folders). [primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
+26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (2,218 pages, 531 TRIM folders). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 27. TGA. (2025, April 24). FOI 25-0166 consultation letter: practical-refusal position on 399 identified documents.
 
 ### Primary Sources: Parliamentary Evidence
