@@ -21,7 +21,7 @@
 - [Introduction](#introduction)
   - [Epistemological Framework and Reasoning](#epistemological-framework-and-reasoning)
   - [Open Source Principles and Replicability](#open-source-principles-and-replicability)
-  - [Evidence Hierarchy and Quality Assessment](#evidence-hierarchy-and-quality-assessment)
+  - [Evidence Weight by Source Origin](#evidence-weight-by-source-origin)
 - [Basic Audit Details](#basic-audit-details)
 - [Auditor Independence and Disclosure](#auditor-independence-and-disclosure)
 - [Methodological Limitations](#methodological-limitations)
@@ -91,7 +91,7 @@ This document applies ISO 19011:2018 to assess the implementation of the TGA's C
 
 **Intended audiences.** Parliamentary (structure for questions and oversight); academic (peer review using a recognised method); legal (evidence quality and audit trail); professional and international (a method that can be compared across jurisdictions).
 
-**Scope decision and why it is conservative.** ISO 19011:2018, 5.5.2, requires audit criteria to be defined so that evidence-based assessment is possible. The Plan does not number its outputs and conflates strategies with deliverables, so its criteria were not readily identifiable. The audit therefore treated each of the Plan's 17 numbered strategies as a single auditable output at strategy level, plus two governance outputs (GOV.1 implementation oversight; GOV.2 performance measurement), giving 19 outputs in total. This 19-output frame was fixed before assessment and applied uniformly to every strategy; it was not derived from the result. Disaggregating the strategies into their implied deliverables would yield about 36 outputs; the audit did not do so, in order to minimise interpretive risk and present the most conservative scope (GAO, Government Auditing Standards 2018, para. 8.10: scope is the boundary of the audit and is tied to the audit objectives; ANAO performance-audit methodology to the same effect). That the Plan was not structured to support tracking is assessed below against the Commonwealth's own performance and records obligations, not against ISO 19011.
+**Scope decision and why it is conservative.** ISO 19011:2018, 5.5.2, requires audit criteria to be defined so that evidence-based assessment is possible. The Plan does not number its outputs and conflates strategies with deliverables, so its criteria were not ily identifiable. The audit therefore treated each of the Plan's 17 numbered strategies as a single auditable output at strategy level, plus two governance outputs (GOV.1 implementation oversight; GOV.2 performance measurement), giving 19 outputs in total. This 19-output frame was fixed before assessment and applied uniformly to every strategy; it was not derived from the result. Disaggregating the strategies into their implied deliverables would yield about 36 outputs; the audit did not do so, in order to minimise interpretive risk and present the most conservative scope (GAO, Government Auditing Standards 2018, para. 8.10: scope is the boundary of the audit and is tied to the audit objectives; ANAO performance-audit methodology to the same effect). That the Plan was not structured to support tracking is assessed below against the Commonwealth's own performance and records obligations, not against ISO 19011.
 
 **Out of scope.** Clinical safety or efficacy of any vaccine; the correctness of any individual regulatory decision; and individual compensation outcomes. Where compensation or claimant material appears, it is contextual only: it illustrates a downstream consequence of the documentation gap and forms no part of any finding.
 
@@ -140,32 +140,32 @@ The audit uses two forms of reasoning.
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
 - **Arweave (blockchain):** https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 
-Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/read.md](../blockchain-and-archival-verification/README.md)
+Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/READ.md](../blockchain-and-archival-verification/README.md)
 
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. This work is open source and open for feedback, correction, and collaborative improvement.
 
-### Evidence Hierarchy and Quality Assessment
+### Evidence Weight by Source Origin
 
-Four tiers, prioritising auditee-generated and independently validated evidence over the auditor's own analysis.
+Evidence is weighted by origin, prioritising auditee-generated and independently validated evidence over the auditor's own analysis. This weighting is distinct from the four-tier source-reliability hierarchy (Section 9.4 of the audit report, dataset codebook, and README), which ranks sources by type; a single source may carry both an origin weight and a reliability tier.
 
-| Tier | Evidence type | Quality |
+| Source origin | Evidence type | Weight |
 |------|---------------|---------|
-| **Tier 1** | TGA's own systematic searches (OAIC-directed) | Highest |
-| **Tier 2** | TGA statements to Parliament (under parliamentary privilege) | High |
-| **Tier 3** | FOI decisions (formal government records) | High |
-| **Tier 4** | Public documentation (contextual) | Supporting |
+| Auditee's own systematic searches | TGA's OAIC-directed searches | Highest |
+| Auditee's statements to Parliament | Senate evidence under privilege; QON 559 | High |
+| Formal government records | FOI decisions under the FOI Act 1982 | High |
+| Public documentation | Safety reports, performance reports | Supporting |
 
-**Tier 1: the TGA's own systematic searches (highest).** September 2024 OAIC-directed searches, conducted by TGA officers under OAIC direction using the TGA's own classification framework. If implementation documentation existed, these searches would be expected to locate it. Result: no Plan-implementation records.
+**Auditee's own systematic searches (highest weight).** September 2024 OAIC-directed searches, conducted by TGA officers under OAIC direction using the TGA's own classification framework. If implementation documentation existed, these searches would be expected to locate it. Result: no Plan-implementation records.
 
-**Tier 2: TGA statements to Parliament (under parliamentary privilege).** Senate Community Affairs Legislation Committee evidence, 9 October 2025, characterising monitoring as "day-to-day processes" never systematically tracked against the Plan; and Senate QON 559 (SQ25-001584), the TGA's formal written answer, which describes activity but produces no documentary evidence of systematic implementation. Senate estimates witnesses are generally not sworn; this evidence is protected by parliamentary privilege, and knowingly giving false or misleading evidence to a committee may be dealt with as contempt. It is not characterised as given under oath.
+**Auditee's statements to Parliament (under parliamentary privilege).** Senate Community Affairs Legislation Committee evidence, 9 October 2025, characterising monitoring as "day-to-day processes" never systematically tracked against the Plan; and Senate QON 559 (SQ25-001584), the TGA's formal written answer, which describes activity but produces no documentary evidence of systematic implementation. Senate estimates witnesses are generally not sworn; this evidence is protected by parliamentary privilege, and knowingly giving false or misleading evidence to a committee may be dealt with as contempt. It is not characterised as given under oath.
 
-**Tier 3: FOI decisions (formal government records).** 2022 to 2025 decisions under the FOI Act 1982, including the February 2022 statement that no implementation report exists, and the related OAIC determinations.
+**Formal government records (FOI decisions).** 2022 to 2025 decisions under the FOI Act 1982, including the February 2022 statement that no implementation report exists, and the related OAIC determinations.
 
-**Tier 4: public documentation (contextual).** 150+ safety reports, regulatory decisions, and TGA performance reports. This shows monitoring activity occurred; it does not document systematic implementation of the Plan's enhanced methodologies. Review of the TGA Performance Reports for 2022-23 and 2023-24 found no reference to the Plan.
+**Public documentation (contextual).** 150+ safety reports, regulatory decisions, and TGA performance reports. This shows monitoring activity occurred; it does not document systematic implementation of the Plan's enhanced methodologies. Review of the TGA Performance Reports for 2022-23 and 2023-24 found no reference to the Plan.
 
-Findings rely mainly on Tier 1 to 3 evidence, with Tier 4 providing context.
+Findings rely mainly on auditee-generated and formal-record evidence, with public documentation providing context.
 
-ISO 19011:2018, Clause 6.4.7 requires that only information subject to verification should be accepted as audit evidence; where verifiability is low, the auditor must judge the degree of reliance. The tier ranking reflects reliability (the inherent trustworthiness of the source). Verification (cross-checking against independent sources) was achieved by cross-referencing each claim against at least one independent tier (e.g., Tier 2 Senate testimony verified against Tier 3 FOI documents and Tier 4 public reports). The combination of high reliability and independent verification provides the strongest evidentiary foundation.
+ISO 19011:2018, Clause 6.4.7 requires that only information subject to verification should be accepted as audit evidence; where verifiability is low, the auditor must judge the degree of reliance. This weighting reflects evidential origin and independence rather than source type. Verification (cross-checking against independent sources) was achieved by cross-referencing each claim against at least one independent origin — for example, the auditee's parliamentary statements verified against formal FOI records and public reports. The combination of high-weight origin and independent verification provides the strongest evidentiary foundation.
 
 This audit provides **reasonable assurance** (not absolute certainty) based on systematic evidence collection within defined boundaries. The finding is **absence of verifiable evidence**, not **evidence of absence**. If implementation documentation exists but was not disclosed through FOI processes (multiple requests 2022-2025), located in TGA's OAIC-directed comprehensive searches (531 containers, September 2024), referenced in Senate testimony under parliamentary privilege, or published in 150+ public safety reports across 33 months, then TGA may address audit findings by producing such documentation through appropriate channels (FOI disclosure, OAIC provision, parliamentary submission, or public release). The audit methodology is designed to be responsive to new evidence and would incorporate it with transparent version history.
 
@@ -380,7 +380,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Criterion.** The Plan's positioning of active surveillance as informing regulatory action; CIOMS Working Group VIII practice on traceable signal-to-action documentation (recognised benchmark).
 
-**Evidence.** About 6.8 million AusVaxSafety responses collected; 148 to 150 signals investigated and 57 actions taken (see the note above); no documented pathway connecting active-surveillance outputs to specific signals or actions; the OAIC searches omitted "AusVaxSafety" as a search term; QON 559 does not mention AusVaxSafety in the TGA's formal answer on collaborations, despite Strategy 2.4. Peer-reviewed practice (Malikova 2020) describes signal management as including tracked, documented actions at every stage; against that benchmark, the absence of a documented pathway is a material traceability gap. CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in action. TGA reports 148 signals investigated and 57 regulatory actions taken, yet no documentation links specific signals to specific actions or explains why 91 signals (61 per cent) did not lead to regulatory action.
+**Evidence.** About 6.8 million AusVaxSafety responses collected; 148 to 150 signals investigated and 57 actions taken (see the note above); no documented pathway connecting active-surveillance outputs to specific signals or actions; the OAIC searches omitted "AusVaxSafety" as a search term; QON 559 does not mention AusVaxSafety in the TGA's formal answer on collaborations, despite Strategy 2.4. Peer-reviewed practice (Malikova 2020) describes signal management as including tracked, documented actions at every stage; against that benchmark, the absence of a documented pathway is a material traceability gap. CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in action. TGA reports 148 signals investigated and 57 regulatory actions taken, and no documented decision rationale is available for the 91 signals (about 61 per cent) that did not result in a recorded regulatory action.
 
 **Finding.** Major non-conformity. No objective evidence of a documented pathway from active surveillance to regulatory action.
 
@@ -752,7 +752,7 @@ All URLs were verified as accessible in January 2026.
 65. Zenodo (DOI 10.5281/zenodo.17731054). https://doi.org/10.5281/zenodo.17731054
 66. Harvard Dataverse (DOI 10.7910/DVN/BDKZQJ). https://doi.org/10.7910/DVN/BDKZQJ
 67. SSRN (DOI 10.2139/ssrn.6333058). https://doi.org/10.2139/ssrn.6333058
-68. SocArXiv (DOI 10.31235/osf.io/sb4gz_v3). https://doi.org/10.31235/osf.io/sb4gz_v3
+68. SocArXiv (DOI 10.31235/osf.io/sb4gz). https://doi.org/10.31235/osf.io/sb4gz
 69. National Library of Australia (Australian Web Archive). https://webarchive.nla.gov.au/tep/221557
 70. Internet Archive (v1.9.1). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
 71. Arweave permanent storage. https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
@@ -764,11 +764,11 @@ All URLs were verified as accessible in January 2026.
 
 ## Appendix A: Direct TGA Responses
 
-Between January and February 2022, direct email inquiries and a formal FOI request (FOI 3643) sought an implementation report on the Plan's five key objectives.
+Between January and February 2022, direct email inquiries and a formal FOI request (FOI 3643) sought an implementation report on the Plan's five objectives.
 
 Response pattern: pre-FOI emails (31 January, February 2022) gave generic assurances and four identical links to routine pharmacovigilance resources, with no Plan-specific implementation evidence; the FOI decision (27 February 2022) refused access under s 24A (document does not exist), with the explicit statement that no implementation report exists, while also referring to "ample documentation".
 
-Significance: this statutory position is Tier 1 evidence for Finding 1. The pattern of substituting routine pharmacovigilance outputs for Plan-specific implementation evidence supports non-conformity findings across several areas.
+Significance: this statutory position is highest-weight evidence (auditee's own statutory position). The pattern of substituting routine pharmacovigilance outputs for Plan-specific implementation evidence supports non-conformity findings across several areas.
 
 ---
 
@@ -846,7 +846,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0**:
-23 June 2026
+25 June 2026
 
 [Back to top](#table-of-contents)
 
