@@ -38,7 +38,7 @@ Full replication code for all three analytical operations is provided below.
 
 ## File Structure
 
-The evidence matrix contains five sheets:
+The evidence matrix contains six sheets:
 
 - **Summary** — pre-computed headline statistics
 - **Methodology** — audit methodology and evidence quality assessment
@@ -134,4 +134,4 @@ For variable definitions, evidence tier classification, severity rating scale, a
 Social Science Data Editors. (n.d.). *Template README for social science replication packages*. https://social-science-data-editors.github.io/template_README/
 
 **Version:** v1.0  
-**Last updated:** 11 June 2026
+**Last updated:** 25 June 2026
