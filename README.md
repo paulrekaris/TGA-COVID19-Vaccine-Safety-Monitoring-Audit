@@ -130,8 +130,7 @@ The Safety Plan was published as the regulatory framework to ensure public safet
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
-**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018, ANAO guidance, TGA pharmacovigilance framework
-and international pharmacovigilance standards (ICH E2E, CIOMS).
+**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and ANAO guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Guiding Standards
 
@@ -672,15 +671,14 @@ This audit applies systematic evidence based principles consistent with:
 
 ### Assessment Output Methodology
 
-Each of the 19 Plan outputs was evaluated using a four-tier evidence standard:
+Each of the 19 Plan outputs was evaluated against documentary evidence categorised by a four-tier source-reliability hierarchy, ranking evidence by verifiability, reliability, and evidential authoritativeness:
 
-**Level 1 (highest):** Published reports, AusPARs, peer-reviewed literature, official databases with independent verification.
+- **Tier 1 — Primary Statutory Evidence:** FOI decision letters; OAIC submissions and determinations; direct TGA communications.
+- **Tier 2 — Primary Documentary Evidence:** Senate Hansard and Questions on Notice; TGA Annual Reports; published TGA safety reports; the COVID-19 Vaccine Safety Monitoring Plan.
+- **Tier 3 — Secondary Documentary Evidence:** partner organisation reports; Australian Immunisation Register data; publicly accessible surveillance data.
+- **Tier 4 — Tertiary Contextual Evidence:** international regulatory guidance; ICH E2E; CIOMS; comparative regulatory frameworks.
 
-**Level 2:** Government websites, official media releases, advisory committee minutes, annual/performance reports, government documents released under FOI.
-
-**Level 3:** FOI refusals and schedules, OAIC submissions and decisions, Senate testimony, official correspondence.
-
-**Level 4 (lowest):** Unsubstantiated claims without supporting documentation.
+Higher-tier evidence takes precedence in case of conflict, and all findings are anchored in Tier 1 or Tier 2 evidence. This is the same hierarchy applied in Section 9.4 of the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and the [dataset codebook](analysis/dataset-codebook.md).
 
 ### Rating Criteria
 
@@ -688,11 +686,9 @@ Each of the 19 Plan outputs was evaluated using a four-tier evidence standard:
 
 Partial completion of activities without an implementation trail is rated "partially implemented", not "fully implemented".
 
+**"Not Documented" denotes the absence of locatable documentary evidence; it is not a finding that an activity did not occur.** The label deliberately remains within the documentary register rather than asserting "Not Implemented," which the available evidence cannot establish. Any "Not Documented" classification can be overturned by production of a single document demonstrating the relevant output.
 
-**Note:** This hierarchy assesses implementation proof; Section 9.4 of the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) assesses source reliability.
-
-**Search strategy:** This audit employed systematic keyword searches with 14 strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and pharmacovigilance processes, documented in Appendix A.2.2 (pp. 77-78) of the Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 generic document-title terms without output-specific or pharmacovigilance 
-vocabulary (TGA OAIC Submission, 20 September 2024, pp. 28-32). [Full search methodology comparison](analysis/search-methodology-comparison.md)
+**Search strategy:** This audit employed systematic keyword searches with 14 strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and pharmacovigilance processes, documented in Appendix A.2.2 (pp. 77-78) of the Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 generic document-title terms without output-specific or pharmacovigilance vocabulary (TGA OAIC Submission, 20 September 2024, pp. 28-32). [Full search methodology comparison](analysis/search-methodology-comparison.md)
 
 ## Evidence Sources
 
@@ -835,7 +831,7 @@ The comprehensive audit report includes:
 
 - Executive summary with key findings and implications.  
 - Systematic assessment of all 19 Plan outputs across 17 numbered strategies.  
-- Detailed evidence analysis using the four‑tier hierarchy.  
+- Detailed evidence analysis using the four‑tier evidence hierarchy.  
 - Provisional‑Approval Lifecycle Verification Gap   
 - Legislative framework analysis (*Therapeutic Goods Act* ss 22C, 23AA, 29, and related guidance).  
 - Governance and accountability analysis.  
@@ -861,7 +857,7 @@ The comprehensive audit report includes:
 
 - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis.pdf) – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
 
-- [TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf) – Visual executive summary presentation with implementation status dashboard, evidence hierarchy and key gaps.
+- [TGA Safety Plan Audit Summary](analysis/tga-safety-plan-audit.pdf) – Visual executive summary presentation with implementation status dashboard, source relaibility hierarchy and key gaps.
 
 - [One-Page Audit Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – One-page visual flowchart of audit methodology, evidence hierarchy, and key findings.
 
