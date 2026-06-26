@@ -91,7 +91,7 @@ This document applies ISO 19011:2018 to assess the implementation of the TGA's C
 
 **Intended audiences.** Parliamentary (structure for questions and oversight); academic (peer review using a recognised method); legal (evidence quality and audit trail); professional and international (a method that can be compared across jurisdictions).
 
-**Scope decision and why it is conservative.** ISO 19011:2018, 5.5.2, requires audit criteria to be defined so that evidence-based assessment is possible. The Plan does not number its outputs and conflates strategies with deliverables, so its criteria were not ily identifiable. The audit therefore treated each of the Plan's 17 numbered strategies as a single auditable output at strategy level, plus two governance outputs (GOV.1 implementation oversight; GOV.2 performance measurement), giving 19 outputs in total. This 19-output frame was fixed before assessment and applied uniformly to every strategy; it was not derived from the result. Disaggregating the strategies into their implied deliverables would yield about 36 outputs; the audit did not do so, in order to minimise interpretive risk and present the most conservative scope (GAO, Government Auditing Standards 2018, para. 8.10: scope is the boundary of the audit and is tied to the audit objectives; ANAO performance-audit methodology to the same effect). That the Plan was not structured to support tracking is assessed below against the Commonwealth's own performance and records obligations, not against ISO 19011.
+**Scope decision and why it is conservative.** ISO 19011:2018, 5.5.2, requires audit criteria to be defined so that evidence-based assessment is possible. The Plan does not number its outputs and conflates strategies with deliverables, so its criteria were not readily identifiable. The audit therefore treated each of the Plan's 17 numbered strategies as a single auditable output at strategy level, plus two governance outputs (GOV.1 implementation oversight; GOV.2 performance measurement), giving 19 outputs in total. This 19-output frame was fixed before assessment and applied uniformly to every strategy; it was not derived from the result. Disaggregating the strategies into their implied deliverables would yield about 36 outputs; the audit did not do so, in order to minimise interpretive risk and present the most conservative scope (GAO, Government Auditing Standards 2018, para. 8.10: scope is the boundary of the audit and is tied to the audit objectives; ANAO performance-audit methodology to the same effect). That the Plan was not structured to support tracking is assessed below against the Commonwealth's own performance and records obligations, not against ISO 19011.
 
 **Out of scope.** Clinical safety or efficacy of any vaccine; the correctness of any individual regulatory decision; and individual compensation outcomes. Where compensation or claimant material appears, it is contextual only: it illustrates a downstream consequence of the documentation gap and forms no part of any finding.
 
@@ -140,7 +140,7 @@ The audit uses two forms of reasoning.
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
 - **Arweave (blockchain):** https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 
-Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/READ.md](../blockchain-and-archival-verification/README.md)
+Full blockchain and archival verification records are maintained at [blockchain-and-archival-verification/README.md](../blockchain-and-archival-verification/README.md)
 
 **All evidence is primary-source and publicly verifiable.** The repository contains complete documentation allowing independent scrutiny and practical replication of findings. This work is open source and open for feedback, correction, and collaborative improvement.
 
@@ -680,7 +680,7 @@ All URLs were verified as accessible in January 2026.
 23. TGA. (2023). FOI 4029: COVID-19 vaccine pharmacovigilance (VSIG work instruction, ACV meetings, safety reports). https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-01.PDF
 24. TGA. (2024, August). FOI 5082: COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 25. TGA. (2024). FOI 5275 Notice of Decision (21 August 2024). Third-party request for monthly cancer-incidence surveillance data related to Comirnaty provisional approval; response: documents do not exist; TGA does not hold incidence data. Obtained via FOI 26-2581 (decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
-26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (2,218 pages, 531 TRIM folders). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
+26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (2,218 pages, 531 TRIM folders). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf
 27. TGA. (2025, April 24). FOI 25-0166 consultation letter: practical-refusal position on 399 identified documents.
 
 ### Primary Sources: Parliamentary Evidence
@@ -754,7 +754,7 @@ All URLs were verified as accessible in January 2026.
 67. SSRN (DOI 10.2139/ssrn.6333058). https://doi.org/10.2139/ssrn.6333058
 68. SocArXiv (DOI 10.31235/osf.io/sb4gz). https://doi.org/10.31235/osf.io/sb4gz
 69. National Library of Australia (Australian Web Archive). https://webarchive.nla.gov.au/tep/221557
-70. Internet Archive (v1.9.1). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1
+70. Internet Archive (v1.9.3). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.3
 71. Arweave permanent storage. https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 72. TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 73. AustLII: OAIC decision AICmr 54. https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
