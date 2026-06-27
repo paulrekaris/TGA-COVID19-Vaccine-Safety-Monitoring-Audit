@@ -15,7 +15,7 @@ https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=commit
 
 TGA officials testified regarding COVID-19 vaccine safety monitoring implementation during Supplementary Budget Estimates hearing.
 
-### Key Exchange - Senator Antic & Dr Dascombe
+### Key Exchange - Senator Alex Antic & Dr Daniel Dascombe, Acting Medical Officer, Medicines Regulation Division, TGA
 
 **Senator Antic's Question:**
 Asked whether the COVID-19 Vaccine Safety Monitoring Plan (February 2021) was used, whether documents were collected, and if those documents are available.
