@@ -87,7 +87,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [The Call for Investigation](#the-call-for-investigation)
 - [Methodology and Evidence Base](#methodology-and-evidence-base)
   - [Assessment Framework](#assessment-framework)
-  - [Assessment Output Methodology](#assessment-output-methodology)
+  - [Assessment odology](#assessment-output-methodology)
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
@@ -671,7 +671,7 @@ This audit applies systematic evidence based principles consistent with:
 
 ### Assessment Output Methodology
 
-Each of the 19 Plan outputs was evaluated against documentary evidence categorised by a four-tier source-reliability hierarchy, ranking evidence by verifiability, reliability, and evidential authoritativeness:
+Each of the 19 Plan outputs (the Plan's 17 strategies plus 2 governance outputs) was evaluated against documentary evidence categorised by a four-tier source-reliability hierarchy, ranking evidence by verifiability, reliability, and evidential authoritativeness:
 
 - **Tier 1 — Primary Statutory Evidence:** FOI decision letters; OAIC submissions and determinations; direct TGA communications.
 - **Tier 2 — Primary Documentary Evidence:** Senate Hansard and Questions on Notice; TGA Annual Reports; published TGA safety reports; the COVID-19 Vaccine Safety Monitoring Plan.
