@@ -6,7 +6,7 @@
 
 ## 1. Purpose
 
-This codebook documents the variables, classification codes, evidence tiers, and rating scales used in the evidence rix underlying the TGA COVID-19 Vaccine Safety Monitoring Documentation Dataset (v1.9.3). The matrix assesses 19 analytical outputs derived from the TGA Safety Monitoring Plan (February 2021) — comprising 17 pharmacovigilance strategies and two additional governance-related outputs. The primary analytical unit is the assessed output classification, with each output mapped to associated documentary evidence, evidence tiers, severity ratings, and explanatory metadata. All summary statistics are directly reproducible from the matrix using standard analytical tools.
+This codebook documents the variables, classification codes, evidence tiers, and rating scales used in the evidence matrix underlying the TGA COVID-19 Vaccine Safety Monitoring Documentation Dataset (v1.9.3). The matrix assesses 19 analytical outputs derived from the TGA Safety Monitoring Plan (February 2021) — comprising 17 pharmacovigilance strategies and two additional governance-related outputs. The primary analytical unit is the assessed output classification, with each output mapped to associated documentary evidence, evidence tiers, severity ratings, and explanatory metadata. All summary statistics are directly reproducible from the matrix using standard analytical tools.
 
 Documented classification outcome across all 19 outputs: 3 Fully Implemented, 10 Partially Implemented, 6 Not Documented.
 
@@ -45,8 +45,7 @@ Collected materials are organised using a four-tier source-reliability framework
 
 ## 4. Severity Rating Scale
 
-Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation gap relative to the monitoring framework objectives. The mean severity rating across 
-all 19 outputs is 3.47.
+Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation gap relative to the monitoring framework objectives. The mean severity rating across all 19 outputs is 3.47.
 
 | Rating | Label | Definition |
 |---|---|---|
@@ -60,14 +59,14 @@ all 19 outputs is 3.47.
 
 ## 5. Analytical Objective Categories
 
-Assessed outputs are grouped under seven analytical objective categories used in status-by-objective cross-tabulation analysis. These categories reflect the Plan's five original pharmacovigilance objecti and two additional governance-related outputs.
+Assessed outputs are grouped under seven analytical objective categories used in status-by-objective cross-tabulation analysis. These categories reflect the Plan's five original pharmacovigilance objectives and two additional governance-related outputs.
 
 | Category | Scope |
 |---|---|
 | Governance | GOV-prefixed outputs; oversight and performance measurement |
 | Enhanced AEFI Reporting | Strategy outputs 1.x; all five outputs classified as at least Partially Implemented |
-| Signal Detection | Strategy outputs 2.x; all eight outputs Partially Implemented or Not Documented |
-| Actions (Regulatory) | Strategy outputs 3.x; regulatory response and risk management actions |
+| Signal Detection & Investigation | Strategy outputs 2.x; all eight outputs Partially Implemented or Not Documented |
+| Regulatory Actions | Strategy outputs 3.x; regulatory response and risk management actions |
 | Communications | Strategy outputs 4.x; public and stakeholder risk communication |
 | National Collaborations | Output 5.1; domestic inter-agency coordination and data sharing |
 | International Collaborations | Output 5.2; international information sharing and regulatory cooperation |
@@ -80,9 +79,9 @@ The following variables appear as columns in the primary evidence matrix, locate
 
 | Variable | Type | Description | Values / Format |
 |---|---|---|---|
-| Output ID | String | Unique identifier for each assessed output | GOV-x; 1.x–5.x |
+| Output ID | String | Unique identifier for each assessed output | GOV.x; 1.x–5.x |
 | Plan output | String | Plain-language title of the assessed output | Free text |
-| Assessment objective | String | Analytical objective category grouping | One of seven categories (see Section 5) |
+| Assessment objective | String | Full per-output objective text (the seven analytical categories in Section 5 are derived from the Output ID prefix) | Free text |
 | Status | Categorical | Documentation status classification | Fully Implemented / Partially Implemented / Not Documented |
 | Rating (1–5) | Integer | Severity rating of the documentation position | 1–5 |
 | Evidence Sources | String | Sources consulted in support of the classification | Free text; cross-referenced to primary-sources directory |
@@ -90,18 +89,18 @@ The following variables appear as columns in the primary evidence matrix, locate
 | Documentation Gaps | String | Identified gaps relative to Plan specifications | Free text |
 | Key References | String | Primary references underpinning the classification | Free text; DOIs and URLs where available |
 
-> **Note:** The Rating Criteria sheet within the evidence matrix specifies the evidence types that would close any finding currently classified as Partially Implemented or Not Documented. New documentary evidence may be tested against the published rubric and used to revise affected classifications.
+> **Note:** The Rating Criteria sheet within the evidence matrix specifies the evidence types that would close any finding currently classified as Partially Implemented or Not Documented. New documentary evidence may be tested against the published criteria and used to revise affected classifications.
 
 ---
 
 ## 7. Derived Summary Statistics
 
-The following statistics are directly reproducible from the evidence matrix using standard pivot or groupby operations in Python, R, or spreadsheet software.
+The following statistics are directly reproducible from the evidence matrix using standard pivot or groupby operations in Python, R, or spreadsheet software. The `Objective` field used in the status-by-objective and rating-by-objective operations is derived from the `Output ID` prefix, grouping the 19 outputs into the seven analytical objective categories listed in Section 5. Full runnable code, including this derivation, is provided in the [Replication README](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/replication-readme.md).
 
 | Statistic | Derivation | Python Operation |
 |---|---|---|
 | Documentation status distribution | Count of outputs by Status | `df['Status'].value_counts()` |
-| Status by objective cross-tabulation | Pivot of Status × Objective category | `pd.crosstab(df['Objective'], df['Status'])` |
+| Status by objective cross-tabulation | Pivot of Status × derived Objective category | `pd.crosstab(df['Objective'], df['Status'])` |
 | Severity rating by objective | Mean, min, max of Rating (1–5) grouped by Objective | `df.groupby('Objective')['Rating (1-5)'].agg(['mean','min','max'])` |
 | Mean severity rating | Average of Rating (1–5) across all 19 outputs | `df['Rating (1-5)'].mean()` → 3.47 |
 
@@ -121,11 +120,11 @@ Later document releases or institutional disclosures may alter the available evi
 
 The dataset was developed using a documentation analysis approach informed by ISO 19011:2018 auditing principles, ANAO performance audit guidance, and pharmacovigilance standards including ICH E2E and CIOMS Working Group VIII. Classifications were assigned by the auditor (Rekaris, P.) through mapping of specified Plan outputs to corresponding documentary evidence using predefined classification criteria and evidence tier classification.
 
-All source erials were obtained through lawful public accountability mechanisms. The full methodology, version history, evidence handling procedures, and open repository documentation are documented in this repository: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+All source materials were obtained through lawful public accountability mechanisms. The full methodology, version history, evidence handling procedures, and open repository documentation are documented in this repository: https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 
 Replication code for all summary statistics is provided in [Replication README](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/replication-readme.md).
 
 ---
 
-**Codebook vesrion:** v1.0  
-**Last updated:** 25 June 2026
+**Codebook version:** v1.1  
+**Last updated:** 28 June 2026
