@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- ============================================================
+     SEARCH-FACING METADATA
+     This does the work in search results and does not render
+     on the visible page. Canonical and og:url are already set
+     to the live address. Only change them if the page moves.
+     ============================================================ -->
+<title>Did Australia's TGA Monitor COVID Vaccine Safety as Promised?</title>
+<meta name="description" content="Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented.">
+<meta name="robots" content="index, follow">
+<meta name="author" content="Paul Rekaris">
+<link rel="canonical" href="https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="TGA COVID-19 Vaccine Safety Monitoring Audit">
+<meta property="og:title" content="Did Australia's TGA monitor COVID vaccine safety as promised?">
+<meta property="og:description" content="An independent four-year audit and freedom-of-information investigation into whether Australia's drug regulator, the Therapeutic Goods Administration, complied with the enhanced COVID-19 vaccine safety monitoring it committed to in February 2021.">
+<meta property="og:url" content="https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/">
+<meta property="og:locale" content="en_AU">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Did Australia's TGA monitor COVID vaccine safety as promised?">
+<meta name="twitter:description" content="An independent four-year audit of whether Australia's Therapeutic Goods Administration complied with the enhanced COVID-19 vaccine safety monitoring it promised. 3 of 19 outputs documented.">
+
+<!-- Structured data: ties this page to the author and every deposit,
+     so search engines treat them as one work by one identified author. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "name": "Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan",
+  "headline": "Did Australia's Therapeutic Goods Administration deliver the enhanced COVID-19 vaccine safety monitoring it promised?",
+  "description": "An independent four-year documentary audit and freedom-of-information investigation of whether Australia's drug regulator, the Therapeutic Goods Administration (TGA), implemented and can demonstrate compliance with the enhanced COVID-19 vaccine safety monitoring committed to in its February 2021 plan. Of 19 audited plan outputs, only 3 are fully documented.",
+  "datePublished": "2026-01-12",
+  "inLanguage": "en-AU",
+  "url": "https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creativeWorkStatus": "Published",
+  "author": {
+    "@type": "Person",
+    "name": "Paul Rekaris",
+    "identifier": "https://orcid.org/0009-0000-1338-9578",
+    "sameAs": "https://orcid.org/0009-0000-1338-9578"
+  },
+  "identifier": [
+    { "@type": "PropertyValue", "propertyID": "DOI", "value": "10.2139/ssrn.6333058" },
+    { "@type": "PropertyValue", "propertyID": "DOI", "value": "10.5281/zenodo.17731054" }
+  ],
+  "sameAs": [
+    "https://doi.org/10.2139/ssrn.6333058",
+    "https://doi.org/10.2139/ssrn.6610438",
+    "https://doi.org/10.5281/zenodo.17731054",
+    "https://doi.org/10.7910/DVN/BDKZQJ",
+    "https://doi.org/10.17632/y5wmt6f8j9",
+    "https://doi.org/10.31235/osf.io/sb4gz",
+    "https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit"
+  ],
+  "about": [
+    { "@type": "Thing", "name": "COVID-19 vaccine safety monitoring" },
+    { "@type": "Thing", "name": "Pharmacovigilance" },
+    { "@type": "Thing", "name": "Regulatory compliance" },
+    { "@type": "GovernmentOrganization", "name": "Therapeutic Goods Administration", "alternateName": "TGA" }
+  ],
+  "keywords": "Therapeutic Goods Administration, TGA, COVID-19 vaccines, vaccine safety monitoring, pharmacovigilance, regulatory compliance, provisional approval, ISO 19011, freedom of information, Australia"
+}
+</script>
+
+<meta name="theme-color" content="#1d4e4a">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --paper:#f7f7f4;
+    --ink:#181b1a;
+    --slate:#565c58;
+    --rule:#d8d9d2;
+    --accent:#1d4e4a;     /* ink-teal: standards / official */
+    --finding:#7a2230;    /* oxblood: the audit redline */
+    --measure:42rem;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:18px;
+    line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{
+    max-width:var(--measure);
+    margin:0 auto;
+    padding:clamp(2rem,6vw,5rem) 1.4rem 4rem;
+  }
+  a{color:var(--accent);text-underline-offset:2px;text-decoration-thickness:1px}
+  a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+
+  .eyebrow{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.72rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:var(--accent);
+    margin:0 0 1.4rem;
+  }
+  h1{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-weight:500;
+    font-size:clamp(1.85rem,5.4vw,2.7rem);
+    line-height:1.16;
+    letter-spacing:-.01em;
+    margin:0 0 1rem;
+  }
+  .dek{
+    font-size:1.06rem;
+    color:var(--slate);
+    margin:0 0 2.2rem;
+    max-width:34rem;
+  }
+  hr{
+    border:0;
+    border-top:1px solid var(--rule);
+    margin:2.6rem 0;
+  }
+  p{margin:0 0 1.15rem}
+  .lede p{font-size:1.06rem}
+
+  .finding{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-size:clamp(1.18rem,3.4vw,1.5rem);
+    line-height:1.4;
+    font-weight:400;
+    border-left:3px solid var(--finding);
+    padding:.2rem 0 .2rem 1.3rem;
+    margin:2.4rem 0;
+  }
+  .finding b{color:var(--finding);font-weight:500;font-variant-numeric:tabular-nums}
+
+  h2{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.78rem;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--slate);
+    font-weight:500;
+    margin:0 0 1.1rem;
+  }
+
+  .faq h3{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-size:1.06rem;
+    font-weight:500;
+    line-height:1.3;
+    margin:1.5rem 0 .4rem;
+  }
+  .faq h3:first-of-type{margin-top:0}
+  .faq p{margin:0 0 .4rem;color:var(--slate)}
+
+  .points{margin:0 0 1rem;padding:0;list-style:none}
+  .points li{
+    padding:.7rem 0;
+    border-top:1px solid var(--rule);
+    display:grid;
+    grid-template-columns:auto 1fr;
+    gap:.9rem;
+  }
+  .points li:last-child{border-bottom:1px solid var(--rule)}
+  .points .n{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.82rem;
+    color:var(--accent);
+    padding-top:.18rem;
+  }
+
+  .record{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.82rem;
+    line-height:1.5;
+  }
+  .record .row{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:.1rem;
+    padding:.65rem 0;
+    border-top:1px solid var(--rule);
+  }
+  .record .row:last-child{border-bottom:1px solid var(--rule)}
+  .record .k{color:var(--slate)}
+  .record .v{word-break:break-word}
+  @media(min-width:34rem){
+    .record .row{grid-template-columns:13rem 1fr;gap:1rem;align-items:baseline}
+  }
+
+  .refs{font-size:.95rem;color:var(--slate)}
+  .refs p{margin:0 0 .7rem}
+
+  .cta{
+    display:inline-block;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.82rem;
+    letter-spacing:.04em;
+    border:1px solid var(--accent);
+    color:var(--accent);
+    padding:.7rem 1.1rem;
+    text-decoration:none;
+    margin-top:.6rem;
+  }
+  .cta:hover{background:var(--accent);color:var(--paper)}
+  .cta:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+
+  footer{
+    margin-top:3.4rem;
+    padding-top:1.4rem;
+    border-top:1px solid var(--rule);
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.74rem;
+    color:var(--slate);
+    line-height:1.7;
+  }
+  footer a{color:var(--slate)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <p class="eyebrow">Independent audit &middot; ISO 19011:2018</p>
+  <h1>Australia&rsquo;s COVID-19 Vaccine Safety Monitoring: An Independent Audit</h1>
+  <p class="dek">Did Australia&rsquo;s drug regulator, the Therapeutic Goods Administration (TGA), carry out the enhanced vaccine safety monitoring it promised? A four-year documentary audit of its compliance, tested against the plan&rsquo;s own commitments.</p>
+</header>
+
+<main>
+  <section class="lede">
+    <p>When Australia approved COVID-19 vaccines for provisional use, its drug regulator, the Therapeutic Goods Administration (TGA), published a February 2021 plan promising enhanced vaccine safety monitoring across the rollout. This is an independent audit and freedom-of-information investigation of whether that monitoring can be shown to have happened, assessing the TGA&rsquo;s compliance against the plan&rsquo;s own commitments using the international auditing standard ISO 19011:2018, Australian National Audit Office guidance, and open-source analysis of public records.</p>
+    <p>It examines 68.4 million doses (91.2% of Australia&rsquo;s rollout) across four years. The question is narrow and verifiable: can the implementation of the vaccine safety monitoring plan, and the regulator&rsquo;s compliance with it, be independently confirmed through records, as an enhanced framework relied upon for provisional approval requires?</p>
+  </section>
+
+  <p class="finding">The audit did not identify documentary evidence that the TGA systematically implemented the enhanced vaccine safety monitoring framework described in its February 2021 plan, leaving its compliance with that plan unverifiable from the documentary record. Of 19 audited plan outputs, only <b>3</b> are fully documented; the remaining <b>16</b> are partially documented or not documented at all.</p>
+
+  <hr>
+
+  <section>
+    <h2>What the audit found</h2>
+    <ul class="points">
+      <li><span class="n">01</span><span>In September 2024, directed by the Office of the Australian Information Commissioner, the TGA identified no implementation records for the safety monitoring plan &mdash; a position the Commissioner confirmed in Decision [2025] AICmr 54.</span></li>
+      <li><span class="n">02</span><span>Senior TGA officials testified to the Senate (9 October 2025) that monitoring occurred through routine &ldquo;day-to-day processes&rdquo;, not as the distinct, systematically tracked framework the plan described.</span></li>
+      <li><span class="n">03</span><span>The TGA reports 148 safety signals investigated and 57 regulatory actions taken, yet no documented audit trail links signals to actions or accounts for the disposition of the remaining 91.</span></li>
+      <li><span class="n">04</span><span>The methodology is open, falsifiable and replicable. Every finding is traceable to a public or FOI-released source, and the full evidence base is published for independent scrutiny.</span></li>
+    </ul>
+  </section>
+
+  <hr>
+
+  <section class="faq">
+    <h2>Questions</h2>
+    <h3>Did the TGA implement its COVID-19 vaccine safety monitoring plan?</h3>
+    <p>On the documentary record, this cannot be confirmed. The audit found that 16 of 19 plan outputs are partially documented or not documented at all, and the regulator could produce no implementation records when directed to search for them.</p>
+    <h3>Is this an official government audit?</h3>
+    <p>No. It is an independent audit by a private researcher, conducted under ISO 19011:2018 using public and freedom-of-information records. It has been submitted to the Australian National Audit Office and cited in the Senate, but it is not a government report.</p>
+    <h3>Can the findings be checked?</h3>
+    <p>Yes. Every finding is traceable to a public or FOI-released source, and the full evidence base, methodology and dataset are openly published under a CC BY 4.0 licence for independent verification.</p>
+  </section>
+
+  <hr>
+
+  <section>
+    <h2>Permanent record</h2>
+    <div class="record">
+      <div class="row"><span class="k">Audit report (SSRN)</span><span class="v"><a href="https://doi.org/10.2139/ssrn.6333058">10.2139/ssrn.6333058</a></span></div>
+      <div class="row"><span class="k">Dataset paper (SSRN)</span><span class="v"><a href="https://doi.org/10.2139/ssrn.6610438">10.2139/ssrn.6610438</a></span></div>
+      <div class="row"><span class="k">Archive (Zenodo)</span><span class="v"><a href="https://doi.org/10.5281/zenodo.17731054">10.5281/zenodo.17731054</a></span></div>
+      <div class="row"><span class="k">Dataset (Harvard Dataverse)</span><span class="v"><a href="https://doi.org/10.7910/DVN/BDKZQJ">10.7910/DVN/BDKZQJ</a></span></div>
+      <div class="row"><span class="k">Dataset (Mendeley Data)</span><span class="v"><a href="https://doi.org/10.17632/y5wmt6f8j9">10.17632/y5wmt6f8j9</a></span></div>
+      <div class="row"><span class="k">Preprint (SocArXiv)</span><span class="v"><a href="https://doi.org/10.31235/osf.io/sb4gz">10.31235/osf.io/sb4gz</a></span></div>
+      <div class="row"><span class="k">National Library of Australia</span><span class="v">NED447016P1081502</span></div>
+      <div class="row"><span class="k">Source repository</span><span class="v"><a href="https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit">github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit</a></span></div>
+    </div>
+  </section>
+
+  <hr>
+
+  <section class="refs">
+    <h2>Cited and corroborated</h2>
+    <p>Australian Senate Hansard, 24 March 2026 (Senator Malcolm Roberts) &mdash; <a href="https://www.openaustralia.org.au/senate/?id=2026-03-24.309.2">presented to the Senate</a>.</p>
+    <p>Office of the Australian Information Commissioner, Decision [2025] AICmr 54 (26 March 2025).</p>
+    <p>TGA evidence to the Senate Community Affairs Legislation Committee, 9 October 2025.</p>
+    <p style="margin-top:1.4rem">
+      <a class="cta" href="https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit">Read the full audit and evidence base &rarr;</a>
+    </p>
+  </section>
+</main>
+
+<footer>
+  &copy; 2026 Paul Rekaris &middot; Independent researcher &middot;
+  ORCID <a href="https://orcid.org/0009-0000-1338-9578">0009-0000-1338-9578</a><br>
+  Licensed CC BY 4.0 &middot; Version 1.9.3, June 2026 &middot; Therapeutic Goods Administration (TGA), Australia
+</footer>
+</div>
+</body>
+</html>
