@@ -87,7 +87,7 @@ This repository has been accepted for preservation by the National Library of Au
 - [The Call for Investigation](#the-call-for-investigation)
 - [Methodology and Evidence Base](#methodology-and-evidence-base)
   - [Assessment Framework](#assessment-framework)
-  - [Assessment odology](#assessment-output-methodology)
+  - [Assessment Output Methodology](#assessment-output-methodology)
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
