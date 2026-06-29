@@ -560,7 +560,7 @@ The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised Nati
 
 ### The Audit Question
 
-The audit question is whether the Plan’s 17 numbered strategies were implemented as distinct, documentable processes. The TGA conducted pharmacovigilance activities during the rollout, investigating 148 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
+The audit question is whether the Plan’s 17 numbered strategies were implemented as distinct, documentable processes. The TGA conducted pharmacovigilance activities during the rollout, investigating 150 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
 
 The Plan's 17 strategies included:
 * Active surveillance through AusVaxSafety integration (Strategy 2.1)
@@ -737,7 +737,7 @@ https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s (2:30:40–2:37:00)
 **Hansard:**  
 https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
-**Key testimony:** TGA officials stated Plan implementation was never systematically tracked and monitoring occurred through "day-to-day processes" rather than distinct enhanced framework. Confirmed 148 safety signals investigated and 57 regulatory actions taken.
+**Key testimony:** TGA officials stated Plan implementation was never systematically tracked and monitoring occurred through "day-to-day processes" rather than distinct enhanced framework. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
 
 [Full testimony analysis →](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
