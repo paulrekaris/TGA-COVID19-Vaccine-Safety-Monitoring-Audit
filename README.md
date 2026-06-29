@@ -202,11 +202,11 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
 > 
 > #### 3. Only 16% of Plan outputs have complete implementation documentation  
-> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
+> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches. > 
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale)
-  
+>  
 > 
 > #### 5. AusVaxSafety integration cannot be demonstrated
 > Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration. AusVaxSafety conducted 6.8 million SMS surveys capturing approximately 3 million adverse events and described its program as operating "as part of" the TGA-led national pharmacovigilance plan. No coordination protocols, data integration frameworks, or audit trails showing how these active surveillance findings informed TGA signal detection or regulatory decisions have been located through four years of FOI requests, OAIC-directed searches, or systematic review of published TGA material. TGA's OAIC-directed searches omitted "AusVaxSafety" as a search term entirely — a significant methodological gap given its explicit role in the Plan.
