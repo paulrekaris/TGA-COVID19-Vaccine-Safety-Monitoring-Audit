@@ -117,10 +117,10 @@ Question 20 asked TGA to provide documentary evidence demonstrating how each of 
 | **Strategy** | **Documentation Level** | **Audit Finding Impact** |
 |---|---|---|
 | **1. Enhanced Reporting** | Partial | Consistent with existing rating |
-| **2. Signal Detection** | Not documented | Strengthens Findings 2, 5 and 93-signal gap |
+| **2. Signal Detection** | Not documented | Strengthens Findings 4, 5 and 93-signal gap |
 | **3. Regulatory Actions** | Partial | Confirms 57 actions, reinforces 93-signal gap |
 | **4. Communications** | Partial | Reinforces communications contradiction |
-| **5. Collaborations** | Not documented | Strengthens Findings 2 and 5 |
+| **5. Collaborations** | Not documented | Strengthens Finding 5 |
 
 ---
 
@@ -168,7 +168,7 @@ TGA possessed and used these methodologies internally. The QON answer does not p
 
 **GVP Module IX principle:** Signal management must include documented disposition — validated, refuted, or ongoing monitoring. The 93-signal gap demonstrates this requirement is not met on the public record.
 
-**Finding:** Not documented at Plan output level. This is the most significant gap in TGA's QON answer. It directly strengthens Finding 2 (No Coordination Protocols), Finding 5 (No Signal Pathways), and the 93-signal gap derived finding. The audit's conformity rating for Output 2.2 — not documented — is reinforced.
+**Finding:** Not documented at Plan output level. This is the most significant gap in TGA's QON answer. It directly strengthens Finding 4 (signal investigation audit trails), Finding 5 (AusVaxSafety integration), and the 93-signal gap derived finding. The audit's conformity rating for Output 2.2 — not documented — is reinforced.
 
 ---
 
@@ -237,7 +237,7 @@ Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer 
 
 **Malikova (2020) relevance:** Signal management requires documented integration of multiple data sources with all actions accurately tracked at every stage. TGA's collaboration answer describes meetings and briefings but produces no documented integration methodology between surveillance streams.
 
-**Finding:** Not documented at Plan output level. AusVaxSafety omission directly strengthens Finding 5 (AusVaxSafety integration gap). The absence of any coordination protocol documentation reinforces Finding 2 (No Coordination Protocols). This is the second most significant gap in TGA's QON answer after Strategy 2.
+**Finding:** Not documented at Plan output level. AusVaxSafety omission directly strengthens Finding 5 (AusVaxSafety integration gap). The absence of any coordination protocol documentation reinforces Finding 4 (signal investigation audit trails). This is the second most significant gap in TGA's QON answer after Strategy 2.
 
 **Methodology Note:** This assessment evaluates whether TGA's QON answers demonstrate Plan-level documentation — specifically whether activities are mapped to the Plan's numbered outputs and strategies. It applies a finer-grained standard than the main ISO 19011 conformity assessment, which rates output delivery. A strategy may be rated Partial here where the main conformity assessment rates the corresponding output Fully Documented — for example, Strategy 4 (Communications): TGA's QON answer references 104 dedicated safety reports (the weekly/fortnightly series); the broader surveillance corpus exceeds 150 documents when safety updates, media statements, and supplementary publications are included. Reports were published (fully documented as output delivery) but contain zero Plan framework references (partial at Plan integration level). Both assessments are correct within their respective scopes.
 
@@ -251,7 +251,7 @@ Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer 
 | **2. Signal Detection** | Statistical methodology outputs | General activity described, no methodology produced | Not documented | Strengthens Findings 4 and 5 and 93-signal gap |
 | **3. Regulatory Actions** | Signal-to-action audit trail | 57 actions listed, 93 gaps remain | Partial | Confirms 57 actions, reinforces Finding 4 and 93-signal gap |
 | **4. Communications** | Plan-referenced public reports | 104 reports confirmed across dedicated safety report series (150+ across broader document class), zero Plan references | Partial | Reinforces Finding 2 (day-to-day processes) and public communication versus policy commitments |
-| **5. Collaborations** | Documented coordination protocols | Five examples described, AusVaxSafety omitted | Not documented | Strengthens Findings 2 and 5 |
+| **5. Collaborations** | Documented coordination protocols | Five examples described, AusVaxSafety omitted | Not documented | Strengthens Finding 5 |
 
 **Pattern across all five strategies:** TGA's answers consistently describe activities rather than producing documentation. No strategy answer maps activities to the Plan's numbered outputs. No strategy answer produces an implementation document demonstrating the Plan functioned as a systematic accountability framework distinct from routine pharmacovigilance.
 
@@ -259,14 +259,11 @@ Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer 
 
 ## Selected Key Updates to Audit Findings
 
-**Finding 2 — No Coordination Protocols: Strengthened**
-Strategy 5 answer omits AusVaxSafety entirely despite Strategy 2.4's specific commitment. No coordination protocol documentation produced for any collaboration partner.
-
 **Finding 4 — Signal Investigations Lack Audit Trails: Significantly Strengthened**
 93-signal gap is now a derived finding from TGA's own parliamentary record numbers — 150 signals investigated, 57 regulatory actions, 93 with no publicly documented decision rationale. This is the strongest corroboration in the QON 559 analysis.
 
-**Finding 5 — AusVaxSafety Signal Pathways Not Evidenced: Significantly Strengthened**
-Strategy 2 answer produces no signal detection methodology outputs despite [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) proving methodology existed. AusVaxSafety omitted from Strategy 5 collaboration answer entirely.
+**Finding 5 — AusVaxSafety Integration Not Evidenced: Significantly Strengthened**
+Strategy 2 answer produces no signal detection methodology outputs despite [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) proving methodology existed. AusVaxSafety is omitted entirely from the Strategy 5 collaboration answer, and no coordination protocol documentation is produced for any collaboration partner, despite Strategy 2.4's specific commitment.
 
 **Finding 7 — 0% Implementation for Core Monitoring: Confirmed**
 Strategy 2 (Signal Detection) produces no methodology outputs — not documented at Plan output level. Governance produces no documentation across any strategy answer. Consistent with ISO 19011 conformity assessment Objective 2 and Governance both at 0%.
