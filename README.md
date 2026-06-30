@@ -205,7 +205,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
-> TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale)
+> TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale).
 >  
 > 
 > #### 5. AusVaxSafety integration cannot be demonstrated
