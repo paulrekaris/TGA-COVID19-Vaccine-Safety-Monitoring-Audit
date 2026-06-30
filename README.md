@@ -327,7 +327,7 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 **What TGA reported**
 
 - 150 safety signals investigated (148 per Senate testimony, 9 October 2025; updated to 150 in Senate QON 559).  
-- 57 regulatory or consumer‑information actions taken (Senate testimony, 9 October 2025).
+- 57 regulatory or consumer‑information actions taken, e.g. Product Information warnings and safety alerts (Senate testimony, 9 October 2025).
 
 **What is missing**
 
