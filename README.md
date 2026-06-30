@@ -91,7 +91,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [Rating Criteria](#rating-criteria)
 - [Evidence Sources](#evidence-sources)
 - [Documentary Evidence of TGA Documentation Capacity](#documentary-evidence-of-tga-documentation-capacity)
-  - [FOI 5082: TGA Vaccine Pharmacovigilance System](#foi-5082-tga-vaccine-pharmacovigilance-system)
+  - [FOI : TGA Vaccine Pharmacovigilance System](#foi--tga-vaccine-pharmacovigilance-system)
 - [Limitations and Falsifiability](#limitations-and-falsifiability)
   - [Scope](#scope)
   - [Meaning of Documentation Gaps](#meaning-of-documentation-gaps)
@@ -770,7 +770,7 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Critical evidentiary significance**
 
-FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain zero evidence of Safety Plan integration or compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—demonstrates this absence reflects non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
+FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain zero evidence of Safety Plan integration or compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—is consistent with non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
 ### Evidence Storage and Research Standards
 
@@ -1017,7 +1017,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.3  
-**Last Updated:** 29 June 2026  
+**Last Updated:** 30 June 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
