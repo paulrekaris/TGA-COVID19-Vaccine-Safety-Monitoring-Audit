@@ -34,11 +34,11 @@ This directory contains the main audit report and supporting analysis materials.
 
 ## Visual Summaries
 
-- [TGA FOI Analysis](tga-foi-analysis.pdf) – FOI timeline analysis (2022-2025) documenting contradictory TGA responses
+- [TGA Audit One Page Methodology Flowchart](tga-audit-one-page-flowchart.pdf) - One-page visual flowchart of audit methodology, evidence hierarchy, and key findings
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
 
-- [TGA Audit One Page Methodology Flowchart](tga-audit-one-page-flowchart.pdf) - One-page visual flowchart of audit methodology, evidence hierarchy, and key findings
+- [TGA FOI Analysis](tga-foi-analysis.pdf) – FOI timeline analysis (2022-2025) documenting contradictory TGA responses
 
 
 **Last Updated:** 30 June 2026    
