@@ -218,18 +218,17 @@ Bitcoin blockchain timestamps provide cryptographically immutable proof that thi
 5. The tool will confirm: "Bitcoin block 942725 attests existence as of 2026-03-29 AEDT"   
 
 ---
-
 ## Arweave Permanent Storage
+### Deposited Version: v1.9.2
+**Upload / Confirmation Date:** 27 March 2026, 9:55 AM AEDT
+**Transaction ID:** `TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps`
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.2.zip
+**Size:** 64.44 MB
+**Status:** CONFIRMED — permanent and publicly retrievable
 
-### Current Version (v1.9.2)   
-**Upload Date:** March 27, 2026      
-**Confirmation Date:** March 27, 2026 - 9:55 AM AEDT     
-**Transaction ID:** `TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps`     
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit v1.9.2.zip     
-**Size:** 64.44 MB     
-**Status:** CONFIRMED - Permanent and Accessible      
+Retrieve via [turbo-gateway](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) or [arweave.net](https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) · Verify on-chain: [ViewBlock](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
-Transaction status independently verified via [ViewBlock explorer](arweave-transaction-verification-2026-03-29.png) on 29 March 2026 (1,468 confirmations, block 1,884,750).
+Transaction independently verified via ViewBlock explorer ([screenshot](arweave-transaction-verification-2026-03-29.png)) on 29 March 2026 (block 1,884,750; 1,468 confirmations as at that date).
 
 ### Significance   
 Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
@@ -337,4 +336,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 19 June 2026
+**Last updated:** 1 July 2026
