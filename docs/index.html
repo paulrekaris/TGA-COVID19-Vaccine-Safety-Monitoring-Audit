@@ -81,8 +81,8 @@ so search engines treat them as one work by one identified author. -->
 --ink:#181b1a;
 --slate:#565c58;
 --rule:#d8d9d2;
---accent:#1d4e4a; /* ink-teal: standards / official */
---finding:#7a2230; /* oxblood: the audit redline */
+--accent:#1d4e4a;
+--finding:#7a2230;
 --measure:42rem;
 }
 *{box-sizing:border-box}
@@ -169,18 +169,15 @@ font-style:italic;
 color:var(--slate);
 margin:0 0 1.2rem;
 padding:.6rem 0 0;
-border-top:1px solid var(--rule);
 }
 
 .points{margin:0 0 1rem;padding:0;list-style:none}
 .points li{
 padding:.7rem 0;
-border-top:1px solid var(--rule);
 display:grid;
 grid-template-columns:auto 1fr;
 gap:.9rem;
 }
-.points li:last-child{border-bottom:1px solid var(--rule)}
 .points .n{
 font-family:"IBM Plex Mono",monospace;
 font-size:.82rem;
@@ -198,9 +195,7 @@ display:grid;
 grid-template-columns:1fr;
 gap:.1rem;
 padding:.65rem 0;
-border-top:1px solid var(--rule);
 }
-.record .row:last-child{border-bottom:1px solid var(--rule)}
 .record .k{color:var(--slate)}
 .record .v{word-break:break-word}
 @media(min-width:34rem){
@@ -227,7 +222,6 @@ margin-top:.6rem;
 footer{
 margin-top:3.4rem;
 padding-top:1.4rem;
-border-top:1px solid var(--rule);
 font-family:"IBM Plex Mono",monospace;
 font-size:.74rem;
 color:var(--slate);
