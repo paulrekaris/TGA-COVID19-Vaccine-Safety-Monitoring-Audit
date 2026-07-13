@@ -338,4 +338,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 1 July 2026
+**Last updated:** 13 July 2026
