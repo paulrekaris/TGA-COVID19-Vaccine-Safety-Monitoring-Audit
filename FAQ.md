@@ -669,7 +669,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - SSRN: https://doi.org/10.2139/ssrn.6333058
 - Mendeley Data: https://doi.org/10.17632/y5wmt6f8j9
 - SocArXiv: https://osf.io/preprints/socarxiv/sb4gz  
-- National Library of Australia – Legal Deposit: NED447016P1081502 [https://nla.gov.au/nla.obj-4148163541/view](https://nla.gov.au/nla.obj-4148163541/view)
+- National Library of Australia – Legal Deposit: NED476889S65171 [https://nla.gov.au/nla.obj-4238332288](https://nla.gov.au/nla.obj-4148163541/view)
 - Bitcoin timestamp: 29 March 2026
 - Arweave (blockchain): [Permanent Storage](blockchain-and-archival-verification/)
 - Internet Archive: [Direct Upload](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1) | [Wayback Machine](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
