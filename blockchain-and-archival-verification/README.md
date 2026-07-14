@@ -81,7 +81,7 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 
 ### Access
 
-**Direct Link:** https://nla.gov.au/nla.obj-4238332288 (Multi-part monograph)
+**Direct Link:** https://nla.gov.au/nla.obj-4238332288 (Multi-part monograph)   
 **Trove Discovery:** https://trove.nla.gov.au/  
 
 ---
@@ -101,7 +101,7 @@ AWA is a selective web archive operated by the National Library of Australia. Th
 
 ### Access
 
-**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/  
+**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/     
 **Trove Discovery:** https://trove.nla.gov.au/  
 
 ---
