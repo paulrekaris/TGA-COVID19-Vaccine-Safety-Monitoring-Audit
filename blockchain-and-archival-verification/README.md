@@ -67,10 +67,10 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 
 ## National Library of Australia – National edeposit (NED)
 
-**Deposit ID:** NED447016  
-**NLA Reference ID:** NED447016P1081502  
-**Deposit Date:** 3 February 2026, 11:24 AM AEDT  
-**Title:** TGA COVID-19 Vaccine Safety Monitoring Audit: Documentation Gap Analysis  
+**Deposit ID:** NED477153
+**NLA Reference ID:** NED477153P1133159
+**Deposit Date:** 14 July 2026, 10:16 AM AEST  
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
 **File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf  
 **Size:** 1.1 MB  
 **Status:** Available via Trove
@@ -81,7 +81,7 @@ National edeposit fulfills Commonwealth digital legal deposit requirements. Regi
 
 ### Access
 
-**Direct Link:** https://webarchive.nla.gov.au/awa/20260204014956/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/  
+**Direct Link:** https://nla.gov.au/nla.obj-4238332288 (Multi-part monograph)
 **Trove Discovery:** https://trove.nla.gov.au/  
 
 ---
