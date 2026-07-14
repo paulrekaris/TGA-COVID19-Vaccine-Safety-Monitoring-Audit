@@ -67,13 +67,13 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 
 ## National Library of Australia – National edeposit (NED)
 
-**Deposit ID:** NED477153
-**NLA Reference ID:** NED477153P1133159
-**Deposit Date:** 14 July 2026, 10:16 AM AEST  
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
-**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf  
-**Size:** 1.1 MB  
-**Status:** Available via Trove
+**Deposit ID:** NED477153   
+**NLA Reference ID:** NED477153P1133159    
+**Deposit Date:** 14 July 2026, 10:16 AM AEST    
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan    
+**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf     
+**Size:** 1.1 MB    
+**Status:** Available via Trove     
 
 ### Significance
 
@@ -338,4 +338,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 13 July 2026
+**Last updated:** 14 July 2026
