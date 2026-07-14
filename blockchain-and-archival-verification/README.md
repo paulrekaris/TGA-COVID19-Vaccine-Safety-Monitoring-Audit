@@ -322,7 +322,7 @@ This audit is protected by multiple independent verification methods:
 
 **Dataset Paper:** The companion dataset paper and evidence matrix are separately archived at Zenodo (10.5281/zenodo.20175557) and SSRN (10.2139/ssrn.6610438).  
 
-Full deposit records are maintained in [permanent-archive-records-2026-06-15.pdf](permanent-archive-records-2026-07-14.pdf).
+Full deposit records are maintained in [permanent-archive-records](permanent-archive-records-2026-07-14.pdf).
 
 ### Preservation Standard
 
