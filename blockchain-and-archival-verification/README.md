@@ -70,10 +70,10 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 **Deposit ID:** NED477153   
 **NLA Reference ID:** NED477153P1133159    
 **Deposit Date:** 14 July 2026, 10:16 AM AEST    
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
-**Version:** v1.9.3     
-**Date:** 16 June 2026    
-**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf     
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan   
+**Version:** v1.9.3             
+**Date:** 16 June 2026          
+**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf         
 **Size:** 1.1 MB    
 **Status:** Available via Trove     
 
