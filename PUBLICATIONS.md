@@ -68,7 +68,7 @@ Companion paper describing the structured dataset and methodology compiled betwe
 
 ## Related Publications
 
-*Further publications drawing on this audit including peer review research at international academic journals are in preparation and will be listed here as they become available.*
+*Further publications drawing on this audit, including research submitted to international peer-reviewed academic journals, are in preparation and will be listed here as they become available*
 
 ---
 
