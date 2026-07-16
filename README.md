@@ -218,7 +218,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 audited Plan outputs.
 >
 > #### 8. Safety Monitoring Plan did not meet auditability standards
-> The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO performance audit standards. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five objectives; the audit maintained a conservative  of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
+> The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO performance audit standards. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five objectives; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
 
 
 ## The Accountability Standard
@@ -307,7 +307,7 @@ Each plausible explanation points to a serious failure in implementation, docume
 
 ### Implementation Status by the Numbers
 
-The assessment systematically evaluated all 19 plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO performance audit standards. [^plan-]
+The assessment systematically evaluated all 19 plan outputs against publicly available evidence, using ISO 19011:2018 audit principles and ANAO performance audit standards. [^plan-scope]
 
 **Overall implementation**          
 
@@ -582,11 +582,11 @@ This question is critical. Approximately 68.4 million COVID-19 vaccine doses (ar
 * The integrity of the provisional approval pathway is compromised
 * Fundamental accountability is impaired
 
-The audit  is limited to documented implementation of the 17 enhanced monitoring strategies committed to by the TGA during the provisional approval period and specified in its February 2021 COVID-19 Vaccine Safety Monitoring Plan, together with two additional governance outputs. It examines whether those strategies were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+The audit scope is limited to documented implementation of the 17 enhanced monitoring strategies committed to by the TGA during the provisional approval period and specified in its February 2021 COVID-19 Vaccine Safety Monitoring Plan, together with two additional governance outputs. It examines whether those strategies were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
 
 ## The Challenge of Black Box Governance for Private Citizens
 
-This audit begins with a contradiction that defines its entire : The TGA promised a verifiable “enhanced” system as the oversight framework underpinning provisional approval. Four years later, it described that system as undocumented 'day-to-day' processes. Our task is to investigate the gap between that promise and that description using the limited tools of a citizen. We confront the fundamental accountability problem of information asymmetry: regulators hold complete knowledge of internal processes while citizens see only outputs. When the TGA announced "enhanced safety monitoring," it created a definitional crisis: where does routine pharmacovigilance end and enhanced monitoring begin?
+This audit begins with a contradiction that defines its entire scope: The TGA promised a verifiable “enhanced” system as the oversight framework underpinning provisional approval. Four years later, it described that system as undocumented 'day-to-day' processes. Our task is to investigate the gap between that promise and that description using the limited tools of a citizen. We confront the fundamental accountability problem of information asymmetry: regulators hold complete knowledge of internal processes while citizens see only outputs. When the TGA announced "enhanced safety monitoring," it created a definitional crisis: where does routine pharmacovigilance end and enhanced monitoring begin?
 
 For private citizens with limited resources, funding, and investigative powers, this creates an impossible research challenge. Yet patterns emerge that demand explanation—even when definitive proof remains beyond citizen reach.
 
@@ -611,7 +611,7 @@ This citizen audit is intended to help fill that oversight gap by providing:
 
 - A structured, evidence‑based implementation assessment of the February 2021 Safety Monitoring Plan.  
 - A clear mapping of documentation gaps around signal management, AusVaxSafety integration, provisional‑approval verification and governance.  
-- A concrete evidentiary platform on which ANAO could  and conduct a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance system and its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
+- A concrete evidentiary platform on which ANAO could scope and conduct a dedicated performance audit of TGA’s COVID‑19 vaccine pharmacovigilance system and its compliance with provisional‑approval conditions requiring enhanced post‑market safety monitoring.
 
 Taken together, the scale of provisional use (68.4 million doses), the absence of a demonstrable implementation trail, and the lack of any prior ANAO examination of these specific pharmacovigilance issues provide a strong public‑interest basis for ANAO to initiate a focused performance audit.
 
