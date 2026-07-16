@@ -582,7 +582,7 @@ This question is critical. Approximately 68.4 million COVID-19 vaccine doses (ar
 * The integrity of the provisional approval pathway is compromised
 * Fundamental accountability is impaired
 
-The audit scope is limited to documented implementation of the 17 enhanced monitoring strategies legally required for provisional approval. It examines whether those strategies were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
+The audit scope is limited to documented implementation of the 17 enhanced monitoring strategies committed to by the TGA as part of its regulatory safety framework during the provisional approval period. It examines whether those strategies were implemented with the documentation, governance, and verifiable audit trails necessary for independent accountability.
 
 ## The Challenge of Black Box Governance for Private Citizens
 
