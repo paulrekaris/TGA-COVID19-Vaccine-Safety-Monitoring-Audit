@@ -53,7 +53,7 @@ Each assessed output is assigned a severity rating (1–5) reflecting the signif
 | 2 | Low | Limited gap with minor impact on completeness of safety signal detection or reporting |
 | 3 | Moderate | Partial gap with potential impact on a monitoring objective or pharmacovigilance output |
 | 4 | High | Significant gap materially affecting a core monitoring objective |
-| 5 | Critical | No documentary evidence identified for a primary pharmacovigilance output |
+| 5 | Critical | No documentary evidence identified for a primary pharmacovigilance output or a core governance/accountability commitment of the Plan|
 
 ---
 
@@ -127,4 +127,4 @@ Replication code for all summary statistics is provided in [Replication README](
 ---
 
 **Codebook version:** v1.1  
-**Last updated:** 28 June 2026
+**Last updated:** 20 July 2026
