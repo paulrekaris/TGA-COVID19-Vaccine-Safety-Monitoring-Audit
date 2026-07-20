@@ -32,7 +32,7 @@
 
 [Commits v1.9.3...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
 
-_Changes since the v1.9.3 release. Findings, ratings, and conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47). Prior versions remain accessible via Git history, the Zenodo DOI, and the NLA snapshot. Last updated 18 July 2026._
+*Changes since the v1.9.3 release. Findings, ratings, and conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47). Prior versions remain accessible via Git history, the Zenodo DOI, and the NLA snapshot.* 
 
 ## Permanent archive and links
 - Uploaded updated `permanent-archive-records-2026-06-17` file.
