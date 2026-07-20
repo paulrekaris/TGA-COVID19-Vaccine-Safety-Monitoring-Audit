@@ -126,5 +126,5 @@ Replication code for all summary statistics is provided in [Replication README](
 
 ---
 
-**Codebook version:** v1.1  
+**Codebook version:** v1.2  
 **Last updated:** 20 July 2026
