@@ -4,12 +4,13 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 15 June, 2026
+**Last updated:** 20 July, 2026
 
 
 ---
 
 ## Table of Contents
+- [Post-1.9.3 Release Notes](#post-193-release-notes)
 - [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
 - [Version 1.9.2 (26 March 2026)](#version-192-26-march-2026)
 - [Version 1.9.1 (7 February 2026)](#version-191-7-february-2026)
@@ -26,6 +27,118 @@
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
+
+# Post-1.9.3 Release Notes
+
+[Commits v1.9.3...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
+
+_Changes since the v1.9.3 release. Findings, ratings, and conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47). Prior versions remain accessible via Git history, the Zenodo DOI, and the NLA snapshot. Last updated 18 July 2026._
+
+## Permanent archive and links
+- Uploaded updated `permanent-archive-records-2026-06-17` file.
+- Updated 2 links to the permanent-archive-records file (17-06-2026).
+- Updated Ombudsman and OAIC status dates to reflect current position as of 17 June 2026.
+- Added research infrastructure stack table to `blockchain-and-archival-verification`.
+
+## README, terminology, and references
+- Replaced discontinued ANAO Better Practice reference with ANAO Performance Audit Standards in README.
+- Replaced "under oath" with accurate Senate Estimates terminology in README.
+- Added live SSRN DOI link to the Senate citation paragraph in README.
+- Added link to the TGA OAIC submission PDF in the Evidence Base paragraph in README.
+- Regulatory Accountability Audit Framework: updated "Commonwealth Performance Series" to "Commonwealth Performance Framework" (correct PGPA term) and "probative value" to "evidential weight" for consistency with audit documentation language.
+
+## TIMELINE.md
+- Added a full chronology of FOI requests, OAIC proceedings, Senate engagement, and oversight-body submissions from February 2022 to present in a separate `TIMELINE.md`. Included a link and description in the Oversight and Accountability section of the main `README.md` and in the main index.
+
+## Primary-source additions from the TGA OAIC submission (20 September 2024, MR22/00538)
+- **Quote 1 - page 15:** the Department's formal submission states that "there is unlikely to be a set of discrete documents evidencing the TGA's preparedness (because no audit of preparedness was undertaken)." Added to the README Evidence Base section and to ISO 19011 conformity assessment Finding 1 (systematic tracking mechanism).
+- **Quote 2 - Attachment D (contemporaneous TRIM search records):** a TGA search officer recorded in real time that "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." Added to the README Evidence Base section and to ISO 19011 conformity assessment Appendix B (OAIC-directed search results), before the Gaps Identified section.
+- Both quotes are primary-source evidence from TGA's own formal OAIC proceedings and operational search records, directly corroborating the audit's central finding from within TGA's own documentary record.
+- Added expanded search context (Attachment A rows 7 and 8) from the TGA OAIC submission to Appendix B in the ISO 19011 conformity assessment.
+- Added two further observations from the TGA OAIC submission: (i) the Principal Medical Advisor's covering email estimated the search exercise would take "no longer than 30 minutes" - added to the Observations section of the search methodology comparison with contextual interpretation, and as a single factual sentence to ISO 19011 Appendix B; and (ii) search term 7 returned one document - a draft Pharmacovigilance Branch input summarising the Plan for inclusion in the Australian COVID-19 Vaccination Policy, noted by the searcher as containing no timelines for each planned action - added to ISO 19011 Finding 8 evidence. Both additions are cited to the primary source with page references.
+
+## Version Classification Framework
+- Introduced a Version Classification Framework and Blockchain Release Rule: defined criteria for Major Updates (X.0.0) affecting methodology, scope, or findings; specified conditions for blockchain timestamping (major updates and anchor releases); and established a classification layer between Scope and Release Workflow.
+
+## Evidence framework alignment
+- Streamlined the audit to a single, consistently applied evidence hierarchy. The four-tier source-reliability hierarchy - ranking evidence by verifiability, reliability, and evidential authoritativeness (Tier 1 Primary Statutory through Tier 4 Tertiary Contextual) - is now expressed identically across the main audit report (Section 9.4), README, dataset codebook, and dataset paper. A secondary evidence descriptor previously carried only in the README was consolidated into this single hierarchy for clarity; it was not used in the evidence matrix and its removal does not affect any classification.
+- Codebook: stated source-reliability criteria (verifiability, reliability, evidential authoritativeness) in Section 3 and aligned the hierarchy note with audit report S9.4 and README. Bumped dataset version reference to v1.9.3 and corrected codebook metadata.
+
+## ISO 19011 conformity assessment
+- Relabelled the evidence hierarchy as "Evidence Weight by Source Origin" to distinguish origin-based weighting from the source-reliability hierarchy used in S9.4, codebook, and README; updated the table, paragraphs, and Appendix A accordingly. Tightened Finding 5 signal-figure phrasing (no documented rationale, not "did not lead to action"). Fixed a doubled word in Appendix A, a README link, and the SocArXiv DOI reference.
+- Statutory citation alignment: Freedom of Information Act 1982 references aligned across all documents, with the reasonable-steps obligation cited as s24A and practical-refusal provisions cited consistently. Therapeutic Goods Act 1989 provisional-approval section references verified and aligned across the main report, ISO conformity assessment, and audit summary presentation.
+- Benchmark criteria clarification: international pharmacovigilance standards (ICH E2E, CIOMS, EMA GVP, PIC/S) expressed consistently as recognised good-practice benchmarks, with major non-conformity findings anchored to the Plan's own commitments and Commonwealth records and performance obligations.
+
+## Evidence matrix (output-assessment-evidence-matrix.xlsx)
+- Added a README sheet as the first sheet, providing a self-contained orientation document for the dataset: title, version, and description; variable definitions matching the Evidence Matrix column headers; clickable hyperlinks to the repository README, audit framework, ISO 19011 conformity assessment, codebook, and replication code; DOI links to the dataset paper (Zenodo and SSRN), audit report (Zenodo and SSRN), and dataset archives (Harvard Dataverse and Mendeley Data); parliamentary record noting the Senate citation of 24 March 2026; licence (CC BY 4.0), citation, and contact details; and a reproducibility and falsifiability note linking to the Limitations and Falsifiability section of the repository README.
+- Corrected errors across four sheets: phantom ISO 19011 clause references (5.2.2 and 6.3.1) replaced with correct references (cl 5.5.2 and cl 5.2); output count corrected from 20 to 19 (five instances); Senate testimony characterisation corrected from "under oath" to "under parliamentary privilege" (two instances); ANAO Better Practice replaced with ANAO Performance Audit Standards; spelling "assessement" corrected to "assessment". README sheet updated: variable-name underscores removed to match Evidence Matrix column headers; audit-context description paragraph added.
+- Updated the Summary sheet governance clause reference to "5.5.2 and 5.2" (consistent with the Output Assessment sheet and codebook) and corrected the Communications min/max severity rating. No change to classifications or statistics.
+- Corrected the ISO 19011:2018 clause reference in the Evidence Boundaries / Assurance Level statement from 6.4.10 (closing meeting) to 6.4.9 (determining audit conclusions), the correct clause for conclusions drawn from available evidence within scope.
+- Standardised objective labels in the Summary sheet - "Regulatory Actions" (formerly "Actions (Regulatory)") and "Signal Detection & Investigation" - to match the codebook and dataset paper. No change to underlying data, classifications, ratings, or summary statistics.
+
+## Figure and label consistency
+- Standardised the OAIC-directed search figure (2,218 pages across 531 TRIM containers) and signal-count reporting (148 per Senate testimony; 150 per QON 559) across all documents including visual summaries. Aligned documentation-status percentages in the implementation-status tables and summary dashboard, and confirmed the three-category classification scheme (Fully Implemented, Partially Implemented, Not Documented) throughout, with "Not Documented" defined as absence of locatable documentary evidence rather than a claim that an activity did not occur.
+
+## One-page flowchart
+- Removed the duplicated evidence-hierarchy block from the audit-steps panel, retaining a single listing relabelled "Evidence Weight by Source Origin." Corrected Senate testimony characterisation to parliamentary privilege (not under oath).
+- Subsequently replaced the origin-weighting panel with the source-reliability hierarchy used in the audit report S9.4, codebook, README, and summary deck, so "Tier" denotes source-reliability consistently across all artefacts. Re-ordered to primary statutory (FOI, OAIC, TGA communications) at Tier 1 and parliamentary records (Senate testimony, QON 559) at Tier 2. Updated heading to "Evidence Hierarchy" and added a caption preserving the origin point. Retained the independent-validation grouping (OAIC reviews, external legal analysis, peer-reviewed publication).
+
+## Audit summary presentation (deck)
+- Statutory citations reviewed and verified against the FOI Act 1982: the OAIC-directed searches (s55V(2)) and practical-refusal grounds (s24AA) confirmed correct; the s24A row recast to the documents-cannot-be-found scenario it governs. Document figure standardised to 2,218 pages across 531 TRIM containers, consistent with the OAIC submission and all other documents. International pharmacovigilance standards (ICH E2E, CIOMS, EMA GVP, PIC/S) presented consistently as recognised good-practice benchmarks rather than binding obligations. Documentation-status percentages, objective labels, evidence-hierarchy labelling, and Strategy/Objective terminology aligned with the main report.
+- Corrected the evidence-weight heading to "Evidence Weight by Source Origin" and clarified Tier 4 to "published regulatory actions" (public-record sense); removed duplicate listing of Senate testimony under Tier 4.
+- Improved alignment of the TGA Act and provisional-approval guidance to the Provisional Approval Lifecycle Framework analysis.
+- Aligned the summary deck with audit categories and removed personal names: replaced the origin-weighting evidence panel with the source-reliability hierarchy (Tier 1-4) used in audit report S9.4, codebook, and README; added a caption preserving the origin point; added QON 559 to Tier 2; standardised status language to the documentation categories ("fully documented", not "implemented") across the outputs breakdown; corrected the Governance row percentages in the status table (Partial 0%, Not Documented 100%); removed personal names from testimony references, attributing to roles or the agency, and softened "confirms" to "consistent with" where a conclusion was attached; fixed the Plan-name reference, a slide-title typo, and reform numbering.
+- Added a status-by-objective chart showing documentation status across objectives, reproducing the matrix summary figures.
+- Parliamentary-privilege characterisation and classification labels in the one-page flowchart and audit summary presentation brought into line with the main report.
+
+## Replication code
+- Added the seven-category to_objective() derivation (from Output ID prefix) to the Python, R, and Stata blocks so status-by-objective and rating-by-objective operations reproduce the paper's seven-category tables rather than grouping by the raw 19-value objective column. Listed all six matrix sheets. Updated the value_counts expected-output label for the current pandas.
+
+## Codebook
+- Updated Section 5 category labels to "Signal Detection & Investigation" and "Regulatory Actions" to match the matrix summary sheet and dataset paper. Added a note to Section 7 explaining that the Objective field is derived from the Output ID prefix, with a link to the replication README for runnable code. Corrected Output ID format (GOV.x).
+- Broadened the Rating 5 (Critical) definition to cover Plan governance/accountability outputs. Rating 5 was defined solely as "no documentary evidence for a primary pharmacovigilance output", which excluded the governance/accountability outputs (GOV.1, GOV.2) also rated 5, creating a mismatch between assigned ratings and the written scale. Definition now reads "...primary pharmacovigilance output or a core governance/accountability commitment of the Plan", so all six Not-Documented outputs validate against the criterion. No ratings changed; mean severity 3.47 unchanged.
+
+## Data codebook README - typos, labels, and consistency (28 June 2026)
+- **Typos:** "evidence rix" to "evidence matrix" (Sec 1); "pharmacovigilance objecti" to "objectives" (Sec 5); "All source erials" to "All source materials" (Sec 9); footer "Codebook vesrion" to "version".
+- **Label fixes (Sec 5 category table), to match matrix/data paper:** "Signal Detection" to "Signal Detection & Investigation"; "Actions (Regulatory)" to "Regulatory Actions".
+- **Consistency fixes:** Sec 6 Output ID format "GOV-x" to "GOV.x"; Sec 6 "Assessment objective" row corrected to describe the full per-output text (the 7 categories are derived from Output ID) rather than wrongly stating the column holds the categories; Sec 7 derivation note added (the Objective field is derived from the Output ID prefix) with a link to the README; Sec 7 table heading "Pivot of Status x Objective category" to "Status x derived Objective category"; Sec 6 note "published rubric" to "published criteria". Document date updated to 28 June 2026.
+
+## Discovery and indexing
+- Added a plain-language discovery landing page (GitHub Pages, /docs) with search-facing metadata, Schema.org structured data, an FAQ, and a permanent-record block linking all deposits; added sitemap.xml and submitted both to Google Search Console for indexing.
+
+## FOI 5082 register
+- Softened "demonstrates...non-implementation" to "is consistent with non-implementation" in the FOI 5082 evidentiary-significance section, matching the documentary register used throughout. Removed a stray blockquote character in Key Findings.
+
+## ANAO badge
+- Updated ANAO badge text from "Better Practice" to "Performance Audit" to match the linked performance-audit-process page and avoid reference to the Better Practice Guides withdrawn in 2018.
+
+## QON 559 analysis - finding-number reconciliation
+- Aligned all Audit Finding cross-references in the QON 559 analysis to the main README numbering (Finding 4 = signal audit trails; Finding 5 = AusVaxSafety integration), removing the legacy "No Coordination Protocols / No Signal Pathways" labels that used an inconsistent scheme. Merged duplicate Key Updates entries; relabelled the ANAO badge to Performance Audit.
+
+## Arweave presentation
+- Pointed Arweave badges to the ViewBlock transaction record for on-chain verification (which loads reliably and demonstrates permanence) and to turbo-gateway for file retrieval, reflecting that Arweave permanence and gateway availability are distinct: the transaction is immutably confirmed on-chain (block 1,884,750), while retrieval of the 64.44 MiB bundle is served with varying performance across public gateways, per AR.IO network guidance that reliance on a single gateway domain is not the intended access model. Transaction ID: TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps; deposited version v1.9.2.
+
+## NLA National edeposit
+- Restructured as a multipart monograph at NED's advice. Citable reference updated from NED447016P1081502 to Title ID NED476889S65171; persistent Trove URL added (nla.gov.au/nla.obj-4238332288). AWA web-archive link unchanged. Subsequently updated the NED reference to NED477153P1133159 for deposit NED477153.
+
+## Main Audit Report (July 2026)
+- Updated the Main Audit Report: OAIC chronology, Appendix F resource links, version history, and formatting refinements.
+- Scope wording refined to clarify that the audit assesses documented implementation of the 17 enhanced monitoring strategies committed to by the TGA during the provisional approval period and specified in its February 2021 COVID-19 Vaccine Safety Monitoring Plan.
+- Refined audit scope and key-finding language by clarifying that the assessment evaluates verifiable documentary evidence demonstrating implementation. Corrected ANAO performance-audit terminology.
+
+## Publications
+- Included an update on the peer-review status of two related journal articles on the main README and PUBLICATIONS page.
+
+## TGA Safety Plan Audit deck (July 2026)
+- Revised the Commonwealth Framework slide (14) to a conformity-assessment format, aligned with the audit's ISO 19011 methodology: conformity verdicts (Non-conforming / Conforming / Indeterminate / Under review) replace severity ratings; Therapeutic Goods Act references updated to the verified provisions (ss 22D, 23AA, 28(2A)(aa) for the provisional framework; ss 23, 25 for transition); findings stated in documentary terms.
+- Updated the FOI s 24AA findings (slides 7 and 14) to reflect the statutory-test distinction: refusal cited s 24AA(1)(b) while relying on ~177 hrs of s 24AA(1)(a) resource grounds against ~3 hrs identification.
+- Aligned the provisional lifecycle slide (7) with the verified transition mechanism (s 23 application, s 25 evaluation).
+- Set the PGPA s 37 / s 38 rows to reference governance outputs GOV.1 and GOV.2.
+- Consolidated the international comparison slide (8) to a single current documentation column.
+- Refined scope language across the findings and reforms slides to keep claims within the audit's documentary basis, including the slide 17 intro and closing lines and the slide 18 reform wording.
+- Corrected the ICH E2E adoption date (2013 to June 2005); EMA GVP Module I (August 2025) confirmed.
+- Corrected the slide 18 title text and minor typographical errors.
+- **Verified against source:** Therapeutic Goods Act 1989 ss 22C/22D, 23AA, 25, 28(2A)(aa), 29(4)/29(8A); signal count (150), regulatory actions (57), output counts (17 strategies / 19 total), and dose figure (68.4m / 91.2%) confirmed consistent across slides.
 
 ## Version 1.9.3 (14 June 2026)
 
