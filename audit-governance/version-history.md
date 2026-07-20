@@ -122,9 +122,16 @@
 - Restructured as a multipart monograph at NED's advice. Citable reference updated from NED447016P1081502 to Title ID NED476889S65171; persistent Trove URL added (nla.gov.au/nla.obj-4238332288). AWA web-archive link unchanged. Subsequently updated the NED reference to NED477153P1133159 for deposit NED477153.
 
 ### Main Audit Report (July 2026)
-- Updated the Main Audit Report: OAIC chronology, Appendix F resource links, version history, and formatting refinements.
-- Scope wording refined to clarify that the audit assesses documented implementation of the 17 enhanced monitoring strategies committed to by the TGA during the provisional approval period and specified in its February 2021 COVID-19 Vaccine Safety Monitoring Plan.
-- Refined audit scope and key-finding language by clarifying that the assessment evaluates verifiable documentary evidence demonstrating implementation. Corrected ANAO performance-audit terminology.
+- Updated the Main Audit Report: strengthened legislative provisional approval framework analysis, OAIC chronology, Appendix F resource links, version history, and formatting refinements.
+-Refined scope wording to clarify that the audit assesses the documented implementation of the 17 enhanced monitoring strategies committed to by the TGA during the provisional approval period and specified in its February 2021 COVID-19 Vaccine Safety Monitoring Plan. 
+-Refined the audit scope and key-finding language to clarify that the assessment evaluates verifiable documentary evidence demonstrating implementation, and corrected ANAO performance audit terminology. 
+-Clarified the Section 9.4 evidence hierarchy criteria, including verifiability, reliability, and evidential authoritativeness. 
+-Updated OAIC review documentation to incorporate the latest publicly available material relating to OAIC MR25/01153 (FOI 25-0166), including the current review status and associated records, strengthening the documented FOI escalation chronology. 
+-Updated Appendix F (Links and Resources) to improve the organisation, categorisation, and accessibility of repository, archive, publication, and author reference links. 
+-Revised the legislative framework for provisional approval to correct the statutory interpretation of the Therapeutic Goods Act 1989 (Cth), clarifying the distinction between provisional registration extensions under s29 and transition to full registration through applications under ss23 and 25. 
+-Refined the legal basis and framework integrity assessment to distinguish statutory requirements from documented evidence of implementation, highlighting gaps in verification, traceability, and transparency relating to provisional registration conditions, risk management, and monitoring activities. 
+-Applied minor formatting refinements throughout, including footnote presentation, table formatting, and layout consistency. 
+-No changes were made to the audit findings, ratings, methodology, or overall conclusions.
 
 ### Publications
 - Included an update on the peer-review status of two related journal articles on the main README and PUBLICATIONS page.
