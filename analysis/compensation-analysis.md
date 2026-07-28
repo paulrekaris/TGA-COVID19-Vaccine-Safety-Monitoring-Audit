@@ -61,7 +61,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Feb 2021** | COVID-19 Vaccine Safety Monitoring Plan published | TGA commits to enhanced pharmacovigilance with 17 numbered strategies across 5 specified objectives|
 | **Mar 2021** | First COVID-19 vaccine safety report published | Weekly public reporting begins under provisional approval framework |
 | **Sep 2021** | COVID-19 Vaccine Claims Scheme opens | No-fault compensation scheme established acknowledging potential vaccine injuries |
-| **Sep 2021** | FOI 4029-03: TGA presents Strategy 2.3 methodology to Advisory Committee | Internal demonstration of PRR/MaxSPRT capacity—not published to citizens |
+| **Sep 2021** | FOI 4029-03: TGA presents Strategy 2.3 methodology to Advisory Committee | Internal demonstration of PRR/MaxSPRT capacity—not published to citizens²⁵ |
 | **Dec 2022** | 137,000+ DAEN reports documented | Peak passive surveillance activity during mass rollout |
 | **Jul 2023** | Approximately 68.4 million doses administered under provisional approval | Represents approximately 91% of total rollout—largest deployment of provisionally approved medicines in Australian history |
 | **Aug 2024** | COVERSE/UNSW reports approximately 91% rejected/withdrawn claims | Independent research documents systemic barriers including difficulty obtaining causation opinions |
@@ -105,7 +105,7 @@ The following examples illustrate how TGA's refusal to publish signal investigat
 
 **Claimant profile:** 25-year-old male develops myocarditis within one week of second mRNA COVID-19 vaccine dose, requiring hospitalisation.
 
-**What TGA investigated:** Myocarditis/pericarditis was identified as one of seven priority safety signals in December 2021.²'¹⁸ TGA conducted population-level analysis demonstrating elevated risk in young males following mRNA vaccination, leading to regulatory action including updated product information and clinical guidance.
+**What TGA investigated:** Myocarditis/pericarditis was identified as one of seven priority safety signals in December 2021.¹⁸ TGA conducted population-level analysis demonstrating elevated risk in young males following mRNA vaccination, leading to regulatory action including updated product information and clinical guidance.
 
 **What remains inaccessible:** TGA's detailed signal investigation documentation including:
 - Age-stratified risk quantification for young males
@@ -122,7 +122,7 @@ The following examples illustrate how TGA's refusal to publish signal investigat
 
 **Claimant profile:** 32-year-old woman experiences severe menstrual disruption (prolonged heavy bleeding, cycle irregularities) following COVID-19 vaccination, requiring gynaecological intervention.
 
-**What TGA investigated:** Menstrual disorders were identified as a priority safety signal requiring investigation in December 2021.²'¹⁸ TGA reviewed population-level reports of menstrual changes and cycle disruptions following COVID-19 vaccination.
+**What TGA investigated:** Menstrual disorders were identified as a priority safety signal requiring investigation in December 2021.¹⁸ TGA reviewed population-level reports of menstrual changes and cycle disruptions following COVID-19 vaccination.
 
 **What remains inaccessible:** TGA's signal investigation documentation including:
 - Incidence rates of menstrual disorders post-vaccination
@@ -139,7 +139,7 @@ The following examples illustrate how TGA's refusal to publish signal investigat
 
 **Claimant profile:** 45-year-old develops Guillain-Barré Syndrome within three weeks of COVID-19 vaccination, requiring intensive care admission and prolonged rehabilitation.
 
-**What TGA investigated:** GBS was identified as a priority safety signal in December 2021.²'¹⁸ Multiple TGA safety reports referenced GBS monitoring, with later reports stating observed rates were "similar to expected" without publishing statistical methodology.
+**What TGA investigated:** GBS was identified as a priority safety signal in December 2021.¹⁸ Multiple TGA safety reports referenced GBS monitoring, with later reports stating observed rates were "similar to expected" without publishing statistical methodology.¹⁴
 
 **What remains inaccessible:** TGA's signal investigation documentation including:
 - Observed versus expected analysis methodology
@@ -157,15 +157,17 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 ## Comparative International Transparency
 
-- **United States:** CDC publishes VAERS/VSD summaries with detailed signal detection methodologies and outcomes (e.g., myocarditis/TTS risk by age/sex).¹⁹
-- **United Kingdom:** MHRA publishes detailed weekly Yellow Card reports with signal assessments, causality determinations, and incidence rates.²¹
-- **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from 148 investigated signals/57 actions—despite internal capacity (FOI 4029-03).²'³
+- **United States:** CDC publishes VAERS/VSD summaries with detailed signal detection methodologies and outcomes (e.g., myocarditis/TTS risk by age/sex).¹²,²²
+- **United Kingdom:** MHRA publishes detailed weekly Yellow Card reports with signal assessments, causality determinations, and incidence rates.¹³
+- **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from 148 investigated signals/57 actions—despite internal capacity (FOI 4029-03).²⁵
 
-| **Country** | **Regulatory Agency** | **Surveillance Systems** | **Signal Transparency** | **Methodology Publication** | **Compensation Scheme** | **COVID Claim Success Rate** |
-|-------------|----------------------|--------------------------|-------------------------|----------------------------|------------------------|------------------------------|
-| **United States** | CDC | VAERS, VSD, CISA, V-safe | **High:** Raw data publicly accessible, detailed signal reports, real-time dashboards | Myocarditis/TTS investigations published with full methodology within days post-signal, statistical methods documented | CICP (Countermeasures Injury Compensation Program) | ~0.5% (~72 of 14,000+ eligible claims; ~$400,000 total COVID payouts) |
-| **United Kingdom** | MHRA | Yellow Card | **High:** Weekly detailed reports with signal assessments and causality determinations | Signal investigations published with MaxSPRT/O/E analysis, population-level incidence rates (3-5 per 1,000), detailed summaries of methodology | VDP (Vaccine Damage Payment) | ~1-3% (~600 awards from approximately 17,000 total claims) |
-| **Australia** | TGA | DAEN, AusVaxSafety | **Low:** Aggregate statistics and reassurance messaging only | 148 signals investigated and 57 actions taken but no methodology, confidence intervals, or detailed causality assessments published despite demonstrated internal capacity | CVCS (COVID-19 Vaccine Claims Scheme) | 10.5% (522 of 4,962 claims approved before scheme closure) |
+**Note on comparator statistics:** Compensation scheme figures below are dated to their most recent official source at time of writing. These schemes are dynamic; figures should be re-verified against current official data before publication or citation, consistent with the evidentiary standard applied throughout this analysis.
+
+| **Country** | **Claims filed** | **Outcome** | **Rate** | **As at** |
+|-------------|------------------:|------------:|---------:|-----------|
+| **Australia** | 4,962 | 522 compensated | 10.5% | Scheme closure¹ |
+| **United States (CICP – COVID claims)** | 14,146 | 62 compensated (112 eligible) | 0.44% compensated (0.79% eligible) | HRSA, July 2026¹⁹ |
+| **United Kingdom (VDPS – COVID claims)** | 21,213 | ~1.1% awards | ~1.1% | July 2025²⁴ |
 
 > ## Case Study in Transparency: How the CDC Does It
 > 
@@ -182,16 +184,16 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 ### Key Differences
 
 **Transparency:**
-- **US/UK:** Publish detailed signal investigation reports with full statistical methodology, enabling external verification and supporting clinician causality assessments
-- **Australia:** TGA withholds signal investigation documentation despite Senate confirmation of 148 investigated signals and 57 regulatory actions
+- **US/UK:** Publish detailed signal investigation reports with full statistical methodology, enabling external verification and supporting clinician causality assessments¹²,¹³
+- **Australia:** TGA withholds signal investigation documentation despite Senate confirmation of 148 investigated signals and 57 regulatory actions³
 
 **Methodology Publication:**
-- **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for all major signals (e.g., myocarditis risk quantification by age/sex/vaccine type) within days post-signal detection
-- **UK:** MHRA provides weekly detailed causality assessments with MaxSPRT/observed-expected analysis, population-level incidence rates and investigation summaries
-- **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis
+- **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for all major signals (e.g., myocarditis risk quantification by age/sex/vaccine type) within days post-signal detection¹²,²²
+- **UK:** MHRA provides weekly detailed causality assessments with MaxSPRT/observed-expected analysis, population-level incidence rates and investigation summaries¹³
+- **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis¹⁴,²⁵
 
 **Impact on Compensation Claims:**
-All three jurisdictions show low approval rates, but the US (0.5%) and UK (1-3%) are substantially lower than Australia (10.5%). However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's refusal to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity.
+All three jurisdictions show low approval rates, but the US (0.44% compensated) and UK (~1.1%) are substantially lower than Australia (10.5%). However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's refusal to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity.
 
 **Documentation Access:**
 - **US:** VAERS raw data publicly downloadable; VSD analyses published; investigation reports detailed
@@ -254,7 +256,7 @@ This analysis cannot determine whether signal investigation documentation would 
 
 ## Conclusion
 
-Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. Their ability to substantiate claims was fundamentally hindered by inability to access TGA's safety signal investigation documentation covering 148 investigated signals and 57 regulatory actions. FOI 5275 further confirms TGA does not hold incidence data required by its own Safety Monitoring Plan conditions — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
+Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. Their ability to substantiate claims was fundamentally hindered by inability to access TGA's safety signal investigation documentation covering 148 investigated signals and 57 regulatory actions. FOI 5275 further confirms TGA does not hold incidence data required by its own Safety Monitoring Plan conditions²³ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
 
 ---
 
@@ -307,6 +309,10 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 23. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
-Last updated: 22 March 2026
+24. UK Parliament, Written Questions, 2025-07-10/66647 (COVID-19 vaccine damage payment claims and awards), https://questions-statements.parliament.uk/written-questions/detail/2025-07-10/66647/. See also 2024-11-27/16449, https://questions-statements.parliament.uk/written-questions/detail/2024-11-27/16449.
+
+25. Therapeutic Goods Administration, FOI 4029-03: TGA presentation of Strategy 2.3 methodology to the Advisory Committee on Vaccines, September 2021. Available in the FOI 4029 suite: primary-sources/foi/foi-4029/foi-4029-03.pdf (complete suite at primary-sources/foi/foi-4029), https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/primary-sources/foi/foi-4029.
+
+Last updated: 28 July 2026
 
 [↑ Back to top](#table-of-contents)
