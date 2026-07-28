@@ -3,13 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- ============================================================
-SEARCH-FACING METADATA
-This does the work in search results and does not render
-on the visible page. Canonical and og:url are already set
-to the live address. Only change them if the page moves.
-============================================================ -->
 <title>Did Australia's TGA Monitor COVID Vaccine Safety as Promised?</title>
 <meta name="description" content="Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented.">
 <meta name="robots" content="index, follow">
@@ -26,8 +19,6 @@ to the live address. Only change them if the page moves.
 <meta name="twitter:title" content="Did Australia's TGA monitor COVID vaccine safety as promised?">
 <meta name="twitter:description" content="An independent four-year audit of whether Australia's Therapeutic Goods Administration complied with the enhanced COVID-19 vaccine safety monitoring it promised. 3 of 19 outputs documented.">
 
-<!-- Structured data: ties this page to the author and every deposit,
-so search engines treat them as one work by one identified author. -->
 <script type="application/ld+json">
 {
 "@context": "https://schema.org",
@@ -70,168 +61,167 @@ so search engines treat them as one work by one identified author. -->
 </script>
 
 <meta name="theme-color" content="#1d4e4a">
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 
 <style>
-:root{
---paper:#f7f7f4;
---ink:#181b1a;
---slate:#565c58;
---rule:#d8d9d2;
---accent:#1d4e4a;
---finding:#7a2230;
---measure:42rem;
-}
-*{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{
-margin:0;
-background:var(--paper);
-color:var(--ink);
-font-family:"IBM Plex Sans",system-ui,sans-serif;
-font-size:18px;
-line-height:1.62;
--webkit-font-smoothing:antialiased;
-}
-.wrap{
-max-width:var(--measure);
-margin:0 auto;
-padding:clamp(2rem,6vw,5rem) 1.4rem 4rem;
-}
-a{color:var(--accent);text-underline-offset:2px;text-decoration-thickness:1px}
-a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+  :root{
+    --paper:#f7f7f4;
+    --ink:#181b1a;
+    --slate:#565c58;
+    --rule:#d8d9d2;
+    --accent:#1d4e4a;
+    --finding:#7a2230;
+    --measure:42rem;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:18px;
+    line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{
+    max-width:var(--measure);
+    margin:0 auto;
+    padding:clamp(2rem,6vw,5rem) 1.4rem 4rem;
+  }
+  a{color:var(--accent);text-underline-offset:2px;text-decoration-thickness:1px}
+  a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
 
-.eyebrow{
-font-family:"IBM Plex Mono",monospace;
-font-size:.72rem;
-letter-spacing:.14em;
-text-transform:uppercase;
-color:var(--accent);
-margin:0 0 1.4rem;
-}
-h1{
-font-family:"IBM Plex Serif",Georgia,serif;
-font-weight:500;
-font-size:clamp(1.85rem,5.4vw,2.7rem);
-line-height:1.16;
-letter-spacing:-.01em;
-margin:0 0 1rem;
-}
-.dek{
-font-size:1.06rem;
-color:var(--slate);
-margin:0 0 2.2rem;
-max-width:34rem;
-}
-hr{
-border:0;
-border-top:1px solid var(--rule);
-margin:2.6rem 0;
-}
-p{margin:0 0 1.15rem}
-.lede p{font-size:1.06rem}
+  .eyebrow{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.72rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:var(--accent);
+    margin:0 0 1.4rem;
+  }
+  h1{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-weight:500;
+    font-size:clamp(1.85rem,5.4vw,2.7rem);
+    line-height:1.16;
+    letter-spacing:-.01em;
+    margin:0 0 1rem;
+  }
+  .dek{
+    font-size:1.06rem;
+    color:var(--slate);
+    margin:0 0 2.2rem;
+    max-width:34rem;
+  }
+  hr{
+    border:0;
+    border-top:1px solid var(--rule);
+    margin:2.6rem 0;
+  }
+  p{margin:0 0 1.15rem}
+  .lede p{font-size:1.06rem}
 
-.finding{
-font-family:"IBM Plex Serif",Georgia,serif;
-font-size:clamp(1.18rem,3.4vw,1.5rem);
-line-height:1.4;
-font-weight:400;
-border-left:3px solid var(--finding);
-padding:.2rem 0 .2rem 1.3rem;
-margin:2.4rem 0;
-}
-.finding b{color:var(--finding);font-weight:500;font-variant-numeric:tabular-nums}
+  .finding{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-size:clamp(1.18rem,3.4vw,1.5rem);
+    line-height:1.4;
+    font-weight:400;
+    border-left:3px solid var(--finding);
+    padding:.2rem 0 .2rem 1.3rem;
+    margin:2.4rem 0;
+  }
+  .finding b{color:var(--finding);font-weight:500;font-variant-numeric:tabular-nums}
 
-h2{
-font-family:"IBM Plex Mono",monospace;
-font-size:.78rem;
-letter-spacing:.12em;
-text-transform:uppercase;
-color:var(--slate);
-font-weight:500;
-margin:0 0 0.1rem;
-}
+  h2{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.78rem;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--slate);
+    font-weight:500;
+    margin:0 0 0.1rem;
+  }
 
-h2 + hr {
-margin-top:0.1rem;
-}
+  h2 + hr {
+    margin-top:0.1rem;
+  }
 
-.faq h3{
-font-family:"IBM Plex Serif",Georgia,serif;
-font-size:1.06rem;
-font-weight:500;
-line-height:1.3;
-margin:1.5rem 0 .4rem;
-}
-.faq h3:first-of-type{margin-top:0}
-.faq p{margin:0 0 .4rem;color:var(--slate)}
-.faq .frame{
-font-style:italic;
-color:var(--slate);
-margin:0 0 1.2rem;
-padding:.6rem 0 0;
-}
+  .faq h3{
+    font-family:"IBM Plex Serif",Georgia,serif;
+    font-size:1.06rem;
+    font-weight:500;
+    line-height:1.3;
+    margin:1.5rem 0 .4rem;
+  }
+  .faq h3:first-of-type{margin-top:0}
+  .faq p{margin:0 0 .4rem;color:var(--slate)}
+  .faq .frame{
+    font-style:italic;
+    color:var(--slate);
+    margin:0 0 1.2rem;
+    padding:.6rem 0 0;
+  }
 
-.points{margin:0 0 1rem;padding:0;list-style:none}
-.points li{
-padding:.7rem 0;
-display:grid;
-grid-template-columns:auto 1fr;
-gap:.9rem;
-}
-.points .n{
-font-family:"IBM Plex Mono",monospace;
-font-size:.82rem;
-color:var(--accent);
-padding-top:.18rem;
-}
+  .points{margin:0 0 1rem;padding:0;list-style:none}
+  .points li{
+    padding:.7rem 0;
+    display:grid;
+    grid-template-columns:auto 1fr;
+    gap:.9rem;
+  }
+  .points .n{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.82rem;
+    color:var(--accent);
+    padding-top:.18rem;
+  }
 
-.record{
-font-family:"IBM Plex Mono",monospace;
-font-size:.82rem;
-line-height:1.5;
-}
-.record .row{
-display:grid;
-grid-template-columns:1fr;
-gap:.1rem;
-padding:.65rem 0;
-}
-.record .k{color:var(--slate)}
-.record .v{word-break:break-word}
-@media(min-width:34rem){
-.record .row{grid-template-columns:13rem 1fr;gap:1rem;align-items:baseline}
-}
+  .record{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.82rem;
+    line-height:1.5;
+  }
+  .record .row{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:.1rem;
+    padding:.65rem 0;
+  }
+  .record .k{color:var(--slate)}
+  .record .v{word-break:break-word}
+  @media(min-width:34rem){
+    .record .row{grid-template-columns:13rem 1fr;gap:1rem;align-items:baseline}
+  }
 
-.refs{font-size:.95rem;color:var(--slate)}
-.refs p{margin:0 0 .7rem}
+  .refs{font-size:.95rem;color:var(--slate)}
+  .refs p{margin:0 0 .7rem}
 
-.cta{
-display:inline-block;
-font-family:"IBM Plex Mono",monospace;
-font-size:.82rem;
-letter-spacing:.04em;
-border:1px solid var(--accent);
-color:var(--accent);
-padding:.7rem 1.1rem;
-text-decoration:none;
-margin-top:.6rem;
-}
-.cta:hover{background:var(--accent);color:var(--paper)}
-.cta:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+  .cta{
+    display:inline-block;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.82rem;
+    letter-spacing:.04em;
+    border:1px solid var(--accent);
+    color:var(--accent);
+    padding:.7rem 1.1rem;
+    text-decoration:none;
+    margin-top:.6rem;
+  }
+  .cta:hover{background:var(--accent);color:var(--paper)}
+  .cta:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
 
-footer{
-margin-top:3.4rem;
-padding-top:1.4rem;
-font-family:"IBM Plex Mono",monospace;
-font-size:.74rem;
-color:var(--slate);
-line-height:1.7;
-}
-footer a{color:var(--slate)}
+  footer{
+    margin-top:3.4rem;
+    padding-top:1.4rem;
+    font-family:"IBM Plex Mono",monospace;
+    font-size:.74rem;
+    color:var(--slate);
+    line-height:1.7;
+  }
+  footer a{color:var(--slate)}
 </style>
 </head>
 <body>
@@ -244,10 +234,8 @@ footer a{color:var(--slate)}
 
 <main>
 <section class="lede">
-<p>When Australia approved COVID-19 vaccines for provisional use, its drug regulator, the Therapeutic Goods Administration (TGA), published a February 2021 plan promising enhanced vaccine safety monitoring across the rollout. This is an independent audit and freedom-of-information investigation of whether that monitoring can be shown to have happened, assessing the TGA&rsquo;s compliance against the plan&rsquo;s own commitments using the international auditing standard ISO 19011:2018, Australian National Audit Office guidance, and open-source analysis of public records.</p>
-
+<p>In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy. The Therapeutic Goods Administration (TGA), Australia&rsquo;s drug regulator, published a February 2021 plan to give that policy operational effect, promising enhanced vaccine safety monitoring across the rollout. This is an independent audit and freedom-of-information investigation of whether that monitoring can be shown to have happened, assessing the TGA&rsquo;s compliance against the plan&rsquo;s own commitments using the international auditing standard ISO 19011:2018, Australian National Audit Office guidance, and open-source analysis of public records.</p>
 <p>The audit assesses 19 elements of the February 2021 plan, comprising 17 operational strategy outputs and 2 governance outputs, each evaluated for documentary evidence of implementation.</p>
-
 <p>It examines 68.4 million doses (91.2% of Australia&rsquo;s rollout) across four years. The question is narrow and verifiable: can the implementation of the vaccine safety monitoring plan, and the regulator&rsquo;s compliance with it, be independently confirmed through records, as an enhanced framework relied upon for provisional approval requires?</p>
 </section>
 
@@ -279,7 +267,7 @@ footer a{color:var(--slate)}
 <h3>Can the findings be checked?</h3>
 <p>Yes. Every finding is traceable to a public or FOI-released source, and the full evidence base, methodology and dataset are openly published under a CC BY 4.0 licence for independent verification.</p>
 <h3>Can the audit be proven wrong?</h3>
-<p>Yes — and it is built to make that possible. The audit adopts a falsifiability principle: every finding is stated so that it can be tested against evidence and revised if the evidence requires. Any output classified as not documented can be overturned by the production of a single relevant record. The findings hold only while the documentary record remains absent, and any correcting evidence would be incorporated with transparent version history.</p>
+<p>Yes &mdash; and it is built to make that possible. The audit adopts a falsifiability principle: every finding is stated so that it can be tested against evidence and revised if the evidence requires. Any output classified as not documented can be overturned by the production of a single relevant record. The findings hold only while the documentary record remains absent, and any correcting evidence would be incorporated with transparent version history.</p>
 </section>
 
 <hr>
@@ -294,7 +282,7 @@ footer a{color:var(--slate)}
 <div class="row"><span class="k">Dataset (Harvard Dataverse)</span><span class="v"><a href="https://doi.org/10.7910/DVN/BDKZQJ">10.7910/DVN/BDKZQJ</a></span></div>
 <div class="row"><span class="k">Dataset (Mendeley Data)</span><span class="v"><a href="https://doi.org/10.17632/y5wmt6f8j9" target="_blank" rel="noopener">10.17632/y5wmt6f8j9</a></span></div>
 <div class="row"><span class="k">Preprint (SocArXiv)</span><span class="v"><a href="https://osf.io/preprints/socarxiv/sb4gz">10.31235/osf.io/sb4gz</a></span></div>
-<div class="row"><span class="k">National edeposit (NED)</span><span class="v"><a href="https://find.slv.vic.gov.au/discovery/fulldisplay/alma9941519180207636/61SLV_INST:SLV">NED477153 (v1.9.3 deposited)</a></span></div>
+<div class="row"><span class="k">National edeposit (NLA)</span><span class="v"><a href="https://nla.gov.au/nla.obj-4238332288">NED477153 (v1.9.3)</a></span></div>
 <div class="row"><span class="k">Australian Web Archive (NLA)</span><span class="v"><a href="https://webarchive.nla.gov.au/tep/221557">GitHub repository archive</a></span></div>
 <div class="row"><span class="k">Permanent archive (Arweave)</span><span class="v">retrieve via <a href="https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps">turbo</a> or <a href="https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps">arweave.net</a> &middot; <a href="https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps">verify on-chain</a></span></div>
 <div class="row"><span class="k">Bitcoin timestamp</span><span class="v">point-in-time proof of the audit's existence and integrity &middot; <a href="https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a" target="_blank" rel="noopener noreferrer">Block 942725</a> &middot; 29 March 2026</span></div>
@@ -307,7 +295,7 @@ footer a{color:var(--slate)}
 <h2>Cited and corroborated</h2>
 <hr>
 <p>Australian Senate Hansard, 24 March 2026 &mdash; <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&amp;sid=0003">cited in the Senate</a> &middot; <a href="https://www.youtube.com/live/lXSeEoT-32g?t=30900">watch the speech</a>.</p>
-<p>Office of the Australian Information Commissioner, Decision [2025] AICmr 54 (26 March 2025).</p>
+<p>Office of the Australian Information Commissioner, <a href="https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=">Decision [2025] AICmr 54</a> (26 March 2025).</p>
 <p>TGA evidence to the Senate Community Affairs Legislation Committee, 9 October 2025.</p>
 <p>TGA written answer to Senate Question on Notice 559 (DHDA SQ25-001584).</p>
 <p style="margin-top:1.4rem">
