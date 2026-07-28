@@ -92,6 +92,12 @@
 - Added a status-by-objective chart showing documentation status across objectives, reproducing the matrix summary figures.
 - Parliamentary-privilege characterisation and classification labels in the one-page flowchart and audit summary presentation brought into line with the main report.
 
+- Here's a fuller version-history entry, with enough detail to stand on its own when someone reads the changelog later without the surrounding context:
+
+### Compensation analysis — citation corrections and reference additions
+-Corrected two mismatched in-text citations in the international transparency comparison (US claim was citing the HRSA compensation data table rather than CDC surveillance sources; UK claim was citing an unrelated news article rather than the MHRA Yellow Card reporting source). Added citations that were previously missing for several claims in the Key Differences and signal-example sections. Added a reference entry for FOI 4029-03, which was cited in-text throughout the document but absent from the reference list. Replaced the international comparator table (Australia/US/UK compensation scheme statistics) with current, dated figures from official sources (HRSA CICP data, July 2026; UK Parliament written answers, July 2025), after the original US and UK figures were found to be outdated. Added a note flagging that comparator statistics are dynamic and should be re-verified against current sources before use.
+-No change to the audit's core findings, the 148 signals / 57 actions figures, or the Australian claims data (4,962 lodged / 522 approved), all of which were independently re-confirmed against source during this review.
+
 ### Replication code
 - Added the seven-category to_objective() derivation (from Output ID prefix) to the Python, R, and Stata blocks so status-by-objective and rating-by-objective operations reproduce the paper's seven-category tables rather than grouping by the raw 19-value objective column. Listed all six matrix sheets. Updated the value_counts expected-output label for the current pandas.
 
