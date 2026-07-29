@@ -96,7 +96,7 @@
 - Corrected mismatched and missing citations throughout the international transparency comparison and signal-example sections, and added a reference for FOI 4029-03, previously cited but missing from the list.
 - Replaced the international comparator table with current, dated figures from official sources (US, UK), after the originals were found outdated, and added Japan and a peer-reviewed 14-country study to position Australia's rate against the wider international standard. New Zealand and Canada were considered and excluded as comparators, with reasons given.
 - Integrated Senate QON 559 (150 signals assessed, 93 with no recorded disposition) as the primary current figure throughout, replacing the earlier testimony figure (148) except where specifically describing the 9 October 2025 hearing itself. Added QON 559 as a reference.
-- General reference-list cleanup and renumbering for consistency (1–28, verified).
+- Reordered the full reference list into strict first-appearance citation order (1–28, verified), and corrected a scope error attributing signal-investigation-specific documentation to OAIC Decision AICmr 54, which addressed Safety Plan implementation documentation more generally.
 - No change to the audit's core findings or the Australian claims data (4,962 lodged / 522 approved), all independently re-confirmed against source during this review.
 
 ### Replication code
