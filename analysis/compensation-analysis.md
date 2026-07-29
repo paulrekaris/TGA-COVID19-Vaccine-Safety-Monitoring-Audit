@@ -26,7 +26,7 @@ Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (
 
 ## The Core Problem: Causation and Information Asymmetry
 
-The scheme requires treating doctors to opine, on the balance of probabilities, that injury was caused by vaccination.¹⁷ This reliance on medical opinion creates challenges when doctors lack access to population-level evidence. While TGA collects extensive surveillance data and conducts signal investigations to assess population-level risks, this evidence remains inaccessible to treating practitioners forming causation opinions, who are left relying on individual medical records and temporal association alone. Published literature and TGA public advisories do not substitute for this: they do not provide access to the regulator's underlying signal investigation records, analyses, or decision-making documentation for a specific injury type.
+The scheme requires treating doctors to opine, on the balance of probabilities, that injury was caused by vaccination.¹ This reliance on medical opinion creates challenges when doctors lack access to population-level evidence. While TGA collects extensive surveillance data and conducts signal investigations to assess population-level risks, this evidence remains inaccessible to treating practitioners forming causation opinions, who are left relying on individual medical records and temporal association alone. Published literature and TGA public advisories do not substitute for this: they do not provide access to the regulator's underlying signal investigation records, analyses, or decision-making documentation for a specific injury type.
 
 ## Quantitative Evidence
 
@@ -34,26 +34,26 @@ The scheme requires treating doctors to opine, on the balance of probabilities, 
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Claims lodged | 4,962 (scheme closed Sep 2024) | ABC News (Sep 2025)¹ |
-| Claims approved | 522 (10.5%) | ABC News (Sep 2025)¹ |
-| Claims denied/withdrawn | ~4,440 (89.5%) | ABC News (Sep 2025)¹ |
-| Total paid | >A$40 million | ABC News (Sep 2025)¹ |
+| Claims lodged | 4,962 (scheme closed Sep 2024) | ABC News (Sep 2025)² |
+| Claims approved | 522 (10.5%) | ABC News (Sep 2025)² |
+| Claims denied/withdrawn | ~4,440 (89.5%) | ABC News (Sep 2025)² |
+| Total paid | >A$40 million | ABC News (Sep 2025)² |
 
-COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW, documented 91% rejection/withdrawal rate in August 2024 research, citing barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.⁸
+COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW, documented 91% rejection/withdrawal rate in August 2024 research, citing barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.³
 
 ### TGA Surveillance Data
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| DAEN adverse event reports | 137,000+ (Dec 2022); ~140,000 (July 2023) | TGA Safety Report (22 Dec 2022)², ¹⁶|
-| AusVaxSafety survey responses | 6.8 million+ | AusVaxSafety Data⁹ |
-| Adverse events reported via AusVaxSafety | ~3 million | AusVaxSafety Data⁹,¹⁰ |
-| Safety signals investigated (testimony) | 148 | Senate Hansard (9 Oct 2025)³ |
-| Safety signals assessed (written answer) | 150 | Senate QON 559 (SQ25-001584)⁵ |
-| Regulatory actions taken | 57 | Senate QON 559 (SQ25-001584)⁵ |
-| Signals with no recorded disposition | 93 | Senate QON 559 (SQ25-001584)⁵ |
+| DAEN adverse event reports | 137,000+ (Dec 2022); ~140,000 (July 2023) | TGA Safety Report (22 Dec 2022)⁴, ⁵|
+| AusVaxSafety survey responses | 6.8 million+ | AusVaxSafety Data⁶ |
+| Adverse events reported via AusVaxSafety | ~3 million | AusVaxSafety Data⁶,⁷ |
+| Safety signals investigated (testimony) | 148 | Senate Hansard (9 Oct 2025)⁸ |
+| Safety signals assessed (written answer) | 150 | Senate QON 559 (SQ25-001584)¹⁰ |
+| Regulatory actions taken | 57 | Senate QON 559 (SQ25-001584)¹⁰ |
+| Signals with no recorded disposition | 93 | Senate QON 559 (SQ25-001584)¹⁰ |
 
-**Context:** Against 68.4 million doses administered under provisional approval (91.2% of 75 million total doses) to 21.2 million recipients by July 2023.⁶
+**Context:** Against 68.4 million doses administered under provisional approval (91.2% of 75 million total doses) to 21.2 million recipients by July 2023.¹¹
 
 
 ## Timeline of Key Events
@@ -63,7 +63,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Feb 2021** | COVID-19 Vaccine Safety Monitoring Plan published | TGA commits to enhanced pharmacovigilance with 17 numbered strategies across 5 specified objectives|
 | **Mar 2021** | First COVID-19 vaccine safety report published | Weekly public reporting begins under provisional approval framework |
 | **Sep 2021** | COVID-19 Vaccine Claims Scheme opens | No-fault compensation scheme established acknowledging potential vaccine injuries |
-| **Sep 2021** | FOI 4029-03: TGA presents Strategy 2.3 methodology to Advisory Committee | Internal demonstration of PRR/MaxSPRT capacity—not published to citizens²⁴ |
+| **Sep 2021** | FOI 4029-03: TGA presents Strategy 2.3 methodology to Advisory Committee | Internal demonstration of PRR/MaxSPRT capacity—not published to citizens¹² |
 | **Dec 2022** | 137,000+ DAEN reports documented | Peak passive surveillance activity during mass rollout |
 | **Jul 2023** | Approximately 68.4 million doses administered under provisional approval | Represents approximately 91% of total rollout—one of the largest deployments of provisionally approved medicines in Australian history |
 | **Aug 2024** | COVERSE/UNSW reports approximately 91% rejected/withdrawn claims | Independent research documents systemic barriers including difficulty obtaining causation opinions |
@@ -77,27 +77,27 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 ## Case Study Evidence
 
 ### Successful Claim (Workers' Compensation Pathway)
-*Shepherd v State of South Australia* [2024] SAET 2. A youth worker with post-vaccine pericarditis succeeded via state workers' compensation following a tribunal ruling—a pathway unavailable to most citizens due to vaccine mandate context.¹¹
+*Shepherd v State of South Australia* [2024] SAET 2. A youth worker with post-vaccine pericarditis succeeded via state workers' compensation following a tribunal ruling—a pathway unavailable to most citizens due to vaccine mandate context.¹³
 
 ### Deterred Applicant
-Michelle Grace Hunder, diagnosed with vaccine-induced pericarditis, did not apply to the scheme due to its complexity, perceived low success rate, and restrictive eligibility criteria including overnight hospital admission requirements.¹²
+Michelle Grace Hunder, diagnosed with vaccine-induced pericarditis, did not apply to the scheme due to its complexity, perceived low success rate, and restrictive eligibility criteria including overnight hospital admission requirements.¹⁴
 
 ### Federal Scheme Success
-An anonymous claimant with severe neurological injury waited three years from injury to settlement, noting the process was not the "quick administrative process" promised.⁸
+An anonymous claimant with severe neurological injury waited three years from injury to settlement, noting the process was not the "quick administrative process" promised.³
 
 ### Systemic Rejection Pattern
-COVERSE/UNSW research (August 2024) documents 91% rejection/withdrawal rate, identifying systemic barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.⁸
+COVERSE/UNSW research (August 2024) documents 91% rejection/withdrawal rate, identifying systemic barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.³
 
 ## The Documented Transparency Failure
 
 ### TGA's Acknowledged Documentation
-In Senate testimony (9 October 2025), TGA representatives confirmed the agency investigated 148 safety signals and took 57 regulatory or information actions, indicating that investigation processes were undertaken.³
+In Senate testimony (9 October 2025), TGA representatives confirmed the agency investigated 148 safety signals and took 57 regulatory or information actions, indicating that investigation processes were undertaken.⁸
 
 ### FOI Refusals to Citizens
-The Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54 documents the Department of Health's position that Safety Plan implementation records "do not exist" in a "single consolidated form" and that producing relevant documents would involve a "vast volume" making provision impractical.⁷
+The Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54 documents the Department of Health's position that Safety Plan implementation records "do not exist" in a "single consolidated form" and that producing relevant documents would involve a "vast volume" making provision impractical.¹⁵
 
 ### The Contradiction
-The TGA confirms assessing 150 signals and taking 57 regulatory actions whilst simultaneously claiming signal investigation documentation cannot be consolidated or provided to citizens seeking to prove causation for compensation claims.
+The TGA confirms assessing 150 signals and taking 57 regulatory actions whilst simultaneously claiming the relevant documentation cannot be consolidated or provided to citizens seeking to prove causation for compensation claims.
 
 ## Specific Examples of Information Asymmetry
 
@@ -107,7 +107,7 @@ The following examples illustrate how TGA's failure to publish signal investigat
 
 **Claimant profile:** 25-year-old male develops myocarditis within one week of second mRNA COVID-19 vaccine dose, requiring hospitalisation.
 
-**What TGA investigated:** Myocarditis/pericarditis was identified as one of seven priority safety signals in December 2021.¹⁹ TGA conducted population-level analysis demonstrating elevated risk in young males following mRNA vaccination, leading to regulatory action including updated product information and clinical guidance.
+**What TGA investigated:** Myocarditis/pericarditis was identified as one of seven priority safety signals in December 2021.¹⁶ TGA conducted population-level analysis demonstrating elevated risk in young males following mRNA vaccination, leading to regulatory action including updated product information and clinical guidance.
 
 **What remains inaccessible:** TGA's detailed signal investigation documentation including:
 - Age-stratified risk quantification for young males
@@ -124,7 +124,7 @@ The following examples illustrate how TGA's failure to publish signal investigat
 
 **Claimant profile:** 32-year-old woman experiences severe menstrual disruption (prolonged heavy bleeding, cycle irregularities) following COVID-19 vaccination, requiring gynaecological intervention.
 
-**What TGA investigated:** Menstrual disorders were identified as a priority safety signal requiring investigation in December 2021.¹⁹ TGA reviewed population-level reports of menstrual changes and cycle disruptions following COVID-19 vaccination.
+**What TGA investigated:** Menstrual disorders were identified as a priority safety signal requiring investigation in December 2021.¹⁶ TGA reviewed population-level reports of menstrual changes and cycle disruptions following COVID-19 vaccination.
 
 **What remains inaccessible:** TGA's signal investigation documentation including:
 - Incidence rates of menstrual disorders post-vaccination
@@ -141,7 +141,7 @@ The following examples illustrate how TGA's failure to publish signal investigat
 
 **Claimant profile:** 45-year-old develops Guillain-Barré Syndrome within three weeks of COVID-19 vaccination, requiring intensive care admission and prolonged rehabilitation.
 
-**What TGA investigated:** GBS was identified as a priority safety signal in December 2021.¹⁹ Multiple TGA safety reports referenced GBS monitoring, with later reports stating observed rates were "similar to expected" without publishing statistical methodology.¹⁵
+**What TGA investigated:** GBS was identified as a priority safety signal in December 2021.¹⁶ Multiple TGA safety reports referenced GBS monitoring, with later reports stating observed rates were "similar to expected" without publishing statistical methodology.¹⁷
 
 **What remains inaccessible:** TGA's signal investigation documentation including:
 - Observed versus expected analysis methodology
@@ -159,24 +159,24 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 ## Comparative International Transparency
 
-- **United States:** CDC publishes VAERS/VSD summaries with detailed signal detection methodologies and outcomes (e.g., myocarditis/TTS risk by age/sex).¹³,²¹
-- **United Kingdom:** MHRA publishes weekly summaries of Yellow Card adverse event reports, including incidence rates and safety advice; MHRA has also implemented active-surveillance methods using observed-versus-expected analysis, though the extent of routine public disclosure of that specific methodology is less clear than for CDC's published analyses.¹⁴
-- **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from the 150 signals assessed and 57 actions taken—despite internal capacity (FOI 4029-03).²⁴
+- **United States:** CDC publishes VAERS/VSD summaries with detailed signal detection methodologies and outcomes (e.g., myocarditis/TTS risk by age/sex).¹⁸,¹⁹
+- **United Kingdom:** MHRA publishes weekly summaries of Yellow Card adverse event reports, including incidence rates and safety advice; MHRA has also implemented active-surveillance methods using observed-versus-expected analysis, though the extent of routine public disclosure of that specific methodology is less clear than for CDC's published analyses.²⁰
+- **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from the 150 signals assessed and 57 actions taken—despite internal capacity (FOI 4029-03).¹²
 
 **Note on comparator statistics:** Compensation scheme figures below are dated to their most recent official source at time of writing. These schemes are dynamic; figures should be re-verified against current official data before publication or citation, consistent with the evidentiary standard applied throughout this analysis.
 
 | **Country** | **Claims filed** | **Outcome** | **Rate** | **As at** |
 |-------------|------------------:|------------:|---------:|-----------|
-| **Australia** | 4,962 | 522 compensated | 10.5% | Scheme closure¹ |
-| **United States (CICP – COVID claims)** | 14,146 | 62 compensated (112 eligible) | 0.44% compensated (0.79% eligible) | HRSA, July 2026²⁰ |
-| **United Kingdom (VDPS – COVID claims)** | 21,213 | ~1.1% awards | ~1.1% | July 2025²³ |
-| **Japan (Health Damage Relief System)** | 13,975 | 9,260 approved | ~66% | 29 July 2025²⁵ |
+| **Australia** | 4,962 | 522 compensated | 10.5% | Scheme closure² |
+| **United States (CICP – COVID claims)** | 14,146 | 62 compensated (112 eligible) | 0.44% compensated (0.79% eligible) | HRSA, July 2026²¹ |
+| **United Kingdom (VDPS – COVID claims)** | 21,213 | ~1.1% awards | ~1.1% | July 2025²² |
+| **Japan (Health Damage Relief System)** | 13,975 | 9,260 approved | ~66% | 29 July 2025²³ |
 
-**Wider international comparison.** A peer-reviewed comparative study of 14 national COVID-19 vaccine injury compensation schemes found a **median approval rate of 26.76%**, ranging from Japan (74.29%, the highest) to the United Kingdom (2.64%, the lowest).²⁶ Australia's verified rate of 10.5% (per the table above) sits well below this international median. The same study separately reports an Australian approval rate of approximately 13%, which appears to reflect an earlier or differently-scoped dataset than the Scheme's final closure figures used throughout this analysis; the 10.5% figure (522 of 4,962 lodged claims, per ABC News reporting at scheme closure) is used here as the more current and directly-sourced figure. New Zealand (ACC) and Canada (VISP/VIAP) were considered for inclusion in the table above but excluded: New Zealand's reported claim figures vary substantially by release date, with no single stable current total identified;²⁷ Canada's scheme was replaced by a new program (the Vaccine Impact Assistance Program) on 1 April 2026 amid reported administrative issues, meaning any figure under the former program would describe a superseded scheme.²⁸ The same peer-reviewed study reports Japan's approval rate as 74.29%, higher than the ~66% (9,260 of 13,975) figure reported separately in Health Damage Relief System data as at July 2025; the difference likely reflects different reporting dates or denominators (e.g. reviewed versus total submitted applications). Both figures indicate an approval rate substantially higher than Australia's.
+**Wider international comparison.** A peer-reviewed comparative study of 14 national COVID-19 vaccine injury compensation schemes found a **median approval rate of 26.76%**, ranging from Japan (74.29%, the highest) to the United Kingdom (2.64%, the lowest).²⁴ Australia's verified rate of 10.5% (per the table above) sits well below this international median. The same study separately reports an Australian approval rate of approximately 13%, which appears to reflect an earlier or differently-scoped dataset than the Scheme's final closure figures used throughout this analysis; the 10.5% figure (522 of 4,962 lodged claims, per ABC News reporting at scheme closure) is used here as the more current and directly-sourced figure. New Zealand (ACC) and Canada (VISP/VIAP) were considered for inclusion in the table above but excluded: New Zealand's reported claim figures vary substantially by release date, with no single stable current total identified;²⁵ Canada's scheme was replaced by a new program (the Vaccine Impact Assistance Program) on 1 April 2026 amid reported administrative issues, meaning any figure under the former program would describe a superseded scheme.²⁶ The same peer-reviewed study reports Japan's approval rate as 74.29%, higher than the ~66% (9,260 of 13,975) figure reported separately in Health Damage Relief System data as at July 2025; the difference likely reflects different reporting dates or denominators (e.g. reviewed versus total submitted applications). Both figures indicate an approval rate substantially higher than Australia's.
 
 > ## Case Study in Transparency: How the CDC Does It
 > 
-> The CDC's August 2021 MMWR report on GBS after Janssen vaccine exemplifies what transparency looks like in practice.²¹ It doesn't just announce a risk—it publishes:
+> The CDC's August 2021 MMWR report on GBS after Janssen vaccine exemplifies what transparency looks like in practice.¹⁹ It doesn't just announce a risk—it publishes:
 > 
 > - **Quantified, stratified risk**: 15.6 cases per million doses in males aged 50–64
 > - **Full methodology**: Observed vs. expected analysis, confidence intervals (95% CI 8.1–41.7)
@@ -189,13 +189,13 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 ### Key Differences
 
 **Transparency:**
-- **US/UK:** Publish detailed signal investigation reports with full statistical methodology, enabling external verification and supporting clinician causality assessments¹³,¹⁴
-- **Australia:** TGA has not published signal investigation documentation despite reporting 150 signals assessed and 57 regulatory actions, with no disposition recorded for 93 of them³
+- **US/UK:** Publish detailed signal investigation reports with full statistical methodology, enabling external verification and supporting clinician causality assessments¹⁸,²⁰
+- **Australia:** TGA has not published signal investigation documentation despite reporting 150 signals assessed and 57 regulatory actions, with no disposition recorded for 93 of them⁸
 
 **Methodology Publication:**
-- **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for all major signals (e.g., myocarditis risk quantification by age/sex/vaccine type) within days post-signal detection¹³,²¹
-- **UK:** MHRA publishes weekly summaries of adverse event reports and incidence rates; MHRA has implemented active-surveillance methods reportedly using observed-versus-expected analysis, though routine public disclosure of this methodology is less clear than for CDC's published analyses¹⁴
-- **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis¹⁵,²⁴
+- **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for all major signals (e.g., myocarditis risk quantification by age/sex/vaccine type) within days post-signal detection¹⁸,¹⁹
+- **UK:** MHRA publishes weekly summaries of adverse event reports and incidence rates; MHRA has implemented active-surveillance methods reportedly using observed-versus-expected analysis, though routine public disclosure of this methodology is less clear than for CDC's published analyses²⁰
+- **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis¹⁷,¹²
 
 **Impact on Compensation Claims:**
 All three jurisdictions in the direct comparison show low approval rates, but the US (0.44% compensated) and UK (~1.1%) are substantially lower than Australia (10.5%), while Japan (~66%) sits at the opposite end of the international range. Set against the 14-country median of 26.76%, Australia's rate remains well below the international standard. However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's failure to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity alone.
@@ -207,7 +207,7 @@ All three jurisdictions in the direct comparison show low approval rates, but th
 
 ## Analysis and Implications
 
-The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹⁷ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.¹⁸ However, TGA's failure to release investigation findings from the 150 signals it reports assessing, including no recorded disposition for 93 of them, and 57 regulatory actions³ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
+The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.²⁷ However, TGA's failure to release investigation findings from the 150 signals it reports assessing, including no recorded disposition for 93 of them, and 57 regulatory actions⁸ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
 
 This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the scheme's 89.5% rejection rate, as doctors lack access to evidence that could strengthen their causation opinions.
 
@@ -240,10 +240,10 @@ Result: 89.5% rejection rate whilst signal investigation evidence remains inacce
 
 | TGA Statement | Audience | Implication |
 |---------------|----------|-------------|
-| 148 signals investigated, 57 actions taken | Senate (Oct 2025)³ | Signal investigations confirmed |
-| Documents "don't exist in single consolidated form" | OAIC (2025)⁷ | Cannot provide to citizens |
-| "Vast volume" makes production impractical | FOI claimants (2022-2025)⁷ | Too difficult to organise for citizen access |
-| Successfully organised 2,218+ pages by Safety Plan objectives | OAIC review (Sept 2024)⁷ | Demonstrates capacity when legally required |
+| 148 signals investigated, 57 actions taken | Senate (Oct 2025)⁸ | Signal investigations confirmed |
+| Documents "don't exist in single consolidated form" | OAIC (2025)¹⁵ | Cannot provide to citizens |
+| "Vast volume" makes production impractical | FOI claimants (2022-2025)¹⁵ | Too difficult to organise for citizen access |
+| Successfully organised 2,218+ pages by Safety Plan objectives | OAIC review (Sept 2024)¹⁵ | Demonstrates capacity when legally required |
 
 **Conclusion:** TGA demonstrates capacity to organise signal and safety monitoring documentation when facing Information Commissioner review, but claims impossibility when facing citizen FOI requests or compensation claimants seeking causation evidence.
 
@@ -261,68 +261,68 @@ This analysis cannot determine whether signal investigation documentation would 
 
 ## Conclusion
 
-Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no recorded disposition, and 57 regulatory actions. FOI 5275 further confirms TGA does not hold incidence data required by its own Safety Monitoring Plan conditions²² — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
+Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no recorded disposition, and 57 regulatory actions. FOI 5275 further confirms TGA does not hold incidence data required by its own Safety Monitoring Plan conditions²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
 
 ---
 
 ## References
 
-1. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
+1. Australian Government Department of Health and Aged Care. (2024). COVID-19 Vaccine Claims Scheme Policy 2021 (Version 1.6, 24 September 2024). Section 19 (Causation). https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
 
-2. Therapeutic Goods Administration, 'COVID-19 vaccine safety report – 22-12-2022', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-22-12-2022.
+2. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
 
-3. Parliament of Australia, Senate Community Affairs Legislation Committee Hansard, 9 October 2025, https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003.
+3. COVERSE & UNSW, 'The Australian COVID-19 Vaccine Claims Scheme: Research Report', August 2024, https://media.coverse.org.au/documents/reports/2024-08%20misalignment%20report.pdf.
 
-4. Parliament of Australia, Senate Community Affairs Legislation Committee, 9 October 2025, YouTube recording, https://www.youtube.com/watch?v=YLFNBFdICU0.
+4. Therapeutic Goods Administration, 'COVID-19 vaccine safety report – 22-12-2022', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-22-12-2022.
 
-5. Parliament of Australia, Senate Community Affairs Legislation Committee, Answer to Question on Notice 559 (SQ25-001584), Department of Health, Disability and Ageing, 2025–2026.
+5. Senate Education and Employment References Committee. (2023). Effectiveness of the Commonwealth's COVID-19 vaccine injury claims scheme - Chapter 2: Matters raised in evidence. Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/VaccineDiscrimination/Report/Chapter_2_-_Matters_raised_in_evidence#_ftn25
 
-6. Australian Government Department of Health and Aged Care, 'COVID-19 vaccine rollout update – 27 July 2023', https://www.health.gov.au/sites/default/files/2023-07/covid-19-vaccine-rollout-update-27-july-2023.pdf.
+6. Australian Government Department of Health and Aged Care, 'AusVaxSafety COVID-19 vaccine surveillance summary report 2021', September 2022, https://www.health.gov.au/sites/default/files/documents/2022/09/ausvaxsafety-covid-19-vaccine-surveillance-summary-report-2021.pdf.
 
-7. Office of the Australian Information Commissioner, *'AUQ' and Department of Health and Aged Care* [2025] AICmr 54, https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html. Case note also available at: Sparke Helmore, https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/.
+7. Deng L, Glover C, Dymock M, Pillsbury A, Marsh JA, Quinn HE, Leeb A, Cashman P, Snelling TL, Wood N, Macartney K. The short term safety of COVID-19 vaccines in Australia: AusVaxSafety active surveillance, February – August 2021. Med J Aust. 2022;217(4):195-202. doi:10.5694/mja2.51619. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC9350119/
 
-8. COVERSE & UNSW, 'The Australian COVID-19 Vaccine Claims Scheme: Research Report', August 2024, https://media.coverse.org.au/documents/reports/2024-08%20misalignment%20report.pdf.
+8. Parliament of Australia, Senate Community Affairs Legislation Committee Hansard, 9 October 2025, https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003.
 
-9. Australian Government Department of Health and Aged Care, 'AusVaxSafety COVID-19 vaccine surveillance summary report 2021', September 2022, https://www.health.gov.au/sites/default/files/documents/2022/09/ausvaxsafety-covid-19-vaccine-surveillance-summary-report-2021.pdf.
+9. Parliament of Australia, Senate Community Affairs Legislation Committee, 9 October 2025, YouTube recording, https://www.youtube.com/watch?v=YLFNBFdICU0.
 
-10. Deng L, Glover C, Dymock M, Pillsbury A, Marsh JA, Quinn HE, Leeb A, Cashman P, Snelling TL, Wood N, Macartney K. The short term safety of COVID-19 vaccines in Australia: AusVaxSafety active surveillance, February – August 2021. Med J Aust. 2022;217(4):195-202. doi:10.5694/mja2.51619. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC9350119/
+10. Parliament of Australia, Senate Community Affairs Legislation Committee, Answer to Question on Notice 559 (SQ25-001584), Department of Health, Disability and Ageing, 2025–2026.
 
-11. *Shepherd v State of South Australia* [2024] SAET 2 (15 January 2024). Analysis available at: Shop Giourgas, https://www.shopovgiourgas.com.au/latest/covid-19-and-vaccine-requirements-connection-with-employment/.
+11. Australian Government Department of Health and Aged Care, 'COVID-19 vaccine rollout update – 27 July 2023', https://www.health.gov.au/sites/default/files/2023-07/covid-19-vaccine-rollout-update-27-july-2023.pdf.
 
-12. SBS News. (2024, September 22). For Australians injured by a COVID vaccine, the battle for compensation is "traumatising". [URL removed; no archive available] SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
+12. Therapeutic Goods Administration, FOI 4029-03: TGA presentation of Strategy 2.3 methodology to the Advisory Committee on Vaccines, September 2021. Available in the FOI 4029 suite: primary-sources/foi/foi-4029/foi-4029-03.pdf (complete suite at primary-sources/foi/foi-4029), https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/primary-sources/foi/foi-4029.
+
+13. *Shepherd v State of South Australia* [2024] SAET 2 (15 January 2024). Analysis available at: Shop Giourgas, https://www.shopovgiourgas.com.au/latest/covid-19-and-vaccine-requirements-connection-with-employment/.
+
+14. SBS News. (2024, September 22). For Australians injured by a COVID vaccine, the battle for compensation is "traumatising". [URL removed; no archive available] SBS News. (2024, September 21). Australia's COVID vaccine compensation scheme is closing – here's how much it has paid out. 
 https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme-is-closing-heres-how-much-it-has-paid-out/vmsag6lb7
 
-13. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
+15. Office of the Australian Information Commissioner, *'AUQ' and Department of Health and Aged Care* [2025] AICmr 54, https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html. Case note also available at: Sparke Helmore, https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/.
+
+16. Therapeutic Goods Administration, 'COVID-19 vaccine weekly safety report – 23-12-2021', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021.
+
+17. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
+
+18. Centers for Disease Control and Prevention, 'COVID-19 Vaccine Safety Surveillance', U.S. Department of Health & Human Services, https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html. Archived at https://archive.cdc.gov/#/details?url=https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety.html
     
-14. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
+19. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
 
-15. Therapeutic Goods Administration, 'COVID-19 vaccine safety reports', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports.
+20. Medicines and Healthcare products Regulatory Agency, 'Coronavirus vaccine – weekly summary of Yellow Card reporting', GOV.UK, https://www.gov.uk/government/publications/coronavirus-covid-19-vaccine-adverse-reactions.
 
-16. Senate Education and Employment References Committee. (2023). Effectiveness of the Commonwealth's COVID-19 vaccine injury claims scheme - Chapter 2: Matters raised in evidence. Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/VaccineDiscrimination/Report/Chapter_2_-_Matters_raised_in_evidence#_ftn25
+21. Health Resources & Services Administration. (2026). Countermeasures Injury Compensation Program (CICP) Data - Table 4. https://www.hrsa.gov/cicp/cicp-data/table-4
 
-17. Australian Government Department of Health and Aged Care. (2024). COVID-19 Vaccine Claims Scheme Policy 2021 (Version 1.6, 24 September 2024). Section 19 (Causation). https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
+22. UK Parliament, Written Questions, 2025-07-10/66647 (COVID-19 vaccine damage payment claims and awards), https://questions-statements.parliament.uk/written-questions/detail/2025-07-10/66647/. See also 2024-11-27/16449, https://questions-statements.parliament.uk/written-questions/detail/2024-11-27/16449.
 
-18. Therapeutic Goods Administration. (2025). FOI 25-0117: TGA response confirming scheme focus on treating doctor's opinion. https://www.tga.gov.au/sites/default/files/2025-03/FOI%2025-0117_2.pdf
+23. Fujisawa A, Kodama S, Konishi N, Ueda J, Kitagawa A, Okada E, Miyokawa M, Hirai Y, Nakatani E, Fukushima M. (2026). Characterizing persistent Post-COVID-19 vaccination symptoms using MedDRA system organ class and preferred term classifications. Scientific Reports. Japan Health Damage Relief System figures (13,975 applications, 9,260 approved, as at 29 July 2025) cited therein. https://www.nature.com/articles/s41598-026-43949-z
 
-19. Therapeutic Goods Administration, 'COVID-19 vaccine weekly safety report – 23-12-2021', Australian Government Department of Health and Aged Care, https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021.
+24. Chu, C.-F., Chang, T.-H., & Ho, J.-J. (2025). Comparative analysis of fourteen COVID-19 vaccine injury compensation systems and claim approval rates. Vaccine, 52, 126830. https://doi.org/10.1016/j.vaccine.2025.126830
 
-20. Health Resources & Services Administration. (2026). Countermeasures Injury Compensation Program (CICP) Data - Table 4. https://www.hrsa.gov/cicp/cicp-data/table-4
+25. Accident Compensation Corporation (New Zealand), Official Information Act responses on COVID-19 vaccination treatment injury claims (multiple releases, 2021–2026), illustrating variation in reported claim totals by release date. https://www.acc.co.nz/ ; https://fyi.org.nz/request/32906-treatment-injury-claims-related-to-covid-19-vaccinations
 
-21. Centers for Disease Control and Prevention. (2021). Use of COVID-19 Vaccines After Reports of Adverse Events Among Adult Recipients of Janssen (Johnson & Johnson) and mRNA COVID-19 Vaccines (Pfizer-BioNTech and Moderna): Update from the Advisory Committee on Immunization Practices — United States, July 2021. MMWR. Morbidity and Mortality Weekly Report, 70(32), 1094–1099. https://www.cdc.gov/mmwr/volumes/70/wr/mm7032e4.htm
+26. CBC News. (2026). Public Health Agency of Canada announces it is taking over vaccine injury program. Reporting on the transition from the Vaccine Injury Support Program (VISP) to the Vaccine Impact Assistance Program (VIAP), effective 1 April 2026. https://www.cbc.ca/news/health/vaccine-injury-compensation-phac-9.7148810
 
-22. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
+27. Therapeutic Goods Administration. (2025). FOI 25-0117: TGA response confirming scheme focus on treating doctor's opinion. https://www.tga.gov.au/sites/default/files/2025-03/FOI%2025-0117_2.pdf
 
-23. UK Parliament, Written Questions, 2025-07-10/66647 (COVID-19 vaccine damage payment claims and awards), https://questions-statements.parliament.uk/written-questions/detail/2025-07-10/66647/. See also 2024-11-27/16449, https://questions-statements.parliament.uk/written-questions/detail/2024-11-27/16449.
-
-24. Therapeutic Goods Administration, FOI 4029-03: TGA presentation of Strategy 2.3 methodology to the Advisory Committee on Vaccines, September 2021. Available in the FOI 4029 suite: primary-sources/foi/foi-4029/foi-4029-03.pdf (complete suite at primary-sources/foi/foi-4029), https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/primary-sources/foi/foi-4029.
-
-25. Fujisawa A, Kodama S, Konishi N, Ueda J, Kitagawa A, Okada E, Miyokawa M, Hirai Y, Nakatani E, Fukushima M. (2026). Characterizing persistent Post-COVID-19 vaccination symptoms using MedDRA system organ class and preferred term classifications. Scientific Reports. Japan Health Damage Relief System figures (13,975 applications, 9,260 approved, as at 29 July 2025) cited therein. https://www.nature.com/articles/s41598-026-43949-z
-
-26. Chu, C.-F., Chang, T.-H., & Ho, J.-J. (2025). Comparative analysis of fourteen COVID-19 vaccine injury compensation systems and claim approval rates. Vaccine, 52, 126830. https://doi.org/10.1016/j.vaccine.2025.126830
-
-27. Accident Compensation Corporation (New Zealand), Official Information Act responses on COVID-19 vaccination treatment injury claims (multiple releases, 2021–2026), illustrating variation in reported claim totals by release date. https://www.acc.co.nz/ ; https://fyi.org.nz/request/32906-treatment-injury-claims-related-to-covid-19-vaccinations
-
-28. CBC News. (2026). Public Health Agency of Canada announces it is taking over vaccine injury program. Reporting on the transition from the Vaccine Injury Support Program (VISP) to the Vaccine Impact Assistance Program (VIAP), effective 1 April 2026. https://www.cbc.ca/news/health/vaccine-injury-compensation-phac-9.7148810
+28. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
 Last updated: 29 July 2026
 
