@@ -312,7 +312,7 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 23. Therapeutic Goods Administration, FOI 4029-03: TGA presentation of Strategy 2.3 methodology to the Advisory Committee on Vaccines, September 2021. Available in the FOI 4029 suite: primary-sources/foi/foi-4029/foi-4029-03.pdf (complete suite at primary-sources/foi/foi-4029), https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/primary-sources/foi/foi-4029.
 
-24. [Author(s) to be confirmed]. (2026). Characterizing persistent Post-COVID-19 vaccination symptoms using MedDRA system organ class and preferred term classifications. Scientific Reports. Japan Health Damage Relief System figures (13,975 applications, 9,260 approved, as at 29 July 2025) cited therein. https://www.nature.com/articles/s41598-026-43949-z
+24. Fujisawa A, Kodama S, Konishi N, Ueda J, Kitagawa A, Okada E, Miyokawa M, Hirai Y, Nakatani E, Fukushima M. (2026). Characterizing persistent Post-COVID-19 vaccination symptoms using MedDRA system organ class and preferred term classifications. Scientific Reports. Japan Health Damage Relief System figures (13,975 applications, 9,260 approved, as at 29 July 2025) cited therein. https://www.nature.com/articles/s41598-026-43949-z
 
 25. Chu, C.-F., Chang, T.-H., & Ho, J.-J. (2025). Comparative analysis of fourteen COVID-19 vaccine injury compensation systems and claim approval rates. Vaccine, 52, 126830. https://doi.org/10.1016/j.vaccine.2025.126830
 
