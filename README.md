@@ -196,7 +196,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > ### After four years of systematic investigation, this audit finds:
 > 
 > #### 1. No systematic implementation documentation  
-> TGA's OAIC-directed searches in September 2024 across more than 531 TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54. 
+> TGA's OAIC-directed searches in September 2024 across more than  TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54. 
 > 
 > #### 2. "Day-to-day processes" instead of enhanced monitoring  
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
@@ -244,7 +244,7 @@ Procedural correctness and technical compliance in FOI administration and substa
 
 This finding is based on official determinations, not interpretation:
 
-**TGA's September 2024 submission to OAIC (MR22/00538)** documented comprehensive searches across 531+ TRIM containers using eight search terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation. [The Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf) in paragraph 15 states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” A TGA search officer conducting TRIM searches recorded contemporaneously in Attachment A, page 29: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” Both statements, made in formal OAIC proceedings and real-time operational search records, corroborate the audit's central finding from within TGA's own documentary record.
+**TGA's September 2024 submission to OAIC (MR22/00538)** documented comprehensive searches across + TRIM containers using eight search terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation. [The Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf) in paragraph 15 states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” A TGA search officer conducting TRIM searches recorded contemporaneously in Attachment A, page 29: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” Both statements, made in formal OAIC proceedings and real-time operational search records, corroborate the audit's central finding from within TGA's own documentary record.
 
 **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** reviewed this evidence and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding "documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) ([case note](reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)) confirmed the administrative law finding.
 
@@ -272,7 +272,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **2022–2023** - TGA organises extensive vaccine‑safety documentation for Information Commissioner review.
 
-- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
+- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than  TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
 
 - **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
@@ -814,7 +814,7 @@ Three possible explanations exist for the documented gaps:
 
 2. **Records existed but were not retained:** Implementation was documented but records were not preserved in accordance with the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
 
-3. **Records exist but have not been produced:** Documentation exists within TGA systems but has not been located or disclosed despite OAIC-directed searches covering 531 TRIM containers and 2,218+ pages, multiple FOI requests, and direct parliamentary questioning.
+3. **Records exist but have not been produced:** Documentation exists within TGA systems but has not been located or disclosed despite OAIC-directed searches covering more than 531 TRIM containers and 2,218+ pages, multiple FOI requests, and direct parliamentary questioning.
 
 All three explanations represent significant accountability failures. The first indicates a gap between commitment and delivery. The second indicates a breach of Commonwealth records management obligations. The third would indicate a failure of both FOI compliance and parliamentary accountability. The audit's findings and recommendations apply regardless of which explanation proves correct.
 
@@ -1017,7 +1017,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.3  
-**Last Updated:** 18 July 2026  
+**Last Updated:** 30 July 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
