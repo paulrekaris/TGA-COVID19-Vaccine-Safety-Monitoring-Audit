@@ -8,7 +8,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.3&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
+[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.4&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
 ## Quick Start
 
@@ -623,7 +623,7 @@ This assessment has been provided to multiple oversight bodies:
 - **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
 - **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision. IC review for MR25/01153 still pending.
-- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 17 June 2026.
+- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 5 August 2026.
 
 Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
 
@@ -911,7 +911,7 @@ Full license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 When citing this work, please use:
 
 **Zenodo (primary):**
-Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.3). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.4). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 **SSRN:**
 Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (January 12, 2026). Available at SSRN: https://ssrn.com/abstract=6333058 or http://dx.doi.org/10.2139/ssrn.6333058
@@ -923,9 +923,9 @@ Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vac
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {June},
+  month = {August},
   year = {2026},
-  version = {1.9.3},
+  version = {1.9.4},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -1016,8 +1016,8 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History
 
-**Document Version:** 1.9.3  
-**Last Updated:** 30 July 2026  
+**Document Version:** 1.9.4
+**Last Updated:** 5 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
