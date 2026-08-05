@@ -10,7 +10,7 @@
 ---
 
 ## Table of Contents
-- [Post-1.9.3 Release Notes](#post-193-release-notes)
+- [Version 1.9.4 (5 August 2026)](#version-194-5-august-2026)
 - [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
 - [Version 1.9.2 (26 March 2026)](#version-192-26-march-2026)
 - [Version 1.9.1 (7 February 2026)](#version-191-7-february-2026)
@@ -28,9 +28,9 @@
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
 
-## Post-1.9.3 Release Notes (v1.9.4 — Statutory citation verification, primary-source additions and documentary-scope refinements)
+## Version 1.9.4 (5 August 2026)
 
-[Commits v1.9.3...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
+[Commits v1.9.4...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
 
 *Changes since the v1.9.3 release. Findings, ratings, and conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47). Prior versions remain accessible via Git history, the Zenodo DOI, and the NLA snapshot.* 
 
