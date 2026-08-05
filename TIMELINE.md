@@ -104,7 +104,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 **IC review MR25/01153** (lodged June 2025) — pending. Based on the precedent of MR22/00538 (February 2022 → March 2025, approximately three years), a determination is not anticipated before mid-2027 at the earliest. This review challenges TGA's practical refusal of 399 Plan-aligned documents identified but not processed under FOI 25-0166.
 - [OAIC MR25/01153 primary sources](primary-sources/oaic/MR25-01153/README.md)
 
-**Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — no action commenced as of June 2026.
+**Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — no action commenced as of August 2026.
 - [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
 
 
@@ -128,4 +128,4 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 20 June 2026
+**Last updated:** 5 August 2026
