@@ -29,9 +29,9 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {June},
+  month = {July},
   year = {2026},
-  version = {1.9.3},
+  version = {1.9.4},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -56,7 +56,7 @@ Companion paper describing the structured dataset and methodology compiled betwe
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan},
-  month = {June},
+  month = {July},
   year = {2026},
   publisher = {SSRN},
   doi = {10.2139/ssrn.6610438},
@@ -86,4 +86,4 @@ All publications and supporting materials are licensed under [Creative Commons A
 
 ---
 
-**Last updated:** 17 July 2026
+**Last updated:** 5 August 2026
