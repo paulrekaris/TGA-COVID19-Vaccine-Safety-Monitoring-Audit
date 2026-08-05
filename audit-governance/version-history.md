@@ -30,6 +30,8 @@
 
 ## Version 1.9.4 (5 August 2026)
 
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
 [Commits v1.9.4...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
 
 *Changes since the v1.9.3 release. Findings, ratings, and conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47). Prior versions remain accessible via Git history, the Zenodo DOI, and the NLA snapshot.* 
