@@ -9,7 +9,7 @@
 | **Agency:** | Therapeutic Goods Administration (TGA), Department of Health and Aged Care |
 | **FOI Request Reference:** | FOI 25-0166 |
 | **TGA Decision Date:** | 3 June 2025 |
-| **Status:** | IC review pending as of 26 March 2026 |
+| **Status:** | IC review pending as of 5 August 2026 |
 
 ## Application for Review
 
@@ -19,5 +19,5 @@ Application for review of the TGA's decision dated 3 June 2025 to refuse access 
 
 Documents related to this case will be uploaded following the OAIC's case review decision.
 
-**Last Updated:** 26 March 2026
+**Last Updated:** 5 August 2026
 
