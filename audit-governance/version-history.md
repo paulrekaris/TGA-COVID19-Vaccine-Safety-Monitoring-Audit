@@ -159,6 +159,9 @@ Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability c
 - Corrected the slide 18 title text and minor typographical errors.
 - **Verified against source:** Therapeutic Goods Act 1989 ss 22C/22D, 23AA, 25, 28(2A)(aa), 29(4)/29(8A); signal count (150), regulatory actions (57), output counts (17 strategies / 19 total), and dose figure (68.4m / 91.2%) confirmed consistent across slides.
 
+### OAIC and Ombudsman Case Management updates
+- Updated dates and case notes to include advise received from OAIC and Ombudsman on progress of cases
+
 ## Version 1.9.3 (14 June 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
