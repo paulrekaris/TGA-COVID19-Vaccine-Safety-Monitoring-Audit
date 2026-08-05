@@ -132,7 +132,7 @@
 ### NLA National edeposit
 - Restructured as a multipart monograph at NED's advice. Citable reference updated from NED447016P1081502 to Title ID NED476889S65171; persistent Trove URL added (nla.gov.au/nla.obj-4238332288). AWA web-archive link unchanged. Subsequently updated the NED reference to NED477153P1133159 for deposit NED477153.
 
-### Main Audit Report (July 2026)
+### Main Audit Report
 - Updated the Main Audit Report: strengthened legislative provisional approval framework analysis, OAIC chronology, Appendix F resource links, version history, and formatting refinements.
 - Refined scope wording to clarify that the audit assesses the documented implementation of the 17 enhanced monitoring strategies committed to by the TGA during the provisional approval period and specified in its February 2021 COVID-19 Vaccine Safety Monitoring Plan. 
 - Refined the audit scope and key-finding language to clarify that the assessment evaluates verifiable documentary evidence demonstrating implementation, and corrected ANAO performance audit terminology. 
@@ -150,7 +150,7 @@ Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability c
 ### Publications
 - Included an update on the peer-review status of two related journal articles on the main README and PUBLICATIONS page.
 
-### TGA Safety Plan Audit deck (July 2026)
+### TGA Safety Plan Audit deck
 - Revised the Commonwealth Framework slide (14) to a conformity-assessment format, aligned with the audit's ISO 19011 methodology: conformity verdicts (Non-conforming / Conforming / Indeterminate / Under review) replace severity ratings; Therapeutic Goods Act references updated to the verified provisions (ss 22D, 23AA, 28(2A)(aa) for the provisional framework; ss 23, 25 for transition); findings stated in documentary terms.
 - Updated the FOI s 24AA findings (slides 7 and 14) to reflect the statutory-test distinction: refusal cited s 24AA(1)(b) while relying on ~177 hrs of s 24AA(1)(a) resource grounds against ~3 hrs identification.
 - Aligned the provisional lifecycle slide (7) with the verified transition mechanism (s 23 application, s 25 evaluation).
@@ -162,7 +162,7 @@ Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability c
 - **Verified against source:** Therapeutic Goods Act 1989 ss 22C/22D, 23AA, 25, 28(2A)(aa), 29(4)/29(8A); signal count (150), regulatory actions (57), output counts (17 strategies / 19 total), and dose figure (68.4m / 91.2%) confirmed consistent across slides.
 
 ### OAIC and Ombudsman Case Management updates
-- Updated dates and case notes to include advise received from OAIC and Ombudsman on progress of cases
+- Updated dates and case notes to include advise received from OAIC and Ombudsman on progress of respective cases
 
 ## Version 1.9.3 (14 June 2026)
 
