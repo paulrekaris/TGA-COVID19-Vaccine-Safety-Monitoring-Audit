@@ -28,7 +28,7 @@
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
 
-## Post-1.9.3 Release Notes
+## Post-1.9.3 Release Notes (v1.9.4 — Statutory citation verification, primary-source additions and documentary-scope refinements)
 
 [Commits v1.9.3...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
 
@@ -139,7 +139,10 @@
 - Updated Appendix F (Links and Resources) to improve the organisation, categorisation, and accessibility of repository, archive, publication, and author reference links. 
 - Revised the legislative framework for provisional approval to correct the statutory interpretation of the Therapeutic Goods Act 1989 (Cth), clarifying the distinction between provisional registration extensions under s29 and transition to full registration through applications under ss23 and 25. Improved and corrected related footnotes and references.
 - Refined the legal basis and framework integrity assessment to distinguish statutory requirements from documented evidence of implementation, highlighting gaps in verification, traceability, and transparency relating to provisional registration conditions, risk management, and monitoring activities. 
-- Applied minor formatting refinements throughout, including footnote presentation, table formatting, and layout consistency. 
+- Applied minor formatting refinements throughout, including footnote presentation, table formatting, and layout consistency.
+- Correct "(2024)" to "(2025)" in Appendix A.8, reference 7 (Senate Community Affairs Legislation Committee Estimates Hansard), matching the hearing date already stated in the same entry.
+- Add supporting footnote citing Malikova MA (2020), "Practical applications of regulatory requirements for signal detection and communications in pharmacovigilance," Therapeutic Advances in Drug
+Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability citation. Footnote auto-numbered by Word; all 81 prior footnotes verified unchanged and correctly shifted.
 - No changes were made to the audit findings, ratings, methodology, or overall conclusions.
 
 ### Publications
