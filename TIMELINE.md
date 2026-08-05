@@ -11,8 +11,6 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 **February 2022**
 - Two direct inquiries submitted to TGA (18 and 22 February 2022) requesting Safety Plan implementation evidence — progress reports against the 17 strategies, investigation documentation, and governance records
 - TGA response (identical template both dates): claims monitoring "enhanced dramatically" and represented "the most intense ever conducted" but provides zero Plan-specific implementation documentation
-
-**February 2022**
 - FOI request submitted to the Department of Health and Aged Care requesting an implementation report on the COVID-19 Vaccine Safety Monitoring Plan against its five key objectives (FOI 3643)
 - Department refuses access on 27 February 2022 — no implementation report exists
 - Department acknowledges "ample documentation" exists but does not identify Plan-specific implementation records
