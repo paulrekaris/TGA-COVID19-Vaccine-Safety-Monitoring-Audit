@@ -14,6 +14,8 @@
 
 **New to this audit? Start here:**
 
+- [Landing Page](https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/) – Start here: a clear, non-technical overview of the audit and its findings.
+
 - [How to Navigate This Audit](FAQ.md)
 
 - [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) – Orientation, methodology, limitations, and how to verify or challenge the findings.
