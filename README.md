@@ -66,7 +66,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [Implementation Status by the Numbers](#implementation-status-by-the-numbers)
 - [Four Critical Documentation Gaps](#four-critical-documentation-gaps)
   - [Gap 1: Signal Investigation Audit Trail](#gap-1-signal-investigation-audit-trail)
-  - [Gap 2: Provisional Approval Verification](#gap-2-provisional-approval-verification)
+  - [: Enhanced Monitoring Verification at Provisional Approval](#gap-2-enhanced-monitoring-verification-at-provisional-approval)
   - [Gap 3: Enhanced Monitoring Framework Integration](#gap-3-enhanced-monitoring-framework-integration)
   - [Gap 4: Governance and Performance Measurement](#gap-4-governance-and-performance-measurement)
 - [Public Communications vs Policy Commitments](#public-communications-vs-policy-commitments)
@@ -214,7 +214,7 @@ Under the [PMC Cabinet Handbook (15th ed., paragraph 25)](https://www.pmc.gov.au
 > Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration. AusVaxSafety conducted 6.8 million SMS surveys capturing approximately 3 million adverse events and described its program as operating "as part of" the TGA-led national pharmacovigilance plan. No coordination protocols, data integration frameworks, or audit trails showing how these active surveillance findings informed TGA signal detection or regulatory decisions have been located through four years of FOI requests, OAIC-directed searches, or systematic review of published TGA material. TGA's OAIC-directed searches omitted "AusVaxSafety" as a search term entirely — a significant methodological gap given its explicit role in the Plan.
 >
 > #### 6. Provisional approval verification gap  
-> No documentation demonstrates that enhanced monitoring requirements were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
+> No documentation demonstrates that the Safety Monitoring Plan's enhanced monitoring commitments were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
 > #### 7. Detailed conformity assessment: 0% implementation for core monitoring
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 audited Plan outputs.
@@ -302,7 +302,7 @@ Each plausible explanation points to a serious failure in implementation, docume
 - Enhanced monitoring was not conducted as a structured programme with the required documentation.  
 - Records are insufficiently organised to retrieve, despite demonstrated classification capability.  
 - Documents were never systematically maintained as required by international pharmacovigilance and public‑sector record‑keeping standards.  
-- Verification of provisional‑approval conditions was not documented before transitions to full registration.
+- Verification of the Safety Monitoring Plan's enhanced monitoring commitments was not documented before transitions to full registration.
 
 
 ## What This Audit Found
@@ -343,23 +343,23 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 International pharmacovigilance standards adopted or referenced by TGA (ICH E2E, CIOMS) require **traceable audit trails** from signal detection through assessment to regulatory decision. Without these trails:
 
 - The enhanced monitoring framework cannot be verified.  
-- Compliance with provisional‑approval conditions cannot be demonstrated.  
+- Compliance with the enhanced monitoring commitments underpinning provisional‑approval conditions cannot be demonstrated.  
 - Regulatory decision‑making remains opaque despite significant public‑health implications.
 - TGA's FOI refusals for signal investigation documentation—despite Senate testimony confirming 'ample documentation' exists—withhold population-level evidence that could assist treating doctors in forming evidence-based causation opinions for Vaccine Claims Scheme applications. See [Compensation Analysis](analysis/compensation-analysis.md) for details. 
 
 
-### Gap 2: Provisional Approval Verification
+### Gap 2: Enhanced Monitoring Verification at Provisional Approval 
 
 
 **What was required**
 
-- The *Therapeutic Goods Act 1989* requires TGA to be satisfied that provisional‑approval conditions, including enhanced post‑market monitoring, have been met before extensions and transition to full registration.  
+- Enhanced post-market monitoring, as set out in the February 2021 Safety Monitoring Plan, was the stated basis on which provisional approval proceeded. TGA guidance requires documented evidence to support verification decisions before extensions and transition to full registration.
 - TGA guidance requires documented evidence to support these verification decisions.
 
 **What was found**
 
 - OAIC‑directed TRIM searches (MR22/00538, September 2024) across **531+ containers** using eight Plan‑aligned search terms identified **zero** documents demonstrating verification that enhanced‑monitoring requirements were satisfied before Comirnaty (July 2023) or Spikevax (April 2023) transitioned to full registration.  
-- Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan**, no checklists of provisional‑approval conditions, and no Plan‑level verification records.
+- Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan** and no Plan‑level verification records.
 - Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024) (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
 
 **Why this matters**
@@ -959,6 +959,8 @@ This distinction matters: even conscientious work within existing systems can re
 
 This assessment evaluates publicly available evidence for implementation of TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) commitments. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management, and governance processes, not clinical or scientific judgements.
 
+Throughout this report, references to enhanced monitoring requirements, commitments and conditions under provisional approval mean those set out in the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan. They do not refer to conditions of registration imposed on individual sponsors under the Therapeutic Goods Act 1989, which are a separate instrument and outside this audit's scope.
+
 **Evidence base:** Analysis is based on publicly available documentation, FOI responses, OAIC material, Senate testimony, and official publications. All factual claims are supported by cited sources.
 
 ## Peer-Review Status
@@ -1019,7 +1021,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4
-**Last Updated:** 6 August 2026  
+**Last Updated:** 7 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
