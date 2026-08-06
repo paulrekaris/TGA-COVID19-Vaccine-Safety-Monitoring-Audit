@@ -1,7 +1,7 @@
 # How to Navigate This Audit
 
 ## 2 minutes
-Visit the [Audit Overview](https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/) for a visual, non-technical overview.
+Visit the [Audit Overview](https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/) for a summary of the evidence and key findings.
 
 ## 5 minutes 
 Read [At a Glance](#at-a-glance) for a complete high-level summary.
@@ -780,7 +780,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 13 July 2026   
+**Last Updated:** 6 August 2026   
 **Licence:** CC BY 4.0
 
 
