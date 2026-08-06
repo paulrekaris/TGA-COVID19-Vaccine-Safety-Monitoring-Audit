@@ -1,7 +1,7 @@
 # How to Navigate This Audit
 
 ## 2 minutes
-Visit the [Landing Page](https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/) for a visual, non-technical overview.
+Visit the [Audit Overview](https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/) for a visual, non-technical overview.
 
 ## 5 minutes 
 Read [At a Glance](#at-a-glance) for a complete high-level summary.
