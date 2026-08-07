@@ -963,6 +963,12 @@ Throughout this report, references to enhanced monitoring requirements, commitme
 
 **Evidence base:** Analysis is based on publicly available documentation, FOI responses, OAIC material, Senate testimony, and official publications. All factual claims are supported by cited sources.
 
+### Regulatory framework and analytical scope
+
+A key challenge in assessing regulatory accountability is the complexity and layered nature of the therapeutic goods regulatory framework. The TGA operates within an interconnected framework comprising the *Therapeutic Goods Act 1989* (Cth), associated regulations, legislative instruments, regulatory guidance and internationally recognised pharmacovigilance standards. These sources differ in legal status and function: some establish statutory or regulatory requirements, while others provide guidance, policy expectations or recognised good practice.
+
+This audit does not seek to undertake a comprehensive legal analysis of every obligation arising from each regulatory instrument. Rather, it focuses on whether the enhanced COVID-19 vaccine safety monitoring commitments identified in relevant policy and regulatory materials were implemented and can be verified through available documentary evidence. Accordingly, the analysis distinguishes between legal requirements, regulatory expectations, policy commitments and evidence of implementation.
+
 ## Peer-Review Status
 
 This work has not yet been formally peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and four-tier evidence hierarchy to enable independent verification and formal peer review. Two research papers arising from this audit are currently under peer review at international journals.
