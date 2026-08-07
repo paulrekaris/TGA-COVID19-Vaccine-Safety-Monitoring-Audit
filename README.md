@@ -520,6 +520,7 @@ In 2024, *Communicable Diseases Intelligence* published an annual report on adve
 This report is consistent with the findings in Phillips et al. (2021) discussed in the next section below: it demonstrates that substantial monitoring activity occurred, but does not provide the Safety Plan‑specific implementation, governance, or verification documentation that this audit assesses.
 
 **Reference:**  
+
 Glover C, et al. (2024). Surveillance of adverse events following immunisation in Australia, COVID‑19 vaccines, 2021. *Communicable Diseases Intelligence*, 48. [doi:10.33321/cdi.2024.48.2](https://doi.org/10.33321/cdi.2024.48.2)
 
 [Full AEFI surveillance report](primary-sources/vaccine-surveillance/cdi-2024-surveillance-aefi-covid-19-2021.pdf)
@@ -960,7 +961,7 @@ This distinction matters: even conscientious work within existing systems can re
 
 This assessment evaluates publicly available evidence for implementation of TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) commitments. It does not assess the clinical safety or efficacy of COVID-19 vaccines, nor the appropriateness of individual regulatory decisions. The findings relate to documentation, records management, and governance processes, not clinical or scientific judgements.
 
-Throughout this report, references to enhanced monitoring requirements, commitments and conditions under provisional approval mean those set out in the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan. They do not refer to conditions of registration imposed on individual sponsors under the Therapeutic Goods Act 1989, which are a separate instrument and outside this audit's scope.
+Throughout this report, references to enhanced monitoring requirements, commitments and conditions under provisional approval mean those set out in the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan. They do not refer to conditions of registration imposed on individual sponsors under the Therapeutic Goods Act 1989, which are a separate instrument and outside this audit's scope. This audit has not sought or reviewed the underlying sponsor documentation on which TGA’s assessment of those conditions is based, and makes no finding as to its availability or completeness.
 
 **Evidence base:** Analysis is based on publicly available documentation, FOI responses, OAIC material, Senate testimony, and official publications. All factual claims are supported by cited sources.
 
