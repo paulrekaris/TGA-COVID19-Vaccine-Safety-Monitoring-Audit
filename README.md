@@ -66,7 +66,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [Implementation Status by the Numbers](#implementation-status-by-the-numbers)
 - [Four Critical Documentation Gaps](#four-critical-documentation-gaps)
   - [Gap 1: Signal Investigation Audit Trail](#gap-1-signal-investigation-audit-trail)
-  - [: Enhanced Monitoring Verification at Provisional Approval](#gap-2-enhanced-monitoring-verification-at-provisional-approval)
+  - [Gap 2: Enhanced Monitoring Verification at Provisional Approval](#gap-2-enhanced-monitoring-verification-at-provisional-approval)
   - [Gap 3: Enhanced Monitoring Framework Integration](#gap-3-enhanced-monitoring-framework-integration)
   - [Gap 4: Governance and Performance Measurement](#gap-4-governance-and-performance-measurement)
 - [Public Communications vs Policy Commitments](#public-communications-vs-policy-commitments)
@@ -78,7 +78,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
 - [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
-- [What This Audit Examines: Routine Pharmacovigilance vs Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
+- [What This Audit Examines: Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
   - [Enhanced Monitoring as Defined by the Plan](#enhanced-monitoring-as-defined-by-the-plan)
   - [The Audit Question](#the-audit-question)
   - [Why This Matters](#why-this-matters)
@@ -129,7 +129,7 @@ This repository documents an independent audit of the TGA's COVID-19 Vaccine Saf
 
 During Australia's largest medical intervention in history, 68.4 million COVID-19 vaccine doses were administered under provisional approval. This analysis addresses a single question: whether the implementation of the COVID-19 Vaccine Safety Monitoring Plan can now be independently verified through records, as required for an enhanced monitoring framework relied upon for provisional approval.
 
-The Safety Plan was published as the regulatory framework to ensure public safety through enhanced monitoring during provisional approval. This audit examines whether that framework was implemented and documented in ways that enable independent verification of those safety commitments.
+Enhanced monitoring was presented in the relevant policy and regulatory materials as the compensating safeguard associated with provisional approval. The TGA's February 2021 Safety Plan set out that framework, and this audit examines whether it was implemented and documented in ways that enable independent verification of those commitments.
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
@@ -152,11 +152,9 @@ The Safety Plan was published as the regulatory framework to ensure public safet
 
 ## Important Distinction: Routine vs Enhanced Monitoring
 
-### What This Audit Examines
-
 This audit examines whether enhanced monitoring commitments were implemented and documented in a verifiable way. Routine pharmacovigilance activities are acknowledged in the record.
 
-**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as required for provisional approval and promised in the February 2021 Plan?
+**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as expected for provisional approval and promised in the February 2021 Plan?
 
 **The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
 
@@ -187,7 +185,7 @@ Between February 2021 and late June 2023, more than 68.4 million COVID‑19 vacc
 
 Provisional approval under the Therapeutic Goods Act 1989 permits time‑limited registration on the basis of preliminary clinical data where usual pre‑market evidentiary requirements cannot be met in time for a public‑health emergency, and TGA’s provisional‑registration guidance states that such medicines are subject to enhanced post‑market surveillance, additional pharmacovigilance conditions and prioritisation within its monitoring and compliance framework, expectations that were consolidated in the February 2021 Safety Monitoring Plan.
 
-This independent audit provides a systematic assessment of whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes that can be verified through records. After four years of Freedom of Information (FOI) requests and structured evidence review, the findings reveal major documentation gaps that prevent verification of enhanced‑monitoring implementation and of compliance with provisional‑approval requirements.
+This independent audit provides a systematic assessment of whether the Plan's 17 numbered strategies were implemented as distinct, documentable processes that can be verified through records. After four years of Freedom of Information (FOI) requests and structured evidence review, the findings reveal major documentation gaps that prevent verification of enhanced‑monitoring implementation and of delivery of the Plan's enhanced-monitoring commitments.
 
 National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in November 2020, which established enhanced monitoring commitments as a key safeguard accompanying Australia's COVID-19 vaccine rollout. The central accountability question is whether the TGA can demonstrate, through available documentation, systematic implementation of the enhanced, TGA-led safety monitoring framework. The policy is available here: [Australian COVID-19 Vaccination Policy](https://www.health.gov.au/sites/default/files/documents/2020/12/covid-19-vaccination-australian-covid-19-vaccination-policy.pdf).
 
@@ -199,10 +197,10 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > ### After four years of systematic investigation, this audit finds:
 > 
 > #### 1. No systematic implementation documentation  
-> TGA's OAIC-directed searches in September 2024 across more than  TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54. 
+> TGA's OAIC-directed searches in September 2024 across more than 531 TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54. 
 > 
 > #### 2. "Day-to-day processes" instead of enhanced monitoring  
-> Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring requirement attached to provisional approval for 68.4 million doses.  
+> Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring commitment set out in the Cabinet-endorsed policy and the February 2021 Plan for 68.4 million doses.
 > 
 > #### 3. Only 16% of Plan outputs have complete implementation documentation  
 > Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
@@ -228,7 +226,7 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 
 This work exists to ensure that future reviews of Australia's COVID-19 regulatory response are grounded in what was demonstrably recorded at the time, not solely in institutional recollection or post-hoc explanation.
 
-As of January 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
+As of August 2026, no Commonwealth oversight body has initiated a dedicated performance audit. This raises fundamental questions about the standard of accountability that should apply.
 
 
 ### FOI Compliance vs Governance Requirements
@@ -247,7 +245,7 @@ Procedural correctness and technical compliance in FOI administration and substa
 
 This finding is based on official determinations, not interpretation:
 
-**TGA's September 2024 submission to OAIC (MR22/00538)** documented comprehensive searches across + TRIM containers using eight search terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation. [The Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf) in paragraph 15 states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” A TGA search officer conducting TRIM searches recorded contemporaneously in Attachment A, page 29: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” Both statements, made in formal OAIC proceedings and real-time operational search records, corroborate the audit's central finding from within TGA's own documentary record.
+**TGA's September 2024 submission to OAIC (MR22/00538)** documented comprehensive searches across more than 531 TRIM containers using eight search terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation. [The Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf) in paragraph 15 states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” A TGA search officer conducting <img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/97a65b87-1fb1-4e38-a309-4c36d65be4dc" /> searches recorded contemporaneously in Attachment A, page 29: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” Both statements, made in formal OAIC proceedings and real-time operational search records, corroborate the audit's central finding from within TGA's own documentary record.
 
 **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** reviewed this evidence and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding "documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) ([case note](reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)) confirmed the administrative law finding.
 
@@ -275,7 +273,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **2022–2023** - TGA organises extensive vaccine‑safety documentation for Information Commissioner review.
 
-- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than  TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
+- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
 
 - **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
@@ -344,7 +342,7 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 International pharmacovigilance standards adopted or referenced by TGA (ICH E2E, CIOMS) require **traceable audit trails** from signal detection through assessment to regulatory decision. Without these trails:
 
 - The enhanced monitoring framework cannot be verified.  
-- Compliance with the enhanced monitoring commitments underpinning provisional‑approval conditions cannot be demonstrated.  
+- Compliance with the Plan's enhanced monitoring commitments during the provisional‑approval period cannot be demonstrated.  
 - Regulatory decision‑making remains opaque despite significant public‑health implications.
 - TGA's FOI refusals for signal investigation documentation—despite Senate testimony confirming 'ample documentation' exists—withhold population-level evidence that could assist treating doctors in forming evidence-based causation opinions for Vaccine Claims Scheme applications. See [Compensation Analysis](analysis/compensation-analysis.md) for details. 
 
@@ -355,11 +353,10 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 **What was required**
 
 - Enhanced post-market monitoring, as set out in the February 2021 Safety Monitoring Plan, was the stated basis on which provisional approval proceeded. TGA guidance requires documented evidence to support verification decisions before extensions and transition to full registration.
-- TGA guidance requires documented evidence to support these verification decisions.
 
 **What was found**
 
-- OAIC‑directed TRIM searches (MR22/00538, September 2024) across **531+ containers** using eight Plan‑aligned search terms identified **zero** documents demonstrating verification that enhanced‑monitoring requirements were satisfied before Comirnaty (July 2023) or Spikevax (April 2023) transitioned to full registration.  
+- OAIC‑directed TRIM searches (MR22/00538, September 2024) across **531+ containers** using eight Plan‑aligned search terms identified **zero** documents demonstrating verification that enhanced‑monitoring comitmments were satisfied before Comirnaty (July 2023) or Spikevax (April 2023) transitioned to full registration.  
 - Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan** and no Plan‑level verification records.
 - Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024) (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
 
@@ -367,7 +364,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 Without documented verification:
 
-- Compliance with provisional‑approval conditions for 68.4 million doses cannot be confirmed.  
+- Delivery of the Plan's enhanced-monitoring commitments for 68.4 million doses cannot be confirmed.
 - The integrity of the provisional‑approval framework – which relies on enhanced, documented post‑market monitoring – is called into question.
 
 
@@ -389,7 +386,7 @@ Without documented verification:
 
 **Why this matters**
 
-Provisional approval requires **enhanced monitoring** distinct from business‑as‑usual surveillance. If monitoring cannot be distinguished, documented and verified as enhanced, the regulatory safeguard justifying reduced pre‑market evidence is undermined.
+Provisional approval is designed around **enhanced monitoring** distinct from business‑as‑usual surveillance. If monitoring cannot be distinguished, documented and verified as enhanced, the regulatory safeguard justifying reduced pre‑market evidence is undermined.
 
 ### Gap 4: Governance and Performance Measurement
 
@@ -501,7 +498,7 @@ What was absent: Operational mechanisms distinguishing COVID-19 monitoring from 
 
 Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" with no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
 
-The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being a regulatory condition and expectation of provisional approval.
+The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being the stated basis on which provisional approval proceeded.
 
 
 ## Official 2021 AEFI Surveillance Report
@@ -548,6 +545,8 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that
 
 [Full paper: Phillips et al. (2021)](reference-documents/phillips-2021-vaccine-pharmacovigilance-system.pdf)
 
+## What This Audit Examines: Enhanced Safety Monitoring
+  
 ### Enhanced Monitoring as Defined by the Plan
 
 The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to "active and comprehensive" monitoring and was embedded in bilateral agreements as the authoritative framework for provisional approval oversight.
@@ -567,21 +566,22 @@ The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised Nati
 The audit question is whether the Plan’s 17 numbered strategies were implemented as distinct, documentable processes. The TGA conducted pharmacovigilance activities during the rollout, investigating 150 safety signals, documenting 57 regulatory actions, and publishing more than 150 weekly safety reports.
 
 The Plan's 17 strategies included:
-* Active surveillance through AusVaxSafety integration (Strategy 2.1)
+* Active surveillance through AusVaxSafety integration (Strategy 2.4)
 * Systematic collaboration frameworks (Strategy 2.4)
 * Integrated analysis of multiple data sources
 * Product-specific investigation protocols
 * Dedicated governance and performance tracking
 
-For provisionally approved medicines, implementing these strategies was a non-negotiable condition of approval: earlier public access was granted in exchange for demonstrably stronger post-market safeguards.
+For provisionally approved medicines, these strategies were presented as the safeguard justifying accelerated access: earlier public access was granted on the basis of demonstrably stronger post-market safeguards.
 
 Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalised through dedicated protocols and audit trails? Was AusVaxSafety's active surveillance systematically integrated with TGA signal management, as Strategies 2.1 and 2.4 required? Was implementation tracked and governed, or—consistent with later descriptions of "day-to-day processes"—were these strategies **not implemented as distinct, systematically tracked processes with dedicated governance and audit trails**?
 
 ### Why This Matters
 
-This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 91 per cent of the total rollout) were administered under provisional approval by late 2023, which required enhanced safety monitoring beyond routine surveillance, as reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
+This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 91 per cent of the total rollout) were administered under provisional approval by late 2023, which 
+relied on enhanced safety monitoring beyond routine surveillance as the compensating safeguard, reflected in TGA's enhanced post-market monitoring framework and guidance. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
 
-* Provisional approval conditions cannot be verified as met
+* The Plan's enhanced-monitoring commitments cannot be verified as delivered 
 * Public assurances of heightened oversight are unsubstantiated
 * The integrity of the provisional approval pathway is compromised
 * Fundamental accountability is impaired
@@ -642,7 +642,7 @@ After four years of systematic FOI requests and documentary review, TGA has not 
 - It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
 - Enhanced monitoring was distinct from routine “day‑to‑day processes”, as provisional approval requires.  
 - It maintained audit trails linking 150 investigated signals to 57 regulatory actions, as international standards envisage.  
-- It verified, and documented verification of, provisional‑approval conditions before 68.4 million doses transitioned to full registration.  
+- It verified, and documented verification of, the Plan's enhanced-monitoring commitments before 68.4 million doses transitioned to full registration.  
 - It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
 
 The problem is straightforward: **TGA made commitments to Australians about enhanced, documented safety monitoring for COVID-19 vaccines administered to 21.2 million people. It cannot, on the record, show that those commitments were kept.** This gap in demonstrable accountability requires formal, independent investigation and reform of pharmacovigilance and provisional approval frameworks.
@@ -1029,7 +1029,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4
-**Last Updated:** 7 August 2026  
+**Last Updated:** 8 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
