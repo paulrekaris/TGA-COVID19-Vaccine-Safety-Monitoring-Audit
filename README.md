@@ -78,7 +78,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
 - [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
-- [What This Audit Examines: Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
+- [What This Audit Examines:Enhanced Safety Monitoring](#what-this-audit-examines-routine-pharmacovigilance-vs-enhanced-safety-monitoring)
   - [Enhanced Monitoring as Defined by the Plan](#enhanced-monitoring-as-defined-by-the-plan)
   - [The Audit Question](#the-audit-question)
   - [Why This Matters](#why-this-matters)
