@@ -11,7 +11,7 @@ Browse the [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions-
 
 ## Full evidence
 
-- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 19 Safety Plan outputs, and complete references
+- [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) - Full findings, implementation status for all 19 audited outputs, and complete references
 - [ISO 19011 Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md) - Complete ISO 19011:2018 audit assessment with ANAO criteria and conformity ratings
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) - Systematic analysis of TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ reports
 - [Primary Sources](primary-sources/) | [Reference Documents](reference-documents/) – Primary evidentiary materials (FOI, OAIC, Senate testimony, TGA documents) and supporting analytical material
@@ -62,9 +62,9 @@ National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which comm
 > “The TGA has developed a COVID-19 Vaccine Pharmacovigilance Plan that builds on its already well-established Adverse Events Monitoring System (AEMS) by improving capacity and capability for adverse event reporting to the TGA by state and territory health departments, expanding active surveillance systems for COVID-19 vaccines and enhancing existing processes for safety signal detection and investigation, public communications and implementation of regulatory and programmatic responses. International collaboration and building on existing partnerships with organisations in Australia that have high-level technical expertise in vaccine safety are also core elements of the plan.”— Australian COVID-19 Vaccination Policy, 13 November 2020, p.13
 
 **Why It Mattered**  
-Enhanced post‑market monitoring was the regulatory safeguard that justified provisional, rather than standard, approval (less pre‑market evidence, faster access) and underpinned government mandates affecting employment, travel and social participation.
+Enhanced safety monitoring was the compensating safeguard for provisional approval at population scale, the trade-off for accelerated approval under greater uncertainty, as reflected in TGA's provisional-approval and post-market surveillance framework.
 
-**Regulatory Requirement**  
+**The Compensating Safeguard**  
 Enhanced safety monitoring was a regulatory condition and expectation of provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty, as reflected in TGA’s provisional approval and post‑market surveillance framework.
 
 -----
@@ -88,20 +88,21 @@ Government‑funded active surveillance delivered 6.8 million SMS surveys, aroun
 No audit trail showing how individual safety signals were evaluated or linked to specific regulatory decisions.
 
 **Provisional Approval Verification**  
-No records demonstrating that enhanced monitoring conditions were assessed and met for quarterly extensions and eventual full registration.
+No records demonstrating that the Plan's enhanced-monitoring outputs were implemented and tracked across the provisional-approval period.
 
 **AusVaxSafety–TGA Integration**  
 No systematic documentation of how 6.8M+ surveys capturing 3M+ adverse event reports were integrated into TGA pharmacovigilance workflows.
+<img width="468" height="42" alt="image" src="https://github.com/user-attachments/assets/ccd02863-956d-4fe1-94bd-2605ac586817" />
 
 **Governance and Performance Reporting**  
-Only 3 of 19 audited plan outputs (16%) fully documented; no evidence of systematic tracking against plan objectives.
+Only 3 of 19 audited outputs (16%) fully documented; no evidence of systematic tracking against plan objectives.
 
 -----
 
 ## What TGA Cannot Demonstrate
 
 **Regulatory Obligations**
-TGA cannot produce documentation showing it met provisional-approval monitoring requirements under Cabinet-endorsed policy, Australian law and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
+TGA cannot produce documentation showing it delivered the enhanced-monitoring commitments in the Plan under National Cabinet-endorsed policy and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
 
 **Official Confirmation**
 The Information Commissioner confirmed that implementation records for the Plan could not be found after searches of 531 TRIM folders and more than 2,200 pages.
@@ -117,7 +118,7 @@ The original OAIC decision (MR22/00538) has been noted in independent legal comm
 ## The Core Problem
 
 **Regulatory Justification**  
-Enhanced monitoring was both the regulatory justification for provisional approval and the public‑health justification for mandates – yet it cannot be verified through documentation.
+Enhanced monitoring formed part of the regulatory rationale for provisional approval and was among the public assurances given when mandates were imposed, yet its implementation cannot be verified through available documentation.
 
 **Why It Matters**  
 If the enhanced monitoring promised to Cabinet, Parliament and the public cannot be evidenced, the regulatory and policy framework for Australia’s largest deployment of provisionally approved medicines rested on an unverifiable assurance, despite Australia formally adopting international pharmacovigilance standards.
@@ -218,11 +219,11 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 16% of the Plan’s 19 audited outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
-68.4 million doses were administered under provisional approval, where enhanced safety monitoring beyond routine surveillance was a regulatory condition and expectation of approval, reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework. If this enhanced monitoring cannot be verified through documentation, the provisional approval verification framework has failed during Australia’s largest deployment of provisionally approved medicines. The gap exists between a formal Cabinet-endorsed commitment and demonstrable delivery.
+68.4 million doses were administered under provisional approval, where enhanced safety monitoring beyond routine surveillance the compensating safeguard for accelerated approval, reflected in TGA's enhanced post-market monitoring framework and guidance. If this enhanced monitoring cannot be verified through documentation, the provisional approval verification framework has failed during Australia’s largest deployment of provisionally approved medicines. The gap exists between a formal Cabinet-endorsed commitment and demonstrable delivery.
 
 ### Q4: Why is accountability for this monitoring framework so critical?
 
@@ -243,7 +244,7 @@ Only 16% of the Plan’s 19 audited outputs are fully documented after four year
 
 **The Regulatory Trade-Off:**
 
-Provisional approval is specifically designed for situations where products are approved faster with less complete evidence. **In exchange for faster approval, enhanced safety monitoring is mandatory.** This monitoring is the regulatory safeguard that compensates for abbreviated pre‑approval evidence. Enhanced safety monitoring was a regulatory condition and expectation of provisional approval, reflected in TGA’s provisional registration conditions and enhanced post‑market monitoring framework
+Provisional approval is specifically designed for situations where products are approved faster with less complete evidence. **In exchange for faster approval, enhanced safety monitoring is the compensating safeguard the pathway relies on.** This monitoring is the regulatory safeguard that compensates for abbreviated pre‑approval evidence. Enhanced safety monitoring was the compensating safeguard for provisional approval, reflected in TGA's enhanced post-market monitoring framework and guidance.
 
 **The Social Contract:**
 
@@ -267,13 +268,13 @@ If TGA cannot verify the enhanced monitoring framework was systematically implem
 
 No. This audit explicitly acknowledges that the TGA conducted substantial pharmacovigilance throughout the rollout, publishing over 150 weekly safety reports, investigating 148 safety signals, and taking 57 regulatory actions. The competence and output of its routine pharmacovigilance system is not in question.
 
-The audit examines whether these activities constituted the enhanced monitoring framework that was (a) a legal condition of provisional approval, and (b) explicitly promised in the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The core question is whether these activities can be shown—through documented protocols, coordination frameworks, governance structures, and audit trails—to have implemented the Plan’s enhanced monitoring commitments as distinct, systematic processes beyond routine operations, not whether monitoring occurred.
+The audit examines whether these activities constituted the enhanced monitoring framework that was (a) presented as the basis on which provisional approval proceeded, and (b) explicitly promised in the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The core question is whether these activities can be shown—through documented protocols, coordination frameworks, governance structures, and audit trails—to have implemented the Plan’s enhanced monitoring commitments as distinct, systematic processes beyond routine operations, not whether monitoring occurred.
 
 ### Q6: What is the difference between routine pharmacovigilance and enhanced safety monitoring?
 
 Routine pharmacovigilance is the baseline, ongoing surveillance for all marketed medicines. It includes passive adverse event reporting (e.g., DAEN), standard signal detection, regulatory updates, and review of sponsor reports—essentially “business as usual” regulatory functions.
 
-Enhanced safety monitoring is a higher standard, legally mandated when medicines are approved on incomplete data (e.g., under provisional approval). It must go beyond routine operations through:
+Enhanced safety monitoring is a higher standard, expected as the compensating safeguard when medicines are approved on incomplete data (e.g., under provisional approval), and provided for in TGA's provisional-approval framework. It must go beyond routine operations through:
 
 - Active surveillance (proactive data collection, e.g., AusVaxSafety)
 - Documented integration of multiple data sources with clear coordination protocols
@@ -359,27 +360,27 @@ These intergovernmental arrangements therefore anticipated systematic implementa
 These vaccines were approved via provisional approval pathway, which:
 
 - Allows faster approval with abbreviated pre-market evidence requirements
-- **Requires enhanced post-market safety monitoring as the compensating regulatory safeguard**
+- **Relies on enhanced post-market safety monitoring as the compensating regulatory safeguard**
 - Makes systematic safety surveillance the key regulatory control for provisionally approved medicines
-- Legally conditions approval on demonstrable enhanced monitoring beyond routine surveillance
-
+- Relies on enhanced monitoring beyond routine surveillance as the compensating safeguard
+  
 **The Assurances Given to Australians:**
 
 Government and health authorities repeatedly stated:
 
-- These vaccines had undergone rigorous safety assessment.
-- The TGA was conducting enhanced safety monitoring.
-- Active surveillance through AusVaxSafety would provide real-time safety data.
-- Robust pharmacovigilance systems were in place.
-- Post-market monitoring would detect any safety signals.
+- These vaccines had undergone rigorous safety assessment
+- The TGA was conducting enhanced safety monitoring
+- Active surveillance through AusVaxSafety would provide real-time safety data
+- Robust pharmacovigilance systems were in place
+- Post-market monitoring would detect any safety signals
 
 **Why Documentation and Verification Matter:**
 
 When the Australian Government tells 26.5 million citizens that:
 
-- COVID‑19 vaccines are provisionally approved by the TGA after rigorous assessment of safety, quality and effectiveness.
-- Enhanced safety monitoring, including active surveillance through AusVaxSafety, will provide near real‑time vaccine safety data.
-- Public health orders and organisational mandates will make participation in many workplaces and public settings conditional on vaccination status.
+- COVID‑19 vaccines are provisionally approved by the TGA after rigorous assessment of safety, quality and effectiveness
+- Enhanced safety monitoring, including active surveillance through AusVaxSafety, will provide near real‑time vaccine safety data
+- Public health orders and organisational mandates will make participation in many workplaces and public settings conditional on vaccination status
 
 **Then government must demonstrate:**
 
@@ -423,8 +424,8 @@ Four critical categories of documentation cannot be located:
 
 **Provisional Approval Verification:**
 
-- Documentation verifying enhanced monitoring conditions were met before provisional approval extensions
-- Records demonstrating enhanced monitoring continued through transitions to full registration
+- The Comirnaty AusPAR (Table 4) assesses the sponsor's clinical provisional-approval conditions; the AusPAR contains no comparable verification of the TGA's own enhanced-monitoring outputs under the February 2021 Plan
+- No records demonstrating the Plan's enhanced-monitoring outputs continued through transitions to full registration
 
 **Governance and Oversight:**
 
@@ -434,13 +435,13 @@ Four critical categories of documentation cannot be located:
 
 ### Q14: How extensive is the documentation gap?
 
-Assessment of the Plan’s 19 outputs shows:
+Assessment of the Plan’s 19 outputs audited outputs, the Plan's 17 numbered strategies plus two governance outputs (GOV.1 and GOV.2), shows:
 
 - **16% fully documented** (3 of 19 outputs)
 - **53% partially implemented or undocumented** (10 of 19 outputs)
 - **31% not documented at all** (6 of 19 outputs)
 
-Critical gaps exist in signal detection protocols, multi-source data integration frameworks, governance oversight, and verification documentation for provisional approval conditions.
+Critical gaps exist in signal detection protocols, multi-source data integration frameworks, governance oversight, and verification documentation for the Plan's enhanced-monitoring outputs, as distinct from the sponsor conditions assessed in the AusPAR.
 
 ### Q15: What should exist if implementation occurred as designed?
 
@@ -526,7 +527,7 @@ The absence of implementation records, audit trails, and systematic tracking ind
 
 ### Q23: What percentage of Plan outputs are documented?
 
-Of the Plan’s 19 specified outputs assessed:
+Of the 19 audited outputs assessed:
 
 **Fully documented (16%):** 3 outputs
 
@@ -552,25 +553,25 @@ Of the Plan’s 19 specified outputs assessed:
 
 ### Q24: Couldn’t TGA have done the monitoring without formal tracking?
 
-No. Provisional approval legally requires enhanced monitoring **beyond** routine surveillance with demonstrable verification. The term “enhanced” implies something additional to standard processes. Describing this as “day-to-day processes” that were never systematically tracked contradicts the enhanced monitoring requirement.
+No. Provisional approval is designed around **enhanced monitoring beyond routine surveillance** with demonstrable verification. The term “enhanced” implies something additional to standard processes. Describing this as “day-to-day processes” that were never systematically tracked contradicts the enhanced monitoring requirement.
 
-Without separate tracking, audit trails, and verification documentation, compliance with provisional approval conditions cannot be proven. The absence of systematic tracking means there’s no way to distinguish between routine surveillance (which exists for all medicines) and the enhanced monitoring that was the specific condition for provisional approval of these vaccines.
+Without separate tracking, audit trails, and verification documentation, delivery of the Plan's enhanced-monitoring commitments cannot be proven. The absence of systematic tracking means there’s no way to distinguish between routine surveillance (which exists for all medicines) and the enhanced monitoring that was the stated basis on which provisional approval of these vaccines proceeded.
 
 ### Q25: Isn’t this just a documentation problem, not a safety problem?
 
 The audit assesses whether TGA can demonstrate through documentation that promised enhanced monitoring was systematically implemented. Documentation is how regulatory compliance is verified—it’s not optional or separate from the substantive work.
 
-The absence of implementation records, combined with official confirmation that monitoring was never systematically tracked, means the verification framework for provisional approval conditions has failed. If enhanced monitoring cannot be documented, it cannot be verified. If it cannot be verified, regulatory compliance cannot be proven.
+The absence of implementation records, combined with official confirmation that monitoring was never systematically tracked, means the Plan's enhanced-monitoring commitments has failed. The sponsor's registration conditions, assessed in the AusPAR, are a separate layer, not the subject of this finding. If enhanced monitoring cannot be documented, it cannot be verified. If it cannot be verified, regulatory compliance cannot be proven.
 
 This is a fundamental governance and accountability failure, not merely poor record-keeping.
 
 ### Q26: Why does it matter if vaccines were approved elsewhere?
 
-Australian provisional approval is a distinct regulatory pathway with its own legal requirements. The specific condition was that TGA would conduct enhanced monitoring beyond routine surveillance as outlined in the Cabinet-endorsed policy and published Plan.
+Australian provisional approval is a distinct regulatory pathway with its own legal requirements. The stated basis was that TGA would conduct enhanced monitoring beyond routine surveillance as outlined in the National Cabinet-endorsed policy and published Plan.
 
 Whether other countries approved these vaccines under their own regulatory frameworks is irrelevant to whether TGA met its own regulatory obligations, followed its published plan, and delivered on Cabinet-endorsed commitments for the Australian deployment.
 
-International approvals cannot substitute for demonstrable compliance with Australia’s own provisional approval conditions.
+International approvals cannot substitute for demonstrable delivery of the Plan's enhanced-monitoring commitments.
 
 ### Q27: Maybe TGA just has poor record-keeping?
 
@@ -619,8 +620,8 @@ TGA could refute these findings by producing the implementation documentation th
 - Audit trails linking safety signals to disposition decisions with documented criteria
 - Coordination protocols and data integration frameworks for AusVaxSafety
 - Governance oversight documentation with performance measurement against Plan objectives
-- Verification records demonstrating enhanced monitoring conditions were met before provisional approval extensions and transitions to full registration
-
+- Records demonstrating the Plan's enhanced-monitoring outputs were implemented before provisional approval extensions and transitions to full registration
+  
 If these records exist, producing them would immediately resolve the documented gap. The audit methodology is fully falsifiable—the findings can be refuted if TGA provides the implementation documentation.
 
 -----
