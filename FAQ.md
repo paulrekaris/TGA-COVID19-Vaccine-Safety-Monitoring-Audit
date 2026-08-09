@@ -62,10 +62,8 @@ National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which comm
 > “The TGA has developed a COVID-19 Vaccine Pharmacovigilance Plan that builds on its already well-established Adverse Events Monitoring System (AEMS) by improving capacity and capability for adverse event reporting to the TGA by state and territory health departments, expanding active surveillance systems for COVID-19 vaccines and enhancing existing processes for safety signal detection and investigation, public communications and implementation of regulatory and programmatic responses. International collaboration and building on existing partnerships with organisations in Australia that have high-level technical expertise in vaccine safety are also core elements of the plan.”— Australian COVID-19 Vaccination Policy, 13 November 2020, p.13
 
 **Why It Mattered**  
-Enhanced safety monitoring was the compensating safeguard for provisional approval at population scale, the trade-off for accelerated approval under greater uncertainty, as reflected in TGA's provisional-approval and post-market surveillance framework.
 
-**The Compensating Safeguard**  
-Enhanced safety monitoring was a regulatory condition and expectation of provisional approval at population scale – the explicit trade‑off for accelerated approval under greater uncertainty, as reflected in TGA’s provisional approval and post‑market surveillance framework.
+Enhanced safety monitoring was the compensating safeguard for provisional approval at population scale — the trade-off for accelerated approval under greater uncertainty, as reflected in TGA's provisional-approval and post-market surveillance framework.
 
 -----
 
