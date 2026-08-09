@@ -50,7 +50,7 @@ Best efforts are made to document substantive changes. The Version History log i
 - **Transparency**: All version changes publicly visible—every FOI response, OAIC submission update, and methodology refinement documented and traceable.
 - **Integrity**: Records protected against unauthorised alteration through Git version control and blockchain timestamping, ensuring the audit trail cannot be retrospectively modified.
 - **Accountability**: Clear responsibility for version changes with documented rationale—corrections, evidence additions, and analytical refinements explicitly identified.
-- **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, Mendeley Data, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
+- **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, Mendeley Data, Harvard Dataverse, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
 **Open Access Principles**
 - **Free accessibility**: All versions publicly available without paywalls or restrictions, enabling OAIC, Ombudsman, ANAO, Parliament, and peer reviewers to access the complete evidence base [Suber, 2012](https://cyber.harvard.edu/hoap/Open_Access_(the_book)).³,⁴
@@ -79,7 +79,7 @@ This audit employs comprehensive version control combining records management st
 - **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) for independent replication.
-- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.¹⁷
+- **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, Harvard Dataverse DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.¹⁷
 - **Version-agnostic filenames**: Documents use stable filenames with version control through Git tags—enabling persistent citation in OAIC submissions, Ombudsman complaints, and Senate references.
   
 **See:** [Complete Version History](version-history.md)
@@ -248,6 +248,6 @@ Version history combined with OSINT documentation enables accountability infrast
 
 22. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
-**Last updated**: 22 June 2026
+**Last updated**: 9 August 2026
 
 [↑ Back to top](#table-of-contents)
