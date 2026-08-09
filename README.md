@@ -967,9 +967,13 @@ Throughout this report, references to enhanced monitoring requirements, commitme
 
 ## Regulatory framework and analytical scope
 
-A key challenge in assessing regulatory accountability is the complexity and layered nature of the therapeutic goods regulatory framework. The TGA operates within an interconnected framework comprising the *Therapeutic Goods Act 1989* (Cth), associated regulations made under it, legislative instruments, regulatory guidance and internationally recognised pharmacovigilance standards. These sources differ in legal status and function: the Act and regulations establish statutory or regulatory requirements, while guidance, policy materials and international standards provide expectations or recognised good practice, without themselves creating statutory obligations.
+A key challenge in assessing regulatory accountability is the layered nature of the framework within which the TGA operated. The relevant framework comprises the Therapeutic Goods Act 1989 (Cth), associated regulations made under it, legislative instruments, regulatory guidance, government policy commitments and internationally recognised pharmacovigilance standards. These sources differ in legal status and function: the Act and regulations establish statutory or regulatory requirements, while legislative instruments, guidance, policy materials and international standards may establish regulatory requirements, expectations, government commitments or recognised good practice without necessarily creating statutory obligations.
+
+The February 2021 Safety Monitoring Plan should be understood in its national policy context: it operationalised the Australian Government's and National Cabinet's commitment to enhanced COVID-19 vaccine safety monitoring during the period of provisional registration. This national policy status does not, by itself, convert the Plan into a statutory obligation. A failure to demonstrate implementation of a policy commitment is not automatically a statutory breach. However, where that commitment formed part of the governance and assurance framework surrounding provisional regulatory approval, the inability to verify its implementation raises a distinct regulatory accountability question.
 
 This audit does not seek to undertake a comprehensive legal analysis of every obligation arising from each regulatory instrument. Rather, it focuses on whether the enhanced COVID-19 vaccine safety monitoring commitments identified in relevant policy and regulatory materials were implemented and can be verified through available documentary evidence. Accordingly, the analysis distinguishes between legal requirements, regulatory expectations, policy commitments and evidence of implementation. Where this report refers to a monitoring commitment as a legal requirement, that characterisation is supported by a specific statutory or regulatory provision. Where a commitment is described in policy or governance terms, that reflects its actual source and should not be read as asserting a statutory obligation.
+
+The available record does not provide the level of documentary assurance needed to independently verify that a major national commitment was systematically implemented. This does not establish that the underlying monitoring activities did not occur. Rather, it limits the ability of an independent party to determine how the Plan's commitments were implemented, how delivery was monitored and assured, and whether the enhanced-monitoring commitment was fulfilled as intended. This distinction is central to the audit's assessment of documentation, governance and regulatory accountability.
 
 ## Peer-Review Status
 
@@ -1029,7 +1033,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4   
-**Last Updated:** 8 August 2026  
+**Last Updated:** 9 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
