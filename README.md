@@ -245,7 +245,7 @@ Procedural correctness and technical compliance in FOI administration and substa
 
 This finding is based on official determinations, not interpretation:
 
-**TGA's September 2024 submission to OAIC (MR22/00538)** documented comprehensive searches across more than 531 TRIM containers using eight search terms, finding zero Plan implementation records despite reviewing extensive routine pharmacovigilance documentation. [The Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf) in paragraph 15 states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” A TGA search officer conducting <img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/97a65b87-1fb1-4e38-a309-4c36d65be4dc" /> searches recorded contemporaneously in Attachment A, page 29: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” Both statements, made in formal OAIC proceedings and real-time operational search records, corroborate the audit's central finding from within TGA's own documentary record.
+**TGA's September 2024 submission to OAIC (MR22/00538)** documented searches across more than 531 TRIM containers using eight search terms, locating no records TGA classified as Plan implementation documentation despite reviewing extensive routine pharmacovigilance material. In paragraph 15 of [the Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf), the Department states that "there is unlikely to be a set of discrete documents evidencing the TGA's preparedness (because no audit of preparedness was undertaken)," while acknowledging in the same passage that documents evidencing changes to procedures or the actual collection and investigation of adverse-event reports could relate to preparedness, in which case "there would likely be a large volume of relevant documents." A TGA search officer's contemporaneous record, in Attachment A, page 29, states: "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." These statements, from formal OAIC proceedings and operational search records, bear on the audit's central finding from within TGA's own documentary record.
 
 **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** reviewed this evidence and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding "documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) ([case note](reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)) confirmed the administrative law finding.
 
@@ -1033,7 +1033,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4   
-**Last Updated:** 9 August 2026  
+**Last Updated:** 10 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
