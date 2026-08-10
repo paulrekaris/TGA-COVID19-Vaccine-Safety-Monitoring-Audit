@@ -29,7 +29,7 @@
 - [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) – Primary, self-contained report with fully cited references, primary source 
   materials, findings, research methodology, and implementation status by Safety Plan objective.
 
-- [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines, ANAO audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
+- [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines,  audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
 
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
@@ -83,7 +83,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Audit Question](#the-audit-question)
   - [Why This Matters](#why-this-matters)
 - [The Challenge of Black Box Governance for Private Citizens](#the-challenge-of-black-box-governance-for-private-citizens)
-- [ANAO Audit History and the Pharmacovigilance Gap](#anao-audit-history-and-the-pharmacovigilance-gap)
+- [ Audit History and the Pharmacovigilance Gap](#-audit-history-and-the-pharmacovigilance-gap)
 - [Oversight and Accountability](#oversight-and-accountability)
   - [Investigation Timeline](TIMELINE.md)
 - [The Call for Investigation](#the-call-for-investigation)
@@ -133,7 +133,7 @@ Enhanced monitoring was presented in the relevant policy and regulatory material
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
-**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and ANAO guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
+**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and  guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Guiding Standards
 
@@ -600,7 +600,7 @@ This audit employs transparent methodology: open access, version control, respon
 
 The Australian National Audit Office (ANAO) has examined TGA several times since the mid‑1990s, with reports focused on prescription‑medicine evaluation, the regulation of non‑prescription and complementary medicines, manufacturer compliance and cost‑recovery arrangements. These audits have primarily assessed pre‑market evaluation, regulatory processes, enforcement and financial frameworks, rather than whether specific pharmacovigilance plans were implemented as designed or whether enhanced post‑market commitments were demonstrably delivered.
 
-In 2021–22, ANAO conducted a performance audit of the national COVID‑19 vaccine rollout (*COVID‑19 Vaccines: Vaccine Development and Procurement, and Vaccine Rollout*, Report No. 3 2021‑22). That audit examined rollout efficiency and coordination, vaccine procurement and distribution logistics, TGA’s role in expediting regulatory approval, and high‑level communication and implementation challenges.
+In 2022–23, the ANAO conducted a performance audit of Australia’s COVID-19 vaccine rollout (Australia’s COVID-19 Vaccine Rollout, Auditor-General Report No. 3 2022–23). The audit examined the governance, planning and implementation of the national rollout, including vaccine acquisition and distribution, eligibility and delivery arrangements, and the TGA’s role in vaccine approval and safety monitoring. Its examination of TGA activities was not an audit of the implementation of the February 2021 COVID-19 Vaccine Safety Monitoring Plan.
 
 Crucially, that audit did **not** examine:
 
