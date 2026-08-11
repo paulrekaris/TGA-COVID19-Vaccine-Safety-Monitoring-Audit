@@ -275,7 +275,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
 
-- **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
+- **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of [2025] AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
 - **June 2025** - TGA identifies **399 Plan‑aligned documents** across 12 document categories but refuses to process them for citizen access, claiming that classification by Plan objectives requires “subjective interpretation”, despite having successfully classified 2,218+ pages nine months earlier (FOI 25‑0166).
 
@@ -626,7 +626,7 @@ This assessment has been provided to multiple oversight bodies:
 - **Australian Senate** – Senator Malcolm Roberts cited the audit by name in the adjournment debate on 24 March 2026, referencing key findings from the SSRN publication including absence of implementation records and ISO 19011 conformity assessment results. [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 - **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with provisional‑approval conditions. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
 - **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
-- **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the 2025 AICmr 54 decision. IC review for MR25/01153 still pending.
+- **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the [2025] AICmr 54 decision. IC review for MR25/01153 still pending.
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. No action commenced as of 5 August 2026.
 
 Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
@@ -727,10 +727,10 @@ Database of Adverse Event Notifications (DAEN) and published regulatory decision
 
 **Information Commissioner material**
    * OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).
-   * 2025 AICmr 54 decision ('AUQ' and Department of Health and Aged Care')  
+   * [2025] AICmr 54 decision ('AUQ' and Department of Health and Aged Care')  
 https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
 
-**Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care (AICmr 54)**  
+**Sparke Helmore case note – 'AUQ' and Department of Health and Aged Care [2025] AICmr 54**  
 https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/
 
 **Senate Community Affairs Legislation Committee testimony (9 October 2025)**
