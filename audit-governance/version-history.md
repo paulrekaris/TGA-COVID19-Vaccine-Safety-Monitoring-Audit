@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 5 August 2026
+**Last updated:** 12 August 2026
 
 
 ---
@@ -86,14 +86,24 @@
 - Removed the duplicated evidence-hierarchy block from the audit-steps panel, retaining a single listing relabelled "Evidence Weight by Source Origin." Corrected Senate testimony characterisation to parliamentary privilege (not under oath).
 - Subsequently replaced the origin-weighting panel with the source-reliability hierarchy used in the audit report S9.4, codebook, README, and summary deck, so "Tier" denotes source-reliability consistently across all artefacts. Re-ordered to primary statutory (FOI, OAIC, TGA communications) at Tier 1 and parliamentary records (Senate testimony, QON 559) at Tier 2. Updated heading to "Evidence Hierarchy" and added a caption preserving the origin point. Retained the independent-validation grouping (OAIC reviews, external legal analysis, peer-reviewed publication).
 
-### Audit summary presentation (ppt deck)
-- Statutory citations reviewed and verified against the FOI Act 1982: the OAIC-directed searches (s55V(2)) and practical-refusal grounds (s24AA) confirmed correct; the s24A row recast to the documents-cannot-be-found scenario it governs. Document figure standardised to 2,218 pages across 531 TRIM containers, consistent with the OAIC submission and all other documents. International pharmacovigilance standards (ICH E2E, CIOMS, EMA GVP, PIC/S) presented consistently as recognised good-practice benchmarks rather than binding obligations. Documentation-status percentages, objective labels, evidence-hierarchy labelling, and Strategy/Objective terminology aligned with the main report.
-- Corrected the evidence-weight heading to "Evidence Weight by Source Origin" and clarified Tier 4 to "published regulatory actions" (public-record sense); removed duplicate listing of Senate testimony under Tier 4.
-- Improved alignment of the TGA Act and provisional-approval guidance to the Provisional Approval Lifecycle Framework analysis.
-- Align FOI s 24AA refusal wording with the June 2025 decision letter framing (s 24(1)(b); s 24AA tests) to pose the statutory-test interaction as an open question pending OAIC review; refine legal-framework and records-management terminology.
-- Aligned the summary deck with audit categories and removed personal names: replaced the origin-weighting evidence panel with the source-reliability hierarchy (Tier 1-4) used in audit report S9.4, codebook, and README; added a caption preserving the origin point; added QON 559 to Tier 2; standardised status language to the documentation categories ("fully documented", not "implemented") across the outputs breakdown; corrected the Governance row percentages in the status table (Partial 0%, Not Documented 100%); removed personal names from testimony references, attributing to roles or the agency, and softened "confirms" to "consistent with" where a conclusion was attached; fixed the Plan-name reference, a slide-title typo, and reform numbering.
-- Added a status-by-objective chart showing documentation status across objectives, reproducing the matrix summary figures.
-- Parliamentary-privilege characterisation and classification labels in the one-page flowchart and audit summary presentation brought into line with the main report.
+### Audit summary presentation (tga-safety-plan-audit.pdf)
+
+- Statutory citations reviewed and verified against the *Freedom of Information Act 1982*: OAIC-directed searches (s 55V(2)) and practical-refusal grounds (s 24AA) confirmed; the s 24A row recast to the documents-cannot-be-found scenario it governs. FOI refusal wording aligned with the June 2025 decision letter framing (s 24(1)(b); s 24AA tests), with the statutory-test interaction presented as an open question pending OAIC review.
+- Document figure standardised to 2,218 pages across 531 TRIM containers, consistent with the OAIC submission and other audit documents.
+- International pharmacovigilance standards (ICH E2E, CIOMS, EMA GVP, PIC/S) presented consistently as recognised good-practice benchmarks rather than binding obligations.
+- Evidence-weight heading corrected to "Evidence Weight by Source Origin"; Tier 4 clarified as "published regulatory actions" in the public-record sense, with duplicate Senate testimony removed. The source-reliability hierarchy (Tier 1–4) was aligned with audit report S9.4, the codebook and README, while retaining the origin point through a caption; QON 559 was added to Tier 2.
+- Documentation-status percentages, objective labels, evidence-hierarchy labelling, and Strategy/Objective terminology were aligned with the main report, including use of "fully documented" rather than "implemented" across the outputs breakdown. Governance row percentages were corrected (Partial 0%; Not Documented 100%).
+- Revised the Commonwealth Framework slide (14) to a conformity-assessment format aligned with the audit's ISO 19011 methodology: conformity verdicts (Non-conforming / Conforming / Indeterminate / Under review) replace severity ratings, with findings stated in documentary terms.
+- Updated FOI s 24AA findings (slides 7 and 14) to reflect the statutory-test distinction: refusal cited s 24AA(1)(b) while relying on approximately 177 hours of s 24AA(1)(a) resource grounds against approximately 3 hours for identification.
+- Aligned the provisional lifecycle slide (7) with the verified transition mechanism (s 23 application; s 25 evaluation), and updated the TGA Act references to verified provisions (ss 22C/22D, 23AA, 25, 28(2A)(aa), 29(4)/29(8A)).
+- Set the PGPA ss 37/38 rows to reference governance outputs GOV.1 and GOV.2.
+- Added a status-by-objective chart reproducing the matrix summary figures and consolidated the international comparison slide (8) to a single current documentation column.
+- Refined scope language across the findings and reforms slides to keep claims within the audit's documentary basis, including the slide 17 introduction and closing lines and slide 18 reform wording.
+- Removed personal names from testimony references, attributing statements to roles or the agency, and softened "confirms" to "consistent with" where appropriate.
+- Corrected the ICH E2E adoption date (2013 to June 2005) and confirmed EMA GVP Module I (August 2025).
+- Corrected the Plan-name reference, slide-title and reform-numbering errors, and minor typographical errors.
+- Parliamentary-privilege characterisation and classification labels in the one-page flowchart and audit summary presentation were aligned with the main report.
+- Verified against source: signal count (150), regulatory actions (57), output counts (17 strategies / 19 total), and dose figure (68.4 million / 91.2%) confirmed consistent across the presentation.
 
 ### Compensation analysis — citation updates, international comparison, and QON 559 integration
 - Corrected mismatched and missing citations throughout the international transparency comparison and signal-example sections, and added a reference for FOI 4029-03, previously cited but missing from the list.
@@ -149,17 +159,6 @@ Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability c
 
 ### Publications
 - Included an update on the peer-review status of two related journal articles on the main README and PUBLICATIONS page.
-
-### TGA Safety Plan Audit deck
-- Revised the Commonwealth Framework slide (14) to a conformity-assessment format, aligned with the audit's ISO 19011 methodology: conformity verdicts (Non-conforming / Conforming / Indeterminate / Under review) replace severity ratings; Therapeutic Goods Act references updated to the verified provisions (ss 22D, 23AA, 28(2A)(aa) for the provisional framework; ss 23, 25 for transition); findings stated in documentary terms.
-- Updated the FOI s 24AA findings (slides 7 and 14) to reflect the statutory-test distinction: refusal cited s 24AA(1)(b) while relying on ~177 hrs of s 24AA(1)(a) resource grounds against ~3 hrs identification.
-- Aligned the provisional lifecycle slide (7) with the verified transition mechanism (s 23 application, s 25 evaluation).
-- Set the PGPA s 37 / s 38 rows to reference governance outputs GOV.1 and GOV.2.
-- Consolidated the international comparison slide (8) to a single current documentation column.
-- Refined scope language across the findings and reforms slides to keep claims within the audit's documentary basis, including the slide 17 intro and closing lines and the slide 18 reform wording.
-- Corrected the ICH E2E adoption date (2013 to June 2005); EMA GVP Module I (August 2025) confirmed.
-- Corrected the slide 18 title text and minor typographical errors.
-- **Verified against source:** Therapeutic Goods Act 1989 ss 22C/22D, 23AA, 25, 28(2A)(aa), 29(4)/29(8A); signal count (150), regulatory actions (57), output counts (17 strategies / 19 total), and dose figure (68.4m / 91.2%) confirmed consistent across slides.
 
 ### OAIC and Ombudsman Case Management updates
 - Updated dates and case notes to include advise received from OAIC and Ombudsman on progress of respective cases
