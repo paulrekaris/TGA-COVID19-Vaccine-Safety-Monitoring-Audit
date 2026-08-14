@@ -460,7 +460,7 @@ The response pattern was clear: claims of dramatic enhancement, evidence of rout
 
 ### Resolution: 2025 Senate Testimony
 
-**Senate testimony (9 October 2025)** revealed that monitoring consisted of "day-to-day processes" with no systematic tracking against the Safety Plan's 17 strategies. This admission confirms what TGA publicly stated in 2021—that COVID-19 vaccine monitoring was "no different" from routine surveillance—directly contradicting the commitment to enhanced monitoring mandated by National Cabinet and operationalised in the published Plan.
+**Senate testimony (9 October 2025)** revealed monitoring was characterised as “day-to-day processes”, with no single evaluation report systematically benchmarking implementation against the Safety Monitoring Plan's 17 strategies. This raises a material question as to how the enhanced features of the Plan were distinguished from routine pharmacovigilance and independently verified. The characterisation is significant because the Plan established an enhanced monitoring framework for COVID-19 vaccines during the provisional approval pathway.
 
 Four years of inquiries produced identical results: assertions of enhancement without documentation of what made the monitoring operationally distinct.
 
@@ -640,7 +640,7 @@ Australia administered 68.4 million COVID‑19 vaccine doses under provisional a
 After four years of systematic FOI requests and documentary review, TGA has not demonstrated that:
 
 - It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
-- Enhanced monitoring was distinct from routine “day‑to‑day processes”, as provisional approval requires.  
+- Enhanced monitoring was distinct from routine “day‑to‑day processes”, as committed under the provisional approval arrangements for Covid-19 vaccines.  
 - It maintained audit trails linking 150 investigated signals to 57 regulatory actions, as international standards envisage.  
 - It verified, and documented verification of, the Plan's enhanced-monitoring commitments before 68.4 million doses transitioned to full registration.  
 - It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
@@ -1033,7 +1033,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4   
-**Last Updated:** 11 August 2026  
+**Last Updated:** 15 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
