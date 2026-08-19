@@ -8,7 +8,7 @@ This audit is protected by multiple verification and archival methods including 
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz-C0392B?labelColor=C0392B)](https://osf.io/preprints/socarxiv/sb4gz) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) 
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave verify](https://img.shields.io/badge/Arweave-Verify%20on--chain-FF4E42)](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave retrieve](https://img.shields.io/badge/Arweave-Retrieve%20files-000000)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave verify](https://img.shields.io/badge/Arweave-Verify%20on--chain-FF4E42)](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave retrieve](https://img.shields.io/badge/Arweave-Retrieve%20files-000000)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4)
 
 ## Research Infrastructure Architecture
 
@@ -269,39 +269,23 @@ To view historical snapshots:
 
 ## Internet Archive – Direct Upload
 
-### Current Version (v1.9.3) — Full Repository   
-**Upload Date:** 15 June 2026   
-**Added Date:** 2026-06-15 10:31:58 UTC   
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3   
-**ARK:** ark:/13960/s286k8jsv6x  
-**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.3.zip   
+### Current Version (v1.9.4) — Full Repository   
+**Upload Date:** 2026-08-19 02:31 UTC     
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4
+**File:** TGA-COVID19-Vaccine-Safety-Monitoring-Audit-v1.9.4.zip   
 **Licence:** CC BY 4.0  
 **Status:** UPLOADED - Publicly Accessible  
 
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.3  
+**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4  
 
-### Current Version (v1.9.3) — Audit Report PDF  
-**Upload Date:** 15 June 2026   
-**Added Date:** 2026-06-15 10:10:43 UTC  
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report  
-**ARK:** ark:/13960/s2p1rjx1r14  
+### Current Version (v1.9.4) — Audit Report PDF  
+**Upload Date:** 2026-08-19 02:41 UTC
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report_20260819  
 **File:** tga-covid19-vaccine-safety-monitoring-audit-report.pdf  
 **Licence:** CC BY 4.0  
 **Status:** UPLOADED - Publicly Accessible  
 
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
-
-### Previous Version (v1.9.1/v1.9.2)   
-**Upload Date:** 25 March 2026  
-**Added Date:** 2026-02-08 06:02:55 UTC  
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1   
-**ARK:** ark:/13960/s217k4jpdgp   
-**File:** documentation-gap-analysis-audit-report.pdf   
-**Licence:** CC BY 4.0  
-**Status:** UPLOADED - Publicly Accessible   
-**Note:** Identifier reflects v1.9.1 (original upload February 2026). Internet Archive identifiers cannot be changed after creation. Content updated to v1.9.2 on 25 March 2026.  
-
-**Direct Link:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.1  
+**Direct Link:** https://archive.org/details/documentation-gap-analysis-audit-report_20260819
 
 ---
 
