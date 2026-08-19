@@ -1067,8 +1067,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **Arweave:** [Permanent Storage](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
-- **Internet Archive:** [Full Repository (v1.9.4)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4) | [Audit Report PDF](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)  
- Complete archive and dated snapshots proving public web presence
+- **Internet Archive:** [Full Repository (v1.9.4)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4) | [Audit Report PDF](https://archive.org/details/documentation-gap-analysis-audit-report_20260819) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*) Complete archive and dated snapshots proving public web presence
 
 The archival stack was designed to ensure dissemination, reproducibility, and national permanence.  The rationale is documented in the [Permanent Archive README](blockchain-and-archival-verification/README.md#rationale-for-platform-selection).  
 
