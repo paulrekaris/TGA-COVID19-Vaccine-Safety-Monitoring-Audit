@@ -67,15 +67,23 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 
 ## National Library of Australia – National edeposit (NED)
 
-**Deposit ID:** NED477153   
-**NLA Reference ID:** NED477153P1133159    
-**Deposit Date:** 14 July 2026, 10:16 AM AEST    
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan   
-**Version:** v1.9.3             
-**Date:** 16 June 2026          
-**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf         
-**Size:** 1.1 MB    
-**Status:** Available via Trove     
+**Deposit ID:** NED484448  
+**Deposit Date:** 19 August 2026, 1:49 PM AEST  
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan – August 2026, v1.9.4  
+**Version:** v1.9.4  
+**Year of publication:** 2026  
+**File:** documentation-gap-analysis-audit-report-v1_9_4.pdf  
+**Publisher:** Paul Rekaris  
+**Access conditions:** Openly on the internet  
+
+**Previous deposit**  
+**Deposit ID:** NED477153  
+**NLA Reference ID:** NED477153P1133159  
+**Deposit Date:** 14 July 2026, 10:16 AM AEST  
+**Version:** v1.9.3 (16 June 2026)  
+**File:** documentation-tga-covid19-vaccine-safety-monitoring-audit-rekaris-2026.pdf  
+**Size:** 1.1 MB  
+**Status:** Available via Trove
 
 ### Significance
 
