@@ -280,8 +280,8 @@ To view historical snapshots:
 
 ### Current Version (v1.9.4) — Audit Report PDF  
 **Upload Date:** 2026-08-19 02:41 UTC
-**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report_20260819  
-**File:** tga-covid19-vaccine-safety-monitoring-audit-report.pdf  
+**Identifier:** tga-covid-19-vaccine-safety-monitoring-audit-report_20260819
+**File:** tga-covid19-vaccine-safety-monitoring-audit-report.pdf
 **Licence:** CC BY 4.0  
 **Status:** UPLOADED - Publicly Accessible  
 
