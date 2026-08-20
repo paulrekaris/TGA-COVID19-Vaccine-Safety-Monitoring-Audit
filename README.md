@@ -43,7 +43,7 @@ This README contains the narrative executive summary and overview. Key findings 
 
 [![National Library of Australia](https://img.shields.io/badge/National%20Library%20of%20Australia-Collection%20Development%20Policy-000000?labelColor=000000&style=flat-square)](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy)
 
-This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (AWA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value, consistent with the [NLA Collection Development Policy](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy). Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-party platforms.
+This repository has been accepted for preservation by the National Library of Australia and is archived in the Australian Web Archive (AWA), the official national web archive of Australia. Inclusion reflects the Library's assessment that the material has ongoing research and documentary value, consistent with the [NLA Collection Development Policy](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy). Archival capture ensures long-term public access to the evidence, methodology, and findings independent of third-ty platforms.
 
 [View preserved AWA snapshot](https://webarchive.nla.gov.au/tep/221557)
 
@@ -74,7 +74,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Policy Commitment: "Enhanced Monitoring"](#the-policy-commitment-enhanced-monitoring)
   - [The Contradiction](#the-contradiction)
   - [Testing the Contradiction: 2022 Direct Inquiries](#testing-the-contradiction-2022-direct-inquiries)
-  - [Parliamentary Scrutiny: 2025 Senate Record](#parliamentary-scrutiny-2025-senate-record)
+  - [liamentary Scrutiny: 2025 Senate Record](#liamentary-scrutiny-2025-senate-record)
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
 - [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
@@ -131,7 +131,7 @@ During Australia's largest medical intervention in history, 68.4 million COVID-1
 
 Enhanced monitoring was presented in the relevant policy and regulatory materials as the compensating safeguard associated with provisional approval. The TGA's February 2021 Safety Plan set out that framework, and this audit examines whether it was implemented and documented in ways that enable independent verification of those commitments.
 
-**Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
+**Intended for:** Legal evidence, liamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and  guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
 
@@ -139,7 +139,7 @@ Enhanced monitoring was presented in the relevant policy and regulatory material
 
 **ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments.
 
-**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
+**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
 **ANAO Performance Audit Standards** — Performance assessment against published plans and criteria, consistent with ANAO performance audit methodology and ISSAI standards. 
 
@@ -163,21 +163,21 @@ This audit examines whether enhanced monitoring commitments were implemented and
 
 ## Australian Senate Citation
 
-[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003)
+[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/liamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003)
 
-On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication ([doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
+On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication ([doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now t of the permanent official liamentary record of Australia. 
 
 [Watch the Australian Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900) | [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 
 ## Publications
 
-This audit is part of a broader research programme on independent regulatory accountability. The audit report itself is published as a preprint on SSRN, with companion materials archived across multiple preservation platforms. Two papers from this research program are currently under academic peer review at international journals.
+This audit is t of a broader research programme on independent regulatory accountability. The audit report itself is published as a preprint on SSRN, with companion materials archived across multiple preservation platforms. Two papers from this research program are currently under academic peer review at international journals.
 
 For the complete list of publications, preprints, and research outputs related to this work, see [PUBLICATIONS.md](PUBLICATIONS.md).
 
 ## Executive Summary
 
-On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 19 outputs across 17 numbered strategies spanning AEFI collection, signal detection, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
+On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 19 outputs across 17 numbered strategies spanning AEFI collection, signal detection, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as t of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
 
 The Commonwealth signed formal bilateral agreements with Australian states and territories (including Victoria, signed 19 February 2021) that established governance frameworks requiring systematic reporting of vaccine safety and surveillance data through agreed channels and specified protocols, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
 
@@ -203,7 +203,7 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring commitment set out in the Cabinet-endorsed policy and the February 2021 Plan for 68.4 million doses.
 > 
 > #### 3. Only 16% of Plan outputs have complete implementation documentation  
-> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
+> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are tially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale).
@@ -466,7 +466,7 @@ On 27 August 2025, Senator Alex Antic gave notice of a Senate motion seeking pro
 
 The motion was considered by the Senate on 28 August 2025. The Government did not support the motion.
 
-The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny. [Full motion, Government response and official Hansard records](senate/2025-08-28-order-production-documents-vaccine-safety-monitoring.md)
+The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny. [Full motion, Government response and official Hansard records](2025-08-28-order-production-documents-vaccine-safety-monitoring.md)
 
 **Senate testimony (9 October 2025)**
 
