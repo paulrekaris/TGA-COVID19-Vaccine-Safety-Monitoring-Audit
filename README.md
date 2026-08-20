@@ -466,7 +466,7 @@ On 27 August 2025, Senator Alex Antic gave notice of a Senate motion seeking pro
 
 The motion was considered by the Senate on 28 August 2025. The Government did not support the motion.
 
-The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny. [Full motion, Government response and official Hansard records](primary-sources/senate/2025-08-28-order-production-documents-vaccine-safety-monitoring.md).
+The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny. [Full motion, Government response and official Hansard records](senate/2025-08-28-order-production-documents-vaccine-safety-monitoring.md)
 
 **Senate testimony (9 October 2025)**
 
@@ -1041,7 +1041,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4   
-**Last Updated:** 15 August 2026  
+**Last Updated:** 21 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
