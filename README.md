@@ -464,7 +464,7 @@ The response pattern was clear: claims of dramatic enhancement, evidence of rout
 
 Senator Alex Antic gave notice of a Senate motion seeking production of documentation evidencing the TGA's adherence to and implementation of the *COVID-19 Vaccine Safety Monitoring Plan*. The motion specifically sought evidence against the Plan's stated objectives and five key strategies, including adverse-event reporting, safety-signal detection and investigation, regulatory action, communications and collaboration.
 
-The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny.
+The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny. [Full motion and Hansard record](primary-sources/senate/2025-08-28-order-production-documents-vaccine-safety-monitoring.md)
 
 **Senate testimony (9 October 2025)**
 
