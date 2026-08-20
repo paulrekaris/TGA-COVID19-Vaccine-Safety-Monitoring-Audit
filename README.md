@@ -74,7 +74,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Policy Commitment: "Enhanced Monitoring"](#the-policy-commitment-enhanced-monitoring)
   - [The Contradiction](#the-contradiction)
   - [Testing the Contradiction: 2022 Direct Inquiries](#testing-the-contradiction-2022-direct-inquiries)
-  - [Resolution: 2025 Senate Testimony](#resolution-2025-senate-testimony)
+  - [Parliamentary Scrutiny: 2025 Senate Record](#parliamentary-scrutiny-2025-senate-record)
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
 - [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
@@ -83,7 +83,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Audit Question](#the-audit-question)
   - [Why This Matters](#why-this-matters)
 - [The Challenge of Black Box Governance for Private Citizens](#the-challenge-of-black-box-governance-for-private-citizens)
-- [ Audit History and the Pharmacovigilance Gap](#-audit-history-and-the-pharmacovigilance-gap)
+- [Audit History and the Pharmacovigilance Gap](#-audit-history-and-the-pharmacovigilance-gap)
 - [Oversight and Accountability](#oversight-and-accountability)
   - [Investigation Timeline](TIMELINE.md)
 - [The Call for Investigation](#the-call-for-investigation)
@@ -458,15 +458,21 @@ On **18 and 22 February 2022**, I submitted identical inquiries requesting Safet
 
 The response pattern was clear: claims of dramatic enhancement, evidence of routine processes.<sup>[3](#fn3)</sup>
 
-### Resolution: 2025 Senate Testimony
+### Parliamentary Scrutiny: 2025 Senate Record
 
-**Senate testimony (9 October 2025)** revealed monitoring was characterised as “day-to-day processes”, with no single evaluation report systematically benchmarking implementation against the Safety Monitoring Plan's 17 strategies. This raises a material question as to how the enhanced features of the Plan were distinguished from routine pharmacovigilance and independently verified. The characterisation is significant because the Plan established an enhanced monitoring framework for COVID-19 vaccines during the provisional approval pathway.
+**Senate motion (27 August 2025)**
+
+Senator Alex Antic gave notice of a Senate motion seeking production of documentation evidencing the TGA's adherence to and implementation of the *COVID-19 Vaccine Safety Monitoring Plan*. The motion specifically sought evidence against the Plan's stated objectives and five key strategies, including adverse-event reporting, safety-signal detection and investigation, regulatory action, communications and collaboration.
+
+The motion is significant to this audit because it independently identified the documentary implementation of the Safety Monitoring Plan as a matter requiring parliamentary scrutiny.
+
+**Senate testimony (9 October 2025)**
+
+Senate testimony revealed monitoring was characterised as “day-to-day processes”, with no single evaluation report systematically benchmarking implementation against the Safety Monitoring Plan's 17 strategies. This raises a material question as to how the enhanced features of the Plan were distinguished from routine pharmacovigilance and independently verified. The characterisation is significant because the Plan established an enhanced monitoring framework for COVID-19 vaccines during the provisional approval pathway.
 
 Four years of inquiries produced identical results: assertions of enhancement without documentation of what made the monitoring operationally distinct.
 
-[Full senate testimony analysis](primary-sources/senate-community-affairs-legislation-committee/README.md)
-
----
+[Full Senate testimony analysis](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
 **Primary Sources:**
 
