@@ -2,7 +2,7 @@
 
 ## TGA OAIC-Directed Searches vs Audit Search Strategy
 
-**Last Updated:** 23 August 2026  
+**Last Updated:** 24 August 2026  
 
 ---
 
@@ -218,6 +218,6 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ---
 
-**Last Updated:** 23 August 2026  
+**Last Updated:** 24 August 2026  
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0
