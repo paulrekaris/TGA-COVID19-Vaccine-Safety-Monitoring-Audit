@@ -74,7 +74,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Policy Commitment: "Enhanced Monitoring"](#the-policy-commitment-enhanced-monitoring)
   - [The Contradiction](#the-contradiction)
   - [Testing the Contradiction: 2022 Direct Inquiries](#testing-the-contradiction-2022-direct-inquiries)
-  - [Parliamentary Scrutiny: 2025 Senate Record](#parliamentary-scrutiny-2025-senate-record)
+  - [Parliamentary Scrutiny: 2025 Senate Record](#parliamentary-scrutiny-20senate-record)
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
 - [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
@@ -729,7 +729,7 @@ Database of Adverse Event Notifications (DAEN) and published regulatory decision
 
 **FOI responses**
    * FOI 3643 (2022) – refusal of an "implementation report" for the COVID‑19 Vaccine Safety Monitoring Plan.
-   * FOI 25‑0166 (2025) – request to demonstrate implementation of each Plan objective refused on practical‑refusal grounds; TGA stated such documents had "not been previously identified or related to that objective."
+  * FOI 25‑0166 (2025) – In its consultation notice (24 April 2025), TGA identified "more than 399 documents containing 3,926 pages" in scope of the request, total "likely to be higher"; it then refused on practical‑refusal grounds (3 June 2025), stating the documents had "not been previously identified or related to that objective."
 
 **Information Commissioner material**
    * OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).
@@ -824,7 +824,7 @@ Three possible explanations exist for the documented gaps:
 
 2. **Records existed but were not retained:** Implementation was documented but records were not preserved in accordance with the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
 
-3. **Records exist but have not been produced:** Records exist but have not been produced: In FOI 25-0166, TGA identified 399 documents relating to the Plan but declined to process the request on practical-refusal grounds. This stands in tension with the MR22/00538 position that no implementation report exists: the OAIC-directed searches in that matter, covering 531+ containers and 2,218+ pages, returned zero documents in scope, while in FOI 25‑0166 TGA declined, on practical‑refusal grounds, to process a request seeking documents demonstrating implementation of each objective.
+3. **Records exist but have not been produced:** Records exist but have not been produced: In FOI 25-0166, TGA identified 399 documents containing 3,926 pages relating to the Plan but declined to process the request on practical-refusal grounds. This stands in tension with the MR22/00538 position that no implementation report exists: the OAIC-directed searches in that matter, covering 531+ containers and 2,218+ pages, returned zero documents in scope, while in FOI 25‑0166 TGA declined, on practical‑refusal grounds, to process a request seeking documents demonstrating implementation of each objective.
 
 All three explanations represent significant accountability failures. The first indicates a gap between commitment and delivery. The second indicates a breach of Commonwealth records management obligations. The third would indicate a failure of both FOI compliance and parliamentary accountability. The audit's findings and recommendations apply regardless of which explanation proves correct.
 
