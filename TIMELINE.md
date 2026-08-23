@@ -46,7 +46,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [AICmr 54 — AustLII](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html) | [OAIC MR22/00538 primary sources](primary-sources/oaic/MR22-00538/README.md)
 
 **April 2025**
-- **FOI 25-0166** — TGA identifies 399 Plan-aligned documents across 12 document categories but refuses to process them under practical refusal provisions, claiming classification by Plan objectives requires "subjective interpretation" despite having successfully classified 2,218+ pages nine months earlier
+- **FOI 25-0166** — he applicant sought documents demonstrating implementation of each Plan objective (originally estimated at 399+ documents before narrowing). TGA refused on practical-refusal grounds, stating that identifying documents by Plan objective would require "subjective interpretation" because they had "not been previously identified or related to that objective" — a concession that TGA had never classified its records against the Plan's objectives
 - [FOI 25-0166 analysis](primary-sources/foi/foi-25-0166/foi-25-0166-analysis.md)
   
 **1 April 2025**
@@ -99,7 +99,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 ## Pending
 
-**IC review MR25/01153** (lodged June 2025) — pending. Based on the precedent of MR22/00538 (February 2022 → March 2025, approximately three years), a determination is not anticipated before mid-2027 at the earliest. This review challenges TGA's practical refusal of 399 Plan-aligned documents identified but not processed under FOI 25-0166.
+IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of MR22/00538 (February 2022 → March 2025, approximately three years), a determination is not anticipated before mid-2027 at the earliest. This review challenges TGA's practical refusal under FOI 25-0166 of a request seeking documents demonstrating implementation of each Plan objective.
 - [OAIC MR25/01153 primary sources](primary-sources/oaic/MR25-01153/README.md)
 
 **Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — no action commenced as of August 2026.
@@ -113,7 +113,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 | February 2022 | IC review MR22/00538 lodged |
 | September 2024 | TGA searches 531+ TRIM containers; finds zero Plan implementation records |
 | 26 March 2025 | OAIC AICmr 54 — documents "cannot be found or do not exist" |
-| April 2025 | FOI 25-0166 — 399 documents identified but refused |
+| April 2025 | FOI 25-0166 — practical refusal; documents not identified against Plan objectives |
 | 1 April 2025 | Commonwealth Ombudsman complaint lodged (2025-806374) |
 | June 2025 | IC review MR25/01153 lodged |
 | 9 October 2025 | Senate testimony — monitoring was "day-to-day processes" |
