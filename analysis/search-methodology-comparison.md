@@ -2,7 +2,7 @@
 
 ## TGA OAIC-Directed Searches vs Audit Search Strategy
 
-**Last Updated:** 23 June 2026  
+**Last Updated:** 23 August 2026  
 
 ---
 
@@ -39,8 +39,7 @@ Repository: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-s
 
 - Database: TRIM (TGA's electronic document and records management system)
 - Containers searched: 531+
-- Pages reviewed: 2,218+ (demonstrating document classification capability)
-- Documents identified: 399 "Plan-aligned" documents (FOI 25-0166)
+- Pages reviewed: 2,218+
 - Implementation records found: Zero
 
 ### Search Characteristics
@@ -122,7 +121,6 @@ Each term mapped to specific Plan objectives or outputs with documented rational
 | Provisional approval | Yes | No | Audit only |
 | Audit/evaluation | Yes | Yes | Both |
 | **Total search terms** | **14** | **8** | Audit: 75% more |
-| **Distinct conceptual categories** | **12** | **2** | Audit: 6x more |
 
 ---
 
@@ -130,26 +128,20 @@ Each term mapped to specific Plan objectives or outputs with documented rational
 
 ### Terms Not Employed in TGA Searches
 
-**Output-specific terminology:**
+
 - Signal detection (Outputs 2.1-2.7)
 - AusVaxSafety coordination (Output 2.4)
 - ICMRA international sharing (Output 2.7)
-
-**Pharmacovigilance vocabulary:**
 - AEFI escalation
 - Performance metrics
 - Risk management plan
 - Enhanced monitoring (as distinct from routine)
-
-**Governance/integration processes:**
 - Data integration
 - Governance frameworks
 - Performance tracking
-
-**Regulatory context:**
 - Provisional approval conditions
 
-Nine of fourteen audit search categories (64%) were not represented in TGA's OAIC-directed searches.
+None of TGA's eight terms targeted the specific activities the Plan committed to — signal detection, AusVaxSafety coordination, or ICMRA sharing. A search keyed to Plan and audit titles cannot capture implementation evidence organised by activity rather than by document name.
 
 ---
 
@@ -160,7 +152,7 @@ Nine of fourteen audit search categories (64%) were not represented in TGA's OAI
 TGA's searches focused on locating documents with Plan-related titles ("Implementation of Plan", "Audit Report"). The audit's searches targeted evidence of implementation activities (signal detection processes, AusVaxSafety coordination, ICMRA sharing, governance frameworks).
 
 These represent fundamentally different search strategies:
-- Title-matching approach vs evidence-based approach
+- Plan and audit-title phrase matching vs evidence-based approach
 - Document name focus vs activity documentation focus
 
 The search exercise was estimated by the Principal Medical Advisor to take “no longer than 30 minutes” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31). For context, this was a search of the implementation record of a Cabinet-endorsed monitoring framework governing 68.4 million provisionally approved doses. The estimate is consistent with a search designed to demonstrate FOI compliance rather than comprehensively test document existence.
@@ -200,17 +192,15 @@ The FOI Act s24A requires agencies to take "all reasonable steps" to locate docu
 2. Agencies should employ output-specific terminology when searching for implementation evidence of published commitments
 3. Search scope should be informed by the nature of the commitments being searched for, not generic document naming conventions
 
-
 ## Conclusion
 
-TGA's OAIC-directed searches, while extensive in scope (531+ containers, 2,218+ pages reviewed), employed generic document-title terminology rather than output-specific and pharmacovigilance vocabulary.
+TGA's OAIC-directed searches, while extensive in scope (531+ containers, 2,218+ pages reviewed), employed Plan-title and audit-level terminology rather than output-specific vocabulary keyed to the Plan's individual strategies.
 
 The comparison demonstrates:
 
 1. TGA employed 8 search terms; this audit identified 14 terms targeting specific implementation evidence
-2. TGA's searches did not include terminology for 9 critical evidence categories (64% gap)
-3. TGA's searches focused on document titles rather than implementation activities
-4. Alternative search strategies employing output-specific terminology were available
+2. TGA's searches focused on document titles rather than implementation activities
+3. Alternative search strategies employing output-specific terminology were available
 
 Whether more comprehensive search strategies would have located additional documentation remains untested. However, the documented search methodology gap means that implementation evidence not organised under Plan-titled documents would not have been captured by TGA's searches.
 
@@ -228,6 +218,6 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ---
 
-**Last Updated:** 23 June 2026  
+**Last Updated:** 23 August 2026  
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0
