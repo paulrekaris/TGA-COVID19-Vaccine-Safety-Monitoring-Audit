@@ -134,11 +134,11 @@ The motion preceded Senate evidence given on **9 October 2025**, when TGA offici
 
 The subsequent testimony is documented separately:
 
-[Senate Community Affairs Legislation Committee — 9 October 2025](../senate-community-affairs-legislation-committee/README.md)
+[Senate Community Affairs Legislation Committee — 9 October 2025] (senate-community-affairs-legislation-committee/README.md)
 
 The August motion and October testimony are considered together in:
 
-[Parliamentary Scrutiny: 2025 Senate Record](../../README.md#parliamentary-scrutiny-2025-senate-record)
+[Parliamentary Scrutiny: 2025 Senate Record](../README.md#parliamentary-scrutiny-2025-senate-record)
 
 ---
 
