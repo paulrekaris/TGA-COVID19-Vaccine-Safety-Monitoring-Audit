@@ -9,12 +9,12 @@
 ISO 19011:2018 was the edition in force throughout the period under audit and while the audit was conducted. It was superseded by ISO 19011:2026 on 27 May 2026; the 2018 edition is retained here as the standard applicable to the activity assessed. The 2026 edition is a technical revision retaining the structure and principles of the 2018 edition.
 
 **Audit standard:** ISO 19011:2018 (Guidelines for auditing management systems)  
-**Audit subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)  
-**Audit conducted:** October 2025 – December 2025
-**Evidence collection:** 2022 – 2026  
-**Period under audit:** February 2021 – December 2025 
-**Audit type:** Independent, second-party (external interested party) documentation-compliance audit  
-**Overall conclusion:** Does not conform (7 major non-conformities)   
+**Audit subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)          
+**Audit conducted:** October 2025 – January 2026          
+**Evidence collection:** 2022 – 2026              
+**Period under audit:** February 2021 – December 2025            
+**Audit type:** Independent, second-party (external interested party) documentation-compliance audit          
+**Overall conclusion:** Does not conform (7 major non-conformities)              
 
 ## Table of Contents
 
@@ -235,7 +235,7 @@ Audit criteria (ISO 19011:2018, 3.7; criteria for an individual audit, 5.5.2) ar
 **Primary criteria (bind the auditee).**
 
 1. The TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): the auditee's own published commitments, 17 strategies plus the two governance outputs.
-2. The TGA's provisional-registration framework under the Therapeutic Goods Act 1989: enhanced post-market monitoring as a condition of provisional approval.
+2. The TGA's provisional-registration framework under the Therapeutic Goods Act 1989: enhanced post-market monitoring as the compensating safeguard on which provisional approval proceeded.
 3. Commonwealth records and performance obligations: PGPA Act 2013 s 37 (records of the performance of the entity), s 38 (measure and assess performance) and s 39 (annual performance statements); PGPA Rule s 16F(2) (content of performance statements); Archives Act 1983 s 24 (prohibition on unauthorised disposal of Commonwealth records) and the National Archives Information Management Standard (the positive duty to keep records documenting activities); FOI Act 1982 s 24A (reasonable-steps search obligation).
 
 **Benchmark criteria (recognised good practice, not asserted as binding).**
@@ -263,7 +263,7 @@ This section records the ISO 19011 programme-management steps and their status.
 
 **Risks and opportunities.** Risks: political sensitivity; FOI-only access; solo-researcher capacity; institutional resistance. Mitigations: strict focus on documentation rather than clinical or causality claims; explicit delimitation as a documentation-gap audit; use of FOI and OAIC escalation to reduce missing-records risk; an open repository enabling external validation and correction. Opportunities: a replicable model for citizen audits; a durable public record; input to future crisis-response governance.
 
-**Extent and scope.** Subject: implementation of the Plan (February 2021). Outputs: the 17 strategies plus two governance outputs, 19 in total. Evidence base: FOI responses (2,218 pages; 531 TRIM folders), TGA publications, Senate evidence, relevant academic literature. Time period: February 2021 to January 2026. Geographic scope: national, focused on Commonwealth TGA responsibilities and inter-jurisdictional coordination. The two governance outputs reflect standard public-administration obligations (PGPA Act 2013 ss 37 to 39; PGPA Rule s 16F(2)).
+**Extent and scope.** Subject: implementation of the Plan (February 2021). Outputs: the 17 strategies plus two governance outputs, 19 in total. Evidence base: FOI responses (2,218 pages; 531+ TRIM folders), TGA publications, Senate evidence, relevant academic literature. Time period: February 2021 to December 2025. Geographic scope: national, focused on Commonwealth TGA responsibilities and inter-jurisdictional coordination. The two governance outputs reflect standard public-administration obligations (PGPA Act 2013 s 37 (records), s 38 (measure and assess performance), s 39 (annual performance statements); PGPA Rule s 16F(2))
 
 **Resources.** Four years of investigation; personal funding only; a single experienced researcher; FOI and OAIC review processes; a GitHub repository; Zenodo archiving. Resources were appropriate to the scope and objectives.
 
@@ -808,7 +808,7 @@ Timeline:
 - Moderna Spikevax: provisional 9 August 2021; full registration 21 April 2023.
 - AstraZeneca Vaxzevria: provisional 15 February 2021; withdrawn April 2024.
 
-Significance: enhanced post-market safety monitoring was a regulatory condition of provisional approval under the Therapeutic Goods Act 1989. The scale of deployment heightened the materiality of documented Plan implementation as accountability evidence.
+Significance: enhanced post-market safety monitoring was the compensating safeguard on which provisional approval proceeded, operationalised in the February 2021 Plan. The scale of deployment heightened the materiality of documented Plan implementation as accountability evidence.
 
 Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Department of Health AIR data (10 October 2024); TGA COVID-19 vaccines regulatory status history.
 
