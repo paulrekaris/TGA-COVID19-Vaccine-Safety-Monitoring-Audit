@@ -14,7 +14,7 @@ ISO 19011:2018 was the edition in force throughout the period under audit and wh
 **Evidence collection:** 2022 – 2026              
 **Period under audit:** February 2021 – December 2025            
 **Audit type:** Independent, second-party (external interested party) documentation-compliance audit          
-**Overall conclusion:** Does not conform (7 major non-conformities)              
+**Overall conclusion:** Does not conform (7  non-conformities)              
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ ISO 19011:2018 was the edition in force throughout the period under audit and wh
 
 Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implementation, conducted October 2025 to January 2026 using ISO 19011:2018 as the audit method, with ANAO performance-audit methodology and Audit Insights, and open-source (OSINT) collection practice.
 
-**Overall conclusion:** Does not conform. Seven major non-conformities are recorded.
+**Overall conclusion:** Does not conform. Seven  non-conformities are recorded.
 
 **Conformity status:** 3 of 19 audited outputs (16 per cent) are fully documented; 16 outputs (84 per cent) are partially documented or not documented.
 
@@ -829,7 +829,7 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 20 Sep 2024 | OAIC submission | 8 terms, 531+ containers, 2,218+ pages; no implementation reports | Searches by objective; Objective 5 "unable to meaningfully interpret" | No implementation or governance documentation located |
 | 26 Mar 2025 | OAIC AICmr 54 | Decision on FOI 3643 review | Search obligations | Confirms documents cannot be found or do not exist |
 | 1 Apr 2025 | FOI 25-0166 request | Up to six recent documents per objective | Structured around the five objectives | Tests a narrowly scoped request |
-| 24 Apr 2025 | FOI 25-0166 first consultation letter | Practical refusal reason notified; s 24AB consultation initiated | None identified as implementing the Plan | Applicant invited to revise scope |
+| 24 Apr 2025 | FOI 25-0166 consultation notice | TGA identifies "more than 399 documents, 3,926 pages" in scope; total "likely to be higher" | In scope of request | s 24AB consultation; applicant invited to revise scope |
 | 3 Jun 2025 | FOI 25-0166 decision | Item 2 refused (practical refusal, s 24(1)(b)); documents "not previously identified or related to that objective" | None identified against Plan objectives | Refusal on identification/resource grounds |
 | Oct 2025 | FOI 25-0166 to OAIC | Applicant seeks review | Reiterates need for implementation evidence | Second OAIC review opens |
 | 9 Oct 2025 | Senate estimates | Monitoring characterised as "day-to-day processes" never systematically tracked | Direct evidence on the Plan | Confirms absence of systematic tracking |
@@ -843,7 +843,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 **Audit lead:** Paul Rekaris, independent policy researcher  
 **Audit framework:** ISO 19011:2018, with ANAO and open-source methods  
 **Audit type:** independent, second-party documentation-compliance audit  
-**Overall conclusion:** does not conform (7 major non-conformities)  
+**Overall conclusion:** does not conform (7  non-conformities)  
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
