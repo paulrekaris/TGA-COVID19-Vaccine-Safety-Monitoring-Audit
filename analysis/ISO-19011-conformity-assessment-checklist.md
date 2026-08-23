@@ -4,13 +4,13 @@
 
 [![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html) [![ANAO](https://img.shields.io/badge/ANAO-Audit%20Insights-1B2A4A?labelColor=1B2A4A&style=flat-square)](https://www.anao.gov.au/work/insights/performance-audit-process) [![GAO](https://img.shields.io/badge/GAO-Government%20Auditing%20Standards%202018-1B2A4A?labelColor=1B2A4A&style=flat-square)](https://www.gao.gov/yellowbook)
 
-**Why ISO 19011 is used here.** ISO 19011:2018 is the internationally recognised guideline for how management-system audits are planned, conducted and reported. It is used in this document as the auditor's method, because it provides a tested, public, and replicable structure for comparing a defined set of commitments (audit criteria) against objective evidence, for grading findings, and for stating conclusions and limitations in a way that others can scrutinise and test. Applying an established audit standard, rather than an ad hoc framework, lets parliamentary, legal, academic and professional readers evaluate the method on familiar terms and replicate or challenge it. ISO 19011 is a guideline for conducting audits; it is not a certifiable standard, and this document does not certify the TGA to any standard. Where the TGA's own Plan is assessed for whether it could be tracked and verified, that assessment is made against the obligations that actually bound the TGA (its published commitments and Commonwealth records and performance-reporting law), not against ISO 19011 itself.
+**Why ISO 19011 is used here.** ISO 19011:2018 is the internationally recognised guideline for how management-system audits are planned, conducted and reported. It is used in this document as the auditor's method, because it provides a tested, public, and replicable structure for comparing a defined set of commitments (audit criteria) against objective evidence, for grading findings, and for stating conclusions and limitations in a way that others can scrutinise and test. Applying an established audit standard, rather than an ad hoc framework, lets parliamentary, legal, academic and professional readers evaluate the method on familiar terms and replicate or challenge it. ISO 19011 is a guideline for conducting audits; it is not a certifiable standard, and this document does not certify the TGA to any standard. Where the TGA's own Plan is assessed for whether it could be tracked and verified, that assessment is made against the obligations that actually bound the TGA (its published commitments and Commonwealth records and performance-reporting law), not against ISO 19011 itself. ISO 19011:2018 was the edition in force throughout the period under audit and while the audit was conducted. It was superseded by ISO 19011:2026 on 27 May 2026; the 2018 edition is retained here as the standard applicable to the activity assessed. The 2026 edition is a technical revision retaining the structure and principles of the 2018 edition.
 
 **Audit standard:** ISO 19011:2018 (Guidelines for auditing management systems)  
 **Audit subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)  
-**Audit conducted:** October 2025 – January 2026  
+**Audit conducted:** October 2025 – December 2025
 **Evidence collection:** 2022 – 2026  
-**Period under audit:** February 2021 – January 2026  
+**Period under audit:** February 2021 – December 2025 
 **Audit type:** Independent, second-party (external interested party) documentation-compliance audit  
 **Overall conclusion:** Does not conform (7 major non-conformities)   
 
@@ -845,8 +845,8 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Version 2.0**:
-5 August 2026
+**Version 2.0** — released 5 August 2026  
+*Last updated 23 August 2026*
 
 [Back to top](#table-of-contents)
 
