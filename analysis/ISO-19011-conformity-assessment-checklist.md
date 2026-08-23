@@ -792,7 +792,7 @@ Gaps identified:
 
 1. **AusVaxSafety omission.** The TGA acknowledged the Strategy 2.4 commitment to collaborate with AusVaxSafety but did not use "AusVaxSafety" as a search term. No documented bridge was found between the survey responses and the signals and actions.
 2. **Objective 5 "unable to meaningfully interpret".** The TGA stated the collaboration commitment could not be meaningfully interpreted into a searchable item, indicating an absence of searchable records for stakeholder coordination.
-3. **Classification capability confirmed.** The TGA successfully searched by document type (SOPs, protocols, guidelines, workflows), so the absence reflects non-existence rather than search limitation.
+3. **Search covered document types.** The TGA searched by document type (SOPs, protocols, guidelines, workflows) and located records of those types, yet found no Plan-implementation documentation — so the absence reflects non-existence, not a search that was too narrow to reach it.
 
 Summary: 2,218+ pages of operational documents were found (AEFI processing, signal-detection procedures); no Plan-implementation tracking documents were found.
 
