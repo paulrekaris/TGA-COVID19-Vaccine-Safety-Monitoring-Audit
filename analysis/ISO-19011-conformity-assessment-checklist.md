@@ -372,7 +372,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Criterion.** FOI Act 1982 s 24A (reasonable-steps and document-existence) and the consistency expected of formal government records. ISO 19011 has no "transparency principle"; the criterion is the statutory and records standard, not the audit guideline.
 
-**Evidence.** 2022: documents "do not exist or have not been created". 2023: "ample documentation" undertaken. 2024 to 25: classification by Plan objective said to require "subjective interpretation", then 399 in-scope documents identified but practical refusal invoked.
+**Evidence.** Feb 2022 (FOI 3643): the requested implementation report "does not exist," yet TGA states it holds "ample documentation demonstrating compliance" with the Plan's objectives — identifying no Plan-specific implementation record. 2024 (MR22/00538): OAIC-directed searches across 531+ containers identify zero documents in scope. June 2025 (FOI 25-0166): TGA declines on practical-refusal grounds, stating that classifying documents by Plan objective would require "subjective interpretation" because they "have not been previously identified or related to that objective."
 
 **Finding.** Major non-conformity. Materially inconsistent positions on the existence and retrievability of implementation documentation across four years.
 
@@ -683,7 +683,7 @@ All URLs were verified as accessible in January 2026.
 24. TGA. (2024, August). FOI 5082: COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 25. TGA. (2024). FOI 5275 Notice of Decision (21 August 2024). Third-party request for monthly cancer-incidence surveillance data related to Comirnaty provisional approval; response: documents do not exist; TGA does not hold incidence data. Obtained via FOI 26-2581 (decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (2,218 pages, 531 TRIM folders). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf
-27. TGA. (2025, April 24). FOI 25-0166 consultation letter: practical-refusal position on 399 identified documents.
+27. TGA. (2025, April 24). FOI 25-0166 first request consultation letter (practical refusal, s24AB).
 
 ### Primary Sources: Parliamentary Evidence
 
@@ -829,14 +829,14 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 20 Sep 2024 | OAIC submission | 8 terms, 531+ containers, 2,218+ pages; no implementation reports | Searches by objective; Objective 5 "unable to meaningfully interpret" | No implementation or governance documentation located |
 | 26 Mar 2025 | OAIC AICmr 54 | Decision on FOI 3643 review | Search obligations | Confirms documents cannot be found or do not exist |
 | 1 Apr 2025 | FOI 25-0166 request | Up to six recent documents per objective | Structured around the five objectives | Tests a narrowly scoped request |
-| 24 Apr 2025 | FOI 25-0166 consultation | 399 documents in scope; practical refusal invoked | None as implementing the Plan | Practical refusal maintained |
-| 3 Jun 2025 | FOI 25-0166 decision | Practical refusal under s 24AB(7) | Acknowledges 399 in-scope documents | Refusal on resource grounds |
+| 24 Apr 2025 | FOI 25-0166 first consultation letter | Practical refusal reason notified; s 24AB consultation initiated | None identified as implementing the Plan | Applicant invited to revise scope |
+| 3 Jun 2025 | FOI 25-0166 decision | Item 2 refused (practical refusal, s 24(1)(b)); documents "not previously identified or related to that objective" | None identified against Plan objectives | Refusal on identification/resource grounds |
 | Oct 2025 | FOI 25-0166 to OAIC | Applicant seeks review | Reiterates need for implementation evidence | Second OAIC review opens |
 | 9 Oct 2025 | Senate estimates | Monitoring characterised as "day-to-day processes" never systematically tracked | Direct evidence on the Plan | Confirms absence of systematic tracking |
 
 ### Table D.2: Escalation Summary
 
-A four-year investigation (2022 to 2026) through escalating formal processes: initial inquiry (no Plan-specific evidence); formal FOI (no implementation report exists); OAIC review (triggers searches); OAIC-directed searches (531+ containers, no implementation documents); OAIC decision (documents cannot be found or do not exist); refined FOI (399 documents identified, practical refusal); second OAIC review; and Senate evidence (never systematically tracked). Each escalation confirmed rather than resolved the documentation gap.
+A four-year investigation (2022 to 2026) through escalating formal processes: initial inquiry (no Plan-specific evidence); formal FOI (no implementation report exists); OAIC review (triggers searches); OAIC-directed searches (531+ containers, no implementation documents); OAIC decision (documents cannot be found or do not exist); refined FOI (practical refusal; documents not identified against Plan objectives); second OAIC review; and Senate evidence (never systematically tracked). Each escalation confirmed rather than resolved the documentation gap.
 
 ---
 
