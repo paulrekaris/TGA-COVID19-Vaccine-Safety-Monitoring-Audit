@@ -253,8 +253,7 @@ This finding is based on official determinations, not interpretation:
 
 **Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. 93 of 150 investigated signals reported in the Senate QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md).
 
-**Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed only 8 generic document-title terms ("Implementation of Plan", "Audit Report"), missing output-specific terminology (signal detection, AusVaxSafety coordination, ICMRA sharing) and pharmacovigilance vocabulary (AEFI escalation, performance metrics, risk management). TGA’s OAIC-directed searches omitted “AusVaxSafety” entirely, despite Strategy 2.4 making it the Plan’s named active-surveillance integration partner. This audit employed 
-14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
+**Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed 8 terms operating at Plan-title and audit level ("Implementation of Plan", "Audit Report"), not keyed to the Plan's individual outputs. Two terms included pharmacovigilance (rows 7–8), but none targeted output-specific vocabulary such as signal detection, AusVaxSafety coordination, or ICMRA sharing. Notably, TGA's terms omitted "AusVaxSafety" entirely, despite Strategy 2.4 naming it the Plan's active-surveillance integration partner. This audit employed 14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
 
 The documentation gap is established as a matter of official record, confirmed through both administrative law proceedings and parliamentary testimony.
 
@@ -266,18 +265,17 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 ### Timeline of Contradictions
 
-
 - **February 2022** - TGA claims requested implementation documents “do not exist” [FOI 3643](primary-sources/foi/foi-3643/foi-3643-decision-letter-redacted.pdf)
 
 - **February 2022** - TGA acknowledges that “ample documentation” exists, but does not identify Plan‑specific implementation records.
 
 - **2022–2023** - TGA organises extensive vaccine‑safety documentation for Information Commissioner review.
 
-- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers, and demonstrates capability to classify and organise **2,218+ pages** of vaccine‑safety documentation by Safety Plan objectives.
+- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers and estimates 2,218+ pages of potentially relevant material across the five Safety Plan objectives, while identifying zero documents evidencing implementation of the Plan.
 
 - **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of [2025] AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
-- **June 2025** - TGA identifies **399 Plan‑aligned documents** across 12 document categories but refuses to process them for citizen access, claiming that classification by Plan objectives requires “subjective interpretation”, despite having successfully classified 2,218+ pages nine months earlier (FOI 25‑0166).
+- **June 2025** - In FOI 25‑0166, TGA refused, on practical‑refusal grounds, to process the part of the request seeking documents demonstrating implementation of each Plan objective. TGA stated that identifying such documents would require "subjective interpretation of the relationship to that objective," because the documents "have not been previously identified or related to that objective" — a direct concession that TGA had not classified its records against the Plan's objectives (FOI 25‑0166).
 
 - **9 October 2025** – Senate Community Affairs Legislation Committee  
 
@@ -294,12 +292,12 @@ All key documentation and evidence is provided in the [primary sources](primary-
 
 ## The Critical Question
 
-If TGA can organise 2,218+ pages by Plan objectives for the Information Commissioner, why can it not provide equivalent documentation to citizens after four years of requests?
+If TGA's own searches surfaced 2,218+ pages of potentially relevant material across the Plan's objectives, why can it not produce documentation demonstrating the Plan was implemented, after four years of requests?
 
 Each plausible explanation points to a serious failure in implementation, documentation, or both:
 
 - Enhanced monitoring was not conducted as a structured programme with the required documentation.  
-- Records are insufficiently organised to retrieve, despite demonstrated classification capability.  
+- Records are insufficiently organised to retrieve against Plan objectives.
 - Documents were never systematically maintained as required by international pharmacovigilance and public‑sector record‑keeping standards.  
 - Verification of the Safety Monitoring Plan's enhanced monitoring commitments was not documented before transitions to full registration.
 
@@ -731,7 +729,7 @@ Database of Adverse Event Notifications (DAEN) and published regulatory decision
 
 **FOI responses**
    * FOI 3643 (2022) – refusal of an "implementation report" for the COVID‑19 Vaccine Safety Monitoring Plan.
-   * FOI 25‑0166 (2025) – 399 Plan‑aligned documents identified across 12 document categories but not processed under practical‑refusal provisions.
+   * FOI 25‑0166 (2025) – request to demonstrate implementation of each Plan objective refused on practical‑refusal grounds; TGA stated such documents had "not been previously identified or related to that objective."
 
 **Information Commissioner material**
    * OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).
@@ -809,7 +807,7 @@ Absence of documentation does not prove that activities never occurred. It does,
 
 The probability that comprehensive implementation documentation exists but could not be located is low, given:
 
-1. TGA has demonstrated the ability to classify 2,218+ pages of Plan‑aligned material for OAIC (MR22/00538, September 2024).  
+1. TGA's OAIC‑directed searches surfaced 2,218+ pages of potentially relevant material yet identified none as Plan implementation documentation (MR22/00538, September 2024).
 2. Senate testimony confirmed that Plan implementation was never systematically tracked and that monitoring was treated as “day‑to‑day processes”.  
 3. Multiple FOI requests over four years (FOI 3643, FOI 25‑0166) targeted the same implementation evidence.  
 4. Systematic review of publicly available TGA databases, websites, annual reports and AusPARs found no Plan‑level implementation or verification trail.
@@ -826,7 +824,7 @@ Three possible explanations exist for the documented gaps:
 
 2. **Records existed but were not retained:** Implementation was documented but records were not preserved in accordance with the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
 
-3. **Records exist but have not been produced:** Records exist but have not been produced: In FOI 25-0166, TGA identified 399 documents relating to the Plan but declined to process the request on practical-refusal grounds. This stands in tension with the MR22/00538 position that no implementation report exists: the OAIC-directed searches in that matter, covering 531+ containers and 2,218+ pages, returned zero documents in scope, while FOI 25-0166 identifies 399 Plan-related documents that exist but have not been released.
+3. **Records exist but have not been produced:** Records exist but have not been produced: In FOI 25-0166, TGA identified 399 documents relating to the Plan but declined to process the request on practical-refusal grounds. This stands in tension with the MR22/00538 position that no implementation report exists: the OAIC-directed searches in that matter, covering 531+ containers and 2,218+ pages, returned zero documents in scope, while in FOI 25‑0166 TGA declined, on practical‑refusal grounds, to process a request seeking documents demonstrating implementation of each objective.
 
 All three explanations represent significant accountability failures. The first indicates a gap between commitment and delivery. The second indicates a breach of Commonwealth records management obligations. The third would indicate a failure of both FOI compliance and parliamentary accountability. The audit's findings and recommendations apply regardless of which explanation proves correct.
 
@@ -1041,7 +1039,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History
 
 **Document Version:** 1.9.4   
-**Last Updated:** 21 August 2026  
+**Last Updated:** 23 August 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
