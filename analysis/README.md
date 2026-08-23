@@ -38,8 +38,5 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
 
-- [TGA FOI Analysis](tga-foi-analysis.pdf) – FOI timeline analysis (2022-2025) documenting contradictory TGA responses
-
-
-**Last Updated:** 30 June 2026    
+**Last Updated:** 23 August 2026    
 **Licence:** CC BY 4.0
