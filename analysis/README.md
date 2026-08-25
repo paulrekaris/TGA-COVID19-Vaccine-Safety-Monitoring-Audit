@@ -34,6 +34,8 @@ This directory contains the main audit report and supporting analysis materials.
 
 ## Visual Summaries
 
+- [Regulatory and Accountability Framework](regulatory-accountability-framework-v2.svg) – Maps how the February 2021 Plan relates to the statutory provisional-registration framework, sponsor obligations and Departmental accountability, distinguishing statutory requirements from policy commitments and recognised guidance
+  
 - [TGA Audit One Page Methodology Flowchart](tga-audit-one-page-flowchart.pdf) - One-page visual flowchart of audit methodology, evidence hierarchy, and key findings
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
