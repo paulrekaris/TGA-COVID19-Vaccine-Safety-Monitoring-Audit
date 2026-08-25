@@ -20,6 +20,8 @@
 
 - [Frequently Asked Questions (FAQ)](FAQ.md#frequently-asked-questions---quick-index) – Orientation, methodology, limitations, and how to verify or challenge the findings.
 
+- [Regulatory and Accountability Framework](analysis/regulatory-accountability-framework.svg) – Maps how the February 2021 Plan relates to the statutory provisional-registration framework, sponsor obligations and Departmental accountability.
+
 - [Visual Summary: One-Page Audit Methodology Flowchart](analysis/tga-audit-one-page-flowchart.pdf) – Visual overview of the audit process, evidence hierarchy, and key findings.
 
 - [Open Review Architecture](audit-governance/open-review-architecture.md) — How this audit achieves accountability through public, forkable, permanently archived methodology in place of traditional closed peer review.
