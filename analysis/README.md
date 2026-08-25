@@ -40,5 +40,5 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
 
-**Last Updated:** 23 August 2026    
+**Last Updated:** 25 August 2026    
 **Licence:** CC BY 4.0
