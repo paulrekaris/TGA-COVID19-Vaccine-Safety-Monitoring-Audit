@@ -101,15 +101,15 @@ The absence of condition-specific incidence data is confirmed by the auditor's o
 
 ## FOI 25-0166 – Refined FOI Request (April 2025)
 
-Applicant lodges refined FOI seeking up to six of the most recent documents per Plan objective (February 2021–February 2025) across standard document categories (SOPs, guidelines, protocols, procedures). Request explicitly structured around the Plan's five objectives using TGA's own classification framework.
+Applicant lodges refined request seeking up to six of the most recent documents per Plan objective (February 2021–February 2025) across standard document categories (SOPs, guidelines, protocols, procedures) — at most thirty documents in total. Request structured around the Plan's five objectives.
 
-TGA advises 399 documents in scope but processing would be a "substantial and unreasonable diversion" of resources. Practical refusal invoked under s24AB. Decision issued 3 June 2025. s54Z application to OAIC lodged October 2025.
+TGA advises that preliminary estimates identified more than 399 documents comprising 3,926 pages within scope of the request, and that reviewing them "would be a substantial and unreasonable diversion of the TGA's resources". Consultation conducted under s 24AB; access refused under s 24(1)(b) on the basis that a practical refusal reason within the meaning of s 24AA existed. Decision issued 3 June 2025. Application for Information Commissioner review lodged June 2025.
 
-**Evidentiary significance:** Confirms that even after identifying a finite corpus of in-scope documents, TGA maintains practical refusal rather than facilitating access to Plan-related records. The 399 identified documents are the subject of the pending OAIC decision in case MR25/01153.
+**Evidentiary significance:** access was refused before the contents of any document were examined, so this process does not establish what the documents contain. The matter is before the Information Commissioner (MR25/01153), where s 55D places the onus on the agency to establish that its decision is justified.
 
 **Folder:** [foi-25-0166/](foi-25-0166/)
 
 ---
 
-**Last Updated:** 23 March 2026  
+**Last Updated:** 25 August 2026  
 **Licence:** CC BY 4.0
