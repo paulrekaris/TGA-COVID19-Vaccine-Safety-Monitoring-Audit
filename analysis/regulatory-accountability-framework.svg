@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="1408" viewBox="0 0 1400 1408" role="img" aria-labelledby="title desc">
+<title id="title">Regulatory and accountability framework for COVID-19 vaccine safety monitoring in Australia</title>
+<desc id="desc">Policy context and statutory framework provide parallel context for three distinct responsibility streams: sponsors and registration holders, the Therapeutic Goods Administration, and the Department of Health, Disability and Ageing accountable authority. Commonwealth records and TGA-adopted international scientific guidance provide supporting accountability context, leading to documentary verification by the audit.</desc>
+<style>
+  text{font-family:Arial,Helvetica,sans-serif;fill:#111}
+  .title{font-size:30px;font-weight:700;text-anchor:middle}
+  .subtitle{font-size:16px;fill:#555;text-anchor:middle}
+  .box{fill:#fff;stroke:#222;stroke-width:2}
+  .policy{fill:#fafafa;stroke:#222;stroke-width:2;stroke-dasharray:10 7}
+  .guidance{fill:#fafafa;stroke:#222;stroke-width:2;stroke-dasharray:2 7;stroke-linecap:round}
+  .audit{fill:#f1f1f1;stroke:#111;stroke-width:2.6}
+  .section{font-size:13px;font-weight:700;letter-spacing:1.25px;text-anchor:middle}
+  .head{font-size:18px;font-weight:700;text-anchor:middle}
+  .body{font-size:14.5px;text-anchor:middle}
+  .small{font-size:13px;fill:#555;text-anchor:middle}
+  .note{font-size:12.8px;fill:#555}
+  .source{font-size:11.8px;fill:#555}
+  .solid{fill:none;stroke:#222;stroke-width:2.6}
+  .dash{fill:none;stroke:#222;stroke-width:2.6;stroke-dasharray:10 7}
+  .dot{fill:none;stroke:#222;stroke-width:2.6;stroke-dasharray:2 7;stroke-linecap:round}
+  a text{text-decoration:none}
+</style>
+<rect x="0" y="0" width="1400" height="1408" fill="#fff"/>
+
+<g transform="translate(0,18)">
+<text x="700" y="50" class="title">Regulatory and accountability framework for COVID-19 vaccine safety monitoring in Australia</text>
+<text x="700" y="78" class="subtitle">Policy context, statutory obligations, institutional responsibilities and documentary verification</text>
+
+<rect x="90" y="112" width="560" height="220" rx="5" class="policy"/>
+<text x="370" y="141" class="section">POLICY CONTEXT</text>
+<text x="370" y="172" class="head">Australian COVID-19 Vaccination Policy</text>
+<text x="370" y="199" class="body">National Cabinet commitment to enhanced vaccine safety</text>
+<text x="370" y="223" class="body">monitoring and pharmacovigilance accompanying provisional approval</text>
+<line x1="140" y1="246" x2="600" y2="246" stroke="#bbb"/>
+<text x="370" y="276" class="head">TGA COVID-19 Vaccine Safety Monitoring Plan</text>
+<text x="370" y="303" class="body">February 2021 · Five key objectives · 17 operational outputs</text>
+
+<rect x="750" y="112" width="560" height="220" rx="5" class="box"/>
+<text x="1030" y="141" class="section">STATUTORY FRAMEWORK</text>
+<a xlink:href="https://www.legislation.gov.au/C2004A03952/latest/text" target="_blank">
+<text x="1030" y="172" class="head">Therapeutic Goods Act 1989 (Cth)</text></a>
+<text x="1030" y="199" class="body">ss 22C–22F · provisional determination framework</text>
+<text x="1030" y="223" class="body">ss 23, 23AA · application for provisional registration</text>
+<text x="1030" y="247" class="body">s 25 · evaluation and registration decision</text>
+<text x="1030" y="271" class="body">s 28(2A)(aa) · conditions of provisional registration</text>
+<text x="1030" y="295" class="body">s 29 · registration period, extension and continuation</text>
+<text x="1030" y="319" class="small">Statutory pathway; distinct from the February 2021 Plan</text>
+
+<path d="M370 332 V350 H700" class="dash"/>
+<path d="M1030 332 V350 H700" class="solid"/>
+<path d="M700 350 V363" class="solid"/>
+<text x="700" y="390" class="section">REGULATORY AND GOVERNANCE ENVIRONMENT</text>
+<path d="M700 402 V420" class="solid"/>
+<path d="M265 420 H1135" class="solid"/>
+<path d="M265 420 V438" class="solid"/>
+<path d="M700 420 V438" class="dash"/>
+<path d="M1135 420 V438" class="solid"/>
+
+<rect x="70" y="455" width="390" height="235" rx="5" class="box"/>
+<text x="265" y="485" class="section">SPONSOR/REGISTRATION-HOLDER STREAM</text>
+<text x="265" y="518" class="head">Sponsors/registration holders</text>
+<text x="265" y="548" class="body">s 28 · conditions of registration</text>
+<text x="265" y="577" class="body">s 29A · notification of adverse effects etc.; offence</text>
+<text x="265" y="606" class="body">s 29AA · civil penalty for failure to notify</text>
+<text x="265" y="646" class="small">Sponsor obligations are distinct from</text>
+<text x="265" y="667" class="small">the TGA's Plan commitments</text>
+
+<rect x="505" y="455" width="390" height="235" rx="5" class="policy"/>
+<text x="700" y="485" class="section">TGA POLICY/OPERATIONAL STREAM</text>
+<text x="700" y="518" class="head">Therapeutic Goods Administration</text>
+<text x="700" y="548" class="body">COVID-19 Vaccine Safety Monitoring Plan</text>
+<text x="700" y="577" class="body">Enhanced safety monitoring</text>
+<text x="700" y="606" class="body">Signal detection, investigation and communication</text>
+<text x="700" y="635" class="body">17 Plan operational outputs assessed by the audit</text>
+<text x="700" y="667" class="small">Policy/operational commitment; not a statutory instrument</text>
+
+<rect x="940" y="455" width="390" height="235" rx="5" class="box"/>
+<text x="1135" y="485" class="section">COMMONWEALTH ACCOUNTABILITY STREAM</text>
+<text x="1135" y="518" class="head">Department of Health, Disability and Ageing</text>
+<text x="1135" y="548" class="body">Secretary as accountable authority</text>
+<a xlink:href="https://www.legislation.gov.au/C2013A00123/latest/text" target="_blank">
+<text x="1135" y="577" class="body">PGPA Act 2013, ss 37–39</text></a>
+<text x="1135" y="606" class="body">Performance records, measurement and reporting</text>
+<text x="1135" y="646" class="small">PGPA duties attach to the accountable authority,</text>
+<text x="1135" y="667" class="small">not to the Plan itself</text>
+
+<path d="M265 690 V724 H700" class="solid"/>
+<path d="M700 690 V724" class="dash"/>
+<path d="M1135 690 V724 H700" class="solid"/>
+<path d="M700 724 V742 H415 V765" class="solid"/>
+<path d="M700 742 H985 V765" class="dot"/>
+
+<rect x="180" y="765" width="470" height="175" rx="5" class="box"/>
+<text x="415" y="796" class="section">COMMONWEALTH RECORDS</text>
+<a xlink:href="https://www.legislation.gov.au/C2004A02796/latest/text" target="_blank">
+<text x="415" y="829" class="head">Archives Act 1983 (Cth), s 24</text></a>
+<text x="415" y="860" class="body">Controls dealings with existing Commonwealth records</text>
+<text x="415" y="889" class="body">including disposal, transfer, damage and alteration</text>
+<text x="415" y="918" class="small">Not a general record-creation duty</text>
+
+<rect x="750" y="765" width="470" height="175" rx="5" class="guidance"/>
+<text x="985" y="796" class="section">TGA-ADOPTED INTERNATIONAL SCIENTIFIC GUIDANCE</text>
+<a xlink:href="https://www.tga.gov.au/resources/resources/international-scientific-guidelines-adopted-australia/ich-topic-e-2-e-pharmacovigilance-planning-pvp" target="_blank">
+<text x="985" y="833" class="head">ICH E2E — Pharmacovigilance Planning</text></a>
+<text x="985" y="865" class="body">TGA-adopted international scientific guideline</text>
+<text x="985" y="894" class="body">Overseas effective June 2005</text>
+<text x="985" y="921" class="small">Non-statutory guidance</text>
+
+<path d="M415 940 V978 H650 V1015" class="solid"/>
+<path d="M985 940 V978 H750 V1015" class="dot"/>
+
+<rect x="345" y="1015" width="710" height="138" rx="5" class="audit"/>
+<text x="700" y="1045" class="section">DOCUMENTARY VERIFICATION — AUDIT TEST</text>
+<text x="700" y="1078" class="head">Can implementation of the February 2021 Plan be independently verified?</text>
+<text x="700" y="1107" class="body">Public records · FOI searches/releases · OAIC review · parliamentary evidence</text>
+<text x="700" y="1135" class="body">19 outputs assessed against defined audit criteria</text>
+
+<line x1="92" y1="1196" x2="150" y2="1196" class="solid"/><text x="166" y="1201" class="note">Statutory requirement/framework</text>
+<line x1="92" y1="1226" x2="150" y2="1226" class="dash"/><text x="166" y="1231" class="note">Policy or operational commitment</text>
+<line x1="92" y1="1256" x2="150" y2="1256" class="dot"/><text x="166" y="1261" class="note">TGA-adopted international guidance (non-statutory)</text>
+
+<text x="90" y="1297" class="note">Connecting lines indicate framework and contextual relationships; they do not denote statutory duty or legal causation.</text>
+
+<a xlink:href="https://doi.org/10.5281/zenodo.17731054" target="_blank">
+<text x="90" y="1330" class="source"><tspan font-weight="700">Source:</tspan> Rekaris, P. (2026). <tspan font-style="italic">Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan.</tspan></text>
+<text x="90" y="1351" class="source">Zenodo. https://doi.org/10.5281/zenodo.17731054. CC BY 4.0.</text>
+</a>
+</g>
+</svg>
