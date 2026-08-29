@@ -156,12 +156,13 @@ Enhanced monitoring was presented in the relevant policy and regulatory material
 
 This audit examines whether enhanced monitoring commitments were implemented and documented in a verifiable way. Routine pharmacovigilance activities are acknowledged in the record.
 
-**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as expected for provisional approval and promised in the February 2021 Plan?
+**The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as committed to in the February 2021 COVID-19 Vaccine Safety Monitoring Plan accompanying the provisional-approval framework?
 
 **The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
 
-> **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to all registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities tied to provisional approval, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
+> **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities accompanying the provisional-approval framework, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
+> **Scope clarification:** References in this repository to enhanced monitoring requirements and commitments mean those set out in the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan. They do not refer to conditions of registration imposed on individual sponsors under the *Therapeutic Goods Act 1989*, which are separate from the Plan. Sponsor conditions are considered where relevant to the broader regulatory context, but this audit does not assess compliance with individual sponsor conditions. Earlier versions and related documentation may use less differentiated terminology when describing the relationship between enhanced monitoring and the provisional-approval framework; the current version clarifies this distinction. The underlying evidence and audit findings are unchanged.
 
 ## Australian Senate Citation
 
