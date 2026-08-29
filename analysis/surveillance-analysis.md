@@ -26,7 +26,7 @@
 > 
 > - **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 148 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
 > 
-> - **Observable surveillance degradation across five distinct periods (Mar 2021–Nov 2023):** Weekly detailed reports with full signal investigations (Period 1: Mar–Dec 2021) transitioned to biweekly with "expected rates" language introduced (Period 2: Jan–Jun 2022), then fortnightly standardised reassurance (Period 3: Jul–Dec 2022), minimal detail "no new concerns" messaging (Period 4: Jan–Jun 2023), and finally wind-down to cessation without evaluation (Period 5: Jul–Nov 2023)—demonstrating systematic degradation from enhanced to routine surveillance without documented assessment against provisional approval requirements 
+> - **Observable surveillance degradation across five distinct periods (Mar 2021–Nov 2023):** Weekly detailed reports with full signal investigations (Period 1: Mar–Dec 2021) transitioned to biweekly with "expected rates" language introduced (Period 2: Jan–Jun 2022), then fortnightly standardised reassurance (Period 3: Jul–Dec 2022), minimal detail "no new concerns" messaging (Period 4: Jan–Jun 2023), and finally wind-down to cessation without evaluation (Period 5: Jul–Nov 2023)—demonstrating systematic degradation from enhanced to routine surveillance without documented assessment against the Plan’s enhanced monitoring requirements
 > 
 > - **Two major surveillance systems never reconciled:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite Plan Output 2.1 commitment to unified framework
 > 
@@ -76,9 +76,9 @@ This systematic analysis examines TGA's COVID-19 vaccine safety surveillance rep
 
 **Assessment Framework:** This analysis applies professional audit standards ([ISO 19011:2018](ISO-19011-conformity-assessment-checklist.md)), Commonwealth performance reporting principles (ANAO Better Practice Guidance), and international pharmacovigilance requirements (ICH E2E, WHO/EMA GVP Module IX) to evaluate conformity between stated commitments and documented implementation.
 
-**Context:** Between February 2021 and July 2023, Australia administered 68.4 million COVID-19 vaccine doses under provisional approval—the nation's largest deployment of provisionally approved medicines. Provisional approval was predicated on enhanced post-market surveillance commitments, with the Safety Monitoring Plan specifying 17 numbered strategies to "strengthen the existing vaccine vigilance system."
+**Context:** Between February 2021 and July 2023, Australia administered 68.4 million COVID-19 vaccine doses under provisional approval—the nation's largest deployment of provisionally approved medicines. In the COVID-19 vaccine rollout, provisional approval was accompanied by commitments to enhanced post-market surveillance, with the Safety Monitoring Plan specifying 17 numbered strategies to "strengthen the existing vaccine vigilance system."
 
-**Key Question:** Do published surveillance reports demonstrate that the Plan's enhanced monitoring strategies were implemented as distinct, documentable processes beyond routine pharmacovigilance, enabling independent verification of provisional approval conditions?
+**Key Question:** Do published surveillance reports demonstrate that the Plan's enhanced monitoring strategies were implemented as distinct, documentable processes beyond routine pharmacovigilance, enabling independent verification of the enhanced monitoring commitments accompanying the provisional-approval framework?
 
 ---
 
@@ -92,7 +92,7 @@ This systematic analysis examines TGA's COVID-19 vaccine safety surveillance rep
 | **Jan-Jun 2023** | Fortnightly | Minimal detail, "no new concerns" messaging | Zero | Minimal - aggregate summaries only | No new signal investigations, established profile statements |
 | **Jul-Nov 2023** | Fortnightly → Cessation | Programme wind-down, final report Nov 2023 | Zero | None - cessation without evaluation | Cessation notice stating "routine monitoring continues" without public reports |
 
-**Key Pattern:** Progressive degradation from enhanced (weekly, detailed) to routine (fortnightly, minimal) without documented assessment against provisional approval's enhanced monitoring requirements or Plan framework references at any phase.
+**Key Pattern:** Progressive degradation from enhanced (weekly, detailed) to routine (fortnightly, minimal) without documented assessment against the Plan’s enhanced monitoring requirements or reference to the Plan framework at any phase.
 
 **Timeline Correlation:**
 - **Sep 2021:** FOI 4029-03 shows TGA presented Strategy 2.3 methodology to Advisory Committee (PRR/MaxSPRT)
@@ -186,7 +186,7 @@ Systematic degradation documented across 33 months:
 
 **Temporal Correlation:** Aligns with FOI 4029-03 (Sep 2021 enhanced monitoring presentation to ACV) and Dascombe testimony (Oct 2025 "day-to-day processes").
 
-**Implication:** Observable shift from enhanced to routine contradicts provisional approval requirement for enhanced monitoring throughout approval period.
+**Implication:** Observable shift from enhanced to routine monitoring contradicts the Safety Plan’s commitment to enhanced monitoring throughout the provisional-approval period.
 
 Senate QON 559 (SQ25-001584) Strategy 2 answer provides direct corroboration — TGA's formal written answer to enhanced signal detection produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md).
 
