@@ -441,15 +441,15 @@ Assessment of the Plan’s 19 outputs audited outputs, the Plan's 17 numbered st
 
 Critical gaps exist in signal detection protocols, multi-source data integration frameworks, governance oversight, and verification documentation for the Plan's enhanced-monitoring outputs, as distinct from the sponsor conditions assessed in the AusPAR.
 
-### Q15: What should exist if implementation occurred as designed?
+## Q15: What should exist if implementation occurred as designed?
 
-International pharmacovigilance standards (ICH E2E, CIOMS) that TGA formally adopted require:
+International pharmacovigilance standards and guidance (including ICH E2E and CIOMS), together with the Plan’s governance and accountability framework, support the expectation of:
 
-- **Signal management protocols** with documented decision criteria
-- **Audit trails** from signal detection through regulatory action
-- **Data source integration frameworks** for multi-source surveillance systems
-- **Governance oversight** with performance measurement against objectives
-- **Verification records** demonstrating regulatory conditions were met
+- Signal management protocols with documented decision criteria
+- Audit trails from signal detection through assessment and regulatory action
+- Data-source integration frameworks for multi-source surveillance
+- Governance and performance records demonstrating implementation against Plan objectives
+- Verification records demonstrating that the Plan’s enhanced monitoring commitments were implemented
 
 For provisional approval specifically, enhanced monitoring must be demonstrable and verifiable—not merely asserted—to prove regulatory conditions are being met.
 
@@ -505,23 +505,19 @@ Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillanc
 
 Active surveillance was supposed to distinguish this monitoring from routine pharmacovigilance, but systematic integration cannot be demonstrated through documentation.
 
-### Q22: What international standards weren’t potentially met?
+### Q22: What international pharmacovigilance standards were potentially not met?
 
-TGA formally adopted ICH E2E (Pharmacovigilance Planning) and CIOMS (signal management) standards but cannot demonstrate compliance:
+The audit assessed the Plan against ICH E2E, formally adopted by the TGA, and relevant internationally recognised pharmacovigilance guidance and benchmarks, including CIOMS signal-management guidance, EMA Good Pharmacovigilance Practices and WHO pharmacovigilance indicators.
 
-**ICH E2E requires:**
+These frameworks collectively establish expectations for:
 
-- Documented pharmacovigilance plans with measurable objectives
-- Systematic tracking of plan implementation
-- Verification that planned activities occurred
+- **Pharmacovigilance planning** — documented safety concerns and planned activities to address them (ICH E2E)
+- **Signal management** — systematic detection, validation, assessment, prioritisation and documented decision-making (CIOMS; EMA GVP Module IX)
+- **Traceability and audit trails** — records linking signal detection, analysis, decisions, rationale and resulting actions (EMA GVP Module IX)
+- **Quality systems and governance** — defined responsibilities, documented processes and controls supporting pharmacovigilance activities (EMA GVP Modules I and IX)
+- **Performance measurement** — indicators capable of assessing pharmacovigilance structures, processes, outputs, outcomes and achievement against strategic objectives (WHO)
 
-**CIOMS requires:**
-
-- Audit trails from signal detection through evaluation to decision
-- Documented decision criteria for signal prioritisation
-- Transparent signal management processes
-
-The absence of implementation records, audit trails, and systematic tracking indicates non-compliance with these internationally recognised standards that Australia formally adopted.
+The documentation gaps identified by this audit prevent independent verification that implementation of the February 2021 Plan conformed to these relevant pharmacovigilance standards and benchmarks. This finding concerns demonstrable conformity of the Plan's implementation; it does not establish that pharmacovigilance activities did not occur or that sponsor conditions of registration were not met.
 
 ### Q23: What percentage of Plan outputs are documented?
 
