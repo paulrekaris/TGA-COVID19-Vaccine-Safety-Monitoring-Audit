@@ -6,7 +6,7 @@ This audit addresses a core problem of democratic accountability: asymmetric inf
 
 ## **The Core Contradiction: Promise vs. Description**
 
-The TGA committed to "enhanced safety monitoring" through its February 2021 Safety Plan, specifying 17 numbered strategies as conditions of provisional approval—the regulatory *quid pro quo* for accepting products with incomplete pre-market data.
+The TGA committed to "enhanced safety monitoring" through its February 2021 Safety Plan, specifying 17 numbered strategies tied to the provisional-approval framework—the policy and regulatory quid pro quo for accepting products on preliminary rather than complete clinical data.
 
 But the TGA's Senate testimony (9 October 2025) described this enhanced monitoring as embedded in **"day-to-day processes"** with no distinct tracking or documentation system. This characterisation blurs the essential boundary: if enhanced monitoring is indistinguishable from routine operations, how can anyone verify it occurred?
 
@@ -64,7 +64,7 @@ Traditional audits examine known systems against defined standards with full acc
 Given these constraints, this audit employs two complementary forms of reasoning:
 
 ### **Deductive Reasoning: What Should Be Verifiable**
-- Premise: Provisional approval requires enhanced monitoring
+- Premise: Australia’s COVID-19 provisional-approval framework included an explicit policy commitment to enhanced safety monitoring
 - Premise: Enhanced monitoring must be verifiable for accountability (Popper's falsifiability principle)
 - Premise: TGA committed to specific enhanced outputs
 - **Conclusion: Systematic implementation should be documentable**
@@ -152,3 +152,6 @@ It demonstrates that democratic accountability requires not perfect knowledge bu
 8. Power, M. (1997). The Audit Society: Rituals of Verification. Oxford University Press.
 
 9. Stiglitz, J.E. (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
+
+
+**Last updated:** 30 August 2026
