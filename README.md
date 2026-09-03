@@ -77,7 +77,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Policy Commitment: "Enhanced Monitoring"](#the-policy-commitment-enhanced-monitoring)
   - [The Contradiction](#the-contradiction)
   - [Testing the Contradiction: 2022 Direct Inquiries](#testing-the-contradiction-2022-direct-inquiries)
-  - [Parliamentary Scrutiny: 2025 Senate Record](#parliamentary-scrutiny-20senate-record)
+  - [Parliamentary Scrutiny: 2025 Senate Record](#parliamentary-scrutiny-20-senate-record)
   - [From "Molecule to Market" to Enhanced Safety Monitoring: The Teaching-Practice Gap](#from-molecule-to-market-to-enhanced-safety-monitoring-the-teaching-practice-gap)
 - [Official 2021 AEFI Surveillance Report](#official-2021-aefi-surveillance-report)
 - [Supporting Peer-Reviewed Literature of Systemic Gaps](#supporting-peer-reviewed-literature-of-systemic-gaps)
