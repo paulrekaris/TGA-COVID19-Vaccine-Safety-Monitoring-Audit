@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 12 August 2026
+**Last updated:** 4 September 2026
 
 
 ---
@@ -26,6 +26,119 @@
 - [Version 1.5.1 (December 2025)](#version-151-december-2025)
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
+
+# Version 1.9.5 (Draft — unreleased)
+
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
+[Commits v1.9.4...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.4...HEAD)
+
+*Changes since the v1.9.4 release. Draft release notes; v1.9.5 has not yet been released. Findings, ratings, and overall conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47).*
+
+### Regulatory framing and scope
+
+- Refined terminology throughout the repository to distinguish the TGA's enhanced-monitoring commitments under the February 2021 COVID-19 Vaccine Safety Monitoring Plan from statutory requirements and sponsor-specific conditions of registration under the *Therapeutic Goods Act 1989* (Cth).
+- Clarified that the February 2021 Plan was not itself a statutory condition of provisional registration. The audit assesses whether the TGA's documented enhanced-monitoring commitments can be verified through available records, rather than whether the Plan constituted a legally enforceable sponsor registration condition.
+- Refined the treatment of enhanced monitoring as a policy and regulatory safeguard accompanying provisional approval, while distinguishing statutory requirements, sponsor pharmacovigilance obligations, regulatory expectations and TGA policy commitments.
+- Added a regulatory-framework scope and methodology note acknowledging the layered nature of therapeutic goods regulation, including legislation, regulations, legislative instruments, TGA guidance and international pharmacovigilance standards. Clarified that the audit is not a comprehensive legal review of all regulatory instruments.
+- Clarified that the audit has not sought or reviewed underlying sponsor documentation supporting TGA assessment of provisional-registration conditions and makes no finding as to the availability of that documentation.
+- Refined the governance framing of the Australian COVID-19 Vaccination Policy and National Cabinet endorsement, including removal of the PM&C Cabinet Handbook reference to avoid ambiguity regarding its relationship to National Cabinet processes.
+- Applied the revised framing consistently across the audit corpus so that legal-requirement language attaches to the relevant statutory or Plan commitments rather than characterising enhanced monitoring itself as a statutory condition.
+
+### Main Audit Report
+
+- Revised framing throughout the report to distinguish the February 2021 Plan and its enhanced-monitoring commitments from statutory conditions of provisional registration, consistent with the legislative analysis in Section 4.
+- Corrected the glossary definitions of "Enhanced monitoring" and "Regulatory failure" and standardised terminology concerning provisional registration, enhanced monitoring, pharmacovigilance standards, records management, assurance and regulatory framing.
+- Refined the Abstract, Executive Summary, disclaimer, findings, recommendations, Box 1, Table 2 and corresponding appendix material to clarify regulatory scope, documentary assurance and the relationship between the Plan, provisional registration, sponsor pharmacovigilance responsibilities and individual registration conditions.
+- Corrected and expanded the statutory analysis against the consolidated *Therapeutic Goods Act 1989* (Cth), including ss 22C–22D, 23AA, 28(2A)(aa) and 29. Retained the qualification that the Act does not expressly require verification of enhanced-monitoring implementation before extension or transition.
+- Revised the AusPAR analysis to distinguish sponsor registration conditions from the TGA's Plan commitments. The Comirnaty and Spikevax AusPARs are treated as evidence concerning the public assessment record rather than as assessments of implementation of the Plan's 17 enhanced-monitoring strategies. Replaced the Spikevax media-release source with the May 2023 Spikevax AusPAR.
+- Added a subsection examining two contemporaneous TGA public monitoring sources as corroborative evidence. The sources document pharmacovigilance activity but do not identify the February 2021 Plan, its 17 strategies or a systematic framework for tracking implementation. This evidence is treated as corroborative and subordinate to the AusPAR analysis.
+- Reconciled the 148/91 signal figures reported in Senate testimony on 9 October 2025 with the subsequent Question on Notice 559 figures of 150/93, retaining the hearing figures where describing that evidence and recording the subsequent update.
+- Revised temporal-scope wording to distinguish the assessment period from evidence-search activity completed in December 2025, systematic review of the complete FOI disclosure log in January 2026, and additional historical sources identified during the August 2026 revision.
+- Clarified the audit-derived provenance of the data-integration and contribution-to-the-evidence-base categories and their relationship to the Plan's five stated objectives and cross-cutting strategies.
+- Refined ISO 9001:2015 and ISO 31000:2018 references to distinguish standards-based principles from statutory requirements and added supporting references.
+- Removed the detailed version history from the main audit report and replaced it with a concise reference directing readers to the GitHub repository for the complete version history and release notes. The current report version and release date remain identified in the report; previously published and archived versions remain unchanged.
+
+### Appendix A and regulatory accountability framework
+
+- Added Appendix A providing contextual and regulatory background to the February 2021 COVID-19 Vaccine Safety Monitoring Plan, including its objectives, strategies, strategy items and outputs, relationship to provisional registration and sponsor pharmacovigilance obligations, and the regulatory provisions underlying Figure A.1.
+- Added Figure A.1 mapping the statutory, policy, operational and guidance framework surrounding the Plan.
+- Added the regulatory and accountability framework figure in SVG format to the repository analysis folder and linked it from the main README and Audit Overview page.
+- Expanded the framework analysis to incorporate relevant TGA-adopted international pharmacovigilance guidance and clarify the role of international standards as regulatory and good-practice benchmarks rather than statutory requirements.
+
+### Governance and PGPA Act attribution
+
+- Corrected attribution of Commonwealth records and performance obligations across the audit corpus. Duties under ss 37–39 of the *Public Governance, Performance and Accountability Act 2013* and relevant PGPA Rule provisions are attributed to the accountable authority of the Department of Health and Aged Care, within which the TGA operates, while the TGA remains the operational subject of the audit.
+- Applied the corrected attribution and statutory performance wording across the main audit report, conformity assessment and supporting documentation.
+
+### FOI 25-0166 and OAIC MR25/01153
+
+- Revised FOI 25-0166 and OAIC MR25/01153 references for legal and evidentiary precision.
+- Verified the 24 April 2025 consultation notice as the source for the TGA estimate of more than 399 documents containing 3,926 pages within scope of the request, with the total stated as likely to be higher. Standardised this attribution across the repository.
+- Distinguished documents identified as within scope of FOI 25-0166 from demonstrated Plan-implementation records, noting that access was refused before their contents could be independently examined.
+- Corrected the page count from 3,296 to 3,926 where necessary and reconciled affected chronology, findings, status-table and search-comparison references.
+- Removed unsupported or overly broad characterisations identified during source-accuracy review, including motive attribution and claims that the identified documents had been classified by Plan objective.
+- Refined the comparison of TGA search methodology to focus on the documented output-specific search gap. Removed the non-reconciling "9 of 14 / 64% gap" calculation and "12 vs 2 conceptual categories / 6x" comparison while retaining the factual comparison of 14 versus 8 search terms.
+- Removed the previously asserted FOI Guidelines citation error after verification of the underlying reference.
+
+### Evidence searches and temporal scope
+
+- Updated search-period documentation to distinguish the December 2025 evidence-search conclusion, January 2026 systematic review of the complete FOI disclosure log, and historical material identified during the August 2026 revision.
+- Corrected descriptions of the September 2024 OAIC-directed searches, including the 2,218+ page and 531+ TRIM-container figures and the scope of the search activity.
+- Removed wording implying that TGA searches themselves occurred "over four years"; the four-year period relates to the broader documentary investigation and dispute chronology.
+- Replaced an unsupported probability characterisation with the documented search result and refined claims concerning search terminology and output-specific coverage.
+- Clarified the search-comparison analysis to reflect that the TGA search terms included pharmacovigilance terminology but did not target individual outputs including signal detection, AusVaxSafety or ICMRA.
+
+### Parliamentary and policy record
+
+- Added a primary-source record of the 27–28 August 2025 Senate scrutiny concerning the COVID-19 Vaccine Safety Monitoring Plan, including the motion seeking documentary evidence of adherence to and implementation of the Plan, the Government response and official Senate Hansard sources.
+- Expanded the historical chronology to document development and Advisory Committee on Vaccines review and endorsement of the COVID-19 vaccine pharmacovigilance framework.
+- Revised *TGA Senate QON Response: Gap Analysis Against National Cabinet Policy and Safety Plan — SQ13–19 (December 2025)*, Parliamentary Document Reference SQ25-003155, following legislative and governance verification. Clarified the relationship between the November 2020 National Cabinet commitment, the Australian COVID-19 Vaccination Policy and the TGA's February 2021 Safety Monitoring Plan; distinguished National Cabinet endorsement from Federal Cabinet's documented first-pass consideration; strengthened the distinction between failure to implement and failure to demonstrate implementation; and updated statutory, evidentiary and governance references.
+
+### Finding 5 and auditability
+
+- Expanded Finding 5 to clarify that, although the Plan's 17 strategy items were numbered, their multiple associated outputs were not separately numbered or incorporated into a systematic framework for tracking, measuring and demonstrating implementation.
+- Clarified how this structural limitation affected the capacity to assess implementation systematically against the Plan's commitments.
+- Refined assessment-scope terminology to distinguish the Plan's 17 numbered strategy items and associated outputs from the 19 audit units constructed for this assessment.
+- Added cross-references to the ISO 19011 conformity assessment and audit-governance documentation setting out the audit methodology, applicable standards, version-control, evidence-preservation and reproducibility practices, and the conservative construction of the assessment framework.
+
+### ISO 19011 conformity assessment and evidence matrix
+
+- Corrected evidence-collection and period-under-audit dates in the ISO 19011 conformity assessment and aligned condition-of-approval terminology with the compensating-safeguard framing.
+- Corrected PGPA Act attribution and standardised ISO and PGPA terminology across the conformity assessment and evidence matrix.
+- Updated the evidence matrix to reflect 531+ TRIM containers and applied the revised source-attribution and regulatory framing consistently across supporting audit documentation.
+- Clarified that ISO 19011:2018 was the edition applicable to the assessment period following its supersession in 2026.
+
+### README, FAQ and Audit Overview
+
+- Added Audit Overview/landing-page links to the README Quick Start and FAQ navigation structure, providing a non-technical entry point for visitors arriving directly at the repository or FAQ.
+- Clarified the scope of "enhanced monitoring" terminology in the README and related repository documentation, distinguishing Plan commitments from sponsor registration conditions.
+- Revised FAQ treatment of provisional approval and enhanced safety monitoring to reflect the distinction between the Plan-level framework and legally enforceable sponsor conditions.
+
+### Audit summary presentation
+
+- Revised the presentation deck for regulatory and evidentiary precision, distinguishing Plan commitments from statutory registration conditions and clarifying the policy relationship between provisional approval and enhanced safety monitoring.
+- Refined AusPAR analysis, provisional-approval integrity statements, transition-verification assessment and conformity classifications to avoid implying findings concerning the legality of approval decisions.
+- Strengthened documentary-gap framing around the availability of identifiable verification records for implementation of the Safety Monitoring Plan.
+- Corrected the description of TGA search timing and removed unsupported probability language.
+- Standardised FOI 25-0166 references to the TGA's estimate of more than 399 documents within scope and strengthened international pharmacovigilance benchmarking, including EMA GVP Module IX.
+- Refined records-management and governance findings to align with the audit's evidentiary limitations.
+
+### Archival records and preservation
+
+- Updated archival records to record the August 2026 National edeposit of v1.9.4 (NED484448) and refreshed Internet Archive captures.
+- Corrected the Zenodo version reference and removed volatile metadata from permanent-record entries where concept DOIs or persistent identifiers make version-specific fields unnecessary.
+
+### International pharmacovigilance and terminology
+
+- Refined international pharmacovigilance criteria and signal-management references, including ICH E2E, CIOMS VIII and EMA GVP Module IX.
+- Standardised terminology concerning provisional registration, enhanced monitoring, pharmacovigilance standards, records management and documentary assurance throughout the audit corpus.
+- Clarified the distinction between international standards used as good-practice benchmarks and binding statutory requirements.
+
+### Version control
+
+- Consolidated detailed version history and release documentation in the GitHub repository, with the main audit report retaining its current version identifier and release date and directing readers to GitHub for the complete version history and release notes.
+- Previously published and archived report versions remain unchanged and continue to preserve the version information contained in those releases.
 
 
 ## Version 1.9.4 (5 August 2026)
