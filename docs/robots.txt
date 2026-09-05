@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/sitemap.xml
