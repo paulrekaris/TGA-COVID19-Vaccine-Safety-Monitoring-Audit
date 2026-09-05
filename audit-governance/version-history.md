@@ -58,7 +58,9 @@
 - Revised temporal-scope wording to distinguish the assessment period from evidence-search activity completed in December 2025, systematic review of the complete FOI disclosure log in January 2026, and additional historical sources identified during the August 2026 revision.
 - Clarified the audit-derived provenance of the data-integration and contribution-to-the-evidence-base categories and their relationship to the Plan's five stated objectives and cross-cutting strategies.
 - Refined ISO 9001:2015 and ISO 31000:2018 references to distinguish standards-based principles from statutory requirements and added supporting references.
-- Removed the detailed version history from the main audit report and replaced it with a concise reference directing readers to the GitHub repository for the complete version history and release notes. The current report version and release date remain identified in the report; previously published and archived versions remain unchanged.
+- Removed the detailed version history from the main audit report and replaced it with a concise reference directing readers to the GitHub repository for the complete version history and release notes.
+- Update TGA signal-investigation reporting from 148 to 150 signals based on Question on Notice 559, while preserving historically reported figures where relevant, and refine signal-to-action audit-trail analysis
+- The current report version and release date remain identified in the report; previously published and archived versions remain unchanged.
 
 ### Appendix A and regulatory accountability framework
 
