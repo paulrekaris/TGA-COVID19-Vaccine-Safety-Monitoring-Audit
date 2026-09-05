@@ -290,7 +290,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
   - Plan implementation was **never systematically tracked** by Plan objectives.  
   - Monitoring was managed through “day‑to‑day processes”, not a distinct enhanced framework.  
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
-  - 148 safety signals were investigated and 57 regulatory actions taken – yet **no documentation links specific signals to specific actions**.
+  - 150 safety signals were investigated and 57 regulatory actions taken – yet **no documentation links specific signals to specific actions**.
 
 A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. A decision is pending as of June 2026.
 
