@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 4 September 2026
+**Last updated:** 5 September 2026
 
 
 ---
@@ -110,9 +110,10 @@
 - Updated the evidence matrix to reflect 531+ TRIM containers and applied the revised source-attribution and regulatory framing consistently across supporting audit documentation.
 - Clarified that ISO 19011:2018 was the edition applicable to the assessment period following its supersession in 2026.
 
-### README, FAQ and Audit Overview
+### README, FAQ, Audit Overview and meta data page 
 
 - Added Audit Overview/landing-page links to the README Quick Start and FAQ navigation structure, providing a non-technical entry point for visitors arriving directly at the repository or FAQ.
+- Added comprehensive metadata for the independent audit of the TGA COVID-19 Vaccine Safety Monitoring Plan, including title, author, description, objectives, methodology, findings, and links to related resources
 - Clarified the scope of "enhanced monitoring" terminology in the README and related repository documentation, distinguishing Plan commitments from sponsor registration conditions.
 - Revised FAQ treatment of provisional approval and enhanced safety monitoring to reflect the distinction between the Plan-level framework and legally enforceable sponsor conditions.
 
