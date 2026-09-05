@@ -116,6 +116,7 @@
 - Added comprehensive metadata for the independent audit of the TGA COVID-19 Vaccine Safety Monitoring Plan, including title, author, description, objectives, methodology, findings, and links to related resources
 - Clarified the scope of "enhanced monitoring" terminology in the README and related repository documentation, distinguishing Plan commitments from sponsor registration conditions.
 - Revised FAQ treatment of provisional approval and enhanced safety monitoring to reflect the distinction between the Plan-level framework and legally enforceable sponsor conditions.
+- Add robots.txt for search engine crawling
 
 ### Audit summary presentation
 
