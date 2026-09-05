@@ -8,7 +8,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.4&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
+[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.5&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
 ## Quick Start
 
@@ -37,7 +37,7 @@
 
 - [Verify the Findings](analysis/output-assessment-evidence-matrix.xlsx) – Every classification is reproducible directly from the dataset. Open the file, go to the Evidence Matrix sheet (19 rows, one per Plan output), filter the `Status` column to see classifications by output. Full data paper: [SSRN 10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438). See the [Dataset Codebook](analysis/dataset-codebook.md) and [Replication README](analysis/replication-readme.md) for variable definitions and replication code.
 
-- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED476889S65171](https://nla.gov.au/nla.obj-4238332288) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Harvard Dataverse: 10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz](https://osf.io/preprints/socarxiv/sb4gz) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped 29 March 2026](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png) | [Arweave Blockchain](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4)
+- [Permanent Archive](blockchain-and-archival-verification/) | [National Library of Australia: NED476889S65171](https://nla.gov.au/nla.obj-4238332288) | [Zenodo DOI: 10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054) | [Harvard Dataverse: 10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ) | [SSRN: 6333058](https://ssrn.com/abstract=6333058) | [SocArXiv: 10.31235/osf.io/sb4gz](https://osf.io/preprints/socarxiv/sb4gz) | [Mendeley Data: 10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9) | [Bitcoin Timestamped 29 March 2026](blockchain-and-archival-verification/bitcoin-timestamp-verification-2026-03-29.png) | [Arweave Blockchain](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) | [Internet Archive](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5)
 
 This README contains the narrative executive summary and overview. Key findings and detailed audit results, including references, are in the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf)
 
@@ -927,7 +927,7 @@ Full license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 When citing this work, please use:
 
 **Zenodo (primary):**
-Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.4). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.5). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 **SSRN:**
 Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (January 12, 2026). Available at SSRN: https://ssrn.com/abstract=6333058 or http://dx.doi.org/10.2139/ssrn.6333058
@@ -941,7 +941,7 @@ Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vac
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
   month = {August},
   year = {2026},
-  version = {1.9.4},
+  version = {1.9.5},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -1044,8 +1044,8 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History
 
-**Document Version:** 1.9.4   
-**Last Updated:** 30 August 2026  
+**Document Version:** 1.9.5   
+**Last Updated:** 5 September 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
@@ -1079,7 +1079,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **Arweave:** [Permanent Storage](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps)
 
-- **Internet Archive:** [Full Repository (v1.9.4)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.4) | [Audit Report PDF](https://archive.org/details/documentation-gap-analysis-audit-report_20260819) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*) Complete archive and dated snapshots proving public web presence
+- **Internet Archive:** [Full Repository (v1.9.5)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5) | [Audit Report PDF](https://archive.org/details/documentation-gap-analysis-audit-report_20260819) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*) Complete archive and dated snapshots proving public web presence
 
 The archival stack was designed to ensure dissemination, reproducibility, and national permanence.  The rationale is documented in the [Permanent Archive README](blockchain-and-archival-verification/README.md#rationale-for-platform-selection).  
 
