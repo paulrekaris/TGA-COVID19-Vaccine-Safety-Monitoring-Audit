@@ -10,7 +10,7 @@
 ---
 
 ## Table of Contents
-- [Version 1.9.5 (Draft — unreleased)](#version-195-draft--unreleased)
+- [Version 1.9.5 (Draft — unreleased)](#version-195-6-september-2026)
 - [Version 1.9.4 (5 August 2026)](#version-194-5-august-2026)
 - [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
 - [Version 1.9.2 (26 March 2026)](#version-192-26-march-2026)
