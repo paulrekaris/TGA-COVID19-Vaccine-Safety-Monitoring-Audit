@@ -28,13 +28,13 @@
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
-# Version 1.9.5 (Draft — unreleased)
+# Version 1.9.5 (6 September 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
 
 [Commits v1.9.4...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.4...HEAD)
 
-*Changes since the v1.9.4 release. Draft release notes; v1.9.5 has not yet been released. Findings, ratings, and overall conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47).*
+*Changes since the v1.9.4 release. Findings, ratings, and overall conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47).*
 
 ### Regulatory framing and scope
 
