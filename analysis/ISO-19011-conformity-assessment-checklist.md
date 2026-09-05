@@ -136,7 +136,7 @@ The audit uses two forms of reasoning.
 - **GitHub Repository:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive) https://doi.org/10.5281/zenodo.17731054
 - **Harvard Dataverse:** 10.7910/DVN/BDKZQJ (Harvard University research data repository) https://doi.org/10.7910/DVN/BDKZQJ
-- **SSRN:** 10.2139/ssrn.6333058 (social science preprint repository) https://doi.org/10.2139/ssrn.6333058
+- **SSRN:** 10.2139/ssrn.33058 (social science preprint repository) https://doi.org/10.2139/ssrn.6333058
 - **SocArXiv:** 10.31235/osf.io/sb4gz (open access preprint repository) https://doi.org/10.31235/osf.io/sb4gz
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
@@ -382,7 +382,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Criterion.** The Plan's positioning of active surveillance as informing regulatory action; CIOMS Working Group VIII practice on traceable signal-to-action documentation (recognised benchmark).
 
-**Evidence.** About 6.8 million AusVaxSafety responses collected; 148 to 150 signals investigated and 57 actions taken (see the note above); no documented pathway connecting active-surveillance outputs to specific signals or actions; the OAIC searches omitted "AusVaxSafety" as a search term; QON 559 does not mention AusVaxSafety in the TGA's formal answer on collaborations, despite Strategy 2.4. Peer-reviewed practice (Malikova 2020) describes signal management as including tracked, documented actions at every stage; against that benchmark, the absence of a documented pathway is a material traceability gap. CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in action. TGA reports 150 signals investigated and 57 regulatory actions taken, and no documented decision rationale is available for the 91 signals (about 63 per cent) that did not result in a recorded regulatory action.
+**Evidence.** About 6.8 million AusVaxSafety responses collected; 148 to 150 signals investigated and 57 actions taken (see the note above); no documented pathway connecting active-surveillance outputs to specific signals or actions; the OAIC searches omitted "AusVaxSafety" as a search term; QON 559 does not mention AusVaxSafety in the TGA's formal answer on collaborations, despite Strategy 2.4. Peer-reviewed practice (Malikova 2020) describes signal management as including tracked, documented actions at every stage; against that benchmark, the absence of a documented pathway is a material traceability gap. CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in action. TGA reports 150 signals investigated and 57 regulatory actions taken, and no documented decision rationale is available for the 93 signals (about 62 per cent) that did not result in a recorded regulatory action.
 
 **Finding.** Major non-conformity. No objective evidence of a documented pathway from active surveillance to regulatory action.
 
