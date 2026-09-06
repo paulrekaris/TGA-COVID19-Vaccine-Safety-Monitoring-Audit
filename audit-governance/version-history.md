@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 5 September 2026
+**Last updated:** 7 September 2026
 
 
 ---
@@ -74,7 +74,7 @@
 - Corrected attribution of Commonwealth records and performance obligations across the audit corpus. Duties under ss 37–39 of the *Public Governance, Performance and Accountability Act 2013* and relevant PGPA Rule provisions are attributed to the accountable authority of the Department of Health and Aged Care, within which the TGA operates, while the TGA remains the operational subject of the audit.
 - Applied the corrected attribution and statutory performance wording across the main audit report, conformity assessment and supporting documentation.
 
-### FOI 25-0166 and OAIC MR25/01153
+### FOI 25-0166, OAIC MR25/01153 and Ombudsman case
 
 - Revised FOI 25-0166 and OAIC MR25/01153 references for legal and evidentiary precision.
 - Verified the 24 April 2025 consultation notice as the source for the TGA estimate of more than 399 documents containing 3,926 pages within scope of the request, with the total stated as likely to be higher. Standardised this attribution across the repository.
@@ -83,6 +83,7 @@
 - Removed unsupported or overly broad characterisations identified during source-accuracy review, including motive attribution and claims that the identified documents had been classified by Plan objective.
 - Refined the comparison of TGA search methodology to focus on the documented output-specific search gap. Removed the non-reconciling "9 of 14 / 64% gap" calculation and "12 vs 2 conceptual categories / 6x" comparison while retaining the factual comparison of 14 versus 8 search terms.
 - Removed the previously asserted FOI Guidelines citation error after verification of the underlying reference.
+- Update Commonwealth Ombudsman complaint 2025-806374 status following resubmission of supporting material.
 
 ### Evidence searches and temporal scope
 
