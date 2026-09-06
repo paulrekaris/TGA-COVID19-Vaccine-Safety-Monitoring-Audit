@@ -8,7 +8,7 @@
 - [Purpose](#purpose)
 - [Scope](#scope)
 - [Classification Rules](#classification-rules)
-- [Maintenance](#maintenance)
+- [Maintenance Policy](#maintenance-policy)
 - [Guiding Standards](#guiding-standards)
 - [Implementation](#implementation)
 - [Release Workflow](#release-workflow)
@@ -37,9 +37,11 @@ A major update (X.0.0) is a substantive change that materially affects the struc
 
 Blockchain verification is applied only to major updates (X.0.0) or to releases designated as stable reference points following a sustained period of inactivity or external citation requirements. Patch-level corrections and minor updates are excluded to ensure blockchain timestamps reflect stable, publication-relevant versions rather than routine iterative changes.
 
-## Maintenance
+## Maintenance Policy
 
-Best efforts are made to document substantive changes. The Version History log is maintained on a best‑efforts basis and is not exhaustive. For a complete record of all changes, refer to the repository's commit history.
+The repository is updated for material new evidence, significant corrections, substantive methodological or analytical changes, major developments in related oversight proceedings, or publication-related revisions. Routine procedural developments, minor correspondence and other changes that do not materially affect the research record may not result in an update.
+
+Best efforts are made to document substantive changes. The Version History log is maintained on a best-efforts basis and is not exhaustive. For a complete record of all changes, refer to the repository's commit history.
 
 ## Guiding Standards
 
