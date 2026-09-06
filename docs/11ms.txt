@@ -13,7 +13,7 @@ Paul Rekaris is an independent researcher and public policy analyst with
 30 years' experience spanning regulatory reform, legislative interpretation,
 governance, compliance and risk across government, higher education and finance.
 
-## Scope
+**Scope**
 
 The audit assesses whether implementation of the TGA's enhanced monitoring
 commitments can be verified from the documentary record. It does not find
@@ -25,7 +25,7 @@ from the TGA's own Plan commitments. Record-keeping and performance duties
 under the PGPA Act attach to the accountable authority of the Department,
 not to the TGA or to the Plan.
 
-## Regulatory Context
+**Regulatory context**
 
 The analysis maps the relationship between the National Cabinet-endorsed
 Australian COVID-19 Vaccination Policy commitment to enhanced safety
@@ -46,7 +46,7 @@ confirmatory-study requirements. The audit did not identify a corresponding
 assessment in those records of implementation of the TGA's February 2021
 Safety Monitoring Plan or its 17 numbered strategy items.
 
-## Key Finding
+**Key finding**
 
 Of 19 audited outputs, comprising the Plan's 17 numbered strategy items and
 two additional governance outputs, 3 (16%) were assessed as Fully Documented,
@@ -55,7 +55,7 @@ two additional governance outputs, 3 (16%) were assessed as Fully Documented,
 These classifications concern the documentary evidence available to verify
 implementation. They do not establish that undocumented activities did not occur.
 
-## Research Principles
+**Research principles**
 
 The audit is grounded in principles of public accountability and transparency:
 where public institutions make significant commitments, their implementation
@@ -73,7 +73,7 @@ is produced. A classification of Not Documented is therefore not a finding
 that an activity did not occur; production of sufficient relevant evidence
 can change the corresponding assessment.
 
-## Parliamentary and Oversight Context
+**Parliamentary and oversight context**
 
 The author's FOI work was subsequently taken up in questioning of senior TGA
 officials in the Australian Senate. The audit and related research findings
@@ -84,6 +84,40 @@ two active oversight matters: an Information Commissioner review concerning
 access to Plan-implementation records (MR25/01153) and a Commonwealth
 Ombudsman complaint concerning related FOI and administrative issues
 (2025-806374).
+
+**Interpretation**
+
+"Not Documented" means that sufficient locatable documentary evidence was
+not identified to verify the relevant activity.
+
+The audit distinguishes routine pharmacovigilance from the enhanced monitoring
+commitments described in the February 2021 Plan. Evidence of routine
+pharmacovigilance does not by itself establish implementation of each Plan
+commitment.
+
+The audit assesses documentation, governance and regulatory accountability.
+It does not assess the clinical safety or efficacy of COVID-19 vaccines or
+the appropriateness of individual regulatory decisions.
+
+**Research status**
+
+The audit report is an independent research output and has not itself been
+formally peer reviewed. Research papers arising from the project have been
+submitted for academic peer review.
+
+All primary-source evidence, methodology and assessment materials are made
+available to support independent scrutiny, replication and correction.
+
+**Preferred citation**
+
+Rekaris, P. (2026). Documentation Gap Analysis: Independent Audit of
+TGA COVID-19 Vaccine Safety Monitoring Plan. Zenodo.
+https://doi.org/10.5281/zenodo.17731054
+
+**Contact**
+
+Email: rekasp@protonmail.com
+ORCID: https://orcid.org/0009-0000-1338-9578
 
 ## Key Resources
 
@@ -100,39 +134,3 @@ Ombudsman complaint concerning related FOI and administrative issues
 - [Mendeley Data](https://doi.org/10.17632/y5wmt6f8j9): Companion dataset archive.
 - [SocArXiv](https://doi.org/10.31235/osf.io/sb4gz): Social-science preprint archive.
 - [National Library of Australia](https://nla.gov.au/nla.obj-4238332288): National Library of Australia archive record.
-
-## Citation
-
-Preferred citation:
-
-Rekaris, P. (2026). Documentation Gap Analysis: Independent Audit of
-TGA COVID-19 Vaccine Safety Monitoring Plan. Zenodo.
-https://doi.org/10.5281/zenodo.17731054
-
-## Interpretation
-
-"Not Documented" means that sufficient locatable documentary evidence was
-not identified to verify the relevant activity.
-
-The audit distinguishes routine pharmacovigilance from the enhanced monitoring
-commitments described in the February 2021 Plan. Evidence of routine
-pharmacovigilance does not by itself establish implementation of each Plan
-commitment.
-
-The audit assesses documentation, governance and regulatory accountability.
-It does not assess the clinical safety or efficacy of COVID-19 vaccines or
-the appropriateness of individual regulatory decisions.
-
-## Research Status
-
-The audit report is an independent research output and has not itself been
-formally peer reviewed. Research papers arising from the project have been
-submitted for academic peer review.
-
-All primary-source evidence, methodology and assessment materials are made
-available to support independent scrutiny, replication and correction.
-
-## Contact
-
-- [ORCID](https://orcid.org/0009-0000-1338-9578): Paul Rekaris
-- Email: rekasp@protonmail.com
