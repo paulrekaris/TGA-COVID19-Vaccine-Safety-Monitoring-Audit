@@ -13,8 +13,7 @@ This complaint was submitted following documented contradictions between TGA's p
 The earlier FOI 3643 and OAIC review MR22/00538 established the initial pattern of TGA resistance to transparency, which escalated through FOI 25-0166 and MR25/01153.
 
 ## Status
-Under review. The Ombudsman confirmed by telephone on 7 May 2026 that the complaint had not yet been allocated to a case officer, with no timeframe available for allocation; the Ombudsman's office operates its own internal triage system. The applicant may be contacted by telephone or email once a case officer is allocated. The Ombudsman's office confirmed it last received correspondence from the applicant on 1 May 2026.
+Under review. On 26 August 2026, the Commonwealth Ombudsman contacted the applicant regarding complaint 2025-806374 and advised that attachments originally submitted with the complaint were recorded as 0 KB/corrupted. The Ombudsman requested that the relevant material be resubmitted.
+The applicant reconstructed the complaint record and resubmitted the requested supporting material to the Commonwealth Ombudsman on 1 September 2026. The matter remains under review. This folder will be updated when further information becomes available or when the Commonwealth Ombudsman completes its review.
 
-No further update has been received since 7 May 2026. This folder will be updated when further information becomes available or when the Commonwealth Ombudsman completes their review.
-
-**Last updated**: 5 August 2026
+**Last updated**: 7 September 2026
