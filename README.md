@@ -177,7 +177,7 @@ On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate
 
 ## Publications
 
-This audit is part of a broader research programme on independent regulatory accountability. The audit report itself is published as a preprint on SSRN, with companion materials archived across multiple preservation platforms. Two papers from this research program are currently under academic peer review at international journals.
+This audit is part of a broader research programme on independent regulatory accountability. The audit report itself is published as a preprint on SSRN, with companion materials archived across multiple preservation platforms. 
 
 For the complete list of publications, preprints, and research outputs related to this work, see [PUBLICATIONS.md](PUBLICATIONS.md).
 
