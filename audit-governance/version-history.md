@@ -145,7 +145,7 @@
 
 - Consolidated detailed version history and release documentation in the GitHub repository, with the main audit report retaining its current version identifier and release date and directing readers to GitHub for the complete version history and release notes.
 - Previously published and archived report versions remain unchanged and continue to preserve the version information contained in those releases.
-
+- Add repository maintenance policy defining thresholds for substantive updates.
 
 ## Version 1.9.4 (5 August 2026)
 
