@@ -122,7 +122,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [Legal Disclaimer](#legal-disclaimer)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-- [Version History](#version-history)
+- [Version History and Maintenance](#version-history-and-maintenance)
 - [Permanent Archive](#permanent-archive)
 
 
@@ -1042,12 +1042,14 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 -----
 
-## Version History
+## Version History and Maintenance
 
 **Document Version:** 1.9.5   
 **Last Updated:** 7 September 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
+
+**Maintenance:** Updates are generally limited to material new evidence, significant corrections and other substantive developments. See the [Version Policy](audit-governance/version-control-policy.md) for further details.
 
 For detailed version history and changelog, see [Version History](audit-governance/version-history.md)
 
