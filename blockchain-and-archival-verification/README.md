@@ -41,7 +41,7 @@ This audit is protected by multiple verification and archival methods including 
 
 ## Rationale for Platform Selection
 
-Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic ards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
+Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic standards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
 
 The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuff Safe") — the established digital preservation ard that no single archive, platform, or jurisdiction should be a single point of failure for material of enduring public significance.
 
