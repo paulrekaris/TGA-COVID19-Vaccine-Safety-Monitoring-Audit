@@ -670,7 +670,7 @@ https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - National Library of Australia – Legal Deposit: NED476889S65171 https://nla.gov.au/nla.obj-4238332288
 - Bitcoin timestamp: 29 March 2026
 - Arweave (blockchain): [Permanent Storage](blockchain-and-archival-verification/)
-- Internet Archive: [Direct Upload](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.5) | [Wayback Machine](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
+- Internet Archive: [Direct Upload](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5) | [Wayback Machine](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*)
 
 **Verification Documentation:**  
 [Blockchain and Archival Verification Records](blockchain-and-archival-verification/README.md)
