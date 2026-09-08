@@ -38,7 +38,7 @@ The audit found that 16 of 19 outputs are partially documented or undocumented, 
 
 ### Who conducted this research?
 
-Paul Rekaris is an independent researcher and public policy analyst. The audit applies ISO 19011:2018 to public and freedom-of-information records. The research has been cited in the Australian Senate and submitted to the Australian National Audit Office. It is an independent citizen audit and invites the formal audit its findings call for.
+The audit was conducted independently by Paul Rekaris, a public policy analyst with extensive experience in government policy, governance and evidence-based analysis. It applies the international auditing standard ISO 19011:2018 to public and freedom-of-information records. The research has been cited in the Australian Senate and provided for consideration to the Senate Community Affairs Legislation Committee and the Australian National Audit Office. It is an independent citizen audit and invites a formal audit of its findings.
 
 ### Can the findings be checked?
 
