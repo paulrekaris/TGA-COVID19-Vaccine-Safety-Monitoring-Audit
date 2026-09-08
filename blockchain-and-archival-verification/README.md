@@ -50,9 +50,9 @@ The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuf
 - **SocArXiv/OSF**: Primary open-access preprint repository for social science; registerd by ORCID; hosted by the Center for Open Science
 
 **Reproducibility and Archiving**
+- **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
 - **Zenodo**: CERN-backed permanent archive; assigns versioned DOIs enabling precise academic citation; concept DOI captures all versions
 - **Harvard Dataverse**: Harvard University research data repository; DOI-registered scholarly dataset archive supporting long-term preservation, discoverability, citation, and reproducibility
-- **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
 - **Mendeley Data**: Elsevier dataset repository powered by Digital Commons Data; DOI-supported, archived in perpetuity by DANS (Dutch national research data repository, Royal Netherlands Academy of Arts and Sciences); FAIR data principles; companion dataset to SSRN preprint
 
 **National Permanence and Decentralised Verification**
