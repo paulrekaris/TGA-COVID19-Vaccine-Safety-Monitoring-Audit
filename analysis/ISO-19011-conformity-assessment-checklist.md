@@ -756,7 +756,7 @@ All URLs were verified as accessible in January 2026.
 67. SSRN (DOI 10.2139/ssrn.6333058). https://doi.org/10.2139/ssrn.6333058
 68. SocArXiv (DOI 10.31235/osf.io/sb4gz). https://doi.org/10.31235/osf.io/sb4gz
 69. National Library of Australia (Australian Web Archive). https://webarchive.nla.gov.au/tep/221557
-70. Internet Archive (v1.9.3). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.3
+70. Internet Archive (v1.9.5). https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-final-v-1.9.5
 71. Arweave permanent storage. https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 72. TGA FOI Disclosure Log. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 73. AustLII: OAIC decision AICmr 54. https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html
@@ -848,7 +848,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0** — released 5 August 2026  
-*Last updated 24 August 2026*
+*Last updated 8 September 2026*
 
 [Back to top](#table-of-contents)
 
