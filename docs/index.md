@@ -36,6 +36,14 @@ The purpose of this audit is best understood in the context of how the enhanced 
 
 The audit found that 16 of 19 outputs are partially documented or undocumented, and the regulator could produce no implementation records when directed to search for them.
 
+### Didn't Australia already have extensive vaccine safety monitoring?
+
+Yes. The audit does not dispute that routine pharmacovigilance and active surveillance occurred. It asks whether the enhanced monitoring promised under the National Cabinet-endorsed Australian COVID-19 Vaccination Policy, and subsequently set out in the TGA's February 2021 Plan, can be independently verified.
+
+AusVaxSafety, for example, conducted 6.8 million post-vaccination surveys. Strategy 2.4 of the Plan committed to "Establish real-time collaboration with COVID-19 active surveillance activities for safety signal detection and analysis." The question is therefore not whether AusVaxSafety existed or collected substantial data, but whether the documentary record demonstrates that collaboration and how active-surveillance data were integrated with TGA signal detection and analysis to deliver the commitment. The available record does not establish this.
+
+The Plan gave operational form to a national commitment to enhanced safety monitoring for a mass vaccination rollout. Whether implementation was centralised or distributed, the record should be capable of establishing what was implemented and how performance was assessed, consistent with Commonwealth recordkeeping and performance requirements. Verifying the Plan as an integrated framework also requires evidence of how its elements worked together and how decisions were made.
+
 ### Who conducted this research?
 
 The audit was conducted independently by Paul Rekaris, a public policy analyst. It applies the international auditing standard ISO 19011:2018 to public and freedom-of-information records. The research has been cited in the Australian Senate and provided for consideration to the Senate Community Affairs Legislation Committee and the Australian National Audit Office. It is an independent citizen audit and invites a formal audit of its findings.
@@ -46,7 +54,7 @@ Yes. Every finding is traceable to a public or FOI-released source, and the full
 
 ### Can the audit be proven wrong?
 
-Yes. The audit adopts a falsifiability principle: every finding is stated so that it can be tested against evidence and revised if the evidence requires. Any output classified as Not Documented can be changed by production of sufficient relevant documentary evidence. The findings hold only while the required documentary record remains absent or insufficient, and correcting evidence would be incorporated with transparent version history.
+Yes. The audit adopts a falsifiability principle: every finding can be tested against evidence and revised if the evidence requires. Any output classified as not documented can be overturned by the production of a single relevant record. The findings hold only while the documentary record remains absent, and any correcting evidence would be incorporated with transparent version history.
 
 ## Permanent record
 
