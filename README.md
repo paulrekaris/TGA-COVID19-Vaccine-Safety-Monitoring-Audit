@@ -134,7 +134,7 @@ During Australia's largest medical intervention in history, 68.4 million COVID-1
 
 Enhanced monitoring was presented in the relevant policy and regulatory materials as the compensating safeguard associated with provisional approval. The TGA's February 2021 Safety Plan set out that framework, and this audit examines whether it was implemented and documented in ways that enable independent verification of those commitments.
 
-**Intended for:** Legal evidence, liamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
+**Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
 **Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and  guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
 
@@ -142,7 +142,7 @@ Enhanced monitoring was presented in the relevant policy and regulatory material
 
 **ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments.
 
-**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
+**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for tranparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
 **ANAO Performance Audit Standards** — Performance assessment against published plans and criteria, consistent with ANAO performance audit methodology and ISSAI standards. 
 
