@@ -31,7 +31,7 @@
 - [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) – Primary, self-contained report with fully cited references, primary source 
   materials, findings, research methodology, and implementation status by Safety Plan objective.
 
-- [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines,  audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
+- [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – Independent conformity assessment of TGA's COVID-19 Vaccine Safety Monitoring Plan implementation using ISO 19011:2018 guidelines, audit standards, and four-tier evidence hierarchy. Documents 7 major non-conformities and overall NON-CONFORMING rating.
 
 - [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of a sample of representative TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports.
 
@@ -136,13 +136,13 @@ Enhanced monitoring was presented in the relevant policy and regulatory material
 
 **Intended for:** Legal evidence, parliamentary inquiry, FOI appeals, accountability audits, research, and historical public record.
 
-**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and  guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
+**Methodology:** Evidence-based analysis using publicly available material, lawful FOI processes, and audit principles from ISO 19011:2018 and ANAO guidance, benchmarked against the TGA pharmacovigilance framework and international pharmacovigilance standards (ICH E2E, CIOMS).
 
 ## Guiding Standards
 
 **ISO 19011:2018** — Guidelines for auditing management systems; provides the methodological framework for evidence-based, systematic, independent assessment of documented implementation against stated commitments.
 
-**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for tranparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
+**ISO 15489-1:2016** - Information and documentation — Records management; provides the framework for transparency, integrity, accountability, and availability of records. Applied through Git version control, structured changelogs, blockchain timestamping, and multi-layer permanent archiving ensuring the audit trail cannot be retrospectively modified.
 
 **ANAO Performance Audit Standards** — Performance assessment against published plans and criteria, consistent with ANAO performance audit methodology and ISSAI standards. 
 
@@ -169,9 +169,9 @@ References in this repository to enhanced monitoring requirements and commitment
 
 ## Australian Senate Citation
 
-[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/liamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003)
+[![Hansard](https://img.shields.io/badge/Hansard-Senate%2024%2F03%2F2026-913831?labelColor=913831&style=flat-square)](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003)
 
-On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication ([doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now t of the permanent official liamentary record of Australia. 
+On 24 March 2026, Senator Malcolm Roberts cited this audit by name in the Senate, referencing key findings from the SSRN publication ([doi.org/10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)), including the absence of implementation records, OAIC confirmation, Senate testimony that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results. The audit's findings are now part of the permanent official parliamentary record of Australia. 
 
 [Watch the Australian Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900) | [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 
@@ -209,7 +209,7 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring commitment set out in the Cabinet-endorsed policy and the February 2021 Plan for 68.4 million doses.
 > 
 > #### 3. Only 16% of Plan outputs have complete implementation documentation  
-> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are tially documented, and 6 have no documentation identified despite systematic searches.  
+> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale).
@@ -652,7 +652,7 @@ Australia administered 68.4 million COVID‑19 vaccine doses under provisional a
 After four years of systematic FOI requests and documentary review, TGA has not demonstrated that:
 
 - It systematically implemented the enhanced monitoring framework described in the February 2021 Plan.  
-- Enhanced monitoring was distinct from routine “day‑to‑day processes”, as committed under the provisional approval arrangements for Covid-19 vaccines.  
+- Enhanced monitoring was distinct from routine “day‑to‑day processes”, as committed under the provisional approval arrangements for COVID-19 vaccines.  
 - It maintained audit trails linking 150 investigated signals to 57 regulatory actions, as international standards envisage.  
 - It verified, and documented verification of, the Plan's enhanced-monitoring commitments before 68.4 million doses transitioned to full registration.  
 - It established the governance, oversight and performance‑measurement arrangements its own Plan indicated.
@@ -663,7 +663,7 @@ The problem is straightforward: **TGA made commitments to Australians about enha
 
 ### Assessment Framework
 
-This audit applies systematic evidence based principles consistent with:
+This audit applies systematic evidence-based principles consistent with:
 
 - **ISO 19011:2018 – Guidelines for Auditing Management Systems** - [ISO 19011 Management Systems Audit Checklist](analysis/ISO-19011-conformity-assessment-checklist.md)
   - Evidence-based approach (Clause 4 f)
@@ -780,7 +780,7 @@ FOI 5082 Request: TGA's internal documents on "COVID-19 vaccine pharmacovigilanc
 
 **Documents Released**
 
-Internal blueprint documenting routine pharmacovigilance baseline (pre-2021) with COVID-19 signal detection implementation docs (19 July–24 August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes," including staffing/automation (APS5/6 for DPAR/chi-squared, EL1 for MaxSPRT/O/E, 99-100% QLIK/Stata/R).
+Internal blueprint documenting routine pharmacovigilance baseline (pre-2021) with COVID-19 signal detection implementation docs (19 July–24 August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes," including staffing/automation (APS5/6 for DPAR/chi-squared, EL1 for MaxSPRT/O/E, 99–100% QLIK/Stata/R).
 
 Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency/chi-squared comparators) documented without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
@@ -848,7 +848,7 @@ The comprehensive audit report includes:
 - Executive summary with key findings and implications.  
 - Systematic assessment of all 19 Plan outputs across 17 numbered strategies.  
 - Detailed evidence analysis using the four‑tier evidence hierarchy.  
-- Provisional‑Approval Lifecycle Verification Gap   
+- Provisional‑Approval Lifecycle Verification Gap.   
 - Legislative framework analysis (*Therapeutic Goods Act* ss 22C, 23AA, 29, and related guidance).  
 - Governance and accountability analysis.  
 - Structured responses to likely counter‑arguments.  
@@ -920,7 +920,7 @@ The audit's open review architecture — public version control, forkability, pe
 
 This work is free to use, share and adapt with appropriate attribution. The open licence is intentional: regulatory‑accountability research should be freely accessible. You are encouraged to build on this methodology, replicate the approach, and use these findings in advocacy, research or oversight activities.
 
-Full license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Full licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Citation
 
@@ -989,7 +989,7 @@ The available record does not provide the level of documentary assurance needed 
 
 ## Peer-Review Status
 
-This work has not yet been formally peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and four-tier evidence hierarchy to enable independent verification and formal peer review. 
+This work has not yet been formally peer-reviewed or independently verified. It is published to encourage independent verification, peer review, and scrutiny by researchers, citizens, oversight bodies, and other interested parties. The methodology employs recognised audit standards (ISO 19011:2018, ANAO performance audit framework) with documented search protocols and a four-tier evidence hierarchy to enable independent verification and formal peer review. 
 
 ### Open Review Architecture
 
@@ -1045,7 +1045,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.5   
-**Last Updated:** 7 September 2026  
+**Last Updated:** 11 September 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
@@ -1083,7 +1083,7 @@ This audit has been permanently archived and cryptographically timestamped:
 
 - **Internet Archive:** [Full Repository (v1.9.5)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5) | [Audit Report PDF](https://archive.org/details/documentation-gap-analysis-audit-report_20260819) | [Web Snapshots](https://web.archive.org/web/*/github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit*) Complete archive and dated snapshots proving public web presence
 
-The archival stack was designed to ensure dissemination, reproducibility, and national permanence.  The rationale is documented in the [Permanent Archive README](blockchain-and-archival-verification/README.md#rationale-for-platform-selection).  
+The archival stack was designed to ensure dissemination, reproducibility, and national permanence. The rationale is documented in the [Permanent Archive README](blockchain-and-archival-verification/README.md#rationale-for-platform-selection).  
 
 
 [^plan-scope]: The Plan specifies 17 numbered pharmacovigilance strategies across five objectives. This audit assessed these 17 outputs together with two additional governance outputs: Implementation oversight and Performance measurement—necessary to evaluate implementation effectiveness and organisational performance. These governance elements reflect requirements under the Public Governance, Performance and Accountability Act 2013 s37(2) and are consistent with the definition of audit criteria (ISO 19011:2018 cl 5.5.2) and audit programme objectives (cl 5.2). Total: 19 outputs audited.
