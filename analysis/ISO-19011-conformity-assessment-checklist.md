@@ -12,9 +12,9 @@ ISO 19011:2018 was the edition in force throughout the period under audit and wh
 **Audit subject:** TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021)          
 **Audit conducted:** October 2025 – January 2026          
 **Evidence collection:** 2022 – 2026              
-**Period under audit:** February 2021 – December 2025            
+**Period under audit:** February 2021 – January 2026            
 **Audit type:** Independent, second-party (external interested party) documentation-compliance audit          
-**Overall conclusion:** Does not conform (7  non-conformities)              
+**Overall conclusion:** Does not conform (7 non-conformities)              
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ ISO 19011:2018 was the edition in force throughout the period under audit and wh
 
 Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implementation, conducted October 2025 to January 2026 using ISO 19011:2018 as the audit method, with ANAO performance-audit methodology and Audit Insights, and open-source (OSINT) collection practice.
 
-**Overall conclusion:** Does not conform. Seven  non-conformities are recorded.
+**Overall conclusion:** Does not conform. Seven non-conformities are recorded.
 
 **Conformity status:** 3 of 19 audited outputs (16 per cent) are fully documented; 16 outputs (84 per cent) are partially documented or not documented.
 
@@ -76,7 +76,7 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 - FOI 5275: the TGA does not hold the incidence data Strategy 2.3 required, indicating the AIR-denominator calculation was not performed.
 - FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review, against the TGA's own Work Instruction threshold (FOI 4029-06).
 - Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and gaps against ICH E2E and CIOMS Working Group VIII practice.
-- Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)** , confirming the repository contains all available Plan implementation evidence; no additional records were missed.
+- Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)**, confirming the repository contains all available Plan implementation evidence; no additional records were missed.
 - TGA Performance Reports 2022-23 and 2023-24 contain no explicit references to the COVID-19 Vaccine Safety Monitoring Plan.
 
 **Recommended action.** A corrective-action programme covering systematic tracking, documentation standards, system integration, organisational learning, and transparency.
@@ -136,7 +136,7 @@ The audit uses two forms of reasoning.
 - **GitHub Repository:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
 - **Zenodo DOI:** 10.5281/zenodo.17731054 (permanent scientific archive) https://doi.org/10.5281/zenodo.17731054
 - **Harvard Dataverse:** 10.7910/DVN/BDKZQJ (Harvard University research data repository) https://doi.org/10.7910/DVN/BDKZQJ
-- **SSRN:** 10.2139/ssrn.33058 (social science preprint repository) https://doi.org/10.2139/ssrn.6333058
+- **SSRN:** 10.2139/ssrn.6333058 (social science preprint repository) https://doi.org/10.2139/ssrn.6333058
 - **SocArXiv:** 10.31235/osf.io/sb4gz (open access preprint repository) https://doi.org/10.31235/osf.io/sb4gz
 - **National Library of Australia (AWA):** https://webarchive.nla.gov.au/awa/20260205171443/https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/tree/main/audit-governance
 - **Internet Archive:** https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-report
@@ -263,7 +263,7 @@ This section records the ISO 19011 programme-management steps and their status.
 
 **Risks and opportunities.** Risks: political sensitivity; FOI-only access; solo-researcher capacity; institutional resistance. Mitigations: strict focus on documentation rather than clinical or causality claims; explicit delimitation as a documentation-gap audit; use of FOI and OAIC escalation to reduce missing-records risk; an open repository enabling external validation and correction. Opportunities: a replicable model for citizen audits; a durable public record; input to future crisis-response governance.
 
-**Extent and scope.** Subject: implementation of the Plan (February 2021). Outputs: the 17 strategies plus two governance outputs, 19 in total. Evidence base: FOI responses (2,218+ pages; 531+ TRIM folders), TGA publications, Senate evidence, relevant academic literature. Time period: February 2021 to December 2025. Geographic scope: national, focused on Commonwealth TGA responsibilities and inter-jurisdictional coordination. The two governance outputs reflect standard public-administration obligations applying to the Department of Health and Aged Care (PGPA Act 2013 s 37 (records), s 38 (measure and assess performance), s 39 (annual performance statements); PGPA Rule s 16F(2)).
+**Extent and scope.** Subject: implementation of the Plan (February 2021). Outputs: the 17 strategies plus two governance outputs, 19 in total. Evidence base: FOI responses (2,218+ pages; 531+ TRIM folders), TGA publications, Senate evidence, relevant academic literature. Time period: February 2021 to January 2026. Geographic scope: national, focused on Commonwealth TGA responsibilities and inter-jurisdictional coordination. The two governance outputs reflect standard public-administration obligations applying to the Department of Health and Aged Care (PGPA Act 2013 s 37 (records), s 38 (measure and assess performance), s 39 (annual performance statements); PGPA Rule s 16F(2)).
 
 **Resources.** Four years of investigation; personal funding only; a single experienced researcher; FOI and OAIC review processes; a GitHub repository; Zenodo archiving. Resources were appropriate to the scope and objectives.
 
@@ -314,7 +314,7 @@ Where the analysis examined the content and method of the safety reports in deta
 
 ### Systematic FOI Disclosure Log Review
 
-To verify that no Plan implementation evidence was missed, a systematic review of TGA's complete FOI disclosure log (500+ releases, July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)** . Method: keyword search across the full log using Plan-aligned terms, with matches cross-referenced against the repository. Results: 25 COVID-safety FOIs identified; core documents already in the repository (FOI 4029, FOI 5082); no new high-value documents; no Plan-framework references. Three promising candidates (FOI 25-0220, FOI 2389-01, FOI 3727-04) were examined in full and contained raw AEFI data, individual case reviews, or pre-approval evaluations without Plan-framework references. The documentation gap is therefore systemic across the FOI record reviewed, not the product of selective sampling. The repository contains all available Plan implementation evidence from the complete FOI corpus.
+To verify that no Plan implementation evidence was missed, a systematic review of TGA's complete FOI disclosure log (500+ releases, July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)**. Method: keyword search across the full log using Plan-aligned terms, with matches cross-referenced against the repository. Results: 25 COVID-safety FOIs identified; core documents already in the repository (FOI 4029, FOI 5082); no new high-value documents; no Plan-framework references. Three promising candidates (FOI 25-0220, FOI 2389-01, FOI 3727-04) were examined in full and contained raw AEFI data, individual case reviews, or pre-approval evaluations without Plan-framework references. The documentation gap is therefore systemic across the FOI record reviewed, not the product of selective sampling. The repository contains all available Plan implementation evidence from the complete FOI corpus.
 
 ### Comparative Search Methodology Analysis
 
@@ -474,7 +474,7 @@ Per ISO 19011:2018, 6.4.9, conclusions address the extent of conformity with the
 
 With that stated: ICAO and IAEA frameworks treat safety management as an auditable system with documented objectives, performance indicators, continuous monitoring, and traceable decision records enabling external oversight (ICAO, 2018; IAEA, 2016). On the disclosable record, the TGA's COVID-19 monitoring lacks comparable documented performance objectives, signal-to-action traceability, and periodic documented review against the Plan, a gap underlined by the Senate evidence that monitoring relied on "day-to-day processes" never systematically tracked. High-reliability theory (Weick and Sutcliffe, 2015) describes a documentation-rich, anticipatory posture; the disclosable record here is closer to a documentation-light one, though the asymmetry caveat above applies throughout.
 
-In healthcare, high-reliability and patient-safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time. The Manchester Patient Safety Assessment Framework (MaPSAF), provides a recognised tool for evaluating safety culture in healthcare settings. TGA's limited evidence of systematic learning from expert warnings, absence of a documented signal-to-action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data-driven learning cultures.
+In healthcare, high-reliability and patient-safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time. The Manchester Patient Safety Assessment Framework (MaPSAF) provides a recognised tool for evaluating safety culture in healthcare settings. TGA's limited evidence of systematic learning from expert warnings, absence of a documented signal-to-action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data-driven learning cultures.
 
 **The regulator's own standard for industry.** The TGA requires sponsors to maintain documented quality systems, audit trails and performance tracking under GMP, GCP and ICH E2E-compliant pharmacovigilance, as conditions of approval. On the disclosable record, the TGA's own COVID-19 monitoring does not demonstrate the same documentation discipline it requires of industry. That asymmetry is the accountability point.
 
@@ -843,12 +843,12 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 **Audit lead:** Paul Rekaris, independent policy researcher  
 **Audit framework:** ISO 19011:2018, with ANAO and open-source methods  
 **Audit type:** independent, second-party documentation-compliance audit  
-**Overall conclusion:** does not conform (7  non-conformities)  
+**Overall conclusion:** does not conform (7 non-conformities)  
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0** — released 5 August 2026  
-*Last updated 8 September 2026*
+***Last updated:** 11 September 2026
 
 [Back to top](#table-of-contents)
 
