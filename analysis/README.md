@@ -22,11 +22,11 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [TGA Senate QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md) – Gap analysis of TGA's formal written answer to Senate Question on Notice 559 (SQ25-001584, October 2025) assessing TGA's stated positions against all five Safety Monitoring Plan strategies, mapping responses to audit findings, and documenting the 93-signal gap derived from TGA's own parliamentary figures — consistent with ISO 19011 conformity assessment and main audit findings
   
-- [TGA Senate QON SQ13-19 Gap Analysis](tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards against the four-layer governance hierarchy framework consistent with the main audit
+- [TGA Senate QON SQ13-19 Gap Analysis](tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards, using the four-layer governance hierarchy framework consistent with the main audit
 
 ## Replication Materials
 
-- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 assessed Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column (column D) to see classifications by output. The Rating Criteria sheet defines each classification; the Summary sheet pre-computes the headline statistics. For variable definitions and replication code in Python, R, and Stata, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
+- [Output Assessment Evidence Matrix (Excel Workbook)](output-assessment-evidence-matrix.xlsx) – Granular evidence matrix assessing all 19 Plan outputs. Open the file, go to the Evidence Matrix sheet (19 rows, one per assessed Plan output), filter the `Status` column (column D) to see classifications by output. The Rating Criteria sheet defines each classification; the Summary sheet pre-computes the headline statistics. For variable definitions and replication code in Python, R, and Stata, see the [Dataset Codebook](dataset-codebook.md) and [Replication README](replication-readme.md).
 
 - [Dataset Codebook](dataset-codebook.md) – Documents variables, classification codes, evidence tiers, and rating scales used in the evidence matrix. Defines documentation status classifications, severity rating scale, analytical objective categories, and all matrix variables.
 
@@ -40,5 +40,5 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
 
-**Last Updated:** 25 August 2026    
+**Last Updated:** 11 September 2026    
 **Licence:** CC BY 4.0
