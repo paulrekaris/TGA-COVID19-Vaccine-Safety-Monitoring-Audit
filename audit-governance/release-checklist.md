@@ -31,7 +31,7 @@
 - Major evidentiary milestones
 - Before critical submissions (OAIC, Ombudsman, Senate)
 - Annual archival snapshots
-- When permanent immutable proof is strategically valuable
+- When permanent cryptographic proof is strategically valuable
 
 **Skip for:** Routine documentation updates, minor corrections
 
@@ -79,7 +79,7 @@
 
 ---
 
-**Semantic Versioning Convention:**
+**Semantic Versioning Convention (adapted for audit context):**
 - **MAJOR (X.0.0):** Fundamental restructure or major evidentiary additions
 - **MINOR (X.Y.0):** Substantive content changes (new evidence, analysis, documents)
 - **PATCH (X.Y.Z):** Minor corrections, clarifications, metadata updates
@@ -92,14 +92,14 @@ This workflow checklist aligns with the following frameworks:
 
 **ISO 19011:2018 - Guidelines for auditing management systems**
 - https://www.iso.org/standard/70017.html
-- Phases 1 & 4 implement Clause 6.5 (preparing and distributing the audit report) and Clause 6.7 (conducting audit follow-up).
+- Phase 1 supports Clause 6.5 (preparing and distributing the audit report); Phase 4 provides post-release quality assurance and verification.
 
-**ISO 15489-1:2016 — Information and documentation — Records management**: Workflow aligns with ISO 15489-1:2016 via structured creation, controls, metadata, permanent disposition (Zenodo, blockchain), and Git version control for reproducible audit trails.
+**ISO 15489-1:2016 — Information and documentation — Records management**: Workflow aligns with ISO 15489-1:2016 via structured creation, controls, metadata, long-term preservation (Zenodo, blockchain), and Git version control for reproducible audit trails.
 - https://www.iso.org/standard/62542.html
 
 **Semantic Versioning 2.0.0**
 - https://semver.org/
-- Defines MAJOR.MINOR.PATCH increment rules applied in this repository
+- Provides the MAJOR.MINOR.PATCH adapted for this repository
 
 **Zenodo Best Practices**
 - Main documentation: https://help.zenodo.org/
@@ -109,7 +109,7 @@ This workflow checklist aligns with the following frameworks:
 
 **Data Versioning and Reproducibility**
 - Research Data Alliance: https://zenodo.org/records/3772870 (Data Versioning Principles)
-- Phase 3 blockchain verification supports cryptographic reproducibility
+- Phase 3 blockchain verification supports cryptographic verification
 
 ---
 
