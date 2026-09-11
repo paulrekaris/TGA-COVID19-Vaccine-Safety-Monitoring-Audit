@@ -43,11 +43,11 @@ This audit is protected by multiple verification and archival methods including 
 
 Archival platforms were selected across three functional categories to prevent a single point of failure and to ensure dissemination, reproducibility, and national permanence. Together they form a multi-layer stack that meets academic standards while providing forensic-grade audit verification appropriate for critical regulatory accountability research — and maximum amplification of findings.
 
-The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuff Safe") — the established digital preservation ard that no single archive, platform, or jurisdiction should be a single point of failure for material of enduring public significance.
+The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuff Safe") — the established digital preservation standard that no single archive, platform, or jurisdiction should be a single point of failure for material of enduring public significance.
 
 **Dissemination and Reach**
 - **SSRN**: World's largest social science preprint repository; maximises reach across policy, law, and public administration communities
-- **SocArXiv/OSF**: Primary open-access preprint repository for social science; registerd by ORCID; hosted by the Center for Open Science
+- **SocArXiv/OSF**: Primary open-access preprint repository for social science; registered by ORCID; hosted by the Center for Open Science
 
 **Reproducibility and Archiving**
 - **GitHub**: Live repository hosting complete methodology, evidence, and data for independent replication
@@ -61,7 +61,7 @@ The multi-layer approach follows the LOCKSS principle ("Lots of Copies Keep Stuf
 - **Arweave**: Permanent decentralised blockchain storage; cryptographically immutable
 - **Bitcoin timestamp**: OpenTimestamps OP_RETURN transaction; immutable proof-of-existence on the world's most secure blockchain
 
-The blockchain and decentralised storage layers provide tamper-proof verification aligned with OSINT methodology, ISO 19011 evidence chain requirements, and ISO 15489-1:2016 records management principles — ensuring findings remain permanently accessible and independently verifiable regardless of institutional pressure or platform failure.
+The blockchain and decentralised storage layers provide tamper-proof verification aligned with OSINT methodology, the ISO 19011 evidence-based approach, and ISO 15489-1:2016 records management principles — ensuring findings remain permanently accessible and independently verifiable regardless of institutional pressure or platform failure.
 
 ---
 
@@ -186,7 +186,7 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 **Submission Date:** 16 March 2026     
 **Accepted Date:** 17 March 2026     
-**Preprint DOI:** 10.31235/osf.io/sb4gz_v4
+**Preprint DOI:** 10.31235/osf.io/sb4gz_v12
 **Direct Link:** https://doi.org/10.31235/osf.io/sb4gz
 **Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan     
 **Author:** Paul Rekaris  
@@ -196,11 +196,11 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ### Significance
 
-SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly ards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and ORCID. The audit was accepted following pre-moderation on 17 March 2026, confirming the work meets scholarly ards for social science and policy research.
+SocArXiv is an open access preprint platform for the social sciences operated by the Center for Open Science and hosted at the University of Maryland. Pre-moderation by academic volunteers ensures minimum scholarly standards before acceptance. Acceptance ensures the audit is discoverable by social science researchers, policy analysts, and open science practitioners using OSF and ORCID. The audit was accepted following pre-moderation on 17 March 2026.
 
 ### Access
 
-**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz_v3     
+**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz_v12     
 **Supplemental Materials:** https://osf.io/jvqyt
 
 ---
@@ -244,7 +244,7 @@ Verify on-chain: [ViewBlock](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pB
 Transaction independently verified via ViewBlock explorer ([screenshot](arweave-transaction-verification-2026-03-29.png)) on 29 March 2026 (block 1,884,750; 1,468 confirmations as at that date).
 
 ### Significance   
-Arweave provides permanent, immutable storage of the complete audit archive. The file cannot be altered, removed, or taken down. Transactions are verified on the Arweave blockchain and stored permanently across the distributed network.
+Arweave provides permanent, immutable storage of the complete audit archive. The archived file is immutable once recorded on the network. Transactions are verified on the Arweave blockchain and stored across the distributed network.
 
 ### Access   
 **Current Version (v1.9.2)**      
