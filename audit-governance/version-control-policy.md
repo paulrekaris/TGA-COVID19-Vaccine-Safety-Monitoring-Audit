@@ -29,7 +29,7 @@ This version history records significant revisions and major updates to the audi
 
 ## Classification Rules
 
-### Defenition of a Major Update
+### Definition of a Major Update
 
 A major update (X.0.0) is a substantive change that materially affects the structure, methodology, scope, or interpretive conclusions of the audit. This includes changes that alter analytical frameworks, introduce or remove primary datasets or evidence classes, or meaningfully revise established findings.
 
@@ -45,8 +45,8 @@ Best efforts are made to document substantive changes. The Version History log i
 
 ## Guiding Standards
 
-**ISO 19011:2018 - Auditing Management Systems**
-- **Evidence Based Approach** (Principle 6): Documentation of corrections, enhancements, and evidence additions through iterative refinement as FOI responses, OAIC submissions, Senate testimony, and peer collaboration provide new verifiable evidence.
+**ISO 19011:2018 - Guidelines for Auditing Management Systems**
+- **Evidence-Based Approach** (Principle 6): Documentation of corrections, enhancements, and evidence additions through iterative refinement as FOI responses, OAIC submissions, Senate testimony, and peer collaboration provide new verifiable evidence.
 
 **ISO 15489-1:2016 - Records Management**
 - **Transparency**: All version changes publicly visible—every FOI response, OAIC submission update, and methodology refinement documented and traceable.
@@ -64,7 +64,7 @@ See also: [Open Access Framework](README.md#open-access-framework)
 
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from FOI releases, OAIC submissions, Senate Hansard, TGA publications, and official databases following IC tradecraft standards [ODNI, 2024](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf).
-- **Source verification**: Cross-referencing TGA statements across FOI responses, OAIC submissions, Senate testimony, and published reports to identify contradictions per OSINT evolution principles [Glassman & Kang, 2012](https://doi.org/10.1016/j.chb.2011.11.014).⁵
+- **Source verification**: Cross-referencing TGA statements across FOI responses, OAIC submissions, Senate testimony, and published reports to identify inconsistencies and contradictions [Glassman & Kang, 2012](https://doi.org/10.1016/j.chb.2011.11.014).⁵
 - **Transparent documentation**: Complete search methodology documented—FOI request scope, OAIC-directed searches, disclosure log analysis—following IC sourcing requirements [ODNI, 2024](https://www.dni.gov/files/documents/ICD/ICS-206-01.pdf) and professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
 - **Replicability**: Evidence collection process structured to enable oversight bodies to independently verify findings using identical FOI/OAIC/Senate sources, following professional OSINT standards [OSINT Foundation, 2024](https://www.osintfoundation.com/osint/Standards.asp).
 
@@ -78,7 +78,7 @@ See also: [Open Access Framework](README.md#open-access-framework)
 This audit employs comprehensive version control combining records management standards with OSINT investigative methodology:
 
 - **Git version control**: Every FOI response incorporation, OAIC submission update, and methodology refinement tracked with descriptive commit messages.
-- **Version numbering**: Major increments (e.g., 1.8, 1.9) mark significant evidence additions (new FOI releases, OAIC decisions, Senate testimony); minor increments mark corrections.
+- **Version numbering**: Major versions (e.g., 2.0.0) mark substantive changes meeting the Major Update criteria, such as major new FOI or OAIC evidence, significant Senate evidence, or material changes to the audit methodology or findings; patch-level releases (e.g., 1.9.2, 1.9.3, 1.9.4) document corrections, evidence additions, and analytical refinements that do not meet that threshold.
 - **Structured changelogs**: Human-readable history documenting what changed (new evidence), why it changed (FOI response, OAIC finding), and what remained unchanged (core findings).
 - **OSINT documentation**: FOI request methodology, OAIC search scope analysis, disclosure log sweep, and source verification processes documented in Appendix A of [Main Audit Report](../analysis/documentation-gap-analysis-audit-report.pdf) for independent replication.
 - **Permanent archiving**: Zenodo DOI, Mendeley Data DOI, Harvard Dataverse DOI, SSRN and SocArXiv preprint deposits, blockchain timestamping (Bitcoin, Arweave), National Library of Australia and Internet Archive web snapshots ensure version history survives potential GitHub removal or institutional pressure.¹⁷
@@ -128,10 +128,10 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 Blockchain verification occurs after public release rather than before to ensure cryptographic integrity of the published version:
 
 - **Authenticity principle²**: Blockchain verifies the published version with stable DOI, not a pre-release draft—this ensures verification references the canonical academic record
-- **ISO 15489-1:2016 compliance²**: Blockchain verification provides proof of existence at a point in time for the publicly accessible version—the content remains immutable while verification proves when the published version was fixed
+- **ISO 15489-1:2016 aligment²**: Blockchain verification provides proof of existence at a point in time for the publicly accessible version—the content remains immutable while verification proves when the published version was fixed
 - **OSINT standards⁶,⁸,⁹**: Verification metadata documents *when* the published evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
 - **Audit trail transparency¹³**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
-- **Flexibility**: Allows minor corrections before cryptographic lock while maintaining complete transparency through version control
+- **Flexibility**: Allows minor corrections before cryptographic timestamping while maintaining complete transparency through version control
 
 This workflow ensures the blockchain verifies the published, DOI-referenced version accessible to oversight bodies, following records management best practices for accountability infrastructure¹⁸⁻²⁰.
 
@@ -141,7 +141,7 @@ This workflow minimises complexity while maintaining verification integrity. Fol
 
 - **Single version per release**: Content and verification combined in one version (e.g., v1.9.1) rather than multiple patches, reducing version tracking overhead
 - **Sequential workflow**: Linear progression (content → release → verification) enables independent verification at each stage
-- **Permanent results**: Each phase produces immutable outputs (Git commits, GitHub releases, Zenodo DOI, blockchain transactions) that cannot be altered
+- **Permanent results**: Each phase produces persistent or independently verifiable outputs (Git commits, GitHub releases, Zenodo DOI, blockchain transactions)
 - **Minimal dependencies**: Three verification mechanisms (Git, Zenodo, Bitcoin/Arweave) provide redundancy without excessive complexity
 
 Simpler verification workflows reduce error opportunities while increasing transparency—oversight bodies can reproduce the verification chain without navigating multiple version variants or complex metadata structures.
@@ -183,7 +183,7 @@ This audit applies transparency and records management standards to its own meth
 Detailed version control combined with OSINT documentation serves multiple accountability purposes:
 
 1. **Documents evolution**: Shows how findings developed as TGA positions shifted—initial FOI refusals (2022), OAIC-directed comprehensive searches (September 2024), subsequent practical refusal (June 2025), and Senate testimony confirming no systematic tracking (October 2025).
-2. **Prevents retrospective revision**: Creates an immutable record preventing silent correction of claims if TGA later produces contradicting documentation—all prior versions remain accessible.
+2. **Prevents retrospective revision**: Creates an immutable record making silent correction of claims detectable if TGA later produces contradicting documentation—all prior versions remain accessible.
 3. **Demonstrates rigour**: Shows systematic, evidence-based OSINT methodology rather than predetermined conclusions—findings emerged from documented contradictions in TGA's own statements.
 4. **Enables verification**: Allows ANAO, OAIC, Ombudsman, Parliament, and peer reviewers to examine both analytical development and independently replicate FOI/Senate/OAIC evidence gathering.
 5. **Builds trust**: Transparent error correction demonstrates intellectual honesty—documented OSINT methodology enables oversight bodies to verify investigative approach meets IC standards.
@@ -194,7 +194,7 @@ Version history combined with OSINT documentation enables accountability infrast
 
 **International Standards:**
 
-1. ISO 19011:2018 - Guidelines for auditing management systems. [International Organization for Standardization](https://www.iso.org/standard/70017.html).
+1. ISO 19011:2018 - Guidelines for Auditing Management Systems. [International Organization for Standardization](https://www.iso.org/standard/70017.html).
 
 2. ISO 15489-1:2016 - Information and documentation — Records management — Part 1: Concepts and principles. [International Organization for Standardization](https://www.iso.org/standard/62542.html).
 
