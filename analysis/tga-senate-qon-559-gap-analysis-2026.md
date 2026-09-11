@@ -81,13 +81,13 @@ TGA's QON answer confirms:
 
 However, the QON provides no signal-by-signal mapping linking individual signals to their assessment, disposition and resulting regulatory action or decision. No public audit trail is provided documenting the assessment outcome, closure rationale, decision criteria, or evidence reviewed for each investigated signal.
 
-**ISO 19011 relevance:** ISO 19011:2018 requires audit evidence to be sufficient, appropriate, and verifiable. A signal list without documented disposition does not constitute a verifiable audit trail. The absence of signal-by-signal traceability across the 150 investigated signals and 57 reported regulatory actions directly supports Finding 1 of the surveillance data analysis — absence of documented signal investigation audit trails.
+**ISO 19011 relevance:** Under ISO 19011:2018 §6.4.7, information relevant to the audit objectives, scope and criteria should be collected and verified, as far as practicable. TGA's QON response confirms operational activity but does not provide sufficient signal-by-signal documentation to verify implementation against the relevant Plan outputs.
 
-**GVP Module IX relevance:** EMA GVP Module IX specifies that signal management must include documented disposition — validated, refuted, or ongoing monitoring. TGA's answer lists signals but provides no disposition matrix.
+**GVP Module IX relevance:** EMA GVP Module IX provides for systematic signal validation, analysis, prioritisation, assessment and tracking of signal-management activities. TGA's answer identifies investigated signals and regulatory actions but provides no public signal-by-signal documentation linking individual signals to their assessment, disposition and resulting action or decision.
 
 **ICH E2E relevance:** ICH E2E provides guidance on systematic signal evaluation and documentation. The absence of publicly documented outcomes and dispositions for the investigated signals represents a material documentation gap against this guidance.
 
-This is a derived finding from TGA's own numbers on the parliamentary record — not an assertion by the auditor.
+This is a derived finding from TGA's own figures **and the absence of signal-by-signal traceability** on the parliamentary record — not an assertion by the auditor.
 
 ---
 
@@ -134,11 +134,11 @@ TGA describes database entry prioritisation and publication timeframe improvemen
 
 The 14-day publication improvement is a concrete change — but it is not referenced in the Plan as an output, and no document is produced showing it was part of the Plan's implementation framework.
 
-**ISO 19011 relevance:** The evidence-based approach requires audit findings and conclusions to be supported by appropriate, verifiable audit evidence.
+**ISO 19011 relevance:** Under §6.4.8, audit evidence is evaluated against the audit criteria to determine audit findings, including conformity or nonconformity.
 
 **ANAO relevance:** Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned. The answer describes inputs and processes — not outputs against stated commitments.
 
-**Finding:** Partially documented. Operational activity confirmed. Plan-level output mapping absent. Consistent with audit conformity rating.
+**Finding:** Partially documented. Operational activity confirmed. Plan-level output mapping absent. Consistent with audit's partial conformity rating for this output.
 
 ---
 
@@ -291,15 +291,19 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 
 ## ISO 19011 Principles
 
-**Principle 1 — Integrity:** The auditor's obligation to report findings based on verifiable evidence is upheld. TGA's QON answer is verifiable, on the parliamentary record, and has been assessed against the Plan's stated outputs without modification.
+**Principle 1 — Integrity:** The audit reports findings based on verifiable documentary evidence. TGA's QON answer forms part of the parliamentary record and has been assessed against the Plan's stated outputs without modification.
 
-**Principle 3 — Due Professional Care:** Signal investigation without documented disposition does not meet the due professional care standard expected of a regulatory body operating under a Cabinet-endorsed pharmacovigilance commitment.
+**Principle 3 — Due Professional Care:** The audit applies appropriate care and judgement in distinguishing evidence of operational activity from evidence demonstrating implementation of the Plan. TGA's QON answer confirms pharmacovigilance activity but does not, by itself, demonstrate systematic implementation against the Plan's numbered strategies and outputs.
 
-**Principle 4 — Confidentiality:** TGA's refusal to release signal investigation documentation — citing privacy — while publicly confirming 150 investigated signals and 57 regulatory actions without providing signal-by-signal traceability creates an accountability gap relevant to the Department's governance, performance and record-keeping obligations under the PGPA framework.
+**Principle 4 — Confidentiality:** The audit relies on information lawfully available through public sources, parliamentary records, FOI disclosures and other released documentation. No confidential or restricted information is relied upon in reaching the audit findings.
 
-**Principle 6 — Conducting an audit:** ISO 19011 requires audit conclusions to be based on verifiable evidence. TGA's QON answer provides activity descriptions but not verifiable implementation documentation. The signal-to-action traceability gap is derived entirely from TGA's own figures and the absence of a public signal-by-signal mapping — it is not an assertion by the auditor.
+**Principle 6 — Evidence-Based Approach:** Audit evidence should be verifiable. TGA's QON answer provides evidence of operational activity but does not provide sufficient implementation documentation to verify that activity against the Plan's stated outputs. The signal-to-action traceability gap is derived from TGA's own figures and the absence of a public signal-by-signal mapping.
 
-**Clause 6.4 — Conducting audit activities:** Performance information should enable assessment of whether outputs were delivered as planned. TGA's QON answer does not enable this assessment — no output is mapped to the Plan's 17 strategies.
+**Clause 6.4.7 — Collecting and Verifying Information:** Information relevant to the audit objectives, scope and criteria should be collected using appropriate sampling and verified, as far as practicable. The QON answer provides additional evidence for assessment but does not provide signal-by-signal documentation or systematic mapping of activities against the Plan's 17 numbered strategies and two governance outputs.
+
+**Clause 6.4.8 — Generating Audit Findings:** Audit evidence is evaluated against the audit criteria to determine findings of conformity or nonconformity. The QON evidence has therefore been assessed against the audit's established criteria and incorporated into the relevant findings and conformity ratings.
+
+**Clause 6.4.9 — Determining Audit Conclusions:** The audit findings and other relevant information are reviewed against the audit objectives in determining the overall conclusions. QON 559 provides additional evidence but does not resolve the identified documentation gaps or alter the overall NON-CONFORMING conclusion.
 
 ---
 
