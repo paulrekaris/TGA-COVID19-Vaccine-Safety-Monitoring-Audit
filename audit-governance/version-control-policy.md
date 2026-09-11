@@ -46,11 +46,11 @@ Best efforts are made to document substantive changes. The Version History log i
 ## Guiding Standards
 
 **ISO 19011:2018 - Auditing Management Systems**
-- **Continuous improvement** (Principle 7): Documentation of corrections, enhancements, and evidence additions through iterative refinement as FOI responses, OAIC submissions, Senate testimony, and peer collaboration reveal new evidence.
+- **Evidence Based Approach** (Principle 6): Documentation of corrections, enhancements, and evidence additions through iterative refinement as FOI responses, OAIC submissions, Senate testimony, and peer collaboration provide new verifiable evidence.
 
 **ISO 15489-1:2016 - Records Management**
 - **Transparency**: All version changes publicly visible—every FOI response, OAIC submission update, and methodology refinement documented and traceable.
-- **Integrity**: Records protected against unauthorised alteration through Git version control and blockchain timestamping, ensuring the audit trail cannot be retrospectively modified.
+- **Integrity**: Records protected against unauthorised alteration through Git version control and blockchain timestamping, enabling retrospective changes to be identified and the integrity of preserved versions to be verified.
 - **Accountability**: Clear responsibility for version changes with documented rationale—corrections, evidence additions, and analytical refinements explicitly identified.
 - **Availability**: Complete version history retrievable through GitHub and permanent archives (Zenodo, SSRN, Mendeley Data, Harvard Dataverse, SocArXiv, National Library of Australia, Arweave, blockchain), enabling independent verification by oversight bodies.
 
