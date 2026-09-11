@@ -24,23 +24,23 @@
 > 
 > **What This Analysis Documents:**
 > 
-> - **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 150 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
+> - **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 6.8M+ AusVaxSafety survey responses, investigated 150 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
 > 
-> - **Observable surveillance degradation across five distinct periods (Mar 2021–Nov 2023):** Weekly detailed reports with full signal investigations (Period 1: Mar–Dec 2021) transitioned to biweekly with "expected rates" language introduced (Period 2: Jan–Jun 2022), then fortnightly standardised reassurance (Period 3: Jul–Dec 2022), minimal detail "no new concerns" messaging (Period 4: Jan–Jun 2023), and finally wind-down to cessation without evaluation (Period 5: Jul–Nov 2023)—demonstrating systematic degradation from enhanced to routine surveillance without documented assessment against the Plan’s enhanced monitoring requirements
+> - **Observable surveillance degradation across five distinct periods (Mar 2021–Nov 2023):** Weekly detailed reports with detailed signal assessments (Period 1: Mar–Dec 2021) transitioned to biweekly with "expected rates" language introduced (Period 2: Jan–Jun 2022), then fortnightly standardised reassurance (Period 3: Jul–Dec 2022), minimal detail "no new concerns" messaging (Period 4: Jan–Jun 2023), and finally wind-down to cessation without evaluation (Period 5: Jul–Nov 2023)—demonstrating systematic degradation from enhanced to routine surveillance without documented assessment against the Plan’s enhanced monitoring requirements
 > 
-> - **Two major surveillance systems never reconciled:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite Plan Output 2.1 commitment to unified framework
+> - **No documented reconciliation of two major surveillance systems:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite Plan Output 2.1 commitment to unified framework
 > 
-> - **Systematic ICH E2E non-compliance documented:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions—no baseline data sources, calculation methodologies, confidence intervals, p-values, or power calculations published despite ICH E2E requirement for transparent signal evaluation methods enabling independent verification
+> - **ICH E2E documentation gap identified:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions—no baseline data sources, calculation methodologies, confidence intervals, p-values, or power calculations published despite ICH E2E guidance on systematic signal evaluation and documentation
 > 
-> - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented comprehensive Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. TGA chose not to publish methodology it demonstrably possessed.
+> - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented comprehensive Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. This methodology was not identified in the concurrent public safety reports.
 > 
-> - **OAIC search excluded advisory body evidence:** Public reports exclude ACV governance evidence (FOI 4029-03, D21-3141615) despite TGA September 2024 OAIC-directed searches (531+ containers) admitting Objective 5 "unable to meaningfully interpret" Advisory Committee containers where FOI 4029-03 exists—inadequate search scope for Cabinet-endorsed policy verification
+> - **OAIC search excluded relevant advisory body evidence:** TGA's September 2024 OAIC-directed searches (531+ containers) recorded that Objective 5 Advisory Committee containers were "unable to [be] meaningfully interpret[ed]", despite FOI 4029-03 (D21-3141615) containing relevant ACV governance evidence—indicating an inadequate search scope for verification of Plan implementation.
 > 
-> - **Third-party verification confirms gaps:** FOI 5275 (August 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval, corroborating Strategy 2.3 AIR-denominator implementation absence
+> - **Third-party verification confirms gaps:** FOI 5275 (August 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval, providing additional evidence relevant to the documented implementation of Strategy 2.3
 > 
-> - **Compensation barrier documented:** TGA investigated 150 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved—the remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
+> - **Compensation barrier documented:** TGA investigated 150 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved, with the remaining 4,440 denied or withdrawn. Claimants' treating doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
 > 
-> - **International transparency comparison:** US CDC and UK MHRA publish detailed signal investigation methodologies (myocarditis/TTS reports within days post-signal with full statistical methods, confidence intervals, causality assessments).
+> - **International transparency comparison:** US CDC published detailed signal-investigation analyses including statistical methodology; UK MHRA published safety assessments and substantial methodological information, although routine disclosure of signal-specific methodology was less comprehensive.
 >
 > - **Six reports systematically selected:** ISO 19011 sampling methodology ensures representative coverage across phases (enhanced/transition/routine), frequencies (weekly/biweekly/fortnightly), and timeline (first through final)
 > 
@@ -161,13 +161,11 @@ This sampling provides sufficient evidence of systematic patterns without introd
 
 **ANAO Principle:** "Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned."
 
-TGA operated two major systems concurrently: DAEN passive (140,000+ reports) and AusVaxSafety active (3M+ responses). Reports reference both but provide no reconciliation methodology, integration framework, or unified analysis approach.
+TGA operated two major systems concurrently: DAEN passive surveillance (140,000+ reports) and AusVaxSafety active surveillance (6.8M+ survey responses). Reports reference both but provide no reconciliation methodology, integration framework, or unified analysis approach. Between March 2021 and November 2023, TGA public COVID-19 vaccine safety reporting progressively declined across five reporting periods—from detailed weekly reports, to fortnightly and subsequently less frequent reporting, before regular reporting ceased in November 2023—with signal-specific detail also diminishing over time.
 
 **ICH E2E Requirement:** "Signal detection should employ multiple data sources with documented integration methodology."
 
-Malikova (2020) establishes that signal management requires documented integration 
-of multiple data sources, with all actions accurately tracked at every stage 
-(Malikova, 2020, p.2).
+Malikova (2020) establishes that signal management requires documented integration of multiple data sources, with all actions accurately tracked at every stage  (Malikova, 2020, p.2).
 
 **Evidentiary Basis:** All six reports reference both systems without documenting how discrepancies resolved or outputs combined for signal detection.
 
@@ -233,7 +231,7 @@ This analysis examines whether this represents a systematic methodological trans
 
 **Key Pattern:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Despite TGA's demonstrated internal capacity to conduct statistical signal detection (FOI 4029-03: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis presented to Advisory Committee on Vaccines, September 2021), zero methodology outputs appeared in concurrent public reports.
 
-**ICH E2E Requirement:** "Statistical methods for signal evaluation should be documented and transparent, including baseline data sources, calculation methodologies, and confidence intervals to enable independent verification."
+**ICH E2E Guidance:** Signal evaluation should be systematic and appropriately documented, including the data sources and analytical methods used in evaluating safety signals.
 
 **Finding:** Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions. This represents systematic non-compliance with international pharmacovigilance standards TGA applies to industry sponsors.
 
@@ -288,7 +286,7 @@ Yet concurrent public safety reports provided:
 
 **Impact on Vaccine Injury Compensation:**
 
-The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 150 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 rejected/withdrawn claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
+The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 150 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 applications were rejected or withdrawn. Claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
 
 FOI 4029-03 demonstrates TGA prepared methodology materials for Advisory Committee discussion—but citizens seeking comparable information through Freedom of Information requests receive refusals stating documents "do not exist in consolidated form" or retrieval would require "unreasonable diversion of resources."
 
@@ -384,12 +382,12 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 **Requirement:** "Performance reporting should track outputs against published commitments."
 
-**Finding:** Plan specified 19 strategies across 5 objectives, zero tracking in 150+ reports.
+**Finding:** Plan specified 17 strategies across 5 objectives, the audit assesses 19 outputs including two governance outputs. Zero tracking in 150+ reports.
 
 ### Comparative International Practice
 
 - **United States (CDC):** Publishes detailed signal reports with causality assessments enabling external verification
-- **United Kingdom (MHRA):** Weekly Yellow Card summaries with investigation details and methodology transparency
+- **United Kingdom (MHRA):** Yellow Card summaries and published safety assessments with methodological information
 - **Australia (TGA):** Minimal investigation transparency, no systematic methodology outputs in public reports
 
 ---
@@ -401,7 +399,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 | **System** | **Volume** | **Type** | **Plan Link** | **Public Trail** | **Claimant Access** |
 |------------|------------|----------|---------------|------------------|---------------------|
 | **DAEN** | 140,000+ reports | Passive spontaneous | No Output 2.2 reconciliation documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 4,440 rejected/withdrawn claimants |
-| **AusVaxSafety** | 3M+ responses, 62K medical visits | Active proactive | No Output 2.1 linkage documented | Aggregate summaries only, no methodology | No individual case access |
+| **AusVaxSafety** | 6.8M+ AusVaxSafety survey responses gathered, 62K medical visits | Active proactive | No Output 2.1 linkage documented | Aggregate summaries only, no methodology | No individual case access |
 | **Safety Reports** | 150+ published (33 months) | Synthesis communication | Zero Plan references | No PRR/MaxSPRT outputs, no audit trails | Reassurance only, no signal validation |
 
 ---
@@ -424,7 +422,7 @@ The systematic absence of Plan framework references across 150+ public reports, 
 - **ICH E2E:** Signal management documentation and traceability gaps identified
 - **GVP IX:** Signal disposition matrix not publicly available despite 150 investigations documented
 
-The question "Was the Plan implemented as operational accountability framework accessible to citizens?" cannot be resolved favourably. FOI 4029-03 demonstrates organisational capacity existed and materials were prepared for advisory body presentation, but systematic absence of this material from public reports and inadequate search methodology preventing identification through FOI processes demonstrates the Plan functioned as internal advisory body framework unavailable for public verification.
+The question "Was the Plan implemented as operational accountability framework accessible to citizens?" cannot be resolved favourably. FOI 4029-03 demonstrates organisational capacity existed and materials were prepared for advisory body presentation, but systematic absence of this material from public reports and inadequate search methodology preventing identification through FOI processes demonstrates Plan-organised materials were prepared for an advisory-body context, but the systematic absence of comparable material from public reports prevents public verification of the Plan's implementation.
 
 ---
 
@@ -452,7 +450,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 11. Parliament of Australia. (2025). Senate Community Affairs Legislation Committee Estimates – 9 October 2025. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
-12. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data required by Strategy 2.3 AIR-denominator methodology (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
+12. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data relevant to Strategy 2.3 AIR-denominator methodology (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
 13. Malikova, M.A. (2020). Practical applications of regulatory requirements for signal detection and communications in pharmacovigilance. Therapeutic Advances in Drug Safety, 11, 1–15. Peer-reviewed pharmacovigilance reference establishing signal management as a documented process requiring tracked actions at every stage. https://doi.org/10.1177/2042098620909614
 
