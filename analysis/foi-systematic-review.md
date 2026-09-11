@@ -42,7 +42,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 **Search Parameters:**
 - **Timeframe**: July 2020–December 2025
 - **Document type**: Section 11C public releases only
-- **Exclusions**: Business exemptions excluded from review
+- **Exclusions**: Material not publicly available through the TGA FOI disclosure log
 - **Deep-dive verification**: Three promising candidates reviewed in detail (FOI 25-0220, 2389-01, 3727-04)
 
 **OSINT Principles Applied:**
@@ -91,7 +91,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
 **Content**: TGA response confirming it does not hold incidence data required by Strategy 2.3 AIR-denominator methodology. TGA stated: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." Secured by this auditor under FOI 26-2581 (decided 2 February 2026).
 
-**Assessment**: Direct evidence of Strategy 2.3 implementation failure. Confirms AIR-denominator incidence data — required by the Plan's cumulative review methodology — was never produced. **Included in audit scope.**
+**Assessment**: Direct evidence relevant to the documented implementation of Strategy 2.3. Confirms that TGA did not hold the requested incidence data relevant to the Plan's cumulative review methodology. **Included in audit scope.**
 
 ### FOI 25-0220
 **Description**: ACV meeting minutes on COVID-19 AEFI reporting rates (September 2025)
@@ -137,7 +137,7 @@ All 22 additional FOIs beyond FOI 4029, FOI 5082, and FOI 5275 fall outside audi
 
 FOI log references to "COVID Vaccine Pharmacovigilance Plan" refer to the national policy umbrella (Cabinet/DoH).[^1]  
 
-**Audit scope**: TGA's **COVID-19 Vaccine Safety Monitoring Plan (February 2021)**—operational implementation framework (17 strategies/20 outputs).[^2]
+**Audit scope**: TGA's **COVID-19 Vaccine Safety Monitoring Plan (February 2021)**—operational implementation framework (17 strategies/19 assessed outputs).[^2]
 
 [^1]: FOI 4029-01 (national pharmacovigilance framework context)  
 [^2]: https://www.tga.gov.au/sites/default/files/covid-19-vaccine-safety-monitoring-plan.pdf
@@ -145,13 +145,13 @@ FOI log references to "COVID Vaccine Pharmacovigilance Plan" refer to the nation
 ## Implications for Audit Evidence Base
 
 ### Complete Evidence Collection
-Systematic review of 500+ FOI releases (2020–2025) confirms FOI 4029 suite and FOI 5082 and FOI 5275 represent the complete available evidence of Plan implementation in the public FOI corpus.
+Systematic review of 500+ FOI releases (2020–2025) confirms the FOI 4029 suite, FOI 5082 and FOI 5275 represent the complete Plan implementation evidence identified in the public FOI corpus.
 
 ### Repository Coverage Validation
 The audit repository contains all identified Plan implementation evidence from the complete FOI disclosure log—comprehensive coverage achieved.
 
 ### Findings Confirmation
-Complete absence of Plan framework references across the entire FOI corpus confirms the audit finding: enhanced monitoring framework implementation cannot be verified through documentary evidence. The documentation gap is comprehensive and systemic, not selective.
+No additional Plan framework references were identified across the wider FOI corpus confirms the audit finding: enhanced monitoring framework implementation cannot be verified through documentary evidence. The documentation gap is comprehensive and systemic, not selective.
 
 ### Evidence Base Completeness
 No additional FOI documents were identified that would alter implementation status ratings for the 19 Plan outputs assessed in the audit.
@@ -160,9 +160,9 @@ No additional FOI documents were identified that would alter implementation stat
 
 **Evidence collection complete**: OSINT systematic review of 500+ FOI releases confirms FOI 4029 suite, FOI 5082 and FOI 5275 represent all available Plan implementation evidence in the public FOI corpus.
 
-**Repository coverage validated**: Core documents (FOI 4029 suite, FOI 5082, and FOI 5275 ) capture all available Plan implementation evidence from the complete FOI disclosure log.
+**Repository coverage validated**: Core documents (FOI 4029 suite, FOI 5082, and FOI 5275) capture all available Plan implementation evidence from the complete FOI disclosure log.
 
-**Documentation gap confirmed**: Absence of Plan framework references, VSIG integration protocols, and systematic tracking documentation across the entire FOI corpus validates audit findings based on complete available evidence.
+**Documentation gap confirmed**: Absence of Plan framework references, VSIG integration protocols, and systematic tracking documentation across the entire FOI corpus validates audit findings based on complete available evidence identified in the TGA FOI disclosure log. 
 
 **Methodological transparency**: Systematic OSINT search approach enables independent replication and verification of evidence base completeness.
 
@@ -171,7 +171,7 @@ No additional FOI documents were identified that would alter implementation stat
 ---
 
 **Systematic review conducted by**: Paul Rekaris  
-**Last updated**: 22 March 2026   
+**Last updated**: 11 September 2026   
 **Version**: 1.1  
 **Methodology**: OSINT systematic collection and verification
 
