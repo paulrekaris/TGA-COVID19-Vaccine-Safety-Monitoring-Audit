@@ -4,23 +4,20 @@
 
 ## Principle
 
-Public commitments made with public resources on behalf of the 
-public must be verifiable through documentation accessible to the 
-public. Where verifiable records cannot be produced, that absence 
-constitutes a governance finding.
+Public commitments made with public resources on behalf of the  public must be verifiable through documentation accessible to the public. Where verifiable records cannot be produced following documented and proportionate search efforts, that absence may constitute a governance finding.
 
 ## Part I: Framework
 
 ### Scope
 
-This framework applies where a public institution has made published commitments to deliver specific outputs, and the question is whether the institution can demonstrate, through documentary evidence, that those outputs were implemented. The framework assesses implementation as evidenced in records, not policy merit, outcomes, or intent.
+This framework applies where a public institution has made published commitments to deliver specific outputs, and the question is whether implementation of those outputs can be demonstrated through documentary evidence. It is designed for circumstances in which implementation would reasonably be expected to generate records capable of independent verification. The framework assesses implementation as evidenced in records, not policy merit, outcomes, or intent.
 
 ### Application Triggers
 
 This framework is appropriate where:
 - A public institution published specific commitments
 - Implementation was expected to generate contemporaneous records
-- Records should be accessible via freedom of information
+- Records should be accessible through public sources or freedom of information mechanisms 
 - Verification through documentation is feasible
 - Public interest in verification is demonstrable
 
@@ -63,11 +60,11 @@ All search strategies, document locations, version histories, and analytical dec
 
 ### Integrity
 
-The evidentiary record is preserved through independent archival layers to prevent retrospective alteration. Version control documents each substantive change and its rationale. The audit applies equivalent documentation standards to its own governance as it applies to the institution under review.
+The evidentiary record is preserved through independent archival layers to enable retrospective alteration to be detected. Version control documents each substantive change and its rationale. The audit applies equivalent documentation standards to its own governance as it applies to the institution under review.
 
 ### Independence
 
-The framework requires no institutional access, statutory authority, or organisational affiliation. It relies on freedom of information rights, published records, and recognised audit standards. It may be applied by any person with access to public records and applicable information access mechanisms.
+The framework requires no institutional access, statutory authority, or organisational affiliation. It relies on freedom of information rights, published records, and recognised audit standards. It may be applied by any person with specialised technical expertise and access to public records and applicable information access mechanisms.
 
 ### Standards Referenced
 
@@ -75,7 +72,7 @@ The framework requires no institutional access, statutory authority, or organisa
 - **ISO 31000:2018** — Risk management
 - **ISO 15489-1:2016** — Records management
 - **ISO 14721:2025** — Open Archival Information System (OAIS) reference model 
-- **ANAO performance audit principle** and Commonwealth Performance Framework
+- **ANAO performance audit principles** and Commonwealth Performance Framework
 - **FAIR Data Principles** (Findable, Accessible, Interoperable, Reusable)
 
 -----
@@ -124,7 +121,7 @@ verification opportunities:
 **Replicable methods** encourage testing and validation  
 **Multiple independent repositories** ensure survival under stress  
 
-The framework gains strength through testing. Each scrutiny attempt either confirms findings (strengthening validity) or reveals errors (improving accuracy). Both outcomes enhance the evidence base. Time compounds this effect: blockchain timestamps prevent retroactive alteration, ensuring findings remain independently testable regardless of institutional pressures.
+The framework gains strength through testing. Each scrutiny attempt either confirms findings (strengthening validity) or reveals errors (improving accuracy). Both outcomes enhance the evidence base. Time compounds this effect: blockchain timestamps provide independently verifiable evidence of the existence and integrity of preserved versions at particular points in time, ensuring findings remain independently testable regardless of institutional pressures.
 
 **See also:** [Open Review Architecture](open-review-architecture.md) — describes how this framework's verification principles are implemented through GitHub's public, forkable architecture.
 
@@ -137,4 +134,4 @@ attribution.
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-**Last updated**: 25 June 2026
+**Last updated**: 11 September 2026
