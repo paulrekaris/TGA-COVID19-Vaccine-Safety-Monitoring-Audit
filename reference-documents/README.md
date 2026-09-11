@@ -4,7 +4,7 @@
 
 This folder contains supporting analytical and contextual material cited in the audit methodology. Primary evidentiary materials (FOI responses, OAIC decisions, Senate testimony, TGA policy documents) are located in the [Primary Sources](../primary-sources) folder.
 
-This classification aligns with ISO 15489-1:2016 principles distinguishing records that constitute evidence of activities (primary sources) from supporting reference material (reference documents).
+This classification is consistent with ISO 15489-1:2016 principles concerning records as evidence of activities, while distinguishing primary-source evidence from supporting reference material for the purposes of this audit.
 
 ---
 
@@ -66,5 +66,5 @@ Internal analytical document examining governance failure patterns relevant to t
 
 ---
 
-**Last Updated:** 21 March 2026  
+**Last Updated:** 11 September 2026  
 **Licence:** CC BY 4.0
