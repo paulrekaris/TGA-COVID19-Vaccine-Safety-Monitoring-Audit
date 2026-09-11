@@ -4,7 +4,7 @@
 
 This folder contains original government and regulatory documents obtained through FOI processes, official proceedings, or direct government publication — material that constitutes the evidentiary record of the audit.
 
-This classification aligns with ISO 15489-1:2016 principles distinguishing records that constitute evidence of activities (primary sources) from supporting reference material (reference documents).
+This classification aligns is consistent with ISO 15489-1:2016 principles concerning records as evidence of activities, while distinguishing primary-source evidence from supporting reference material for the purposes of this audit.
 
 Supporting analytical and contextual material is located in the [Reference Documents](../reference-documents) folder.
 
@@ -27,5 +27,5 @@ Supporting analytical and contextual material is located in the [Reference Docum
 
 ---
 
-**Last Updated:** 21 August 2026.  
+**Last Updated:** 11 September 2026.  
 **Licence:** CC BY 4.0
