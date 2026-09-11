@@ -54,8 +54,6 @@ https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf
 
 International guidance on signal detection methodology in pharmacovigilance, including quantitative methods, causality assessment, and regulatory response frameworks. Applied in this audit as a benchmark for assessing TGA's signal investigation and escalation processes against international best practice.
 
-**File:** [wg8-signal-detection.pdf](wg8-signal-detection.pdf)
-
 ---
 
 ## Black Box Governance
