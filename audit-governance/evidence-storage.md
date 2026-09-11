@@ -69,7 +69,7 @@ Standard digital preservation principles recognise that government websites and 
 This audit implements multiple preservation layers including cryptographic verification and preservation mechanisms (Bitcoin timestamping and Arweave), web archival services (Internet Archive), and academic repositories (Zenodo) to support long-term evidence accessibility and make retrospective alteration detectable.
 
 **References:**
-Digital Preservation Coalition. *Digital Preservation Handbook*. https://www.dpconline.org/handbook
+Digital Preservation Coalition. *Digital Preservation Handbook*. https://www.dpconline.org/handbook        
 Whyte, A., & Tedds, J. (2011). *Making the Case for Research Data Management*. Digital Curation Centre. https://www.dcc.ac.uk/resources/briefing-papers/making-case-rdm
 
 ### Data Management Best Practices
