@@ -22,7 +22,7 @@
 >
 > **What This Analysis Documents:**
 >
-> - **TGA's formal written answer to direct Plan compliance question produced no documentary evidence:** Senate QON 559 (SQ25-001584) asked TGA directly how it complied with the COVID-19 Vaccine Safety Monitoring Plan. The written answer describes general activities but does not map any activity to the Plan's 17 numbered strategies or 2 governance outputs, and produces no implementation documentation
+> - **TGA's formal written answer to direct Plan compliance question produced no Plan-level implementation documentation:** Senate QON 559 (SQ25-001584) asked TGA directly how it complied with the COVID-19 Vaccine Safety Monitoring Plan. The written answer describes general activities but does not map any activity to the Plan's 17 numbered strategies or 2 governance outputs, and produces no implementation documentation
 >
 > - **93-signal traceability gap**: TGA's QON answer confirms 150 signals investigated and 57 regulatory actions reported—a numerical gap of 93—but provides no public signal-by-signal mapping linking individual signals to their assessment, disposition, closure rationale, or resulting regulatory action.
 >
@@ -134,9 +134,9 @@ TGA describes database entry prioritisation and publication timeframe improvemen
 
 The 14-day publication improvement is a concrete change — but it is not referenced in the Plan as an output, and no document is produced showing it was part of the Plan's implementation framework.
 
-**ISO 19011 principle:** Clause 6.4 requires performance information to enable assessment of whether outputs were delivered as planned. TGA's answer enables assessment of DAEN publication timeframes but not Plan output delivery.
+**ISO 19011 relevance:** The evidence-based approach requires audit findings and conclusions to be supported by appropriate, verifiable audit evidence.
 
-**ANAO principle:** Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned. The answer describes inputs and processes — not outputs against stated commitments.
+**ANAO relevance:** Performance information should enable assessment of whether outcomes were achieved and outputs delivered as planned. The answer describes inputs and processes — not outputs against stated commitments.
 
 **Finding:** Partially documented. Operational activity confirmed. Plan-level output mapping absent. Consistent with audit conformity rating.
 
@@ -153,7 +153,7 @@ The 14-day publication improvement is a concrete change — but it is not refere
 - TGA continues to investigate signals associated with COVID-19 vaccines
 
 **Assessment:**
-TGA describes signal detection and investigation activities in general terms. No statistical methodology is produced — no PRR outputs, no MaxSPRT results, no AIR-denominator calculations. This contradicts [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) (September 2021), which proves TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines including PRR≥1/cases≥2, MaxSPRT, and AIR-denominator analysis.
+TGA describes signal detection and investigation activities in general terms. No statistical methodology is produced — no PRR analyses, no MaxSPRT results, or AIR-denominator calculations. This contradicts [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) (September 2021), which proves TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines including PRR≥1/cases≥2, MaxSPRT, and AIR-denominator analysis.
 
 TGA possessed and documented these methodologies internally. The QON answer does not produce them publicly. The signal-to-action traceability gap — 150 signals investigated and 57 regulatory actions reported, without a public signal-by-signal mapping between them — falls entirely within this strategy's scope.
 
@@ -230,7 +230,7 @@ TGA lists five collaboration examples. None produce documentary evidence — no 
 
 Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer despite Strategy 2.4's specific commitment to "collaborate with AusVaxSafety to receive active surveillance information and coordinate safety signal detection and investigation activities." This is a direct omission of the Plan's most specific collaboration commitment.
 
-**Malikova (2020) relevance:** Signal management requires documented integration of multiple data sources with all actions accurately tracked at every stage. TGA's collaboration answer describes meetings and briefings but produces no documented integration methodology between surveillance streams.
+**Malikova (2020) relevance:** Signal management requires actions and recommendations to be accurately tracked and documented throughout the signal-management process.
 
 **Finding:** Not documented at Plan output level. AusVaxSafety omission directly strengthens Finding 5 (AusVaxSafety integration gap). The absence of any coordination protocol documentation reinforces Finding 4 (signal investigation audit trails). This is the second most significant gap in TGA's QON answer after Strategy 2.
 
@@ -260,7 +260,7 @@ The signal-to-action traceability gap is now derived directly from TGA's own par
 **Finding 5 — AusVaxSafety Integration Not Evidenced: Significantly Strengthened**
 Strategy 2 answer produces no signal detection methodology outputs despite [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) proving methodology existed. AusVaxSafety is omitted entirely from the Strategy 5 collaboration answer, and no coordination protocol documentation is produced for any collaboration partner, despite Strategy 2.4's specific commitment.
 
-**Finding 7 — 0% Implementation for Core Monitoring: Confirmed**
+**Finding 7 — 0% Conformity for Core Monitoring Outputs: Confirmed****
 Strategy 2 (Signal Detection) produces no methodology outputs — not documented at Plan output level. Governance produces no documentation across any strategy answer. Consistent with ISO 19011 conformity assessment Objective 2 and Governance both at 0%.
 
 **Finding 8 — Safety Plan Did Not Meet Auditability Standards: Confirmed**
@@ -284,7 +284,7 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 | Finding 4: Signal investigations lack audit trails | TGA's QON answer references FOI releases as evidence of transparency — yet the four-year FOI record shows TGA moving from "documents do not exist" (2022) to "399 documents identified but refused" (2025). TGA's formal parliamentary answer does not address this contradiction. The signal-to-action traceability gap directly corroborates the absence of publicly documented signal investigation audit trails. |
 | Finding 5: AusVaxSafety integration cannot be demonstrated | AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment. AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment; no publicly documented pathway linking surveillance inputs to signal investigation and outcome. |
 | Finding 6: Provisional approval verification gap | Not addressed in TGA's QON answer — TGA's formal written answer says nothing about verification before transition to full registration. Absence of any reference leaves the gap unresolved. |
-| Finding 7: 0% implementation for core monitoring | Strategy 2 not documented at Plan output level. No governance documentation produced across any strategy answer. Consistent with ISO 19011 conformity assessment Objective 2 and Governance both at 0%. |
+| Finding 7: 0% conformity for core monitoring outputs | Strategy 2 not documented at Plan output level. No governance documentation produced across any strategy answer. Consistent with ISO 19011 conformity assessment Objective 2 and Governance both at 0%. |
 | Finding 8: Safety Monitoring Plan did not meet auditability standards | TGA's characterisation of Plan elements as describing routine pharmacovigilance practice in a formal parliamentary answer directly confirms the Plan was not designed or operated as a distinct auditable framework with verifiable outputs. |
 
 ---
