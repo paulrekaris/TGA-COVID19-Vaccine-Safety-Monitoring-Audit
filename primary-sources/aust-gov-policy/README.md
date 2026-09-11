@@ -12,6 +12,8 @@ Commits the Australian Government to active and comprehensive post-market safety
 
 **Source:** https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy?language=en
 
+**National Cabinet endorsement:** https://www.health.gov.au/news/covid-19-vaccination-policy-endorsement?language=en
+
 **File:** [covid-19-vaccination-australian-covid-19-vaccination-policy.pdf](covid-19-vaccination-australian-covid-19-vaccination-policy.pdf)
 
 ---
@@ -36,5 +38,5 @@ Formal bilateral agreement between Commonwealth and Western Australia establishi
 
 ---
 
-**Last Updated:** 12 March 2026  
+**Last Updated:** 11 September 2026  
 **Licence:** CC BY 4.0
