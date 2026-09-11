@@ -2,7 +2,7 @@
 
 ## TGA OAIC-Directed Searches vs Audit Search Strategy
 
-**Last Updated:** 24 August 2026  
+**Last Updated:** 11 September 2026  
 
 ---
 
@@ -96,7 +96,7 @@ Repository: [`analysis/documentation-gap-analysis-audit-report.pdf`](../analysis
 Terms targeted multiple evidence categories:
 - Specific Plan outputs (signal detection, AusVaxSafety coordination, ICMRA sharing)
 - Pharmacovigilance processes (AEFI escalation, performance metrics)
-- Governance mechanisms (data integration, enhanced monitoring)
+- Governance mechanisms and enhanced monitoring processes
 - Regulatory frameworks (provisional approval, risk management)
 
 Each term mapped to specific Plan objectives or outputs with documented rationale.
@@ -155,7 +155,7 @@ These represent fundamentally different search strategies:
 - Plan and audit-title phrase matching vs evidence-based approach
 - Document name focus vs activity documentation focus
 
-The search exercise was estimated by the Principal Medical Advisor to take “no longer than 30 minutes” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31). For context, this was a search of the implementation record of a Cabinet-endorsed monitoring framework governing 68.4 million provisionally approved doses. The estimate is consistent with a search designed to demonstrate FOI compliance rather than comprehensively test document existence.
+The search exercise was estimated by the Principal Medical Advisor to take “no longer than 30 minutes” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31). For context, this was a search of the implementation record of a Cabinet-endorsed monitoring framework governing 68.4 million provisionally approved doses. The estimate raises a question as to whether the search was sufficiently comprehensive to test document existence beyond Plan-titled records.
 
 ### Implications for OAIC Finding
 
@@ -163,7 +163,7 @@ OAIC Decision [2025] AICmr 54 concluded TGA took "all reasonable steps" under s2
 
 However, TGA's search strategy did not employ output-specific terminology, pharmacovigilance vocabulary, or governance/tracking terms that would locate evidence of specific Plan implementation activities.
 
-> FOI 5275 illustrates this gap in practice: a request for cancer incidence surveillance data — directly required by Strategy 2.3 — returned a TGA response that no such data exists, consistent with searches that never employed output-specific terminology to locate it.
+> FOI 5275 provides a related example: a request for cancer incidence surveillance data relevant to Strategy 2.3 returned a TGA response that it did not hold the requested incidence data.
 
 This raises questions about whether searches designed primarily to locate Plan-titled documents constitute "reasonable steps" to test the existence of implementation documentation.
 
@@ -171,7 +171,7 @@ This raises questions about whether searches designed primarily to locate Plan-t
 
 The audit's methodology demonstrates that alternative search strategies employing output-specific and pharmacovigilance terminology were available and could have been applied to TRIM searches.
 
-Whether such strategies would have located additional documentation cannot be determined without their application. However, the absence of output-specific terminology in TGA's searches means that implementation evidence organised by activity type (rather than Plan-titled documents) would not have been captured.
+Whether such strategies would have located additional documentation cannot be determined without their application. However, the absence of output-specific terminology in TGA's searches means that implementation evidence organised by activity type (rather than Plan-titled documents) may not have been captured.
 
 ---
 
@@ -202,7 +202,7 @@ The comparison demonstrates:
 2. TGA's searches focused on document titles rather than implementation activities
 3. Alternative search strategies employing output-specific terminology were available
 
-Whether more comprehensive search strategies would have located additional documentation remains untested. However, the documented search methodology gap means that implementation evidence not organised under Plan-titled documents would not have been captured by TGA's searches.
+Whether more comprehensive search strategies would have located additional documentation remains untested. However, the documented search methodology gap means that implementation evidence not organised under Plan-titled documents may not have been captured by TGA's searches.
 
 The question of whether "all reasonable steps" under s24A requires output-specific search terminology remains for the OAIC or reviewing tribunals to determine.
 
