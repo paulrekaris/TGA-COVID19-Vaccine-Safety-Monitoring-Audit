@@ -6,7 +6,7 @@
 - [Key Takeaways](#key-takeaways)
 - [Background](#background)
 - [TGA's Formal Answer to Plan Compliance](#tgas-formal-answer-to-plan-compliance)
-- [The 93-Signal Gap](#the-93-signal-gap)
+- [Signal-to-Action Traceability Gap](#the-signal-to-action-traceability-gap)
 - [Signal Count Update](#signal-count-update)
 - [Analysis of TGA's Answer to Question 20: Five Strategy Assessment](#analysis-of-tgas-answer-to-question-20-five-strategy-assessment)
 - [Five Strategy Assessment Summary](#five-strategy-assessment-summary)
@@ -24,7 +24,7 @@
 >
 > - **TGA's formal written answer to direct Plan compliance question produced no documentary evidence:** Senate QON 559 (SQ25-001584) asked TGA directly how it complied with the COVID-19 Vaccine Safety Monitoring Plan. The written answer describes general activities but does not map any activity to the Plan's 17 numbered strategies or 2 governance outputs, and produces no implementation documentation
 >
-> - **93 signals with no publicly documented decision rationale:** TGA's QON answer confirms 150 signals investigated and 57 regulatory actions taken — leaving 93 investigated signals for which no public audit trail documents investigation outcome, closure rationale, or decision criteria
+> - **93-signal traceability gap**: TGA's QON answer confirms 150 signals investigated and 57 regulatory actions reported—a numerical gap of 93—but provides no public signal-by-signal mapping linking individual signals to their assessment, disposition, closure rationale, or resulting regulatory action.
 >
 > - **Signal count updated:** TGA stated at the October 2025 hearing that 148 signals had been investigated; the subsequent written QON response updated this figure to 150. The audit's citation of 148 reflects the contemporaneous testimony figure and remains accurate for that point in time
 >
@@ -73,24 +73,19 @@ The gap between what was asked — documentary evidence of Plan implementation �
 
 ---
 
-## The 93-Signal Gap
+## Signal-to-Action Traceability Gap
 
 TGA's QON answer confirms:
-- 150 signals investigated (updated from 148 stated at hearing)
-- 57 regulatory actions taken — listed in Attachment B
+- 150 signals investigated (updated from 148 stated at senate estimates hearing)
+- 57 regulatory actions reported — listed in Attachment B
 
-This leaves **93 investigated signals** for which the QON provides no public documentation of:
-- Investigation outcome
-- Decision criteria applied
-- Closure rationale
-- Whether the signal was validated, refuted, or placed under monitoring
-- What evidence was reviewed
+However, the QON provides no signal-by-signal mapping linking individual signals to their assessment, disposition and resulting regulatory action or decision. No public audit trail is provided documenting the assessment outcome, closure rationale, decision criteria, or evidence reviewed for each investigated signal.
 
-**ISO 19011 relevance:** ISO 19011:2018 requires audit evidence to be sufficient, appropriate, and verifiable. A signal list without documented disposition does not constitute a verifiable audit trail. The 93-signal gap directly supports Finding 1 of the surveillance data analysis — absence of documented signal investigation audit trails.
+**ISO 19011 relevance:** ISO 19011:2018 requires audit evidence to be sufficient, appropriate, and verifiable. A signal list without documented disposition does not constitute a verifiable audit trail. The absence of signal-by-signal traceability across the 150 investigated signals and 57 reported regulatory actions directly supports Finding 1 of the surveillance data analysis — absence of documented signal investigation audit trails.
 
 **GVP Module IX relevance:** EMA GVP Module IX specifies that signal management must include documented disposition — validated, refuted, or ongoing monitoring. TGA's answer lists signals but provides no disposition matrix.
 
-**ICH E2E relevance:** ICH E2E requires signal evaluation to be documented and transparent. The absence of documented outcomes for 93 of 150 investigated signals is inconsistent with this requirement.
+**ICH E2E relevance:** ICH E2E provides guidance on systematic signal evaluation and documentation. The absence of publicly documented outcomes and dispositions for the investigated signals represents a material documentation gap against this guidance.
 
 This is a derived finding from TGA's own numbers on the parliamentary record — not an assertion by the auditor.
 
@@ -117,8 +112,8 @@ Question 20 asked TGA to provide documentary evidence demonstrating how each of 
 | **Strategy** | **Documentation Level** | **Audit Finding Impact** |
 |---|---|---|
 | **1. Enhanced Reporting** | Partial | Consistent with existing rating |
-| **2. Signal Detection** | Not documented | Strengthens Findings 4, 5 and 93-signal gap |
-| **3. Regulatory Actions** | Partial | Confirms 57 actions, reinforces 93-signal gap |
+| **2. Signal Detection** | Not documented | Strengthens Findings 4, 5 and the signal-to-action traceability gap |
+| **3. Regulatory Actions** | Partial | Confirms 57 regulatory actions; reinforces the signal-to-action traceability gap |
 | **4. Communications** | Partial | Reinforces communications contradiction |
 | **5. Collaborations** | Not documented | Strengthens Finding 5 |
 
@@ -158,17 +153,17 @@ The 14-day publication improvement is a concrete change — but it is not refere
 - TGA continues to investigate signals associated with COVID-19 vaccines
 
 **Assessment:**
-TGA describes signal detection and investigation activities in general terms. No statistical methodology is produced — no PRR outputs, no MaxSPRT results, no AIR-denominator calculations. This directly contradicts [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) (September 2021), which proves TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines including PRR≥1/cases≥2, MaxSPRT, and AIR-denominator analysis.
+TGA describes signal detection and investigation activities in general terms. No statistical methodology is produced — no PRR outputs, no MaxSPRT results, no AIR-denominator calculations. This contradicts [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) (September 2021), which proves TGA presented detailed Strategy 2.3 methodology to the Advisory Committee on Vaccines including PRR≥1/cases≥2, MaxSPRT, and AIR-denominator analysis.
 
-TGA possessed and used these methodologies internally. The QON answer does not produce them publicly. The 93-signal gap — 150 signals investigated, 57 regulatory actions, 93 with no documented public disposition — falls entirely within this strategy's scope.
+TGA possessed and documented these methodologies internally. The QON answer does not produce them publicly. The signal-to-action traceability gap — 150 signals investigated and 57 regulatory actions reported, without a public signal-by-signal mapping between them — falls entirely within this strategy's scope.
 
 **ISO 19011 principle:** Audit evidence must be sufficient, appropriate, and verifiable. General descriptions of signal detection activity without methodology outputs or signal disposition documentation are not verifiable audit evidence.
 
-**ICH E2E principle:** Statistical methods for signal evaluation must be documented and transparent. Zero methodology documentation accompanies TGA's answer to this strategy.
+**ICH E2E guidance:** Signal evaluation should be systematic and appropriately documented, including the data sources and analytical methods used in evaluating safety signals.
 
-**GVP Module IX principle:** Signal management must include documented disposition — validated, refuted, or ongoing monitoring. The 93-signal gap demonstrates this requirement is not met on the public record.
+**GVP Module IX principle:** GVP Module IX provides for systematic signal validation, analysis, prioritisation, assessment and tracking of signal-management activities.
 
-**Finding:** Not documented at Plan output level. This is the most significant gap in TGA's QON answer. It directly strengthens Finding 4 (signal investigation audit trails), Finding 5 (AusVaxSafety integration), and the 93-signal gap derived finding. The audit's conformity rating for Output 2.2 — not documented — is reinforced.
+**Finding:** Not documented at Plan output level. This is the most significant gap in TGA's QON answer. It directly strengthens Finding 4 (signal investigation audit trails), Finding 5 (AusVaxSafety integration), and the signal-to-action traceability gap. The audit's conformity rating for Output 2.2 — not documented — is reinforced.
 
 ---
 
@@ -184,15 +179,15 @@ TGA possessed and used these methodologies internally. The QON answer does not p
 **Assessment:**
 This is TGA's strongest answer. Attachment B provides a specific, verifiable list of 57 regulatory actions with product names and safety update descriptions. This is the only strategy where TGA produces a document rather than describing activity.
 
-However, the 57 actions cover only 38% of the 150 investigated signals. For the remaining 93 signals, no documented decision rationale is produced — no explanation of why no regulatory action followed investigation, what evidence was reviewed, or how the signal was closed.
+However, the QON identifies 150 investigated signals and 57 regulatory actions without providing a signal-by-signal mapping between the two. No public audit trail was provided documenting the assessment, disposition and closure rationale for each investigated signal, or linking individual signals to resulting regulatory actions or decisions not to take action.
 
 The audit does not dispute that 57 regulatory actions occurred. The gap is the audit trail from signal investigation to regulatory decision for all 150 signals — not just the 57 that resulted in action.
 
-The 57 regulatory actions are documented as completed outcomes, but no public documentation establishes an auditable link between these actions and the underlying investigated signals, the evidence thresholds applied, or the decision‑making and closure pathways. This is inconsistent with Malikova’s (2020) formulation of signal management, which requires that all actions and recommendations be “accurately tracked and documented at every stage” of the process, and reinforces the finding that systematic signal‑to‑action documentation is absent for both the 93 non‑actioned signals and the 57 regulatory actions.
+The 57 regulatory actions are documented as completed outcomes, but no public documentation establishes an auditable link between these actions and the underlying investigated signals, the evidence thresholds applied, or the decision‑making and closure pathways. This is inconsistent with Malikova’s (2020) formulation of signal management, which requires that all actions and recommendations be “accurately tracked and documented at every stage” of the process, and reinforces the finding that systematic signal-to-action documentation is absent across the 150 investigated signals and 57 reported regulatory actions.
 
-**ISO 19011 principle:** Audit evidence must document the complete process — not just successful outcomes. An audit trail covering 57 of 150 signals leaves 93 without publicly verifiable documentation.
+**ISO 19011 principle:** Audit evidence must document the complete process — not just successful outcomes. The absence of a signal-by-signal mapping prevents verification of the relationship between the 150 investigated signals, their dispositions, and the 57 regulatory actions.
 
-**Finding:** Partially documented. The 57 actions are verifiable. The 93-signal gap is not. This partially strengthens the audit's evidence base for the 57 actions while reinforcing the finding that systematic signal-to-action documentation is absent. Consistent with partial conformity rating for this output.
+**Finding:** Partially documented. The 57 regulatory actions are verifiable, but their relationship to the 150 investigated signals is not publicly traceable. This strengthens the audit's evidence base for the reported regulatory actions while reinforcing the finding that systematic signal-to-action documentation is absent. Consistent with the partial conformity rating for this output.
 
 ---
 
@@ -213,7 +208,7 @@ The audit's surveillance analysis finding — that public reports contained zero
 
 Note: TGA states 104 reports in the QON answer. The audit's surveillance analysis references 150+ reports. This discrepancy reflects that the QON counts only the dedicated weekly/fortnightly safety report series, while the broader count includes additional safety updates, media statements, and supplementary publications. Both figures refer to different document classes from the same monitoring period.
 
-**ANAO principle:** Performance reporting should track outputs against published commitments. Zero Plan references across 104 published safety reports confirms the Plan did not function as the public accountability framework for those communications.
+**ANAO principle:** Performance reporting should track outputs against published commitments. Zero Plan references across the sampled safety safety reports confirms the Plan did not function as the public accountability framework for those communications.
 
 **Finding:** Partially documented. Communications occurred and are verifiable. Plan framework integration is absent. Consistent with audit conformity rating. The QON answer reinforces rather than resolves the communications contradiction finding.
 
@@ -248,8 +243,8 @@ Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer 
 | **Strategy** | **Plan Output** | **TGA Answer** | **Documentation Level** | **Audit Finding Impact** |
 |---|---|---|---|---|
 | **1. Enhanced Reporting** | Documented enhanced AEFI protocols | Database prioritisation described | Partial | Consistent with existing rating |
-| **2. Signal Detection** | Statistical methodology outputs | General activity described, no methodology produced | Not documented | Strengthens Findings 4 and 5 and 93-signal gap |
-| **3. Regulatory Actions** | Signal-to-action audit trail | 57 actions listed, 93 gaps remain | Partial | Confirms 57 actions, reinforces Finding 4 and 93-signal gap |
+| **2. Signal Detection** | Statistical methodology outputs | General activity described, no methodology produced | Not documented | Strengthens Findings 4 and 5 and the signal-to-action traceability gap |
+| **3. Regulatory Actions** | Signal-to-action audit trail | 57 regulatory actions listed; no signal-by-signal mapping to the 150 investigated signals | Partial | Confirms 57 regulatory actions; reinforces Finding 4 and the signal-to-action traceability gap |
 | **4. Communications** | Plan-referenced public reports | 104 reports confirmed across dedicated safety report series (150+ across broader document class), zero Plan references | Partial | Reinforces Finding 2 (day-to-day processes) and public communication versus policy commitments |
 | **5. Collaborations** | Documented coordination protocols | Five examples described, AusVaxSafety omitted | Not documented | Strengthens Finding 5 |
 
@@ -260,7 +255,7 @@ Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer 
 ## Selected Key Updates to Audit Findings
 
 **Finding 4 — Signal Investigations Lack Audit Trails: Significantly Strengthened**
-93-signal gap is now a derived finding from TGA's own parliamentary record numbers — 150 signals investigated, 57 regulatory actions, 93 with no publicly documented decision rationale. This is the strongest corroboration in the QON 559 analysis.
+The signal-to-action traceability gap is now derived directly from TGA's own parliamentary record — 150 signals investigated and 57 regulatory actions reported, without a public signal-by-signal mapping linking individual signals to their assessment, disposition and resulting action or decision. This is the strongest corroboration in the QON 559 analysis.
 
 **Finding 5 — AusVaxSafety Integration Not Evidenced: Significantly Strengthened**
 Strategy 2 answer produces no signal detection methodology outputs despite [FOI 4029-03](../primary-sources/foi/foi-4029/foi-4029-03.pdf) proving methodology existed. AusVaxSafety is omitted entirely from the Strategy 5 collaboration answer, and no coordination protocol documentation is produced for any collaboration partner, despite Strategy 2.4's specific commitment.
@@ -269,7 +264,7 @@ Strategy 2 answer produces no signal detection methodology outputs despite [FOI 
 Strategy 2 (Signal Detection) produces no methodology outputs — not documented at Plan output level. Governance produces no documentation across any strategy answer. Consistent with ISO 19011 conformity assessment Objective 2 and Governance both at 0%.
 
 **Finding 8 — Safety Plan Did Not Meet Auditability Standards: Confirmed**
-TGA's characterisation of the Plan elements as describing "internationally agreed practice of pharmacovigilance that is the core work of the TGA's Pharmacovigilance Branch" — in a formal written parliamentary answer — directly confirms the audit's finding that the Plan was not designed or operated as a distinct enhanced monitoring framework with verifiable outputs.
+TGA's characterisation of the Plan elements as describing "internationally agreed practice of pharmacovigilance that is the core work of the TGA's Pharmacovigilance Branch" — in a formal written parliamentary answer — supports the audit's finding that the Plan was not demonstrably operated as a distinct enhanced monitoring framework with verifiable outputs.
 
 **Governance — 0% Conformity: Confirmed**
 No governance documentation produced across any of the five strategy answers. No output tracking, no performance measurement, no Plan-referenced reporting framework.
@@ -286,9 +281,9 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 | Finding 1: No systematic implementation documentation | TGA answer confirms monitoring as "core work" of Pharmacovigilance Branch — routine, not plan-tracked. Zero implementation documentation produced in formal parliamentary answer. |
 | Finding 2: Day-to-day processes instead of enhanced monitoring | TGA's Question 19 answer characterises Plan elements as routine pharmacovigilance practice — consistent with Senate testimony that monitoring was never systematically tracked |
 | Finding 3: 84% of Plan outputs not fully documented | Five strategy assessment confirms pattern — 2 strategies not documented at Plan output level, 3 partial, none fully documented |
-| Finding 4: Signal investigations lack audit trails | TGA's QON answer references FOI releases as evidence of transparency — yet the four-year FOI record shows TGA moving from "documents do not exist" (2022) to "399 documents identified but refused" (2025). TGA's formal parliamentary answer does not address this contradiction. The 93-signal gap directly corroborates the absence of signal investigation audit trails. |
-| Finding 5: AusVaxSafety integration cannot be demonstrated | AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment. 93 signals with no documented disposition — no pathway from investigation to outcome. |
-| Finding 6: Provisional approval verification gap | Not addressed in TGA's QON answer — TGA's formal written answer says nothing about verification before transition to full registration. Absence of any reference confirms the gap. |
+| Finding 4: Signal investigations lack audit trails | TGA's QON answer references FOI releases as evidence of transparency — yet the four-year FOI record shows TGA moving from "documents do not exist" (2022) to "399 documents identified but refused" (2025). TGA's formal parliamentary answer does not address this contradiction. The signal-to-action traceability gap directly corroborates the absence of publicly documented signal investigation audit trails. |
+| Finding 5: AusVaxSafety integration cannot be demonstrated | AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment. AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment; no publicly documented pathway linking surveillance inputs to signal investigation and outcome. |
+| Finding 6: Provisional approval verification gap | Not addressed in TGA's QON answer — TGA's formal written answer says nothing about verification before transition to full registration. Absence of any reference leaves the gap unresolved. |
 | Finding 7: 0% implementation for core monitoring | Strategy 2 not documented at Plan output level. No governance documentation produced across any strategy answer. Consistent with ISO 19011 conformity assessment Objective 2 and Governance both at 0%. |
 | Finding 8: Safety Monitoring Plan did not meet auditability standards | TGA's characterisation of Plan elements as describing routine pharmacovigilance practice in a formal parliamentary answer directly confirms the Plan was not designed or operated as a distinct auditable framework with verifiable outputs. |
 
@@ -300,11 +295,11 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 
 **Principle 3 — Due Professional Care:** Signal investigation without documented disposition does not meet the due professional care standard expected of a regulatory body operating under a Cabinet-endorsed pharmacovigilance commitment.
 
-**Principle 4 — Confidentiality:** TGA's refusal to release signal investigation documentation — citing privacy — while publicly confirming 93 signals with no documented public outcome creates an accountability gap inconsistent with the transparency obligations of a Commonwealth regulator under the PGPA Act.
+**Principle 4 — Confidentiality:** TGA's refusal to release signal investigation documentation — citing privacy — while publicly confirming 150 investigated signals and 57 regulatory actions without providing signal-by-signal traceability creates an accountability gap relevant to the Department's governance, performance and record-keeping obligations under the PGPA framework.
 
-**Principle 6 — Evidence-Based Approach:** ISO 19011 requires audit conclusions to be based on verifiable evidence. TGA's QON answer provides activity descriptions but not verifiable implementation documentation. The 93-signal gap is derived entirely from TGA's own figures — it is not an assertion by the auditor.
+**Principle 6 — Conducting an audit:** ISO 19011 requires audit conclusions to be based on verifiable evidence. TGA's QON answer provides activity descriptions but not verifiable implementation documentation. The signal-to-action traceability gap is derived entirely from TGA's own figures and the absence of a public signal-by-signal mapping — it is not an assertion by the auditor.
 
-**Clause 6.4 — Managing Audit Programme:** Performance information should enable assessment of whether outputs were delivered as planned. TGA's QON answer does not enable this assessment — no output is mapped to the Plan's 17 strategies.
+**Clause 6.4 — Conducting audit activities:** Performance information should enable assessment of whether outputs were delivered as planned. TGA's QON answer does not enable this assessment — no output is mapped to the Plan's 17 strategies.
 
 ---
 
@@ -312,7 +307,7 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 
 TGA's formal written answer to the most direct question ever put to it about Plan compliance — submitted on the parliamentary record — does not produce documentary evidence of systematic Plan implementation.
 
-The 93-signal gap is quantifiable from TGA's own numbers. It is not speculative. It directly supports the surveillance data analysis finding that signal investigation audit trails are absent from the public record.
+The signal-to-action traceability gap is quantifiable from TGA's own figures: 150 signals investigated and 57 regulatory actions reported—a numerical gap of 93—but no public signal-by-signal mapping establishes how the 57 actions relate to individual signals or the disposition of the remaining investigations. It is not speculative. It directly supports the surveillance data analysis finding that systematic signal investigation audit trails are absent from the public record.
 
 The QON confirms the pattern documented across four years of investigation: monitoring activities occurred, but the Plan did not function as a systematic accountability framework with verifiable outputs mapped to stated commitments.
 
@@ -352,6 +347,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 30 June 2026
+**Last updated:** 11 September 2026
 
 [↑ Back to top](#table-of-contents)
