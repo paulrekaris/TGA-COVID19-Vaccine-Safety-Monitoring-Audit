@@ -24,7 +24,7 @@
 > 
 > **What This Analysis Documents:**
 > 
-> - **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 148 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
+> - **Extensive monitoring occurred but Plan framework invisible:** TGA collected 140,000+ DAEN reports, 3M+ AusVaxSafety responses, investigated 150 signals, and published 150+ safety reports across 33 months—yet zero Plan references appeared in any public report
 > 
 > - **Observable surveillance degradation across five distinct periods (Mar 2021–Nov 2023):** Weekly detailed reports with full signal investigations (Period 1: Mar–Dec 2021) transitioned to biweekly with "expected rates" language introduced (Period 2: Jan–Jun 2022), then fortnightly standardised reassurance (Period 3: Jul–Dec 2022), minimal detail "no new concerns" messaging (Period 4: Jan–Jun 2023), and finally wind-down to cessation without evaluation (Period 5: Jul–Nov 2023)—demonstrating systematic degradation from enhanced to routine surveillance without documented assessment against the Plan’s enhanced monitoring requirements
 > 
@@ -38,7 +38,7 @@
 > 
 > - **Third-party verification confirms gaps:** FOI 5275 (August 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval, corroborating Strategy 2.3 AIR-denominator implementation absence
 > 
-> - **Compensation barrier documented:** TGA investigated 148 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved—the remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
+> - **Compensation barrier documented:** TGA investigated 150 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved—the remaining 4,440 rejected/withdrawn claimants' doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
 > 
 > - **International transparency comparison:** US CDC and UK MHRA publish detailed signal investigation methodologies (myocarditis/TTS reports within days post-signal with full statistical methods, confidence intervals, causality assessments).
 >
@@ -50,7 +50,7 @@
 >
 > - **Senate QON 559 corroboration:** TGA's formal written answer to Question 20 (Strategy 2: Signal Detection) produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. Strategy 5 (Collaborations) omits AusVaxSafety entirely. 93 of 150 investigated signals reported in the QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md)
 > 
-> - **Central finding validated:** Monitoring activities demonstrably occurred (148 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
+> - **Central finding validated:** Monitoring activities demonstrably occurred (150 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
 > - **Peer-reviewed support:** Malikova (2020) establishes signal management as a documented process requiring tracked actions at every stage — directly supporting Finding 1 (data source reconciliation absence) and Finding 3 (expected rates methodology gap)
 >
@@ -288,7 +288,7 @@ Yet concurrent public safety reports provided:
 
 **Impact on Vaccine Injury Compensation:**
 
-The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 148 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 rejected/withdrawn claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
+The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 150 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 rejected/withdrawn claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
 
 FOI 4029-03 demonstrates TGA prepared methodology materials for Advisory Committee discussion—but citizens seeking comparable information through Freedom of Information requests receive refusals stating documents "do not exist in consolidated form" or retrieval would require "unreasonable diversion of resources."
 
@@ -378,7 +378,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 **Requirement:** "Signal management processes should include documented disposition (validated/refuted/monitoring)."
 
-**Finding:** 148 signals investigated, zero disposition matrix published.
+**Finding:** 150 signals investigated, zero disposition matrix published.
 
 ### ANAO Better Practice (Performance Information)
 
@@ -408,7 +408,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 ### Audit Conclusion
 
-This analysis demonstrates extensive surveillance activities occurred: 140,000+ DAEN reports collected, 3M+ AusVaxSafety responses gathered, 148 signals investigated, 57 regulatory actions taken, 150+ reports published across 33 months.
+This analysis demonstrates extensive surveillance activities occurred: 140,000+ DAEN reports collected, 3M+ AusVaxSafety responses gathered, 150 signals investigated, 57 regulatory actions taken, 150+ reports published across 33 months.
 
 FOI 4029-03 provides evidence that TGA prepared Strategy 2.3 methodology materials and presented these to the Advisory Committee on Vaccines in September 2021, demonstrating organisational capacity to prepare materials organised by Plan objectives for advisory body forums. This capacity was again demonstrated in September 2024 when TGA organised 2,218 pages by Plan objectives for OAIC review (MR22/00538).
 
@@ -422,7 +422,7 @@ The systematic absence of Plan framework references across 150+ public reports, 
 - **ISO 19011:** Audit evidence sufficient and appropriate
 - **ANAO Principles:** Performance tracking against published strategy absent from public reports; advisory body received Plan-organised materials whilst public reports contained zero Plan references
 - **ICH E2E:** Signal management documentation and traceability gaps identified
-- **GVP IX:** Signal disposition matrix not publicly available despite 148 investigations documented
+- **GVP IX:** Signal disposition matrix not publicly available despite 150 investigations documented
 
 The question "Was the Plan implemented as operational accountability framework accessible to citizens?" cannot be resolved favourably. FOI 4029-03 demonstrates organisational capacity existed and materials were prepared for advisory body presentation, but systematic absence of this material from public reports and inadequate search methodology preventing identification through FOI processes demonstrates the Plan functioned as internal advisory body framework unavailable for public verification.
 
@@ -462,7 +462,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 29 August 2026
+**Last updated:** 11 September 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
