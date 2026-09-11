@@ -83,5 +83,5 @@ This work does not claim that open review is equivalent to traditional peer revi
 | Open Source Definition                    | https://opensource.org/osd                                                                                        |
 | Regulatory Accountability Audit Framework | [audit-governance/regulatory-accountability-audit-framework.md](regulatory-accountability-audit-framework.md)     |
 
-**Licence:** CC BY 4.0
+**Licence:** CC BY 4.0       
 **Last Updated:** 11 September 2026
