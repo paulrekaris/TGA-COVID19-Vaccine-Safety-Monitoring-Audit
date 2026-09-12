@@ -4,13 +4,14 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 7 September 2026
+**Last updated:** 12 September 2026
 
 
 ---
 
 ## Table of Contents
-- [Version 1.9.5 (7 September 2026)](#version-195-6-september-2026)
+- [Post-v1.9.5 — Repository Quality Assurance and Methodological Refinement](#post-v195--repository-quality-assurance-and-methodological-refinement)
+- [Version 1.9.5 (7 September 2026)](#version-195-7-september-2026)
 - [Version 1.9.4 (5 August 2026)](#version-194-5-august-2026)
 - [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
 - [Version 1.9.2 (26 March 2026)](#version-192-26-march-2026)
@@ -28,7 +29,18 @@
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
-# Version 1.9.5 (6 September 2026)
+
+# Post-v1.9.5 — Repository Quality Assurance and Methodological Refinement
+
+Comprehensive post-v1.9.5 quality-assurance review of the repository. Corrected minor typographical, grammatical, formatting, citation, link, classification and internal-consistency issues; clarified OAIC findings, FOI search evidence and TGA compliance-documentation claims; refined QON 559 analysis to distinguish the numerical difference between 150 signals assessed and 57 regulatory actions from the absence of a published signal-by-signal audit trail linking individual signals to their assessment, disposition and resulting action or decision; refined AusVaxSafety integration language to distinguish survey responses reporting adverse events from formal adverse-event reports and to more precisely describe the documentary gap concerning integration with TGA signal detection and investigation activities; corrected ISO 19011:2018 terminology, principles and clause applications and ISO 15489-1:2016 records-management terminology; clarified Department-level PGPA governance, performance and recordkeeping obligations; refined surveillance-analysis, evidence-classification, auditability and conformity language to avoid unsupported inferences from documentary gaps; and removed residual wording that could incorrectly characterise the Safety Monitoring Plan's enhanced-monitoring strategies as statutory or sponsor-specific provisional-registration conditions.
+Repository governance and reproducibility documentation was also strengthened, including evidence-storage and provenance arrangements, version-control and release workflows, version-classification criteria, archival verification and preservation, quality-assurance procedures and open-review documentation. The role of audit-governance documentation was clarified as a supporting methodological and administrative record rather than additional substantive audit evidence. Locally hosted third-party material was reviewed and, where redistribution rights were uncertain, removed or replaced by appropriate references. Additional repository housekeeping improved navigation, consistency and maintenance documentation without altering the underlying audit assessment.
+
+**The main audit report, 19 assessed outputs, conformity ratings and overall finding remain unchanged: 3 of 19 outputs fully documented, 10 partially documented and 6 not documented; overall finding NON-CONFORMING.**
+
+*Release status: These changes are maintained on GitHub main as post-v1.9.5 repository maintenance and have not been issued as a separate formal release. Zenodo v1.9.5 remains the preserved release snapshot.*
+ 
+
+# Version 1.9.5 (7 September 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
 
