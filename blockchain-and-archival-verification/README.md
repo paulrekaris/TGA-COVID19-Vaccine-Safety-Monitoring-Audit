@@ -2,7 +2,7 @@
 
 This audit is protected by multiple verification and archival methods including version control/reproducibility (GitHub), blockchain-based cryptographic verification (Bitcoin, Arweave), web archival services (Internet Archive Wayback Machine, direct upload, NLA Legal deposit + Australian Web Archive), and academic repositories (Zenodo, Harvard Dataverse, SSRN, SocArXiv, Mendeley Data).
 
-[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-08-19.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![National Library of Australia](https://img.shields.io/badge/National%20Library%20of%20Australia-Collection%20Development%20Policy-000000?labelColor=000000&style=flat-square)](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy)
+[![Permanent Archive](https://img.shields.io/static/v1?label=Permanent+Archive&message=Multi+Layer+Verification&color=2D6F4D&labelColor=512B58)](permanent-archive-records-2026-09-15.pdf) [![NLA](https://img.shields.io/static/v1?label=NLA&message=Web+Archive&color=2D6F4D&labelColor=512B58)](https://webarchive.nla.gov.au/tep/221557) [![National Library of Australia](https://img.shields.io/badge/National%20Library%20of%20Australia-Collection%20Development%20Policy-000000?labelColor=000000&style=flat-square)](https://www.library.gov.au/visit/about-us/corporate-information/collection-policies-and-plans/collection-development-policy)
 
 [![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html) [![LOCKSS](https://img.shields.io/badge/LOCKSS-Lots%20of%20Copies%20Keep%20Stuff%20Safe-8C1515?labelColor=8C1515&style=flat-square)](https://www.lockss.org/) 
 
@@ -66,6 +66,19 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 ---
 
 ## National Library of Australia – National edeposit (NED)
+
+**Deposit ID:** NED489686  
+**NLA Reference ID:** NED489686P1157886  
+**Deposit Date:** 15 September 2026, 5:14 PM AEST  
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan — v1.9.5  
+**Version:** v1.9.5  
+**Year of publication:** 2026  
+**Publication type:** New Multipart Monograph Title  
+**Deposit method:** Online (General)  
+**File:** documentation-gap-analysis-audit-report-v1_9_5.pdf  
+**Publisher:** Paul Rekaris  
+**Access conditions:** Openly on the internet  
+**Discovery:** Discoverable via Trove   (https://trove.nla.gov.au/)
 
 **Deposit ID:** NED484448        
 **NLA Reference ID:** NED476889S65171                
@@ -184,15 +197,15 @@ SSRN is the world's largest preprint repository for social science, law, economi
 
 ## SocArXiv – OSF Preprints (Social Sciences)
 
-**Submission Date:** 16 March 2026     
-**Accepted Date:** 17 March 2026     
-**Preprint DOI:** 10.31235/osf.io/sb4gz_v12
-**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz
-**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan     
-**Author:** Paul Rekaris  
-**Licence:** CC BY 4.0  
-**Status:** ACCEPTED — Publicly Accessible and Searchable  
-**Registered:** ORCID
+**Submission Date:** 16 March 2026              
+**Accepted Date:** 17 March 2026              
+**Preprint DOI:** 10.31235/osf.io/sb4gz_v12          
+**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz             
+**Title:** Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan                   
+**Author:** Paul Rekaris            
+**Licence:** CC BY 4.0             
+**Status:** ACCEPTED — Publicly Accessible and Searchable          
+**Registered:** ORCID        
 
 ### Significance
 
@@ -200,8 +213,8 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 
 ### Access
 
-**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz_v12     
-**Supplemental Materials:** https://osf.io/jvqyt
+**Direct Link:** https://doi.org/10.31235/osf.io/sb4gz_v12            
+**Supplemental Materials:** https://osf.io/jvqyt            
 
 ---
 
@@ -315,7 +328,7 @@ This audit is protected by multiple independent verification methods:
 
 **Dataset Paper:** The companion dataset paper and evidence matrix are separately archived at Zenodo (10.5281/zenodo.20175557) and SSRN (10.2139/ssrn.6610438).  
 
-Full deposit records are maintained in [permanent-archive-records](permanent-archive-records-2026-08-19.pdf).
+Full deposit records are maintained in [permanent-archive-records](permanent-archive-records-2026-09-15.pdf).
 
 ### Preservation Standard
 
@@ -333,4 +346,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 11 September 2026
+**Last updated:** 15 September 2026
