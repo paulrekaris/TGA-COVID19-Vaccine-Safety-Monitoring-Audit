@@ -80,6 +80,7 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 **Access conditions:** Openly on the internet  
 **Discovery:** Discoverable via Trove   (https://trove.nla.gov.au/)
 
+**Previous deposit**  
 **Deposit ID:** NED484448        
 **NLA Reference ID:** NED476889S65171                
 **Deposit Date:** 19 August 2026, 1:49 PM AEST  
