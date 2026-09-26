@@ -121,10 +121,11 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 | November–December 2025 | ANAO submissions lodged; QON SQ25-001584 — no systematic tracking, 93 of 150 signals undocumented |
 | 24 March 2026 | Australian Senate — audit cited by name, Senator Malcolm Roberts |
 | 1 September 2026 | Supporting material reconstructed and resubmitted to Commonwealth Ombudsman (2025-806374) |
+| 18 September 2026 | Commonwealth Ombudsman advised that complaint 2025-806374 had been referred for further consideration within the Office and would be allocated for further assessment |
 | Mid-2027 (est.) | OAIC MR25/01153 determination anticipated |
 
 ---
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 11 September 2026
+**Last updated:** 27 September 2026
