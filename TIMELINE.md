@@ -126,6 +126,6 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 
 ---
 
-*For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
+*For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation-1).*
 
 **Last updated:** 27 September 2026
