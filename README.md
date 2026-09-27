@@ -212,9 +212,8 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
 > 
 > #### 4. Signal investigations lack audit trails  
-> TGA investigated 148 safety signals and took 57 regulatory actions (Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale).
+> TGA reported 150 safety signals investigated and 57 regulatory actions taken. QON 559 listed the 57 actions, but did not provide a signal-level audit trail linking individual signals to their assessment, disposition and resulting action.
 >  
-> 
 > #### 5. AusVaxSafety integration cannot be demonstrated
 > Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration. AusVaxSafety conducted 6.8 million SMS surveys capturing approximately 3 million adverse events and described its program as operating "as part of" the TGA-led national pharmacovigilance plan. No coordination protocols, data integration frameworks, or audit trails showing how these active surveillance findings informed TGA signal detection or regulatory decisions have been located through four years of FOI requests, OAIC-directed searches, or systematic review of published TGA material. TGA's OAIC-directed searches omitted "AusVaxSafety" as a search term entirely — a significant methodological gap given its explicit role in the Plan.
 >
@@ -257,7 +256,7 @@ This finding is based on official determinations, not interpretation:
 
  **Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations rather than a distinct enhanced framework.
 
-**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. 93 of 150 investigated signals reported in the Senate QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md).
+**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. For 93 of the 150 investigated signals reported in the Senate QON, no publicly documented decision rationale was identified. See [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md).
 
 **Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed 8 terms operating at Plan-title and audit level ("Implementation of Plan", "Audit Report"), not keyed to the Plan's individual outputs. Two terms included pharmacovigilance (rows 7–8), but none targeted output-specific vocabulary such as signal detection, AusVaxSafety coordination, or ICMRA sharing. Notably, TGA's terms omitted "AusVaxSafety" entirely, despite Strategy 2.4 naming it the Plan's active-surveillance integration partner. This audit employed 14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
 
@@ -290,7 +289,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
   - Plan implementation was **never systematically tracked** by Plan objectives.  
   - Monitoring was managed through “day‑to‑day processes”, not a distinct enhanced framework.  
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
-  - 150 safety signals were investigated and 57 regulatory actions taken – yet **no documentation links specific signals to specific actions**.
+  - 150 safety signals were investigated and 57 regulatory actions were taken – yet **no documentation links specific signals to specific actions**.
 
 A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. A decision is pending as of June 2026.
 
@@ -1045,7 +1044,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.5   
-**Last Updated:** 11 September 2026  
+**Last Updated:** 27 September 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
