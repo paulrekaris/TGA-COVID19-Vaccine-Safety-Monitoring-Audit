@@ -56,6 +56,12 @@ Yes. Every finding is traceable to a public or FOI-released source, and the full
 
 Yes. The audit adopts a falsifiability principle: every finding can be tested against evidence and revised if the evidence requires. Any output classified as not documented can be overturned by the production of a single relevant record. The findings hold only while the documentary record remains absent, and any correcting evidence would be incorporated with transparent version history.
 
+## Project metadata
+
+Structured bibliographic and project metadata, including identifiers, keywords, version and citation information.
+
+[View the record](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md)
+
 ## Permanent record
 
 - **Audit report (SSRN):** https://doi.org/10.2139/ssrn.6333058
@@ -66,7 +72,6 @@ Yes. The audit adopts a falsifiability principle: every finding can be tested ag
 - **Preprint (SocArXiv):** https://doi.org/10.31235/osf.io/sb4gz
 - **National edeposit (National Library of Australia):** https://nla.gov.au/nla.obj-4238332288
 - **Australian Web Archive:** https://webarchive.nla.gov.au/tep/221557
-- **Project metadata:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md
 - **Permanent archive (Arweave):** https://arweave.net/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps
 - **Bitcoin timestamp:** Block 942725, 29 March 2026
 
