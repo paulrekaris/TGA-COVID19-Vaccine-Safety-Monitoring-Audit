@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 6 October 2026
+**Last updated:** 8 October 2026
 
 
 ---
@@ -41,6 +41,8 @@ The role of audit-governance documentation was clarified as a supporting methodo
 Incorporated TGA FOI 26-3110 (AusVaxSafety Annual Report 2022) into the Strategy 2.4 evidence base, documenting fortnightly COVID-19 vaccine signal detection and notification/discussion of identified signals with the TGA Pharmacovigilance Branch. Refined the Strategy 2.4 evidence analysis to distinguish documented operational interaction from evidence sufficient to independently verify systematic coordination of signal detection and investigation. Updated the evidence matrix and rating justification accordingly. Rating unchanged: Partially Implemented. Core findings and conclusions unchanged.
 
 Update Commonwealth Ombudsman administrative complaint 2025-806374 and timeline following escalation for further internal consideration.
+
+Added primary-source reference documenting Morrison's statement that the Australian COVID-19 Vaccination Policy was adopted by Federal Cabinet before subsequent National Cabinet endorsement.
 
 **The main audit report, 19 assessed outputs, conformity ratings and overall finding remain unchanged: 3 of 19 outputs fully documented, 10 partially documented and 6 not documented; overall finding NON-CONFORMING.**
 
