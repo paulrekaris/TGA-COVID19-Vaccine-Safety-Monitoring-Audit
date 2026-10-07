@@ -16,6 +16,10 @@ Commits the Australian Government to active and comprehensive post-market safety
 
 **File:** [covid-19-vaccination-australian-covid-19-vaccination-policy.pdf](covid-19-vaccination-australian-covid-19-vaccination-policy.pdf)
 
+**Federal Cabinet adoption:** Prime Minister Scott Morrison transcript confirming the policy was adopted by Federal Cabinet in November and subsequently endorsed by National Cabinet: [https://pmtranscripts.pmc.gov.au/release/transcript-43194](https://pmtranscripts.pmc.gov.au/release/transcript-43194)  
+
+**File:** [covid-19-vaccination-australian-covid-19-vaccination-policy.pdf](covid-19-vaccination-australian-covid-19-vaccination-policy.pdf)
+
 ---
 
 ## Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
@@ -38,5 +42,5 @@ Formal bilateral agreement between Commonwealth and Western Australia establishi
 
 ---
 
-**Last Updated:** 11 September 2026  
+**Last Updated:** 8 October 2026  
 **Licence:** CC BY 4.0
