@@ -18,7 +18,7 @@ Commits the Australian Government to active and comprehensive post-market safety
 
 **Federal Cabinet adoption:** Prime Minister Scott Morrison transcript confirming the policy was adopted by Federal Cabinet in November and subsequently endorsed by National Cabinet: [https://pmtranscripts.pmc.gov.au/release/transcript-43194](https://pmtranscripts.pmc.gov.au/release/transcript-43194)  
 
-**File:** [covid-19-vaccination-australian-covid-19-vaccination-policy.pdf](covid-19-vaccination-australian-covid-19-vaccination-policy.pdf)
+**File:** [morrison-federal-cabinet-vaccination-policy.pdf](morrison-federal-cabinet-vaccination-policy.pdf)
 
 ---
 
