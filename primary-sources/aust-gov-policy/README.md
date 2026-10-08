@@ -27,9 +27,7 @@ Commits the Australian Government to active and comprehensive post-market safety
 **File:** [cabinet-handbook-14th-edition-2020.pdf](cabinet-handbook-14th-edition-2020.pdf)
 
 ---
-## State COVID-19 Vaccination Program Implementation Plans
-
-Formal intergovernmental arrangements established the governance framework for implementation of the COVID-19 vaccination program. The National Partnership on COVID-19 Response required states to develop jurisdictional implementation plans giving effect to agreed national policy and legislative requirements, including requirements relating to safety, ethics and reporting.
+## COVID-19 Vaccination Program Implementation Framework
 
 ### National framework
 
@@ -43,7 +41,7 @@ The National Partnership established the Commonwealth–state framework within w
 
 ### State vaccination implementation plan examples
 
-The Victorian and Western Australian plans provide contemporaneous examples of how these national requirements were translated into formal jurisdictional implementation arrangements.
+The Victorian and Western Australian plans provide contemporaneous examples of how the national framework was translated into formal jurisdictional implementation arrangements.
 
 #### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
 
@@ -80,6 +78,7 @@ Against that documented framework, the TGA’s February 2021 Plan cannot be inde
 **Source:** Federal Financial Relations — COVID-19 Response
 
 **URL:** https://federalfinancialrelations.gov.au/agreements/covid-19-response
+
 ---
 
 **Last Updated:** 8 October 2026  
