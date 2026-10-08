@@ -2,7 +2,9 @@
 
 [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html)
 
-This folder contains Australian Government and state government policy documents establishing the governance framework for COVID-19 vaccine safety monitoring.
+This folder contains Australian Government and publicly available state government policy documents establishing the governance framework for enhanced COVID-19 vaccine safety monitoring, including the National Cabinet-endorsed policy commitment that preceded the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan.
+
+The documents provide the Australian Government policy and Cabinet governance context relevant to that Plan.
 
 ---
 
@@ -19,6 +21,12 @@ Commits the Australian Government to active and comprehensive post-market safety
 **Federal Cabinet adoption:** Prime Minister Scott Morrison, 7 January 2021 press conference at Australian Parliament House, confirming the policy was adopted by Federal Cabinet in November and subsequently endorsed by National Cabinet. [https://pmtranscripts.pmc.gov.au/release/transcript-43194](https://pmtranscripts.pmc.gov.au/release/transcript-43194)  
 
 **File:** [federal-cabinet-adoption-covid-19-vaccination-policy-morrison-transcript.pdf](federal-cabinet-adoption-covid-19-vaccination-policy-morrison-transcript.pdf)
+
+**Cabinet governance framework:** Australian Government Cabinet Handbook, 14th edition (October 2020), §2, para 31, p. 10, stating that “Ministers (and portfolio agencies) must act on Cabinet decisions as recorded in Cabinet minutes.” This provides the applicable Cabinet governance context for the policy adopted by Federal Cabinet in November 2020.  
+
+**Source:** [Cabinet Handbook, 14th edition](https://www.pmc.gov.au/sites/default/files/foi-logs/foi-2020-253.pdf)  
+
+**File:** [cabinet-handbook-14th-edition-2020.pdf](cabinet-handbook-14th-edition-2020.pdf)
 
 ---
 
