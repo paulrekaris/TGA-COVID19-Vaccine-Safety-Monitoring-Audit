@@ -15,7 +15,7 @@ Independent audit · ISO 19011:2018
 
 Did Australia's drug regulator, the Therapeutic Goods Administration (TGA), carry out the enhanced vaccine safety monitoring it promised? A four-year documentary audit of its compliance, tested against the plan's own commitments.
 
-In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to enhanced vaccine safety monitoring and identified the TGA's COVID-19 Vaccine Pharmacovigilance Plan as part of that framework. In February 2021, the TGA published its COVID-19 Vaccine Safety Monitoring Plan, setting out the enhanced monitoring framework for the rollout. This is an independent audit and freedom-of-information investigation of whether that monitoring can be shown to have happened, assessing the TGA's compliance against the plan's own commitments using the international auditing standard ISO 19011:2018, Australian National Audit Office guidance, and open-source analysis of public records.
+In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to enhanced vaccine safety monitoring and identified the TGA's COVID-19 Vaccine Pharmacovigilance Plan as part of that framework. In February 2021, the TGA published its COVID-19 Vaccine Safety Monitoring Plan, setting out the enhanced monitoring framework for the rollout. This is an independent audit and freedom-of-information investigation of whether that monitoring can be shown to have happened, assessing the TGA's compliance against the plan's own commitments using the international auditing standard ISO 19011:2018, Australian National Audit Office guidance, and open-source analysis of public records. The underlying national and state policy, implementation and Cabinet governance documents are archived in the [Australian Government and State Government Policy](primary-sources/aust-gov-policy/) folder. These documents establish the national and jurisdictional governance framework, including documented safety-monitoring obligations, responsibilities, reporting requirements and implementation commitments relevant to the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan.
 
 The audit is grounded in the fundamental principles of public accountability and transparency: when public institutions make significant commitments, their implementation should be capable of independent verification through an adequate documentary record.
 
@@ -122,4 +122,4 @@ TGA written answer to Senate Question on Notice 559 (DHDA SQ25-001584).
 ---
 
 © 2026 Paul Rekaris · Independent researcher · ORCID [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
-Licensed CC BY 4.0 · Version 1.9.5, September 2026
+Licensed CC BY 4.0 · Version 1.9.5, October 2026
