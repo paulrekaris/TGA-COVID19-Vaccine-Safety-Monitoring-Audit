@@ -29,17 +29,11 @@ Commits the Australian Government to active and comprehensive post-market safety
 ---
 ## State COVID-19 Vaccination Program Implementation Plans
 
-Formal intergovernmental implementation plans established governance arrangements for the vaccine rollout, including defined roles, responsibilities, oversight and implementation processes. The National Partnership on COVID-19 Response required states to develop jurisdictional implementation plans giving effect to agreed national policy and legislative requirements, and expressly required states to ensure that immunisation providers remained compliant with their safety, ethical and reporting obligations.
+Formal intergovernmental arrangements established the governance framework for implementation of the COVID-19 vaccination program. The National Partnership on COVID-19 Response required states to develop jurisdictional implementation plans giving effect to agreed national policy and legislative requirements, including requirements relating to safety, ethics and reporting.
 
-These contemporaneous national and state implementation agreements established specific safety objectives, responsibilities, reporting requirements and implementation commitments. This directly contradicts Senate testimony by senior TGA officials on 9 October 2025 that vaccine safety monitoring was managed through “day-to-day processes” rather than systematic tracking against the Plan’s objectives.
+### National framework
 
-The Victorian and Western Australian plans are examples of these jurisdictional arrangements.
-
-These contemporaneous arrangements provide a useful documentary benchmark for the specificity with which vaccine safety-monitoring responsibilities, data integration and reporting pathways were documented within the national vaccination program.
-
-This provides important context for the audit finding that the TGA’s February 2021 Plan cannot be independently verified from the available documentary record as having been implemented through a similarly traceable set of Plan-specific governance, integration and performance-measurement arrangements.
-
-**National framework:**
+The National Partnership established the Commonwealth–state framework within which jurisdictional vaccination implementation plans were developed. It required states to give effect to agreed national policy and legislative requirements and specified responsibilities for workforce, vaccination sites and immunisation providers, including requirements relating to safety, ethical and reporting obligations. The national vaccination policy and jurisdictional implementation plans then specified more detailed vaccine safety-monitoring, adverse-event reporting and data-sharing responsibilities involving the TGA.
 
 **Source:** National Partnership on COVID-19 Response — Vaccine Amendment Schedule
 
@@ -47,9 +41,11 @@ This provides important context for the audit finding that the TGA’s February 
 
 **File:** [national-partnership-on-covid-response.pdf](national-partnership-on-covid-response.pdf)
 
-## **State vaccination implementation plan examples**
+### State vaccination implementation plan examples
 
-### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
+The Victorian and Western Australian plans provide contemporaneous examples of how these national requirements were translated into formal jurisdictional implementation arrangements.
+
+#### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
 
 Formal bilateral agreement between the Commonwealth and Victoria establishing the governance framework for the vaccine rollout. The Plan sets out agreed roles and responsibilities, provides for joint ownership, designates the Commonwealth and Victorian government divisions responsible for overseeing implementation, provides for oversight by the respective Secretaries, and requires changes to be agreed in writing.
 
@@ -63,7 +59,7 @@ The Plan also contains specific arrangements for vaccine safety monitoring and s
 
 **File:** [vic-vaccine-plan.pdf](vic-vaccine-plan.pdf)
 
-### Western Australian COVID-19 Vaccination Program Implementation Plan
+#### Western Australian COVID-19 Vaccination Program Implementation Plan
 
 Formal bilateral agreement between the Commonwealth and Western Australia establishing the governance framework for the vaccine rollout. It provides a further example of a jurisdictional implementation arrangement operating within the national vaccination program framework.
 
@@ -73,12 +69,17 @@ Formal bilateral agreement between the Commonwealth and Western Australia establ
 
 **File:** [wa-vaccine-plan.pdf](wa-vaccine-plan.pdf)
 
+### Relevance to the audit
+
+These contemporaneous national and state agreements document specific safety responsibilities, reporting requirements and implementation commitments, providing a documentary benchmark for the specificity with which vaccine safety-monitoring responsibilities, data integration and reporting pathways were defined within the national vaccination program.
+
+Against that documented framework, the TGA’s February 2021 Plan cannot be independently verified from the available documentary record as having been implemented through a similarly traceable set of Plan-specific governance, integration and performance-measurement arrangements. This directly contrasts with Senate testimony by senior TGA officials on 9 October 2025 that vaccine safety monitoring was managed through “day-to-day processes” rather than systematic tracking against the Plan’s objectives.
+
 **Broader jurisdictional framework:**
 
 **Source:** Federal Financial Relations — COVID-19 Response
 
 **URL:** https://federalfinancialrelations.gov.au/agreements/covid-19-response
-
 ---
 
 **Last Updated:** 8 October 2026  
