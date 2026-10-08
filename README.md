@@ -562,6 +562,8 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that
 
 The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to "active and comprehensive" monitoring and was embedded in bilateral agreements as the authoritative framework for provisional approval oversight.
 
+The underlying policy and Cabinet governance documents supporting this national commitment are archived [here](primary-sources/aust-gov-policy/).
+
 **Status as national policy instrument:**
 * Operationalised Cabinet's mandate (November 2020) for vaccines with incomplete pre-market data
 * Embedded in bilateral state agreements as the governance framework
@@ -1044,7 +1046,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.5   
-**Last Updated:** 27 September 2026  
+**Last Updated:** 8 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
