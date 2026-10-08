@@ -44,6 +44,8 @@ Update Commonwealth Ombudsman administrative complaint 2025-806374 and timeline 
 
 Added primary-source reference documenting Morrison's statement that the Australian COVID-19 Vaccination Policy was adopted by Federal Cabinet before subsequent National Cabinet endorsement.
 
+Added Australian Government Cabinet governance sources, including the 14th edition Cabinet Handbook and Prime Minister Morrison’s transcript confirming Federal Cabinet adoption of the Australian COVID-19 Vaccination Policy; updated the Australian Government policy README with source metadata and repository links; and clarified in the main README the relationship between the November 2020 national policy commitment, the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan and cabinet governance requirements.  
+
 **The main audit report, 19 assessed outputs, conformity ratings and overall finding remain unchanged: 3 of 19 outputs fully documented, 10 partially documented and 6 not documented; overall finding NON-CONFORMING.**
 
 *Release status: These changes are maintained on GitHub main as post-v1.9.5 repository maintenance and have not been issued as a separate formal release. Zenodo v1.9.5 remains the preserved release snapshot.*
