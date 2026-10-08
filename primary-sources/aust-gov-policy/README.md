@@ -58,6 +58,8 @@ The Plan also contains specific arrangements for vaccine safety monitoring and s
 
 **Source:** Victorian COVID-19 Vaccination Program Implementation Plan, 19 February 2021  
 
+**URL:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf
+
 **File:** [vic-vaccine-plan.pdf](vic-vaccine-plan.pdf)
 
 ### Western Australian COVID-19 Vaccination Program Implementation Plan
@@ -66,9 +68,15 @@ Formal bilateral agreement between the Commonwealth and Western Australia establ
 
 **Source:** Western Australian COVID-19 Vaccination Program Implementation Plan  
 
+**URL:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/wa_vaccine_plan.pdf
+
 **File:** [wa-vaccine-plan.pdf](wa-vaccine-plan.pdf)
 
-**Broader jurisdictional framework:** [Federal Financial Relations — COVID-19 Response](https://federalfinancialrelations.gov.au/agreements/covid-19-response)
+**Broader jurisdictional framework:**
+
+**Source:** Federal Financial Relations — COVID-19 Response
+
+**URL:** https://federalfinancialrelations.gov.au/agreements/covid-19-response
 
 ---
 
