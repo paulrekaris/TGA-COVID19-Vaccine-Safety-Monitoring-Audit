@@ -29,21 +29,44 @@ Commits the Australian Government to active and comprehensive post-market safety
 **File:** [cabinet-handbook-14th-edition-2020.pdf](cabinet-handbook-14th-edition-2020.pdf)
 
 ---
-
 ## State COVID-19 Vaccination Program Implementation Plans
 
-Formal intergovernmental implementation plans established governance arrangements for the vaccine rollout, including defined roles, responsibilities, oversight and implementation processes. The Victorian and Western Australian plans are examples of such arrangements and provide corroborating evidence that the vaccination program operated through structured processes requiring systematic implementation documentation.
+Formal intergovernmental implementation plans established governance arrangements for the vaccine rollout, including defined roles, responsibilities, oversight and implementation processes. The National Partnership on COVID-19 Response required states to develop jurisdictional implementation plans giving effect to agreed national policy and legislative requirements, and expressly required states to ensure that immunisation providers remained compliant with their safety, ethical and reporting obligations.
 
-The broader National Partnership on COVID-19 Response provided the Commonwealth–state and territory framework for the COVID-19 vaccination program and incorporated agreed jurisdictional implementation plans into the arrangements for delivering the program.
+The Victorian and Western Australian plans are examples of these jurisdictional arrangements. The Victorian plan also contains specific arrangements for vaccine safety monitoring and surveillance of adverse events, including active and passive surveillance, safety signalling, reporting to the TGA through agreed channels, sharing of surveillance data, integration with AusVaxSafety requirements, and investigation and follow-up of adverse events. It also provided for daily analysis of active-surveillance reporting.
 
-This provides important context for the audit finding that enhanced monitoring required a systematic framework with traceable records rather than being treated simply as routine business. It also provides a point of comparison with Senate testimony by senior TGA officials (9 October 2025) that monitoring was managed through "day-to-day processes" rather than systematic tracking against Plan objectives.
+These contemporaneous arrangements provide a useful documentary benchmark for the specificity with which vaccine safety-monitoring responsibilities, data integration and reporting pathways were documented within the national vaccination program.
 
-**National framework:**
-- [National Partnership on COVID-19 Response — Vaccine Amendment Schedule](https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/covid-19_response_vaccine_amendment_schedule.pdf) — [File](national-partnership-on-covid-response.pdf)
+This provides important context for the audit finding that the TGA’s February 2021 Plan cannot be independently verified from the available documentary record as having been implemented through a similarly traceable set of Plan-specific governance, integration and performance-measurement arrangements.
+
+**National framework:**  
+[National Partnership on COVID-19 Response — Vaccine Amendment Schedule](https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/covid-19_response_vaccine_amendment_schedule.pdf)
+
+**Source:** National Partnership on COVID-19 Response — Vaccine Amendment Schedule  
+
+**File:** [national-partnership-on-covid-response.pdf](national-partnership-on-covid-response.pdf)
 
 **Examples:**
-- [Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)](https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf) — [File](vic-vaccine-plan.pdf)
-- [Western Australian COVID-19 Vaccination Program Implementation Plan](https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/wa_vaccine_plan.pdf) — [File](wa-vaccine-plan.pdf)
+
+### Victorian COVID-19 Vaccination Program Implementation Plan (19 February 2021)
+
+Formal bilateral agreement between the Commonwealth and Victoria establishing the governance framework for the vaccine rollout. The Plan sets out agreed roles and responsibilities, provides for joint ownership, designates the Commonwealth and Victorian government divisions responsible for overseeing implementation, provides for oversight by the respective Secretaries, and requires changes to be agreed in writing.
+
+The Plan assigns the Australian Government responsibility for setting data collection and reporting requirements and adverse-event monitoring via the TGA, in collaboration with the Victorian Government.
+
+The Plan also contains specific arrangements for vaccine safety monitoring and surveillance of adverse events. These include near-total population coverage of active safety surveillance, clinical management and follow-up of serious adverse events, strengthened passive surveillance and reporting, timely reporting through agreed channels to the TGA, sharing of surveillance data with the TGA, integration with AusVaxSafety requirements, expanded SAEFVIC follow-up capacity, and daily analysis of active-surveillance reporting.
+
+**Source:** Victorian COVID-19 Vaccination Program Implementation Plan, 19 February 2021  
+
+**File:** [vic-vaccine-plan.pdf](vic-vaccine-plan.pdf)
+
+### Western Australian COVID-19 Vaccination Program Implementation Plan
+
+Formal bilateral agreement between the Commonwealth and Western Australia establishing the governance framework for the vaccine rollout. It provides a further example of a jurisdictional implementation arrangement operating within the national vaccination program framework.
+
+**Source:** Western Australian COVID-19 Vaccination Program Implementation Plan  
+
+**File:** [wa-vaccine-plan.pdf](wa-vaccine-plan.pdf)
 
 **Broader jurisdictional framework:** [Federal Financial Relations — COVID-19 Response](https://federalfinancialrelations.gov.au/agreements/covid-19-response)
 
