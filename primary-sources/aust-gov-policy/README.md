@@ -2,9 +2,7 @@
 
 [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html)
 
-This folder contains Australian Government and publicly available state government policy documents providing the governance framework for enhanced COVID-19 vaccine safety monitoring, including the National Cabinet-endorsed policy commitment that preceded the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan.
-
-The documents provide the Australian Government policy and Cabinet governance context relevant to that Plan.
+This folder contains Australian Government and publicly available state government policy documents providing the governance framework for enhanced COVID-19 vaccine safety monitoring, including the National Cabinet-endorsed policy commitment that preceded the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan. The documents include national and state implementation agreements establishing specific safety objectives, responsibilities, reporting requirements and implementation commitments. They provide the Australian Government policy, intergovernmental and Cabinet governance context relevant to that Plan.
 
 ---
 
@@ -32,6 +30,8 @@ Commits the Australian Government to active and comprehensive post-market safety
 ## State COVID-19 Vaccination Program Implementation Plans
 
 Formal intergovernmental implementation plans established governance arrangements for the vaccine rollout, including defined roles, responsibilities, oversight and implementation processes. The National Partnership on COVID-19 Response required states to develop jurisdictional implementation plans giving effect to agreed national policy and legislative requirements, and expressly required states to ensure that immunisation providers remained compliant with their safety, ethical and reporting obligations.
+
+These contemporaneous national and state implementation agreements established specific safety objectives, responsibilities, reporting requirements and implementation commitments. This directly contradicts Senate testimony by senior TGA officials on 9 October 2025 that vaccine safety monitoring was managed through “day-to-day processes” rather than systematic tracking against the Plan’s objectives.
 
 The Victorian and Western Australian plans are examples of these jurisdictional arrangements.
 
