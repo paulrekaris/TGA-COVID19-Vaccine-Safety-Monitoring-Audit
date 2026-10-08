@@ -79,12 +79,6 @@ Further questions on scope, methodology, limitations and how to verify or challe
 
 ---
 
-## Project metadata
-
-Structured bibliographic and project metadata, including identifiers, keywords, version and citation information: [project metadata record](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md)
-
----
-
 ## Permanent record
 
 Audit report (SSRN) [10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)
@@ -124,4 +118,4 @@ TGA written answer to Senate Question on Notice 559 (DHDA SQ25-001584).
 ---
 
 © 2026 Paul Rekaris · Independent researcher · ORCID [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
-Licensed CC BY 4.0 · Version 1.9.5, October 2026
+Licensed CC BY 4.0 · Version 1.9.5, October 2026 · [Project metadata](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md)
