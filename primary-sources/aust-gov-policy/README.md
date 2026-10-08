@@ -33,16 +33,17 @@ Commits the Australian Government to active and comprehensive post-market safety
 
 Formal intergovernmental implementation plans established governance arrangements for the vaccine rollout, including defined roles, responsibilities, oversight and implementation processes. The National Partnership on COVID-19 Response required states to develop jurisdictional implementation plans giving effect to agreed national policy and legislative requirements, and expressly required states to ensure that immunisation providers remained compliant with their safety, ethical and reporting obligations.
 
-The Victorian and Western Australian plans are examples of these jurisdictional arrangements. The Victorian plan also contains specific arrangements for vaccine safety monitoring and surveillance of adverse events, including active and passive surveillance, safety signalling, reporting to the TGA through agreed channels, sharing of surveillance data, integration with AusVaxSafety requirements, and investigation and follow-up of adverse events. It also provided for daily analysis of active-surveillance reporting.
+The Victorian and Western Australian plans are examples of these jurisdictional arrangements.
 
 These contemporaneous arrangements provide a useful documentary benchmark for the specificity with which vaccine safety-monitoring responsibilities, data integration and reporting pathways were documented within the national vaccination program.
 
 This provides important context for the audit finding that the TGA’s February 2021 Plan cannot be independently verified from the available documentary record as having been implemented through a similarly traceable set of Plan-specific governance, integration and performance-measurement arrangements.
 
-**National framework:**  
-[National Partnership on COVID-19 Response — Vaccine Amendment Schedule](https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/covid-19_response_vaccine_amendment_schedule.pdf)
+**National framework:**
 
-**Source:** National Partnership on COVID-19 Response — Vaccine Amendment Schedule  
+**Source:** National Partnership on COVID-19 Response — Vaccine Amendment Schedule
+
+**URL:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/covid-19_response_vaccine_amendment_schedule.pdf
 
 **File:** [national-partnership-on-covid-response.pdf](national-partnership-on-covid-response.pdf)
 
@@ -56,7 +57,7 @@ The Plan assigns the Australian Government responsibility for setting data colle
 
 The Plan also contains specific arrangements for vaccine safety monitoring and surveillance of adverse events. These include near-total population coverage of active safety surveillance, clinical management and follow-up of serious adverse events, strengthened passive surveillance and reporting, timely reporting through agreed channels to the TGA, sharing of surveillance data with the TGA, integration with AusVaxSafety requirements, expanded SAEFVIC follow-up capacity, and daily analysis of active-surveillance reporting.
 
-**Source:** Victorian COVID-19 Vaccination Program Implementation Plan, 19 February 2021  
+**Source:** Victorian COVID-19 Vaccination Program Implementation Plan, 19 February 2021
 
 **URL:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf
 
@@ -66,7 +67,7 @@ The Plan also contains specific arrangements for vaccine safety monitoring and s
 
 Formal bilateral agreement between the Commonwealth and Western Australia establishing the governance framework for the vaccine rollout. It provides a further example of a jurisdictional implementation arrangement operating within the national vaccination program framework.
 
-**Source:** Western Australian COVID-19 Vaccination Program Implementation Plan  
+**Source:** Western Australian COVID-19 Vaccination Program Implementation Plan
 
 **URL:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/wa_vaccine_plan.pdf
 
