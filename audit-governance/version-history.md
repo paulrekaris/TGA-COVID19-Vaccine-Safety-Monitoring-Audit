@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 8 October 2026
+**Last updated:** 10 October 2026
 
 
 ---
@@ -45,6 +45,8 @@ Update Commonwealth Ombudsman administrative complaint 2025-806374 and timeline 
 Added primary-source reference documenting Morrison's statement that the Australian COVID-19 Vaccination Policy was adopted by Federal Cabinet before subsequent National Cabinet endorsement.
 
 Added Australian Government Cabinet governance sources, including the 14th edition Cabinet Handbook and Prime Minister Morrison’s transcript confirming Federal Cabinet adoption of the Australian COVID-19 Vaccination Policy; updated the Australian Government policy README with source metadata and repository links; and clarified in the main README the relationship between the November 2020 national policy commitment, the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan and cabinet governance requirements.  Added and restructured the national and state vaccination implementation framework, including the National Partnership on COVID-19 Response and Victorian and Western Australian implementation plans; expanded analysis of their governance, vaccine safety-monitoring, reporting and data-sharing arrangements; and clarified how these contemporaneous commitments provide a documentary benchmark for assessing implementation and monitoring against the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan.
+
+Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021) to its archived PDF in primary-sources/tga-documents, and linked the Australian Government Policy folder for the underlying national and state governance documents. Both use absolute GitHub links so they resolve wherever the page is read.
 
 **The main audit report, 19 assessed outputs, conformity ratings and overall finding remain unchanged: 3 of 19 outputs fully documented, 10 partially documented and 6 not documented; overall finding NON-CONFORMING.**
 
