@@ -34,9 +34,9 @@
 > 
 > - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented comprehensive Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. This methodology was not identified in the concurrent public safety reports.
 > 
-> - **OAIC search excluded relevant advisory body evidence:** TGA's September 2024 OAIC-directed searches (531+ containers) recorded that Objective 5 Advisory Committee containers were "unable to [be] meaningfully interpret[ed]", despite FOI 4029-03 (D21-3141615) containing relevant ACV governance evidence—indicating an inadequate search scope for verification of Plan implementation.
+> - **OAIC search excluded relevant advisory body evidence:** TGA's September 2024 OAIC-directed searches (sample searches, one term returning 531+ containers) recorded that Objective 5 Advisory Committee containers were "unable to [be] meaningfully interpret[ed]", despite FOI 4029-03 (D21-3141615) containing relevant ACV governance evidence—indicating an inadequate search scope for verification of Plan implementation.
 > 
-> - **Third-party verification confirms gaps:** FOI 5275 (August 2024, independent applicant) received response that TGA "does not hold incidence data" for AusPAR-specified monitoring conditions 3.5 years post-approval, providing additional evidence relevant to the documented implementation of Strategy 2.3
+> - **Third-party data gap:** FOI 5275 (August 2024, independent applicant) received response that TGA does not hold "incidence data" related to cancer. This shows a data gap, not whether the Strategy 2.3 calculation was performed
 > 
 > - **Compensation barrier documented:** TGA investigated 150 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved, with the remaining 4,440 denied or withdrawn. Claimants' treating doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
 > 
@@ -48,7 +48,7 @@
 > 
 > - **ANAO performance principle violated:** "Performance information should enable assessment of whether outcomes achieved and outputs delivered as planned"—Plan's 19 outputs never tracked in public reports despite FOI 4029-03 proving TGA tracked Strategy 2.3 internally for Advisory Committee
 >
-> - **Senate QON 559 corroboration:** TGA's formal written answer to Question 20 (Strategy 2: Signal Detection) produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. Strategy 5 (Collaborations) omits AusVaxSafety entirely. 93 of 150 investigated signals reported in the QON have no publicly documented decision rationale. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md)
+> - **Senate QON 559 corroboration:** TGA's formal written answer to Question 20 (Strategy 2: Signal Detection) produces no statistical methodology outputs despite FOI 4029-03 proving methodology existed. Strategy 5 (Collaborations) omits AusVaxSafety entirely. The audit calculates that 93 of the 150 investigated signals reported in the QON (150 less 57 actions) have no publicly documented decision rationale. See [QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md)
 > 
 > - **Central finding validated:** Monitoring activities demonstrably occurred (150 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
@@ -304,7 +304,7 @@ Senate QON 559 (SQ25-001584) provides direct corroboration — TGA's formal writ
 
 **TGA's September 2024 OAIC Search (MR22/00538):**
 
-TGA claimed "all reasonable steps" were taken through searching 531 TRIM containers across pharmacovigilance and policy teams. However, this search methodology excluded:
+TGA claimed "all reasonable steps" were taken through sample searches across pharmacovigilance and policy teams (one term returned 531 TRIM containers). However, this search methodology excluded:
 - Advisory Committee on Vaccines (ACV) containers
 - Advisory body meeting minutes systematically
 - Container D21-3141615 (which holds FOI 4029-03)
@@ -358,7 +358,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 - **Scope:** Excluded advisory body containers where governance occurs
 - **Breadth:** Limited to operational teams, excluded governance forums
 
-**Third-Party Verification:** FOI 5275 (August 2024, independent applicant) sought monthly incidence data for conditions the Comirnaty AusPAR identified as requiring monitoring. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." This provides independent corroboration of documentation gaps from a different applicant.
+**Third-Party Verification:** FOI 5275 (August 2024, independent applicant) sought monthly incidence data for conditions the Comirnaty AusPAR identified as requiring monitoring. TGA response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." This shows a data gap on cancer incidence data, not whether the Strategy 2.3 calculation was performed.
 
 **Implication:** TGA's search methodology inadequacy prevented identification of FOI 4029-03, which demonstrates organisational capacity to prepare Plan-organised materials—directly relevant to assessing whether practical refusal based on claimed organisational impracticality is justified. An appropriately scoped search including advisory body containers would have identified this evidence, enabling proper assessment of TGA's practical refusal defence.
 
@@ -408,7 +408,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 This analysis demonstrates extensive surveillance activities occurred: 140,000+ DAEN reports collected, 3M+ AusVaxSafety responses gathered, 150 signals investigated, 57 regulatory actions taken, 150+ reports published across 33 months.
 
-FOI 4029-03 provides evidence that TGA prepared Strategy 2.3 methodology materials and presented these to the Advisory Committee on Vaccines in September 2021, demonstrating organisational capacity to prepare materials organised by Plan objectives for advisory body forums. This capacity was again demonstrated in September 2024 when TGA organised 2,218 pages by Plan objectives for OAIC review (MR22/00538).
+FOI 4029-03 provides evidence that TGA prepared Strategy 2.3 methodology materials and presented these to the Advisory Committee on Vaccines in September 2021, demonstrating organisational capacity to prepare materials organised by Plan objectives for advisory body forums. In September 2024 the Department estimated 2,218+ pages of potentially relevant material for OAIC review (MR22/00538).
 
 However, the systematic absence of Plan framework references in concurrent public reports, lack of documented data source reconciliation, unexplained methodology gaps in "expected rates" comparisons, observable surveillance degradation from enhanced to routine characteristics, and inadequate OAIC search scope that excluded advisory body containers collectively demonstrate a transparency gap between internal advisory body reporting and public accountability.
 
@@ -450,7 +450,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 11. Parliament of Australia. (2025). Senate Community Affairs Legislation Committee Estimates – 9 October 2025. Health Portfolio. Hansard sid=0003. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
-12. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data relevant to Strategy 2.3 AIR-denominator methodology (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
+12. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold cancer incidence data requested by reference to the Comirnaty AusPAR (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
 13. Malikova, M.A. (2020). Practical applications of regulatory requirements for signal detection and communications in pharmacovigilance. Therapeutic Advances in Drug Safety, 11, 1–15. Peer-reviewed pharmacovigilance reference establishing signal management as a documented process requiring tracked actions at every stage. https://doi.org/10.1177/2042098620909614
 
@@ -460,7 +460,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 11 September 2026
+**Last updated:** 14 October 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
