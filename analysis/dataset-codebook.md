@@ -6,9 +6,9 @@
 
 ## 1. Purpose
 
-This codebook documents the variables, classification codes, evidence tiers, and rating scales used in the evidence matrix underlying the TGA COVID-19 Vaccine Safety Monitoring Documentation Dataset (v1.9.3). The matrix assesses 19 analytical outputs derived from the TGA Safety Monitoring Plan (February 2021) — comprising 17 pharmacovigilance strategies and two additional governance-related outputs. The primary analytical unit is the assessed output classification, with each output mapped to associated documentary evidence, evidence tiers, severity ratings, and explanatory metadata. All summary statistics are directly reproducible from the matrix using standard analytical tools.
+This codebook documents the variables, classification codes, evidence tiers, and rating scales used in the evidence matrix underlying the TGA COVID-19 Vaccine Safety Monitoring Documentation Dataset (v1.9.6). The matrix assesses 19 analytical outputs derived from the TGA Safety Monitoring Plan (February 2021) — comprising 17 pharmacovigilance strategies and two additional governance-related outputs. The primary analytical unit is the assessed output classification, with each output mapped to associated documentary evidence, evidence tiers, severity ratings, and explanatory metadata. All summary statistics are directly reproducible from the matrix using standard analytical tools.
 
-Documented classification outcome across all 19 outputs: 3 Fully Implemented, 10 Partially Implemented, 6 Not Documented.
+Documented classification outcome across all 19 outputs: 3 Fully Implemented, 13 Partially Implemented, 3 Not Documented.
 
 The codebook should be read in conjunction with the data article: Rekaris, P. (2026). A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan. SSRN. Available at SSRN: http://dx.doi.org/10.2139/ssrn.6610438.
 
@@ -45,7 +45,7 @@ Collected materials are organised using a four-tier source-reliability framework
 
 ## 4. Severity Rating Scale
 
-Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation gap relative to the monitoring framework objectives. The mean severity rating across all 19 outputs is 3.47.
+Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation gap relative to the monitoring framework objectives. The mean severity rating across all 19 outputs is 3.26.
 
 | Rating | Label | Definition |
 |---|---|---|
@@ -102,7 +102,7 @@ The following statistics are directly reproducible from the evidence matrix usin
 | Documentation status distribution | Count of outputs by Status | `df['Status'].value_counts()` |
 | Status by objective cross-tabulation | Pivot of Status × derived Objective category | `pd.crosstab(df['Objective'], df['Status'])` |
 | Severity rating by objective | Mean, min, max of Rating (1–5) grouped by Objective | `df.groupby('Objective')['Rating (1-5)'].agg(['mean','min','max'])` |
-| Mean severity rating | Average of Rating (1–5) across all 19 outputs | `df['Rating (1-5)'].mean()` → 3.47 |
+| Mean severity rating | Average of Rating (1–5) across all 19 outputs | `df['Rating (1-5)'].mean()` → 3.26 |
 
 ---
 
@@ -126,5 +126,5 @@ Replication code for all summary statistics is provided in [Replication README](
 
 ---
 
-**Codebook version:** v1.2  
-**Last updated:** 20 July 2026
+**Codebook version:** v1.3  
+**Last updated:** 14 October 2026
