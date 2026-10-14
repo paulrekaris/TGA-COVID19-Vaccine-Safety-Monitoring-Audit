@@ -163,7 +163,7 @@ TGA possessed and documented these methodologies internally. The QON answer does
 
 **GVP Module IX principle:** GVP Module IX provides for systematic signal validation, analysis, prioritisation, assessment and tracking of signal-management activities.
 
-**Finding:** Not documented at Plan output level. This is the most significant gap in TGA's QON answer. It directly strengthens Finding 4 (signal investigation audit trails), Finding 5 (AusVaxSafety integration), and the signal-to-action traceability gap. The audit's conformity rating for Output 2.2 — not documented — is reinforced.
+**Finding:** Not documented at Plan output level. This is the most significant gap in TGA's QON answer. It directly strengthens Finding 4 (signal investigation audit trails), Finding 5 (AusVaxSafety integration), and the signal-to-action traceability gap. The answer does not change the audit's rating for Output 2.2 (Partially Implemented): it adds no COVID-specific investigation methodology or account of how the 150 signals were investigated.
 
 ---
 
@@ -351,6 +351,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 11 September 2026
+**Last updated:** 14 October 2026
 
 [↑ Back to top](#table-of-contents)
