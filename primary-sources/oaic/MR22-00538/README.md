@@ -16,14 +16,13 @@ This folder contains decisions and material from the Office of the Australian In
 
 ### Summary
 
-The OAIC reviewed TGA's comprehensive TRIM search (September 2024, 531+ containers, eight search terms, two independent searchers) and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding that the requested implementation documentation "cannot be found or does not exist." [TGA submission to OAIC (MR22/00538, Sept 2024, redacted)](tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
+The OAIC accepted the Department's sample TRIM searches (September 2024, eight search terms, two senior TGA officers) and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding that documents within the scope of the request "cannot be found or do not exist." [TGA submission to OAIC (MR22/00538, Sept 2024, redacted)](tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 
 ### Evidentiary Significance
 
-The OAIC decision confirms at administrative law level that TGA's Safety Monitoring Plan implementation documentation cannot be found or does not exist. This is an independent government determination, not an audit conclusion. Independent legal analysis by [Sparke Helmore (11 May 2025)](../../../reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)
-confirmed the administrative law finding.
+The OAIC decision confirms at administrative law level that the implementation report requested under FOI 3643 cannot be found or does not exist. This is an independent government determination, not an audit conclusion. Independent legal analysis by [Sparke Helmore (11 May 2025)](../../../reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)
 
 ---
 
-**Last Updated:** 20 April 2026  
+**Last Updated:** 14 October 2026  
 **Licence:** CC BY 4.0
