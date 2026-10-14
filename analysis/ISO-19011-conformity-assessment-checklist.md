@@ -68,12 +68,12 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 6. Public messaging ("no different") cannot be reconciled with the formal commitment to "enhanced" monitoring.
 7. Expert warnings (2020) not demonstrably addressed.
 
-**Evidence base.** The TGA's own OAIC-directed searches (531+ TRIM containers, zero implementation records); Senate evidence given under parliamentary privilege ("day-to-day processes"); Senate Question on Notice 559 (SQ25-001584); OAIC Decision [2025] AICmr 54; and systematic review of the public FOI and surveillance-report record.
+**Evidence base.** The TGA's own OAIC-directed searches (sample searches; one term returned 531+ TRIM containers; no implementation records identified); Senate evidence given under parliamentary privilege ("day-to-day processes"); Senate Question on Notice 559 (SQ25-001584); OAIC Decision [2025] AICmr 54; and systematic review of the public FOI and surveillance-report record.
 
 **Key supporting evidence.**
 
 - FOI 4029-03: the TGA presented Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021), while concurrent public reports carried no such output.
-- FOI 5275: the TGA does not hold the incidence data Strategy 2.3 required, indicating the AIR-denominator calculation was not performed.
+- FOI 5275: the TGA does not hold one requested cancer incidence data set, which output 2.3 does not name. This shows a data gap, not whether the calculation was performed.
 - FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review, against the TGA's own Work Instruction threshold (FOI 4029-06).
 - Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and gaps against ICH E2E and CIOMS Working Group VIII practice.
 - Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)**, confirming the repository contains all available Plan implementation evidence; no additional records were missed.
@@ -152,12 +152,12 @@ Evidence is weighted by origin, prioritising auditee-generated and independently
 
 | Source origin | Evidence type | Weight |
 |------|---------------|---------|
-| Auditee's own systematic searches | TGA's OAIC-directed searches | Highest |
+| Auditee's own sample searches | TGA's OAIC-directed searches | Highest |
 | Auditee's statements to Parliament | Senate evidence under privilege; QON 559 | High |
 | Formal government records | FOI decisions under the FOI Act 1982 | High |
 | Public documentation | Safety reports, performance reports | Supporting |
 
-**Auditee's own systematic searches (highest weight).** September 2024 OAIC-directed searches, conducted by TGA officers under OAIC direction using the TGA's own classification framework. If implementation documentation existed, these searches would be expected to locate it. Result: no Plan-implementation records.
+**Auditee's own sample searches (highest weight).** September 2024 OAIC-directed searches, conducted by TGA officers under OAIC direction using the TGA's own classification framework. If implementation documentation existed, these searches would be expected to locate it. Result: no Plan-implementation records.
 
 **Auditee's statements to Parliament (under parliamentary privilege).** Senate Community Affairs Legislation Committee evidence, 9 October 2025, characterising monitoring as "day-to-day processes" never systematically tracked against the Plan; and Senate QON 559 (SQ25-001584), the TGA's formal written answer, which describes activity but produces no documentary evidence of systematic implementation. Senate estimates witnesses are generally not sworn; this evidence is protected by parliamentary privilege, and knowingly giving false or misleading evidence to a committee may be dealt with as contempt. It is not characterised as given under oath.
 
@@ -169,7 +169,7 @@ Findings rely mainly on auditee-generated and formal-record evidence, with publi
 
 ISO 19011:2018, Clause 6.4.7 requires that only information subject to verification should be accepted as audit evidence; where verifiability is low, the auditor must judge the degree of reliance. This weighting reflects evidential origin and independence rather than source type. Verification (cross-checking against independent sources) was achieved by cross-referencing each claim against at least one independent origin — for example, the auditee's parliamentary statements verified against formal FOI records and public reports. The combination of high-weight origin and independent verification provides the strongest evidentiary foundation.
 
-This audit provides **reasonable assurance** (not absolute certainty) based on systematic evidence collection within defined boundaries. The finding is **absence of verifiable evidence**, not **evidence of absence**. If implementation documentation exists but was not disclosed through FOI processes (multiple requests 2022-2025), located in TGA's OAIC-directed comprehensive searches (531 containers, September 2024), referenced in Senate testimony under parliamentary privilege, or published in 150+ public safety reports across 33 months, then TGA may address audit findings by producing such documentation through appropriate channels (FOI disclosure, OAIC provision, parliamentary submission, or public release). The audit methodology is designed to be responsive to new evidence and would incorporate it with transparent version history.
+This audit provides **reasonable assurance** (not absolute certainty) based on systematic evidence collection within defined boundaries. The finding is **absence of verifiable evidence**, not **evidence of absence**. If implementation documentation exists but was not disclosed through FOI processes (multiple requests 2022-2025), located in TGA's OAIC-directed sample searches (eight terms, September 2024), referenced in Senate testimony under parliamentary privilege, or published in 150+ public safety reports across 33 months, then TGA may address audit findings by producing such documentation through appropriate channels (FOI disclosure, OAIC provision, parliamentary submission, or public release). The audit methodology is designed to be responsive to new evidence and would incorporate it with transparent version history.
 
 **What OAIC AICmr 54 decided.** AICmr 54 found that the Department took all reasonable steps under FOI Act s 24A and that the documents cannot be found or do not exist. That supports this audit's absence finding. It is not an OAIC endorsement of the auditor's wider concerns, and it is not a finding that the TGA acted improperly: it found the FOI search process adequate. This document characterises AICmr 54 as an independent statutory finding that the implementation records cannot be located or do not exist.
 
@@ -220,7 +220,7 @@ These constraints are stated openly.
 
 **Assurance level.** This audit provides reasonable assurance, not absolute certainty, consistent with ISO 19011, ANAO performance-audit methodology, and open-source practice. Per ISO 19011:2018, 6.4.9.1 b), conclusions are reached taking into account the uncertainty inherent in the audit process; per 6.4.10 a) and 6.5.1 k), audit evidence is based on a sample of available information, with a residual risk that the sample is not fully representative.
 
-**If additional documentation exists.** If implementation documentation exists but was not disclosed through FOI processes (multiple requests 2022-2025), located in TGA's OAIC-directed comprehensive searches (531 containers, September 2024), referenced in Senate testimony under parliamentary privilege, or published in 150+ public safety reports across 33 months, then TGA may address audit findings by producing such documentation through appropriate channels (FOI disclosure, OAIC provision, parliamentary submission, or public release). The audit methodology is designed to be responsive to new evidence and would incorporate it with transparent version history.
+**If additional documentation exists.** If implementation documentation exists but was not disclosed through FOI processes (multiple requests 2022-2025), located in TGA's OAIC-directed sample searches (eight terms, September 2024), referenced in Senate testimony under parliamentary privilege, or published in 150+ public safety reports across 33 months, then TGA may address audit findings by producing such documentation through appropriate channels (FOI disclosure, OAIC provision, parliamentary submission, or public release). The audit methodology is designed to be responsive to new evidence and would incorporate it with transparent version history.
 
 **Finding statement.** The finding is absence of verifiable evidence, not evidence of absence. The audit does not claim enhanced monitoring did not occur; it finds that enhanced monitoring cannot be verified through documentation available within Commonwealth accountability frameworks.
 
@@ -263,7 +263,7 @@ This section records the ISO 19011 programme-management steps and their status.
 
 **Risks and opportunities.** Risks: political sensitivity; FOI-only access; solo-researcher capacity; institutional resistance. Mitigations: strict focus on documentation rather than clinical or causality claims; explicit delimitation as a documentation-gap audit; use of FOI and OAIC escalation to reduce missing-records risk; an open repository enabling external validation and correction. Opportunities: a replicable model for citizen audits; a durable public record; input to future crisis-response governance.
 
-**Extent and scope.** Subject: implementation of the Plan (February 2021). Outputs: the 17 strategies plus two governance outputs, 19 in total. Evidence base: FOI responses (2,218+ pages; 531+ TRIM folders), TGA publications, Senate evidence, relevant academic literature. Time period: February 2021 to January 2026. Geographic scope: national, focused on Commonwealth TGA responsibilities and inter-jurisdictional coordination. The two governance outputs reflect standard public-administration obligations applying to the Department of Health and Aged Care (PGPA Act 2013 s 37 (records), s 38 (measure and assess performance), s 39 (annual performance statements); PGPA Rule s 16F(2)).
+**Extent and scope.** Subject: implementation of the Plan (February 2021). Outputs: the 17 strategies plus two governance outputs, 19 in total. Evidence base: FOI responses (OAIC submission: the Department's estimate of 2,218+ relevant pages; one term returned 531+ containers), TGA publications, Senate evidence, relevant academic literature. Time period: February 2021 to January 2026. Geographic scope: national, focused on Commonwealth TGA responsibilities and inter-jurisdictional coordination. The two governance outputs reflect standard public-administration obligations applying to the Department of Health and Aged Care (PGPA Act 2013 s 37 (records), s 38 (measure and assess performance), s 39 (annual performance statements); PGPA Rule s 16F(2)).
 
 **Resources.** Four years of investigation; personal funding only; a single experienced researcher; FOI and OAIC review processes; a GitHub repository; Zenodo archiving. Resources were appropriate to the scope and objectives.
 
@@ -277,7 +277,7 @@ This section records the ISO 19011 programme-management steps and their status.
 2. Open-source collection: systematic collection of public TGA documents, reports and communications; analysis of Senate evidence; review of published safety reports and AusPARs; cross-referencing for contradictions; verification and source validation following recognised open-source practice.
 3. ANAO audit standards: the ANAO Audit Manual, ANAO Audit Insights on performance-information assessment, and ANAO records-management and audit-evidence guidance.
 
-**Source 1: TGA FOI responses.** 531 TRIM folders, 2,218 pages; systematic requests targeting each strategy; official documents lawfully obtained; limited by TGA control over provision and by record-keeping quality.
+**Source 1: TGA FOI responses.** the Department's estimate of 2,218+ relevant pages; one term returned 531+ containers; systematic requests targeting each strategy; official documents lawfully obtained; limited by TGA control over provision and by record-keeping quality.
 
 **Source 2: OAIC determinations.** OAIC review decisions, including MR22/00538; administrative review where FOI responses were inadequate; an independent oversight assessment.
 
@@ -320,7 +320,7 @@ To verify that no Plan implementation evidence was missed, a systematic review o
 
 A comparison was conducted between TGA's OAIC-directed search strategy (September 2024) and this audit's search method to validate that the evidence collection was comprehensive.
 
-**TGA's OAIC-directed searches (MR22/00538):** 8 search terms; document title-matching approach (e.g., "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring"); 531+ TRIM containers searched; result: zero implementation records found.
+**TGA's OAIC-directed searches (MR22/00538):** 8 search terms; document title-matching approach (e.g., "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring"); one term returned 531+ TRIM containers; no relevant documents in scope reported.
 
 **This audit's search strategy:** 14 output-specific and activity-based search terms (e.g., "signal detection", "AusVaxSafety coordination", "data integration", "enhanced monitoring", "AEFI escalation", "performance metrics"); scope: public documents, FOI releases, parliamentary records, partner publications; result: identified the same evidence gaps plus additional validation through systematic FOI corpus review.
 
@@ -334,7 +334,7 @@ Each finding states the criterion, the evidence, the finding and grade, and the 
 
 **Documentation coverage.** 3 of 19 outputs (16 per cent) have fully traceable documentation; 16 of 19 (84 per cent) are partially documented or have no identifiable implementation records.
 
-**A note on the signal figures.** Two official TGA figures exist, and the difference between them is itself relevant. In Senate evidence (9 October 2025) the TGA stated 148 signals investigated and 57 regulatory actions taken, leaving 91 investigated signals (about 61 per cent) with no publicly documented decision rationale. In Senate QON 559 (SQ25-001584), the TGA's later written answer stated 150 signals and 57 actions, leaving 93 with no documented rationale. Both are reported as given. That the agency's own signal count differs between spoken evidence (148) and written answer (150), with no reconciliation, is consistent with Finding 1.
+**A note on the signal figures.** Two official TGA figures exist, and the difference between them is itself relevant. In Senate evidence (9 October 2025) the TGA stated 148 signals investigated and 57 regulatory actions taken. In Senate QON 559 (SQ25-001584), the TGA's later written answer stated 150 signals and 57 actions. Subtracting actions from signals gives 91 and 93 signals respectively with no publicly documented decision rationale. That subtraction is the audit's calculation, not a TGA figure. Both TGA counts are reported as given. That the agency's own signal count differs between spoken evidence (148) and written answer (150), with no reconciliation, is consistent with Finding 1.
 
 ### Finding 1: systematic tracking mechanism (major)
 
@@ -424,7 +424,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Applied to this audit.** The TGA published the Plan as the operational framework for enhanced monitoring under provisional approval. The burden rests with the TGA to demonstrate systematic implementation of the specified outputs, governance tracking progress, performance measurement of delivery, and documentation enabling independent verification. The burden does not rest with this audit to prove that monitoring never occurred, that officials did not work diligently, or that undocumented processes do not exist somewhere.
 
-**Evidence of systematic absence.** Across four years: the TGA's own OAIC-directed searches of 531+ containers found no implementation-tracking documents; the TGA's own statements (no implementation report exists, February 2022; "day-to-day processes" never systematically tracked, October 2025; Objective 5 "unable to meaningfully interpret into searchable item", September 2024); independent oversight (AICmr 54 confirming the documents cannot be found or do not exist, and the Sparke Helmore administrative-law analysis); systematic review of 150+ public reports with no Plan-framework reference; systematic review of 500+ FOI disclosure log entries with no Plan-framework references; and multiple FOI processes (FOI 3643, 5082, 25-0166, 5275) returning the same result.
+**Evidence of systematic absence.** Across four years: the TGA's own OAIC-directed sample searches (one term returned 531+ containers) found no implementation-tracking documents; the TGA's own statements (no implementation report exists, February 2022; "day-to-day processes" never systematically tracked, October 2025; Objective 5 "unable to meaningfully interpret into searchable item", September 2024); independent oversight (AICmr 54 confirming the documents cannot be found or do not exist, and the Sparke Helmore administrative-law analysis); systematic review of 150+ public reports with no Plan-framework reference; systematic review of 500+ FOI disclosure log entries with no Plan-framework references; and multiple FOI processes (FOI 3643, 25-0166) that produced no Plan implementation report.
 
 **The accountability gap.** Not that monitoring did not occur (activity clearly happened), but that the Plan's enhanced framework cannot be verified through documentation accessible within Commonwealth accountability mechanisms.
 
@@ -487,8 +487,8 @@ In healthcare, high-reliability and patient-safety frameworks developed by bodie
 | Finding category | Count | Percentage |
 |-----------------|-------|------------|
 | Fully documented | 3 | 16% |
-| Partially documented | 10 | 53% |
-| Not documented | 6 | 31% |
+| Partially documented | 13 | 68% |
+| Not documented | 3 | 16% |
 
 **Major non-conformities:** 7. **Minor non-conformities:** 0.
 
@@ -504,11 +504,11 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | | 1.4 | Enhanced AEFI data capabilities | ◐ Partial | 140k+ reports processed; no enhanced-preparation evidence |
 | | 1.5 | Enhanced AEFI escalation | ◐ Partial | 150 signals investigated; no COVID-specific escalation protocol documented |
 | **2: Enhanced signal detection** | 2.1 | Safety-profile understanding | ◐ Partial | AESI list used; expected-rates methodology not documented |
-| | 2.2 | Enhanced individual-AEFI investigation | ✗ Not doc | OAIC searches: no COVID-specific protocols |
-| | 2.3 | Enhanced cumulative data reviews | ✗ Not doc | FOI 4029-03 shows ACV presentation but no public outputs; FOI 5275 confirms the TGA does not hold the incidence data the strategy required (AIR-denominator calculation not performed); no CIOMS-style signal-to-action trail |
+| | 2.2 | Enhanced individual-AEFI investigation | ◐ Partial | FOI 5082: general investigation work instructions and a working draft COVID-19 framework; no COVID-specific methodology |
+| | 2.3 | Enhanced cumulative data reviews | ◐ Partial | FOI 5082: 2021 MaxSPRT plan, weekly cumulative review, August 2021 DPAR and chi-squared results; FOI 4029-03 ACV presentation; no MaxSPRT or routine review outputs; no CIOMS-style signal-to-action trail |
 | | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 66.8M surveys; documented AusVaxSafety signal detection and notification/discussion of some signals with TGA; no documented TGA–AusVaxSafety coordination protocols or systematic pathway demonstrating how AusVaxSafety surveillance findings informed TGA signal detection and investigation; QON 559 omits AusVaxSafety from the collaborations answer |
 | | 2.5 | Clinical studies and reports | ✗ Not doc | OAIC searches: no enhanced sponsor-report process |
-| | 2.6 | Environmental scanning | ✗ Not doc | OAIC searches: no systematic scanning process |
+| | 2.6 | Environmental scanning | ◐ Partial | FOI 5082 working draft lists scanning sources; no record of scanning results |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation; no systematic sharing protocol |
 | | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; VSIG operational (FOI 4029-05); record does not show child deaths referred, against Work Instruction threshold (FOI 4029-06) |
 | **3: Regulatory action** | 3.1 | Regulatory/programmatic action | ◐ Partial | 57 actions; no documented rapid-response framework |
@@ -517,7 +517,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | | 5.2 | International collaborations | ◐ Partial | ICMRA participation; no systematic frameworks |
 | **Governance** | GOV.1 | Implementation oversight | ✗ Not doc | Senate: "never systematically tracked"; no governance documents located |
 | | GOV.2 | Performance measurement | ✗ Not doc | No metrics; Plan not referenced in performance reports |
-| | **TOTAL** | **19 outputs** | **3 ✓ / 10 ◐ / 6 ✗** | **16% fully documented; 84% partial or not documented** |
+| | **TOTAL** | **19 outputs** | **3 ✓ / 13 ◐ / 3 ✗** | **16% fully documented; 84% partial or not documented** |
 
 *A complete output-by-output evidence trail, including detailed source citations for each output, is available in the [Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx).*
 
@@ -526,18 +526,18 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | Objective | Outputs | Fully ✓ | Partial ◐ | Not doc ✗ | Fully-documented % |
 |--------|--------|---------|-----------|-----------|--------------------|
 | 1: Enhanced AEFI reporting | 5 | 2 | 3 | 0 | 40% |
-| 2: Enhanced signal detection | 8 | 0 | 4 | 4 | 0% |
+| 2: Enhanced signal detection | 8 | 0 | 7 | 1 | 0% |
 | 3: Regulatory action | 1 | 0 | 1 | 0 | 0% |
 | 4: Communications | 1 | 1 | 0 | 0 | 100% |
 | 5: Collaborations | 2 | 0 | 2 | 0 | 0% |
 | Governance | 2 | 0 | 0 | 2 | 0% |
-| **Total** | **19** | **3** | **10** | **6** | **16%** |
+| **Total** | **19** | **3** | **13** | **3** | **16%** |
 
 The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1). The undocumented outputs are the ones that would distinguish enhanced monitoring from routine: the process, integration, and governance outputs. *(Objective 3 shows 0% on a single partial output; the low percentage reflects the single-output denominator, not a separate failure beyond what Finding 1 records.)*
 
 ### Critical Gap Analysis
 
-1. **Enhanced signal detection (Objective 2):** 8 outputs, 0 fully documented. FOI 4029-03 shows the Strategy 2.3 method was presented internally (September 2021) while concurrent public reports carried no such output; FOI 5275 confirms the TGA does not hold the incidence data the strategy required.
+1. **Enhanced signal detection (Objective 2):** 8 outputs, 0 fully documented. FOI 4029-03 shows the Strategy 2.3 method was presented internally (September 2021) while concurrent public reports carried no such output; FOI 5275 shows the TGA does not hold one requested cancer incidence data set.
 2. **Governance and performance:** 2 outputs, 0 documented. Senate evidence states monitoring was never systematically tracked; the OAIC searches found no governance documentation; the public reports carry no Plan-framework reference.
 3. **Enhanced versus routine:** 17 of 19 outputs cannot be distinguished as enhanced rather than routine from the documentary record.
 4. **Communication versus process:** The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1); the process, integration and governance outputs range from 0 to 40 per cent.
@@ -682,7 +682,7 @@ All URLs were verified as accessible in January 2026.
 23. TGA. (2023). FOI 4029: COVID-19 vaccine pharmacovigilance (VSIG work instruction, ACV meetings, safety reports). https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-01.PDF
 24. TGA. (2024, August). FOI 5082: COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 25. TGA. (2024). FOI 5275 Notice of Decision (21 August 2024). Third-party request for monthly cancer-incidence surveillance data related to Comirnaty provisional approval; response: documents do not exist; TGA does not hold incidence data. Obtained via FOI 26-2581 (decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
-26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (2,218 pages, 531 TRIM folders). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf
+26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (Department's estimate of 2,218+ relevant pages; one term returned 531+ containers). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf
 27. TGA. (2025, April 24). FOI 25-0166 first request consultation letter (practical refusal, s24AB).
 28. 23. TGA. (2026, June). FOI 26-3110: AusVaxSafety Annual Report 2022. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log?
 
@@ -779,15 +779,15 @@ Significance: this statutory position is highest-weight evidence (auditee's own 
 
 Context: following the February 2022 refusal, the TGA conducted an OAIC-directed search 2.5 years later (MR22/00538).
 
-Method: two independent searchers (a senior medical officer and an assistant director, vaccines surveillance); eight search terms across the TRIM system; 531+ containers reviewed; searches included "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring", and "Implementation vaccine safety".
+Method: two independent searchers (a senior medical officer and an assistant director, vaccines surveillance); eight search terms across the TRIM system; one term returned 531+ containers; searches included "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring", and "Implementation vaccine safety".
 
 Results: no implementation reports; no evaluation documents; no systematic Plan-tracking documentation. The only documents located were emails to the applicant stating that no implementation report exists.
 
-Attachment A, page 29 of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
+Page 29 of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
 
-Notably, the search officer did not limit the search to the original terms. Rows 7 and 8 of Attachment A show the officer independently added “Implementation COVID-19 vaccine pharmacovigilance plan” and “Audit report COVID-19 vaccine pharmacovigilance plan” as additional search terms — expanding the scope beyond what was requested. Both returned zero results. The inability to locate records was not the product of a constrained or narrow search design. It reflects an expanded, good-faith search that still returned nothing.
+Notably, the search officer did not limit the search to the original terms. Rows 7 and 8 of the search table in Attachment D show the officer independently added “Implementation COVID-19 vaccine pharmacovigilance plan” and “Audit report COVID-19 vaccine pharmacovigilance plan” as additional search terms, expanding the scope beyond what was requested. Row 7 returned one draft policy input, which TGA classed as not in scope, and row 8 returned nothing. The search was not narrow. It was expanded and still identified no implementation records.
 
-The Principal Medical Advisor’s covering email estimated the search exercise would take “no longer than 30 minutes.” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31)
+The Principal Medical Advisor’s covering email estimated the search exercise would take no longer than 30mintues” [sic] (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 32)
 
 Gaps identified:
 
@@ -795,7 +795,7 @@ Gaps identified:
 2. **Objective 5 "unable to meaningfully interpret".** The TGA stated the collaboration commitment could not be meaningfully interpreted into a searchable item, indicating an absence of searchable records for stakeholder coordination.
 3. **Search covered document types.** The TGA searched by document type (SOPs, protocols, guidelines, workflows) and located records of those types, yet found no Plan-implementation documentation — so the absence reflects non-existence, not a search that was too narrow to reach it.
 
-Summary: 2,218+ pages of operational documents were found (AEFI processing, signal-detection procedures); no Plan-implementation tracking documents were found.
+Summary: the Department estimated 2,218+ pages of operational documents (AEFI processing, signal-detection procedures); no Plan-implementation tracking documents were found.
 
 ---
 
@@ -827,7 +827,7 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 27 Feb 2022 | FOI 3643 decision | Refusal under s 24A; "no implementation report exists"; "ample documentation" but no evaluation report | Mentions objectives, no evidence | No progress report provided |
 | 2022-2024 | OAIC review MR22/00538 | Applicant seeks IC review | Whether all reasonable steps taken | OAIC investigation opens |
 | 9 Aug 2024 | OAIC directions | Directs further searches and detailed evidence | Yes | Triggers TRIM search programme |
-| 20 Sep 2024 | OAIC submission | 8 terms, 531+ containers, 2,218+ pages; no implementation reports | Searches by objective; Objective 5 "unable to meaningfully interpret" | No implementation or governance documentation located |
+| 20 Sep 2024 | OAIC submission | 8 terms; one term returned 531+ containers; Department estimate 2,218+ pages; no implementation reports | Searches by objective; Objective 5 "unable to meaningfully interpret" | No implementation or governance documentation located |
 | 26 Mar 2025 | OAIC AICmr 54 | Decision on FOI 3643 review | Search obligations | Confirms documents cannot be found or do not exist |
 | 1 Apr 2025 | FOI 25-0166 request | Up to six recent documents per objective | Structured around the five objectives | Tests a narrowly scoped request |
 | 24 Apr 2025 | FOI 25-0166 consultation notice | TGA identifies "more than 399 documents, 3,926 pages" in scope; total "likely to be higher" | In scope of request | s 24AB consultation; applicant invited to revise scope |
@@ -837,7 +837,7 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 
 ### Table D.2: Escalation Summary
 
-A four-year investigation (2022 to 2026) through escalating formal processes: initial inquiry (no Plan-specific evidence); formal FOI (no implementation report exists); OAIC review (triggers searches); OAIC-directed searches (531+ containers, no implementation documents); OAIC decision (documents cannot be found or do not exist); refined FOI (practical refusal; documents not identified against Plan objectives); second OAIC review; and Senate evidence (never systematically tracked). Each escalation confirmed rather than resolved the documentation gap.
+A four-year investigation (2022 to 2026) through escalating formal processes: initial inquiry (no Plan-specific evidence); formal FOI (no implementation report exists); OAIC review (triggers searches); OAIC-directed sample searches (one term returned 531+ containers; no implementation documents); OAIC decision (documents cannot be found or do not exist); refined FOI (practical refusal; documents not identified against Plan objectives); second OAIC review; and Senate evidence (never systematically tracked). Each escalation confirmed rather than resolved the documentation gap.
 
 ---
 
@@ -849,7 +849,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0** — released 5 August 2026  
-**Last updated:** 16 September 2026
+**Last updated:** 14 October 2026
 
 [Back to top](#table-of-contents)
 
