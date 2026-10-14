@@ -182,7 +182,7 @@ This audit applies transparency and records management standards to its own meth
 
 Detailed version control combined with OSINT documentation serves multiple accountability purposes:
 
-1. **Documents evolution**: Shows how findings developed as TGA positions shifted—initial FOI refusals (2022), OAIC-directed comprehensive searches (September 2024), subsequent practical refusal (June 2025), and Senate testimony confirming no systematic tracking (October 2025).
+1. **Documents evolution**: Shows how findings developed as TGA positions shifted—initial FOI refusals (2022), OAIC-directed sample searches (September 2024), subsequent practical refusal (June 2025), and Senate testimony confirming no systematic tracking (October 2025).
 2. **Prevents retrospective revision**: Creates an immutable record making silent correction of claims detectable if TGA later produces contradicting documentation—all prior versions remain accessible.
 3. **Demonstrates rigour**: Shows systematic, evidence-based OSINT methodology rather than predetermined conclusions—findings emerged from documented contradictions in TGA's own statements.
 4. **Enables verification**: Allows ANAO, OAIC, Ombudsman, Parliament, and peer reviewers to examine both analytical development and independently replicate FOI/Senate/OAIC evidence gathering.
@@ -250,6 +250,6 @@ Version history combined with OSINT documentation enables accountability infrast
 
 22. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
-**Last updated**: 11 September 2026
+**Last updated**: 14 October 2026
 
 [↑ Back to top](#table-of-contents)
