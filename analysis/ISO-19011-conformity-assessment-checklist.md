@@ -779,7 +779,7 @@ Significance: this statutory position is highest-weight evidence (auditee's own 
 
 Context: following the February 2022 refusal, the TGA conducted an OAIC-directed search 2.5 years later (MR22/00538).
 
-Method: two independent searchers (a senior medical officer and an assistant director, vaccines surveillance); eight search terms across the TRIM system; one term returned 531+ containers; searches included "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring", and "Implementation vaccine safety".
+Method: two senior TGA officers (a senior medical officer and an assistant director, vaccines surveillance); eight search terms across the TRIM system; one term returned 531+ containers; searches included "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring", and "Implementation vaccine safety".
 
 Results: no implementation reports; no evaluation documents; no systematic Plan-tracking documentation. The only documents located were emails to the applicant stating that no implementation report exists.
 
