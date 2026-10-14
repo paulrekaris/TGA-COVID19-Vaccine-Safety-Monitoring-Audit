@@ -8,7 +8,7 @@
 
 ## Summary
 
-FOI request 25-0166 sought implementation documentation for the TGA COVID-19 Vaccine Safety Monitoring Plan across five Plan objectives. The request underwent two rounds of consultation, with scope progressively refined from an estimated 399 documents (3,926 pages) to 30 documents across 12 defined categories. Despite this 92% reduction in scope and explicit TGA guidance that refined items "may be manageable," TGA refused the final request under practical refusal provisions, claiming that classifying documents by Plan objectives required "subjective interpretation"—nine months after successfully classifying 2,218+ pages by identical Plan objectives for the OAIC (September 2024, MR22/00538).
+FOI request 25-0166 sought implementation documentation for the TGA COVID-19 Vaccine Safety Monitoring Plan across five Plan objectives. The request underwent two rounds of consultation, with scope progressively refined from an estimated 399 documents (3,926 pages) to 30 documents across 12 defined categories. Despite this 92% reduction in scope and explicit TGA guidance that refined items "may be manageable," TGA refused the final request under practical refusal provisions, claiming that classifying documents by Plan objectives required "subjective interpretation"—nine months after estimating 2,218+ pages by identical Plan objectives for the OAIC (September 2024, MR22/00538).
 
 ---
 
@@ -269,7 +269,7 @@ This contradiction, combined with the search methodology inadequacy documented i
 
 The OAIC FOI Guidelines (paragraph 3.68) note that a practical refusal reason may be unreasonable if the work involved has already been undertaken by the agency for other purposes. TGA's September 2024 classification of 2,218+ pages by Plan objectives for OAIC review establishes prima facie evidence that classifying 30 documents by identical criteria nine months later does not constitute an unreasonable diversion of resources—particularly when the applicant responded to TGA guidance by achieving a 92% scope reduction.
 
-The question of whether practical refusal provisions under s24(1)(b) can legitimately be applied to classification tasks TGA demonstrably performed for oversight bodies nine months earlier—and initially characterised as "may be manageable"—remains for the OAIC or reviewing tribunals to determine. The documented capability to classify 2,218+ pages by Plan objectives for OAIC review provides a benchmark against which the "unreasonable diversion" claim for 30 documents can be assessed.
+The question of whether practical refusal provisions under s24(1)(b) can legitimately be applied to classification tasks TGA demonstrably performed for oversight bodies nine months earlier—and initially characterised as "may be manageable"—remains for the OAIC or reviewing tribunals to determine. The documented capability to estimate 2,218+ relevant pages by Plan objectives for OAIC review provides a benchmark against which the "unreasonable diversion" claim for 30 documents can be assessed.
 
 ---
 
