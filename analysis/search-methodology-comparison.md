@@ -10,7 +10,7 @@
 
 This document compares search methodologies employed to identify implementation documentation for the TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021).
 
-The comparison examines why TGA's OAIC-directed comprehensive searches across 531+ TRIM containers found zero Plan implementation records, and whether the search strategy employed was adequate to test document existence.
+The comparison examines why TGA's OAIC-directed sample searches, one term returning 531+ TRIM containers, found zero Plan implementation records, and whether the search strategy employed was adequate to test document existence.
 
 ---
 
@@ -155,7 +155,7 @@ These represent fundamentally different search strategies:
 - Plan and audit-title phrase matching vs evidence-based approach
 - Document name focus vs activity documentation focus
 
-The search exercise was estimated by the Principal Medical Advisor to take “no longer than 30 minutes” (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 31). For context, this was a search of the implementation record of a Cabinet-endorsed monitoring framework governing 68.4 million provisionally approved doses. The estimate raises a question as to whether the search was sufficiently comprehensive to test document existence beyond Plan-titled records.
+The search exercise was estimated by the Principal Medical Advisor to take “no longer than 30mintues” [sic] (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 32). For context, this was a search of the implementation record of a Cabinet-endorsed monitoring framework governing 68.4 million provisionally approved doses. The estimate raises a question as to whether the search was sufficiently comprehensive to test document existence beyond Plan-titled records.
 
 ### Implications for OAIC Finding
 
@@ -163,7 +163,7 @@ OAIC Decision [2025] AICmr 54 concluded TGA took "all reasonable steps" under s2
 
 However, TGA's search strategy did not employ output-specific terminology, pharmacovigilance vocabulary, or governance/tracking terms that would locate evidence of specific Plan implementation activities.
 
-> FOI 5275 provides a related example: a request for cancer incidence surveillance data relevant to Strategy 2.3 returned a TGA response that it did not hold the requested incidence data.
+> FOI 5275 provides a related example: a third-party request for incidence data returned a TGA response that it does not hold the requested cancer incidence data. This is a data gap, not evidence on whether the Strategy 2.3 calculation was performed.
 
 This raises questions about whether searches designed primarily to locate Plan-titled documents constitute "reasonable steps" to test the existence of implementation documentation.
 
@@ -218,6 +218,6 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ---
 
-**Last Updated:** 24 August 2026  
+**Last Updated:** 14 October 2026  
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0
