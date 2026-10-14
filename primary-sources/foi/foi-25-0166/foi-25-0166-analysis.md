@@ -113,7 +113,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
 
 **September 2024 (OAIC MR22/00538):**
 - Successfully organised and classified 2,218+ pages of vaccine safety documentation
-- Searched 531+ TRIM containers systematically
+- Ran sample TRIM searches (eight terms; one term returned 531+ containers)
 - Classified material by Plan objectives for Information Commissioner review
 - Demonstrated technical and methodological capacity for objective-based classification
 
@@ -140,7 +140,7 @@ The refusal demonstrates contradictory institutional positions:
 
 3. **Capability denied:** TGA characterised organising 30 documents by Plan objectives as impracticably subjective (June 2025) despite 92% scope reduction
 
-4. **Scope differential:** OAIC-directed search covered 531+ containers and 2,218+ pages; refined FOI request sought 30 documents across 12 predefined categories
+4. 4. **Scope differential:** OAIC-directed sample searches (one term returned 531+ containers) produced an estimate of 2,218+ relevant pages; refined FOI request sought 30 documents across 12 predefined categories
 
 The practical refusal occurred despite:
 - Applicant conducting two rounds of scope refinement in response to TGA guidance
@@ -155,7 +155,7 @@ The practical refusal occurred despite:
 | Aspect | FOI 25-0166 (June 2025) | OAIC MR22/00538 (September 2024) |
 |--------|-------------------------|----------------------------------|
 | Classification task | Organise 30 documents by Plan objectives (final refined scope) | Organised 2,218+ pages by Plan objectives |
-| Initial scope | 399 documents (3,926 pages) | 531+ TRIM containers |
+| Initial scope | 399 documents (3,926 pages) | Sample searches (one term: 531+ TRIM containers) | 
 | Scope reduction | 92% reduction (399 → 30 documents) in response to TGA consultation | N/A - full scope processed |
 | Categories defined | 12 categories explicitly specified | Search across all containers |
 | TGA initial assessment | Items 1(b)(c) "may be manageable" (24 April 2025) | Successfully completed |
@@ -253,7 +253,7 @@ Therapeutic Goods Administration. (2025). *FOI 25-0166 Request for Consultation 
 Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32.
 
 **Key content:**
-- Documentation of searches across 531+ TRIM containers
+- Documentation of sample searches (one term returned 531+ TRIM containers)
 - Classification of 2,218+ pages by Plan objectives
 - Search methodology employed (8 search terms)
 
@@ -275,5 +275,6 @@ The question of whether practical refusal provisions under s24(1)(b) can legitim
 
 **Document Type:** Supporting analysis   
 **Prepared:** 23 January 2026  
+**Last Revised** 14 October 2026
 **Author:** Paul Rekaris  
 **Status:** Reference material only. Not part of main audit assessment. 
