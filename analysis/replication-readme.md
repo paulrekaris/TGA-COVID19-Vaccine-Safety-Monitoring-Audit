@@ -20,8 +20,8 @@ print(df['Status'].value_counts())
 Expected output:
 
 ```
-◐ Partially Implemented    10
-✗ Not Documented            6
+◐ Partially Implemented    13
+✗ Not Documented            3
 ✓ Fully Implemented         3
 Name: count, dtype: int64
 ```
@@ -84,7 +84,7 @@ pd.crosstab(df['Objective'], df['Status'])
 df.groupby('Objective')['Rating (1-5)'].agg(['mean', 'min', 'max'])
 
 # Mean severity rating across all 19 outputs
-df['Rating (1-5)'].mean()  # → 3.47
+df['Rating (1-5)'].mean()  # → 3.26
 ```
 
 ---
@@ -120,7 +120,7 @@ table(df$Objective, df$Status)
 aggregate(`Rating (1-5)` ~ Objective, data = df, FUN = function(x) c(mean = mean(x), min = min(x), max = max(x)))
 
 # Mean severity rating across all 19 outputs
-mean(df$`Rating (1-5)`)  # → 3.47
+mean(df$`Rating (1-5)`)  # → 3.26
 ```
 
 ---
@@ -174,4 +174,4 @@ For variable definitions, evidence tier classification, severity rating scale, a
 Social Science Data Editors. (n.d.). *Template README for social science replication packages*. https://social-science-data-editors.github.io/template_README/
 
 **Version:** v1.1  
-**Last updated:** 28 June 2026
+**Last updated:** 14 October 2026
