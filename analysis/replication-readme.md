@@ -173,5 +173,5 @@ For variable definitions, evidence tier classification, severity rating scale, a
 
 Social Science Data Editors. (n.d.). *Template README for social science replication packages*. https://social-science-data-editors.github.io/template_README/
 
-**Version:** v1.1  
+**Version:** v1.2  
 **Last updated:** 14 October 2026
