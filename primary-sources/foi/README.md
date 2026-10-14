@@ -81,9 +81,9 @@ The contrast between TGA's demonstrated capacity to document routine processes (
 
 Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation documents (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months.
 
-Post-Plan COVID implementation documents (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) documented without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented.
+documented with limited reference to the Plan: an August 2021 presentation quotes Plan Strategy 2.3 (FOI 5082, p.42), but no integration, compliance framework or mapping to the Plan's other strategies was located.
 
-**Evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. The absence of Plan implementation documentation in FOI 5082 — combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538) — demonstrates this absence reflects non-implementation rather than non-documentation.
+**Evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. The limited reference to the Plan in FOI 5082, taken with the Plan-specific requests (FOI 3643, FOI 25-0166, MR22/00538) that produced no Plan implementation report, is consistent with the audit's finding that implementation cannot be verified from the documents released.
 
 **File:** [foi-5082.pdf](foi-5082.pdf)
 
@@ -91,7 +91,7 @@ Post-Plan COVID implementation documents (observed-vs-expected, MaxSPRT, enhance
 
 ## FOI 5275 – AusPAR-Specified Monitoring Conditions for Comirnaty (21 August 2024)
 
-The absence of condition-specific incidence data is confirmed by the auditor's own FOI request, FOI 26-2581 (decided 2 February 2026, decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch). The request sought monthly cancer incidence surveillance data related to Comirnaty's provisional approval conditions. TGA's response was unambiguous: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." This confirms that 3.5 years post-approval, condition-specific incidence data specified in TGA's own approval documents does not exist in accessible form — consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
+FOI 5275 is a third-party request, obtained by the auditor under FOI 26-2581 (decided 2 February 2026, decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch). The applicant sought monthly incidence data for named cancers and other conditions listed in the Comirnaty AusPAR. TGA's response: "the documents you have requested do not exist...the TGA does not hold 'incidence data' related to cancer." This shows the TGA does not hold the requested cancer incidence data. It does not show whether the Strategy 2.3 calculation was performed.
 
 **Source:** Obtained via FOI 26-2581 (applicant: Paul Rekaris; decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch; decided 2 February 2026).
 
@@ -111,5 +111,5 @@ TGA advises that preliminary estimates identified more than 399 documents compri
 
 ---
 
-**Last Updated:** 25 August 2026  
+**Last Updated:** 14 October 2026  
 **Licence:** CC BY 4.0
