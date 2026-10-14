@@ -10,7 +10,7 @@
 ---
 
 ## Table of Contents
-- [Version 1.9.6 (15 October 2026) — Ratings Revision and Quality Assurance](#version-196-15-october-2026--ratings-revision-and-quality-assurance)
+- [Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance](#version-196-16-october-2026--ratings-revision-and-quality-assurance)
 - [Version 1.9.5 (7 September 2026)](#version-195-7-september-2026)
 - [Version 1.9.4 (5 August 2026)](#version-194-5-august-2026)
 - [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
@@ -29,7 +29,7 @@
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
-# Version 1.9.6 (15 October 2026) — Ratings Revision and Quality Assurance
+# Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
 
@@ -110,7 +110,7 @@ Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 
 - Corrected and expanded the statutory analysis against the consolidated *Therapeutic Goods Act 1989* (Cth), including ss 22C–22D, 23AA, 28(2A)(aa) and 29. Retained the qualification that the Act does not expressly require verification of enhanced-monitoring implementation before extension or transition.
 - Revised the AusPAR analysis to distinguish sponsor registration conditions from the TGA's Plan commitments. The Comirnaty and Spikevax AusPARs are treated as evidence concerning the public assessment record rather than as assessments of implementation of the Plan's 17 enhanced-monitoring strategies. Replaced the Spikevax media-release source with the May 2023 Spikevax AusPAR.
 - Added a subsection examining two contemporaneous TGA public monitoring sources as corroborative evidence. The sources document pharmacovigilance activity but do not identify the February 2021 Plan, its 17 strategies or a systematic framework for tracking implementation. This evidence is treated as corroborative and subordinate to the AusPAR analysis.
-- Reconciled the 148/91 signal figures reported in Senate testimony on 9 October 2025 with the subsequent Question on Notice 559 figures of 150/93, retaining the hearing figures where describing that evidence and recording the subsequent update.
+- Reconciled the 148/91 signal figures reported in Senate testimony on 9  2025 with the subsequent Question on Notice 559 figures of 150/93, retaining the hearing figures where describing that evidence and recording the subsequent update.
 - Revised temporal-scope wording to distinguish the assessment period from evidence-search activity completed in December 2025, systematic review of the complete FOI disclosure log in January 2026, and additional historical sources identified during the August 2026 revision.
 - Clarified the audit-derived provenance of the data-integration and contribution-to-the-evidence-base categories and their relationship to the Plan's five stated objectives and cross-cutting strategies.
 - Refined ISO 9001:2015 and ISO 31000:2018 references to distinguish standards-based principles from statutory requirements and added supporting references.
@@ -283,7 +283,7 @@ Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 
 ### Compensation analysis — citation updates, international comparison, and QON 559 integration
 - Corrected mismatched and missing citations throughout the international transparency comparison and signal-example sections, and added a reference for FOI 4029-03, previously cited but missing from the list.
 - Replaced the international comparator table with current, dated figures from official sources (US, UK), after the originals were found outdated, and added Japan and a peer-reviewed 14-country study to position Australia's rate against the wider international standard. New Zealand and Canada were considered and excluded as comparators, with reasons given.
-- Integrated Senate QON 559 (150 signals assessed, 93 with no recorded disposition) as the primary current figure throughout, replacing the earlier testimony figure (148) except where specifically describing the 9 October 2025 hearing itself. Added QON 559 as a reference.
+- Integrated Senate QON 559 (150 signals assessed, 93 with no recorded disposition) as the primary current figure throughout, replacing the earlier testimony figure (148) except where specifically describing the 9  2025 hearing itself. Added QON 559 as a reference.
 - Reordered the full reference list into strict first-appearance citation order (1–28, verified), and corrected a scope error attributing signal-investigation-specific documentation to OAIC Decision AICmr 54, which addressed Safety Plan implementation documentation more generally.
 - No change to the audit's core findings or the Australian claims data (4,962 lodged / 522 approved), all independently re-confirmed against source during this review.
 
@@ -729,7 +729,7 @@ Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of
 **Analysis Documents**
 - Systematic review of six TGA COVID-19 vaccine safety reports (2021-2023) documenting zero Plan framework references across 150+ published reports
 - Compensation analysis v1.0 examining FOI evidentiary asymmetry affecting Vaccine Claims Scheme applicants with verified statistics: 148 signals/57 actions, 4,962 claims lodged/522 approved, 140k+ DAEN reports
-- Senate testimony reference documentation for 9 October 2025 with timestamped video link (2:30:40-2:37:00), Hansard transcript, and key exchange analysis
+- Senate testimony reference documentation for 9  2025 with timestamped video link (2:30:40-2:37:00), Hansard transcript, and key exchange analysis
 
 **Methodology**
 - Version control principles section explaining detailed version history methodology aligned with ISO 19011:2018, ISO 15489-1:2016, OSINT documentation principles
@@ -756,7 +756,7 @@ Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of
 - Updated Senate testimony terminology to "parliamentary privilege"
 
 **Methodology**
-- Corrected audit conduct period to October 2025 - January 2026
+- Corrected audit conduct period to  2025 - January 2026
 - Clarified evidence collection period as 2022-2026
 - Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology
 
@@ -800,7 +800,7 @@ Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 527
 ### Changed
 
 **Statistics**
-- Updated vaccination coverage from 94% (October 2024) to 91.2% (October 2025)
+- Updated vaccination coverage from 94% ( 2024) to 91.2% ( 2025)
 - Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period
 
 **Documentation**
