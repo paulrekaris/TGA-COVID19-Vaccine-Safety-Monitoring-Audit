@@ -5,7 +5,7 @@
 Title: Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan
 Author: Paul Rekaris
 ORCID: https://orcid.org/0009-0000-1338-9578
-Version: 1.9.5
+Version: 1.9.6
 Year: 2026
 Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -50,7 +50,7 @@ Safety Monitoring Plan or its 17 numbered strategy items.
 
 Of 19 audited outputs, comprising the Plan's 17 numbered strategy items and
 two additional governance outputs, 3 (16%) were assessed as Fully Documented,
-10 as Partially Documented, and 6 as Not Documented.
+13 as Partially Documented, and 6 as Not Documented.
 
 These classifications concern the documentary evidence available to verify
 implementation. They do not establish that undocumented activities did not occur.
