@@ -297,7 +297,7 @@ All key documentation and evidence is provided in the [primary sources](primary-
 
 ## The Critical Question
 
-If TGA's own searches surfaced 2,218+ pages of potentially relevant material across the Plan's objectives, why can it not produce documentation demonstrating the Plan was implemented, after four years of requests?
+If TGA's own searches estimated 2,218+ pages of potentially relevant material across the Plan's objectives, why can it not produce documentation demonstrating the Plan was implemented, after four years of requests?
 
 Each plausible explanation points to a serious failure in implementation, documentation, or both:
 
