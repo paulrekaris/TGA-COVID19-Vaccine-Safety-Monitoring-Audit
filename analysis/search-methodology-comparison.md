@@ -2,7 +2,7 @@
 
 ## TGA OAIC-Directed Searches vs Audit Search Strategy
 
-**Last Updated:** 11 September 2026  
+**Last Updated:** 14 October 2026  
 
 ---
 
@@ -38,8 +38,8 @@ Repository: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-s
 ### Search Scope
 
 - Database: TRIM (TGA's electronic document and records management system)
-- Containers searched: 531+
-- Pages reviewed: 2,218+
+- Containers returned by the broadest search term: 531+
+- Pages estimated as relevant (Department's estimate): 2,218+
 - Implementation records found: Zero
 
 ### Search Characteristics
@@ -194,7 +194,7 @@ The FOI Act s24A requires agencies to take "all reasonable steps" to locate docu
 
 ## Conclusion
 
-TGA's OAIC-directed searches, while extensive in scope (531+ containers, 2,218+ pages reviewed), employed Plan-title and audit-level terminology rather than output-specific vocabulary keyed to the Plan's individual strategies.
+TGA's OAIC-directed sample searches (one term returned 531+ containers; the Department estimated 2,218+ relevant pages) employed Plan-title and audit-level terminology rather than output-specific vocabulary keyed to the Plan's individual strategies.
 
 The comparison demonstrates:
 
