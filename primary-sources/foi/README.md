@@ -81,7 +81,7 @@ The contrast between TGA's demonstrated capacity to document routine processes (
 
 Internal blueprint documenting routine pharmacovigilance baseline (January 2019–early 2020) with COVID-19 signal detection implementation documents (July–August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months.
 
-documented with limited reference to the Plan: an August 2021 presentation quotes Plan Strategy 2.3 (FOI 5082, p.42), but no integration, compliance framework or mapping to the Plan's other strategies was located.
+Post-Plan COVID implementation documents (observed-vs-expected, MaxSPRT, enhanced DPAR frequency) documented with limited reference to the Plan: an August 2021 presentation quotes Plan Strategy 2.3 (FOI 5082, p.42), but no integration, compliance framework or mapping to the Plan's other strategies was located. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented.
 
 **Evidentiary significance:** FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist. The limited reference to the Plan in FOI 5082, taken with the Plan-specific requests (FOI 3643, FOI 25-0166, MR22/00538) that produced no Plan implementation report, is consistent with the audit's finding that implementation cannot be verified from the documents released.
 
