@@ -243,7 +243,7 @@ Result: 89.5% denied/withdrawal rate whilst signal investigation evidence remain
 | 148 signals investigated, 57 actions taken | Senate (Oct 2025)⁸ | Signal investigations confirmed |
 | Documents "don't exist in single consolidated form" | OAIC (2025)¹⁵ | Cannot provide to citizens |
 | "Vast volume" makes production impractical | FOI claimants (2022-2025)¹⁵ | Too difficult to organise for citizen access |
-| Successfully organised 2,218+ pages by Safety Plan objectives | OAIC review (Sept 2024)¹⁵ | Demonstrates capacity when legally required |
+| Estimated 2,218+ pages by Safety Plan objectives | OAIC review (Sept 2024)¹⁵ | Demonstrates capacity when legally required |
 
 **Conclusion:** TGA demonstrates capacity to organise signal and safety monitoring documentation when facing Information Commissioner review, but claims impossibility when facing citizen FOI requests or compensation claimants seeking causation evidence.
 
