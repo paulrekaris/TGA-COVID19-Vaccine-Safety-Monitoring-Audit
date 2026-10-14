@@ -68,7 +68,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Jul 2023** | Approximately 68.4 million doses administered under provisional approval | Represents approximately 91% of total rollout—one of the largest deployments of provisionally approved medicines in Australian history |
 | **Aug 2024** | COVERSE/UNSW reports approximately 91% rejected/withdrawn claims | Independent research documents systemic barriers including difficulty obtaining causation opinions |
 | **Sep 2024** | Scheme closes to new applications | Final closure with 4,962 claims lodged, 522 approved (10.5% approval rate) |
-| **Sep 2024** | TGA OAIC-directed searches locate no records responsive to the requested implementation documentation | Comprehensive searches across 531+ TRIM containers under Information Commissioner direction |
+| **Sep 2024** | TGA OAIC-directed searches locate no records responsive to the requested implementation documentation | Sample searches under Information Commissioner direction; one term returned 531+ TRIM containers |
 | **Oct 2025** | Senate testimony: TGA admits investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation not released to citizens |
 
 **Pattern:** The timeline demonstrates a systematic gap between TGA's internal signal investigation capacity (150 signals assessed per Senate QON 559, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
