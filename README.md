@@ -8,7 +8,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.5&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
+[![Version](https://img.shields.io/static/v1?label=Version&message=v1.9.6&color=blue)](audit-governance/version-history.md) [![Download ZIP](https://img.shields.io/badge/⬇️%20Download%20Latest%20ZIP%20File-blue?style=flat)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip) [![GitHub last commit](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main)
 
 ## Quick Start
 
@@ -203,13 +203,13 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > ### After four years of systematic investigation, this audit finds:
 > 
 > #### 1. No systematic implementation documentation  
-> TGA's OAIC-directed searches in September 2024 across more than 531 TRIM containers identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54. 
+> TGA's OAIC-directed sample searches in September 2024, one term of which returned more than 531 TRIM containers, identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan, a position confirmed by OAIC Decision [2025] AICmr 54. 
 > 
 > #### 2. "Day-to-day processes" instead of enhanced monitoring  
 > Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring commitment set out in the Cabinet-endorsed policy and the February 2021 Plan for 68.4 million doses.
 > 
 > #### 3. Only 16% of Plan outputs have complete implementation documentation  
-> Only 3 of 19 audited Plan outputs have complete implementation documentation; 10 are partially documented, and 6 have no documentation identified despite systematic searches.  
+> Only 3 of 19 audited Plan outputs (16%) have complete implementation documentation. The other 16 (84%) do not: 13 have process documents but limited or no records of results, and 3 have no documentation identified.  
 > 
 > #### 4. Signal investigations lack audit trails  
 > TGA reported 150 safety signals investigated and 57 regulatory actions taken. QON 559 listed the 57 actions, but did not provide a signal-level audit trail linking individual signals to their assessment, disposition and resulting action.
@@ -220,7 +220,7 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > #### 6. Provisional approval verification gap  
 > No documentation demonstrates that the Safety Monitoring Plan's enhanced monitoring commitments were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
-> #### 7. Detailed conformity assessment: 0% implementation for core monitoring
+> #### 7. Detailed conformity assessment: 0% full implementation for core monitoring
 > ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing evidence basis for all 19 audited Plan outputs.
 >
 > #### 8. Safety Monitoring Plan did not meet auditability standards
@@ -238,7 +238,7 @@ As of September 2026, no Commonwealth oversight body has initiated a dedicated p
 
 OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulatory oversight: procedural compliance does not necessarily establish substantive accountability.
 
-TGA's comprehensive search documentation satisfied FOI Act requirements under s24A, demonstrating proper record-keeping of the search process itself. Independent legal analysis confirmed this procedural compliance.
+TGA's search documentation satisfied FOI Act requirements under s24A, demonstrating proper record-keeping of the search process itself. Independent legal analysis confirmed this procedural compliance.
 
 However, what those thorough searches established—that systematic Plan implementation records "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
 
@@ -250,13 +250,13 @@ Procedural correctness and technical compliance in FOI administration and substa
 
 This finding is based on official determinations, not interpretation:
 
-**TGA's September 2024 submission to OAIC (MR22/00538)** documented searches across more than 531 TRIM containers using eight search terms, locating no records TGA classified as Plan implementation documentation despite reviewing extensive routine pharmacovigilance material. In paragraph 15 of [the Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf), the Department states that "there is unlikely to be a set of discrete documents evidencing the TGA's preparedness (because no audit of preparedness was undertaken)," while acknowledging in the same passage that documents evidencing changes to procedures or the actual collection and investigation of adverse-event reports could relate to preparedness, in which case "there would likely be a large volume of relevant documents." A TGA search officer's contemporaneous record, in Attachment A, page 29, states: "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." These statements, from formal OAIC proceedings and operational search records, bear on the audit's central finding from within TGA's own documentary record.
+**TGA's September 2024 submission to OAIC (MR22/00538)** documented sample searches using eight search terms, one of which returned more than 531 TRIM containers, locating no records TGA classified as Plan implementation documentation despite reviewing extensive routine pharmacovigilance material. In paragraph 15 of [the Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf), the Department states that "there is unlikely to be a set of discrete documents evidencing the TGA's preparedness (because no audit of preparedness was undertaken)," while acknowledging in the same passage that documents evidencing changes to procedures or the actual collection and investigation of adverse-event reports could relate to preparedness, in which case "there would likely be a large volume of relevant documents." A TGA search officer's contemporaneous record, in Attachment D, page 29, states: "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." These statements, from formal OAIC proceedings and operational search records, bear on the audit's central finding from within TGA's own documentary record.
 
 **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** reviewed this evidence and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding "documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) ([case note](reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)) confirmed the administrative law finding.
 
  **Senate testimony (9 October 2025):** TGA senior officials described the Plan's "five key themes" as "essentially describ[ing] our day-to-day processes"—characterising monitoring as routine operations rather than a distinct enhanced framework.
 
-**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. For 93 of the 150 investigated signals reported in the Senate QON, no publicly documented decision rationale was identified. See [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md).
+**Senate QON 559 (SQ25-001584) — TGA's Formal Answer to Plan Compliance**: TGA's written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" — submitted on the parliamentary record in response to follow-up questions arising from the [9 October 2025 Senate hearing](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) — describes activities against all five Plan strategies but produces no documentary evidence of systematic implementation. The audit calculates that 93 of the 150 investigated signals reported in the Senate QON (150 less 57 actions) have no publicly documented decision rationale. See [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md).
 
 **Search Methodology Note:** TGA's OAIC-directed searches (September 2024) employed 8 terms operating at Plan-title and audit level ("Implementation of Plan", "Audit Report"), not keyed to the Plan's individual outputs. Two terms included pharmacovigilance (rows 7–8), but none targeted output-specific vocabulary such as signal detection, AusVaxSafety coordination, or ICMRA sharing. Notably, TGA's terms omitted "AusVaxSafety" entirely, despite Strategy 2.4 naming it the Plan's active-surveillance integration partner. This audit employed 14 strategic terms targeting specific Plan outputs and pharmacovigilance processes. [See detailed search methodology comparison](analysis/search-methodology-comparison.md)
 
@@ -276,7 +276,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **2022–2023** - TGA organises extensive vaccine‑safety documentation for Information Commissioner review.
 
-- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA searches more than 531 TRIM containers and estimates 2,218+ pages of potentially relevant material across the five Safety Plan objectives, while identifying zero documents evidencing implementation of the Plan.
+- **September 2024** - Under direction from the Office of the Australian Information Commissioner (OAIC reference MR22/00538), TGA runs sample searches, one term returning more than 531 TRIM containers, and estimates 2,218+ pages of potentially relevant material across the five Safety Plan objectives, while identifying zero documents evidencing implementation of the Plan.
 
 - **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of [2025] AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that comprehensive searches established systematic Plan implementation records "cannot be found or do not exist" as a matter of administrative law.
 
@@ -316,8 +316,8 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 **Overall implementation**          
 
 - **16% Fully implemented (3/19 outputs)** – mainly public‑communication activities with clear documentation including publication of more than 150 weekly COVID‑19 vaccine safety reports.
-- **53% Partially implemented/undocumented (10/19 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
-- **31% Not documented (6/19 outputs)** – no evidence identified in public material or FOI/OAIC processes.
+- **68% Partially implemented/undocumented (13/19 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
+- **16% Not documented (3/19 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
 **Detailed breakdown by objective:** [View complete conformity assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
 
@@ -337,7 +337,7 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 
 - No published documentation linking individual signals to specific actions.  
 - No documented investigation protocols applied to each signal.  
-- No decision‑making criteria explaining why 57 signals led to actions while 93 did not.  
+- why 57 regulatory actions followed from 150 signals (the audit's calculation leaves 93 without a recorded outcome).
 - No signal‑by‑signal audit trails enabling independent scrutiny.
 
 **Why this matters**
@@ -359,9 +359,9 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 **What was found**
 
-- OAIC-directed TRIM searches (MR22/00538, September 2024), using eight search terms, identified zero documents demonstrating implementation of the enhanced-monitoring commitments; the broadest term returned 531+ containers, which TGA's own annotation records as unrelated to the safety monitoring plan. Comirnaty (July 2023) and Spikevax (April 2023) transitioned to full registration during the period the Plan was in effect
+- OAIC-directed sample TRIM searches (MR22/00538, September 2024), using eight search terms, identified zero documents demonstrating implementation of the enhanced-monitoring commitments; the broadest term returned 531+ containers, which TGA's own annotation records as unrelated to the safety monitoring plan. Comirnaty (July 2023) and Spikevax (April 2023) transitioned to full registration during the period the Plan was in effect
 - Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan** and no Plan‑level verification records.
-- Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024) (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This confirms condition-specific incidence data is inaccessible 3.5 years post-approval, consistent with the absence of Strategy 2.3 AIR-denominator implementation documented in this audit.
+- Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024) (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This shows a data gap for one requested data set, not whether the Strategy 2.3 calculation was performed.
 
 **Why this matters**
 
@@ -783,11 +783,11 @@ FOI 5082 Request: TGA's internal documents on "COVID-19 vaccine pharmacovigilanc
 
 Internal blueprint documenting routine pharmacovigilance baseline (pre-2021) with COVID-19 signal detection implementation docs (19 July–24 August 2021). Documents routine "spontaneous reporting → assessment → action" framework (AEMS/DAEN/DPAR, VSIG for clusters) predating Safety Plan by 12–24 months. Contextualises Senate testimony characterisation of "day-to-day processes," including staffing/automation (APS5/6 for DPAR/chi-squared, EL1 for MaxSPRT/O/E, 99–100% QLIK/Stata/R).
 
-Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency/chi-squared comparators) documented without any reference to Safety Plan integration, compliance frameworks, or mapping to Plan's specified strategies. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations implemented independently of documented Plan requirements. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
+Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPAR frequency/chi-squared comparators) documented with limited reference to the Plan: an August 2021 presentation quotes Plan Strategy 2.3 (FOI 5082, p.42), but no integration, compliance framework or mapping to the Plan's other strategies was located. No signal-to-action workflows or comprehensive AusVaxSafety protocols documented. Demonstrates baseline infrastructure and COVID-specific methodological adaptations documented largely separately from the Plan. Does not address post-Plan implementation gaps (FOI 25-0166, MR22/00538 null results).
 
 **Critical evidentiary significance**
 
-FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain zero evidence of Safety Plan integration or compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—is consistent with non-implementation rather than non-documentation. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
+FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain limited evidence of Plan integration (an August 2021 presentation quotes Strategy 2.3, p.42) and none of compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—is consistent with the audit's finding that implementation cannot be verified from the documents released. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
 ### Evidence Storage and Research Standards
 
@@ -870,7 +870,7 @@ The comprehensive audit report includes:
 
 - [Search Methodology Comparison](analysis/search-methodology-comparison.md) – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed searches (8 terms operating at Plan-title and audit level, not keyed to individual Plan outputs), documenting gaps in output-specific coverage including signal detection, AusVaxSafety coordination, and ICMRA sharing. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
 
-- [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of TGA's public COVID-19 vaccine safety reports (2021–2023) documenting zero Plan-framework references across 150+ public reports, notwithstanding [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf), which shows TGA presented the Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021). A methodology presented to an advisory committee does not evidence operation of the monitoring output: the audit classifies Strategy 2.3 Not Documented, and FOI 5275 (August 2024) confirms TGA does not hold the incidence data the methodology requires. Complete [FOI 4029 suite](primary-sources/foi/foi-4029) available in reference documents. Includes ISO 19011 audit methodology, ANAO performance-tracking gaps, and analysis of whether the OAIC-directed search scope captured the advisory-committee records that FOI 4029 shows exist.
+- [Surveillance Data Analysis](analysis/surveillance-analysis.md) – Systematic analysis of TGA's public COVID-19 vaccine safety reports (2021–2023) documenting zero Plan-framework references across 150+ public reports, notwithstanding [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf), which shows TGA presented the Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021). A methodology presented to an advisory committee does not evidence operation of the monitoring output: the audit classifies Strategy 2.3 Partially Implemented: FOI 5082 contains the 2021 sequential monitoring plan and August 2021 comparison results, but no MaxSPRT or routine review outputs were located. FOI 5275 (August 2024) shows a data gap for one requested cancer incidence data set. Complete [FOI 4029 suite](primary-sources/foi/foi-4029) available in reference documents. Includes ISO 19011 audit methodology, ANAO performance-tracking gaps, and analysis of whether the OAIC-directed search scope captured the advisory-committee records that FOI 4029 shows exist.
 
 - [FOI Analysis and Timeline Documentation](analysis/tga-foi-analysis.pdf) – Detailed FOI/OAIC timeline (2022–2025), pattern analysis of contradictory TGA responses, and comparison of TGA claims versus documented evidence.
 
@@ -928,7 +928,7 @@ Full licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 When citing this work, please use:
 
 **Zenodo (primary):**
-Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.5). Zenodo. https://doi.org/10.5281/zenodo.17731054
+Rekaris, P. (2026). Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (Version 1.9.6). Zenodo. https://doi.org/10.5281/zenodo.17731054
 
 **SSRN:**
 Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan (January 12, 2026). Available at SSRN: https://ssrn.com/abstract=6333058 or http://dx.doi.org/10.2139/ssrn.6333058
@@ -940,9 +940,9 @@ Rekaris, Paul, Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vac
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {Documentation Gap Analysis: Implementation Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {September},
+  month = {October},
   year = {2026},
-  version = {1.9.5},
+  version = {1.9.6},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -1045,8 +1045,8 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 
 ## Version History and Maintenance
 
-**Document Version:** 1.9.5   
-**Last Updated:** 8 October 2026  
+**Document Version:** 1.9.6   
+**Last Updated:** 14 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
