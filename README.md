@@ -361,7 +361,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 
 - OAIC-directed sample TRIM searches (MR22/00538, September 2024), using eight search terms, identified zero documents demonstrating implementation of the enhanced-monitoring commitments; the broadest term returned 531+ containers, which TGA's own annotation records as unrelated to the safety monitoring plan. Comirnaty (July 2023) and Spikevax (April 2023) transitioned to full registration during the period the Plan was in effect
 - Australian Public Assessment Reports (AusPARs) and TGA media releases covering these transitions contain **no evaluation against the Safety Monitoring Plan** and no Plan‑level verification records.
-- Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024) (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This shows a data gap for one requested data set, not whether the Strategy 2.3 calculation was performed.
+- Third-party verification of this gap is provided by [FOI 5275](primary-sources/foi/foi-5275-redacted.pdf) (August 2024) (secured by this auditor under FOI 26-2581, decided February 2026) where a separate applicant sought monthly incidence data for AusPAR-specified monitoring conditions. TGA responded that such documents "do not exist." This shows the TGA does not hold the requested cancer incidence data, not whether the Strategy 2.3 calculation was performed.
 
 **Why this matters**
 
