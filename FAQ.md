@@ -102,7 +102,7 @@ Only 3 of 19 audited outputs (16%) fully documented; no evidence of systematic t
 TGA cannot produce documentation showing it delivered the enhanced-monitoring commitments in the Plan under National Cabinet-endorsed policy and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
 
 **Official Confirmation**
-The Information Commissioner confirmed that implementation records for the Plan could not be found after searches of 531 TRIM folders and more than 2,200 pages.
+The Information Commissioner confirmed that implementation records for the Plan could not be found after after OAIC-directed sample searches.
 
 **Senate Admission**
 TGA officials admitted monitoring was never systematically tracked against Plan objectives and characterised it as “day-to-day processes”.
@@ -216,7 +216,7 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner confirmed after extensive searches covering 531 TRIM containers and 2,218+ pages that TGA implementation records for the Plan do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner confirmed after OAIC-directed sample searches that TGA implementation records for the Plan could not be found or do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
@@ -409,7 +409,7 @@ Four critical categories of documentation cannot be located:
 
 **Signal Management:**
 
-- Audit trails linking 91 of 148 investigated safety signals to disposition decisions
+- Audit trails linking the 150 investigated safety signals to the 57 regulatory actions
 - Documented decision criteria for signal evaluation
 - Systematic protocols for signal prioritisation
 
@@ -435,8 +435,8 @@ Four critical categories of documentation cannot be located:
 Assessment of the Plan’s 19 audited outputs—the Plan's 17 numbered strategies plus two governance outputs (GOV.1 and GOV.2)—shows:
 
 - **16% fully documented** (3 of 19 outputs)
-- **53% partially documented** (10 of 19 outputs)
-- **31% not documented at all** (6 of 19 outputs)
+- **68% partially documented** (13 of 19 outputs)
+- **16% not documented at all** (3 of 19 outputs)
 
 Critical gaps exist in signal detection protocols, multi-source data integration frameworks, governance oversight, and verification documentation for the Plan's enhanced-monitoring outputs, as distinct from the sponsor conditions assessed in the AusPAR.
 
@@ -458,14 +458,14 @@ For provisional approval specifically, enhanced monitoring must be demonstrable 
 
 ### Q16: How do you know records are missing (not just withheld)?
 
-The Australian Information Commissioner requested extensive searches in response to FOI requests and issued a formal decision, [2025] AICmr 54, confirming that TGA implementation records for the Plan could not be found or do not exist. This finding resulted from OAIC-directed searches conducted by two senior TGA officers covering 531 TRIM containers and reviewing 2,218+ pages. This is not simply a matter of records being withheld—the Commissioner independently verified through departmental searches that the requested records could not be found or do not exist.
+The Australian Information Commissioner requested extensive searches in response to FOI requests and issued a formal decision, [2025] AICmr 54, confirming that TGA implementation records for the Plan could not be found or do not exist. This finding rested on OAIC-directed sample searches conducted by two senior TGA officers. This is not simply a matter of records being withheld—the Commissioner independently verified through departmental searches that the requested records could not be found or do not exist.
 
 ### Q17: What did the Information Commissioner find?
 
 In decision [2025] AICmr 54 (March 2025), the Australian Information Commissioner:
 
-- Directed extensive TGA searches covering 531 TRIM containers
-- Reviewed 2,218+ pages of potentially relevant material
+- Directed TGA sample searches, one term of which returned 531 TRIM containers
+- Estimated 2,218+ pages of potentially relevant material
 - Confirmed that TGA implementation records for the Plan could not be found or do not exist
 - Found no systematic tracking of Plan objectives
 - Validated that requested records are genuinely absent, not merely withheld
@@ -490,13 +490,13 @@ Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent 
 
 ### Q20: How many safety signals were investigated?
 
-TGA investigated 148 COVID-19 vaccine safety signals and took 57 regulatory actions. However, 91 signals (61%) have no documented disposition or decision criteria. Senate QON 559 subsequently updated the signal count to 150, with 93 signals having no publicly documented decision rationale. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
+TGA reported 148 COVID-19 vaccine safety signals in Senate testimony, then 150 in writing (QON 559), and 57 regulatory actions. The audit calculates that 93 signals (150 less 57) have no publicly documented disposition or decision criteria. This is the audit's calculation, not a TGA figure. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
 
 ### Q21: What’s the AusVaxSafety integration gap?
 
 Strategy 2.4 of the Plan explicitly committed to AusVaxSafety active surveillance integration, yet despite AusVaxSafety's public positioning as operating "as part of" the TGA-led national pharmacovigilance plan, no integration documentation has been found:
 
-- Zero documentation of systematic integration into TGA signal detection exists
+- No documentation of systematic integration into TGA signal detection was located
 - No coordination protocols found in OAIC-directed searches
 - TGA omitted the term “AusVaxSafety” from its classification system for OAIC searches
 - No audit trails showing how 3 million adverse events informed TGA decisions
@@ -528,13 +528,13 @@ Of the 19 audited outputs assessed:
 - DAEN database maintained
 - Some public communications delivered
 
-**Partially documented (53%):** 10 outputs
+**Partially documented (68%):** 13 outputs
 
 - Activities may have occurred but systematic tracking absent
 - Incomplete audit trails
 - Cannot verify against Plan specifications
 
-**Not documented (31%):** 6 outputs
+**Not documented (16%):** 3 outputs
 
 - No evidence located after four years
 - Include critical integration and governance elements
