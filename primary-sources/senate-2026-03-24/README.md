@@ -39,9 +39,11 @@ Senator Roberts cited the Documentation Gap Analysis: Independent Audit of TGA C
 
 *Source: Commonwealth of Australia, Parliamentary Debates, Senate, 24 March 2026. Senator Malcolm Roberts (One Nation, Queensland). Reproduced under parliamentary privilege.*
 
+**Note on figures cited in the Senate (24 March 2026):** Senator Malcolm Roberts's statement in the Senate on 24 March 2026 cites the figures published at that time: 3 fully documented, 10 partially documented and 6 with no documentation. Version 1.9.6 (October 2026) revises these to 3, 13 and 3 on the basis of FOI 5082. The overall finding, that 3 of 19 outputs (16%) are fully documented, remains unchanged.
+
 ## Parliamentary Record
 
 Citation in the Australian Senate creates a permanent official record of the audit findings, independent of any platform or institution.
 
-**Last Updated:** 26 March 2026  
+**Last Updated:** 14 October 2026  
 **Licence:** CC BY 4.0
