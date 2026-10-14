@@ -73,7 +73,7 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 **Key supporting evidence.**
 
 - FOI 4029-03: the TGA presented Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021), while concurrent public reports carried no such output.
-- FOI 5275: the TGA does not hold one requested cancer incidence data set, which output 2.3 does not name. This shows a data gap, not whether the calculation was performed.
+- FOI 5275: the TGA does not hold the cancer incidence data a third party requested. This shows a data gap, not whether the Strategy 2.3 calculation was performed.
 - FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review, against the TGA's own Work Instruction threshold (FOI 4029-06).
 - Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and gaps against ICH E2E and CIOMS Working Group VIII practice.
 - Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)**, confirming the repository contains all available Plan implementation evidence; no additional records were missed.
@@ -537,7 +537,7 @@ The fully-documented outputs are the public-facing communications deliverables (
 
 ### Critical Gap Analysis
 
-1. **Enhanced signal detection (Objective 2):** 8 outputs, 0 fully documented. FOI 4029-03 shows the Strategy 2.3 method was presented internally (September 2021) while concurrent public reports carried no such output; FOI 5275 shows the TGA does not hold one requested cancer incidence data set.
+1. **Enhanced signal detection (Objective 2):** 8 outputs, 0 fully documented. FOI 4029-03 shows the Strategy 2.3 method was presented internally (September 2021) while concurrent public reports carried no such output; FOI 5275 shows the TGA does not hold the cancer incidence data a third party requested.
 2. **Governance and performance:** 2 outputs, 0 documented. Senate evidence states monitoring was never systematically tracked; the OAIC searches found no governance documentation; the public reports carry no Plan-framework reference.
 3. **Enhanced versus routine:** 17 of 19 outputs cannot be distinguished as enhanced rather than routine from the documentary record.
 4. **Communication versus process:** The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1); the process, integration and governance outputs range from 0 to 40 per cent.
