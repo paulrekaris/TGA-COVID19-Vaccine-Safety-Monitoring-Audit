@@ -31,7 +31,7 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
   title = {Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
   month = {September},
   year = {2026},
-  version = {1.9.5},
+  version = {1.9.6},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.17731054},
   url = {https://doi.org/10.5281/zenodo.17731054}
@@ -86,4 +86,4 @@ All publications and supporting materials are licensed under [Creative Commons A
 
 ---
 
-**Last updated:** 7 September 2026
+**Last updated:** 14 October 2026
