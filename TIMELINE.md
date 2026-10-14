@@ -32,9 +32,9 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 ## 2024
 
 **September 2024**
-- Under OAIC direction (MR22/00538, s55(2)(e)(ii) and s55V), TGA searches more than 531 TRIM containers using eight search terms
-- TGA demonstrates capability to classify and organise 2,218+ pages of vaccine-safety documentation by Safety Plan objectives
-- Searches find zero Plan implementation records
+- Under OAIC direction (MR22/00538, s55(2)(e)(ii) and s55V), TGA runs eight sample search terms, one returning more than 531 TRIM containers
+- TGA estimates 2,218+ pages of potentially relevant vaccine-safety documentation
+- Searches identify no Plan implementation records
 
 ---
 
@@ -54,7 +54,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
 
 **11 May 2025**
-- Sparke Helmore case note published — independent legal analysis of AICmr 54 confirming comprehensive searches established Plan implementation records "cannot be found or do not exist" as a matter of administrative law
+- Sparke Helmore case note published — independent legal analysis of AICmr 54 confirming the searches established Plan implementation records "cannot be found or do not exist" as a matter of administrative law
 - [Sparke Helmore case note](https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/)
 
 **June 2025**
@@ -111,7 +111,7 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 |---|---|
 | February 2022 | FOI 3643 submitted; refused — no implementation report exists |
 | February 2022 | IC review MR22/00538 lodged |
-| September 2024 | TGA searches 531+ TRIM containers; finds zero Plan implementation records |
+| September 2024 | TGA runs sample searches, one term returning 531+ TRIM containers; identifies no Plan implementation records |
 | 26 March 2025 | OAIC AICmr 54 — documents "cannot be found or do not exist" |
 | April 2025 | FOI 25-0166 — practical refusal; documents not identified against Plan objectives |
 | 1 April 2025 | Commonwealth Ombudsman complaint lodged (2025-806374) |
