@@ -3,7 +3,7 @@ title: "Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Sa
 description: "Independent documentary audit of implementation of the Therapeutic Goods Administration's February 2021 COVID-19 Vaccine Safety Monitoring Plan, examining enhanced vaccine safety monitoring, pharmacovigilance, provisional registration, regulatory accountability, documentary evidence and implementation."
 author: "Paul Rekaris"
 language: "en-AU"
-date_modified: "2026-09-05"
+date_modified: "2026-10-14"
 license: "CC BY 4.0"
 canonical_url: "https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md"
 repository: "https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit"
@@ -215,7 +215,7 @@ The audit therefore distinguishes evidence that monitoring occurred from evidenc
 
 The documentary record identifies significant institutional findings concerning implementation, traceability, records management and regulatory accountability.
 
-In September 2024, OAIC-directed TGA searches surfaced more than 2,218 pages of potentially relevant material across more than 531 records containers. None was identified as documentation demonstrating implementation of the February 2021 Safety Monitoring Plan against its specified commitments.
+In September 2024, OAIC-directed TGA sample searches estimated more than 2,218 pages of potentially relevant material, and one search term returned more than 531 records containers. None was identified as documentation demonstrating implementation of the February 2021 Safety Monitoring Plan against its specified commitments.
 
 The Office of the Australian Information Commissioner subsequently affirmed the TGA's FOI decision under section 24A of the *Freedom of Information Act 1982*, finding that the requested implementation records "cannot be found or do not exist": *Paul Rekaris and Department of Health and Aged Care (Freedom of information) [2025] AICmr 54*.
 
