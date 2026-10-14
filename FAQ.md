@@ -458,7 +458,7 @@ For provisional approval specifically, enhanced monitoring must be demonstrable 
 
 ### Q16: How do you know records are missing (not just withheld)?
 
-The Australian Information Commissioner requested extensive searches in response to FOI requests and issued a formal decision, [2025] AICmr 54, confirming that TGA implementation records for the Plan could not be found or do not exist. This finding rested on OAIC-directed sample searches conducted by two senior TGA officers. This is not simply a matter of records being withheld—the Commissioner independently verified through departmental searches that the requested records could not be found or do not exist.
+The Australian Information Commissioner directed searches in response to FOI requests and issued a formal decision, [2025] AICmr 54, confirming that TGA implementation records for the Plan could not be found or do not exist. This finding rested on OAIC-directed sample searches conducted by two senior TGA officers. This is not simply a matter of records being withheld—the Commissioner independently verified through departmental searches that the requested records could not be found or do not exist.
 
 ### Q17: What did the Information Commissioner find?
 
