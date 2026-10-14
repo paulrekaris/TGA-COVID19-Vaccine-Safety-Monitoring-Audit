@@ -98,7 +98,7 @@ Section 24(1)(b) of the FOI Act 1982: Request would substantially and unreasonab
 
 Section 24AA(2) of the FOI Act requires agencies to assess whether a request would substantially and unreasonably divert resources without regard to the reasons for making the request or the applicant's characteristics.
 
-However, TGA's prior demonstrated capability to classify 2,218+ pages by Plan objectives for OAIC review (September 2024) raises questions about whether classifying 30 documents across 12 predefined categories constitutes an "unreasonable" diversion of resources, particularly when:
+However, TGA's prior demonstrated capability to estimate 2,218+ pages by Plan objectives for OAIC review (September 2024) raises questions about whether classifying 30 documents across 12 predefined categories constitutes an "unreasonable" diversion of resources, particularly when:
 - The classification methodology had been successfully applied nine months earlier
 - Applicant achieved 92% scope reduction in response to TGA's consultation suggestions
 - TGA had indicated refined items "may be manageable" in first consultation
@@ -112,7 +112,7 @@ However, TGA's prior demonstrated capability to classify 2,218+ pages by Plan ob
 TGA's position on capability to classify documents by Plan objectives changed between September 2024 and June 2025:
 
 **September 2024 (OAIC MR22/00538):**
-- Successfully organised and classified 2,218+ pages of vaccine safety documentation
+- Estimated 2,218+ relevant pages of vaccine safety documentation by Plan objective
 - Ran sample TRIM searches (eight terms; one term returned 531+ containers)
 - Classified material by Plan objectives for Information Commissioner review
 - Demonstrated technical and methodological capacity for objective-based classification
@@ -134,7 +134,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
 
 The refusal demonstrates contradictory institutional positions:
 
-1. **Capability demonstrated:** TGA organised 2,218+ pages by Plan objectives when directed by OAIC (September 2024)
+1. **Capability demonstrated:** TGA estimated 2,218+ pages by Plan objectives when directed by OAIC (September 2024)
 
 2. **Capability initially acknowledged:** TGA indicated Items 1(b) and 1(c) "may be manageable" in first consultation (24 April 2025)
 
@@ -188,7 +188,7 @@ The progression demonstrates extraordinary applicant responsiveness to TGA consu
 - **92% reduction from original estimate**
 - 12 explicitly defined categories
 
-Despite this 92% scope reduction and TGA's initial guidance that refined items "may be manageable," TGA refused on grounds of subjectivity—nine months after classifying 2,218+ pages by identical Plan objectives for OAIC.
+Despite this 92% scope reduction and TGA's initial guidance that refined items "may be manageable," TGA refused on grounds of subjectivity—nine months after estimating 2,218+ pages by identical Plan objectives for OAIC.
 
 ### Implications for Document Organisation
 
@@ -254,7 +254,7 @@ Therapeutic Goods Administration. (2024). *Response to written notice and direct
 
 **Key content:**
 - Documentation of sample searches (one term returned 531+ TRIM containers)
-- Classification of 2,218+ pages by Plan objectives
+- Estimate of 2,218+ pages by Plan objectives
 - Search methodology employed (8 search terms)
 
 ---
