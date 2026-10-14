@@ -4,13 +4,13 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 10 October 2026
+**Last updated:** 14 October 2026
 
 
 ---
 
 ## Table of Contents
-- [Post-v1.9.5 — Repository Quality Assurance and Methodological Refinement](#post-v195--repository-quality-assurance-and-methodological-refinement)
+- [Version 1.9.6 (15 October 2026) — Ratings Revision and Quality Assurance](#version-196-15-october-2026--ratings-revision-and-quality-assurance)
 - [Version 1.9.5 (7 September 2026)](#version-195-7-september-2026)
 - [Version 1.9.4 (5 August 2026)](#version-194-5-august-2026)
 - [Version 1.9.3 (14 June 2026)](#version-193-14-june-2026)
@@ -29,29 +29,60 @@
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
 
+# Version 1.9.6 (15 October 2026) — Ratings Revision and Quality Assurance
 
-# Post-v1.9.5 — Repository Quality Assurance and Methodological Refinement
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
+[Commits v1.9.5...v1.9.6](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.5...v1.9.6)
+
+**Ratings for outputs 2.2, 2.3 and 2.6 are revised from Not Documented to Partially Implemented following review of FOI 5082. The overall finding is unchanged: 3 of 19 outputs (16%) are fully documented and 16 of 19 (84%) are not; NON-CONFORMING.**
+
+### Ratings
+
+- Reclassified outputs 2.2, 2.3 and 2.6 from Not Documented to Partially Implemented (severity 5, 5, 5 to 4, 4, 3). The Not Documented rating applies where no relevant evidence is located. FOI 5082 (released 26 July 2024) contains process documentation for cumulative review methods: a 19 July 2021 MaxSPRT sequential plan using AIR dose data and a 24 August 2021 DPAR comparison. No records of results were located.
+- Outputs 2.5, GOV.1 and GOV.2 remain Not Documented. The evidence descriptions for 2.5 were corrected (rating and severity unchanged).
+- Totals changed from 3 / 10 / 6 to 3 / 13 / 3 (16% / 68% / 16%). Signal Detection changed from 0 / 4 / 4 to 0 / 7 / 1 (mean severity 4.25 to 3.75). Overall mean severity changed from 3.47 to 3.26.
+- Added Box 2 (How to Read the Ratings) to the report. The AusVaxSafety box is now Box 3.
+
+### Evidence and wording
+
+- Corrected references to FOI 5275: the TGA stated that it does not hold the requested cancer incidence data. This is a data gap and is not evidence on whether the Strategy 2.3 calculation was performed.
+- Described the Department's September 2024 searches reported to the OAIC (TRIM and Promap) as sample searches, not independently verified. Removed "comprehensive", "OAIC-validated" and "zero governance documentation" wording. One search term returned 531+ containers, which the Department described as relating to manufacturing audits, the vaccine taskforce and the COVID-19 vaccine program. The figure of 2,218 pages is the Department's estimate. Corrected the OAIC attachment references (Attachment D, not A) and the quoted search-time estimate ("30mintues" [sic], p. 32).
+- Narrowed the AICmr 54 wording to the implementation report requested under FOI 3643.
+- Corrected the unactioned-signal figure from 91 to 93 (150 signals reported in QON 559 less 57 actions). This is the audit's calculation, not a TGA figure.
+
+### Supporting files
+
+- Workbook: narrowed wording in the Rating Criteria, Methodology, GOV.1 and GOV.2 sheets to match the evidence. The Not Documented examples in the Rating Criteria changed from Outputs 2.2 and 2.3 to Outputs 2.5, GOV.1 and GOV.2, and severity examples were updated. GOV.1 and GOV.2 ratings and severities are unchanged.
+- Audit slide deck and one-page flowchart updated to the revised assessment (3 / 13 / 3, Signal Detection 0 / 7 / 1, mean severity 3.26, descriptions of outputs 2.2, 2.3 and 2.6) and to the sample-search wording.
+- Report: Table 1, Sections 1.2, 2.1 and 4 to 7, Appendices B and C, and the related footnotes and references updated to match.
+
+### Repository
+
+- Updated counts, percentages, mean severity and version labels across the README, FAQ, ISO 19011 conformity checklist, TIMELINE and supporting analysis files. Updated the codebook and replication README for the revised ratings: classification outcome now 3 Fully / 13 Partially / 3 Not Documented, mean severity 3.26, with the expected replication output reordered to match.
+- Added a note to the Senate citation page that the 3 / 10 / 6 figures cited on 24 March 2026 reflect v1.9.5.
+
+### Quality assurance
 
 Comprehensive post-v1.9.5 quality-assurance review of the repository. Corrected minor typographical, grammatical, formatting, citation, link, classification and internal-consistency issues; clarified OAIC findings, FOI search evidence and TGA compliance-documentation claims; refined QON 559 analysis to distinguish the numerical difference between 150 signals assessed and 57 regulatory actions from the absence of a published signal-by-signal audit trail linking individual signals to their assessment, disposition and resulting action or decision; refined AusVaxSafety integration language to distinguish survey responses reporting adverse events from formal adverse-event reports and to more precisely describe the documentary gap concerning integration with TGA signal detection and investigation activities; corrected ISO 19011:2018 terminology, principles and clause applications and ISO 15489-1:2016 records-management terminology; clarified Department-level PGPA governance, performance and recordkeeping obligations; refined surveillance-analysis, evidence-classification, auditability and conformity language to avoid unsupported inferences from documentary gaps; and removed residual wording that could incorrectly characterise the Safety Monitoring Plan's enhanced-monitoring strategies as statutory or sponsor-specific provisional-registration conditions.
 
-Repository governance and reproducibility documentation was also strengthened, including evidence-storage and provenance arrangements, version-control and release workflows, version-classification criteria, archival verification and preservation, quality-assurance procedures and open-review documentation. 
+Repository governance and reproducibility documentation was also strengthened, including evidence-storage and provenance arrangements, version-control and release workflows, version-classification criteria, archival verification and preservation, quality-assurance procedures and open-review documentation.
 
-The role of audit-governance documentation was clarified as a supporting methodological and administrative record rather than additional substantive audit evidence. Locally hosted third-party material was reviewed and, where redistribution rights were uncertain, removed or replaced by appropriate references. Additional repository housekeeping improved navigation, consistency and maintenance documentation without altering the underlying audit assessment.
+The role of audit-governance documentation was clarified as a supporting methodological and administrative record rather than additional substantive audit evidence. Locally hosted third-party material was reviewed and, where redistribution rights were uncertain, removed or replaced by appropriate references. Additional repository housekeeping improved navigation, consistency and maintenance documentation without altering the underlying audit evidence.
 
-Incorporated TGA FOI 26-3110 (AusVaxSafety Annual Report 2022) into the Strategy 2.4 evidence base, documenting fortnightly COVID-19 vaccine signal detection and notification/discussion of identified signals with the TGA Pharmacovigilance Branch. Refined the Strategy 2.4 evidence analysis to distinguish documented operational interaction from evidence sufficient to independently verify systematic coordination of signal detection and investigation. Updated the evidence matrix and rating justification accordingly. Rating unchanged: Partially Implemented. Core findings and conclusions unchanged.
+### Sources and evidence additions
+
+Incorporated TGA FOI 26-3110 (AusVaxSafety Annual Report 2022) into the Strategy 2.4 evidence base, documenting fortnightly COVID-19 vaccine signal detection and notification/discussion of identified signals with the TGA Pharmacovigilance Branch. Refined the Strategy 2.4 evidence analysis to distinguish documented operational interaction from evidence sufficient to independently verify systematic coordination of signal detection and investigation. Updated the evidence matrix and rating justification accordingly. Rating unchanged: Partially Implemented.
 
 Update Commonwealth Ombudsman administrative complaint 2025-806374 and timeline following escalation for further internal consideration.
 
 Added primary-source reference documenting Morrison's statement that the Australian COVID-19 Vaccination Policy was adopted by Federal Cabinet before subsequent National Cabinet endorsement.
 
-Added Australian Government Cabinet governance sources, including the 14th edition Cabinet Handbook and Prime Minister Morrison’s transcript confirming Federal Cabinet adoption of the Australian COVID-19 Vaccination Policy; updated the Australian Government policy README with source metadata and repository links; and clarified in the main README the relationship between the November 2020 national policy commitment, the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan and cabinet governance requirements.  Added and restructured the national and state vaccination implementation framework, including the National Partnership on COVID-19 Response and Victorian and Western Australian implementation plans; expanded analysis of their governance, vaccine safety-monitoring, reporting and data-sharing arrangements; and clarified how these contemporaneous commitments provide a documentary benchmark for assessing implementation and monitoring against the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan.
+Added Australian Government Cabinet governance sources, including the 14th edition Cabinet Handbook and Prime Minister Morrison’s transcript confirming Federal Cabinet adoption of the Australian COVID-19 Vaccination Policy; updated the Australian Government policy README with source metadata and repository links; and clarified in the main README the relationship between the November 2020 national policy commitment, the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan and cabinet governance requirements.
+
+Added and restructured the national and state vaccination implementation framework, including the National Partnership on COVID-19 Response and Victorian and Western Australian implementation plans; expanded analysis of their governance, vaccine safety-monitoring, reporting and data-sharing arrangements; and clarified how these contemporaneous commitments provide a documentary benchmark for assessing implementation and monitoring against the TGA’s February 2021 COVID-19 Vaccine Safety Monitoring Plan.
 
 Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021) to its archived PDF in primary-sources/tga-documents, and linked the Australian Government Policy folder for the underlying national and state governance documents. Both use absolute GitHub links so they resolve wherever the page is read.
-
-**The main audit report, 19 assessed outputs, conformity ratings and overall finding remain unchanged: 3 of 19 outputs fully documented, 10 partially documented and 6 not documented; overall finding NON-CONFORMING.**
-
-*Release status: These changes are maintained on GitHub main as post-v1.9.5 repository maintenance and have not been issued as a separate formal release. Zenodo v1.9.5 remains the preserved release snapshot.*
- 
 
 # Version 1.9.5 (7 September 2026)
 
