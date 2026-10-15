@@ -50,7 +50,7 @@ Safety Monitoring Plan or its 17 numbered strategy items.
 
 Of 19 audited outputs, comprising the Plan's 17 numbered strategy items and
 two additional governance outputs, 3 (16%) were assessed as Fully Documented,
-13 as Partially Documented, and 6 as Not Documented.
+13 as Partially Documented, and 3 as Not Documented.
 
 These classifications concern the documentary evidence available to verify
 implementation. They do not establish that undocumented activities did not occur.
