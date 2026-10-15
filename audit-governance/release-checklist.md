@@ -4,7 +4,7 @@
 
 ## Phase 1: Content Finalisation (Always Required)
 - [ ] Finalise all content changes
-- [ ] Update version number and date in README and CITATIONS
+- [ ] Update version number and date in README and CITATION.ff
 - [ ] Document changes in version-history.md
 - [ ] Update archive notes in version-history.md and README to: "Zenodo DOI current. Blockchain and Arweave verification pending."
 - [ ] Review and test:
@@ -113,4 +113,4 @@ This workflow checklist aligns with the following frameworks:
 
 ---
 
-**Last Updated:** 11 September 2026
+**Last Updated:** 15 October 2026
