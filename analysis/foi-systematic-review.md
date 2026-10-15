@@ -4,7 +4,7 @@
 
 ## Overview
 
-Following completion of the primary audit, a systematic review of TGA's complete FOI disclosure log was conducted using Open Source Intelligence (OSINT) methodology to verify completeness of the audit evidence base and identify any potentially relevant Plan implementation documents.
+Following completion of the primary audit,  a systematic review of TGA's public FOI disclosure log was conducted using Open Source Intelligence (OSINT) methodology to test whether the audit evidence base had missed any publicly released Plan implementation documents.
 
 ## Search Methodology
 
@@ -57,6 +57,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 - Search limited to publicly released FOI documents (s.11C releases only)
 - Keyword-based approach may miss documents using alternative terminology
 - No access to refused or partially released FOI documents
+- A keyword search of the log cannot find documents the log does not link (FOI 5082 was not linked)
 
 ## Key Findings
 
@@ -65,9 +66,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 | Total COVID safety FOIs identified | 25 |
 | Core documents already in repository | FOI 4029 (9 docs), FOI 5082 (1 doc), FOI 5275 (1 doc) |
 | New high-value documents identified | 0 |
-| "Further Plan framework references identified (beyond FOI 4029 and FOI 5082) | 0 |
-
-**Note on coverage**: The remaining 15% comprises FOI documents reviewed but excluded as they contained raw AEFI data, individual case reviews, or technical assessments without Plan framework references.
+| Further Plan framework references identified (beyond FOI 4029 and FOI 5082) | 0 |
 
 ## Detailed Candidate Assessment
 
