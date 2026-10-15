@@ -83,7 +83,7 @@ The following variables appear as columns in the primary evidence matrix, locate
 | Plan output | String | Plain-language title of the assessed output | Free text |
 | Assessment objective | String | Full per-output objective text (the seven analytical categories in Section 5 are derived from the Output ID prefix) | Free text |
 | Status | Categorical | Documentation status classification | Fully Implemented / Partially Implemented / Not Documented |
-| Rating (1–5) | Integer | Severity rating of the documentation position | 1–5 |
+| Rating (1–5) | Integer | Severity rating of the documentation position (1 = Minimal, 5 = Critical; higher means a more significant gap) | 1–5 |
 | Evidence Sources | String | Sources consulted in support of the classification | Free text; cross-referenced to primary-sources directory |
 | Findings | String | Summary of documentary evidence identified or basis for classification | Free text |
 | Documentation Gaps | String | Identified gaps relative to Plan specifications | Free text |
