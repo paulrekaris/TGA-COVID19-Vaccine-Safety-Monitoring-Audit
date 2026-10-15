@@ -143,29 +143,29 @@ FOI log references to "COVID Vaccine Pharmacovigilance Plan" refer to the nation
 
 ## Implications for Audit Evidence Base
 
-### Complete Evidence Collection
+### Evidence Collection
 Systematic review of 500+ FOI releases (2020–2025) confirms the FOI 4029 suite, FOI 5082 and FOI 5275 are the core Plan-related evidence identified in the public FOI corpus.
 
-### Repository Coverage Validation
+### Repository Coverage 
 The audit repository contains the Plan-related evidence identified by this review of the public FOI disclosure log.
 
-### Findings Confirmation
+### Consistency with Audit Findings
 No additional Plan framework references were identified in the wider FOI log. This is consistent with the audit finding that implementation cannot be verified from the documents released.
 
-### Evidence Base Completeness
+### Effect on Ratings
 No additional FOI documents were identified that would alter implementation status ratings for the 19 Plan outputs assessed in the audit.
 
 ## Conclusion
 
-**Evidence collection complete**: OSINT systematic review of 500+ FOI releases confirms FOI 4029 suite, FOI 5082 and FOI 5275 are the core Plan-related evidence in the public FOI corpus.
+**Evidence collection reviewed**: OSINT systematic review of 500+ FOI releases confirms FOI 4029 suite, FOI 5082 and FOI 5275 were identified as Plan-related evidence in the public FOI disclosure log.
 
-**Repository coverage validated**: Core documents (FOI 4029 suite, FOI 5082, and FOI 5275) capture the core Plan-related evidence from the complete FOI disclosure log.
+**Repository coverage checked**: Core documents (FOI 4029 suite, FOI 5082, and FOI 5275) identified as core Plan-related evidence from the FOI disclosure log.
 
-**Documentation gap confirmed**: Absence of Plan framework references, VSIG integration protocols, and systematic tracking documentation across the entire FOI corpus validates audit findings based on complete available evidence identified in the TGA FOI disclosure log. 
+ **Documentation gap consistent**: No further Plan framework references, VSIG integration protocols or systematic tracking documentation were found in the public FOI log.
 
-**Methodological transparency**: Systematic OSINT search approach enables independent replication and verification of evidence base completeness.
+**Methodological transparency**: The OSINT search approach is documented so that others can replicate the keyword review.
 
-**Recommendation**: No additions to audit evidence base required.
+**Recommendation**: No additions to audit evidence base identified.
 
 ---
 
