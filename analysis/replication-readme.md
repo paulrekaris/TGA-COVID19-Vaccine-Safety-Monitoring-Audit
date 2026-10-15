@@ -40,12 +40,13 @@ Full replication code for all three analytical operations is provided below.
 
 The evidence matrix contains six sheets:
 
+- **README** — overview of the workbook
+
 - **Summary** — pre-computed headline statistics
 - **Methodology** — audit methodology and evidence quality assessment
 - **Rating Criteria** — classification criteria and evidence types required to close each finding
 - **Evidence Matrix** — primary dataset (19 rows, one per assessed Plan output)
 - **Output Assessment** — output-by-output severity ratings (1 = Minimal, 5 = Critical) and assessment details
-- **Reference** — supporting reference information
 
 All replication operations below use the **Evidence Matrix** sheet.
 
