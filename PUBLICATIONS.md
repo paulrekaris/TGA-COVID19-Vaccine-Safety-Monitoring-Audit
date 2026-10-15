@@ -29,7 +29,7 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan},
-  month = {September},
+  month = {October},
   year = {2026},
   version = {1.9.6},
   publisher = {Zenodo},
