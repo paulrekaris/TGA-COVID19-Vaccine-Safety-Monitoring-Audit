@@ -44,7 +44,7 @@ Comprehensive independent audit assessing implementation of the TGA's February 2
 
 **Rekaris, P. (2026).** *A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan.*
 
-Companion paper describing the structured dataset and methodology compiled between 2022 and 2026 to support independent documentary analysis of the Plan. Comprises FOI decision letters, released government documents, OAIC submissions and determinations, Senate Hansard extracts, policy and surveillance documents, and an output-level evidence matrix assessing 19 Plan outputs using a structured four-tier classification framework. Includes codebook documenting variables, classification codes, evidence tiers, and severity ratings, replication code (Python/R/Stata), and a step-by-step replication pathway designed to be applied to other regulatory and governance accountability settings.
+Companion paper describing the structured dataset and methodology compiled between 2022 and 2026 to support independent documentary analysis of the Plan. Comprises FOI decision letters, released government documents, OAIC submissions and determinations, Senate Hansard extracts, policy and surveillance documents, and an output-level evidence matrix assessing 19 Plan outputs using a three-category documentation status classification and a four-tier source-reliability framework. Includes codebook documenting variables, classification codes, evidence tiers, and severity ratings, replication code (Python/R/Stata), and a step-by-step replication pathway designed to be applied to other regulatory and governance accountability settings.
 
 **Access:**
 - SSRN: [https://doi.org/10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438)
@@ -56,7 +56,7 @@ Companion paper describing the structured dataset and methodology compiled betwe
   author = {Rekaris, Paul},
   orcid = {0009-0000-1338-9578},
   title = {A documentation dataset for the Australian COVID-19 Vaccine Safety Monitoring Plan},
-  month = {August},
+  month = {October},
   year = {2026},
   publisher = {SSRN},
   doi = {10.2139/ssrn.6610438},
@@ -86,4 +86,4 @@ All publications and supporting materials are licensed under [Creative Commons A
 
 ---
 
-**Last updated:** 14 October 2026
+**Last updated:** 15 October 2026
