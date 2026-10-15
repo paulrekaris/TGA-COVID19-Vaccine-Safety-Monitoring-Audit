@@ -74,7 +74,9 @@ Companion paper describing the structured dataset and methodology compiled betwe
 
 ## Licence and Use
 
-All publications and supporting materials are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share, adapt, and build upon this work with appropriate attribution.
+All publications and supporting materials are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
+
+You are free to share, adapt, and build upon this work with appropriate attribution.
 
 ---
 
