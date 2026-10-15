@@ -174,7 +174,7 @@ Around 15 minutes is sufficient to grasp the main findings and their implication
 
 - [Q20: How many safety signals were investigated?](#q20-how-many-safety-signals-were-investigated)
 - [Q21: What’s the AusVaxSafety integration gap?](#q21-whats-the-ausvaxsafety-integration-gap)
-- [Q22: What international standards weren’t potentially met?](#q22-what-international-standards-werent-potentially-met)
+- [Q22: What international pharmacovigilance standards were potentially not met?](#q22-what-international-pharmacovigilance-standards-were-potentially-not-met)
 - [Q23: What percentage of Plan outputs are documented?](#q23-what-percentage-of-plan-outputs-are-documented)
 
 **Part 6: Addressing Objections**
