@@ -58,6 +58,7 @@
 - Removed an unsourced 85% coverage figure and corrected the FOI count from 26 to 25 in the FOI disclosure-log review. Removed an unsourced 68% dose-coverage clause from the TGA documents README.
 - Clarified that the audit's verification relies on TGA-generated sources that corroborate one another and are not independent of the auditee, and that the FOI log review was done by the auditor without a second reviewer.
 - Retitled QON 559 Finding 7 to "No fully documented core monitoring outputs" to reflect the revised ratings, and added a note that its finding numbers follow that document's own numbering.
+- Report: softened wording on AICmr 54, the OAIC-directed sample searches and TGA's page estimates so each states only what the source supports
 
 ### Supporting files
 
