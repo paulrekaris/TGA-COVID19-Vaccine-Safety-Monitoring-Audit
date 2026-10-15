@@ -406,7 +406,7 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 ### Audit Conclusion
 
-This analysis demonstrates extensive surveillance activities occurred: 140,000+ DAEN reports collected, 3M+ AusVaxSafety responses gathered, 150 signals investigated, 57 regulatory actions taken, 150+ reports published across 33 months.
+This analysis demonstrates extensive surveillance activities occurred: 140,000+ DAEN reports collected, 6.8M+ AusVaxSafety responses gathered, 150 signals investigated, 57 regulatory actions taken, 150+ reports published across 33 months.
 
 FOI 4029-03 provides evidence that TGA prepared Strategy 2.3 methodology materials and presented these to the Advisory Committee on Vaccines in September 2021, demonstrating organisational capacity to prepare materials organised by Plan objectives for advisory body forums. In September 2024 the Department estimated 2,218+ pages of potentially relevant material for OAIC review (MR22/00538).
 
