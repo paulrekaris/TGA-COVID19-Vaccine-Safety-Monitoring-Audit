@@ -37,7 +37,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 - All matches cross-referenced against existing repository
 - Promising candidates examined in full text
 - Date ranges verified against log timestamps
-- Independent verification of findings completeness
+- Independent review of findings 
 
 **Search Parameters:**
 - **Timeframe**: July 2020–December 2025
@@ -119,7 +119,7 @@ The remaining 22 FOIs demonstrate consistent patterns: raw AEFI data, case revie
 
 ### Implications
 
-This systematic review reinforces the audit finding that documentation gaps are comprehensive across the entire FOI corpus, not selective. The absence of Plan framework references is consistent across all 500+ reviewed FOI releases.
+This review found no Plan implementation documents in the public FOI log beyond FOI 4029, FOI 5082 and FOI 5275. It is a keyword search of the public log and does not reach documents that were refused, not released or not linked.
 
 ## Scope Exclusions
 
@@ -147,7 +147,7 @@ FOI log references to "COVID Vaccine Pharmacovigilance Plan" refer to the nation
 Systematic review of 500+ FOI releases (2020–2025) confirms the FOI 4029 suite, FOI 5082 and FOI 5275 are the core Plan-related evidence identified in the public FOI corpus.
 
 ### Repository Coverage Validation
-The audit repository contains all identified Plan implementation evidence from the complete FOI disclosure log—comprehensive coverage achieved.
+The audit repository contains the Plan-related evidence identified by this review of the public FOI disclosure log.
 
 ### Findings Confirmation
 No additional Plan framework references were identified across the wider FOI corpus confirms the audit finding: enhanced monitoring framework implementation cannot be verified through documentary evidence. The documentation gap is comprehensive and systemic, not selective.
