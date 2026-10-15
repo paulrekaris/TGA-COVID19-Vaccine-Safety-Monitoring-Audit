@@ -591,7 +591,7 @@ This pattern indicates not poor record-keeping, but an absence of the systematic
 **Commonwealth Ombudsman:**
 
 - Complaint submitted in April 2025 (Ref: 2025‑806374) regarding TGA pharmacovigilance practices
-- Case not yet assigned for investigation. No action commenced as of 26 March 2026
+- On 18 September 2026 the Ombudsman advised that the complaint had been referred for further consideration
 
 **Australian National Audit Office:**
 
