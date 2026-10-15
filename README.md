@@ -319,7 +319,7 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 - **68% Partially implemented/undocumented (13/19 outputs)** – activities appear to have occurred, but systematic implementation and governance cannot be verified.  
 - **16% Not documented (3/19 outputs)** – no evidence identified in public material or FOI/OAIC processes.
 
-**Detailed breakdown by objective:** [View complete conformity assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
+**Detailed breakdown by objective:** [View detailed output-by-output assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-assessment) showing Objective 2 (Signal Detection) at 0% fully implemented across 8 outputs and Governance at 0% documented across 2 outputs.
 
 
 ## Four Critical Documentation Gaps
@@ -866,7 +866,7 @@ The comprehensive audit report includes:
 - [FOI Systematic Review](analysis/foi-systematic-review.md) – Systematic review of FOI request patterns, TGA response inconsistencies, and documentary evidence gaps across four years.
 
 - [ISO 19011 Management Systems Audit](analysis/ISO-19011-conformity-assessment-checklist.md) – 
-  Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [detailed output-by-output breakdown](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-breakdown) with 16% conformity rate across 19 Plan outputs, Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
+  Independent conformity assessment using ISO 19011:2018 guidelines. Documents 7 major non-conformities and overall NON-CONFORMING rating. Includes [[View detailed output-by-output assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-assessment) with 16% conformity rate across 19 Plan outputs, Objective 2 (Signal Detection) at 0% fully implemented and Governance at 0% documented. Complete evidence matrix with methodology and rating criteria available in [Excel format](analysis/output-assessment-evidence-matrix.xlsx).
 
 - [Search Methodology Comparison](analysis/search-methodology-comparison.md) – Systematic comparison of this audit's output-specific search strategy (14 strategic terms) versus TGA's OAIC-directed searches (8 terms operating at Plan-title and audit level, not keyed to individual Plan outputs), documenting gaps in output-specific coverage including signal detection, AusVaxSafety coordination, and ICMRA sharing. Includes comparison table and gap analysis with full citations to TGA OAIC submission (September 2024, pp. 28-32) and audit methodology (Appendix A.2.2, pp. 77-78).
 
