@@ -99,7 +99,7 @@ Section 24(1)(b) of the FOI Act 1982: Request would substantially and unreasonab
 Section 24AA(2) of the FOI Act requires agencies to assess whether a request would substantially and unreasonably divert resources without regard to the reasons for making the request or the applicant's characteristics.
 
 However, TGA's prior demonstrated capability to estimate 2,218+ pages by Plan objectives for OAIC review (September 2024) raises questions about whether classifying 30 documents across 12 predefined categories constitutes an "unreasonable" diversion of resources, particularly when:
-- The classification methodology had been successfully applied nine months earlier
+- TGA had estimated pages by Plan objective nine months earlier
 - Applicant achieved 92% scope reduction in response to TGA's consultation suggestions
 - TGA had indicated refined items "may be manageable" in first consultation
 
@@ -114,7 +114,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
 **September 2024 (OAIC MR22/00538):**
 - Estimated 2,218+ relevant pages of vaccine safety documentation by Plan objective
 - Ran sample TRIM searches (eight terms; one term returned 531+ containers)
-- Classified material by Plan objectives for Information Commissioner review
+- Estimated relevant pages by Plan objective for the Information Commissioner
 - Demonstrated technical and methodological capacity for objective-based classification
 
 **Source:** Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32.
