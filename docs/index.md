@@ -37,7 +37,7 @@ The purpose of this audit is best understood in the context of how the enhanced 
 
 ## What the audit found
 
-- **01** In September 2024, directed by the Office of the Australian Information Commissioner, the TGA identified no implementation records for the safety monitoring plan — a position the Commissioner confirmed in Decision [2025] AICmr 54.
+- **01** In September 2024, directed by the Office of the Australian Information Commissioner, the TGA's sample searches identified no Plan implementation records. The Commissioner found the report requested under FOI 3643 cannot be found or does not exist (Decision [2025] AICmr 54).
 
 - **02** Senior TGA officials told the Senate (9 October 2025) that monitoring occurred through routine "day-to-day processes", not as the distinct, systematically tracked framework the plan described.
 
@@ -53,7 +53,7 @@ The purpose of this audit is best understood in the context of how the enhanced 
 
 ### Did the TGA implement its COVID-19 vaccine safety monitoring plan?
 
-The audit found that 16 of 19 outputs are partially documented or undocumented, and the regulator could produce no implementation records when directed to search for them.
+The audit found that 16 of 19 outputs are partially documented or undocumented, and the TGA's OAIC-directed sample searches identified no Plan implementation records.
 
 ### Didn't Australia already have extensive vaccine safety monitoring?
 
