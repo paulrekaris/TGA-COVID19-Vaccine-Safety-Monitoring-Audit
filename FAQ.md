@@ -102,7 +102,7 @@ Only 3 of 19 audited outputs (16%) fully documented; no evidence of systematic t
 TGA cannot produce documentation showing it delivered the enhanced-monitoring commitments in the Plan under National Cabinet-endorsed policy and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
 
 **Official Confirmation**
-The Information Commissioner confirmed that implementation records for the Plan could not be found after after OAIC-directed sample searches.
+The Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist.
 
 **Senate Admission**
 TGA officials admitted monitoring was never systematically tracked against Plan objectives and characterised it as “day-to-day processes”.
@@ -216,7 +216,7 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner confirmed after OAIC-directed sample searches that TGA implementation records for the Plan could not be found or do not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
@@ -464,11 +464,11 @@ The Australian Information Commissioner directed searches in response to FOI req
 
 In decision [2025] AICmr 54 (March 2025), the Australian Information Commissioner:
 
-- Directed TGA sample searches, one term of which returned 531 TRIM containers
-- Estimated 2,218+ pages of potentially relevant material
-- Confirmed that TGA implementation records for the Plan could not be found or do not exist
-- Found no systematic tracking of Plan objectives
-- Validated that requested records are genuinely absent, not merely withheld
+- Found the Department took all reasonable steps under s 24A to locate the report requested under FOI 3643
+- Was satisfied the requested implementation report cannot be found or does not exist
+- Read the request as one for a report with analysis and commentary, not incidental material
+- Held that an applicant cannot widen a request on review
+- Made no finding on whether the Plan was implemented
 
 ### Q18: What did TGA tell the Senate?
 
@@ -525,7 +525,7 @@ Of the 19 audited outputs assessed:
 **Fully documented (16%):** 3 outputs
 
 - Regular safety updates published
-- DAEN database maintained
+- AEFI reporting forms published
 - Some public communications delivered
 
 **Partially documented (68%):** 13 outputs
@@ -537,7 +537,7 @@ Of the 19 audited outputs assessed:
 **Not documented (16%):** 3 outputs
 
 - No evidence located after four years
-- Include critical integration and governance elements
+- Include clinical-study processes and both governance outputs
 - Systematic verification impossible
 
 -----
@@ -607,7 +607,7 @@ All oversight bodies have access to the complete audit evidence through public G
 
 ### Q29: What would close this audit gap?
 
-TGA could refute these findings by producing the implementation documentation that the extensive searches ordered by the Information Commissioner could not locate:
+TGA could refute these findings by producing the implementation documentation that the OAIC-directed sample searches did not locate:
 
 - Systematic tracking records showing Plan outputs were delivered as designed
 - Audit trails linking safety signals to disposition decisions with documented criteria
@@ -774,7 +774,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 14 October 2026   
+**Last Updated:** 15 October 2026   
 **Licence:** CC BY 4.0
 
 
