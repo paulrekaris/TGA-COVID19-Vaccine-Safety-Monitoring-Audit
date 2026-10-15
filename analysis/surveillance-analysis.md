@@ -165,7 +165,7 @@ TGA operated two major systems concurrently: DAEN passive surveillance (140,000+
 
 **ICH E2E Requirement:** "Signal detection should employ multiple data sources with documented integration methodology."
 
-Malikova (2020) establishes that signal management requires documented integration of multiple data sources, with all actions accurately tracked at every stage  (Malikova, 2020, p.2).
+Malikova (2020) establishes that signal management requires documented integration of multiple data sources, with all actions accurately tracked at every stage (Malikova, 2020, p.2).
 
 **Evidentiary Basis:** All six reports reference both systems without documenting how discrepancies resolved or outputs combined for signal detection.
 
