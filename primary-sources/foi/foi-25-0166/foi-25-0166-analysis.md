@@ -154,13 +154,13 @@ The practical refusal occurred despite:
 
 | Aspect | FOI 25-0166 (June 2025) | OAIC MR22/00538 (September 2024) |
 |--------|-------------------------|----------------------------------|
-| Classification task | Organise 30 documents by Plan objectives (final refined scope) | Organised 2,218+ pages by Plan objectives |
+| Classification task | Organise 30 documents by Plan objectives (final refined scope) | Organised 2,218+ pages by Plan objectives (sample searches) |
 | Initial scope | 399 documents (3,926 pages) | Sample searches (one term: 531+ TRIM containers) | 
-| Scope reduction | 92% reduction (399 → 30 documents) in response to TGA consultation | N/A - full scope processed |
-| Categories defined | 12 categories explicitly specified | Search across all containers |
-| TGA initial assessment | Items 1(b)(c) "may be manageable" (24 April 2025) | Successfully completed |
-| TGA final characterisation | "Subjective interpretation" (June 2025) | Successfully completed (September 2024) |
-| Outcome | Practical refusal (s24(1)(b)) | Documents classified and reviewed |
+| Scope reduction | 92% reduction (399 → 30 documents) in response to TGA consultation | N/A. Sample searches only (the Department described them as non-exhaustive) |
+| Categories defined | 12 categories explicitly specified | Sample searches across selected containers |
+| TGA initial assessment | Items 1(b)(c) "may be manageable" (24 April 2025) | Not applicable |
+| TGA final characterisation | "Subjective interpretation" (June 2025) | Not applicable |
+| Outcome | Practical refusal (s24(1)(b)) | Page estimate and sample search results provided to OAIC |
 | Time differential | June 2025 | 9 months earlier (September 2024) |
 
 ### Scope Reduction Analysis
