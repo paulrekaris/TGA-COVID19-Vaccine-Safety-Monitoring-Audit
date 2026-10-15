@@ -37,7 +37,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 - All matches cross-referenced against existing repository
 - Promising candidates examined in full text
 - Date ranges verified against log timestamps
-- Independent review of findings 
+- Review of findings by the auditor, who is independent of the TGA (no second reviewer)
 
 **Search Parameters:**
 - **Timeframe**: July 2020–December 2025
