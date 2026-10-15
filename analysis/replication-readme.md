@@ -44,7 +44,7 @@ The evidence matrix contains six sheets:
 - **Methodology** — audit methodology and evidence quality assessment
 - **Rating Criteria** — classification criteria and evidence types required to close each finding
 - **Evidence Matrix** — primary dataset (19 rows, one per assessed Plan output)
-- **Output Assessment** — output-by-output severity ratings and assessment details
+- **Output Assessment** — output-by-output severity ratings (1 = Minimal, 5 = Critical) and assessment details
 - **Reference** — supporting reference information
 
 All replication operations below use the **Evidence Matrix** sheet.
@@ -174,4 +174,4 @@ For variable definitions, evidence tier classification, severity rating scale, a
 Social Science Data Editors. (n.d.). *Template README for social science replication packages*. https://social-science-data-editors.github.io/template_README/
 
 **Version:** v1.2  
-**Last updated:** 14 October 2026
+**Last updated:** 15 October 2026
