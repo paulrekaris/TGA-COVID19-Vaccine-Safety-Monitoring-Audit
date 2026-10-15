@@ -78,7 +78,7 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 **File:** documentation-gap-analysis-audit-report-v1_9_5.pdf  
 **Publisher:** Paul Rekaris  
 **Access conditions:** Openly on the internet  
-**Discovery:** Discoverable via Trove   (https://trove.nla.gov.au/)
+**Discovery:** Discoverable via Trove (https://trove.nla.gov.au/)
 
 **Previous deposit**  
 **Deposit ID:** NED484448        
@@ -102,7 +102,7 @@ The blockchain and decentralised storage layers provide tamper-proof verificatio
 
 ### Significance
 
-National edeposit fulfills Commonwealth digital legal deposit requirements. Registered with the National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
+National edeposit fulfils Commonwealth digital legal deposit requirements. Registered with the National Library of Australia, ensuring permanent preservation as part of Australia's official national collection.
 
 ### Access
 
