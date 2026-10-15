@@ -32,7 +32,7 @@
 > 
 > - **ICH E2E documentation gap identified:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions—no baseline data sources, calculation methodologies, confidence intervals, p-values, or power calculations published despite ICH E2E guidance on systematic signal evaluation and documentation
 > 
-> - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented comprehensive Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. This methodology was not identified in the concurrent public safety reports.
+> - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented a Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. This methodology was not identified in the concurrent public safety reports.
 > 
 > - **OAIC search excluded relevant advisory body evidence:** TGA's September 2024 OAIC-directed searches (sample searches, one term returning 531+ containers) recorded that Objective 5 Advisory Committee containers were "unable to [be] meaningfully interpret[ed]", despite FOI 4029-03 (D21-3141615) containing relevant ACV governance evidence—indicating an inadequate search scope for verification of Plan implementation.
 > 
@@ -460,7 +460,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 14 October 2026
+**Last updated:** 15 October 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
