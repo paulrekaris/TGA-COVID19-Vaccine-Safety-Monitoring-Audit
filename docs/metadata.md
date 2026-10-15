@@ -3,7 +3,7 @@ title: "Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Sa
 description: "Independent documentary audit of implementation of the Therapeutic Goods Administration's February 2021 COVID-19 Vaccine Safety Monitoring Plan, examining enhanced vaccine safety monitoring, pharmacovigilance, provisional registration, regulatory accountability, documentary evidence and implementation."
 author: "Paul Rekaris"
 language: "en-AU"
-date_modified: "2026-10-14"
+date_modified: "2026-10-15"
 license: "CC BY 4.0"
 canonical_url: "https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md"
 repository: "https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit"
@@ -307,4 +307,4 @@ https://doi.org/10.31235/osf.io/sb4gz
 
 ---
 
-**Last revised:** 14 October 2026
+**Last revised:** 15 October 2026
