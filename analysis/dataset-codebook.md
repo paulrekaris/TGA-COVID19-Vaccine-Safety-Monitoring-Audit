@@ -110,7 +110,7 @@ The following statistics are directly reproducible from the evidence matrix usin
 
 The dataset evaluates the extent to which documentary evidence associated with the published monitoring framework can be identified and mapped to specified outputs. It does not assess clinical effectiveness, vaccine safety outcomes, or whether undocumented activities may have occurred outside retrievable records.
 
-Classifications reflect the evidentiary position based on retrievable documentation as at October 2026. Each classification is anchored to identifiable documentary evidence, and the criteria for revising any classification are specified in the Rating Criteria sheet within the evidence matrix.
+Classifications reflect the evidentiary position based on retrievable documentation as at October 2026 (v1.9.6). Each classification is anchored to identifiable documentary evidence, and the criteria for revising any classification are specified in the Rating Criteria sheet within the evidence matrix.
 
 Later document releases or institutional disclosures may alter the available evidence base. Corrections and additional evidence are welcomed and will be incorporated into future versions with transparent version history.
 
