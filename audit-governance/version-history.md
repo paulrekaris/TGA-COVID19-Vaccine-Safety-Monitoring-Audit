@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 14 October 2026
+**Last updated:** 15 October 2026
 
 
 ---
@@ -50,6 +50,10 @@
 - Described the Department's September 2024 searches reported to the OAIC (TRIM and Promap) as sample searches, not independently verified. Removed "comprehensive", "OAIC-validated" and "zero governance documentation" wording. One search term returned 531+ containers, which the Department described as relating to manufacturing audits, the vaccine taskforce and the COVID-19 vaccine program. The figure of 2,218 pages is the Department's estimate. Corrected the OAIC attachment references (Attachment D, not A) and the quoted search-time estimate ("30mintues" [sic], p. 32).
 - Narrowed the AICmr 54 wording to the implementation report requested under FOI 3643.
 - Corrected the unactioned-signal figure from 91 to 93 (150 signals reported in QON 559 less 57 actions). This is the audit's calculation, not a TGA figure.
+- Aligned the wording on the FOI disclosure-log review (500+ releases) and the ISO checklist to what a keyword search of the public log can show. Removed "complete", "comprehensive coverage" and "no additional records were missed", and stated that the review cannot reach unlinked, refused or unreleased documents.
+- Corrected statements that the OAIC or AICmr 54 "confirmed" implementation records could not be found. AICmr 54 is now described as finding that the report requested under FOI 3643 cannot be found or does not exist.
+- Corrected Plan output numbers in the surveillance analysis (active surveillance is Output 2.4, not 2.1 or 2.2).
+- Clarified that the Department's 2,218+ page figure was an estimate from sample searches, and removed statements that classification by Plan objective had been fully performed for the OAIC.
 
 ### Supporting files
 
@@ -61,6 +65,7 @@
 
 - Updated counts, percentages, mean severity and version labels across the README, FAQ, ISO 19011 conformity checklist, TIMELINE and supporting analysis files. Updated the codebook and replication README for the revised ratings: classification outcome now 3 Fully / 13 Partially / 3 Not Documented, mean severity 3.26, with the expected replication output reordered to match.
 - Added a note to the Senate citation page that the 3 / 10 / 6 figures cited on 24 March 2026 reflect v1.9.5.
+- Renamed docs/11ms.txt to docs/llms.txt so the link from the project page resolves, and corrected the rating counts in that file.
 
 ### Quality assurance
 
@@ -69,6 +74,8 @@ Comprehensive post-v1.9.5 quality-assurance review of the repository. Corrected 
 Repository governance and reproducibility documentation was also strengthened, including evidence-storage and provenance arrangements, version-control and release workflows, version-classification criteria, archival verification and preservation, quality-assurance procedures and open-review documentation.
 
 The role of audit-governance documentation was clarified as a supporting methodological and administrative record rather than additional substantive audit evidence. Locally hosted third-party material was reviewed and, where redistribution rights were uncertain, removed or replaced by appropriate references. Additional repository housekeeping improved navigation, consistency and maintenance documentation without altering the underlying audit evidence.
+
+A further line-by-line review corrected internal-consistency errors in the ISO checklist, FAQ, README, QON 559 analysis, surveillance analysis, FOI 25-0166 analysis and folder README files (counts, dates, cross-references, broken links, sheet names and typographical errors).
 
 ### Sources and evidence additions
 
