@@ -206,7 +206,7 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > TGA's OAIC-directed sample searches in September 2024, one term of which returned more than 531 TRIM containers, identified no implementation records for the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The Commissioner then accepted, in [2025] AICmr 54, that the implementation report requested under FOI 3643 cannot be found or does not exist.
 > 
 > #### 2. "Day-to-day processes" instead of enhanced monitoring  
-> Senate testimony in October 2025 confirmed that implementation of the Plan was never systematically tracked, and that COVID-19 vaccine safety monitoring was managed through routine “day-to-day processes” — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring commitment set out in the Cabinet-endorsed policy and the February 2021 Plan for 68.4 million doses.
+> Senate testimony in October 2025 indicated that implementation of the Plan was not systematically tracked, with COVID-19 vaccine safety monitoring managed through routine "day-to-day processes" — TGA’s own characterisation indicating the framework was not operationalised as distinct from routine surveillance, contradicting the enhanced monitoring commitment set out in the Cabinet-endorsed policy and the February 2021 Plan for 68.4 million doses.
 > 
 > #### 3. Only 16% of Plan outputs have complete implementation documentation  
 > Only 3 of 19 audited Plan outputs (16%) have complete implementation documentation. The other 16 (84%) do not: 13 have process documents but limited or no records of results, and 3 have no documentation identified.  
@@ -754,7 +754,7 @@ https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s (2:30:40–2:37:00)
 **Hansard:**  
 https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
-**Key testimony:** TGA officials stated Plan implementation was never systematically tracked and monitoring occurred through "day-to-day processes" rather than distinct enhanced framework. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
+**Key testimony:** TGA officials described monitoring as "day-to-day processes" rather than a distinct enhanced framework, indicating Plan implementation was not systematically tracked. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
 
 [Full testimony analysis →](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
@@ -815,7 +815,7 @@ Absence of documentation does not prove that activities never occurred. It does,
 The probability that comprehensive implementation documentation exists but could not be located is low, given:
 
 1. TGA's OAIC‑directed searches surfaced 2,218+ pages of potentially relevant material yet identified none as Plan implementation documentation (MR22/00538, September 2024).
-2. Senate testimony confirmed that Plan implementation was never systematically tracked and that monitoring was treated as “day‑to‑day processes”.  
+2. Senate testimony, describing monitoring as "day‑to‑day processes", indicated that Plan implementation was not systematically tracked.
 3. Multiple FOI requests over four years (FOI 3643, FOI 25‑0166) targeted the same implementation evidence.  
 4. Systematic review of publicly available TGA databases, websites, annual reports and AusPARs found no Plan‑level implementation or verification trail.
 
@@ -1046,7 +1046,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 15 October 2026  
+**Last Updated:** 16 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
