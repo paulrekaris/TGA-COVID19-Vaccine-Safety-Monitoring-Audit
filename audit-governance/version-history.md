@@ -464,7 +464,7 @@ Core audit findings unchanged throughout. This release strengthens the evidence 
 - Migrated primary evidentiary documents from reference-documents to primary-sources
 - Added README files to all subfolders documenting folder contents and evidentiary significance
 - Updated FOI 5275 entry: replaced third-party redacted copy (sourced from Russell Broadbent MP website) with direct FOI release to applicant (Paul Rekaris) obtained via FOI 26-2581 (decided 2 February 2026, decision maker: Fiona Turk, Director, Prescription Medicines Authorisation Branch). Updated filename to foi-5275-notice-of-decision.pdf. Updated primary sources README and Reference 25 in ISO 19011 conformity assessment accordingly.
-- Added FOI 5225 / FOI 2389 (Pfizer COMIRNATY provisional registration  documents, July 2021) to primary sources. Evidentiary significance: richness of pre-approval documentation contrasts with absent post-market Safety Monitoring Plan implementation records, reinforcing accountability gap finding. Added to primary sources README in chronological order.
+- Added FOI 5225 / FOI 2389 (Pfizer COMIRNATY provisional registration documents, July 2021) to primary sources. Evidentiary significance: richness of pre-approval documentation contrasts with absent post-market Safety Monitoring Plan implementation records, reinforcing accountability gap finding. Added to primary sources README in chronological order.
 
 ### Reference Documents
 - Added ICH E2E Guideline and CIOMS VIII international pharmacovigilance standards for offline accessibility
