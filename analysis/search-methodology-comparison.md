@@ -20,7 +20,7 @@ The comparison examines why TGA's OAIC-directed sample searches, one term return
 
 Therapeutic Goods Administration, *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*, 20 September 2024, OAIC Reference MR22/00538, pp. 28-32.
 
-Repository: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/foi/foi-3643/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
+Repository: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 
 ### Search Terms Used
 
@@ -210,7 +210,7 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ## References
 
-1. Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32. Available: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/foi/foi-3643/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
+1. Therapeutic Goods Administration. (2024). *Response to written notice and direction under ss 55V(2) and 55(2)(e)(ii) of the Freedom of Information Act 1982*. 20 September 2024. OAIC Reference MR22/00538, pp. 28-32. Available: [TGA submission OAIC MR22-00538 Sept 2024_Redacted.pdf](../primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf)
 
 2. Rekaris, P. (2026). *Documentation Gap Analysis: TGA COVID-19 Vaccine Safety Monitoring Plan Audit (Version 1.9)*. Appendix A.2.2 "Online Document Search Methodology", pp. 77-78. Zenodo. https://doi.org/10.5281/zenodo.17731054. Available: [`analysis/documentation-gap-analysis-audit-report.pdf`](../analysis/documentation-gap-analysis-audit-report.pdf)
 
@@ -218,6 +218,6 @@ The question of whether "all reasonable steps" under s24A requires output-specif
 
 ---
 
-**Last Updated:** 14 October 2026  
+**Last Updated:** 15 October 2026  
 **Author:** Paul Rekaris  
 **Licence:** CC BY 4.0
