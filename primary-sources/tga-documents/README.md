@@ -100,7 +100,7 @@ The Plan's "enhanced" monitoring was premised on integrated active surveillance.
 This 2021 portrayal of COVID-19 monitoring as functionally indistinguishable from routine processes is directly consistent with the 2025 Senate testimony describing it as "day-to-day processes" never shown to have been systematically tracked against the Plan.
 
 **Corroborates the audit finding:**
-The inability to point to specific, documented enhanced monitoring outputs in 2025 is prefigured here. The training describes aspirational goals ("aiming to enhance") rather than the 20 specified operational outputs listed in the Plan. This aligns with the audit's core finding: the documented, systematic implementation of "enhanced" monitoring cannot be verified.
+The inability to point to specific, documented enhanced monitoring outputs in 2025 is prefigured here. The training describes aspirational goals ("aiming to enhance") rather than the the specified outputs listed in the Plan (17 strategies; 19 assessed outputs). This aligns with the audit's core finding: the documented, systematic implementation of "enhanced" monitoring cannot be verified.
 
 ### Conclusion
 
@@ -112,5 +112,5 @@ The October 2021 teaching materials are contemporaneous evidence that TGA's own 
 
 ---
 
-**Last Updated:** 12 March 2026  
+**Last Updated:** 15 October 2026  
 **Licence:** CC BY 4.0
