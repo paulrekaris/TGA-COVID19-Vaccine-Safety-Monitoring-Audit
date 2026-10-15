@@ -105,7 +105,7 @@ TGA cannot produce documentation showing it delivered the enhanced-monitoring co
 The Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist.
 
 **Senate Admission**
-TGA officials admitted monitoring was never systematically tracked against Plan objectives and characterised it as “day-to-day processes”.
+TGA officials characterised monitoring as "day-to-day processes", indicating it was not systematically tracked against Plan objectives.
 
 **Legal Commentary**
 The original OAIC decision (MR22/00538) has been noted in independent legal commentary (Sparke Helmore).
@@ -554,7 +554,7 @@ Without separate tracking, audit trails, and verification documentation, deliver
 
 The audit assesses whether TGA can demonstrate through documentation that promised enhanced monitoring was systematically implemented. Documentation is how regulatory compliance is verified—it’s not optional or separate from the substantive work.
 
-The absence of implementation records, combined with official confirmation that monitoring was never systematically tracked, means demonstrable implementation of the Plan's enhanced-monitoring commitments has failed. The sponsor's registration conditions, assessed in the AusPAR, are a separate layer, not the subject of this finding. If enhanced monitoring cannot be documented, it cannot be verified. If it cannot be verified, regulatory compliance cannot be proven.
+The absence of implementation records, combined with official indicating that monitoring was never systematically tracked, means demonstrable implementation of the Plan's enhanced-monitoring commitments has failed. The sponsor's registration conditions, assessed in the AusPAR, are a separate layer, not the subject of this finding. If enhanced monitoring cannot be documented, it cannot be verified. If it cannot be verified, regulatory compliance cannot be proven.
 
 This is a fundamental governance and accountability failure, not merely poor record-keeping.
 
@@ -573,7 +573,7 @@ Poor record-keeping would be a serious regulatory failure in itself, but the evi
 - **Records management is a legal requirement** under the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013
 - **TGA demonstrated capability** estimated relevant pages by Plan objective for the Information Commissioner
 - **Same classification system was deemed “too subjective”** when a citizen requested documents using it
-- **Officials confirmed** monitoring was “never systematically tracked” against Plan objectives
+- ***Officials described** monitoring as "day-to-day processes", indicating no systematic tracking against Plan objectives
 
 This pattern indicates not poor record-keeping, but an absence of the systematic implementation framework itself. If activities were never tracked against Plan objectives, then records of that tracking cannot exist—because no such tracking is evidenced.
 
