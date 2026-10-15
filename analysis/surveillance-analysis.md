@@ -97,7 +97,7 @@ This systematic analysis examines TGA's COVID-19 vaccine safety surveillance rep
 **Timeline Correlation:**
 - **Sep 2021:** FOI 4029-03 shows TGA presented Strategy 2.3 methodology to Advisory Committee (PRR/MaxSPRT)
 - **Sep 2021-Nov 2023:** Concurrent public reports contain zero Strategy 2.3 references despite internal presentation
-- **Oct 2025:** Senate testimony confirms monitoring was "day-to-day processes" never systematically tracked
+- **Oct 2025:** Senate testimony described monitoring as "day-to-day processes", indicating no systematic tracking
 
 ---
 
@@ -460,7 +460,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 15 October 2026
+**Last updated:** 16 October 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
