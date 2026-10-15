@@ -574,7 +574,7 @@ Reasons: 7 major non-conformities documented with objective evidence; only 16 pe
 
 ### Scale and Context
 
-The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring to compensate for reduced pre-market evidence. The documentation gaps were confirmed by the TGA's own OAIC-directed searches (531+ containers, September 2024), by OAIC Decision [2025] AICmr 54, by systematic review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of August 2026, no Commonwealth oversight body had initiated a dedicated performance audit into these documentation gaps.
+The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring to compensate for reduced pre-market evidence. The documentation gaps were confirmed by the TGA's own OAIC-directed searches (531+ containers, September 2024), by OAIC Decision [2025] AICmr 54, by systematic review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026, no Commonwealth oversight body had initiated a dedicated performance audit into these documentation gaps.
 
 ---
 
@@ -684,13 +684,14 @@ All URLs were verified as accessible in January 2026.
 25. TGA. (2024). FOI 5275 Notice of Decision (21 August 2024). Third-party request for monthly cancer-incidence surveillance data related to Comirnaty provisional approval; response: documents do not exist; TGA does not hold incidence data. Obtained via FOI 26-2581 (decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (Department's estimate of 2,218+ relevant pages; one term returned 531+ containers). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf
 27. TGA. (2025, April 24). FOI 25-0166 first request consultation letter (practical refusal, s24AB).
-28. 23. TGA. (2026, June). FOI 26-3110: AusVaxSafety Annual Report 2022. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log?
+28.  TGA. (2026, June). FOI 26-3110: AusVaxSafety Annual Report 2022. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log?
 
 ### Primary Sources: Parliamentary Evidence
 
 29. Senate Community Affairs Legislation Committee Hansard (9 October 2025). Parliament of Australia. https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
-30. Senate Community Affairs Legislation Committee (9 October 2025). Estimates Hansard: TGA officials' evidence on COVID-19 vaccine safety monitoring. https://www.youtube.com/watch?v=YLFNBFdICU0
-31. Parliament of Australia. (2025). Senate Question on Notice 559 (SQ25-001584): COVID-19 Vaccine Safety Monitoring Plan. Community Affairs Legislation Committee, Supplementary Budget Estimates 2025-32. https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates
+30. Senate Community Affairs Legislation Committee (9 October 2025). Estimates Hansard and hearing video: TGA officials' evidence on COVID-19 vaccine safety monitoring. https://www.youtube.com/watch?v=YLFNBFdICU0
+31. Parliament of Australia. (2025). Senate Question on Notice 559 (SQ25-001584): COVID-19 Vaccine Safety Monitoring Plan. Community Affairs Legislation Committee, Supplementary Budget Estimates 2025-26
+32. https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates
 
 ### Academic and Technical Literature
 
