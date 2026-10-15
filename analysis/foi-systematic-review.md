@@ -4,7 +4,7 @@
 
 ## Overview
 
-Following completion of the primary audit,  a systematic review of TGA's public FOI disclosure log was conducted using Open Source Intelligence (OSINT) methodology to test whether the audit evidence base had missed any publicly released Plan implementation documents.
+Following completion of the primary audit, a systematic review of TGA's public FOI disclosure log was conducted using Open Source Intelligence (OSINT) methodology to test whether the audit evidence base had missed any publicly released Plan implementation documents.
 
 ## Search Methodology
 
