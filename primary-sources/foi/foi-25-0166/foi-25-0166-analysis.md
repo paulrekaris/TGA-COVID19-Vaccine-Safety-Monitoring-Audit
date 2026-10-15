@@ -134,7 +134,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
 
 The refusal demonstrates contradictory institutional positions:
 
-1. **Capability demonstrated:** TGA estimated 2,218+ pages by Plan objectives when directed by OAIC (September 2024)
+1. **Capability demonstrated:**  TGA estimated page counts by Plan objective for the OAIC
 
 2. **Capability initially acknowledged:** TGA indicated Items 1(b) and 1(c) "may be manageable" in first consultation (24 April 2025)
 
@@ -261,7 +261,7 @@ Therapeutic Goods Administration. (2024). *Response to written notice and direct
 
 ## Conclusion
 
-FOI 25-0166 demonstrates a documented contradiction in TGA's institutional position regarding capability to classify documents by COVID-19 Vaccine Safety Monitoring Plan objectives. TGA successfully performed this classification for the OAIC in September 2024 (2,218+ pages across 531+ containers) but characterised an identical task as impracticably subjective when requested by a citizen in June 2025—despite the applicant achieving a 92% scope reduction (399 documents to 30 documents) in direct response to TGA's consultation guidance.
+FOI 25-0166 demonstrates a documented contradiction in TGA's institutional position regarding capability to classify documents by COVID-19 Vaccine Safety Monitoring Plan objectives. TGA successfully performed this classification for the OAIC in September 2024 (an estimate of 2,218+ pages; one search term returned 531+ containers) but characterised an identical task as impracticably subjective when requested by a citizen in June 2025—despite the applicant achieving a 92% scope reduction (399 documents to 30 documents) in direct response to TGA's consultation guidance.
 
 The contradiction is particularly significant given TGA's initial indication (24 April 2025) that refined items "may be manageable," followed by refusal (3 June 2025) on subjectivity grounds after the applicant narrowed scope to 30 documents across 12 explicitly defined categories. This progression raises questions about whether the consultation process was conducted in good faith or whether the practical refusal outcome was predetermined regardless of scope refinement.
 
