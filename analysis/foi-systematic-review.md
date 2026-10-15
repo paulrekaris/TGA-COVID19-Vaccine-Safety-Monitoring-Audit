@@ -150,7 +150,7 @@ Systematic review of 500+ FOI releases (2020–2025) confirms the FOI 4029 suite
 The audit repository contains the Plan-related evidence identified by this review of the public FOI disclosure log.
 
 ### Findings Confirmation
-No additional Plan framework references were identified across the wider FOI corpus confirms the audit finding: enhanced monitoring framework implementation cannot be verified through documentary evidence. The documentation gap is comprehensive and systemic, not selective.
+No additional Plan framework references were identified in the wider FOI log. This is consistent with the audit finding that implementation cannot be verified from the documents released.
 
 ### Evidence Base Completeness
 No additional FOI documents were identified that would alter implementation status ratings for the 19 Plan outputs assessed in the audit.
