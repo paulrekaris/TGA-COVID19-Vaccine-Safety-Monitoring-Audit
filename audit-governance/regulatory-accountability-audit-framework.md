@@ -4,7 +4,7 @@
 
 ## Principle
 
-Public commitments made with public resources on behalf of the  public must be verifiable through documentation accessible to the public. Where verifiable records cannot be produced following documented and proportionate search efforts, that absence may constitute a governance finding.
+Public commitments made with public resources on behalf of the public must be verifiable through documentation accessible to the public. Where verifiable records cannot be produced following documented and proportionate search efforts, that absence may constitute a governance finding.
 
 ## Part I: Framework
 
