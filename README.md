@@ -86,7 +86,7 @@ This repository has been accepted for preservation by the National Library of Au
   - [The Audit Question](#the-audit-question)
   - [Why This Matters](#why-this-matters)
 - [The Challenge of Black Box Governance for Private Citizens](#the-challenge-of-black-box-governance-for-private-citizens)
-- [Audit History and the Pharmacovigilance Gap](#-audit-history-and-the-pharmacovigilance-gap)
+- [ANAO Audit History and the Pharmacovigilance Gap](#anao-audit-history-and-the-pharmacovigilance-gap)
 - [Oversight and Accountability](#oversight-and-accountability)
   - [Investigation Timeline](TIMELINE.md)
 - [The Call for Investigation](#the-call-for-investigation)
