@@ -208,7 +208,7 @@ The audit's surveillance analysis finding — that public reports contained zero
 
 Note: TGA states 104 reports in the QON answer. The audit's surveillance analysis references 150+ reports. This discrepancy reflects that the QON counts only the dedicated weekly/fortnightly safety report series, while the broader count includes additional safety updates, media statements, and supplementary publications. Both figures refer to different document classes from the same monitoring period.
 
-**ANAO principle:** Performance reporting should track outputs against published commitments. Zero Plan references across the sampled safety safety reports confirms the Plan did not function as the public accountability framework for those communications.
+**ANAO principle:** Performance reporting should track outputs against published commitments. Zero Plan references across the sampled safety reports confirms the Plan did not function as the public accountability framework for those communications.
 
 **Finding:** Partially documented. Communications occurred and are verifiable. Plan framework integration is absent. Consistent with audit conformity rating. The QON answer reinforces rather than resolves the communications contradiction finding.
 
@@ -351,6 +351,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 14 October 2026
+**Last updated:** 15 October 2026
 
 [↑ Back to top](#table-of-contents)
