@@ -263,7 +263,7 @@ If TGA cannot verify the enhanced monitoring framework was systematically implem
 
 ### Q5: Is this assessment claiming that TGA did no safety monitoring for COVID-19 vaccines?
 
-No. This audit explicitly acknowledges that the TGA conducted substantial pharmacovigilance throughout the rollout, publishing over 150 weekly safety reports, investigating 148 safety signals, and taking 57 regulatory actions. The competence and output of its routine pharmacovigilance system is not in question.
+No. This audit explicitly acknowledges that the TGA conducted substantial pharmacovigilance throughout the rollout, publishing over 150 weekly safety reports, investigating 150 safety signals, and taking 57 regulatory actions. The competence and output of its routine pharmacovigilance system is not in question.
 
 The audit examines whether these activities constituted the enhanced monitoring framework that was (a) presented as the basis on which provisional approval proceeded, and (b) explicitly promised in the February 2021 COVID-19 Vaccine Safety Monitoring Plan. The core question is whether these activities can be shown—through documented protocols, coordination frameworks, governance structures, and audit trails—to have implemented the Plan’s enhanced monitoring commitments as distinct, systematic processes beyond routine operations, not whether monitoring occurred.
 
@@ -458,7 +458,7 @@ For provisional approval specifically, enhanced monitoring must be demonstrable 
 
 ### Q16: How do you know records are missing (not just withheld)?
 
-The Australian Information Commissioner directed searches in response to FOI requests and issued a formal decision, [2025] AICmr 54, confirming that TGA implementation records for the Plan could not be found or do not exist. This finding rested on OAIC-directed sample searches conducted by two senior TGA officers. This is not simply a matter of records being withheld—the Commissioner independently verified through departmental searches that the requested records could not be found or do not exist.
+Decision [2025] AICmr 54 found that the Department took all reasonable steps to locate the report requested under FOI 3643, and that the report cannot be found or does not exist. The finding rests on the Department's own search evidence, including sample searches by two senior TGA officers under OAIC direction (MR22/00538).
 
 ### Q17: What did the Information Commissioner find?
 
