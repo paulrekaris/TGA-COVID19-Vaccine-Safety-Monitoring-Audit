@@ -91,7 +91,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - Senate Community Affairs Legislation Committee Secretary acknowledges correspondence and notes the issues raised
 
 **24 March 2026**
-- **Australian Senate — Senator Malcolm Roberts cites the audit by name** in the adjournment debate, referencing key findings from the SSRN publication including absence of implementation records, OAIC confirmation, Senate testimony that indicated that monitoring was never systematically tracked, and the ISO 19011 conformity assessment results
+- **Australian Senate — Senator Malcolm Roberts cites the audit by name** in the adjournment debate, referencing key findings from the SSRN publication including absence of implementation records, OAIC confirmation, Senate testimony that indicated that monitoring was not systematically tracked, and the ISO 19011 conformity assessment results
 - The audit's findings are now part of the permanent official parliamentary record of Australia
 - [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0000) | [Watch the Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900) | [Senate 24 March 2026 primary sources](primary-sources/senate-2026-03-24/README.md)
 
