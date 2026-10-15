@@ -354,7 +354,7 @@ The OAIC "all reasonable steps" standard requires search methodology that is:
 3. **Sufficiently broad** - not arbitrarily limited to operational teams
 4. **Context-aware** - understanding how policies are discussed and monitored
 
-TGA's search methodology failed to meet standards 1 and 3:
+In the audit's assessment, TGA's search methodology did not meet standards 1 and 3 (the OAIC, in AICmr 54, accepted the searches as reasonable steps for the report requested under FOI 3643):
 - **Scope:** Excluded advisory body containers where governance occurs
 - **Breadth:** Limited to operational teams, excluded governance forums
 
