@@ -128,7 +128,7 @@ Following ISO 15489-1:2016 records management principles² and OSINT documentati
 Blockchain verification occurs after public release rather than before to ensure cryptographic integrity of the published version:
 
 - **Authenticity principle²**: Blockchain verifies the published version with stable DOI, not a pre-release draft—this ensures verification references the canonical academic record
-- **ISO 15489-1:2016 aligment²**: Blockchain verification provides proof of existence at a point in time for the publicly accessible version—the content remains immutable while verification proves when the published version was fixed
+- **ISO 15489-1:2016 alignment²**: Blockchain verification provides proof of existence at a point in time for the publicly accessible version—the content remains immutable while verification proves when the published version was fixed
 - **OSINT standards⁶,⁸,⁹**: Verification metadata documents *when* the published evidence was fixed, not *what* evidence contains—this separation ensures independent verification of investigative findings
 - **Audit trail transparency¹³**: Sequential workflow (content → release → verification) creates clear evidence sequence: findings documented, then publicly released with DOI, then cryptographically proven to exist at that time
 - **Flexibility**: Allows minor corrections before cryptographic timestamping while maintaining complete transparency through version control
