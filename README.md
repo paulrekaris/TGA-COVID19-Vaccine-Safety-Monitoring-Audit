@@ -491,7 +491,7 @@ TGA, "Get vaccine safety information you can trust" (26 Nov 2021)<sup>[2](#fn2)<
 
 <a name="fn2">2</a>: https://www.youtube.com/watch?v=PT4M9fX9sPI
 
-<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf), pp. 86-87
+<a name="fn3">3</a>: Detailed analysis: [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf), Appendix C, pp. 105-107 
 
 ---
 
@@ -705,7 +705,7 @@ Partial completion of activities without an implementation trail is rated "parti
 
 **"Not Documented" denotes the absence of locatable documentary evidence; it is not a finding that an activity did not occur.** The label deliberately remains within the documentary register rather than asserting "Not Implemented," which the available evidence cannot establish. Any "Not Documented" classification can be overturned by production of a single document demonstrating the relevant output.
 
-**Search strategy:** This audit employed systematic keyword searches with 14 strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and pharmacovigilance processes, documented in Appendix A.2.2 (pp. 77-78) of the Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 terms operating at Plan-title and broad audit level — including two pharmacovigilance terms (rows 7–8) — but none keyed to the Plan's individual numbered outputs (TGA OAIC Submission, 20 September 2024, pp. 28–32). [Full search methodology comparison](analysis/search-methodology-comparison.md)
+**Search strategy:** This audit employed systematic keyword searches with 14 strategic terms (9 primary, 5 secondary) targeting specific Plan outputs and pharmacovigilance processes, documented in Appendix B.2.2 (pp. 94-94) of the Main Audit Report. In comparison, TGA's OAIC-directed TRIM searches used 8 terms operating at Plan-title and broad audit level — including two pharmacovigilance terms (rows 7–8) — but none keyed to the Plan's individual numbered outputs (TGA OAIC Submission, 20 September 2024, pp. 28–32). [Full search methodology comparison](analysis/search-methodology-comparison.md)
 
 ## Evidence Sources
 
