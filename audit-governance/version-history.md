@@ -54,6 +54,10 @@
 - Corrected statements that the OAIC or AICmr 54 "confirmed" implementation records could not be found. AICmr 54 is now described as finding that the report requested under FOI 3643 cannot be found or does not exist.
 - Corrected Plan output numbers in the surveillance analysis (active surveillance is Output 2.4, not 2.1 or 2.2).
 - Clarified that the Department's 2,218+ page figure was an estimate from sample searches, and removed statements that classification by Plan objective had been fully performed for the OAIC.
+- Corrected the AusVaxSafety figure in the surveillance analysis from 3M+ responses to 6.8M+ survey responses (about 3 million is the adverse event count).
+- Removed an unsourced 85% coverage figure and corrected the FOI count from 26 to 25 in the FOI disclosure-log review. Removed an unsourced 68% dose-coverage clause from the TGA documents README.
+- Clarified that the audit's verification relies on TGA-generated sources that corroborate one another and are not independent of the auditee, and that the FOI log review was done by the auditor without a second reviewer.
+- Retitled QON 559 Finding 7 to "No fully documented core monitoring outputs" to reflect the revised ratings, and added a note that its finding numbers follow that document's own numbering.
 
 ### Supporting files
 
