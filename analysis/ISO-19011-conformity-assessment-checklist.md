@@ -461,7 +461,7 @@ Per ISO 19011:2018, 6.4.9, conclusions address the extent of conformity with the
 **Key conclusions.**
 
 1. **Gap between commitment and delivery.** The Plan set out 17 strategies, but its structure did not support tracking (assessed against PGPA and ANAO obligations), the TGA states monitoring was never systematically tracked, and only 3 of 19 outputs are fully documented.
-2. **Contradictory documentary evidence.** Inconsistent FOI positions on document existence and classification, validated as a concern by the OAIC process.
+2. **Contradictory documentary evidence.** Inconsistent FOI positions on document existence and classification, recorded in FOI decisions and in the OAIC review (MR22/00538).
 3. **System-integration gap.** The major surveillance systems operated in parallel, with no documented coordination and no visible pathway from the survey responses to the signals and actions.
 4. **Expert warnings not addressed.** Pre-rollout expert findings (2020) and the same gaps confirmed years later, with no documented corrective programme. The VSIG/child deaths example concretely illustrates the gap between available expert mechanisms and systematic implementation.
 5. **Public-communication gap.** The February 2021 "no different" message and the formal "enhanced" commitment cannot both be operationally true.
@@ -542,7 +542,7 @@ The fully-documented outputs are the public-facing communications deliverables (
 3. **Enhanced versus routine:** 17 of 19 outputs cannot be distinguished as enhanced rather than routine from the documentary record.
 4. **Communication versus process:** The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1); the process, integration and governance outputs range from 0 to 40 per cent.
 5. **Expert advisory mechanism:** FOI 4029-05 indicates the Vaccine Safety Investigation Group was operational during the relevant period. The documentary record shows child deaths were not referred to that group, illustrating the gap between available processes and systematic implementation. The audit records the documentary position and does not characterise the testimony.
-6. **International versus domestic:** International engagement is documented (ICMRA, ACV presentations) while the domestic public reports carry no Plan reference.
+6. **does not show child deaths being referred to that group versus domestic:** International engagement is documented (ICMRA, ACV presentations) while the domestic public reports carry no Plan reference.
 
 ### Conformity Rating by Assessment Area
 
