@@ -134,7 +134,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
 
 The refusal demonstrates contradictory institutional positions:
 
-1. **Capability demonstrated:**  TGA estimated page counts by Plan objective for the OAIC
+1. **Capability demonstrated:** TGA estimated page counts by Plan objective for the OAIC
 
 2. **Capability initially acknowledged:** TGA indicated Items 1(b) and 1(c) "may be manageable" in first consultation (24 April 2025)
 
