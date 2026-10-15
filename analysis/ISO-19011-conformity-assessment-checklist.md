@@ -60,7 +60,7 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 
 **The seven major non-conformities:**
 
-1. No systematic tracking mechanism. The TGA states monitoring was never systematically tracked against the Plan.
+1. No systematic tracking mechanism. TGA's description of monitoring as "day-to-day processes" indicates it was not systematically tracked against the Plan.
 2. Coordination protocols between surveillance systems not documented.
 3. Data-linkage capability gap identified by experts in 2020 not demonstrably addressed.
 4. Contradictory FOI positions on document existence across four years.
@@ -281,7 +281,7 @@ This section records the ISO 19011 programme-management steps and their status.
 
 **Source 2: OAIC determinations.** OAIC review decisions, including MR22/00538; administrative review where FOI responses were inadequate; an independent oversight assessment.
 
-**Source 3: TGA Senate evidence.** Evidence to Senate estimates, 9 October 2025; analysis of the published transcript; a public record given under parliamentary privilege. The TGA stated that monitoring comprised "day-to-day processes" never systematically tracked.
+**Source 3: TGA Senate evidence.** Evidence to Senate estimates, 9 October 2025; analysis of the published transcript; a public record given under parliamentary privilege. The TGA described monitoring as "day-to-day processes", indicating it was not systematically tracked.
 
 **Source 4: academic literature.** Peer-reviewed work on Australian pharmacovigilance systems, providing context for identified system-capability gaps.
 
@@ -460,7 +460,7 @@ Per ISO 19011:2018, 6.4.9, conclusions address the extent of conformity with the
 
 **Key conclusions.**
 
-1. **Gap between commitment and delivery.** The Plan set out 17 strategies, but its structure did not support tracking (assessed against PGPA and ANAO obligations), the TGA states monitoring was never systematically tracked, and only 3 of 19 outputs are fully documented.
+1. **Gap between commitment and delivery.** The Plan set out 17 strategies, but its structure did not support tracking (assessed against PGPA and ANAO obligations), TGA's description of monitoring as "day-to-day processes" indicates it was not systematically tracked, and only 3 of 19 outputs are fully documented.
 2. **Contradictory documentary evidence.** Inconsistent FOI positions on document existence and classification, recorded in FOI decisions and in the OAIC review (MR22/00538).
 3. **System-integration gap.** The major surveillance systems operated in parallel, with no documented coordination and no visible pathway from the survey responses to the signals and actions.
 4. **Expert warnings not addressed.** Pre-rollout expert findings (2020) and the same gaps confirmed years later, with no documented corrective programme. The VSIG/child deaths example concretely illustrates the gap between available expert mechanisms and systematic implementation.
@@ -538,7 +538,7 @@ The fully-documented outputs are the public-facing communications deliverables (
 ### Critical Gap Analysis
 
 1. **Enhanced signal detection (Objective 2):** 8 outputs, 0 fully documented. FOI 4029-03 shows the Strategy 2.3 method was presented internally (September 2021) while concurrent public reports carried no such output; FOI 5275 shows the TGA does not hold the cancer incidence data a third party requested.
-2. **Governance and performance:** 2 outputs, 0 documented. Senate evidence states monitoring was never systematically tracked; the OAIC searches found no governance documentation; the public reports carry no Plan-framework reference.
+2. **Governance and performance:** 2 outputs, 0 documented. Senate evidence describes monitoring as "day-to-day processes", indicating no systematic tracking; the OAIC searches found no governance documentation; the public reports carry no Plan-framework reference.
 3. **Enhanced versus routine:** 17 of 19 outputs cannot be distinguished as enhanced rather than routine from the documentary record.
 4. **Communication versus process:** The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1); the process, integration and governance outputs range from 0 to 40 per cent.
 5. **Expert advisory mechanism:** FOI 4029-05 indicates the Vaccine Safety Investigation Group was operational during the relevant period. The documentary record does not show child deaths being referred to that group, illustrating the gap between available processes and systematic implementation. The audit records the documentary position and does not characterise the testimony.
@@ -549,7 +549,7 @@ The fully-documented outputs are the public-facing communications deliverables (
 | Assessment area | Rating | Evidence basis |
 |----------------|--------|----------------|
 | Documentation and transparency | Non-conforming | Contradictory FOI responses; OAIC findings |
-| Systematic implementation | Non-conforming | TGA states never systematically tracked |
+| Systematic implementation | Non-conforming | "Day-to-day processes" indicate no systematic tracking |
 | System integration | Non-conforming | No coordination protocols documented |
 | Learning | Non-conforming | Expert warnings 2020; same gaps later; VSIG operational but child deaths not referred |
 | Data-linkage capability | Non-conforming | Gap identified 2020, consistent in 2025 |
@@ -850,7 +850,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0** — released 5 August 2026  
-**Last updated:** 15 October 2026
+**Last updated:** 16 October 2026
 
 [Back to top](#table-of-contents)
 
