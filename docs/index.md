@@ -3,7 +3,7 @@ title: "Did Australia's TGA Monitor COVID Vaccine Safety as Promised?"
 author: Paul Rekaris
 description: "Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented."
 canonical: https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-date_modified: 2026-10-14
+date_modified: 2026-10-15
 version: 1.9.6
 licence: CC BY 4.0
 orcid: https://orcid.org/0009-0000-1338-9578
