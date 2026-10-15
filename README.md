@@ -250,7 +250,7 @@ Procedural correctness and technical compliance in FOI administration and substa
 
 This finding is based on official determinations, not interpretation:
 
-**TGA's September 2024 submission to OAIC (MR22/00538)** documented sample searches using eight search terms, one of which returned more than 531 TRIM containers, locating no records TGA classified as Plan implementation documentation despite reviewing extensive routine pharmacovigilance material. In paragraph 15 of [the Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf), the Department states that "there is unlikely to be a set of discrete documents evidencing the TGA's preparedness (because no audit of preparedness was undertaken)," while acknowledging in the same passage that documents evidencing changes to procedures or the actual collection and investigation of adverse-event reports could relate to preparedness, in which case "there would likely be a large volume of relevant documents." A TGA search officer's contemporaneous record, in Attachment D, page 29, states: "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." These statements, from formal OAIC proceedings and operational search records, bear on the audit's central finding from within TGA's own documentary record.
+**TGA's September 2024 submission to OAIC (MR22/00538)** documented sample searches using eight search terms, one of which returned more than 531 TRIM containers, locating no records TGA classified as Plan implementation documentation although the Department estimated 2,218+ potentially relevant pages. In paragraph 15 of [the Department's formal submission](primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf), the Department states that "there is unlikely to be a set of discrete documents evidencing the TGA's preparedness (because no audit of preparedness was undertaken)," while acknowledging in the same passage that documents evidencing changes to procedures or the actual collection and investigation of adverse-event reports could relate to preparedness, in which case "there would likely be a large volume of relevant documents." A TGA search officer's contemporaneous record, in Attachment D, page 29, states: "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." These statements, from formal OAIC proceedings and operational search records, bear on the audit's central finding from within TGA's own documentary record.
 
 **Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54** reviewed this evidence and found the Department took "all reasonable steps" under s24A of the FOI Act, concluding "documents cannot be found or do not exist." Independent legal analysis by Sparke Helmore (11 May 2025) ([case note](reference-documents/sparke-helmore-auq-dhac-foi-case-note.pdf)) confirmed the administrative law finding.
 
@@ -544,7 +544,7 @@ A peer-reviewed study published in *Vaccine* (September 2021) provides independe
 - AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.  
 - Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.
 
-These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never systematically tracked against the COVID-19 Vaccine Safety Monitoring Plan. OAIC-directed searches found no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never systematically tracked against the COVID-19 Vaccine Safety Monitoring Plan. The audit located no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
 
 **The authors’ conclusion:**
 
@@ -1046,7 +1046,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 14 October 2026  
+**Last Updated:** 15 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
