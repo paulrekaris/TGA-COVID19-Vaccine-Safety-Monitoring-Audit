@@ -519,7 +519,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | | GOV.2 | Performance measurement | ✗ Not doc | No metrics; Plan not referenced in performance reports |
 | | **TOTAL** | **19 outputs** | **3 ✓ / 13 ◐ / 3 ✗** | **16% fully documented; 84% partial or not documented** |
 
-*A complete output-by-output evidence trail, including detailed source citations for each output, is available in the [Output Assessment Evidence Matrix (Excel)](../output-assessment-evidence-matrix.xlsx).*
+*A complete output-by-output evidence trail, including detailed source citations for each output, is available in the [Output Assessment Evidence Matrix (Excel)](output-assessment-evidence-matrix.xlsx).*
 
 ### Summary by Objective
 
