@@ -62,11 +62,10 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 
 | Metric | Result |
 |--------|--------|
-| Total COVID safety FOIs identified | 26 |
+| Total COVID safety FOIs identified | 25 |
 | Core documents already in repository | FOI 4029 (9 docs), FOI 5082 (1 doc), FOI 5275 (1 doc) |
-| Repository coverage of relevant evidence | 85% |
 | New high-value documents identified | 0 |
-| Plan framework references identified | 0 |
+| "Further Plan framework references identified (beyond FOI 4029 and FOI 5082) | 0 |
 
 **Note on coverage**: The remaining 15% comprises FOI documents reviewed but excluded as they contained raw AEFI data, individual case reviews, or technical assessments without Plan framework references.
 
@@ -171,7 +170,7 @@ No additional FOI documents were identified that would alter implementation stat
 ---
 
 **Systematic review conducted by**: Paul Rekaris  
-**Last updated**: 14 October 2026   
+**Last updated**: 15 October 2026   
 **Version**: 1.2  
 **Methodology**: OSINT systematic collection and verification
 
