@@ -763,7 +763,7 @@ Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of
 - Updated Senate testimony terminology to "parliamentary privilege"
 
 **Methodology**
-- Corrected audit conduct period to  2025 - January 2026
+- Corrected audit conduct period to October 2025 - January 2026
 - Clarified evidence collection period as 2022-2026
 - Enhanced repository description emphasising ISO 19011:2018 principles and falsifiable methodology
 
@@ -807,7 +807,7 @@ Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 527
 ### Changed
 
 **Statistics**
-- Updated vaccination coverage from 94% ( 2024) to 91.2% ( 2025)
+- Updated vaccination coverage from 94% (October 2024) to 91.2% (October 2025)
 - Updated to 68.4 million provisionally approved doses administered to 21.2 million Australians through July 2023 reporting period
 
 **Documentation**
