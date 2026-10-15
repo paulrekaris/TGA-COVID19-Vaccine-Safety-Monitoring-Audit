@@ -159,7 +159,7 @@ This audit examines whether enhanced monitoring commitments were implemented and
 
 **The audit asks:** Can TGA demonstrate that COVID-19 monitoring was "enhanced" beyond routine processes, as committed to in the February 2021 COVID-19 Vaccine Safety Monitoring Plan accompanying the provisional-approval framework?
 
-**The finding:** No verifiable documentation of Plan implementation has been produced over 4 years despite extensive FOI requests and OAIC review.
+**The finding:** No complete, verifiable documentation of Plan implementation has been produced over 4 years despite repeated FOI requests and OAIC review.
 
 > **Why this matters:** The existence of routine pharmacovigilance activities does not, by itself, constitute evidence that the enhanced monitoring framework described in the Plan was implemented. Routine pharmacovigilance refers to standing surveillance activities that apply to registered medicines. The COVID-19 Vaccine Safety Monitoring Plan described enhanced monitoring activities accompanying the provisional-approval framework, including defined outputs, integration mechanisms, and governance expectations beyond routine processes.
 
@@ -221,7 +221,7 @@ National Cabinet endorsed the *Australian COVID-19 Vaccination Policy* in Novemb
 > No documentation demonstrates that the Safety Monitoring Plan's enhanced monitoring commitments were verified before provisionally approved COVID-19 vaccines transitioned to full registration, leaving the evidentiary basis for those transitions impossible to independently verify.
 >
 > #### 7. Detailed conformity assessment: 0% full implementation for core monitoring
-> ISO 19011 conformity assessment reveals systematic implementation failure: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-assessment) showing evidence basis for all 19 audited Plan outputs.
+> ISO 19011 conformity assessment reveals systematic documentation gaps: Objective 2 (Signal Detection) achieved 0% full implementation across 8 outputs, Governance achieved 0% across 2 outputs [View detailed output-by-output assessment](analysis/ISO-19011-conformity-assessment-checklist.md#output-by-output-assessment) showing evidence basis for all 19 audited Plan outputs.
 >
 > #### 8. Safety Monitoring Plan did not meet auditability standards
 > The February 2021 Plan did not align with ISO 19011:2018 auditability principles or ANAO performance audit standards. It lacked numbered outputs and an implementation framework, conflating strategies with deliverables — making systematic tracking impossible from the outset. Analysis identified approximately 36 discrete outputs across five objectives; the audit maintained a conservative scope of 19 specified outputs for methodological rigour and defensibility. A plan published as a formal Cabinet-endorsed commitment to enhanced monitoring for 68.4 million provisionally approved doses should have been designed to be audited. That the Plan was never structured to support systematic tracking is itself a finding — the absence of an implementation trail cannot be attributed solely to implementation failure when the framework was not designed to be audited.
@@ -385,7 +385,7 @@ Without documented verification:
 - Documentation showing systematic integration of these activities into the enhanced monitoring framework defined in the Plan.  
 - Coordination protocols or data‑flow documentation linking AusVaxSafety outputs to TGA signal investigations.  
 - Evidence that enhanced processes were distinguished from routine “day‑to‑day” pharmacovigilance and tracked against Plan objectives.
-- Systematic analysis of 150+ safety reports found zero Plan framework references despite [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](primary-sources/foi/foi-4029) available in reference documents.
+- Analysis of sampled reports, and wider review of the 150+ series, found no Plan framework references despite [FOI 4029-03](primary-sources/foi/foi-4029/foi-4029-03.pdf) proving TGA presented Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021). Complete [FOI 4029 suite](primary-sources/foi/foi-4029) available in reference documents.
 
 **Why this matters**
 
@@ -475,7 +475,7 @@ The motion is significant to this audit because it independently identified the 
 
 Senate testimony revealed monitoring was characterised as “day-to-day processes”, with no single evaluation report systematically benchmarking implementation against the Safety Monitoring Plan's 17 strategies. This raises a material question as to how the enhanced features of the Plan were distinguished from routine pharmacovigilance and independently verified. The characterisation is significant because the Plan established an enhanced monitoring framework for COVID-19 vaccines during the provisional approval pathway.
 
-Four years of inquiries produced identical results: assertions of enhancement without documentation of what made the monitoring operationally distinct.
+Four years of inquiries produced a consistent pattern: assertions of enhancement without documentation of what made the monitoring operationally distinct.
 
 [Full Senate testimony analysis](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
@@ -591,7 +591,7 @@ Therefore, this audit asks: Were the Plan's 17 numbered strategies operationalis
 
 ### Why This Matters
 
-This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 91 per cent of the total rollout) were administered under provisional approval by late 2023, which 
+This question is critical. Approximately 68.4 million COVID-19 vaccine doses (around 91 per cent of the total rollout) were administered under provisional approval by July 2023, which 
 relied on enhanced safety monitoring beyond routine surveillance as the compensating safeguard, reflected in TGA's enhanced post-market monitoring framework and guidance. If the additional strategies presented as part of this enhanced monitoring framework and publicly promised in February 2021 cannot be distinguished in the documentary record, then:
 
 * The Plan's enhanced-monitoring commitments cannot be verified as delivered 
@@ -787,7 +787,7 @@ Post-Plan COVID implementation docs (observed-vs-expected, MaxSPRT, enhanced DPA
 
 **Critical evidentiary significance**
 
-FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain limited evidence of Plan integration (an August 2021 presentation quotes Strategy 2.3, p.42) and none of compliance. The absence of Plan implementation documentation in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—is consistent with the audit's finding that implementation cannot be verified from the documents released. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
+FOI 5082 demonstrates TGA's established capacity and practice of detailed pharmacovigilance documentation when systems exist, including documented methodological capacity (e.g., MaxSPRT staffing/automation). Documents support "routine PV existed" and show COVID-specific methodological enhancements were implemented, but contain limited evidence of Plan integration (an August 2021 presentation quotes Strategy 2.3, p.42) and none of compliance. The limited Plan reference in FOI 5082—combined with null results for Plan-specific requests (FOI 25-0166, MR22/00538)—is consistent with the audit's finding that implementation cannot be verified from the documents released. Shows baseline "day-to-day processes" existed before Cabinet-endorsed enhanced framework was promised, but fails to demonstrate promised enhancements were ever implemented as documented Plan compliance.
 
 ### Evidence Storage and Research Standards
 
