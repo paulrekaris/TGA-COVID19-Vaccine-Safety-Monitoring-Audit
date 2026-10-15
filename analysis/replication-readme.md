@@ -40,7 +40,7 @@ Full replication code for all three analytical operations is provided below.
 
 The evidence matrix contains six sheets:
 
-- **README** — overview of the workbook
+- **README** — supporting reference information
 
 - **Summary** — pre-computed headline statistics
 - **Methodology** — audit methodology and evidence quality assessment
