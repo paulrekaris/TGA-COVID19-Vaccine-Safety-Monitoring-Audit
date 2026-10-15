@@ -633,7 +633,7 @@ distinguish audited outputs from Plan's original specifications.
 - Updated table of contents
 
 **Archival Registration**
-- National Library of Australia National edeposit (NED) registration: Deposit ID NED447016. NLA reference ID NED447016P1081502 (3 February 2026). Fulfills Commonwealth digital legal deposit requirements, discoverable via Trove as part of Australia's official national collection.
+- National Library of Australia National edeposit (NED) registration: Deposit ID NED447016. NLA reference ID NED447016P1081502 (3 February 2026). Fulfils Commonwealth digital legal deposit requirements, discoverable via Trove as part of Australia's official national collection.
 - Internet Archive Wayback Machine preservation snapshots for key repository pages
 
 **Peer Review Statement**
