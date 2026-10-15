@@ -28,7 +28,7 @@
 > 
 > - **Observable surveillance degradation across five distinct periods (Mar 2021–Nov 2023):** Weekly detailed reports with detailed signal assessments (Period 1: Mar–Dec 2021) transitioned to biweekly with "expected rates" language introduced (Period 2: Jan–Jun 2022), then fortnightly standardised reassurance (Period 3: Jul–Dec 2022), minimal detail "no new concerns" messaging (Period 4: Jan–Jun 2023), and finally wind-down to cessation without evaluation (Period 5: Jul–Nov 2023)—demonstrating systematic degradation from enhanced to routine surveillance without documented assessment against the Plan’s enhanced monitoring requirements
 > 
-> - **No documented reconciliation of two major surveillance systems:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite Plan Output 2.1 commitment to unified framework
+> - **No documented reconciliation of two major surveillance systems:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite the Plan Output 2.4 commitment to collaborate with AusVaxSafety
 > 
 > - **ICH E2E documentation gap identified:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions—no baseline data sources, calculation methodologies, confidence intervals, p-values, or power calculations published despite ICH E2E guidance on systematic signal evaluation and documentation
 > 
@@ -146,7 +146,7 @@ This sampling provides sufficient evidence of systematic patterns without introd
 
 | **Report Date** | **Phase** | **Frequency** | **DAEN Reports** | **Serious %** | **Key Signals** | **AusVaxSafety** | **Plan References** | **Link** |
 |-----------------|-----------|---------------|------------------|---------------|-----------------|------------------|---------------------|----------|
-| **3 Mar 2021** | Phase 1: Enhanced Initiation | Weekly | 3,908 reports documented following 1.4M doses administered nationally. | 11.2% of reports classified as serious adverse events. | Anaphylaxis emerged as primary signal requiring intensive investigation during initial rollout. | Medical visits tracked through active surveillance with systems being established. | Zero Plan references, zero Output 2.2 tracking, zero strategy linkage documented. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-3-march-2021) |
+| **3 Mar 2021** | Phase 1: Enhanced Initiation | Weekly | 3,908 reports documented following 1.4M doses administered nationally. | 11.2% of reports classified as serious adverse events. | Anaphylaxis emerged as primary signal requiring intensive investigation during initial rollout. | Medical visits tracked through active surveillance with systems being established. | Zero Plan references, Zero Plan references, zero Plan-output tracking, zero strategy linkage documented. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-3-march-2021) |
 | **23 Dec 2021** | Phase 1: Peak Enhanced | Weekly | 87,000+ cumulative reports following 30M+ doses during peak national rollout. | 11.6% serious during peak enhanced monitoring representing maximum surveillance intensity. | Seven signals investigated: TTS, myocarditis, pericarditis, GBS, ITP, capillary leak, menstrual disorders. | 500,000+ survey responses collected providing population-level data independent of spontaneous reports. | Zero Plan references despite peak enhanced activities, zero output tracking, zero strategy documentation. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-weekly-safety-report-23-12-2021) |
 | **28 Jul 2022** | Phase 2: Transition | Biweekly | Reporting rates stabilised post-peak rollout with ongoing passive surveillance continuing. | 10.8% serious as profile became established and surveillance transitioned to routine. | TTS and myocarditis showed stable patterns. "Expected vs observed" language introduced without methodology. | Active surveillance continued but integration with DAEN not documented in reports. | Zero Plan references. Frequency shift marked transition from enhanced to routine without documented assessment. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-28-07-2022) |
 | **1 Dec 2022** | Phase 2: Established Routine | Fortnightly | Declining rates as uptake slowed and booster programmes stabilised following peak period. | 9.5% serious as post-market safety profile became well-established during maintenance phase. | GBS stable. "Rates similar to expected" emphasised without statistical methodology or confidence intervals. | Survey summaries in aggregate only without documented DAEN reconciliation methodology. | Zero Plan references. Fortnightly template standardised with legacy warnings but minimal investigation detail. | [Report](https://www.tga.gov.au/news/covid-19-vaccine-safety-reports/covid-19-vaccine-safety-report-01-12-2022) |
@@ -169,7 +169,7 @@ Malikova (2020) establishes that signal management requires documented integrati
 
 **Evidentiary Basis:** All six reports reference both systems without documenting how discrepancies resolved or outputs combined for signal detection.
 
-**Implication:** Cannot verify Plan Output 2.1 (real-time active surveillance) functioned as implemented strategy versus aspirational commitment.
+**Implication:** Cannot verify Plan Output 2.4 (active surveillance via AusVaxSafety) functioned as implemented strategy versus aspirational commitment.
 
 ---
 
@@ -249,7 +249,7 @@ Senate QON 559 (SQ25-001584) Strategy 2 answer confirms this gap — TGA describ
 
 Systematic review reveals across 150+ reports spanning 33 months:
 - Zero Plan references as organising framework
-- Zero Output 2.2 tracking (despite reports being Output 2.2 deliverables)
+- Zero Plan-output tracking in the public reports (the reports are evidence for Outputs 1.1 and 4.1)
 - Zero Strategy 2.3 outputs in public reports **despite ACV presentation** (FOI 4029-03, 29 Sep 2021): weekly PRR≥1/cases≥2 + MaxSPRT adoption
 - Zero assessment of Plan delivery status at cessation
 
@@ -398,8 +398,8 @@ TGA's search methodology failed to meet standards 1 and 3:
 
 | **System** | **Volume** | **Type** | **Plan Link** | **Public Trail** | **Claimant Access** |
 |------------|------------|----------|---------------|------------------|---------------------|
-| **DAEN** | 140,000+ reports | Passive spontaneous | No Output 2.2 reconciliation documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 4,440 rejected/withdrawn claimants |
-| **AusVaxSafety** | 6.8M+ AusVaxSafety survey responses gathered, 62K medical visits | Active proactive | No Output 2.1 linkage documented | Aggregate summaries only, no methodology | No individual case access |
+| **DAEN** | 140,000+ reports | Passive spontaneous | No reconciliation with Output 2.4 documented | Database searchable but no signal investigation trails | Aggregate stats only, no causation data for 4,440 rejected/withdrawn claimants |
+| **AusVaxSafety** | 6.8M+ AusVaxSafety survey responses gathered, 62K medical visits | Active proactive | No Output 2.4 linkage documented| Aggregate summaries only, no methodology | No individual case access |
 | **Safety Reports** | 150+ published (33 months) | Synthesis communication | Zero Plan references | No PRR/MaxSPRT outputs, no audit trails | Reassurance only, no signal validation |
 
 ---
