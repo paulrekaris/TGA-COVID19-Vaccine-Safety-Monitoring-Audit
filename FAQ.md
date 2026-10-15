@@ -303,7 +303,7 @@ The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly c
 
 The Commonwealth–State implementation agreements—such as those with Victoria (signed 19 February 2021) and Western Australia (signed 9 March 2021), executed concurrently with the TGA’s Safety Monitoring Plan—established formal governance structures for the vaccine rollout requiring documented implementation processes, structured data reporting, and formal Statements of Assurance under the National Partnership on COVID‑19 Response. These agreements explicitly framed enhanced safety monitoring as a formal, documented priority. For instance, the WA agreement stated that both governments “consider it a priority that appropriate safety signalling and adverse event monitoring… is in place,” and noted the Commonwealth’s commitment to “further strengthen the capabilities of the current national, active safety surveillance system known as AusVaxSafety.”
 
-These intergovernmental arrangements therefore anticipated systematic implementation, defined data flows, and clear escalation pathways for safety‑critical issues. This formal, documented framework directly contradicts the Senate testimony of senior TGA officials (9 October 2025), who claimed safety monitoring was managed through undocumented “day‑to‑day processes” rather than systematic tracking against Plan objectives. The TGA’s admission reveals a fundamental disconnect not only from its own published Plan, but from the documented, multi‑jurisdictional governance standards that governed the entire national vaccination program—reinforcing the audit’s central finding that the promised enhanced monitoring required formal, traceable frameworks, not ad‑hoc administration.
+These intergovernmental arrangements therefore anticipated systematic implementation, defined data flows, and clear escalation pathways for safety‑critical issues. This formal, documented framework directly contradicts the Senate testimony of senior TGA officials (9 October 2025), who said safety monitoring was managed through "day‑to‑day processes" rather than systematic tracking against Plan objectives. The TGA’s admission reveals a fundamental disconnect not only from its own published Plan, but from the documented, multi‑jurisdictional governance standards that governed the entire national vaccination program—reinforcing the audit’s central finding that the promised enhanced monitoring required formal, traceable frameworks, not ad‑hoc administration.
 
 ### Q11: How many doses were affected?
 
@@ -476,13 +476,13 @@ In testimony to the Senate Community Affairs Legislation Committee on 9 October 
 
 - Implementation was conducted as “day-to-day processes”
 - Monitoring was never systematically tracked against Plan objectives
-- A “vast volume” of documents exists but cannot demonstrate the Plan was delivered as designed
+- A "vast volume" of documents would be involved in producing records by Plan objective
 - They are “very happy to receive FOI requests” whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
 
 ### Q19: Has this been independently verified by others?
 
-Yes. Sparke Helmore Lawyers, a major Australian law firm, published independent legal analysis of the OAIC case (AUQ and Department of Health and Aged Care). The case has been cited in legal, parliamentary, and media contexts. The matter is currently before multiple oversight bodies: the Australian Information Commissioner (review MR25/01153), Commonwealth Ombudsman (complaint submitted in April 2025, Ref: 2025‑806374), Australian National Audit Office (audit requested), and Senate Community Affairs Legislation Committee (Senate Estimates).
+Partly. Sparke Helmore Lawyers published independent legal analysis of the OAIC decision (AUQ and Department of Health and Aged Care), not of this audit. The case has been cited in legal, parliamentary, and media contexts. The matter is currently before multiple oversight bodies: the Australian Information Commissioner (review MR25/01153), Commonwealth Ombudsman (complaint submitted in April 2025, Ref: 2025‑806374), Australian National Audit Office (audit requested), and Senate Community Affairs Legislation Committee (Senate Estimates).
 
 -----
 
@@ -571,11 +571,11 @@ International approvals cannot substitute for demonstrable delivery of the Plan'
 Poor record-keeping would be a serious regulatory failure in itself, but the evidence suggests something more systemic:
 
 - **Records management is a legal requirement** under the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013
-- **TGA demonstrated capability** to organise hundreds of documents by category for the Information Commissioner
+- **TGA demonstrated capability** estimated relevant pages by Plan objective for the Information Commissioner
 - **Same classification system was deemed “too subjective”** when a citizen requested documents using it
 - **Officials confirmed** monitoring was “never systematically tracked” against Plan objectives
 
-This pattern indicates not poor record-keeping, but an absence of the systematic implementation framework itself. If activities were never tracked against Plan objectives, then records of that tracking cannot exist—because the tracking never occurred.
+This pattern indicates not poor record-keeping, but an absence of the systematic implementation framework itself. If activities were never tracked against Plan objectives, then records of that tracking cannot exist—because no such tracking is evidenced.
 
 -----
 
@@ -691,7 +691,7 @@ Several important limitations:
 4. **Cannot assess undocumented activity**: My findings address what can be demonstrated through documentation, not what may have occurred without records
 5. **Alternative explanations for absent records**: Three possible explanations exist: records never existed because enhanced monitoring was not systematically implemented; records existed but were not retained in accordance with Commonwealth obligations; or records exist but have not been located or disclosed. All three represent significant accountability failures, and the audit’s findings apply regardless of which explanation proves correct.
 
-**Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, confirmed by the [Australian Information Commissioner](primary-sources/oaic/MR22-00538/aicmr-54-26-march-2025.pdf), is the central finding.
+**Crucially:** TGA can refute these findings at any time by producing implementation records for the COVID-19 Vaccine Safety Monitoring Plan. The absence of such records, which the [Australian Information Commissioner](primary-sources/oaic/MR22-00538/aicmr-54-26-march-2025.pdf) accepted for the report requested under FOI 3643, is the central finding. 
 
 ## Purpose and Accountability
 
