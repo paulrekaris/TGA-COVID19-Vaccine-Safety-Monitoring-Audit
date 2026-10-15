@@ -60,7 +60,7 @@ Best efforts are made to document substantive changes. The Version History log i
 - **Persistent identifiers**: Zenodo DOIs ensure permanent citability for regulatory proceedings, academic citation, and parliamentary reference.
 - **Version transparency**: Full evolution of findings visible—showing how TGA FOI responses, OAIC reviews, and Senate testimony shaped analysis over four years.
 
-See also: [Open Access Framework](README.md#open-access-framework)
+See also: [Open Access Framework] (../README.md#open-access-framework)
 
 **Open Source Intelligence (OSINT) Methodology**
 - **Systematic collection**: Structured evidence gathering from FOI releases, OAIC submissions, Senate Hansard, TGA publications, and official databases following IC tradecraft standards [ODNI, 2024](https://www.dni.gov/files/ODNI/documents/IC_OSINT_Strategy.pdf).
@@ -250,6 +250,6 @@ Version history combined with OSINT documentation enables accountability infrast
 
 22. Munafò, M. R., et al. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1(0021). <https://doi.org/10.1038/s41562-016-0021>
 
-**Last updated**: 14 October 2026
+**Last updated**: 15 October 2026
 
 [↑ Back to top](#table-of-contents)
