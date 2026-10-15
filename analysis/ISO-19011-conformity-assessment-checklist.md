@@ -506,7 +506,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | **2: Enhanced signal detection** | 2.1 | Safety-profile understanding | ◐ Partial | AESI list used; expected-rates methodology not documented |
 | | 2.2 | Enhanced individual-AEFI investigation | ◐ Partial | FOI 5082: general investigation work instructions and a working draft COVID-19 framework; no COVID-specific methodology |
 | | 2.3 | Enhanced cumulative data reviews | ◐ Partial | FOI 5082: 2021 MaxSPRT plan, weekly cumulative review, August 2021 DPAR and chi-squared results; FOI 4029-03 ACV presentation; no MaxSPRT or routine review outputs; no CIOMS-style signal-to-action trail |
-| | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 66.8M surveys; documented AusVaxSafety signal detection and notification/discussion of some signals with TGA; no documented TGA–AusVaxSafety coordination protocols or systematic pathway demonstrating how AusVaxSafety surveillance findings informed TGA signal detection and investigation; QON 559 omits AusVaxSafety from the collaborations answer |
+| | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys; documented AusVaxSafety signal detection and notification/discussion of some signals with TGA; no documented TGA–AusVaxSafety coordination protocols or systematic pathway demonstrating how AusVaxSafety surveillance findings informed TGA signal detection and investigation; QON 559 omits AusVaxSafety from the collaborations answer |
 | | 2.5 | Clinical studies and reports | ✗ Not doc | OAIC searches: no enhanced sponsor-report process |
 | | 2.6 | Environmental scanning | ◐ Partial | FOI 5082 working draft lists scanning sources; no record of scanning results |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation; no systematic sharing protocol |
@@ -533,7 +533,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | Governance | 2 | 0 | 0 | 2 | 0% |
 | **Total** | **19** | **3** | **13** | **3** | **16%** |
 
-The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1). The undocumented outputs are the ones that would distinguish enhanced monitoring from routine: the process, integration, and governance outputs. *(Objective 3 shows 0% on a single partial output; the low percentage reflects the single-output denominator, not a separate failure beyond what Finding 1 records.)*
+The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1). The undocumented outputs are the ones that would distinguish enhanced monitoring from routine: clinical-study processes (2.5) and both governance outputs. *(Objective 3 shows 0% on a single partial output; the low percentage reflects the single-output denominator, not a separate failure beyond what Finding 1 records.)*
 
 ### Critical Gap Analysis
 
@@ -849,7 +849,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0** — released 5 August 2026  
-**Last updated:** 14 October 2026
+**Last updated:** 15 October 2026
 
 [Back to top](#table-of-contents)
 
