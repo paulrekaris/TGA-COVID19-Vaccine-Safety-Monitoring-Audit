@@ -33,7 +33,7 @@
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
 
-[Commits v1.9.5...v1.9.6](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.5...v1.9.6)
+[Commits v1.9.5...v1.9.6](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.5...1.9.6)
 
 **Ratings for outputs 2.2, 2.3 and 2.6 are revised from Not Documented to Partially Implemented following review of FOI 5082. The overall finding is unchanged: 3 of 19 outputs (16%) are fully documented and 16 of 19 (84%) are not; NON-CONFORMING.**
 
