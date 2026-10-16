@@ -507,7 +507,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | | 2.2 | Enhanced individual-AEFI investigation | ◐ Partial | FOI 5082: general investigation work instructions and a working draft COVID-19 framework; no COVID-specific methodology |
 | | 2.3 | Enhanced cumulative data reviews | ◐ Partial | FOI 5082: 2021 MaxSPRT plan, weekly cumulative review, August 2021 DPAR and chi-squared results; FOI 4029-03 ACV presentation; no MaxSPRT or routine review outputs; no CIOMS-style signal-to-action trail |
 | | 2.4 | Active surveillance (AusVaxSafety) | ◐ Partial | 6.8M surveys; documented AusVaxSafety signal detection and notification/discussion of some signals with TGA; no documented TGA–AusVaxSafety coordination protocols or systematic pathway demonstrating how AusVaxSafety surveillance findings informed TGA signal detection and investigation; QON 559 omits AusVaxSafety from the collaborations answer |
-| | 2.5 | Clinical studies and reports | ✗ Not doc | OAIC searches: no enhanced sponsor-report process |
+| | 2.5 | Clinical studies and reports | ✗ Not doc | FOI 5082 lists clinical study reports and PSURs as "tbc"; no COVID-specific process located in FOI releases or TGA sample searches |
 | | 2.6 | Environmental scanning | ◐ Partial | FOI 5082 working draft lists scanning sources; no record of scanning results |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation; no systematic sharing protocol |
 | | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; VSIG operational (FOI 4029-05); record does not show child deaths referred, against Work Instruction threshold (FOI 4029-06) |
@@ -850,7 +850,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0** — released 5 August 2026  
-**Last updated:** 16 October 2026
+**Last updated:** 17 October 2026
 
 [Back to top](#table-of-contents)
 
