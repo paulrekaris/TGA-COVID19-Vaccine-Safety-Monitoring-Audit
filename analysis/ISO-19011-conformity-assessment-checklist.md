@@ -542,7 +542,7 @@ The fully-documented outputs are the public-facing communications deliverables (
 3. **Enhanced versus routine:** 17 of 19 outputs cannot be distinguished as enhanced rather than routine from the documentary record.
 4. **Communication versus process:** The fully-documented outputs are the public-facing communications deliverables (1.1, 1.2, 4.1); the process, integration and governance outputs range from 0 to 40 per cent.
 5. **Expert advisory mechanism:** FOI 4029-05 indicates the Vaccine Safety Investigation Group was operational during the relevant period. The documentary record does not show child deaths being referred to that group, illustrating the gap between available processes and systematic implementation. The audit records the documentary position and does not characterise the testimony.
-6. **does not show child deaths being referred to that group versus domestic:** International engagement is documented (ICMRA, ACV presentations) while the domestic public reports carry no Plan reference.
+6. **International versus domestic:** International engagement is documented (ICMRA, ACV presentations) while the domestic public reports carry no Plan reference.
 
 ### Conformity Rating by Assessment Area
 
