@@ -344,7 +344,7 @@ Each finding states the criterion, the evidence, the finding and grade, and the 
 
 **Finding.** Major non-conformity. No systematic mechanism existed to track implementation of the Plan.
 
-TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) states: “there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken).” This is the Department’s own acknowledgement in formal proceedings that no internal mechanism existed to assess whether the Plan’s outputs were achieved — directly corroborating this finding from within TGA’s own documentary record.
+TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) states: "there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken)." This is the Department’s own acknowledgement in formal proceedings that no internal mechanism existed to assess whether the Plan’s outputs were achieved — directly corroborating this finding from within TGA’s own documentary record.
 
 **Impact.** Conformity with the formal monitoring commitment cannot be demonstrated; there is no accountability framework against which delivery could be assessed.
 
@@ -372,7 +372,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Criterion.** FOI Act 1982 s 24A (reasonable-steps and document-existence) and the consistency expected of formal government records. ISO 19011 has no "transparency principle"; the criterion is the statutory and records standard, not the audit guideline.
 
-**Evidence.** Feb 2022 (FOI 3643): the requested implementation report "does not exist," yet TGA states it holds "ample documentation demonstrating compliance" with the Plan's objectives — identifying no Plan-specific implementation record. 2024 (MR22/00538): OAIC-directed sample searches (one term returning 531+ containers) identified no documents in scope. June 2025 (FOI 25-0166): TGA declines on practical-refusal grounds, stating that classifying documents by Plan objective would require "subjective interpretation" because they "have not been previously identified or related to that objective."
+**Evidence.** Feb 2022 (FOI 3643): the requested implementation report "does not exist," yet TGA states it holds "ample documentation demonstrating compliance" with the Plan's objectives, identifying no Plan-specific implementation record. 2024 (MR22/00538): OAIC-directed sample searches (one term returning 531+ containers) identified no documents in scope. June 2025 (FOI 25-0166): TGA declines on practical-refusal grounds, stating that classifying documents by Plan objective would require "subjective interpretation" because they "have not been previously identified or related to that objective."
 
 **Finding.** Major non-conformity. Materially inconsistent positions on the existence and retrievability of implementation documentation across four years.
 
@@ -784,17 +784,17 @@ Method: two senior TGA officers (a senior medical officer and an assistant direc
 
 Results: no implementation reports; no evaluation documents; no systematic Plan-tracking documentation. The only documents located were emails to the applicant stating that no implementation report exists.
 
-Page 29 of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: “I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary.” This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
+Page 29 of the TGA’s OAIC submission (20 September 2024, MR22/00538, Attachment D: contemporaneous TRIM search records) contains the search records compiled by TGA officers during the OAIC-directed TRIM searches. One search officer recorded in real time: "I have been unable to find any relevant documents in this search. If you have any other suggestions for search terms, I will conduct further searches as necessary." This is not legal argument or institutional response — it is an unguarded operational statement from someone actually conducting the search, expressing genuine uncertainty about where to look. Contemporaneous operational records of this kind are among the most valuable documents in a forensic evidentiary record because they capture the searcher’s candid position at the moment of the search, before any institutional position is formed.
 
-Notably, the search officer did not limit the search to the original terms. Rows 7 and 8 of the search table in Attachment D show the officer independently added “Implementation COVID-19 vaccine pharmacovigilance plan” and “Audit report COVID-19 vaccine pharmacovigilance plan” as additional search terms, expanding the scope beyond what was requested. Row 7 returned one draft policy input, which TGA classed as not in scope, and row 8 returned nothing. The search was not narrow. It was expanded and still identified no implementation records.
+Notably, the search officer did not limit the search to the original terms. Rows 7 and 8 of the search table in Attachment D show the officer independently added "Implementation COVID-19 vaccine pharmacovigilance plan" and "Audit report COVID-19 vaccine pharmacovigilance plan" as additional search terms, expanding the scope beyond what was requested. Row 7 returned one draft policy input, which TGA classed as not in scope, and row 8 returned nothing. The search was not narrow. It was expanded and still identified no implementation records.
 
-The Principal Medical Advisor’s covering email estimated the search exercise would take no longer than 30mintues” [sic] (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 32)
+The Principal Medical Advisor’s covering email estimated the search exercise would take no longer than "30mintues" [sic] (TGA OAIC Submission, 20 September 2024, MR22/00538, p. 32)
 
 Gaps identified:
 
 1. **AusVaxSafety omission.** The TGA acknowledged the Strategy 2.4 commitment to collaborate with AusVaxSafety but did not use "AusVaxSafety" as a search term. No documented bridge was found between the survey responses and the signals and actions.
 2. **Objective 5 "unable to meaningfully interpret".** The TGA stated the collaboration commitment could not be meaningfully interpreted into a searchable item, indicating an absence of searchable records for stakeholder coordination.
-3. **Search covered document types.** The TGA searched by document type (SOPs, protocols, guidelines, workflows) and located records of those types, yet found no Plan-implementation documentation — which indicates the searches reached the relevant record types. They were sample searches, and they did not cover Advisory Committee containers (Source 5, item 6).
+3. **Search covered document types.** The TGA searched by document type (SOPs, protocols, guidelines, workflows) and located records of those types, yet found no Plan-implementation documentation, which indicates the searches reached the relevant record types. They were sample searches, and they did not cover Advisory Committee containers (Source 5, item 6).
 
 Summary: the Department estimated 2,218+ pages of operational documents (AEFI processing, signal-detection procedures); no Plan-implementation tracking documents were found.
 
@@ -849,7 +849,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Version 2.0** — released 5 August 2026  
+**Version 2.0:** released 5 August 2026  
 **Last updated:** 17 October 2026
 
 [Back to top](#table-of-contents)
