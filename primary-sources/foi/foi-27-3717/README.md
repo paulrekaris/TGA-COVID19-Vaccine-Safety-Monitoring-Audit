@@ -4,7 +4,7 @@ Applicant lodges a request (16 September 2026) for documents from 1 February 202
 
 TGA advised that processing would be a substantial and unreasonable diversion of resources, estimating 228 documents, approximately 4,986 pages and more than 300 hours. The applicant responded under s 24AB on 12 October 2026 proposing a narrower scope (six signal groups from the AusVaxSafety Annual Report 2022). The consultation period closes on 26 October 2026.
 
-**Evidentiary significance:** The request is unresolved, and no document has been released or examined. It relates to output 2.4 (active surveillance, AusVaxSafety), currently rated Partially documented, and to Finding 5 (AusVaxSafety signal pathways, a major non-conformity). The audit's current ratings do not depend on it. This entry records the request and consultation only.
+**Evidentiary significance:** The request is unresolved, and no document has been released or examined. It relates to output 2.4 (active surveillance, AusVaxSafety), currently rated Partially documented, and to Finding 5 (AusVaxSafety signal pathways, a major non-conformity). The audit's current ratings do not depend on it. This entry records the request and consultation only. The folder and analysis will be updated after the conclusion of the FOI.
 
 **Last revised:** 18 October 2026
 
