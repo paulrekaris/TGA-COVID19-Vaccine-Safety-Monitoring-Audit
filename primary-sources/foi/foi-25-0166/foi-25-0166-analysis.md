@@ -101,7 +101,9 @@ Section 24(1)(b) of the FOI Act 1982 permits refusal where a practical refusal r
 
 ### Section 24AA Requirements
 
-Section 24AA(2) of the FOI Act requires an agency to have regard to the resources needed to identify, locate, decide on and copy the documents. Section 24AA(3) bars regard to the applicant's reasons for requesting access.
+Section 24AA(2) of the *Freedom of Information Act 1982* (Cth) requires an agency, when deciding whether a practical refusal reason exists, to have regard to the resources that would have to be used for identifying, locating or collating documents within the agency's filing system; deciding whether to grant, refuse or defer access, or to grant access to an edited copy, including examining documents and consulting with any person or body; making copies or edited copies; and notifying any interim or final decision on the request. This list is non-exhaustive.
+
+Section 24AA(2) is expressly subject to subsection (3), which prohibits the agency from having regard to the applicant's reasons for requesting access, the agency's belief as to what those reasons are, or any maximum amount specified in the regulations payable as a charge for processing a request of that kind.
 
 However, TGA's prior demonstrated capability to estimate 2,218+ pages by Plan objectives for OAIC review (September 2024) raises questions about whether classifying 30 documents across 12 predefined categories constitutes an "unreasonable" diversion of resources, particularly when:
 - TGA had estimated pages by Plan objective nine months earlier
@@ -272,7 +274,7 @@ The contradiction is particularly significant given TGA's initial indication (24
 
 This contradiction, combined with the search methodology inadequacy documented in OAIC MR22/00538, raises questions about whether TGA maintains implementation records in a manner that enables verification of Plan delivery, or whether institutional resistance to transparency prevents access to records that may exist.
 
-The OAIC FOI Guidelines (paragraph 3.68) note that a practical refusal reason may be unreasonable if the work involved has already been undertaken by the agency for other purposes. TGA's September 2024 estimate of 2,218+ pages by Plan objectives for OAIC review establishes prima facie evidence that classifying 30 documents by comparable criteria nine months later does not constitute an unreasonable diversion of resources, particularly when the applicant responded to TGA guidance with a scope reduction of at least 87%.
+TGA's September 2024 estimate of 2,218+ pages by Plan objectives for OAIC review is evidence that classifying 30 documents by comparable criteria nine months later may not constitute a substantial and unreasonable diversion of resources, particularly when the applicant responded to TGA guidance with a scope reduction of at least 87%.
 
 The question of whether practical refusal provisions under s24(1)(b) can legitimately be applied to classification tasks TGA demonstrably performed for oversight bodies nine months earlier, and initially characterised as "may be manageable", remains for the OAIC or reviewing tribunals to determine. The documented capability to estimate 2,218+ relevant pages by Plan objectives for OAIC review provides a benchmark against which the "unreasonable diversion" claim for 30 documents can be assessed.
 
