@@ -43,7 +43,7 @@ FOI request 25-0166 sought implementation documentation for the TGA COVID-19 Vac
 
 ### Requested Document Categories (20 May 2025 - Final Refinement)
 
-Following two rounds of consultation, request refined to 12 document categories which the applicant derived from the TGA's September 2024 search records (Attachment D):
+Following two rounds of consultation, request refined to 12 document categories, which the applicant derived from the TGA's September 2024 search records (Attachment D):
 
 1. Standard Operating Procedures (SOPs) or equivalents
 2. Case processing instructions/guidelines
@@ -73,7 +73,7 @@ Fallback provision: Other TGA-classified documents if fewer than six available p
 | 1 April 2025 | FOI request lodged | Original scope: Items 1-2 covering Feb 2021-April 2025 | Initial processing commenced |
 | 24 April 2025 | **First practical refusal consultation** under s15(2)(b)<br><br>Identified 399+ documents (3,926 pages), 180 hours processing<br><br>Suggested: limit document types, Items 1(b) and 1(c) "may be manageable," narrow Item 1(a), reduce timeframe | 5 May 2025: Refined to Items 1-3 (~45 documents total)<br><br>Narrowed timeframe<br><br>Focused on specific document types | Partial acceptance:<br>Item 1 accepted for processing<br><br>Items 2-3 required further refinement |
 | 16 May 2025 | **Second consultation** - Item 2 deemed subjective<br><br>Linking documents to Plan objectives characterised as requiring "most significant" judgment | 9 May 2025: Revised Item 2 to 5 most significant documents per objective (25 documents), withdrew Item 3<br><br>20 May 2025: **Further refined to 6 most recent documents by category per objective (30 documents)**<br><br>**92% reduction from original 399 documents** | Item 2 refused - classification deemed too subjective despite:<br>• 92% scope reduction<br>• TGA's prior guidance Items 1(b)(c) "may be manageable"<br>• 12 explicitly defined categories |
-| 3 June 2025 | Final decision - practical refusal issued for Item 2 under s24(1)(b)(item 2's subjectivity, together with item 1, stated as the reason)<br><br>Suggested resubmitting Item 1 separately | N/A | **Access denied**<br><br>Scope reduced from 399 docs → 30 docs but still refused as "subjective" |
+| 3 June 2025 | Final decision - practical refusal issued for Item 2 under s24(1)(b) (item 2's subjectivity, together with item 1, stated as the reason)<br><br>Suggested resubmitting Item 1 separately | N/A | **Access denied**<br><br>Scope reduced from 399 docs → 30 docs but still refused as "subjective" |
 
 ---
 
@@ -132,7 +132,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
   - TGA's own guidance that refined items "may be manageable"
   - Explicit definition of 12 document categories
   - Temporal scope limitation
-- Applied practical refusal provisions nine months after demonstrating identical classification capability
+- Applied practical refusal provisions nine months after demonstrating comparable classification capability
 
 ### Contradiction in Institutional Position
 
@@ -192,7 +192,7 @@ The progression demonstrates extraordinary applicant responsiveness to TGA consu
 - **92% reduction from original estimate**
 - 12 explicitly defined categories
 
-Despite this 92% scope reduction and TGA's initial guidance that refined items "may be manageable," TGA refused on grounds of subjectivity—nine months after estimating 2,218+ pages by identical Plan objectives for OAIC.
+Despite this 92% scope reduction and TGA's initial guidance that refined items "may be manageable," TGA refused on grounds of subjectivity—nine months after estimating 2,218+ pages by the same Plan objectives for OAIC.
 
 ### Implications for Document Organisation
 
@@ -279,6 +279,6 @@ The question of whether practical refusal provisions under s24(1)(b) can legitim
 
 **Document Type:** Supporting analysis   
 **Prepared:** 23 January 2026  
-**Last Revised** 18 October 2026
+**Last Revised:** 18 October 2026
 **Author:** Paul Rekaris  
 **Status:** Reference material only. Not part of main audit assessment. 
