@@ -344,7 +344,7 @@ Applicant sought objective-specific Safety Plan implementation documentation com
 
 FOI 4029-03 proves TGA prepared materials organised by Plan objectives (September 2021), yet:
 - September 2024 OAIC search excluded containers where this evidence exists
-- June 2025 practical refusal claims organising by objectives is "impractical"
+- June 2025 practical refusal states that relating documents to objectives would require "subjective interpretation"
 
 **Assessment Against "All Reasonable Steps" Standard:**
 
