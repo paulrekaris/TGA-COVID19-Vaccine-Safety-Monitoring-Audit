@@ -99,9 +99,9 @@ In the decision, the TGA recorded that it had advised on 16 May 2025 that item 1
 
 Section 24(1)(b) of the FOI Act 1982 permits refusal where a practical refusal reason exists. Under s 24AA(1)(a), that includes work that would substantially and unreasonably divert agency resources.
 
-### Section 24AA(2) Requirements
+### Section 24AA Requirements
 
-Section 24AA(2) of the FOI Act requires agencies to assess whether a request would substantially and unreasonably divert resources without regard to the reasons for making the request or the applicant's characteristics.
+Section 24AA(2) of the FOI Act requires an agency to have regard to the resources needed to identify, locate, decide on and copy the documents. Section 24AA(3) bars regard to the applicant's reasons for requesting access.
 
 However, TGA's prior demonstrated capability to estimate 2,218+ pages by Plan objectives for OAIC review (September 2024) raises questions about whether classifying 30 documents across 12 predefined categories constitutes an "unreasonable" diversion of resources, particularly when:
 - TGA had estimated pages by Plan objective nine months earlier
@@ -161,7 +161,7 @@ The practical refusal occurred despite:
 |--------|-------------------------|----------------------------------|
 | Classification task | Organise 30 documents by Plan objectives (final refined scope) | Organised 2,218+ pages by Plan objectives (sample searches) |
 | Initial estimate | 399 documents (3,926 pages) | Sample searches (one term: 531+ TRIM containers) |
-| Scope reduction | At least 87% reduction (399+ → 50 documents) in response to TGA consultation | N/A. Sample searches only (the Department described them as non-exhaustive) |
+| Scope reduction | At least 87% reduction (399+ → 50 documents) in response to TGA consultation | N/A. Sample searches only (the TGA described them as non-exhaustive) |
 | Categories defined | 12 categories explicitly specified | Sample searches across selected containers |
 | TGA initial assessment | Items 1(b)(c) "may be manageable" (24 April 2025) | Not applicable |
 | TGA final characterisation | "Subjective interpretation" (June 2025) | Not applicable |
