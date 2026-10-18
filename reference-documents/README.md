@@ -26,7 +26,7 @@ Independent legal analysis of OAIC Decision [2025] AICmr 54 ('AUQ' and Departmen
 
 Published by Sparke Helmore Lawyers, 11 May 2025.
 
-Confirms the administrative law finding that TGA took "all reasonable steps" under s24A of the FOI Act and that the requested implementation documentation "cannot be found or does not exist." Provides independent legal validation of the OAIC decision cited throughout this audit.
+Confirms the administrative law finding that TGA took "all reasonable steps" under s24A of the FOI Act and that the requested implementation documentation "cannot be found or [does] not exist." Provides independent legal validation of the OAIC decision cited throughout this audit.
 
 **File:** [sparke-helmore-auq-dhac-foi-case-note.pdf](sparke-helmore-auq-dhac-foi-case-note.pdf)
 
@@ -64,5 +64,5 @@ Internal analytical document examining governance failure patterns relevant to t
 
 ---
 
-**Last Updated:** 11 September 2026  
+**Last Updated:** 19 October 2026  
 **Licence:** CC BY 4.0
