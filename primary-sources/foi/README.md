@@ -101,7 +101,7 @@ FOI 5275 is a third-party request, obtained by the auditor under FOI 26-2581 (de
 
 ## FOI 25-0166 – Refined FOI Request (April 2025)
 
-Applicant lodges refined request seeking up to six of the most recent documents per Plan objective (February 2021–February 2025) across standard document categories (SOPs, guidelines, protocols, procedures) — at most thirty documents in total. Request structured around the Plan's five objectives.
+Applicant lodges a request (1 April 2025), later revised (5, 9 and 20 May) to up to 20 priority documents (item 1) and, under item 2, six of the most recent documents per Plan objective, at most thirty in total, across standard document categories (SOPs, guidelines, protocols, procedures).
 
 TGA advised that preliminary estimates for the original request identified more than 399 documents comprising 3,926 pages, and that reviewing them "would be a substantial and unreasonable diversion of the TGA's resources".
 
@@ -111,5 +111,5 @@ TGA advised that preliminary estimates for the original request identified more 
 
 ---
 
-**Last Updated:** 17 October 2026  
+**Last Updated:** 18 October 2026  
 **Licence:** CC BY 4.0
