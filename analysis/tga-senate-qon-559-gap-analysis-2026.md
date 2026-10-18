@@ -279,7 +279,7 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 | Finding 1: No systematic implementation documentation | TGA answer confirms monitoring as "core work" of Pharmacovigilance Branch — routine, not plan-tracked. Zero implementation documentation produced in formal parliamentary answer. |
 | Finding 2: Day-to-day processes instead of enhanced monitoring | TGA's Question 19 answer characterises Plan elements as routine pharmacovigilance practice — consistent with Senate testimony that monitoring was never systematically tracked |
 | Finding 3: 84% of Plan outputs not fully documented | Five strategy assessment confirms pattern — 2 strategies not documented at Plan output level, 3 partial, none fully documented |
-| Finding 4: Signal investigations lack audit trails | TGA's QON answer references FOI releases as evidence of transparency — yet the four-year FOI record shows TGA moving from "documents do not exist" (2022) to "more than 399 documents containing 3,926 pages" estimated in scope, with access refused as a practical refusal (2025). TGA's formal parliamentary answer does not address this contradiction. The signal-to-action traceability gap directly corroborates the absence of publicly documented signal investigation audit trails. |
+| Finding 4: Signal investigations lack audit trails | TGA's QON answer references FOI releases as evidence of transparency — yet the four-year FOI record shows TGA moving from stating that the requested implementation report "does not exist" (2022) to estimating "more than 399 documents containing 3,926 pages" in scope of the original FOI 25-0166 request, then refusing a refined request for up to 30 documents as a practical refusal (2025). TGA's formal parliamentary answer does not address this contradiction. The signal-to-action traceability gap directly corroborates the absence of publicly documented signal investigation audit trails. |
 | Finding 5: AusVaxSafety integration cannot be demonstrated | AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment. AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment; no publicly documented pathway linking surveillance inputs to signal investigation and outcome. |
 | Finding 6: Provisional approval verification gap | Not addressed in TGA's QON answer — TGA's formal written answer says nothing about verification before transition to full registration. Absence of any reference leaves the gap unresolved. |
 | Finding 7: No fully documented core monitoring outputs | Strategy 2 not documented at Plan output level. No governance documentation produced across any strategy answer. Consistent with the ISO 19011 conformity assessment: Objective 2 has no fully documented outputs (7 of 8 partial) and Governance has none documented. |
@@ -349,6 +349,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 15 October 2026
+**Last updated:** 18 October 2026
 
 [↑ Back to top](#table-of-contents)
