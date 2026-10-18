@@ -230,7 +230,7 @@ This gap between TGA's documented signal investigations and practitioners' limit
 8. Individual requests TGA signal data to support causation argument
                                    ↓
 9. TGA response: implementation records not located (FOI 3643, AICmr 54), or request refused as a practical refusal (FOI 25-0166)
-                                    ↓
+                                   ↓
 10. Claim rejected: insufficient proof of causation
                                    ↓
 Result: 89.5% denied/withdrawal rate whilst signal investigation evidence remains inaccessible
