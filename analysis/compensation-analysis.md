@@ -94,7 +94,7 @@ COVERSE/UNSW research (August 2024) documents 91% rejection/withdrawal rate iden
 In Senate testimony (9 October 2025), TGA representatives confirmed the agency investigated 148 safety signals and took 57 regulatory or information actions, indicating that investigation processes were undertaken.⁸
 
 ### FOI Refusals to Citizens
-The Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54 ...records the Commissioner's finding that the Department had taken all reasonable steps and that documents "cannot be found or do not exist".¹⁵ In October 2025, a senior TGA official told a Senate committee that producing documents by Plan objective would involve a "vast volume of documents".¹⁵
+The Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54 records the Commissioner's finding that the Department had taken all reasonable steps and that documents "cannot be found or do not exist".¹⁵ In October 2025, a senior TGA official told a Senate committee that producing documents by Plan objective would involve a "vast volume of documents".
 
 ### The Contradiction
 The TGA confirms assessing 150 signals and taking 57 regulatory actions whilst simultaneously claiming the relevant documentation cannot be consolidated or provided to citizens seeking to prove causation for compensation claims.
@@ -211,8 +211,10 @@ The scheme requires treating doctors to opine that injury was "most likely cause
 
 This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the scheme's 89.5% denied/withdrawal rate, as doctors lack access to evidence that could strengthen their causation opinions.
 
+````
+
 ## The Catch-22 Logic Chain
-```
+
 1. Government creates provisional approval pathway for rapid vaccine deployment
                                    ↓
 2. Cabinet policy requires "enhanced safety monitoring" as evaluation mechanism
@@ -235,13 +237,15 @@ This gap between TGA's documented signal investigations and practitioners' limit
                                    ↓
 Result: 89.5% denied/withdrawal rate whilst signal investigation evidence remains inaccessible
 
+````
+
 ## The Contradiction Matrix
 
 | TGA Statement | Audience | Implication |
 |---------------|----------|-------------|
 | 148 signals investigated, 57 actions taken | Senate (Oct 2025)⁸ | Signal investigations confirmed |
 | Documents "cannot be found or do not exist" | OAIC (2025)¹⁵ | Cannot provide to citizens |
-| "Vast volume" makes production impractical | Senate (Oct 2025) | Too difficult to organise for citizen access |
+| "Vast volume" makes production difficult | Senate (Oct 2025) | Too difficult to organise for citizen access |
 | Estimated 2,218+ pages by Safety Plan objectives | OAIC review (Sept 2024)¹⁵ | Demonstrates capacity when legally required |
 
 **Conclusion:** TGA demonstrates capacity to organise signal and safety monitoring documentation when facing Information Commissioner review, but claims impossibility when facing citizen FOI requests or compensation claimants seeking causation evidence.
