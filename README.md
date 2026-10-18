@@ -736,8 +736,8 @@ Database of Adverse Event Notifications (DAEN) and published regulatory decision
 
 **FOI responses**
    * FOI 3643 (2022) – refusal of an "implementation report" for the COVID‑19 Vaccine Safety Monitoring Plan.
-  * FOI 25‑0166 (2025) – In its consultation notice (24 April 2025), TGA identified "more than 399 documents containing 3,926 pages" in scope of the request, total "likely to be higher"; it then refused on practical‑refusal grounds (3 June 2025), stating the documents had "not been previously identified or related to that objective."
-
+  * FOI 25‑0166 (2025) – In its consultation notice (24 April 2025), TGA identified "more than 399 documents containing 3,926 pages" in scope of the original request, total "likely to be higher"; it then refused the refined request on practical‑refusal grounds (3 June 2025), stating that the documents sought under its second item had "not been previously identified or related to that objective."
+    
 **Information Commissioner material**
    * OAIC reviews MR22/00538 and MR25/01153 (directed searches and responses).
    * [2025] AICmr 54 decision ('AUQ' and Department of Health and Aged Care')  
