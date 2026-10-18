@@ -103,7 +103,7 @@ FOI 5275 is a third-party request, obtained by the auditor under FOI 26-2581 (de
 
 Applicant lodges a request (1 April 2025), later revised (5, 9 and 20 May) to up to 20 priority documents (item 1) and, under item 2, six of the most recent documents per Plan objective, at most thirty in total, across standard document categories (SOPs, guidelines, protocols, procedures).
 
-TGA advised that preliminary estimates for the original request identified more than 399 documents comprising 3,926 pages, and that reviewing them "would be a substantial and unreasonable diversion of the TGA's resources".
+TGA advised that preliminary estimates for the original request identified more than 399 documents comprising 3,926 pages, ...and that processing the request "would be an unreasonable diversion of the TGA's resources".
 
 **Evidentiary significance:** access was refused before the contents of any document were examined, so this process does not establish what the documents contain. The matter is before the Information Commissioner (MR25/01153), where s 55D places the onus on the agency to establish that its decision is justified.
 
@@ -111,5 +111,5 @@ TGA advised that preliminary estimates for the original request identified more 
 
 ---
 
-**Last Updated:** 18 October 2026  
+**Last Updated:** 19 October 2026  
 **Licence:** CC BY 4.0
