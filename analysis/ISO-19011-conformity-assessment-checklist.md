@@ -832,7 +832,7 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 26 Mar 2025 | OAIC AICmr 54 | Decision on FOI 3643 review | Search obligations | Finds all reasonable steps taken; the report requested under FOI 3643 cannot be found or does not exist |
 | 1 Apr 2025 | FOI 25-0166 request | Up to six recent documents per objective | Structured around the five objectives | Tests a narrowly scoped request |
 | 24 Apr 2025 | FOI 25-0166 consultation notice | TGA identifies "more than 399 documents, 3,926 pages" in scope; total "likely to be higher" | In scope of request | s 24AB consultation; applicant invited to revise scope |
-| 3 Jun 2025 | FOI 25-0166 decision | Item 2 refused (practical refusal, s 24(1)(b)); documents "not previously identified or related to that objective" | None identified against Plan objectives | Refusal on identification/resource grounds |
+| 3 Jun 2025 | FOI 25-0166 decision | Request refused (practical refusal, s 24(1)(b)), citing item 2's subjectivity; documents "not been previously identified or related to that objective" | None identified against Plan objectives | Refusal on identification/resource grounds |
 | Oct 2025 | FOI 25-0166 to OAIC | Applicant seeks review | Reiterates need for implementation evidence | Second OAIC review opens |
 | 9 Oct 2025 | Senate estimates | Monitoring characterised as "day-to-day processes" never systematically tracked | Direct evidence on the Plan | Confirms absence of systematic tracking |
 
@@ -850,7 +850,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0:** released 5 August 2026  
-**Last updated:** 17 October 2026
+**Last updated:** 18 October 2026
 
 [Back to top](#table-of-contents)
 
