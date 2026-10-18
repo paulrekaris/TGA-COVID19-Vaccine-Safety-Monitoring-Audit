@@ -280,7 +280,7 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **11 May 2025** - Sparke Helmore case note provides third-party legal analysis of [2025] AICmr 54, noting TGA's search documentation illustrated "persons who were consulted and undertook searches, date the searches were undertaken, locations searched, search terms used, outcomes of the searches undertaken, [and] reasons as to why no relevant documents have been found." The analysis emphasises maintaining detailed search records as FOI best practice, confirming through independent legal review that the requested implementation report "cannot be found or do not exist" as a matter of administrative law.
 
-- **June 2025** - In FOI 25‑0166, TGA refused, on practical‑refusal grounds, to process the part of the request seeking documents demonstrating implementation of each Plan objective. TGA stated that identifying such documents would require "subjective interpretation of the relationship to that objective," because the documents "have not been previously identified or related to that objective" — a direct concession that TGA had not classified its records against the Plan's objectives (FOI 25‑0166).
+- **June 2025** - In FOI 25‑0166, TGA refused, on practical‑refusal grounds, to process the revised request, citing the subjectivity of its second item. TGA stated that identifying the documents sought would require "subjective interpretation of the relationship to that objective," because they "have not been previously identified or related to that objective", a direct statement that TGA had not previously related those documents to the Plan's objectives (decision, paragraphs 5 to 7). The same decision records that the TGA had advised the first item was "clear and reasonable to process", and that documents relevant to it "would likely provide you with information helping you to understand how the TGA implemented its COVID-19 Vaccine Safety Monitoring Plan" (decision, paragraph 46).
 
 - **9 October 2025** – Senate Community Affairs Legislation Committee  
 
@@ -1046,7 +1046,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 17 October 2026  
+**Last Updated:** 18 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
