@@ -1,8 +1,6 @@
 # News
 
-Dated updates on external developments relevant to this audit: OAIC decisions, Commonwealth Ombudsman correspondence, new FOI requests and releases, and new audit versions. Newest first.
-
-An entry records that something happened and links to it. It does not change a rating, a finding or a version of the audit. Ratings change only in a numbered release, with a version history entry.
+Dated updates on OAIC, Commonwealth Ombudsman and FOI developments, and new audit releases. Newest first. Entries record events only. Ratings and findings change only in a numbered release.
 
 **Subscribe:** [New audit releases (Atom)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
@@ -12,19 +10,17 @@ An entry records that something happened and links to it. It does not change a r
 
 ## Current status
 
-Each row summarises the linked folder. If the two differ, the folder is correct.
-
 | Matter | Status | Latest development |
 |---|---|---|
-| OAIC review [MR25/01153](primary-sources/oaic/MR25-01153/README.md) (FOI 25-0166) | ![Pending](https://img.shields.io/badge/OAIC-pending-orange) Awaiting allocation to a review adviser. | 6 July 2026 |
-| Commonwealth Ombudsman complaint [2025-806374](primary-sources/ombudsman/README.md) | ![Under review](https://img.shields.io/badge/Ombudsman-under%20review-blue) Referred for further consideration within the Office. | 18 September 2026 |
-| FOI [27-3717](primary-sources/foi/foi-27-3717/README.md) (AusVaxSafety signals) | ![In progress](https://img.shields.io/badge/FOI-in%20progress-yellow) Consultation closes 26 October 2026. | 15 October 2026 |
+| OAIC review [MR25/01153](primary-sources/oaic/MR25-01153/README.md) (FOI 25-0166) | [![OAIC review status: pending](https://img.shields.io/static/v1?label=OAIC&message=Pending&color=blue)](primary-sources/oaic/MR25-01153/README.md) Awaiting allocation to a review adviser. | 6 July 2026 |
+| Commonwealth Ombudsman complaint [2025-806374](primary-sources/ombudsman/README.md) | [![Ombudsman complaint status: under review](https://img.shields.io/static/v1?label=Ombudsman&message=Under+review&color=blue)](primary-sources/ombudsman/README.md) Referred for further consideration within the Office. | 18 September 2026 |
+| FOI [27-3717](primary-sources/foi/foi-27-3717/README.md) (AusVaxSafety signals) | [![FOI 27-3717 status: in progress](https://img.shields.io/static/v1?label=FOI&message=In+progress&color=blue)](primary-sources/foi/foi-27-3717/README.md) Consultation closes 26 October 2026. | 15 October 2026 |
 
 ---
 
 ## 16 October 2026: Version 1.9.6 released
 
-![Release](https://img.shields.io/badge/audit-v1.9.6-lightgrey)
+[![Audit version 1.9.6](https://img.shields.io/static/v1?label=Version&message=v1.9.6&color=blue)](audit-governance/version-history.md)
 
 Ratings: 3 fully documented, 13 partially documented, 3 not documented (19 outputs). Overall finding: NON-CONFORMING. See the [version history](audit-governance/version-history.md).
 
