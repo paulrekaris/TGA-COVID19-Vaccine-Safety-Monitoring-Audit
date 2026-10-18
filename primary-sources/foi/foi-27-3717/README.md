@@ -1,0 +1,13 @@
+## FOI 27-3717 – AusVaxSafety COVID-19 Vaccine Safety Signals (September 2026, in progress)
+
+Applicant lodges a request (16 September 2026) for documents from 1 February 2021 to 31 December 2023 concerning the TGA's receipt, assessment, investigation and regulatory consideration of COVID-19 vaccine safety signals derived from or informed by AusVaxSafety active surveillance, including the signals identified in the AusVaxSafety Annual Report 2022 released under FOI 26-3110.
+
+TGA advised that processing would be a substantial and unreasonable diversion of resources, estimating 228 documents, approximately 4,986 pages and more than 300 hours. The applicant responded under s 24AB on 12 October 2026 proposing a narrower scope (six signal groups from the AusVaxSafety Annual Report 2022). The consultation period closes on 26 October 2026.
+
+**Last revised:** 18 October 2026
+
+**Evidentiary significance:** The request is unresolved, and no document has been released or examined. This entry records the request and consultation only.
+
+**Folder:** [foi-27-3717/](foi-27-3717/)
+
+---
