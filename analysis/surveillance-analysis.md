@@ -338,7 +338,7 @@ TGA's search excluded Advisory Committee containers where this evidence exists, 
 
 **June 2025 - FOI 25-0166 (Current OAIC Review MR25/01153):**
 
-Applicant sought objective-specific Safety Plan implementation documentation comparable to materials in FOI 4029-03. TGA refused under section 24AA practical refusal provisions, claiming organisation by Plan objectives would require "unreasonable diversion of resources."
+Applicant sought objective-specific Safety Plan implementation documentation comparable to materials in FOI 4029-03. TGA refused under section 24(1)(b), stating that identifying the documents would require "subjective interpretation of the relationship to that objective" and, with item 1, would substantially and unreasonably divert its resources.
 
 **The Contradiction:**
 
