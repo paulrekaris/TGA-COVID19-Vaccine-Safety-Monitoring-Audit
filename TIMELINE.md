@@ -113,7 +113,7 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 | February 2022 | IC review MR22/00538 lodged |
 | September 2024 | TGA runs sample searches, one term returning 531+ TRIM containers; identifies no Plan implementation records |
 | 26 March 2025 | OAIC AICmr 54 — documents "cannot be found or do not exist" |
-| April 2025 | FOI 25-0166 — practical refusal; documents not identified against Plan objectives |
+| April–June 2025 | FOI 25-0166 — practical refusal (3 June); documents not previously identified against Plan objectives |
 | 1 April 2025 | Commonwealth Ombudsman complaint lodged (2025-806374) |
 | June 2025 | IC review MR25/01153 lodged |
 | 9 October 2025 | Senate testimony — monitoring was "day-to-day processes" |
