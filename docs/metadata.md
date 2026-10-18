@@ -217,7 +217,7 @@ The documentary record identifies significant institutional findings concerning 
 
 In September 2024, OAIC-directed TGA sample searches estimated more than 2,218 pages of potentially relevant material, and one search term returned more than 531 records containers. None was identified as documentation demonstrating implementation of the February 2021 Safety Monitoring Plan against its specified commitments.
 
-The Office of the Australian Information Commissioner subsequently affirmed the TGA's FOI decision under section 24A of the *Freedom of Information Act 1982*, finding that the requested implementation records "cannot be found or do not exist": *Paul Rekaris and Department of Health and Aged Care (Freedom of information) [2025] AICmr 54*.
+The Office of the Australian Information Commissioner subsequently affirmed the TGA's FOI decision under section 24A of the *Freedom of Information Act 1982*, finding that the requested implementation records "cannot be found or [does] not exist": *Paul Rekaris and Department of Health and Aged Care (Freedom of information) [2025] AICmr 54*.
 
 Senior TGA officials told the Senate Community Affairs Legislation Committee on 9 October 2025 that vaccine safety monitoring occurred through "day-to-day processes". The available documentary record does not demonstrate systematic tracking of those processes against the objectives and outputs of the February 2021 Plan.
 
@@ -307,4 +307,4 @@ https://doi.org/10.31235/osf.io/sb4gz
 
 ---
 
-**Last revised:** 15 October 2026
+**Last revised:** 19 October 2026
