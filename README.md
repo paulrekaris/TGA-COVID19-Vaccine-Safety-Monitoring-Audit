@@ -240,7 +240,7 @@ OAIC Decision [2025] AICmr 54 demonstrates an important distinction in regulator
 
 TGA's search documentation satisfied FOI Act requirements under s24A, demonstrating proper record-keeping of the search process itself. Independent legal analysis confirmed this procedural compliance.
 
-However, what those searches established—that the requested implementation report "cannot be found or do not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
+However, what those searches established—that the requested implementation report "cannot be found or [does] not exist"—raises a separate accountability question: whether the enhanced monitoring framework required for provisional approval was implemented as designed.
 
 Procedural correctness and technical compliance in FOI administration and substantive delivery of Cabinet-endorsed policy commitments are distinct accountability standards, both necessary for transparent governance.
 
@@ -1046,7 +1046,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 18 October 2026  
+**Last Updated:** 19 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
