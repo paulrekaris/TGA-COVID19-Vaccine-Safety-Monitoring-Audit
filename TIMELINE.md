@@ -46,7 +46,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [AICmr 54 — AustLII](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html) | [OAIC MR22/00538 primary sources](primary-sources/oaic/MR22-00538/README.md)
 
 **April 2025**
-- **FOI 25-0166** — In its consultation notice (24 April 2025), TGA's line areas identified "more than 399 documents containing 3,926 pages" in scope of the request, with the total "likely to be higher." TGA then refused on practical-refusal grounds (3 June 2025), stating that identifying documents by Plan objective would require "subjective interpretation" because they had "not been previously identified or related to that objective."
+- **FOI 25-0166** — In its consultation notice (24 April 2025), TGA's line areas identified "more than 399 documents containing 3,926 pages" in scope of the request, with the total "likely to be higher." TGA then refused a refined request on practical-refusal grounds (3 June 2025), stating that identifying documents by Plan objective would require "subjective interpretation" because they had "not been previously identified or related to that objective."
 - [FOI 25-0166 analysis](primary-sources/foi/foi-25-0166/foi-25-0166-analysis.md)
   
 
@@ -128,4 +128,4 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 16 October 2026
+**Last updated:** 18 October 2026
