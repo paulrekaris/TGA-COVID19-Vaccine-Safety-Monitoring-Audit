@@ -229,19 +229,18 @@ This gap between TGA's documented signal investigations and practitioners' limit
                                    ↓
 8. Individual requests TGA signal data to support causation argument
                                    ↓
-9. TGA refuses access: "doesn't exist in consolidated form" or "impractical"
-                                   ↓
+9. TGA response: implementation records not located (FOI 3643, AICmr 54), or request refused as a practical refusal (FOI 25-0166)
+                                    ↓
 10. Claim rejected: insufficient proof of causation
                                    ↓
 Result: 89.5% denied/withdrawal rate whilst signal investigation evidence remains inaccessible
-```
 
 ## The Contradiction Matrix
 
 | TGA Statement | Audience | Implication |
 |---------------|----------|-------------|
 | 148 signals investigated, 57 actions taken | Senate (Oct 2025)⁸ | Signal investigations confirmed |
-| Documents "don't exist in single consolidated form" | OAIC (2025)¹⁵ | Cannot provide to citizens |
+| Documents "cannot be found or do not exist" | OAIC (2025)¹⁵ | Cannot provide to citizens |
 | "Vast volume" makes production impractical | Senate (Oct 2025) | Too difficult to organise for citizen access |
 | Estimated 2,218+ pages by Safety Plan objectives | OAIC review (Sept 2024)¹⁵ | Demonstrates capacity when legally required |
 
