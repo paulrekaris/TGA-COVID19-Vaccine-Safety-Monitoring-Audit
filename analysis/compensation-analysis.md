@@ -324,6 +324,6 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 28. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
-Last updated: 14 October 2026
+Last updated: 19 October 2026
 
 [↑ Back to top](#table-of-contents)
