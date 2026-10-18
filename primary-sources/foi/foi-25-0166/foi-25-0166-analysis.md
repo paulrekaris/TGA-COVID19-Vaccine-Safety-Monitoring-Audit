@@ -2,7 +2,7 @@
 
 **Request Date:** 1 April 2025  
 **Decision Date:** 3 June 2025  
-**Outcome:** Practical refusal under s24(1)(b) FOI Act 1982
+**Outcome:** Practical refusal under s24(1)(b) FOI Act 1982 (item 2's subjectivity, together with item 1, stated as the reason)
 
 ---
 
@@ -43,7 +43,7 @@ FOI request 25-0166 sought implementation documentation for the TGA COVID-19 Vac
 
 ### Requested Document Categories (20 May 2025 - Final Refinement)
 
-Following two rounds of consultation, request refined to 12 document categories:
+Following two rounds of consultation, request refined to 12 document categories which the applicant derived from the TGA's September 2024 search records (Attachment D):
 
 1. Standard Operating Procedures (SOPs) or equivalents
 2. Case processing instructions/guidelines
@@ -73,7 +73,7 @@ Fallback provision: Other TGA-classified documents if fewer than six available p
 | 1 April 2025 | FOI request lodged | Original scope: Items 1-2 covering Feb 2021-April 2025 | Initial processing commenced |
 | 24 April 2025 | **First practical refusal consultation** under s15(2)(b)<br><br>Identified 399+ documents (3,926 pages), 180 hours processing<br><br>Suggested: limit document types, Items 1(b) and 1(c) "may be manageable," narrow Item 1(a), reduce timeframe | 5 May 2025: Refined to Items 1-3 (~45 documents total)<br><br>Narrowed timeframe<br><br>Focused on specific document types | Partial acceptance:<br>Item 1 accepted for processing<br><br>Items 2-3 required further refinement |
 | 16 May 2025 | **Second consultation** - Item 2 deemed subjective<br><br>Linking documents to Plan objectives characterised as requiring "most significant" judgment | 9 May 2025: Revised Item 2 to 5 most significant documents per objective (25 documents), withdrew Item 3<br><br>20 May 2025: **Further refined to 6 most recent documents by category per objective (30 documents)**<br><br>**92% reduction from original 399 documents** | Item 2 refused - classification deemed too subjective despite:<br>• 92% scope reduction<br>• TGA's prior guidance Items 1(b)(c) "may be manageable"<br>• 12 explicitly defined categories |
-| 3 June 2025 | Final decision - practical refusal issued for Item 2 under s24(1)(b)<br><br>Suggested resubmitting Item 1 separately | N/A | **Access denied**<br><br>Scope reduced from 399 docs → 30 docs but still refused as "subjective" |
+| 3 June 2025 | Final decision - practical refusal issued for Item 2 under s24(1)(b)(item 2's subjectivity, together with item 1, stated as the reason)<br><br>Suggested resubmitting Item 1 separately | N/A | **Access denied**<br><br>Scope reduced from 399 docs → 30 docs but still refused as "subjective" |
 
 ---
 
@@ -89,6 +89,10 @@ TGA refused the refined request (Item 2) on grounds that:
    - Scope refinement from 399 documents to 30 documents (92% reduction)
    - Explicit definition of 12 document categories
    - TGA's prior indication that Items 1(b) and 1(c) "may be manageable"
+
+### TGA's Advice on Item 1
+
+In the decision, the TGA recorded that it had advised on 16 May 2025 that item 1 of the revised scope was "clear and reasonable to process", and that documents relevant to item 1 "would likely provide you with information helping you to understand how the TGA implemented its COVID-19 Vaccine Safety Monitoring Plan" (decision, paragraphs 46 to 48). It then suggested a new request for item 1 only. The refusal rested on item 2, which the TGA said required "subjective interpretation of the relationship to that objective" (paragraphs 5 to 7).
 
 ### Practical Refusal Provisions Applied
 
@@ -267,7 +271,7 @@ The contradiction is particularly significant given TGA's initial indication (24
 
 This contradiction, combined with the search methodology inadequacy documented in OAIC MR22/00538, raises questions about whether TGA maintains implementation records in a manner that enables verification of Plan delivery, or whether institutional resistance to transparency prevents access to records that may exist.
 
-The OAIC FOI Guidelines (paragraph 3.68) note that a practical refusal reason may be unreasonable if the work involved has already been undertaken by the agency for other purposes. TGA's September 2024 classification of 2,218+ pages by Plan objectives for OAIC review establishes prima facie evidence that classifying 30 documents by identical criteria nine months later does not constitute an unreasonable diversion of resources—particularly when the applicant responded to TGA guidance by achieving a 92% scope reduction.
+The OAIC FOI Guidelines (paragraph 3.68) note that a practical refusal reason may be unreasonable if the work involved has already been undertaken by the agency for other purposes. TGA's September 2024 estimate of 2,218+ pages by Plan objectives for OAIC review establishes prima facie evidence that classifying 30 documents by comparable criteria nine months later does not constitute an unreasonable diversion of resources—particularly when the applicant responded to TGA guidance by achieving a 92% scope reduction.
 
 The question of whether practical refusal provisions under s24(1)(b) can legitimately be applied to classification tasks TGA demonstrably performed for oversight bodies nine months earlier—and initially characterised as "may be manageable"—remains for the OAIC or reviewing tribunals to determine. The documented capability to estimate 2,218+ relevant pages by Plan objectives for OAIC review provides a benchmark against which the "unreasonable diversion" claim for 30 documents can be assessed.
 
@@ -275,6 +279,6 @@ The question of whether practical refusal provisions under s24(1)(b) can legitim
 
 **Document Type:** Supporting analysis   
 **Prepared:** 23 January 2026  
-**Last Revised** 15 October 2026
+**Last Revised** 18 October 2026
 **Author:** Paul Rekaris  
 **Status:** Reference material only. Not part of main audit assessment. 
