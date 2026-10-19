@@ -1,10 +1,10 @@
 # News
 
-Dated updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI requests to the TGA, audit releases and other developments relevant to this audit. Ratings and findings change only through a numbered audit release, documented in the [version history](audit-governance/version-history.md).
+Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI requests to the TGA, audit releases and other developments relevant to this audit. Ratings and findings change only through a numbered audit release, documented in the [version history](audit-governance/version-history.md).
 
 [![Releases](https://img.shields.io/static/v1?label=Releases&message=View%20all&color=orange)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases) [![RSS feed](https://img.shields.io/static/v1?label=Feed&message=RSS&color=orange&logo=rss&logoColor=white)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
-To get alerts: click Watch at the top of the repo, then Custom, then Releases.
+Email alerts: click Watch at the top of the repo, then Custom, then Releases. RSS: copy the feed link into a feed reader such as Feedly.
 
 **Last updated:** 19 October 2026, 8:38 pm AEDT
 
