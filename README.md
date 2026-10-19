@@ -1031,7 +1031,7 @@ References to named individuals reflect standard documentation practices, citing
 For enquiries regarding peer review, methodology, evidence corrections, collaboration, or media enquiries:
 
 **Email:** rekasp@protonmail.com  
-**Latest News and Updates:** [@prekas23 on X](https://x.com/prekas23)
+**Latest News and Updates:** [News page](NEWS.md) | [@prekas23 on X](https://x.com/prekas23)
 
 **Author ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578)
 
