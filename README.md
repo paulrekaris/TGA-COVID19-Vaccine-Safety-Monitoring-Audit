@@ -8,12 +8,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--1338--9578-green.svg)](https://orcid.org/0009-0000-1338-9578) [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-<p>
-<a href="audit-governance/version-history.md"><img height="30" alt="Version v1.9.6" src="https://img.shields.io/static/v1?label=Version&message=v1.9.6&color=000000&labelColor=000000"></a>
-<a href="NEWS.md"><img height="30" alt="Latest News" src="https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit?path=NEWS.md&label=Latest%20News&color=000000&labelColor=000000"></a>
-<a href="https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/archive/refs/heads/main.zip"><img height="30" alt="Download Latest ZIP File" src="https://img.shields.io/badge/Download%20Latest%20ZIP%20File-000000?style=flat"></a>
-<a href="https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main"><img height="30" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit?color=000000&labelColor=000000"></a>
-</p>
+[![Releases](https://img.shields.io/static/v1?label=Releases&message=VIEW%20ALL&color=000000&labelColor=000000&style=for-the-badge)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases) [![RSS feed](https://img.shields.io/static/v1?label=Feed&message=RSS&color=000000&labelColor=000000&logo=rss&logoColor=white&style=for-the-badge)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
 ## Quick Start
 
