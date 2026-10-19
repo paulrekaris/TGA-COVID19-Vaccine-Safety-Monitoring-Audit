@@ -12,6 +12,9 @@
 
 [![Latest News](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit?path=NEWS.md&label=Latest%20News&color=000000&labelColor=000000&style=for-the-badge)](NEWS.md)
 
+
+[![Latest News](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit?path=NEWS.md&label=Latest%20News&color=000000&labelColor=000000&logo=rss&logoColor=white&style=for-the-badge)](NEWS.md)
+
 ## Quick Start
 
 **New to this audit? Start here:**
