@@ -4,7 +4,7 @@ Dated updates on the Office of the Australian Information Commissioner (OAIC), t
 
 **Subscribe:** [New audit releases (Atom)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
-**Last updated:** 19 October 2026, 12🕧 pm AEDT
+**Last updated:** [![Last updated](https://img.shields.io/github/last-commit/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit?path=NEWS.md&label=Last%20updated&color=blue)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/commits/main/NEWS.md)
 
 ---
 
