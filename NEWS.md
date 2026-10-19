@@ -1,3 +1,5 @@
+[← Back to main README](README.md)
+
 # News
 
 Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI requests to the TGA, audit releases and other developments relevant to this audit. Ratings and findings change only through a numbered audit release, documented in the [version history](audit-governance/version-history.md).
@@ -55,3 +57,5 @@ Review of the TGA's refusal of FOI 25-0166, a request for documents on implement
 ## 1 June 2026: Manuscript submitted for peer review
 
 A manuscript on regulatory compliance and documentary accountability, drawing on this audit, was submitted to a peer-reviewed journal and is under review.
+
+[← Back to main README](README.md)
