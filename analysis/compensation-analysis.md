@@ -211,9 +211,9 @@ The scheme requires treating doctors to opine that injury was "most likely cause
 
 This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the scheme's 89.5% denied/withdrawal rate, as doctors lack access to evidence that could strengthen their causation opinions.
 
-````
 ## The Catch-22 Logic Chain
 
+````
 1. Government creates provisional approval pathway for rapid vaccine deployment
                                    ↓
 2. Cabinet policy requires "enhanced safety monitoring" as evaluation mechanism
