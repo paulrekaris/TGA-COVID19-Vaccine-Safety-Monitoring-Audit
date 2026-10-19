@@ -63,11 +63,12 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 **9 October 2025**
 - **Senate Community Affairs Legislation Committee — Supplementary Budget Estimates**
-- TGA senior officials testify that:
+- The TGA told the Senate that:
   - The Plan's five themes "essentially describe our day-to-day processes".
   - There is "no single specific evaluation report outlining or benchmarking us against the elements of that plan".
   - Producing documents by Plan objectives would involve "some difficulty" and a "vast volume of documents"
-  - 148 safety signals were investigated and 57 regulatory actions taken — yet no documentation links specific signals to specific actions
+  - 148 safety signals were investigated and 57 regulatory actions taken — the audit found that no documentation linked specific signals to specific actions.
+
 - [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) | [Video (timestamped 2:30:40–2:37:00)](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
 **October–December 2025**
