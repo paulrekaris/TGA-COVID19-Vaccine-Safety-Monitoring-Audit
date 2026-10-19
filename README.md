@@ -286,9 +286,9 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **9 October 2025** – Senate Community Affairs Legislation Committee  
 
-  TGA officials testify that:
-  
-  - Plan implementation was **never systematically tracked** by Plan objectives.  
+TGA testified that:
+
+  - Plan implementation was **not systematically tracked** by Plan objectives.  
   - Monitoring was managed through “day‑to‑day processes”, not a distinct enhanced framework.  
   - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
   - 148 safety signals were investigated (150 in QON 559) – yet **no documentation links specific signals to specific actions**.
@@ -509,7 +509,7 @@ What they showed:
 
 What was absent: Operational mechanisms distinguishing COVID-19 monitoring from routine systems. No AusVaxSafety integration, no Plan's 17 strategies, no governance structures, no performance metrics—despite technical training for professionals.
 
-Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" with no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
+Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" indicating no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
 
 The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being the stated basis on which provisional approval proceeded.
 
