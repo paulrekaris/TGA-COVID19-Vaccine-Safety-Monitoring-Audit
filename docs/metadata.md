@@ -219,7 +219,7 @@ In September 2024, OAIC-directed TGA sample searches estimated more than 2,218 p
 
 The Office of the Australian Information Commissioner subsequently affirmed the TGA's FOI decision under section 24A of the *Freedom of Information Act 1982*, finding that the requested implementation records "cannot be found or do not exist": *AUQ and Department of Health and Aged Care (Freedom of information) [2025] AICmr 54*.
 
-Senior TGA officials told the Senate Community Affairs Legislation Committee on 9 October 2025 that vaccine safety monitoring occurred through "day-to-day processes". The available documentary record does not demonstrate systematic tracking of those processes against the objectives and outputs of the February 2021 Plan.
+On 9 October 2025 the TGA told the Senate Community Affairs Legislation Committee that the Plan's five key themes "essentially describe our day-to-day processes". The available documentary record does not demonstrate systematic tracking of those processes against the objectives and outputs of the February 2021 Plan.
 
 In its subsequent written response to Senate Question on Notice 559 (DHDA SQ25-001584), the TGA reported that 150 safety signals had been investigated and 57 regulatory and consumer-information actions undertaken. The available record does not provide a signal-by-signal audit trail linking individual signal assessments to corresponding regulatory actions or other dispositions, leaving 93 investigated signals without a publicly documented disposition in that record.
 
