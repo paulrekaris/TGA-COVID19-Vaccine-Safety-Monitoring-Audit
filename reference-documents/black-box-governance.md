@@ -8,7 +8,7 @@ This audit addresses a core problem of democratic accountability: asymmetric inf
 
 The TGA committed to "enhanced safety monitoring" through its February 2021 Safety Plan, specifying 17 numbered strategies tied to the provisional-approval framework—the policy and regulatory quid pro quo for accepting products on preliminary rather than complete clinical data.
 
-But the TGA's Senate testimony (9 October 2025) described this enhanced monitoring as embedded in **"day-to-day processes"** with no distinct tracking or documentation system. This characterisation blurs the essential boundary: if enhanced monitoring is indistinguishable from routine operations, how can anyone verify it occurred?
+But the TGA told the Senate (9 October 2025) that the Plan’s five key themes “essentially describe our day-to-day processes”, and that there is “no single specific evaluation report outlining or benchmarking us against the elements of that plan”. The audit found no distinct tracking or documentation system. That blurs the essential boundary: if enhanced monitoring is indistinguishable from routine operations, how can anyone verify it occurred?
 
 The citizen's dilemma:
 - Pharmacovigilance outputs were produced (150+ reports, 150 signals, 57 actions)
@@ -154,4 +154,4 @@ It demonstrates that democratic accountability requires not perfect knowledge bu
 9. Stiglitz, J.E. (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
 
 
-**Last updated:** 30 August 2026
+**Last updated:** 19 October 2026
