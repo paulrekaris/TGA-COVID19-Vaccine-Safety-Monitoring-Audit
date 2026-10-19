@@ -159,7 +159,7 @@ Evidence is weighted by origin, prioritising auditee-generated and independently
 
 **Auditee's own sample searches (highest weight).** September 2024 OAIC-directed searches, conducted by TGA officers under OAIC direction using the TGA's own classification framework. They were sample searches that the Department described as non-exhaustive, and they did not cover Advisory Committee containers. Result: no records the TGA classified as Plan implementation documentation.
 
-**Auditee's statements to Parliament (under parliamentary privilege).** Senate Community Affairs Legislation Committee evidence, 9 October 2025, characterising monitoring as "day-to-day processes" indicating not systematically tracked against the Plan; and Senate QON 559 (SQ25-001584), the TGA's formal written answer, which describes activity but produces no documentary evidence of systematic implementation. Senate estimates witnesses are generally not sworn; this evidence is protected by parliamentary privilege, and knowingly giving false or misleading evidence to a committee may be dealt with as contempt. It is not characterised as given under oath.
+**Auditee's statements to Parliament (under parliamentary privilege).** Senate Community Affairs Legislation Committee evidence, 9 October 2025, in which the TGA said the Plan's five key themes "essentially describe our day-to-day processes" indicating it was not systematically tracked against the Plan; and Senate QON 559 (SQ25-001584), the TGA's formal written answer, which describes activity but produces no documentary evidence of systematic implementation. Senate estimates witnesses are generally not sworn; this evidence is protected by parliamentary privilege, and knowingly giving false or misleading evidence to a committee may be dealt with as contempt. It is not characterised as given under oath.
 
 **Formal government records (FOI decisions).** 2022 to 2025 decisions under the FOI Act 1982, including the February 2022 statement that no implementation report exists, and the related OAIC determinations.
 
@@ -281,7 +281,7 @@ This section records the ISO 19011 programme-management steps and their status.
 
 **Source 2: OAIC determinations.** OAIC review decisions, including MR22/00538; administrative review where FOI responses were inadequate; an independent oversight assessment.
 
-**Source 3: TGA Senate evidence.** Evidence to Senate estimates, 9 October 2025; analysis of the published transcript; a public record given under parliamentary privilege. The TGA described monitoring as "day-to-day processes", indicating it was not systematically tracked.
+**Source 3: TGA Senate evidence.** Evidence to Senate estimates, 9 October 2025; analysis of the published transcript; a public record given under parliamentary privilege. The TGA said the Plan’s five key themes 'essentially describe our day-to-day processes'. The audit infers that the Safety Plan was not systematically tracked.
 
 **Source 4: academic literature.** Peer-reviewed work on Australian pharmacovigilance systems, providing context for identified system-capability gaps.
 
@@ -424,7 +424,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Applied to this audit.** The TGA published the Plan as the operational framework for enhanced monitoring under provisional approval. The burden rests with the TGA to demonstrate systematic implementation of the specified outputs, governance tracking progress, performance measurement of delivery, and documentation enabling independent verification. The burden does not rest with this audit to prove that monitoring never occurred, that officials did not work diligently, or that undocumented processes do not exist somewhere.
 
-**Evidence of systematic absence.** Across four years: the TGA's own OAIC-directed sample searches (one term returned 531+ containers) found no implementation-tracking documents; the TGA's own statements (no implementation report exists, February 2022; "day-to-day processes" indicating the plan was not systematically tracked, October 2025; Objective 5 "unable to meaningfully interpret into searchable item", September 2024); independent oversight (AICmr 54 accepting that the report requested under FOI 3643 cannot be found or does not exist); keyword review of 500+ FOI disclosure log entries with no further Plan-framework references beyond FOI 4029 and FOI 5082; and multiple FOI processes (FOI 3643, 25-0166) that produced no Plan implementation report.
+**Evidence of systematic absence.** Across four years: the TGA's own OAIC-directed sample searches (one term returned 531+ containers) found no implementation-tracking documents; the TGA's own statements (no implementation report exists, February 2022; the Plan's five key themes "essentially describe our day-to-day processes", October 2025; independent oversight (AICmr 54 accepting that the report requested under FOI 3643 cannot be found or does not exist); keyword review of 500+ FOI disclosure log entries with no further Plan-framework references beyond FOI 4029 and FOI 5082; and multiple FOI processes (FOI 3643, 25-0166) that produced no Plan implementation report.
 
 **The accountability gap.** Not that monitoring did not occur (activity clearly happened), but that the Plan's enhanced framework cannot be verified through documentation accessible within Commonwealth accountability mechanisms.
 
@@ -515,7 +515,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | **4: Communications** | 4.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
 | **5: Collaborations** | 5.1 | National collaborations | ◐ Partial | State data visible; no formal frameworks documented |
 | | 5.2 | International collaborations | ◐ Partial | ICMRA participation; no systematic frameworks |
-| **Governance** | GOV.1 | Implementation oversight | ✗ Not doc | Senate: "never systematically tracked"; no governance documents located |
+| **Governance** | GOV.1 | Implementation oversight | ✗ Not doc | Senate: "day-to-day processes"; no governance documents located |
 | | GOV.2 | Performance measurement | ✗ Not doc | No metrics; Plan not referenced in performance reports |
 | | **TOTAL** | **19 outputs** | **3 ✓ / 13 ◐ / 3 ✗** | **16% fully documented; 84% partial or not documented** |
 
@@ -793,7 +793,7 @@ The Principal Medical Advisor’s covering email estimated the search exercise w
 Gaps identified:
 
 1. **AusVaxSafety omission.** The TGA acknowledged the Strategy 2.4 commitment to collaborate with AusVaxSafety but did not use "AusVaxSafety" as a search term. No documented bridge was found between the survey responses and the signals and actions.
-2. **Objective 5 "unable to meaningfully interpret".** The TGA stated the collaboration commitment could not be meaningfully interpreted into a searchable item, indicating an absence of searchable records for stakeholder coordination.
+2. **Objective 5 (collaboration and coordination).** In its September 2024 submission (Table 1, item 5, page 10) the TGA said it was "unable to meaningfully interpret into a searchable item" the request as it applied to this objective, and "unable to perform a relevant sample search", citing more than four TGA branches and more than 40 third parties. This is a statement about breadth, not about missing records: the TGA's own example was more than 274 documents for a single ICMRA sub-group meeting. No sample search was run, so the search record neither shows nor excludes documents for this objective.
 3. **Search covered document types.** The TGA searched by document type (SOPs, protocols, guidelines, workflows) and located records of those types, yet found no Plan-implementation documentation, which indicates the searches reached the relevant record types. They were sample searches, and they did not cover Advisory Committee containers (Source 5, item 6).
 
 Summary: the Department estimated 2,218+ pages of operational documents (AEFI processing, signal-detection procedures); no Plan-implementation tracking documents were found.
@@ -828,7 +828,7 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 27 Feb 2022 | FOI 3643 decision | Refusal under s 24A; "no implementation report exists"; "ample documentation" but no evaluation report | Mentions objectives, no evidence | No progress report provided |
 | 2022-2024 | OAIC review MR22/00538 | Applicant seeks IC review | Whether all reasonable steps taken | OAIC investigation opens |
 | 9 Aug 2024 | OAIC directions | Directs further searches and detailed evidence | Yes | Triggers TRIM search programme |
-| 20 Sep 2024 | OAIC submission | 8 terms; one term returned 531+ containers; Department estimate 2,218+ pages; no implementation reports | Searches by objective; Objective 5 "unable to meaningfully interpret" | No implementation or governance documentation located |
+| 20 Sep 2024 | OAIC submission | 8 terms; one term returned 531+ containers; Department estimate 2,218+ pages; no implementation reports | Searches by objective; no sample search run for Objective 5 (Table 1, item 5) | No implementation or governance documentation located in the sample searches run |
 | 26 Mar 2025 | OAIC AICmr 54 | Decision on FOI 3643 review | Search obligations | Finds all reasonable steps taken; the report requested under FOI 3643 cannot be found or does not exist |
 | 1 Apr 2025 | FOI 25-0166 request | Up to six recent documents per objective | Structured around the five objectives | Tests a narrowly scoped request |
 | 24 Apr 2025 | FOI 25-0166 consultation notice | TGA identifies "more than 399 documents, 3,926 pages" in scope; total "likely to be higher" | In scope of request | s 24AB consultation; applicant invited to revise scope |
