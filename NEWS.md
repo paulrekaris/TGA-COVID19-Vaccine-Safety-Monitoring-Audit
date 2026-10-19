@@ -1,6 +1,6 @@
 # News
 
-Dated updates on the Office of the Australian Information Commissioner (OAIC), the Commonwealth Ombudsman, Freedom of Information (FOI) requests to the Therapeutic Goods Administration (TGA), and new audit releases. Newest first. Entries record events only. Ratings and findings change only in a numbered release.
+Dated updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI requests to the TGA, audit releases and other developments relevant to this audit. Ratings and findings change only through a numbered audit release, documented in the [version history](audit-governance/version-history.md).
 
 **Subscribe:** [New audit releases (Atom)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
