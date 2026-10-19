@@ -3,7 +3,7 @@ title: "Did Australia's TGA Monitor COVID Vaccine Safety as Promised?"
 author: Paul Rekaris
 description: "Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented."
 canonical: https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-date_modified: 2026-10-15
+date_modified: 2026-10-19
 version: 1.9.6
 licence: CC BY 4.0
 orcid: https://orcid.org/0009-0000-1338-9578
@@ -39,7 +39,7 @@ The purpose of this audit is best understood in the context of how the enhanced 
 
 - **01** In September 2024, directed by the Office of the Australian Information Commissioner, the TGA's sample searches identified no Plan implementation records. The Commissioner found the report requested under FOI 3643 cannot be found or does not exist (Decision [2025] AICmr 54).
 
-- **02** Senior TGA officials told the Senate (9 October 2025) that monitoring occurred through routine "day-to-day processes", not as the distinct, systematically tracked framework the plan described.
+- **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes". The audit found no records tracking them against the Plan's objectives.
 
 - **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals assessed and 57 regulatory actions undertaken; however, the response does not provide traceability between individual safety signal assessments and corresponding regulatory actions or decisions. The response provides no signal-management documentation demonstrating how safety-signal evaluation outcomes are linked to the reported pharmacovigilance activities or how the Plan's 17 numbered strategy items were monitored.
 
@@ -57,7 +57,7 @@ The audit found that 16 of 19 outputs are partially documented or undocumented, 
 
 ### Didn't Australia already have extensive vaccine safety monitoring?
 
-Yes. The audit does not dispute that vaccine safety monitoring occurred; TGA officials themselves described this monitoring to the Senate as part of their routine "day-to-day processes". It examines whether the enhanced monitoring promised under the National Cabinet-endorsed Australian COVID-19 Vaccination Policy, and subsequently set out in the TGA's February 2021 Plan, was implemented as committed and can be independently verified from the documentary record.
+Yes. The audit does not dispute that vaccine safety monitoring occurred. The TGA told the Senate it was part of its "day-to-day processes". It examines whether the enhanced monitoring promised under the National Cabinet-endorsed Australian COVID-19 Vaccination Policy, and subsequently set out in the TGA's February 2021 Plan, was implemented as committed and can be independently verified from the documentary record.
 
 AusVaxSafety, for example, conducted 6.8 million post-vaccination surveys. Strategy 2.4 of the Plan committed to "Establish real-time collaboration with COVID-19 active surveillance activities for safety signal detection and analysis." The question is therefore not whether AusVaxSafety existed or collected substantial data, but whether the documentary record demonstrates that collaboration and how active-surveillance data were integrated with TGA signal detection and analysis to deliver the commitment. The available record does not establish this.
 
@@ -114,6 +114,8 @@ TGA evidence to the Senate Community Affairs Legislation Committee, [Hansard](ht
 TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584).
 
 [Read the full audit and evidence base →](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)
+
+[Latest news and updates](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/NEWS.md)
 
 ---
 
