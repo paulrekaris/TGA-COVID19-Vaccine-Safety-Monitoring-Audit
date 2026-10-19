@@ -509,7 +509,7 @@ What they showed:
 
 What was absent: Operational mechanisms distinguishing COVID-19 monitoring from routine systems. No AusVaxSafety integration, no Plan's 17 strategies, no governance structures, no performance metrics—despite technical training for professionals.
 
-Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" indicating no systematic tracking. OAIC searches found no Plan-specific implementation or governance records.
+Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" indicating no systematic tracking. The audit located no records tracking them against the Plan's objectives. OAIC searches found no Plan-specific implementation or governance records.
 
 The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being the stated basis on which provisional approval proceeded.
 
@@ -546,7 +546,7 @@ A peer-reviewed study published in *Vaccine* (September 2021) provides independe
 - AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.  
 - Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.
 
-These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” and was never systematically tracked against the COVID-19 Vaccine Safety Monitoring Plan. The audit located no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” indicating that the plan was not systematically tracked against the COVID-19 Vaccine Safety Monitoring Plan. The audit located no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
 
 **The authors’ conclusion:**
 
@@ -831,7 +831,7 @@ Three possible explanations exist for the documented gaps:
 
 1. **Records never existed:** The enhanced monitoring framework was not systematically implemented as a tracked, documented process distinct from routine operations. Senate testimony (October 2025) describing monitoring as "day-to-day processes" never systematically tracked supports this explanation.
 
-2. **Records existed but were not retained:** Implementation was documented but records were not preserved in accordance with the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
+2. **Records existed but were not retained:** 1. **Records never existed:** The enhanced monitoring framework was not systematically implemented as a tracked, documented process distinct from routine operations. The TGA's Senate evidence (October 2025) that the Plan's five key themes "essentially describe our day-to-day processes" is consistent with this explanation. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
 
 3. **Documents in scope have not been produced**: in FOI 25-0166 the TGA estimated that more than 399 documents comprising 3,926 pages fell within scope of the request, and refused access on practical-refusal grounds. The two FOI processes were differently framed: the OAIC-directed sample searches in MR22/00538 sought Plan implementation records (one term returned 531+ TRIM containers) and located none, while FOI 25-0166 sought documents of specified types relating to each objective and was refused before any document was examined.
 
