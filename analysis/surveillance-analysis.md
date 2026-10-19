@@ -34,7 +34,7 @@
 > 
 > - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented a Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. This methodology was not identified in the concurrent public safety reports.
 > 
-> - **OAIC search excluded relevant advisory body evidence:** TGA's September 2024 OAIC-directed searches (sample searches, one term returning 531+ containers) recorded that Objective 5 Advisory Committee containers were "unable to [be] meaningfully interpret[ed]", despite FOI 4029-03 (D21-3141615) containing relevant ACV governance evidence—indicating an inadequate search scope for verification of Plan implementation.
+> - **Objective 5 could not be searched:** in its September 2024 OAIC submission the TGA said it was "unable to meaningfully interpret into a searchable item" the request as it applied to Objective 5, citing more than four branches and more than 40 third parties, and ran no sample search. FOI 4029-03 (D21-3141615) nonetheless contains relevant ACV governance evidence. The audit concludes that implementation of this objective cannot be traced or verified from the TGA's records.
 > 
 > - **Third-party data gap:** FOI 5275 (August 2024, independent applicant) received response that TGA does not hold "incidence data" related to cancer. This shows a data gap, not whether the Strategy 2.3 calculation was performed
 > 
