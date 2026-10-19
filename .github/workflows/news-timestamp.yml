@@ -1,0 +1,30 @@
+name: Update NEWS timestamp
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - NEWS.md
+
+permissions:
+  contents: write
+
+jobs:
+  stamp:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write Melbourne time into NEWS.md
+        run: |
+          TS=$(TZ=Australia/Melbourne date +"%-d %B %Y, %-I:%M %P %Z")
+          sed -i "s|^\*\*Last updated:\*\*.*|**Last updated:** ${TS}|" NEWS.md
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "NEWS: update timestamp"
+          git push
