@@ -4,7 +4,7 @@ Dated updates on the Office of the Australian Information Commissioner (OAIC), t
 
 **Subscribe:** [New audit releases (Atom)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
-**Last updated:** 19 October 2026, 11:15 am AEDT
+**Last updated:** 19 October 2026, 12:10 pm AEDT
 
 ---
 
@@ -32,6 +32,10 @@ FOI request to the TGA for documents on AusVaxSafety vaccine safety signals. The
 
 Complaint about the TGA's handling of FOI 25-0166 and FOI 3643. The Ombudsman referred complaint 2025-806374 for further consideration within the Office. See the [Ombudsman folder](primary-sources/ombudsman/README.md).
 
+## 16 September 2026: FOI 27-3717 lodged
+
+FOI request to the TGA for documents on AusVaxSafety COVID-19 vaccine safety signals. See [foi-27-3717](primary-sources/foi/foi-27-3717/README.md).
+
 ## 1 September 2026: Commonwealth Ombudsman
 
 Complaint 2025-806374 about the TGA's handling of FOI 25-0166 and FOI 3643. The applicant resubmitted supporting material to the Ombudsman after the original attachments were recorded as corrupted.
@@ -39,3 +43,7 @@ Complaint 2025-806374 about the TGA's handling of FOI 25-0166 and FOI 3643. The 
 ## 6 July 2026: OAIC
 
 Review of the TGA's refusal of FOI 25-0166, a request for documents on implementation of the Plan. The OAIC advised that review [MR25/01153](primary-sources/oaic/MR25-01153/README.md) awaits allocation to a review adviser.
+
+## 1 June 2026: Manuscript submitted for peer review
+
+A manuscript based on this audit was submitted to a peer-reviewed international policy journal and is under review.
