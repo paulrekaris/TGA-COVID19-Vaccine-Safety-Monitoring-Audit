@@ -4,7 +4,7 @@ Dated updates on the Office of the Australian Information Commissioner (OAIC), t
 
 **Subscribe:** [New audit releases (Atom)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
-**Last updated:** 19 October 2026, 12:10 pm AEDT
+**Last updated:** 19 October 2026, 12🕧 pm AEDT
 
 ---
 
@@ -46,4 +46,4 @@ Review of the TGA's refusal of FOI 25-0166, a request for documents on implement
 
 ## 1 June 2026: Manuscript submitted for peer review
 
-A manuscript based on this audit was submitted to a peer-reviewed international policy journal and is under review.
+A manuscript on regulatory compliance and documentary accountability, drawing on this audit, was submitted to a peer-reviewed journal and is under review.
