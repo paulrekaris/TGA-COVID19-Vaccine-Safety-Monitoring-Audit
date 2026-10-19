@@ -216,7 +216,7 @@ This audit assesses whether Australia’s Therapeutic Goods Administration (TGA)
 
 ### Q2: What did I find?
 
-Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist. TGA senior officials told a Senate committee that enhanced monitoring was conducted as “day-to-day processes” that were never systematically tracked against Plan objectives.
+Only 16% of the 19 audited outputs are fully documented after four years. The Australian Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist. The TGA told a Senate committee that the Plan’s themes “essentially describe our day-to-day processes”. The audit concludes that monitoring was not systematically tracked against Plan objectives.
 
 ### Q3: Why does this matter?
 
@@ -395,7 +395,7 @@ If 21.2 million Australians:
 - Based on assurances of enhanced safety monitoring
 - During the most significant public health intervention in Australian history
 
-**If enhanced monitoring cannot be verified through documentation, cannot be demonstrated to have been systematically tracked, and officials confirm it was never measured against Plan objectives…**
+**If enhanced monitoring cannot be verified through documentation, cannot be demonstrated to have been systematically tracked, and the TGA has produced no report measuring it against Plan objectives**
 
 **Then this represents a fundamental failure of regulatory accountability, transparency, and the provisional approval verification framework at the exact moment when such accountability mattered most.**
 
@@ -472,13 +472,14 @@ In decision [2025] AICmr 54 (March 2025), the Australian Information Commissione
 
 ### Q18: What did TGA tell the Senate?
 
-In testimony to the Senate Community Affairs Legislation Committee on 9 October 2025, TGA senior officials stated:
+In testimony to the Senate Community Affairs Legislation Committee on 9 October 2025, TGA told the Senate:
 
 - Implementation was conducted as “day-to-day processes”
-- Monitoring was never systematically tracked against Plan objectives
 - A "vast volume" of documents would be involved in producing records by Plan objective
 - They are “very happy to receive FOI requests” whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
+
+The audit concludes that monitoring was never systematically tracked against Plan objectives
 
 ### Q19: Has this been independently verified by others?
 
@@ -573,7 +574,7 @@ Poor record-keeping would be a serious regulatory failure in itself, but the evi
 - **Records management is a legal requirement** under the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013
 - **TGA demonstrated capability** estimated relevant pages by Plan objective for the Information Commissioner
 - **Same classification system was deemed “too subjective”** when a citizen requested documents using it
-- **Officials described** monitoring as "day-to-day processes", indicating no systematic tracking against Plan objectives
+- **The TGA described** monitoring as "day-to-day processes", indicating no systematic tracking against Plan objectives
 
 This pattern indicates not poor record-keeping, but an absence of the systematic implementation framework itself. If activities were never tracked against Plan objectives, then records of that tracking cannot exist—because no such tracking is evidenced.
 
