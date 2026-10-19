@@ -26,7 +26,7 @@ Dated updates on the Office of the Australian Information Commissioner (OAIC), t
 
 ## 15 October 2026: FOI 27-3717, AusVaxSafety signals
 
-FOI request to the TGA for documents on AusVaxSafety vaccine safety signals. The TGA estimated 228 documents on 12 October. The applicant proposed six signal groups in response. Consultation closes 26 October 2026. See [foi-27-3717](primary-sources/foi/foi-27-3717/README.md).
+FOI request to the TGA for documents on AusVaxSafety vaccine safety signals. The TGA estimated 228 documents on 12 October 2026. The applicant proposed six signal groups in response. Consultation closes 26 October 2026. See [foi-27-3717](primary-sources/foi/foi-27-3717/README.md).
 
 ## 18 September 2026: Commonwealth Ombudsman
 
