@@ -4,7 +4,7 @@ Dated updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI requ
 
 [![Subscribe to release feed](https://img.shields.io/static/v1?label=Subscribe&message=Release%20feed&color=orange&logo=rss&logoColor=white)](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom)
 
-**Last updated:** 19 October 2026, 8:04 pm AEDT
+**Last updated:** 19 October 2026, 8:36 pm AEDT
 
 ---
 
