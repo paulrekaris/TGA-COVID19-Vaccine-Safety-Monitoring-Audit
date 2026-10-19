@@ -54,7 +54,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
 
 **11 May 2025**
-- Sparke Helmore case note published: independent legal analysis of AICmr 54 confirming that the requested implementation report "cannot be found or [does] not exist" as a matter of administrative law
+- Sparke Helmore case note — published independent legal analysis of AICmr 54 confirming that the requested implementation report "cannot be found or [does] not exist" as a matter of administrative law
 - [Sparke Helmore case note](https://www.sparke.com.au/insights/case-note-auq-and-department-of-health-and-aged-care-freedom-of-information/)
 
 **June 2025**
