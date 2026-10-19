@@ -286,12 +286,18 @@ This audit emerged from a four‑year FOI‑based investigation into TGA’s imp
 
 - **9 October 2025** – Senate Community Affairs Legislation Committee  
 
-TGA testified that:
+The TGA told the Senate that:
 
-  - Plan implementation was **not systematically tracked** by Plan objectives.  
-  - Monitoring was managed through “day‑to‑day processes”, not a distinct enhanced framework.  
-  - Producing documents by Plan objectives would involve “some difficulty” and a “vast volume of documents”.  
-  - 148 safety signals were investigated (150 in QON 559) – yet **no documentation links specific signals to specific actions**.
+  - The Plan's five themes "essentially describe our day-to-day processes".
+  - There is "no single specific evaluation report outlining or benchmarking us against the elements of that plan".
+  - Producing documents by Plan objective would involve "some difficulty" and a "vast volume of documents".
+  - It investigated 148 safety signals (150 in the answer to QON 559).
+
+The audit concludes that:
+
+  - Plan implementation was **not systematically tracked** against the Plan's objectives.
+  - Monitoring was managed through day-to-day processes, not a distinct enhanced framework.
+  - **No documentation links specific signals to specific actions.**
 
 A second IC review (MR25/01153) challenging TGA’s practical refusal decision (FOI 25-0166, April 2025) was lodged in June 2025. A decision is pending as of June 2026.
 
@@ -756,7 +762,7 @@ https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s (2:30:40–2:37:00)
 **Hansard:**  
 https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
-**Key testimony:** TGA officials described monitoring as "day-to-day processes" rather than a distinct enhanced framework, indicating Plan implementation was not systematically tracked. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
+**Key testimony:** The TGA described monitoring as "day-to-day processes" rather than a distinct enhanced framework, indicating Plan implementation was not systematically tracked. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
 
 [Full testimony analysis →](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
@@ -829,10 +835,8 @@ The methodology is explicitly falsifiable: any finding can be disproved by produ
 
 Three possible explanations exist for the documented gaps:
 
-1. **Records never existed:** The enhanced monitoring framework was not systematically implemented as a tracked, documented process distinct from routine operations. Senate testimony (October 2025) describing monitoring as "day-to-day processes" never systematically tracked supports this explanation.
-
-2. **Records existed but were not retained:** 1. **Records never existed:** The enhanced monitoring framework was not systematically implemented as a tracked, documented process distinct from routine operations. The TGA's Senate evidence (October 2025) that the Plan's five key themes "essentially describe our day-to-day processes" is consistent with this explanation. This would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
-
+1. **Records never existed:** The enhanced monitoring framework was not systematically implemented as a tracked, documented process distinct from routine operations. The TGA's Senate evidence (October 2025) that the Plan's themes "essentially describe our day-to-day processes" is consistent with this explanation.
+2. **Records existed but were not retained:** If routine processes did generate records, the TGA has not produced them. Failing to retain them would itself constitute a serious governance failure for a Cabinet-endorsed framework governing 68.4 million provisional doses.
 3. **Documents in scope have not been produced**: in FOI 25-0166 the TGA estimated that more than 399 documents comprising 3,926 pages fell within scope of the request, and refused access on practical-refusal grounds. The two FOI processes were differently framed: the OAIC-directed sample searches in MR22/00538 sought Plan implementation records (one term returned 531+ TRIM containers) and located none, while FOI 25-0166 sought documents of specified types relating to each objective and was refused before any document was examined.
 
 All three explanations represent significant accountability failures. The first indicates a gap between commitment and delivery. The second indicates a breach of Commonwealth records management obligations. The third would indicate a failure of both FOI compliance and parliamentary accountability. The audit's findings and recommendations apply regardless of which explanation proves correct.
