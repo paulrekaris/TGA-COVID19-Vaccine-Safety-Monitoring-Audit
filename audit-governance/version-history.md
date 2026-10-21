@@ -38,12 +38,6 @@
 
 **Evidence, wording and consistency refinements since the 1.9.6 release. Findings, ratings and overall conclusions unchanged: 3 Fully / 13 Partially / 3 Not Documented; mean severity 3.26; NON-CONFORMING.**
 
-# Version 1.9.7 (Unreleased)
-
-[Commits 1.9.6...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.6...HEAD)
-
-**Evidence, wording and consistency refinements since the 1.9.6 release. Findings, ratings and overall conclusions unchanged: 3 Fully / 13 Partially / 3 Not Documented; mean severity 3.26; NON-CONFORMING.**
-
 ### SQ13-19 gap analysis (VSIG)
 
 - Revised the analysis against the Department's answer to Question on Notice 2328 (SQ25-003155). The youth-deaths wording is now attributed to the question, not to the VSIG Work Instruction (FOI 4029-06). The Department's statements are recorded as its own: none of the nine child deaths on DAEN met the criteria to convene a VSIG (not testable, as the assessments were not released), and 15 VSIGs reviewed over 50 cases, not all of them deaths. Recorded its description of a TGA review of all serious AEFI reports, for which no records, counts or outputs were produced.
