@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 21 October 2026
+**Last updated:** 22 October 2026
 
 
 ---
@@ -42,7 +42,7 @@
 
 - Revised the analysis against the Department's answer to Question on Notice 2328 (SQ25-003155). The youth-deaths wording is now attributed to the question, not to the VSIG Work Instruction (FOI 4029-06). The Department's statements are recorded as its own: none of the nine child deaths on DAEN met the criteria to convene a VSIG (not testable, as the assessments were not released), and 15 VSIGs reviewed over 50 cases, not all of them deaths. Recorded its description of a TGA review of all serious AEFI reports, for which no records, counts or outputs were produced.
 - Restated the VSIG review share as about 5% or less of 1,053 deaths, with a footnote explaining the basis. Revised the references to the ten prior SQONs and their publication dates, and linked archived copies of the QON and Hansard.
-- Replaced the "burning out" attribution with the TGA's own AEMDS preliminary fatal case assessment (FOI 4302-01), which states that the VSIG should be used only in accordance with its criteria. The alignment with WHO guidance is recorded as not verified by the audit.
+- Replaced the "burning out" attribution with the TGA's own AEMDS preliminary fatal case assessment (FOI 4302-01), which states that the VSIG should be used only in accordance with its criteria. The attribution to WHO guidance is recorded as not verified by the audit.
 - Defined "control failure" as the auditor's term, anchored to ISO 19011:2018 (cl. 3.21) and ISO 9000:2015 (cl. 3.6.9), and refined the conclusions to state what the documents show: delivery of the framework and the governance commitment are not demonstrated. No finding is made about intent. Added references for PGPA Act ss 15, 16 and 21, ISO 31000 and the VAGO quality management framework.
 - Aligned Plan citations with the Plan itself: Objectives (p.5), Strategies 2.1 to 3.1 (pp.8 to 10) and 17 numbered strategies, distinct from the 19 outputs assessed in the audit.
 
