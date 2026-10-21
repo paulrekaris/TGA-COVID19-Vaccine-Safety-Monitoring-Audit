@@ -9,7 +9,7 @@
   - [TGA Surveillance Data](#tga-surveillance-data)
 - [Timeline of Key Events](#timeline-of-key-events)
 - [Case Study Evidence](#case-study-evidence)
-- [The Documented Transparency Failure](#the-documented-transparency-failure)
+- [The Documented Transparency Gap](#the-documented-transparency-gap)
 - [Specific Examples of Information Asymmetry](#specific-examples-of-information-asymmetry)
 - [Comparative International Transparency](#comparative-international-transparency)
 - [Analysis and Implications](#analysis-and-implications)
@@ -55,7 +55,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | AusVaxSafety survey responses | 6.8 million+ | AusVaxSafety Data⁶ |
 | Adverse events reported via AusVaxSafety | ~3 million | AusVaxSafety Data⁶ ⁷ |
 | Safety signals investigated (testimony) | 148 | Senate Hansard (9 Oct 2025)⁸ |
-| Safety signals assessed (written answer) | 150 | Senate QON 559 (SQ25-001584)¹⁰ |
+| Safety signals assessed (written answer (QON 559) | 150 | Senate QON 559 (SQ25-001584)¹⁰ |
 | Regulatory actions taken | 57 | Senate QON 559 (SQ25-001584)¹⁰ |
 | Signals with no publicly documented disposition | 93 | Senate QON 559 (SQ25-001584)¹⁰ |
 
@@ -75,7 +75,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Aug 2024** | COVERSE/UNSW reports approximately 91% rejected/withdrawn claims | Independent research documents systemic barriers including difficulty obtaining causation opinions |
 | **Sep 2024** | Scheme closes to new claims | 4,962 claims received in total; as at 30 June 2025, 495 paid (10.0%), 4,145 finalised and 817 still in progress² |
 | **Sep 2024** | TGA OAIC-directed searches locate no records responsive to the requested implementation documentation | Sample searches under Information Commissioner direction; one term returned 531+ TRIM containers |
-| **Oct 2025** | Senate testimony: TGA admits investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation not released to citizens |
+| **Oct 2025** | Senate testimony: TGA confirms investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation not released to citizens |
 
 **Pattern:** The timeline demonstrates a consistent gap between TGA's internal signal investigation capacity (150 signals assessed per Senate QON 559, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
 
@@ -94,7 +94,7 @@ An anonymous claimant with severe neurological injury waited three years from in
 ### Systemic Rejection Pattern
 COVERSE/UNSW research (August 2024) documents 91% rejection/withdrawal rate identifying systemic barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.³
 
-## The Documented Transparency Failure
+## The Documented Transparency Gap
 
 ### TGA's Acknowledged Documentation
 In Senate testimony (9 October 2025), TGA representatives confirmed the agency investigated 148 safety signals and took 57 regulatory or information actions, indicating that investigation processes were undertaken.⁸
@@ -107,7 +107,7 @@ The TGA confirms assessing 150 signals and taking 57 regulatory actions whilst s
 
 ## Specific Examples of Information Asymmetry
 
-The following examples illustrate how TGA's failure to publish signal investigation findings creates specific evidentiary barriers for compensation claimants whose injuries match TGA-investigated safety signals.
+The following examples illustrate how TGA's non-publication signal investigation findings creates specific evidentiary barriers for compensation claimants whose injuries match TGA-investigated safety signals.
 
 ### Example 1: Young Male with Post-Vaccine Myocarditis
 
@@ -173,14 +173,14 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 | **Country** | **Claims filed** | **Outcome** | **Rate** | **As at** |
 |-------------|------------------:|------------:|---------:|-----------|
-| **Australia** | 4,962 | 495 paid | 10.0% | Scheme closure² |
+| **Australia** | 4,962 | 495 paid | 10.0% | Services Australia, 30 June 2025² |
 | **United States (CICP – COVID claims)** | 14,146 | 62 compensated (112 eligible) | 0.44% compensated (0.79% eligible) | HRSA, July 2026²¹ |
 | **United Kingdom (VDPS – COVID claims)** | 21,213 | ~1.1% awards | ~1.1% | July 2025²² |
 | **Japan (Health Damage Relief System)** | 13,975 | 9,260 approved | ~66% | 29 July 2025²³ |
 
 *Rates are as reported by each source and may use different denominators (claims filed, claims finalised or eligible claims). Australia's rate is paid claims as a share of claims received, calculated from Services Australia's counts as at 30 June 2025, with 817 claims still in progress.*
 
-**Wider international comparison.** A peer-reviewed comparative study of 14 national COVID-19 vaccine injury compensation schemes found a **median approval rate of 26.76%**, ranging from Japan (74.29%, the highest) to the United Kingdom (2.64%, the lowest).²⁴ Australia's verified rate of 10% (per the table above) sits well below this international median. The same study separately reports an Australia's rate of 10.0% (495 paid of 4,962 claims received, as at 30 June 2025; per the table above) sits well below this international median. The same study separately reports an Australian approval rate of approximately 13%, which appears to reflect an earlier or differently-scoped dataset than the Scheme's counts used throughout this analysis; the 10.0% figure is used here as the more current and directly-sourced figure, taken from Services Australia's own briefing. New Zealand (ACC) and Canada (VISP/VIAP) were considered for inclusion in the table above but excluded: New Zealand's reported claim figures vary substantially by release date, with no single stable current total identified;²⁵ Canada's scheme was replaced by a new program (the Vaccine Impact Assistance Program) on 1 April 2026 amid reported administrative issues, meaning any figure under the former program would describe a superseded scheme.²⁶ The same peer-reviewed study reports Japan's approval rate as 74.29%, higher than the ~66% (9,260 of 13,975) figure reported separately in Health Damage Relief System data as at July 2025; the difference likely reflects different reporting dates or denominators (e.g. reviewed versus total submitted applications). Both figures indicate an approval rate substantially higher than Australia's.
+**Wider international comparison.** A peer-reviewed comparative study of 14 national COVID-19 vaccine injury compensation schemes found a **median approval rate of 26.76%**, ranging from Japan (74.29%, the highest) to the United Kingdom (2.64%, the lowest).²⁴ Australia's rate of 10.0% (495 paid of 4,962 claims received, as at 30 June 2025; per the table above) sits well below this international median. The same study separately reports an Australian approval rate of approximately 13%, which appears to reflect an earlier or differently-scoped dataset than the Scheme's counts used throughout this analysis; the 10.0% figure is used here as the more current and directly-sourced figure, taken from Services Australia's own briefing. New Zealand (ACC) and Canada (VISP/VIAP) were considered for inclusion in the table above but excluded: New Zealand's reported claim figures vary substantially by release date, with no single stable current total identified;²⁵ Canada's scheme was replaced by a new program (the Vaccine Impact Assistance Program) on 1 April 2026 amid reported administrative issues, meaning any figure under the former program would describe a superseded scheme.²⁶ The same peer-reviewed study reports Japan's approval rate as 74.29%, higher than the ~66% (9,260 of 13,975) figure reported separately in Health Damage Relief System data as at July 2025; the difference likely reflects different reporting dates or denominators (e.g. reviewed versus total submitted applications). Both figures indicate an approval rate substantially higher than Australia's.
 
 > ## Case Study in Transparency: How the CDC Does It
 > 
@@ -206,7 +206,7 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 - **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis¹⁷ ¹²
 
 **Impact on Compensation Claims:**
-All three jurisdictions in the direct comparison show low approval rates, but the US (0.44% compensated) and UK (~1.1%) are substantially lower than Australia (10%), while Japan (~66%) sits at the opposite end of the international range. Set against the 14-country median of 26.76%, Australia's rate remains well below the international median. However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's failure to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity alone.
+All three jurisdictions in the direct comparison show low approval rates, but the US (0.44% compensated) and UK (~1.1%) are substantially lower than Australia (10%), while Japan (~66%) sits at the opposite end of the international range. Set against the 14-country median of 26.76%, Australia's rate remains well below the international median. However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's failure to publish documentation it claims it possesses—creating a transparency gap rather than approval rate disparity alone.
 
 **Documentation Access:**
 - **US:** VAERS raw data publicly downloadable; VSD analyses published; investigation reports detailed
@@ -270,7 +270,7 @@ This analysis cannot determine whether signal investigation documentation would 
 
 ## Conclusion
 
-3,650 claimants had claims found not payable or withdrew them (as at 30 June 2025, with a further 817 in progress) their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no publicly documented disposition, and 57 regulatory actions. FOI 5275 further shows TGA does not hold the cancer incidence data a third party requested²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
+As at 30 June 2025, 3,650 claims under the COVID-19 Vaccine Claims Scheme had been found not payable or withdrawn, with a further 817 still in progress. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no publicly documented disposition, and 57 regulatory actions. FOI 5275 further shows TGA does not hold the cancer incidence data a third party requested²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
 
 ---
 
