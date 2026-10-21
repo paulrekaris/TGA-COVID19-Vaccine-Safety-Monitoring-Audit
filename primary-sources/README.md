@@ -14,7 +14,7 @@ Supporting analytical and contextual material is located in the [Reference Docum
 
 | Folder | Contents |
 |--------|----------|
-| [foi/](foi/) | FOI requests and responses (FOI 3643, FOI 4029, FOI 25-0166, FOI 5082, FOI 5225, FOI 5275) |
+| [foi/](foi/) | FOI requests and responses (FOI 3643, FOI 4029, FOI 25-0166, FOI 5082, FOI 5225, FOI 5275. FOI 27-3727, FOI-4302-1) |
 | [oaic/](oaic/) | Office of the Australian Information Commissioner decisions |
 [2025-08-28-order-production-documents-vaccine-safety-monitoring.md](2025-08-28-order-production-documents-vaccine-safety-monitoring.md) | Senate motion seeking documentation evidencing TGA adherence to and implementation of the COVID-19 Vaccine Safety Monitoring Plan, including Government response and Hansard records |
 | [senate-community-affairs-legislation-committee/](senate-community-affairs-legislation-committee/) | Senate Estimates testimony and Hansard transcripts |
@@ -27,5 +27,5 @@ Supporting analytical and contextual material is located in the [Reference Docum
 
 ---
 
-**Last Updated:** 15 October 2026.  
+**Last Updated:** 22 October 2026.  
 **Licence:** CC BY 4.0
