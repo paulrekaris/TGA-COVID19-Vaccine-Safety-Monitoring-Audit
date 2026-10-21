@@ -22,7 +22,7 @@
 
 ## Executive Summary
 
-Australia's COVID-19 Vaccine Claims Scheme approved 522 of 4,962 lodged claims (10.5% approval rate) before closure in September 2024. The Therapeutic Goods Administration (TGA) reports 150 COVID-19 vaccine safety signals assessed and 57 regulatory or information actions taken, but has not released documentation linking signals to actions, nor accounted for the disposition of the remaining 93 signals. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million people.
+Australia's COVID-19 Vaccine Claims Scheme, which closed to new claims on 30 September 2024, had paid 495 of 4,962 claims received (10.0%; 11.9% of the 4,145 finalised) as at 30 June 2025, with 817 still in progress. The Therapeutic Goods Administration (TGA) reports 150 COVID-19 vaccine safety signals assessed and 57 regulatory or information actions taken, but has not released documentation linking signals to actions, nor accounted for the disposition of the remaining 93 signals. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million people.
 
 ## The Core Problem: Causation and Information Asymmetry
 
@@ -34,10 +34,16 @@ The scheme requires treating doctors to opine, on the balance of probabilities, 
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| Claims lodged | 4,962 (scheme closed Sep 2024) | ABC News (Sep 2025)² |
-| Claims approved | 522 (10.5%) | ABC News (Sep 2025)² |
-| Claims denied/withdrawn | ~4,440 (89.5%) | ABC News (Sep 2025)² |
-| Total paid | >A$40 million | ABC News (Sep 2025)² |
+| Claims received | 4,962 (scheme closed to new claims 30 Sep 2024) | Services Australia (30 June 2025)² |
+| Paid | 495 (10.0% of received; 11.9% of finalised) | Services Australia (30 June 2025)² |
+| Not payable | 2,602 (52.4% of received) | Services Australia (30 June 2025)² |
+| Withdrawn | 1,048 (21.1% of received) | Services Australia (30 June 2025)² |
+| Finalised | 4,145 (83.5% of received) | Services Australia (30 June 2025)² |
+| In progress, including awaiting further information | 817 (16.5% of received) | Services Australia (30 June 2025)² |
+| Not payable or withdrawn | 3,650 (88.1% of finalised) | Calculated from Services Australia counts² |
+| Total paid | A$45.8 million | Services Australia (30 June 2025)² |
+
+*Counts are as at 30 June 2025. Percentages are the auditor's calculations from the agency's counts, rounded to one decimal place. The "finalised" percentages use finalised claims as the denominator; all others use claims received.*
 
 COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW, documented 91% rejection/withdrawal rate in August 2024 research, citing barriers including narrow 'approved condition' lists and difficulty obtaining medical statements affirming causation.³
 
@@ -67,7 +73,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Dec 2022** | 137,000+ DAEN reports documented | Peak passive surveillance activity during mass rollout |
 | **Jul 2023** | Approximately 68.4 million doses administered under provisional approval | Represents approximately 91% of total rollout—one of the largest deployments of provisionally approved medicines in Australian history |
 | **Aug 2024** | COVERSE/UNSW reports approximately 91% rejected/withdrawn claims | Independent research documents systemic barriers including difficulty obtaining causation opinions |
-| **Sep 2024** | Scheme closes to new applications | Final closure with 4,962 claims lodged, 522 approved (10.5% approval rate) |
+| **Sep 2024** | Scheme closes to new claims | 4,962 claims received in total; as at 30 June 2025, 495 paid (10.0%), 4,145 finalised and 817 still in progress² |
 | **Sep 2024** | TGA OAIC-directed searches locate no records responsive to the requested implementation documentation | Sample searches under Information Commissioner direction; one term returned 531+ TRIM containers |
 | **Oct 2025** | Senate testimony: TGA admits investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation not released to citizens |
 
@@ -209,7 +215,7 @@ All three jurisdictions in the direct comparison show low approval rates, but th
 
 The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.²⁷ However, TGA's failure to release investigation findings from the 150 signals it reports assessing, including no publicly documented disposition for 93 of them, and 57 regulatory actions⁸ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
 
-This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the scheme's 89.5% denied/withdrawal rate, as doctors lack access to evidence that could strengthen their causation opinions.
+This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the 88.1% of finalised claims (3,650 of 4,145) that were not payable or withdrawn, as doctors lack access to evidence that could strengthen their causation opinions.
 
 ## The Catch-22 Logic Chain
 
@@ -234,7 +240,7 @@ This gap between TGA's documented signal investigations and practitioners' limit
                                    ↓
 10. Claim may be rejected or withdrawn where causation cannot be substantiated
                                    ↓
-Observation: 89.5% denied or withdrawn, while signal investigation evidence remains inaccessible
+Observation: 3,650 of 4,145 finalised claims (88.1%) were not payable or withdrawn, while signal investigation evidence remains inaccessible
 ````
 
 ## The Contradiction Matrix
@@ -262,7 +268,7 @@ This analysis cannot determine whether signal investigation documentation would 
 
 ## Conclusion
 
-Approximately 4,440 claimants were denied compensation or withdrew their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no publicly documented disposition, and 57 regulatory actions. FOI 5275 further shows TGA does not hold the cancer incidence data a third party requested²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
+3,650 claimants had claims found not payable or withdrew them (as at 30 June 2025, with a further 817 in progress) their claims under the COVID-19 Vaccine Claims Scheme before its closure in September 2024. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no publicly documented disposition, and 57 regulatory actions. FOI 5275 further shows TGA does not hold the cancer incidence data a third party requested²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
 
 ---
 
