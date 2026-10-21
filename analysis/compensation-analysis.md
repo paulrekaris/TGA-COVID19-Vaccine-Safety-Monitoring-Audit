@@ -173,12 +173,14 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 | **Country** | **Claims filed** | **Outcome** | **Rate** | **As at** |
 |-------------|------------------:|------------:|---------:|-----------|
-| **Australia** | 4,962 | 522 compensated | 10.5% | Scheme closure² |
+| **Australia** | 4,962 | 495 paid | 10.0% | Scheme closure² |
 | **United States (CICP – COVID claims)** | 14,146 | 62 compensated (112 eligible) | 0.44% compensated (0.79% eligible) | HRSA, July 2026²¹ |
 | **United Kingdom (VDPS – COVID claims)** | 21,213 | ~1.1% awards | ~1.1% | July 2025²² |
 | **Japan (Health Damage Relief System)** | 13,975 | 9,260 approved | ~66% | 29 July 2025²³ |
 
-**Wider international comparison.** A peer-reviewed comparative study of 14 national COVID-19 vaccine injury compensation schemes found a **median approval rate of 26.76%**, ranging from Japan (74.29%, the highest) to the United Kingdom (2.64%, the lowest).²⁴ Australia's verified rate of 10.5% (per the table above) sits well below this international median. The same study separately reports an Australian approval rate of approximately 13%, which appears to reflect an earlier or differently-scoped dataset than the Scheme's final closure figures used throughout this analysis; the 10.5% figure (522 of 4,962 lodged claims, per ABC News reporting at scheme closure) is used here as the more current and directly-sourced figure. New Zealand (ACC) and Canada (VISP/VIAP) were considered for inclusion in the table above but excluded: New Zealand's reported claim figures vary substantially by release date, with no single stable current total identified;²⁵ Canada's scheme was replaced by a new program (the Vaccine Impact Assistance Program) on 1 April 2026 amid reported administrative issues, meaning any figure under the former program would describe a superseded scheme.²⁶ The same peer-reviewed study reports Japan's approval rate as 74.29%, higher than the ~66% (9,260 of 13,975) figure reported separately in Health Damage Relief System data as at July 2025; the difference likely reflects different reporting dates or denominators (e.g. reviewed versus total submitted applications). Both figures indicate an approval rate substantially higher than Australia's.
+*Rates are as reported by each source and may use different denominators (claims filed, claims finalised or eligible claims). Australia's rate is paid claims as a share of claims received, calculated from Services Australia's counts as at 30 June 2025, with 817 claims still in progress.*
+
+**Wider international comparison.** A peer-reviewed comparative study of 14 national COVID-19 vaccine injury compensation schemes found a **median approval rate of 26.76%**, ranging from Japan (74.29%, the highest) to the United Kingdom (2.64%, the lowest).²⁴ Australia's verified rate of 10% (per the table above) sits well below this international median. The same study separately reports an Australia's rate of 10.0% (495 paid of 4,962 claims received, as at 30 June 2025; per the table above) sits well below this international median. The same study separately reports an Australian approval rate of approximately 13%, which appears to reflect an earlier or differently-scoped dataset than the Scheme's counts used throughout this analysis; the 10.0% figure is used here as the more current and directly-sourced figure, taken from Services Australia's own briefing. New Zealand (ACC) and Canada (VISP/VIAP) were considered for inclusion in the table above but excluded: New Zealand's reported claim figures vary substantially by release date, with no single stable current total identified;²⁵ Canada's scheme was replaced by a new program (the Vaccine Impact Assistance Program) on 1 April 2026 amid reported administrative issues, meaning any figure under the former program would describe a superseded scheme.²⁶ The same peer-reviewed study reports Japan's approval rate as 74.29%, higher than the ~66% (9,260 of 13,975) figure reported separately in Health Damage Relief System data as at July 2025; the difference likely reflects different reporting dates or denominators (e.g. reviewed versus total submitted applications). Both figures indicate an approval rate substantially higher than Australia's.
 
 > ## Case Study in Transparency: How the CDC Does It
 > 
@@ -204,7 +206,7 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 - **Australia:** TGA uses "rates similar to expected" language without publishing calculation methods, baseline sources, or confidence intervals—despite FOI 4029-03 demonstrating internal capacity for PRR/MaxSPRT statistical analysis¹⁷ ¹²
 
 **Impact on Compensation Claims:**
-All three jurisdictions in the direct comparison show low approval rates, but the US (0.44% compensated) and UK (~1.1%) are substantially lower than Australia (10.5%), while Japan (~66%) sits at the opposite end of the international range. Set against the 14-country median of 26.76%, Australia's rate remains well below the international median. However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's failure to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity alone.
+All three jurisdictions in the direct comparison show low approval rates, but the US (0.44% compensated) and UK (~1.1%) are substantially lower than Australia (10%), while Japan (~66%) sits at the opposite end of the international range. Set against the 14-country median of 26.76%, Australia's rate remains well below the international median. However, US and UK systems provide treating doctors with access to published signal investigation methodologies and statistical evidence to support causation assessments. Australian claimants face the unique barrier of TGA's failure to publish documentation it demonstrably possesses—creating a transparency gap rather than approval rate disparity alone.
 
 **Documentation Access:**
 - **US:** VAERS raw data publicly downloadable; VSD analyses published; investigation reports detailed
@@ -276,7 +278,7 @@ This analysis cannot determine whether signal investigation documentation would 
 
 1. Australian Government Department of Health and Aged Care. (2024). COVID-19 Vaccine Claims Scheme Policy 2021 (Version 1.6, 24 September 2024). Section 19 (Causation). https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
 
-2. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
+2. Services Australia. (2025). COVID-19 Vaccine Claims Scheme, Question Time Brief QB25-000044 (updated 9 July 2025; claim counts as at 30 June 2025), released under FOI LEX 86604, PDF pp. 91-92. https://www.servicesaustralia.gov.au/sites/default/files/2025-12/lex-86604-documents.pdf
 
 3. COVERSE & UNSW, 'The Australian COVID-19 Vaccine Claims Scheme: Research Report', August 2024, https://media.coverse.org.au/documents/reports/2024-08%20misalignment%20report.pdf.
 
@@ -330,6 +332,8 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 27. Therapeutic Goods Administration. (2025). FOI 25-0117: TGA response confirming scheme focus on treating doctor's opinion. https://www.tga.gov.au/sites/default/files/2025-03/FOI%2025-0117_2.pdf
 
 28. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
+
+29. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
 
 Last updated: 21 October 2026
 
