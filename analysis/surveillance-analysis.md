@@ -456,6 +456,8 @@ The question "Was the Plan implemented as operational accountability framework a
 
 14. Parliament of Australia. (2025). Senate Question on Notice 559 — SQ25-001584: Covid-19 Vaccine Safety Monitoring Plan. Community Affairs Legislation Committee, Supplementary Budget Estimates 2025-26. TGA's formal written answer to direct Plan compliance question. https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates
 
+15. Services Australia. (2025). COVID-19 Vaccine Claims Scheme, Question Time Brief QB25-000044 (updated 9 July 2025; claim counts as at 30 June 2025), released under FOI LEX 86604, PDF pp. 91-92. https://www.servicesaustralia.gov.au/sites/default/files/2025-12/lex-86604-documents.pdf
+
 ----
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
