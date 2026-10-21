@@ -45,7 +45,7 @@ Collected materials are organised using a four-tier source-reliability framework
 
 ## 4. Severity Rating Scale
 
-Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation gap relative to the monitoring framework objectives. The mean severity rating across all 19 outputs is 3.26.
+Each assessed output is assigned a severity rating (1–5) reflecting the significance of the documentation gap relative to the monitoring framework objectives. The mean severity rating across all 19 outputs is 3.26. Grading on a quantitative scale (here, 1 to 5) based on context and risk is contemplated by ISO 19011:2018, cl. 6.4.8.
 
 | Rating | Label | Definition |
 |---|---|---|
@@ -127,4 +127,4 @@ Replication code for all summary statistics is provided in [Replication README](
 ---
 
 **Codebook version:** v1.3  
-**Last updated:** 15 October 2026
+**Last updated:** 21 October 2026
