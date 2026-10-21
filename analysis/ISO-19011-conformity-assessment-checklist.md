@@ -686,7 +686,7 @@ All URLs were verified as accessible in January 2026.
 27. TGA. (2025, April 24). FOI 25-0166 first request consultation letter (practical refusal, s24AB).
 28. TGA. (2026, June). FOI 26-3110: AusVaxSafety Annual Report 2022. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log?
 29. Services Australia. (2025). COVID-19 Vaccine Claims Scheme, Question Time Brief QB25-000044 (updated 9 July 2025; claim counts as at 30 June 2025), released under FOI LEX 86604, PDF pp. 91-92. https://www.servicesaustralia.gov.au/sites/default/files/2025-12/lex-86604-documents.pdf
-30. TGA. FOI 4302-01: AEMDS preliminary fatal case assessment. https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-4302/foi-4302-01.pdf
+30. TGA. FOI 4302-01: AEMDS preliminary fatal case assessment. https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-4302-01.pdf
 
 ### Primary Sources: Parliamentary Evidence
 
