@@ -74,7 +74,7 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 
 - FOI 4029-03: the TGA presented Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021), while concurrent public reports carried no such output.
 - FOI 5275: the TGA does not hold the cancer incidence data a third party requested. This shows a data gap, not whether the Strategy 2.3 calculation was performed.
-- FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review, against the TGA's own Work Instruction threshold (FOI 4029-06).
+- FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review. The Department states that none of the nine child deaths on DAEN met the criteria to convene a VSIG (QON 2328, SQ25-003155); the assessments were not released, so this cannot be tested.
 - Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and gaps against ICH E2E and CIOMS Working Group VIII practice.
 - Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)**, which identified no Plan implementation documents beyond those already in the repository.
 - TGA Performance Reports 2022-23 and 2023-24 contain no explicit references to the COVID-19 Vaccine Safety Monitoring Plan.
@@ -510,7 +510,7 @@ Conformity % below denotes **fully-documented outputs only**. "◐ Partial" and 
 | | 2.5 | Clinical studies and reports | ✗ Not doc | FOI 5082 lists clinical study reports and PSURs as "tbc"; no COVID-specific process located in FOI releases or TGA sample searches |
 | | 2.6 | Environmental scanning | ◐ Partial | FOI 5082 working draft lists scanning sources; no record of scanning results |
 | | 2.7 | International safety signals | ◐ Partial | ICMRA participation; no systematic sharing protocol |
-| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; VSIG operational (FOI 4029-05); record does not show child deaths referred, against Work Instruction threshold (FOI 4029-06) |
+| | 2.8 | Expert advice | ◐ Partial | ACV meetings occurred; VSIG operational (FOI 4029-05); record does not show child deaths referred; Department states none met VSIG criteria (QON 2328), which cannot be tested |
 | **3: Regulatory action** | 3.1 | Regulatory/programmatic action | ◐ Partial | 57 actions; no documented rapid-response framework |
 | **4: Communications** | 4.1 | Communications and media | ✓ Fully | 150+ reports, media releases, website content |
 | **5: Collaborations** | 5.1 | National collaborations | ◐ Partial | State data visible; no formal frameworks documented |
