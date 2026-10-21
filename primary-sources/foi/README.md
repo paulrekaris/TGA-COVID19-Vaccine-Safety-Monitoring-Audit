@@ -121,15 +121,15 @@ Applicant lodges a request (16 September 2026) for documents from 1 February 202
 
 ## FOI 4302 – AEMDS Preliminary Fatal Case Assessment
 
-TGA document describing the preliminary assessment of fatal adverse event reports, including the criteria for referral to the Vaccine Safety Investigation Group (VSIG). The copy reviewed carries no date.
+TGA document describing the preliminary assessment of fatal adverse event reports, including the criteria for referral to the Vaccine Safety Investigation Group (VSIG). The copy reviewed carries no date and is watermarked “PILOT”.
 
 **Source:** https://www.tga.gov.au/sites/default/files/2023-05/foi-4302-01.PDF
 
-**Evidentiary significance:** States that the VSIG should only be used in accordance with its criteria, which it describes as aligned with WHO guidelines, and that it is important to avoid "burning out" the panel. The audit has not verified the alignment with WHO guidance. Relevant to Output 2.8 and to the Department's answer to QON 2328 (SQ25-003155). Also states that the VSIG is not required for the COVID-19 Vaccine Claims Scheme.
+**Evidentiary significance:** States that the VSIG should only be used in accordance with its criteria, which it describes as aligned with WHO guidelines, and that it is important to avoid "burning out" the panel. This audit has not verified the attribution to WHO guidance. Relevant to Output 2.8 and to the Department's answer to QON 2328 (SQ25-003155). Also states that the VSIG is not required for the COVID-19 Vaccine Claims Scheme.
 
 **File:** [foi-4302-01.pdf](foi-4302-01.pdf)
 
 ---
 
-**Last Updated:** 21 October 2026  
+**Last Updated:** 22 October 2026  
 **Licence:** CC BY 4.0
