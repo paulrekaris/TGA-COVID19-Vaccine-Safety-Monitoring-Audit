@@ -4,12 +4,13 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 16 October 2026
+**Last updated:** 21 October 2026
 
 
 ---
 
 ## Table of Contents
+- [Version 1.9.7 (Unreleased)](#version-197-unreleased)
 - [Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance](#version-196-16-october-2026--ratings-revision-and-quality-assurance)
 - [Version 1.9.5 (7 September 2026)](#version-195-7-september-2026)
 - [Version 1.9.4 (5 August 2026)](#version-194-5-august-2026)
@@ -28,6 +29,60 @@
 - [Version 1.5.1 (December 2025)](#version-151-december-2025)
 - [Version 1.5.0 (December 2025)](#version-150-december-2025)
 - [Version 1.0 (27 November 2025)](#version-10-27-november-2025)
+
+# Version 1.9.7 (Unreleased)
+
+[Commits 1.9.6...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.6...HEAD)
+
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
+**Evidence, wording and consistency refinements since the 1.9.6 release. Findings, ratings and overall conclusions unchanged: 3 Fully / 13 Partially / 3 Not Documented; mean severity 3.26; NON-CONFORMING.**
+
+# Version 1.9.7 (Unreleased)
+
+[Commits 1.9.6...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.6...HEAD)
+
+**Evidence, wording and consistency refinements since the 1.9.6 release. Findings, ratings and overall conclusions unchanged: 3 Fully / 13 Partially / 3 Not Documented; mean severity 3.26; NON-CONFORMING.**
+
+### SQ13-19 gap analysis (VSIG)
+
+- Revised the analysis against the Department's answer to Question on Notice 2328 (SQ25-003155). The youth-deaths wording is now attributed to the question, not to the VSIG Work Instruction (FOI 4029-06). The Department's statements are recorded as its own: none of the nine child deaths on DAEN met the criteria to convene a VSIG (not testable, as the assessments were not released), and 15 VSIGs reviewed over 50 cases, not all of them deaths. Recorded its description of a TGA review of all serious AEFI reports, for which no records, counts or outputs were produced.
+- Restated the VSIG review share as about 5% or less of 1,053 deaths, with a footnote explaining the basis. Revised the references to the ten prior SQONs and their publication dates, and linked archived copies of the QON and Hansard.
+- Replaced the "burning out" attribution with the TGA's own AEMDS preliminary fatal case assessment (FOI 4302-01), which states that the VSIG should be used only in accordance with its criteria. The alignment with WHO guidance is recorded as not verified by the audit.
+- Defined "control failure" as the auditor's term, anchored to ISO 19011:2018 (cl. 3.21) and ISO 9000:2015 (cl. 3.6.9), and refined the conclusions to state what the documents show: delivery of the framework and the governance commitment are not demonstrated. No finding is made about intent. Added references for PGPA Act ss 15, 16 and 21, ISO 31000 and the VAGO quality management framework.
+- Aligned Plan citations with the Plan itself: Objectives (p.5), Strategies 2.1 to 3.1 (pp.8 to 10) and 17 numbered strategies, distinct from the 19 outputs assessed in the audit.
+
+### Senate evidence and Objective 5
+
+- Attributed the 9 October 2025 Senate Estimates statements on the Plan's themes and the absence of a single evaluation report to a single TGA official, quoted from Hansard. The audit's inference is stated in a separate sentence tied to its basis, across the README, TIMELINE, ISO checklist, docs pages, audit report and slide deck.
+- Clarified Objective 5 (collaboration with other vaccine safety stakeholder groups). In its September 2024 submission to the OAIC (MR22/00538) the TGA said it was "unable to meaningfully interpret" the request as it applied to this objective, citing breadth of scope, and ran no sample search. This is a statement about breadth, not absence. The audit concludes that implementation of this objective cannot be traced or verified from the TGA's records.
+- Updated the date of the OAIC review application (MR25/01153) to 16 June 2025 in the ISO checklist and related pages, and marked the added word in the search officer's quotation (Attachment D, p. 29).
+
+### FOI 25-0166 and AICmr 54
+
+- FOI 25-0166 analysis: added the TGA's advice (decision, paragraphs 46 to 48) that the first item was clear and reasonable to process and that its documents would help explain how the Plan was implemented. Stated that the 12 document categories were derived by the applicant from the TGA's September 2024 search records, and described the 2,218+ page figure as an estimate. Clarified that the narrowed request was refused as a whole, with scope-reduction figures counting both items (up to 20 priority documents and 30 documents under item 2), and refined the description of s 24AA(2) and (3).
+- README, TIMELINE, QON 559 gap analysis, FOI index, ISO checklist, surveillance analysis and audit report: clarified that the 399-document figure was the TGA's initial estimate, aligned quotations from the decision to verbatim text or paraphrase, and attributed the September 2024 "non-exhaustive" description to the TGA.
+- Refined the quotation of AICmr 54 (documents "cannot be found or do not exist") across the README, TIMELINE, reference documents and metadata, and updated the case name in docs/metadata.md to AUQ and Department of Health and Aged Care.
+
+### Compensation analysis
+
+- Replaced the Vaccine Claims Scheme figures with the official Services Australia counts (Question Time Brief QB25-000044, FOI LEX 86604, as at 30 June 2025): 4,962 received; 495 paid (10.0%); 2,602 not payable; 1,048 withdrawn; 4,145 finalised; 817 in progress; A$45.8 million paid. ABC News (24 September 2025) is cited as a later snapshot.
+- Restated the not payable or withdrawn figure as 3,650 of 4,145 finalised claims (88.1%), the auditor's calculation, replacing a basis that included claims still in progress. Updated the same figures in surveillance-analysis.md and the contextual note in the ISO checklist.
+- Revised the Catch-22 logic chain to describe the outcome as an observation, neutralised the "Transparency Failure", "admits" and "failure to publish" wording, attributed "vast volume" to the Senate testimony, and added a note that international comparison rates may use different denominators. The analysis remains contextual and is not an audit finding.
+
+### Evidence matrix, codebook and ISO checklist
+
+- Evidence matrix, Output 2.8: revised to cite QON 2328 and FOI 4302-01, record the Department's statement that none of the child deaths met the VSIG criteria as not testable, and state the WHO-alignment claim as not verified. The README sheet now defines Status as what the public documentary record shows, not whether an activity occurred, and the Summary sheet defines the 1 to 5 severity scale as the significance of the documentation gap.
+- Dataset codebook: noted that grading on a quantitative scale (here 1 to 5) is contemplated by ISO 19011:2018, cl. 6.4.8.
+- ISO checklist: revised the Output 2.8 evidence and rating summary for QON 2328 and FOI 4302-01, and added references for Services Australia QB25-000044 and FOI 4302-01.
+
+### Sources and records
+
+- Added FOI 4302-01 (AEMDS preliminary fatal case assessment) to the primary-source archive.
+- Added FOI 27-3717 (AusVaxSafety signals; lodged 16 September 2026) to the FOI index and recorded the TGA's consultation notice of 12 October 2026. The entry records the request only; no findings from it are included.
+- Updated the Commonwealth Ombudsman entry to record further consideration of complaint 2025-806374.
+- Added NEWS.md, a dated log of OAIC, Ombudsman and FOI developments and audit releases with a status table, linked from the README by a Latest News badge, and a GitHub Actions workflow that updates its "Last updated" line.
+- Regulatory accountability framework diagram: added the November 2020 date to the policy box.
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
