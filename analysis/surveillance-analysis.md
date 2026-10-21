@@ -38,7 +38,7 @@
 > 
 > - **Third-party data gap:** FOI 5275 (August 2024, independent applicant) received response that TGA does not hold "incidence data" related to cancer. This shows a data gap, not whether the Strategy 2.3 calculation was performed
 > 
-> - **Compensation barrier documented:** TGA investigated 150 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme applications, only 522 (10.5%) were approved, with the remaining 4,440 denied or withdrawn. Claimants' treating doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
+> - **Compensation barrier documented:** TGA investigated 150 safety signals and took 57 regulatory actions but refuses to provide signal investigation documentation to citizens whose treating doctors must form causation opinions on "balance of probabilities" standard. Of 4,962 COVID-19 Vaccine Claims Scheme claims received, 495 (10.0%) had been paid as at 30 June 2025, 3,650 were not payable or withdrawn, and 817 were still in progress. Claimants' treating doctors cannot access signal validation data that could support their causation assessments. This documentation gap creates structural unfairness: TGA holds population-level evidence for exact injury patterns (myocarditis in young males, menstrual disorders, GBS cases matching formal signal investigations) but treating doctors must opine without access to that evidence.
 > 
 > - **International transparency comparison:** US CDC published detailed signal-investigation analyses including statistical methodology; UK MHRA published safety assessments and substantial methodological information, although routine disclosure of signal-specific methodology was less comprehensive.
 >
@@ -286,7 +286,7 @@ Yet concurrent public safety reports provided:
 
 **Impact on Vaccine Injury Compensation:**
 
-The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 150 signals, yet refuses to provide documentation to citizens. Of 4,962 claims lodged under the COVID-19 Vaccine Claims Scheme, only 522 (10.5%) were approved. The remaining 4,440 applications were rejected or withdrawn. Claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
+The absence of accessible signal investigation documentation affects compensation claimants whose treating doctors must provide causation opinions on the "balance of probabilities" standard. TGA investigated 150 signals, yet refuses to provide documentation to citizens. Of 4,962 claims received under the COVID-19 Vaccine Claims Scheme, 495 (10.0%) had been paid as at 30 June 2025. Of the 4,145 finalised claims, 3,650 (88.1%) were not payable or withdrawn, and 817 were still in progress. Claimants' treating doctors cannot access signal validation data, risk quantification analyses, or statistical evidence that could support their causation assessments.
 
 FOI 4029-03 demonstrates TGA prepared methodology materials for Advisory Committee discussion—but citizens seeking comparable information through Freedom of Information requests receive refusals stating documents "do not exist in consolidated form" or retrieval would require "unreasonable diversion of resources."
 
@@ -460,7 +460,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 18 October 2026
+**Last updated:** 21 October 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
