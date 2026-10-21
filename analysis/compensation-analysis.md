@@ -278,7 +278,7 @@ As at 30 June 2025, 3,650 claims under the COVID-19 Vaccine Claims Scheme had be
 
 1. Australian Government Department of Health and Aged Care. (2024). COVID-19 Vaccine Claims Scheme Policy 2021 (Version 1.6, 24 September 2024). Section 19 (Causation). https://www.health.gov.au/sites/default/files/2024-09/covid-19-vaccine-claims-scheme-policy.pdf
 
-2. Services Australia. (2025). COVID-19 Vaccine Claims Scheme, Question Time Brief QB25-000044 (updated 9 July 2025; claim counts as at 30 June 2025), released under FOI LEX 86604, PDF pp. 91-92. https://www.servicesaustralia.gov.au/sites/default/files/2025-12/lex-86604-documents.pdf
+2. Services Australia. (2025). COVID-19 Vaccine Claims Scheme, Question Time Brief QB25-000044 (updated 9 July 2025; claim counts as at 30 June 2025), released under FOI LEX 86604, PDF pp. 91-92. https://www.servicesaustralia.gov.au/sites/default/files/2025-12/lex-86604-documents.pdf.  See also ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, which reports a later snapshot with different category counts. https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630
 
 3. COVERSE & UNSW, 'The Australian COVID-19 Vaccine Claims Scheme: Research Report', August 2024, https://media.coverse.org.au/documents/reports/2024-08%20misalignment%20report.pdf.
 
