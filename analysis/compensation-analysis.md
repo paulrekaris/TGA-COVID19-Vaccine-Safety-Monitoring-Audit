@@ -71,7 +71,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Sep 2024** | TGA OAIC-directed searches locate no records responsive to the requested implementation documentation | Sample searches under Information Commissioner direction; one term returned 531+ TRIM containers |
 | **Oct 2025** | Senate testimony: TGA admits investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation not released to citizens |
 
-**Pattern:** The timeline demonstrates a systematic gap between TGA's internal signal investigation capacity (150 signals assessed per Senate QON 559, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
+**Pattern:** The timeline demonstrates a consistent gap between TGA's internal signal investigation capacity (150 signals assessed per Senate QON 559, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
 
 
 ## Case Study Evidence
@@ -232,9 +232,9 @@ This gap between TGA's documented signal investigations and practitioners' limit
                                    ↓
 9. TGA response: implementation records not located (FOI 3643, AICmr 54), or request refused as a practical refusal (FOI 25-0166)
                                    ↓
-10. Claim rejected: insufficient proof of causation
+10. Claim may be rejected or withdrawn where causation cannot be substantiated
                                    ↓
-Result: 89.5% denied/withdrawal rate whilst signal investigation evidence remains inaccessible
+Observation: 89.5% denied or withdrawn, while signal investigation evidence remains inaccessible
 ````
 
 ## The Contradiction Matrix
@@ -325,6 +325,6 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 28. Therapeutic Goods Administration. (2024). FOI 5275: TGA response confirming it does not hold incidence data related to cancer for AusPAR monitoring conditions (secured by this auditor under FOI 26-2581, decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 
-Last updated: 19 October 2026
+Last updated: 21 October 2026
 
 [↑ Back to top](#table-of-contents)
