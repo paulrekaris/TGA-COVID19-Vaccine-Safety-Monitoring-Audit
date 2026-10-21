@@ -293,7 +293,7 @@ This section records the ISO 19011 programme-management steps and their status.
 4. ICH E2E practice not met. From mid-2022, reports used "expected rates" language without publishing baseline data sources, calculation methods, confidence intervals, or power calculations.
 5. CIOMS Working Group VIII benchmark not met. CIOMS WG VIII (2010), Chapter VIII, sets out traceable documentation linking signal detection through assessment to regulatory decision, including a documented rationale where signals do not lead to action. No signal-to-action audit trail is present in the reports.
 6. OAIC search-scope gap. The September 2024 searches did not include Advisory Committee containers (where FOI 4029-03 sits) and did not use terms such as "Advisory Committee" or "ACV", forums where Plan implementation would reasonably be discussed.
-7. Compensation context (contextual only, not a finding). Of 4,962 COVID-19 Vaccine Claims Scheme applications, 522 (about 10.5 per cent) were approved. This is included to illustrate a downstream consequence of inaccessible signal-investigation documentation; it forms no part of any finding.
+7. Compensation context (contextual only, not a finding). Of 4,962 COVID-19 Vaccine Claims Scheme claims received, 495 (10.0 per cent) had been paid as at 30 June 2025. This is included to illustrate a downstream consequence of inaccessible signal-investigation documentation; it forms no part of any finding.
 8. Plan design and accountability. Assessed against the Commonwealth's own performance and records obligations (PGPA Act ss 37 to 39; PGPA Rule s 16F(2)) and ANAO performance-audit methodology, the Plan did not number its outputs, conflated strategies with deliverables, and included no implementation framework, so it did not support systematic tracking of the TGA's commitments from the outset. This is a shortfall against the Commonwealth performance and records obligations applying to the Department, not against ISO 19011, which is the auditor's method.
 
 Extensive monitoring activity occurred (140,000+ DAEN reports, millions of AusVaxSafety responses, the investigated signals, 57 actions, 150+ reports). The absence of Plan-framework references and statistical-methodology disclosure in the public reports indicates the Plan did not function as a public accountability framework.
@@ -850,7 +850,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0:** released 5 August 2026  
-**Last updated:** 19 October 2026
+**Last updated:** 21 October 2026
 
 [Back to top](#table-of-contents)
 
