@@ -32,9 +32,9 @@
 
 # Version 1.9.7 (Unreleased)
 
-[Commits 1.9.6...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.6...HEAD)
-
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+
+[Commits 1.9.6...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.6...HEAD)
 
 **Evidence, wording and consistency refinements since the 1.9.6 release. Findings, ratings and overall conclusions unchanged: 3 Fully / 13 Partially / 3 Not Documented; mean severity 3.26; NON-CONFORMING.**
 
