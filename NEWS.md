@@ -12,7 +12,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 - **RSS feed:** copy the badge link into a feed reader.
 - **Email alerts:** Watch this repository, choose Custom, then tick Releases.
 
-**Last updated:** 22 October 2026, 8:36 pm AEDT
+**Last updated:** 22 October 2026, 8:41 pm AEDT
 
 ---
 
