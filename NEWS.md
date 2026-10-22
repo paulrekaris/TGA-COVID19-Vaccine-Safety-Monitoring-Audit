@@ -30,7 +30,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 ### 22 October 2026: Analysis of Senate question on notice SQ25-003155 published
 
-The Department's answer to SQ25-003155 (asked 12 December 2025) states that none of nine child deaths on the DAEN met the criteria to convene a VSIG, and that 15 VSIGs have reviewed over 50 cases since 2021, not all with a death outcome. The audit's analysis assesses these statements against the Plan's governance outputs. No ratings change see the [SQ13-19 gap analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf)
+The Department's answer to SQ25-003155 (asked 12 December 2025) states that none of nine child deaths on the DAEN met the criteria to convene a VSIG, and that 15 VSIGs have reviewed over 50 cases since 2021, not all with a death outcome. The audit's analysis assesses these statements against the Plan's governance outputs. No ratings change. See [SQ13-19 gap analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf)
 
 ### 16 October 2026: Version 1.9.6, 16 of 19 outputs partially documented or with no documentation located
 
