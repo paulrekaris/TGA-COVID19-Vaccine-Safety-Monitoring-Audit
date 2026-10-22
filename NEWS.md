@@ -16,7 +16,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 ---
 
-## Status of open matters
+## Status of open adminidtrative matters
 
 | Matter | Status | Latest development |
 |---|---|---|
@@ -26,16 +26,20 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 ---
 
+## Updates
+
+### 21 October 2026: Analysis of Senate question on notice SQ25-003155 published
+
+The Department's answer to SQ25-003155 (asked 12 December 2025) states that none of nine child deaths on the DAEN met the criteria to convene a VSIG, and that 15 VSIGs have reviewed over 50 cases since 2021, not all with a death outcome. The audit's analysis assesses these statements against the Plan's governance outputs. No ratings change.
+
+[SQ13-19 gap analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf)
+
 ### 16 October 2026: Version 1.9.6, 16 of 19 outputs partially documented or with no documentation located
 
 [![Audit version 1.9.6](https://img.shields.io/static/v1?label=Version&message=v1.9.6&color=blue)](audit-governance/version-history.md)
 
 - Three ratings under Strategy 2 (Enhanced signal detection) were revised from Not Documented to Partially Documented after review of FOI 5082 (pharmacovigilance system documents): outputs 2.2 (Enhanced individual-AEFI investigation), 2.3 (Enhanced cumulative data reviews) and 2.6 (Environmental scanning). Three outputs are fully documented, 13 partially and three have no documentation located. The overall finding remains NON-CONFORMING.
 - New Federal Cabinet and state government sources record what governments committed to before the Plan, and provide a documentary benchmark for assessing its implementation.
-
-## Updates
-
-[Version history](audit-governance/version-history.md)
 
 ### 15 October 2026: FOI 27-3717, applicant proposes six signal groups
 
