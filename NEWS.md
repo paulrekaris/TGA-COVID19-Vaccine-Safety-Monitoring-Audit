@@ -12,7 +12,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 - **RSS feed:** add the [releases feed](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases.atom) to a feed reader.
 - **Email alerts:** Watch this repository, choose Custom, then tick Releases.
 
-**Last updated:** 22 October 2026, 10:31 pm AEDT
+**Last updated:** 22 October 2026, 10:33 pm AEDT
 
 ---
 
