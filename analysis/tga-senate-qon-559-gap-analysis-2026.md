@@ -34,7 +34,7 @@
 >
 > - **Activity confirmed, plan-level documentation absent:** The QON confirms monitoring activities occurred — consistent with the main audit's finding that activities occurred but cannot be verified as systematic Plan implementation through documentary evidence
 >
-> - **Core audit finding intact:** TGA's formal written answer to the most direct question ever put to it about Plan compliance does not close the documentation gap. The NON-CONFORMING rating under ISO 19011 stands
+> - **Core audit finding intact:** TGA's formal written answer to the most direct question put to it about Plan compliance does not close the documentation gap. The NON-CONFORMING rating under ISO 19011 stands
 >
 > - **New primary parliamentary source:** QON 559 and its attachments are now part of the permanent parliamentary record and constitute primary source material for the evidence matrix
 
@@ -51,7 +51,7 @@ The QON asked four direct questions:
 - Question 19: How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?
 - Question 20: Could TGA provide documentary evidence demonstrating how each of the five key strategies of the Plan was put into practice?
 
-Question 19 is the most significant for audit purposes — it is the most direct question ever formally put to TGA about Plan compliance, submitted as a written question on notice requiring a formal answer on the parliamentary record.
+Question 19 is the most significant for audit purposes — it is the most direct question formally put to TGA about Plan compliance, submitted as a written question on notice requiring a formal answer on the parliamentary record.
 
 TGA's written answer is publicly available on the Parliament of Australia website as part of the 2025-26 Supplementary Budget Estimates record. The complete Senate QON is available here: [QON 559](../primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
@@ -268,7 +268,7 @@ TGA's characterisation of the Plan elements as describing "internationally agree
 No governance documentation produced across any of the five strategy answers. No output tracking, no performance measurement, no Plan-referenced reporting framework.
 
 **Overall audit rating: NON-CONFORMING confirmed**
-TGA's formal written answer to the most direct question ever put to it about Plan compliance does not produce documentary evidence of systematic Plan implementation mapped to the Plan's stated outputs. The documentation gap identified across four years of investigation is confirmed in TGA's own parliamentary record.
+TGA's formal written answer to the most direct question put to it about Plan compliance does not produce documentary evidence of systematic Plan implementation mapped to the Plan's stated outputs. The documentation gap identified across four years of investigation is confirmed in TGA's own parliamentary record.
 
 ---
 
@@ -283,7 +283,7 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 | Finding 5: AusVaxSafety integration cannot be demonstrated | AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment. AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment; no publicly documented pathway linking surveillance inputs to signal investigation and outcome. |
 | Finding 6: Provisional approval verification gap | Not addressed in TGA's QON answer — TGA's formal written answer says nothing about verification before transition to full registration. Absence of any reference leaves the gap unresolved. |
 | Finding 7: No fully documented core monitoring outputs | Strategy 2 not documented at Plan output level. No governance documentation produced across any strategy answer. Consistent with the ISO 19011 conformity assessment: Objective 2 has no fully documented outputs (7 of 8 partial) and Governance has none documented. |
-| Finding 8: Safety Monitoring Plan did not meet auditability standards | TGA's characterisation of Plan elements as describing routine pharmacovigilance practice in a formal parliamentary answer directly confirms the Plan was not designed or operated as a distinct auditable framework with verifiable outputs. |
+| Finding 8: Safety Monitoring Plan did not meet auditability standards | TGA's characterisation of Plan elements as describing routine pharmacovigilance practice in a formal parliamentary answer supports the conclusion that the Plan was not designed or operated as a distinct auditable framework with verifiable outputs. |
 
 ---
 
@@ -307,7 +307,7 @@ TGA's formal written answer to the most direct question ever put to it about Pla
 
 ## Implications
 
-TGA's formal written answer to the most direct question ever put to it about Plan compliance — submitted on the parliamentary record — does not produce documentary evidence of systematic Plan implementation.
+TGA's formal written answer to the most direct question put to it about Plan compliance — submitted on the parliamentary record — does not produce documentary evidence of systematic Plan implementation.
 
 The signal-to-action traceability gap is quantifiable from TGA's own figures: 150 signals investigated and 57 regulatory actions reported—a numerical gap of 93—but no public signal-by-signal mapping establishes how the 57 actions relate to individual signals or the disposition of the remaining investigations. It is not speculative. It directly supports the surveillance data analysis finding that systematic signal investigation audit trails are absent from the public record.
 
@@ -349,6 +349,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 18 October 2026
+**Last updated:** 22 October 2026
 
 [↑ Back to top](#table-of-contents)
