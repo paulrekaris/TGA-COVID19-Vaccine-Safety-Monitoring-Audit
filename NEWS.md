@@ -30,7 +30,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 [![Audit version 1.9.6](https://img.shields.io/static/v1?label=Version&message=v1.9.6&color=blue)](audit-governance/version-history.md)
 
-- Three outputs are fully documented, 13 partially and three have no documentation located. The overall finding is NON-CONFORMING. Three ratings were upgraded after review of FOI 5082.
+- Three ratings under Strategy 2 (Enhanced signal detection) were revised from Not Documented to Partially Documented after review of FOI 5082 (pharmacovigilance system documents): outputs 2.2 (Enhanced individual-AEFI investigation), 2.3 (Enhanced cumulative data reviews) and 2.6 (Environmental scanning). Three outputs are fully documented, 13 partially and three have no documentation located. The overall finding remains NON-CONFORMING.
 - New Federal Cabinet and state government sources record what governments committed to before the Plan, and provide a documentary benchmark for assessing its implementation.
 
 > [!NOTE]
