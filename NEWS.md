@@ -16,7 +16,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 ---
 
-## Status of open adminidtrative matters
+## Status of open administrative matters
 
 | Matter | Status | Latest development |
 |---|---|---|
@@ -30,9 +30,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 ### 22 October 2026: Analysis of Senate question on notice SQ25-003155 published
 
-The Department's answer to SQ25-003155 (asked 12 December 2025) states that none of nine child deaths on the DAEN met the criteria to convene a VSIG, and that 15 VSIGs have reviewed over 50 cases since 2021, not all with a death outcome. The audit's analysis assesses these statements against the Plan's governance outputs. No ratings change.
-
-[SQ13-19 gap analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf)
+The Department's answer to SQ25-003155 (asked 12 December 2025) states that none of nine child deaths on the DAEN met the criteria to convene a VSIG, and that 15 VSIGs have reviewed over 50 cases since 2021, not all with a death outcome. The audit's analysis assesses these statements against the Plan's governance outputs. No ratings change see the [SQ13-19 gap analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf)
 
 ### 16 October 2026: Version 1.9.6, 16 of 19 outputs partially documented or with no documentation located
 
@@ -43,7 +41,7 @@ The Department's answer to SQ25-003155 (asked 12 December 2025) states that none
 
 ### 15 October 2026: FOI 27-3717, applicant proposes six signal groups
 
-FOI request to the TGA for documents on AusVaxSafety vaccine safety signals. The TGA estimated 228 documents on 12 October 2026. The applicant proposed six signal groups in response. Consultation closes 26 October 2026. See [foi-27-3717](primary-sources/foi/foi-27-3717/README.md).
+FOI request to the TGA for documents on AusVaxSafety COVID-19 vaccine safety signals. The TGA estimated 228 documents on 12 October 2026. The applicant proposed six signal groups in response. Consultation closes 26 October 2026. See [foi-27-3717](primary-sources/foi/foi-27-3717/README.md).
 
 ### 18 September 2026: Ombudsman refers complaint for further consideration
 
