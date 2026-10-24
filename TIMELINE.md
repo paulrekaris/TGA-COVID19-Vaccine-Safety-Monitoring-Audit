@@ -50,7 +50,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - [FOI 25-0166 analysis](primary-sources/foi/foi-25-0166/foi-25-0166-analysis.md)
   
 
-- **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration
+- **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding the OAIC's administrative handling of IC review MR22/00538 (FOI 3643)
 - [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
 
 **11 May 2025**
@@ -129,4 +129,4 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 19 October 2026
+**Last updated:** 24 October 2026
