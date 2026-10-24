@@ -196,7 +196,7 @@ This audit provides **reasonable assurance** (not absolute certainty) based on s
 
 **Independence (ISO 19011:2018, 4 e).** The auditor is independent of the activity audited, holds no organisational affiliation with the auditee, and received no funding from any vaccine manufacturer, government agency, or advocacy group.
 
-**Disclosure of role.** For fair presentation (ISO 19011:2018, 4 b), the auditor discloses a dual position that a reader should weigh. The auditor is also the applicant in the underlying FOI requests and OAIC reviews (including MR22/00538 and MR25/01153), a complainant to the Commonwealth Ombudsman on the same subject, and a co-author of investigative journalism on the matter. The auditor is therefore an interested party in a documented dispute with the auditee, consistent with the second-party audit type declared above.
+**Disclosure of role.** For fair presentation (ISO 19011:2018, 4 b), the auditor discloses a dual position that a reader should weigh. The auditor is also the applicant in the underlying FOI requests and OAIC reviews (including MR22/00538 and MR25/01153), a complainant to the Commonwealth Ombudsman concerning the OAIC’s handling of review MR22/00538, and a co-author of investigative journalism on the matter. The auditor is therefore an interested party in a documented dispute with the auditee, consistent with the second-party audit type declared above.
 
 **Why the findings do not turn on auditor judgement.** The load-bearing findings rest on the auditee's own searches and statements (OAIC-directed TRIM searches, Senate evidence, QON 559, FOI decisions) and on independent statutory oversight (OAIC AICmr 54), not on the auditor's interpretation. The auditor's adversarial history affects motive, not the primary records, which any third party can retrieve and verify.
 
@@ -852,7 +852,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0:** released 5 August 2026  
-**Last updated:** 21 October 2026
+**Last updated:** 24 October 2026
 
 [Back to top](#table-of-contents)
 
