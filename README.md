@@ -648,7 +648,7 @@ This assessment has been provided to multiple oversight bodies:
 - **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with enhanced monitoring commitments aligned to provisional approval. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
 - **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the [2025] AICmr 54 decision. IC review for MR25/01153 still pending.
-- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding contradictions in TGA responses and systemic issues in pharmacovigilance governance and FOI administration. On 18 September 2026 the Ombudsman advised that the complaint had been referred for further consideration.
+- **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). On 18 September 2026 the Ombudsman advised that the complaint had been referred for further consideration.
 
 Key correspondence is available in the [correspondence](primary-sources/correspondence/) folder.
 
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 19 October 2026  
+**Last Updated:** 24 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
