@@ -21,7 +21,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 | Matter | Status | Latest development |
 |---|---|---|
 | OAIC review [MR25/01153](primary-sources/oaic/MR25-01153/README.md)<br>Review of the TGA's refusal of FOI 25-0166, a request for documents showing how the TGA's COVID-19 Vaccine Safety Monitoring Plan was implemented. | [![OAIC review status: pending](https://img.shields.io/static/v1?label=Status&message=Pending&color=orange)](primary-sources/oaic/MR25-01153/README.md) | 6 July 2026: the OAIC advised that the review is awaiting allocation to a review adviser for case management. |
-| Commonwealth Ombudsman complaint [2025-806374](primary-sources/ombudsman/README.md)<br>Complaint about the TGA's contradictory positions and its handling of FOI 25-0166 and FOI 3643. | [![Ombudsman complaint status: pending](https://img.shields.io/static/v1?label=Status&message=Pending&color=orange)](primary-sources/ombudsman/README.md) | 18 September 2026: the Ombudsman advised that the complaint had been referred for further consideration within the Office. |
+| Commonwealth Ombudsman complaint [2025-806374](primary-sources/ombudsman/README.md)<br>Complaint about the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). | [![Ombudsman complaint status: pending](https://img.shields.io/static/v1?label=Status&message=Pending&color=orange)](primary-sources/ombudsman/README.md) | 18 September 2026: the Ombudsman advised that the complaint had been referred for further consideration within the Office. |
 | FOI [27-3717](primary-sources/foi/foi-27-3717/README.md)<br>FOI request to the TGA for documents on AusVaxSafety COVID-19 vaccine safety signals. | [![FOI 27-3717 status: consultation](https://img.shields.io/static/v1?label=Status&message=Consultation&color=orange)](primary-sources/foi/foi-27-3717/README.md) | 15 October 2026: the applicant proposed six signal groups in response to the TGA's scope consultation, which closes 26 October 2026. |
 
 ---
@@ -45,7 +45,7 @@ FOI request to the TGA for documents on AusVaxSafety COVID-19 vaccine safety sig
 
 ### 18 September 2026: Ombudsman refers complaint for further consideration
 
-Complaint about the TGA's handling of FOI 25-0166 and FOI 3643. The Ombudsman referred complaint 2025-806374 for further consideration within the Office. See the [Ombudsman folder](primary-sources/ombudsman/README.md).
+Complaint about the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). The Ombudsman referred complaint 2025-806374 for further consideration within the Office. See the [Ombudsman folder](primary-sources/ombudsman/README.md).
 
 ### 16 September 2026: FOI 27-3717 lodged
 
@@ -53,7 +53,7 @@ FOI request to the TGA for documents on AusVaxSafety COVID-19 vaccine safety sig
 
 ### 1 September 2026: Supporting material resubmitted to the Ombudsman
 
-Complaint 2025-806374 about the TGA's handling of FOI 25-0166 and FOI 3643. The applicant resubmitted supporting material to the Ombudsman after the original attachments were recorded as corrupted.
+Complaint about the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). The applicant resubmitted supporting material to the Ombudsman after the original attachments were recorded as corrupted.
 
 ### 6 July 2026: OAIC review awaiting allocation
 
