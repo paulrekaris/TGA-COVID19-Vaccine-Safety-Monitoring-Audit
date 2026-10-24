@@ -77,6 +77,7 @@
 - Updated the Commonwealth Ombudsman entry to record further consideration of complaint 2025-806374.
 - Added NEWS.md, a dated log of OAIC, Ombudsman and FOI developments and audit releases with a status table, linked from the README by a Latest News badge, and a GitHub Actions workflow that updates its "Last updated" line.
 - Regulatory accountability framework diagram: added the November 2020 date to the policy box.
+- Revised the description of Ombudsman complaint 2025-806374 to the OAIC's administrative handling of IC review MR22/00538 (FOI 3643).
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
