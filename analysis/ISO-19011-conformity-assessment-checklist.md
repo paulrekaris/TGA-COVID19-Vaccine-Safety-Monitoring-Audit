@@ -176,7 +176,7 @@ This audit provides **reasonable assurance** (not absolute certainty) based on s
 **Audit context.**
 
 - 68.4 million COVID-19 vaccine doses were administered under provisional approval (about 91 per cent of Australia's total rollout).
-- Provisional approval rested on enhanced post-market surveillance and on "active and comprehensive" monitoring commitments.
+- Provisional approval rested on enhanced post-market surveillance and on active and comprehensive monitoring commitments.
 - The February 2021 Plan specifies 17 numbered strategies. Two governance and performance-measurement outputs were added for assessment, reflecting standard public-administration obligations.
 - National Cabinet and bilateral agreements formalised the monitoring and reporting obligations.
 
@@ -392,7 +392,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Criterion.** Consistency between public communication and formal policy commitment.
 
-**Evidence.** 3 February 2021 departmental video: COVID-19 vaccines "will be no different" from routine surveillance. February 2021 Plan: "enhanced" monitoring across 17 strategies. National Cabinet (November 2020): "active and comprehensive" monitoring. Bilateral agreements (February 2021): enhanced monitoring and systematic reporting. October 2025 Senate evidence: routine "day-to-day processes".
+**Evidence.** 3 February 2021 departmental video: COVID-19 vaccines "will be no different" from routine surveillance. February 2021 Plan: "enhanced" monitoring across 17 strategies. National Cabinet (November 2020): active and comprehensive monitoring. Bilateral agreements (February 2021): enhanced monitoring and systematic reporting. October 2025 Senate evidence: routine "day-to-day processes".
 
 **Finding.** Major non-conformity. The public "no different" message and the formal "enhanced" commitment cannot both be operationally true. The TGA's own later characterisation aligns with "no different", leaving the "enhanced" commitment unevidenced as a distinct, tracked framework. Three interpretations are open: the public was assured of more than was operationalised; the commitments were aspirational; or the TGA could not articulate what distinguished enhanced from routine. Each points to the same documentary outcome.
 
