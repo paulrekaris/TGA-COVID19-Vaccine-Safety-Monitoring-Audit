@@ -437,7 +437,7 @@ This positioned COVID-19 monitoring as identical to routine surveillance.
 
 Formal commitments painted a different picture:
 
-- **National Cabinet** (November 2020): Promised "active and comprehensive" monitoring for provisional approvals
+- **National Cabinet** (November 2020): Promised active and comprehensive monitoring for provisional approvals
 - **Bilateral Agreements** (February 2021): Established governance requirements for safety monitoring and adverse event reporting
 
 The TGA's own planning documents reinforced this commitment:
@@ -568,7 +568,7 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that
   
 ### Enhanced Monitoring as Defined by the Plan
 
-The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to "active and comprehensive" monitoring and was embedded in bilateral agreements as the authoritative framework for provisional approval oversight.
+The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to active and comprehensive monitoring and was embedded in bilateral agreements as the authoritative framework for provisional approval oversight.
 
 The underlying policy and Cabinet governance documents supporting this national commitment are archived [here](primary-sources/aust-gov-policy/).
 
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 24 October 2026  
+**Last Updated:** 26 October 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
