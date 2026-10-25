@@ -14,7 +14,7 @@
 ## Significance
 
 Published **same month** as TGA Safety Monitoring Plan (Feb 2021), contradicts:
-- National Cabinet "active and comprehensive" (Nov 2020)
+- National Cabinet active and comprehensive (Nov 2020)
 - TGA 17-strategy enhanced Plan  
 - Bilateral agreements' quarterly reporting
 
