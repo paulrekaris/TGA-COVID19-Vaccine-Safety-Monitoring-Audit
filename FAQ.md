@@ -57,7 +57,7 @@ For more information please see: [Open Review Architecture](audit-governance/ope
 ## The Promise
 
 **Cabinet Commitment (November 2020)**  
-National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to “active and comprehensive” post-market safety monitoring through a TGA-led pharmacovigilance framework. The policy document described TGA’s planned approach:
+National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to active and comprehensive post-market safety monitoring through a TGA-led pharmacovigilance framework. The policy document described TGA’s planned approach:
 
 > “The TGA has developed a COVID-19 Vaccine Pharmacovigilance Plan that builds on its already well-established Adverse Events Monitoring System (AEMS) by improving capacity and capability for adverse event reporting to the TGA by state and territory health departments, expanding active surveillance systems for COVID-19 vaccines and enhancing existing processes for safety signal detection and investigation, public communications and implementation of regulatory and programmatic responses. International collaboration and building on existing partnerships with organisations in Australia that have high-level technical expertise in vaccine safety are also core elements of the plan.”— Australian COVID-19 Vaccination Policy, 13 November 2020, p. 13
 
@@ -212,7 +212,7 @@ Around 15 minutes is sufficient to grasp the main findings and their implication
 
 ### Q1: What is this audit about?
 
-This audit assesses whether Australia’s Therapeutic Goods Administration (TGA) systematically implemented the COVID-19 Vaccine Safety Monitoring Plan it published in February 2021. This Plan operationalised a National Cabinet-endorsed policy commitment requiring “active and comprehensive” post-market safety monitoring for COVID-19 vaccines administered under provisional approval.
+This audit assesses whether Australia’s Therapeutic Goods Administration (TGA) systematically implemented the COVID-19 Vaccine Safety Monitoring Plan it published in February 2021. This Plan operationalised a National Cabinet-endorsed policy commitment requiring active and comprehensive post-market safety monitoring for COVID-19 vaccines administered under provisional approval.
 
 ### Q2: What did I find?
 
@@ -287,7 +287,7 @@ Enhanced safety monitoring is a higher standard, expected as the compensating sa
 
 ### Q7: What was the Cabinet policy commitment?
 
-On 13 November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which formally committed the Commonwealth Government to “active and comprehensive” post-market safety monitoring of COVID-19 vaccines. Page 13 of this policy document anticipated delivery through a TGA-developed COVID-19 Vaccine Pharmacovigilance Plan.
+On 13 November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which formally committed the Commonwealth Government to active and comprehensive post-market safety monitoring of COVID-19 vaccines. Page 13 of this policy document anticipated delivery through a TGA-developed COVID-19 Vaccine Pharmacovigilance Plan.
 
 This was Cabinet-endorsed policy requiring TGA to develop and implement an operational pharmacovigilance framework—not mere guidance, but a formal government commitment requiring demonstrable delivery.
 
@@ -775,7 +775,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 24 October 2026   
+**Last Updated:** 26 October 2026   
 **Licence:** CC BY 4.0
 
 
