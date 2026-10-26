@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 24 October 2026
+**Last updated:** 26 October 2026
 
 
 ---
@@ -77,7 +77,8 @@
 - Updated the Commonwealth Ombudsman entry to record further consideration of complaint 2025-806374.
 - Added NEWS.md, a dated log of OAIC, Ombudsman and FOI developments and audit releases with a status table, linked from the README by a Latest News badge, and a GitHub Actions workflow that updates its "Last updated" line.
 - Regulatory accountability framework diagram: added the November 2020 date to the policy box.
-- Revised the description of Ombudsman complaint 2025-806374 to the OAIC's administrative handling of IC review MR22/00538 (FOI 3643).
+- Revised the description of Ombudsman complaint 2025-806374 to the OAIC's administrative handling of IC review MR22/00538 (FOI 3643
+- Added a Software Heritage archive record (capture of 25 October 2026) to the Blockchain and Archival Verification Records page, with badge and verification note.
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
