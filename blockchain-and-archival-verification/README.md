@@ -8,7 +8,7 @@ This audit is protected by multiple verification and archival methods including 
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz-C0392B?labelColor=C0392B)](https://osf.io/preprints/socarxiv/sb4gz) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) 
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave verify](https://img.shields.io/badge/Arweave-Verify%20on--chain-FF4E42)](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave retrieve](https://img.shields.io/badge/Arweave-Retrieve%20files-000000)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave verify](https://img.shields.io/badge/Arweave-Verify%20on--chain-FF4E42)](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave retrieve](https://img.shields.io/badge/Arweave-Retrieve%20files-000000)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5) [![Software Heritage](https://img.shields.io/badge/Software%20Heritage-25%20Oct%202026-E20026?labelColor=E20026)](https://archive.softwareheritage.org/swh:1:dir:8d902489f77d57e956c4ff57f9f7841c9014c01d;origin=https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit;visit=swh:1:snp:bb10a2a8bc810e93d84a82bf73c254de61c249f2;anchor=swh:1:rev:71f88b9791f44f15bff3b1b0b0f04351b9554fe8)
 
 ## Research Infrastructure Architecture
 
@@ -18,7 +18,7 @@ This audit is protected by multiple verification and archival methods including 
 | Research data preservation | Long-term access to evidence | Harvard Dataverse, Mendeley Data | Is the evidence independently accessible? |
 | Citable archival record | Stable scholarly citation | Zenodo DOI | Can it be precisely cited? |
 | Reproducibility and version control  | Transparency and independent replication, and version history | GitHub | Can the methodology be traced and replicated? |
-| Long-term preservation | Protection against loss or suppression | NLA, Internet Archive | Will it survive platform failure? |
+| Long-term preservation | Protection against loss or suppression | NLA, Internet Archive, Software Heritage | Will it survive platform failure? |
 | Cryptographic verification | Proof of existence and integrity | Bitcoin OpenTimestamps, Arweave | Did it exist at a specific point in time? |
 | Independent scholarly scrutiny | Evaluation by subject-matter experts | Journal peer review | Is the work sufficiently rigorous? |
 
@@ -36,6 +36,7 @@ This audit is protected by multiple verification and archival methods including 
 - [Arweave Permanent Storage](#arweave-permanent-storage)
 - [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
 - [Internet Archive – Direct Upload](#internet-archive--direct-upload)
+- [Software Heritage Archive](#software-heritage-archive)
 - [Combined Verification](#combined-verification)
 
 
@@ -312,6 +313,27 @@ To view historical snapshots:
 
 ---
 
+## Software Heritage Archive
+
+**Archived:** 25 October 2026, 00:48:50 UTC
+**Origin:** https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit
+**Snapshot:** swh:1:snp:bb10a2a8bc810e93d84a82bf73c254de61c249f2
+**Revision:** swh:1:rev:71f88b9791f44f15bff3b1b0b0f04351b9554fe8
+
+### Significance
+
+Software Heritage is a non-profit archive of public source code, launched by Inria in 2016 and supported by UNESCO. This is the first capture of the repository's contents and commit history. It was made at the audit author's request through the "Save code now" service. Later commits are not included until a further visit.
+
+### Access
+
+[Software Heritage permalink](https://archive.softwareheritage.org/swh:1:dir:8d902489f77d57e956c4ff57f9f7841c9014c01d;origin=https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit;visit=swh:1:snp:bb10a2a8bc810e93d84a82bf73c254de61c249f2;anchor=swh:1:rev:71f88b9791f44f15bff3b1b0b0f04351b9554fe8)
+
+### Verification
+
+The revision identifier is the git commit hash. Compare it with commit 71f88b9 on GitHub to confirm the capture matches the repository at that point.
+
+---
+
 ## Combined Verification
 
 This audit is protected by multiple independent verification methods:
@@ -325,6 +347,7 @@ This audit is protected by multiple independent verification methods:
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
+- **Software Heritage:** holds a capture of the repository and its history at revision 71f88b9, taken 25 October 2026
 - **GitHub:** Public version control with complete history
 
 **Dataset Paper:** The companion dataset paper and evidence matrix are separately archived at Zenodo (10.5281/zenodo.20175557) and SSRN (10.2139/ssrn.6610438).  
@@ -347,4 +370,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 15 October 2026
+**Last updated:** 26 October 2026
