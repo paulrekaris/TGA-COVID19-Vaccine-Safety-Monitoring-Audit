@@ -2,7 +2,7 @@ name: Export Traffic with Daily Summary and Email
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '17 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.12'
     
     - name: Install dependencies
       run: |
