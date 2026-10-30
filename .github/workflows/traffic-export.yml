@@ -11,23 +11,23 @@ jobs:
     
     steps:
     - name: Checkout traffic data repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: paulrekaris/TGA-Audit-Traffic-Data
         token: ${{ secrets.TRAFFIC_TOKEN }}
         path: traffic-repo
     
+    - name: Set date variable
+      run: echo "DATE_STR=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+    
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.12'
     
     - name: Install dependencies
       run: |
         pip install requests pandas
-    
-    - name: Set date variable
-      run: echo "DATE_STR=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
     
     - name: Export traffic data
       working-directory: traffic-repo
@@ -429,7 +429,7 @@ jobs:
         summary_parts = []
         summary_parts.append(sep)
         summary_parts.append("TGA AUDIT TRAFFIC SUMMARY")
-        summary_parts.append(now.strftime('%A, %d %B %Y'))
+        summary_parts.append(now_aest.strftime('%A, %d %B %Y'))
         summary_parts.append(f"Report generated: {aest_time_str} | Data through: {data_through_str}")
         summary_parts.append(sep)
         summary_parts.append("")
