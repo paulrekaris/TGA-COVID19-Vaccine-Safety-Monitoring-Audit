@@ -35,6 +35,14 @@ The purpose of this audit is best understood in the context of how the enhanced 
 
 ---
 
+## Why does this matter?
+
+When COVID-19 vaccines were provisionally approved for Australia's largest mass vaccination rollout, the National Cabinet-endorsed vaccination policy committed that the TGA would "actively and comprehensively monitor" them for safety. The TGA's COVID-19 Vaccine Safety Monitoring Plan (described in the policy as its pharmacovigilance plan), issued in February 2021, set out 19 specified outputs. 68.4 million doses followed.
+
+A commitment of that kind should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed. The audit did not identify a Plan-level record demonstrating this, leaving delivery of the National Cabinet commitment, and accountability for it, unable to be independently established.
+
+---
+
 ## What the audit found
 
 - **01** In September 2024, directed by the Office of the Australian Information Commissioner, the TGA's sample searches identified no Plan implementation records. The Commissioner found the report requested under FOI 3643 cannot be found or does not exist (Decision [2025] AICmr 54).
