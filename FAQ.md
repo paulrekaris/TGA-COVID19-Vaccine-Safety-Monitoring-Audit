@@ -118,7 +118,7 @@ The original OAIC decision (MR22/00538) has been noted in independent legal comm
 Enhanced monitoring formed part of the regulatory rationale for provisional approval and was among the public assurances given when mandates were imposed, yet its implementation cannot be verified through available documentation.
 
 **Why It Matters**  
-If the enhanced monitoring promised to Cabinet, Parliament and the public cannot be evidenced, the regulatory and policy framework for Australia’s largest deployment of provisionally approved medicines rested on an unverifiable assurance, despite Australia formally adopting international pharmacovigilance standards.
+If delivery of the monitoring committed to under the National Cabinet-endorsed policy, and set out as enhanced monitoring in the Plan, cannot be evidenced, the regulatory and policy framework for Australia’s largest deployment of provisionally approved medicines rested on an unverifiable assurance, despite Australia formally adopting international pharmacovigilance standards.
 
 -----
 
@@ -297,7 +297,7 @@ In February 2021, TGA published the COVID-19 Vaccine Safety Monitoring Plan as t
 
 ### Q9: What was AusVaxSafety’s enhanced role in the national vaccination rollout?
 
-The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly committed under Strategy 2.4 to collaboration with AusVaxSafety for SMS-based active surveillance as the “enhanced” monitoring component required under Cabinet-endorsed policy. This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Despite this scale of active surveillance data collection, TGA cannot demonstrate systematic integration of AusVaxSafety findings into signal detection and regulatory decision-making processes.
+The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly committed under Strategy 2.4 to collaboration with AusVaxSafety for SMS-based active surveillance. The Cabinet-endorsed policy describes the Plan as “expanding active surveillance systems for COVID-19 vaccines”, and anticipated that active surveillance programs would be “likely operated by AusVaxSafety”. This government-funded programme (via NCIRS) conducted 6.8 million SMS surveys, reported approximately 3 million adverse events, and documented 62,000 medical visits. Despite this scale of active surveillance data collection, TGA cannot demonstrate systematic integration of AusVaxSafety findings into signal detection and regulatory decision-making processes.
 
 ### Q10: What role did the states play in managing enhanced safety monitoring?
 
@@ -775,7 +775,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 26 October 2026   
+**Last Updated:** 1 November 2026   
 **Licence:** CC BY 4.0
 
 
