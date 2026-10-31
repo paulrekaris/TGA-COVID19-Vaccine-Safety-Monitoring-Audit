@@ -169,6 +169,14 @@ jobs:
         aest_time_str = now_aest.strftime('%-I:%M %p') + f' {aest_label}'
         yesterday_utc = now - timedelta(days=1)
         data_through_str = yesterday_utc.strftime('%A, %d %B %Y')
+        try:
+            _d = yesterday_utc
+            _start_utc = datetime(_d.year, _d.month, _d.day, tzinfo=timezone.utc)
+            _end_utc = _start_utc + timedelta(days=1) - timedelta(minutes=1)
+            _fmt = lambda t: t.astimezone(aest_tz).strftime('%-I:%M %p %a %-d %b')
+            window_str = f"Covers {_fmt(_start_utc)} to {_fmt(_end_utc)} (Melbourne time)"
+        except Exception:
+            window_str = "Window unavailable"
 
         print("Fetching traffic data...")
         
@@ -431,6 +439,7 @@ jobs:
         summary_parts.append("TGA AUDIT TRAFFIC SUMMARY")
         summary_parts.append(now_aest.strftime('%A, %d %B %Y'))
         summary_parts.append(f"Report generated: {aest_time_str} | Data through: {data_through_str}")
+        summary_parts.append(window_str)
         summary_parts.append(sep)
         summary_parts.append("")
         summary_parts.append("YESTERDAY'S ACTIVITY")
