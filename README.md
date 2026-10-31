@@ -167,7 +167,7 @@ This audit examines whether enhanced monitoring commitments were implemented and
 
 ## Scope clarification
 
-References in this repository to enhanced monitoring requirements and commitments mean those set out in the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan. They do not refer to conditions of registration imposed on individual sponsors under the *Therapeutic Goods Act 1989*, which are separate from the Plan. Sponsor conditions are considered where relevant to the broader regulatory context, but this audit does not assess compliance with individual sponsor conditions. Earlier versions and related documentation may use less differentiated terminology when describing the relationship between enhanced monitoring and the provisional-approval framework; the current version clarifies this distinction. The underlying evidence and audit findings are unchanged.
+References in this repository to enhanced monitoring requirements and commitments mean those set out in the TGA's February 2021 COVID-19 Vaccine Safety Monitoring Plan. They do not refer to conditions of registration imposed on individual sponsors under the *Therapeutic Goods Act 1989*, which are separate from the Plan. The National Cabinet-endorsed Australian COVID-19 Vaccination Policy states the commitment in its own words: the TGA "will actively and comprehensively monitor any COVID-19 vaccines for safety after they are supplied in Australia" (page 6). It describes the TGA's COVID-19 Vaccine Pharmacovigilance Plan as "enhancing existing processes for safety signal detection and investigation" (page 13). The February 2021 Plan sets out the strategies and outputs assessed by this audit, which treats it as the operational form of that commitment. The Plan uses the term "enhanced" in the titles of Strategies 1 and 2 and of outputs 1.1 to 1.5, 2.2 and 2.3. Sponsor conditions are considered where relevant to the broader regulatory context, but this audit does not assess compliance with individual sponsor conditions.
 
 ## Australian Senate Citation
 
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 26 October 2026  
+**Last Updated:** 1 November 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
