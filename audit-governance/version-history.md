@@ -69,6 +69,7 @@
 - Evidence matrix, Output 2.8: revised to cite QON 2328 and FOI 4302-01, record the Department's statement that none of the child deaths met the VSIG criteria as not testable, and state the WHO-alignment claim as not verified. The README sheet now defines Status as what the public documentary record shows, not whether an activity occurred, and the Summary sheet defines the 1 to 5 severity scale as the significance of the documentation gap.
 - Dataset codebook: noted that grading on a quantitative scale (here 1 to 5) is contemplated by ISO 19011:2018, cl. 6.4.8.
 - ISO checklist: revised the Output 2.8 evidence and rating summary for QON 2328 and FOI 4302-01, and added references for Services Australia QB25-000044 and FOI 4302-01.
+- Audit report: corrected the wording and verb agreement of the verification impossibility sentence (page 28) and updated the cover date to November 2026.
 
 ### Overview page, README and FAQ wording
 
