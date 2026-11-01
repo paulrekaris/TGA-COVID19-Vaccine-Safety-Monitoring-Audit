@@ -72,7 +72,7 @@
 
 ### Overview page, README and FAQ wording
 
-- Overview page (HTML and markdown): added a "Why does this matter?" section before the findings. Reworded the FAQ heading to "Didn't Australia already monitor vaccine safety?" in the page, structured data and markdown, dropping "extensive", which the audit does not assess.
+- Overview page (HTML and markdown): added a "Why does this matter?" section before the findings. Reworded the FAQ heading to "Didn't Australia already monitor vaccine safety?" in the page, structured data and markdown, dropping "extensive", which the audit does not assess. Changed the eyebrow line to "Documentary audit" and added a timestamped video link to the 9 October 2025 Senate evidence.
 - README, Scope clarification, and FAQ: now quote the Australian COVID-19 Vaccination Policy's own wording on the monitoring commitment (pages 6 and 13) and record where the Plan uses "enhanced" (Strategies 1 and 2, outputs 1.1 to 1.5, 2.2 and 2.3). The audit treats the Plan as the operational form of that commitment. The sponsor scope statement is unchanged.
 
 ### Sources and records
