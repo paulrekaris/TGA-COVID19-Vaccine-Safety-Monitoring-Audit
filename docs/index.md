@@ -47,7 +47,7 @@ A commitment of that kind should leave a record showing what was delivered, who 
 
 - **01** In September 2024, directed by the Office of the Australian Information Commissioner, the TGA's sample searches identified no Plan implementation records. The Commissioner found the report requested under FOI 3643 cannot be found or does not exist (Decision [2025] AICmr 54).
 
-- **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes". The audit found no records tracking them against the Plan's objectives.
+- **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes", its "standard sort of process in terms of post market surveillance and pharmacovigilance". That describes routine monitoring, not the enhanced monitoring described in the Plan, and the audit found no records tracking them against the Plan's objectives.
 
 - **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals assessed and 57 regulatory actions undertaken; however, the response does not provide traceability between individual safety signal assessments and corresponding regulatory actions or decisions. The response provides no signal-management documentation demonstrating how safety-signal evaluation outcomes are linked to the reported pharmacovigilance activities or how the Plan's 17 numbered strategy items were monitored.
 
