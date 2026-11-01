@@ -36,6 +36,9 @@ Asked whether the COVID-19 Vaccine Safety Monitoring Plan (February 2021) was us
 
 7. **Acknowledged difficulty**: "There would be some difficulty in doing that" (producing documents organised by Plan)
 
+**Dr Dascombe's Response (verbatim, Hansard page 32):**
+> I would say that the TGA has ample documentation demonstrating compliance with the principles and objectives of that COVID vaccine safety monitoring plan. The five key elements that are articulated in that plan essentially describe the process of post market surveillance and safety investigation that our medicines and vaccine surveillance teams follow at the TGA every day. Whilst there is no single specific evaluation report outlining or benchmarking us against the elements of that plan, there is ample information in the public domain which provides evidence of compliance with the plan and underscores our commitment to transparency as a regulator. Since the time you mentioned, February 2021, and the start of the COVID vaccine rollout in Australia, the TGA has investigated 148 safety signals for COVID-19 vaccines. Updates have been made to product information and consumer medicine information documents on 57 occasions, representing regulatory actions taken by the TGA. The TGA's database of adverse event notification captures and reports on information reported by consumers, health professionals and jurisdictions in Australia. That's all publicly available. In addition, the TGA has released a number of documents under freedom of information. There have been 70 requests directed toward our branch since February 2021. To summarise, I would say that each of those elements is evidence of us working toward the principles and objectives contained in that.
+
 **Senator Antic's Follow-up:**
 - Noted documents exist that aren't in public domain
 - Proposed putting on notice request for those documents
@@ -50,4 +53,4 @@ This confirms monitoring was routine operations, not a distinct enhanced framewo
 
 Senate testimony is consistent with findings from FOI requests and OAIC reviews that Plan implementation was not tracked as a distinct framework despite Cabinet endorsement and provisional approval requirements. The characterisation of Plan strategies as "day-to-day processes" validates audit finding that enhanced monitoring was not implemented as operationally distinct from routine pharmacovigilance.
 
-**Last updated:** 16 October 2026
+**Last updated:** 1 November 2026
