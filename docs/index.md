@@ -63,7 +63,7 @@ A commitment of that kind should leave a record showing what was delivered, who 
 
 The audit found that 16 of 19 outputs are partially documented or undocumented, and the TGA's OAIC-directed sample searches identified no Plan implementation records.
 
-### Didn't Australia already have extensive vaccine safety monitoring?
+### Didn't Australia already monitor vaccine safety?
 
 Yes. The audit does not dispute that vaccine safety monitoring occurred. The TGA told the Senate it was part of its "day-to-day processes". It examines whether the enhanced monitoring promised under the National Cabinet-endorsed Australian COVID-19 Vaccination Policy, and subsequently set out in the TGA's February 2021 Plan, was implemented as committed and can be independently verified from the documentary record.
 
