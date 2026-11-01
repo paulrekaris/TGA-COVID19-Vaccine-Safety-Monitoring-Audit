@@ -85,6 +85,7 @@
 - Regulatory accountability framework diagram: added the November 2020 date to the policy box.
 - Revised the description of Ombudsman complaint 2025-806374 to the OAIC's administrative handling of IC review MR22/00538 (FOI 3643
 - Added a Software Heritage archive record (capture of 25 October 2026) to the Blockchain and Archival Verification Records page, with badge and verification note.
+- Senate evidence README: added Dr Dascombe's first answer to Senator Antic verbatim (Hansard, page 32), alongside the existing quotation of his second answer.
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
