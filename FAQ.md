@@ -105,7 +105,7 @@ TGA cannot produce documentation showing it delivered the enhanced-monitoring co
 The Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist.
 
 **Senate Admission**
-The TGA told the Senate in October 2025 that the Plan's five key themes "essentially describe our day-to-day processes". The audit found no records tracking those processes against the Plan's objectives.
+The TGA told the Senate in October 2025 that the Plan's five key themes "essentially describe our day-to-day processes", its "standard sort of process in terms of post market surveillance and pharmacovigilance". The audit found no records tracking those processes against the Plan's objectives.
 
 **Legal Commentary**
 The original OAIC decision (MR22/00538) has been noted in independent legal commentary (Sparke Helmore).
