@@ -4,7 +4,19 @@
 
 ## Phase 1: Content Finalisation (Always Required)
 - [ ] Finalise all content changes
-- [ ] Update version number and date in README and CITATION.ff
+- [ ] Search the repo for the old version number to catch anything missed
+- [ ] Update the version and the planned release date in:
+  - [ ] `README.md`: version badge, "(Version ...)" citation, BibTeX `version =`, "Document Version"
+  - [ ] `CITATION.cff`: `version:` and `date-released:`
+  - [ ] `PUBLICATIONS.md`: BibTeX `version =`
+  - [ ] `docs/index.md`: front matter `version:` and the footer
+  - [ ] `docs/index.html`: the footer
+  - [ ] `docs/llms.txt`: the `Version:` line
+  - [ ] `analysis/dataset-codebook.md`: "(v...)" in the opening text and in the "as at" sentence
+- [ ] Update dates: `docs/metadata.md` (`date_modified`), `docs/sitemap.xml` (`lastmod`), and the "Last Updated" lines in `README.md` and `FAQ.md`
+- [ ] In `version-history.md`, replace "Unreleased" in the heading and contents entry with the release date and update "Last updated". Leave the compare link at `HEAD` until the tag exists
+- [ ] Decide whether `NEWS.md` gets a release entry now or after the FOI decision
+- [ ] Draft the GitHub release notes and the Zenodo version notes
 - [ ] Document changes in version-history.md
 - [ ] Update archive notes in version-history.md and README to: "Zenodo DOI current. Blockchain and Arweave verification pending."
 - [ ] Review and test:
@@ -22,6 +34,8 @@
 - [ ] Push to GitHub: `git push origin v__________`
 - [ ] Create GitHub Release with appropriate title (triggers Zenodo upload automatically)
 - [ ] Verify new version appears under Concept DOI on Zenodo: `10.5281/zenodo.17731054`
+- [ ] In `version-history.md`, change the compare link to `previous...new` now that the tag exists
+- [ ] Record the version-specific Zenodo DOI
 
 ---
 
@@ -50,7 +64,14 @@
 - [ ] Upload Bitcoin timestamp verification PNG to `/blockchain-and-archival-verification/`
 - [ ] Upload permanent archive records PDF to `/blockchain-and-archival-verification/`
 - [ ] Update version-history.md with blockchain details
-- [ ] Update version-history.md archive note to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
+- [ ] Update the archive note in both version-history.md and the `README.md` "Archive:" line to: "Zenodo DOI current. Bitcoin timestamp: [tx]. Arweave: [ID]."
+- [ ] Upload the ZIP to the Internet Archive as `tga-covid-19-vaccine-safety-monitoring-audit-v-<version>`
+- [ ] Update the Internet Archive links in `FAQ.md` (two places) and `README.md`
+- [ ] Lodge the report PDF with NLA National edeposit and record the deposit ID
+- [ ] Add the new version's entry to `blockchain-and-archival-verification/README.md` and check whether the previous version's entry is missing
+- [ ] Regenerate the permanent archive records PDF with the new NED ID, Zenodo version DOI and dates
+- [ ] Update the "Permanent record" entries on `docs/index.html` and `docs/index.md`
+- [ ] Re-capture the repo in Software Heritage
 - [ ] Update GitHub Release notes with blockchain verification metadata
 - [ ] Commit: `"vX.X.X: Add blockchain verification"`
 - [ ] Push blockchain verification updates
@@ -113,4 +134,4 @@ This workflow checklist aligns with the following frameworks:
 
 ---
 
-**Last Updated:** 15 October 2026
+**Last Updated:** 1 November 2026
