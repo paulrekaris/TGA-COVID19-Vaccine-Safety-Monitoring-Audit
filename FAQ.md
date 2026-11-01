@@ -547,7 +547,7 @@ Of the 19 audited outputs assessed:
 
 ### Q24: Couldn’t TGA have done the monitoring without formal tracking?
 
-No. Provisional approval is designed around **enhanced monitoring beyond routine surveillance** with demonstrable verification. The term “enhanced” implies something additional to standard processes. Describing this as “day-to-day processes” that were never systematically tracked contradicts the enhanced monitoring requirement.
+No. The Plan describes **enhanced monitoring beyond routine surveillance**, and the audit tests whether its delivery can be verified. The term “enhanced” implies something additional to standard processes. The TGA’s description of the Plan’s themes as “day-to-day processes”, never systematically tracked, does not fit the enhanced monitoring described in the Plan.
 
 Without separate tracking, audit trails, and verification documentation, delivery of the Plan's enhanced-monitoring commitments cannot be proven. The absence of systematic tracking means there’s no way to distinguish between routine surveillance (which exists for all medicines) and the enhanced monitoring that was the stated basis on which provisional approval of these vaccines proceeded.
 
