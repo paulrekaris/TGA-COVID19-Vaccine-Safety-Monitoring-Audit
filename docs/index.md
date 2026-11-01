@@ -113,13 +113,13 @@ Bitcoin timestamp point-in-time proof of the audit's existence and integrity · 
 
 ## Cited and corroborated
 
-Australian Senate Hansard, 24 March 2026 — [cited in the Senate](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003) · [watch the speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900).
-
 Office of the Australian Information Commissioner, [Decision [2025] AICmr 54](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=) (26 March 2025).
 
 TGA evidence to the Senate Community Affairs Legislation Committee, [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) (9 October 2025) · [watch the evidence](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s).
 
-TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584).
+TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584), December 2025.
+
+Australian Senate Hansard, 24 March 2026: audit [cited in the Senate](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003) · [watch the speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900).
 
 [Read the full audit and evidence base →](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)
 
