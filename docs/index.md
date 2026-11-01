@@ -9,7 +9,7 @@ licence: CC BY 4.0
 orcid: https://orcid.org/0009-0000-1338-9578
 ---
 
-Independent audit · ISO 19011:2018
+Documentary audit · ISO 19011:2018
 
 # Australia's COVID-19 Vaccine Safety Monitoring: An Independent Audit
 
