@@ -576,7 +576,7 @@ Reasons: 7 major non-conformities documented with objective evidence; only 16 pe
 
 ### Scale and Context
 
-The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval rests on reduced pre-market evidence, and enhanced post-market monitoring was presented as the compensating safeguard, with the Australian COVID-19 Vaccination Policy committing to "actively and comprehensively monitor" the vaccines and the TGA's Plan setting out the enhanced framework. The documentation gaps are recorded in the TGA's own OAIC-directed sample searches (September 2024), in OAIC Decision [2025] AICmr 54 (for the report requested under FOI 3643), in a keyword review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026,
+The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and 23 July 2023. Provisional approval rests on reduced pre-market evidence, and enhanced post-market monitoring was presented as the compensating safeguard, with the Australian COVID-19 Vaccination Policy committing to "actively and comprehensively monitor" the vaccines and the TGA's Plan setting out the enhanced framework. The documentation gaps are recorded in the TGA's own OAIC-directed sample searches (September 2024), in OAIC Decision [2025] AICmr 54 (for the report requested under FOI 3643), in a keyword review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026,
 
 ---
 
@@ -853,7 +853,6 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Version 2.0:** released 5 August 2026  
 **Last updated:** 3 November 2026
 
 [Back to top](#table-of-contents)
