@@ -71,7 +71,7 @@ The Plan gave operational form to a national commitment to enhanced safety monit
 
 ### Who conducted this research?
 
-The audit was conducted independently by Paul Rekaris, a public policy analyst. It applies the international auditing standard ISO 19011:2018 to public and freedom-of-information records. The research has been cited in the Australian Senate and provided for consideration to the Senate Community Affairs Legislation Committee and the Australian National Audit Office. It is an independent citizen audit and invites a formal audit of its findings.
+The audit was conducted by Paul Rekaris, an independent policy researcher. It applies the international auditing standard ISO 19011:2018 to public and freedom-of-information records. The research has been cited in the Australian Senate and provided for consideration to the Senate Community Affairs Legislation Committee and the Australian National Audit Office. It is an independent citizen audit and invites a formal audit of its findings.
 
 ### Can the findings be checked?
 
@@ -125,5 +125,5 @@ Australian Senate Hansard, 24 March 2026: audit [cited in the Senate](https://ww
 
 ---
 
-© 2026 Paul Rekaris · Independent researcher · ORCID [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
+© 2026 Paul Rekaris · Independent policy researcher · ORCID [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)
 Licensed CC BY 4.0 · Version 1.9.6, October 2026 · [Project metadata](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/docs/metadata.md)
