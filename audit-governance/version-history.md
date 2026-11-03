@@ -60,7 +60,8 @@
 - README, TIMELINE, QON 559 gap analysis, FOI index, ISO checklist, surveillance analysis and audit report: clarified that the 399-document figure was the TGA's initial estimate, aligned quotations from the decision to verbatim text or paraphrase, and attributed the September 2024 "non-exhaustive" description to the TGA.
 - Refined the quotation of AICmr 54 (documents "cannot be found or do not exist") across the README, TIMELINE, reference documents and metadata, and updated the case name in docs/metadata.md to AUQ and Department of Health and Aged Care.
 - FAQ, slide deck and one-page flowchart: the TGA's reason for refusing FOI 25-0166 is now quoted as "subjective interpretation" (decision, paragraphs 6 and 23), replacing the paraphrase "too subjective".
-- FOI 3643 and OAIC records: the FOI README, ISO checklist, evidence matrix, audit report and slide deck now quote the TGA's decision (paragraph 7: the TGA "does not hold an ‘implementation report’"), its 23 February 2022 email ("we are just entering a phase of reviewing and identifying lessons now") and its September 2024 OAIC submission (Attachment D, pp.24-25) directly.
+- FOI 3643 and OAIC records: the FOI README, ISO checklist, evidence matrix, audit report, slide deck and one-page flowchart now quote the TGA's decision (paragraph 7: the TGA "does not hold an ‘implementation report’"), its 23 February 2022 email ("we are just entering a phase of reviewing and identifying lessons now") and its September 2024 OAIC submission (Attachment D, pp.24-25) directly.
+- FOI 25-0166 analysis: the TGA's 24 April 2025 remark is now quoted in full ("may be manageable pending further searches") and limited to items 1(b) and 1(c).
 
 ### Compensation analysis
 
