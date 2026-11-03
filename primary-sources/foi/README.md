@@ -23,7 +23,7 @@ Seven documents released in part relating to Pfizer's COMIRNATY BNT162b2 (mRNA) 
 
 Decision maker: Elspeth Kay, Assistant Secretary, Pharmacovigilance Branch. TRIM Reference: D22-5201218.
 
-TGA refuses access under s24A (no documents exist). Statutory admission: "No implementation report exists" (para 7). States "ample documentation" exists but no evaluation report (para 8).
+TGA refuses access under s24A (the document requested does not exist). Decision: the TGA "does not hold an ‘implementation report’" (para 7). States it has "ample documentation demonstrating compliance in those objectives" but "does not have a single, specific evaluation report outlining progress" (para 8).
 
 **Evidentiary significance:** This statutory admission forms Tier 1 primary evidence for Finding 1 (systematic tracking absence). The pattern of substituting routine pharmacovigilance outputs for Plan-specific enhanced monitoring evidence supports non-conformity findings across multiple audit areas.
 
@@ -131,5 +131,5 @@ TGA document describing the preliminary assessment of fatal adverse event report
 
 ---
 
-**Last Updated:** 22 October 2026  
+**Last Updated:** 3 November 2026  
 **Licence:** CC BY 4.0

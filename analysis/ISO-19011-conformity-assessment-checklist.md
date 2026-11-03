@@ -829,7 +829,7 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 31 Jan 2022 | Pre-FOI email 1 | "Robust monitoring" assurance; four generic links | None | No implementation evidence |
 | 18 Feb 2022 | Pre-FOI email 2 | Same four links and assurances | None | No Plan-specific information |
 | 18 Feb 2022 | FOI 3643 request | Seeks implementation report against five objectives | Yes | Formal FOI process begins |
-| 27 Feb 2022 | FOI 3643 decision | Refusal under s 24A; "no implementation report exists"; "ample documentation" but no evaluation report | Mentions objectives, no evidence | No progress report provided |
+| 27 Feb 2022 | FOI 3643 decision | Refusal under s 24A; TGA "does not hold an ‘implementation report’"; "ample documentation" but no "single, specific evaluation report" | Mentions objectives, no evidence | No progress report provided |
 | 2022-2024 | OAIC review MR22/00538 | Applicant seeks IC review | Whether all reasonable steps taken | OAIC investigation opens |
 | 9 Aug 2024 | OAIC directions | Directs further searches and detailed evidence | Yes | Triggers TRIM search programme |
 | 20 Sep 2024 | OAIC submission | 8 terms; one term returned 531+ containers; Department estimate 2,218+ pages; no implementation reports | Searches by objective; no sample search run for Objective 5 (Table 1, item 5) | No implementation or governance documentation located in the sample searches run |
