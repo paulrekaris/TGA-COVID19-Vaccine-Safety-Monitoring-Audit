@@ -14,8 +14,13 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - FOI request submitted to the Department of Health and Aged Care requesting an implementation report on the COVID-19 Vaccine Safety Monitoring Plan against its five key objectives (FOI 3643)
 - Department refuses access on 27 February 2022 — no implementation report exists
 - Department acknowledges "ample documentation" exists but does not identify Plan-specific implementation records
-- IC review MR22/00538 lodged; OAIC proceedings continue through 2022–2023 with submissions, directions, and notices issued to the Department
 - [FOI 3643 primary sources](primary-sources/foi/foi-3643) | [FOI primary sources index](primary-sources/foi/README.md) | [OAIC MR22/00538 primary sources](primary-sources/oaic/MR22-00538/README.md)
+
+**25 March 2022**
+- IC review MR22/00538 lodged; OAIC proceedings continue through 2022–2023 with submissions, directions, and notices issued to the Department
+
+**28 July 2022**
+- TGA's letter to the OAIC (MR22/00538) repeats that the TGA "has ample documentation demonstrating compliance in those objectives" but "does not have a single, specific evaluation report outlining progress", and supplies its 23 February 2022 internal email ("we are just entering a phase of reviewing and identifying lessons now"). It states that no notes or other records of searches were kept (para 7)
 
 
 ---
@@ -45,13 +50,13 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - Decision published on AustLII — permanent legal record
 - [AICmr 54 — AustLII](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html) | [OAIC MR22/00538 primary sources](primary-sources/oaic/MR22-00538/README.md)
 
+**1 April 2025**
+- **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding the OAIC's administrative handling of IC review MR22/00538 (FOI 3643)
+- [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
+
 **April 2025**
 - **FOI 25-0166** — In its consultation notice (24 April 2025), TGA's line areas identified "more than 399 documents containing 3,926 pages" in scope of the request, with the total "likely to be higher." TGA then refused a refined request on practical-refusal grounds (3 June 2025), stating that identifying documents by Plan objective would require "subjective interpretation" because they had "not been previously identified or related to that objective."
 - [FOI 25-0166 analysis](primary-sources/foi/foi-25-0166/foi-25-0166-analysis.md)
-  
-
-- **Commonwealth Ombudsman complaint lodged** (ref: 2025-806374) — regarding the OAIC's administrative handling of IC review MR22/00538 (FOI 3643)
-- [Commonwealth Ombudsman](https://www.ombudsman.gov.au) | [Ombudsman primary sources](primary-sources/ombudsman/README.md)
 
 **11 May 2025**
 - Sparke Helmore case note — published independent legal analysis of AICmr 54 confirming that the requested implementation report "cannot be found or [does] not exist" as a matter of administrative law
@@ -100,7 +105,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 ## Pending
 
-IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of MR22/00538 (February 2022 → March 2025, approximately three years), a determination is not anticipated before mid-2027 at the earliest. This review challenges TGA's practical refusal under FOI 25-0166 of a request seeking documents demonstrating implementation of each Plan objective.
+IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of MR22/00538 (March 2022 → March 2025, approximately three years), a determination is not anticipated before mid-2027 at the earliest. This review challenges TGA's practical refusal under FOI 25-0166 of a request seeking documents demonstrating implementation of each Plan objective.
 - [OAIC MR25/01153 primary sources](primary-sources/oaic/MR25-01153/README.md)
 
 **Commonwealth Ombudsman** (complaint 2025-806374, lodged 1 April 2025) — supporting material resubmitted on 1 September 2026; further resubmission requested after documents returned through the Ombudsman complaint portal were found to be zero KB. The matter has been escalated to the next stage of review.
@@ -111,11 +116,11 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 | Date | Event |
 |---|---|
 | February 2022 | FOI 3643 submitted; refused — no implementation report exists |
-| February 2022 | IC review MR22/00538 lodged |
+| 25 March 2022 | IC review MR22/00538 lodged |
 | September 2024 | TGA runs sample searches, one term returning 531+ TRIM containers; identifies no Plan implementation records |
 | 26 March 2025 | OAIC AICmr 54 — documents "cannot be found or do not exist" |
-| April–June 2025 | FOI 25-0166 — practical refusal (3 June); documents not previously identified against Plan objectives |
 | 1 April 2025 | Commonwealth Ombudsman complaint lodged (2025-806374) |
+| April–June 2025 | FOI 25-0166 — practical refusal (3 June); documents not previously identified against Plan objectives |
 | June 2025 | IC review MR25/01153 lodged |
 | 9 October 2025 | Senate testimony: the TGA said the Plan's five key themes "essentially describe our day-to-day processes" |
 | 17 October 2025 | QON SQ25-001584 placed on notice |
@@ -129,4 +134,4 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 3 November 2026
+**Last updated:** 4 November 2026

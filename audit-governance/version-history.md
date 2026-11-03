@@ -84,6 +84,7 @@
 
 ### Sources and records
 
+- TIMELINE: added the TGA's 28 July 2022 letter to the OAIC, dated IC review MR22/00538 to its lodgement on 25 March 2022, and moved the Ombudsman complaint to its own 1 April 2025 entry.
 - Added FOI 4302-01 (AEMDS preliminary fatal case assessment) to the primary-source archive.
 - Added FOI 27-3717 (AusVaxSafety signals; lodged 16 September 2026) to the FOI index and recorded the TGA's consultation notice of 12 October 2026. The entry records the request only; no findings from it are included.
 - Updated the Commonwealth Ombudsman entry to record further consideration of complaint 2025-806374.
