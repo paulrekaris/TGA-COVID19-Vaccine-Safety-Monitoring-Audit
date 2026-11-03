@@ -235,8 +235,10 @@ Audit criteria (ISO 19011:2018, 3.7; criteria for an individual audit, 5.5.2) ar
 **Primary criteria (bind the auditee).**
 
 1. The TGA COVID-19 Vaccine Safety Monitoring Plan (February 2021): the auditee's own published commitments, 17 strategies plus the two governance outputs.
-2. The TGA's provisional-registration framework under the Therapeutic Goods Act 1989: enhanced post-market monitoring as the compensating safeguard on which provisional approval proceeded.
+2. The Australian COVID-19 Vaccination Policy (National Cabinet-endorsed, November 2020): the commitment to "actively and comprehensively monitor" the vaccines, presented as the compensating safeguard associated with provisional approval, which the TGA's Plan was published to operationalise.
 3. Commonwealth records and performance obligations applying to the Department of Health and Aged Care, the Commonwealth entity within which the TGA operates: PGPA Act 2013 s 37 (records that properly record and explain the entity's performance in achieving its purposes), s 38 (measure and assess performance) and s 39 (annual performance statements); PGPA Rule s 16F(2) (content of performance statements); Archives Act 1983 s 24 (prohibition on unauthorised disposal of Commonwealth records) and the National Archives Information Management Standard (the positive duty to keep records documenting activities); FOI Act 1982 s 24A (reasonable-steps search obligation).
+
+The Therapeutic Goods Act 1989 provisional registration framework, including sponsor obligations and conditions of registration, is context for this audit and is out of scope as a criterion.
 
 **Benchmark criteria (recognised good practice, not asserted as binding).**
 
