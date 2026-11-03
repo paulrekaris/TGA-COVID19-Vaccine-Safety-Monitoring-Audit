@@ -573,7 +573,7 @@ Poor record-keeping would be a serious regulatory failure in itself, but the evi
 
 - **Records management is a legal requirement** under the Archives Act 1983 and Public Governance, Performance and Accountability Act 2013
 - **TGA demonstrated capability** estimated relevant pages by Plan objective for the Information Commissioner
-- **Same classification system was deemed “too subjective”** when a citizen requested documents using it
+- **Same classification system required “subjective interpretation”** when a citizen requested documents using it
 - **The TGA described** monitoring as "day-to-day processes", indicating no systematic tracking against Plan objectives
 
 This pattern indicates not poor record-keeping, but an absence of the systematic implementation framework itself. If activities were never tracked against Plan objectives, then records of that tracking cannot exist—because no such tracking is evidenced.
