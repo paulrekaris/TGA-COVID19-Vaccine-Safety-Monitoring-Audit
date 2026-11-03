@@ -52,6 +52,7 @@
 - Clarified Objective 5 (collaboration with other vaccine safety stakeholder groups). In its September 2024 submission to the OAIC (MR22/00538) the TGA said it was "unable to meaningfully interpret" the request as it applied to this objective, citing breadth of scope, and ran no sample search. This is a statement about breadth, not absence. The audit concludes that implementation of this objective cannot be traced or verified from the TGA's records.
 - Updated the date of the OAIC review application (MR25/01153) to 16 June 2025 in the ISO checklist and related pages, and marked the added word in the search officer's quotation (Attachment D, p. 29).
 - Aligned the README, FAQ, QON 559 analysis and black-box governance page with Dr Dascombe's exact evidence: the Plan's themes "essentially describe our day-to-day processes". The audit's inference is no longer attributed to him, and the "ample documentation" and evaluation-report statements are given as he said them. Findings unchanged.
+- TIMELINE, README and Senate evidence README: Dr Dascombe's "some difficulty" statement now refers to producing the documents sought and the "vast volume of documents" he gave as the reason, not documents "by Plan objective".
 
 ### FOI 25-0166 and AICmr 54
 
@@ -72,6 +73,8 @@
 - ISO checklist: revised the Output 2.8 evidence and rating summary for QON 2328 and FOI 4302-01, and added references for Services Australia QB25-000044 and FOI 4302-01.
 - Audit report: corrected the wording and verb agreement of the verification impossibility sentence (page 28) and updated the cover date to November 2026.
 - ISO checklist: criterion 2 now rests on the Australian COVID-19 Vaccination Policy, with the Therapeutic Goods Act provisional registration framework recorded as out of scope. The "compensating safeguard" rationale is attributed ("presented as"), evidence wording is more precise, and the dose period now ends on 23 July 2023.
+- Evidence matrix: Senate citations on the Rating Criteria, Evidence Matrix and Output Assessment sheets now quote his statements (the Plan's themes "essentially describe our day-to-day processes"; no "single specific evaluation report"). Removed a Senate citation from Output 2.4 that the Hansard does not support.
+- Audit report and slide deck: Senate wording aligned with the Hansard (report pages 11, 37 and 99; deck slides 6, 12, 13 and 16). The 9 October 2025 hearing is now named Supplementary Budget Estimates 2025–26 throughout the report, and the deck cover date and subtitle are updated.
 
 ### Overview page, README and FAQ wording
 
