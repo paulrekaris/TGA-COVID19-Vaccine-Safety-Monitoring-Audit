@@ -51,6 +51,6 @@ This is consistent with the audit finding that monitoring was not tracked as a d
 
 ### Significance for Audit
 
-Senate testimony is consistent with findings from FOI requests and OAIC reviews that Plan implementation was not tracked as a distinct framework despite Cabinet endorsement and provisional approval requirements. The characterisation of Plan strategies as "day-to-day processes" is consistent with the audit finding that the documentary record does not show enhanced monitoring was implemented as operationally distinct from routine pharmacovigilance.
+Senate testimony is consistent with findings from FOI requests and OAIC reviews that Plan implementation was not tracked as a distinct framework despite Cabinet endorsement and the role enhanced monitoring was intended to play alongside provisional approval. The characterisation of Plan strategies as "day-to-day processes" is consistent with the audit finding that the documentary record does not show enhanced monitoring was implemented as operationally distinct from routine pharmacovigilance.
 
 **Last updated:** 3 November 2026
