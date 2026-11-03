@@ -44,13 +44,13 @@ Asked whether the COVID-19 Vaccine Safety Monitoring Plan (February 2021) was us
 - Proposed putting on notice request for those documents
 - Stated: "These are just documents that show that adverse events reports were being done. This is a public document which in its essence was designed to give confidence to the Australian public that this pharmacovigilance was taking place."
 
-**Critical Admission:**
+**Key Statement:**
 > "The five key themes outlined in that report **essentially describe our day-to-day processes**. This is our standard sort of process in terms of post market surveillance and pharmacovigilance."
 
-This confirms monitoring was routine operations, not a distinct enhanced framework tracked against Plan objectives.
+This is consistent with the audit finding that monitoring was not tracked as a distinct enhanced framework against Plan objectives.
 
 ### Significance for Audit
 
-Senate testimony is consistent with findings from FOI requests and OAIC reviews that Plan implementation was not tracked as a distinct framework despite Cabinet endorsement and provisional approval requirements. The characterisation of Plan strategies as "day-to-day processes" validates audit finding that enhanced monitoring was not implemented as operationally distinct from routine pharmacovigilance.
+Senate testimony is consistent with findings from FOI requests and OAIC reviews that Plan implementation was not tracked as a distinct framework despite Cabinet endorsement and provisional approval requirements. The characterisation of Plan strategies as "day-to-day processes" is consistent with the audit finding that the documentary record does not show enhanced monitoring was implemented as operationally distinct from routine pharmacovigilance.
 
-**Last updated:** 1 November 2026
+**Last updated:** 3 November 2026
