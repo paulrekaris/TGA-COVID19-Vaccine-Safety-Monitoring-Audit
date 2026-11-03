@@ -108,7 +108,7 @@ Section 24AA(2) is expressly subject to subsection (3), which prohibits the agen
 However, TGA's prior demonstrated capability to estimate 2,218+ pages by Plan objectives for OAIC review (September 2024) raises questions about whether classifying 30 documents across 12 predefined categories constitutes an "unreasonable" diversion of resources, particularly when:
 - TGA had estimated pages by Plan objective nine months earlier
 - Applicant achieved a scope reduction of at least 87% in response to TGA's consultation suggestions
-- TGA had indicated refined items "may be manageable" in first consultation
+- TGA had indicated items 1(b) and 1(c) "may be manageable pending further searches" in first consultation
 
 ---
 
@@ -132,7 +132,7 @@ TGA's position on capability to classify documents by Plan objectives changed be
 - TGA characterised classification by Plan objectives as requiring "subjective interpretation"
 - Refused to process despite:
   - Substantial scope reduction
-  - TGA's own guidance that refined items "may be manageable"
+  - TGA's own suggestion that items 1(b) and 1(c) "may be manageable pending further searches"
   - Explicit definition of 12 document categories
   - Temporal scope limitation
 - Applied practical refusal provisions nine months after demonstrating comparable classification capability
@@ -155,7 +155,7 @@ The practical refusal occurred despite:
 - Document categories explicitly defined (12 categories)
 - Temporal scope limited (February 2021-February 2025)
 - Fallback provisions for incomplete categories included
-- TGA's initial indication that refined scope "may be manageable"
+- TGA's initial indication that items 1(b) and 1(c) "may be manageable pending further searches"
 
 ### Classification Capability Comparison
 
@@ -195,7 +195,7 @@ The progression demonstrates substantial applicant responsiveness to TGA consult
 - **At least 87% reduction from original estimate**
 - 12 explicitly defined categories
 
-Despite this scope reduction of at least 87% and TGA's initial guidance that refined items "may be manageable," TGA refused on grounds of subjectivity, nine months after estimating 2,218+ pages by the same Plan objectives for OAIC.
+Despite this scope reduction of at least 87% and TGA's earlier suggestion that items 1(b) and 1(c) "may be manageable pending further searches," TGA refused on grounds of subjectivity, nine months after estimating 2,218+ pages by the same Plan objectives for OAIC.
 
 ### Implications for Document Organisation
 
@@ -209,7 +209,7 @@ TGA's refusal on subjectivity grounds raises questions about:
 
 4. **Differential treatment:** Whether classification capability is applied differently for oversight bodies versus citizens
 
-5. **Consultation good faith:** Whether TGA's initial indication that refined scope "may be manageable" reflected genuine assessment or placeholder response
+5. **Consultation good faith:** Whether TGA's initial indication that items 1(b) and 1(c) "may be manageable pending further searches" reflected genuine assessment or placeholder response
 
 ---
 
@@ -270,13 +270,13 @@ Therapeutic Goods Administration. (2024). *Response to written notice and direct
 
 FOI 25-0166 demonstrates a documented contradiction in TGA's institutional position regarding capability to classify documents by COVID-19 Vaccine Safety Monitoring Plan objectives. TGA successfully performed this classification for the OAIC in September 2024 (an estimate of 2,218+ pages; one search term returned 531+ containers) but characterised a comparable task as impracticably subjective when requested by a citizen in June 2025, despite the applicant achieving a scope reduction of at least 87% (399+ documents to 50) in direct response to TGA's consultation guidance.
 
-The contradiction is particularly significant given TGA's initial indication (24 April 2025) that refined items "may be manageable," followed by refusal (3 June 2025) on subjectivity grounds after the applicant narrowed item 2 to 30 documents across 12 explicitly defined categories. This progression raises questions about whether the consultation process was conducted in good faith or whether the practical refusal outcome was predetermined regardless of scope refinement.
+The contradiction is particularly significant given TGA's initial indication (24 April 2025) that items 1(b) and 1(c) "may be manageable pending further searches," followed by refusal (3 June 2025) on subjectivity grounds after the applicant narrowed item 2 to 30 documents across 12 explicitly defined categories. This progression raises questions about whether the consultation process was conducted in good faith or whether the practical refusal outcome was predetermined regardless of scope refinement.
 
 This contradiction, combined with the search methodology inadequacy documented in OAIC MR22/00538, raises questions about whether TGA maintains implementation records in a manner that enables verification of Plan delivery, or whether institutional resistance to transparency prevents access to records that may exist.
 
 TGA's September 2024 estimate of 2,218+ pages by Plan objectives for OAIC review is evidence that classifying 30 documents by comparable criteria nine months later may not constitute a substantial and unreasonable diversion of resources, particularly when the applicant responded to TGA guidance with a scope reduction of at least 87%.
 
-The question of whether practical refusal provisions under s24(1)(b) can legitimately be applied to classification tasks TGA demonstrably performed for oversight bodies nine months earlier, and initially characterised as "may be manageable", remains for the OAIC or reviewing tribunals to determine. The documented capability to estimate 2,218+ relevant pages by Plan objectives for OAIC review provides a benchmark against which the "unreasonable diversion" claim for 30 documents can be assessed.
+The question of whether practical refusal provisions under s24(1)(b) can legitimately be applied to classification tasks TGA demonstrably performed for oversight bodies nine months earlier remains for the OAIC or reviewing tribunals to determine. The documented capability to estimate 2,218+ relevant pages by Plan objectives for OAIC review provides a benchmark against which the "unreasonable diversion" claim for 30 documents can be assessed.
 
 ---
 
