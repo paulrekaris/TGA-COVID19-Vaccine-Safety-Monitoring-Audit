@@ -51,6 +51,7 @@
 - Attributed the 9 October 2025 Senate Estimates statements on the Plan's themes and the absence of a single evaluation report to a single TGA official, quoted from Hansard. The audit's inference is stated in a separate sentence tied to its basis, across the README, TIMELINE, ISO checklist, docs pages, audit report and slide deck.
 - Clarified Objective 5 (collaboration with other vaccine safety stakeholder groups). In its September 2024 submission to the OAIC (MR22/00538) the TGA said it was "unable to meaningfully interpret" the request as it applied to this objective, citing breadth of scope, and ran no sample search. This is a statement about breadth, not absence. The audit concludes that implementation of this objective cannot be traced or verified from the TGA's records.
 - Updated the date of the OAIC review application (MR25/01153) to 16 June 2025 in the ISO checklist and related pages, and marked the added word in the search officer's quotation (Attachment D, p. 29).
+- Aligned the README, FAQ, QON 559 analysis and black-box governance page with Dr Dascombe's exact evidence: the Plan's themes "essentially describe our day-to-day processes". The audit's inference is no longer attributed to him, and the "ample documentation" and evaluation-report statements are given as he said them. Findings unchanged.
 
 ### FOI 25-0166 and AICmr 54
 
