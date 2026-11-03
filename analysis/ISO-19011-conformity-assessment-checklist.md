@@ -574,7 +574,7 @@ Reasons: 7 major non-conformities documented with objective evidence; only 16 pe
 
 ### Scale and Context
 
-The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval rests on reduced pre-market evidence, and the Australian COVID-19 Vaccination Policy committed to "actively and comprehensively monitor" the vaccines, with the TGA's Plan setting out the enhanced monitoring framework intended to operate alongside it. The documentation gaps are recorded in the TGA's own OAIC-directed sample searches (September 2024), in OAIC Decision [2025] AICmr 54 (for the report requested under FOI 3643), in a keyword review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026,
+The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval rests on reduced pre-market evidence, and enhanced post-market monitoring was presented as the compensating safeguard, with the Australian COVID-19 Vaccination Policy committing to "actively and comprehensively monitor" the vaccines and the TGA's Plan setting out the enhanced framework. The documentation gaps are recorded in the TGA's own OAIC-directed sample searches (September 2024), in OAIC Decision [2025] AICmr 54 (for the report requested under FOI 3643), in a keyword review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026,
 
 ---
 
@@ -812,7 +812,7 @@ Timeline:
 - Moderna Spikevax: provisional 9 August 2021; full registration 21 April 2023.
 - AstraZeneca Vaxzevria: provisional 15 February 2021; withdrawn April 2024.
 
-Significance: enhanced post-market safety monitoring was the safeguard the Australian COVID-19 Vaccination Policy committed to alongside provisional approval, operationalised in the February 2021 Plan. The scale of deployment heightened the materiality of documented Plan implementation as accountability evidence.
+Significance: enhanced post-market safety monitoring was presented as the compensating safeguard associated with provisional approval, operationalised in the February 2021 Plan. The scale of deployment heightened the materiality of documented Plan implementation as accountability evidence.
 
 Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Department of Health AIR data (10 October 2024); TGA COVID-19 vaccines regulatory status history.
 
