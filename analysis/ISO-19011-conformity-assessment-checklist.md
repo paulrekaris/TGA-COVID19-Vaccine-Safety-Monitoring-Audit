@@ -812,7 +812,7 @@ Timeline:
 - Moderna Spikevax: provisional 9 August 2021; full registration 21 April 2023.
 - AstraZeneca Vaxzevria: provisional 15 February 2021; withdrawn April 2024.
 
-Significance: enhanced post-market safety monitoring was the compensating safeguard on which provisional approval proceeded, operationalised in the February 2021 Plan. The scale of deployment heightened the materiality of documented Plan implementation as accountability evidence.
+Significance: enhanced post-market safety monitoring was the safeguard the Australian COVID-19 Vaccination Policy committed to alongside provisional approval, operationalised in the February 2021 Plan. The scale of deployment heightened the materiality of documented Plan implementation as accountability evidence.
 
 Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Department of Health AIR data (10 October 2024); TGA COVID-19 vaccines regulatory status history.
 
@@ -836,11 +836,11 @@ Sources: TGA COVID-19 Vaccine Safety Reports (29 June 2023, 27 July 2023); Depar
 | 24 Apr 2025 | FOI 25-0166 consultation notice | TGA identifies "more than 399 documents, 3,926 pages" in scope; total "likely to be higher" | In scope of request | s 24AB consultation; applicant invited to revise scope |
 | 3 Jun 2025 | FOI 25-0166 decision | Request refused (practical refusal, s 24(1)(b)), citing item 2's subjectivity; documents that "have not been previously identified or related to that objective" | None identified against Plan objectives | Refusal on identification/resource grounds |
 | 16 Jun 2025 | FOI 25-0166 to OAIC | Applicant seeks review | Reiterates need for implementation evidence | Second OAIC review opens |
-| 9 Oct 2025 | Senate estimates | The TGA said the Plan's five key themes "essentially describe our day-to-day processes" | Direct evidence on the Plan | Consistent with the audit's finding of no systematic tracking, senate testimony and OAIC decision |
+| 9 Oct 2025 | Senate estimates | The TGA said the Plan's five key themes "essentially describe our day-to-day processes" | Direct evidence on the Plan | Consistent with the audit's finding of no systematic tracking, and with the OAIC decision |
 
 ### Table D.2: Escalation Summary
 
-A four-year investigation (2022 to 2026) through escalating formal processes: initial inquiry (no Plan-specific evidence); formal FOI (no implementation report exists); OAIC review (triggers searches); OAIC-directed sample searches (one term returned 531+ containers; no implementation documents); OAIC decision (documents cannot be found or do not exist); refined FOI (practical refusal; documents not identified against Plan objectives); second OAIC review; and Senate evidence (never systematically tracked). Each escalation confirmed rather than resolved the documentation gap.
+A four-year investigation (2022 to 2026) through escalating formal processes: initial inquiry (no Plan-specific evidence); formal FOI (no implementation report exists); OAIC review (triggers searches); OAIC-directed sample searches (one term returned 531+ containers; no implementation documents); OAIC decision (documents cannot be found or do not exist); refined FOI (practical refusal; documents not identified against Plan objectives); second OAIC review; and Senate evidence (consistent with no systematic tracking). Each escalation confirmed rather than resolved the documentation gap.
 
 ---
 
