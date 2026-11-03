@@ -515,7 +515,7 @@ What they showed:
 
 What was absent: Operational mechanisms distinguishing COVID-19 monitoring from routine systems. No AusVaxSafety integration, no Plan's 17 strategies, no governance structures, no performance metrics—despite technical training for professionals.
 
-Four years later (October 2025), Senate testimony described the Plan as managed through "day-to-day processes" indicating no systematic tracking. The audit located no records tracking them against the Plan's objectives. OAIC searches found no Plan-specific implementation or governance records.
+Four years later (October 2025), Senate testimony said the Plan's themes "essentially describe our day-to-day processes", indicating no systematic tracking. The audit located no records tracking them against the Plan's objectives. OAIC searches found no Plan-specific implementation or governance records.
 
 The gap: Teaching materials showed routine pharmacovigilance with Safety Plan referenced aspirationally. Neither teaching materials nor FOI/OAIC processes produced evidence (workplans, governance minutes, KPI tracking, integration records) demonstrating enhanced monitoring existed as a distinct framework—despite being the stated basis on which provisional approval proceeded.
 
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 1 November 2026  
+**Last Updated:** 3 November 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
