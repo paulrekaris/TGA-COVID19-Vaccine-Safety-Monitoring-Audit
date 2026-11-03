@@ -463,7 +463,7 @@ Per ISO 19011:2018, 6.4.9, conclusions address the extent of conformity with the
 1. **Gap between commitment and delivery.** The Plan set out 17 strategies, but its structure did not support tracking (assessed against PGPA and ANAO obligations), TGA's description of monitoring as "day-to-day processes" indicates it was not systematically tracked, and only 3 of 19 outputs are fully documented.
 2. **Contradictory documentary evidence.** Inconsistent FOI positions on document existence and classification, recorded in FOI decisions and in the OAIC review (MR22/00538).
 3. **System-integration gap.** The major surveillance systems operated in parallel, with no documented coordination and no visible pathway from the survey responses to the signals and actions.
-4. **Expert warnings not addressed.** Pre-rollout expert findings (2020) and the same gaps confirmed years later, with no documented corrective programme. The VSIG/child deaths example concretely illustrates the gap between available expert mechanisms and systematic implementation.
+4. **Expert warnings not addressed.** Pre-rollout expert findings (2020) and the same gaps indicated years later, with no documented corrective programme. The VSIG/child deaths example concretely illustrates the gap between available expert mechanisms and systematic implementation.
 5. **Public-communication gap.** The February 2021 "no different" message and the formal "enhanced" commitment cannot both be operationally true.
 
 ---
@@ -570,11 +570,11 @@ Capability gaps requiring investment: data-linkage infrastructure; systematic pe
 
 **Conclusion: does not conform (7 major non-conformities).**
 
-Reasons: 7 major non-conformities documented with objective evidence; only 16 per cent of outputs fully documented; 84 per cent partially documented or not evidenced; the auditee's own evidence confirms the absence of systematic tracking; and OAIC Decision [2025] AICmr 54 accepted that the report requested under FOI 3643 cannot be found or does not exist. A corrective-action programme is recommended, covering systematic tracking and performance measurement, documentation standards, system integration, organisational learning, and transparency. A re-audit is recommended once corrective actions are implemented and objective evidence of conformity is provided.
+Reasons: 7 major non-conformities documented with objective evidence; only 16 per cent of outputs fully documented; 84 per cent partially documented or not evidenced; the auditee's own evidence confirms there is no documented systematic tracking; and OAIC Decision [2025] AICmr 54 accepted that the report requested under FOI 3643 cannot be found or does not exist. A corrective-action programme is recommended, covering systematic tracking and performance measurement, documentation standards, system integration, organisational learning, and transparency. A re-audit is recommended once corrective actions are implemented and objective evidence of conformity is provided.
 
 ### Scale and Context
 
-The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval under the Therapeutic Goods Act 1989 requires enhanced post-market monitoring to compensate for reduced pre-market evidence. The documentation gaps are recorded in the TGA's own OAIC-directed sample searches (September 2024), in OAIC Decision [2025] AICmr 54 (for the report requested under FOI 3643), in a keyword review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026,
+The finding concerns Australia's largest deployment of provisionally approved medicines: 68.4 million doses administered to 21.2 million people between February 2021 and June 2023. Provisional approval rests on reduced pre-market evidence, and the Australian COVID-19 Vaccination Policy committed to "actively and comprehensively monitor" the vaccines, with the TGA's Plan setting out the enhanced monitoring framework intended to operate alongside it. The documentation gaps are recorded in the TGA's own OAIC-directed sample searches (September 2024), in OAIC Decision [2025] AICmr 54 (for the report requested under FOI 3643), in a keyword review of 500+ FOI disclosure-log entries and 150+ published safety reports, and in Senate evidence (9 October 2025). As of October 2026,
 
 ---
 
@@ -852,7 +852,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
 **Version 2.0:** released 5 August 2026  
-**Last updated:** 26 October 2026
+**Last updated:** 3 November 2026
 
 [Back to top](#table-of-contents)
 
