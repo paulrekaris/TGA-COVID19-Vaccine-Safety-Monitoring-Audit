@@ -70,12 +70,14 @@
 - Dataset codebook: noted that grading on a quantitative scale (here 1 to 5) is contemplated by ISO 19011:2018, cl. 6.4.8.
 - ISO checklist: revised the Output 2.8 evidence and rating summary for QON 2328 and FOI 4302-01, and added references for Services Australia QB25-000044 and FOI 4302-01.
 - Audit report: corrected the wording and verb agreement of the verification impossibility sentence (page 28) and updated the cover date to November 2026.
+- ISO checklist: criterion 2 now rests on the Australian COVID-19 Vaccination Policy, with the Therapeutic Goods Act provisional registration framework recorded as out of scope. The "compensating safeguard" rationale is attributed ("presented as"), evidence wording is more precise, and the dose period now ends on 23 July 2023.
 
 ### Overview page, README and FAQ wording
 
 - Overview page (HTML and markdown): added a "Why does this matter?" section before the findings. Reworded the FAQ heading to "Didn't Australia already monitor vaccine safety?" in the page, structured data and markdown, dropping "extensive", which the audit does not assess. Changed the eyebrow line to "Documentary audit" and added a timestamped video link to the 9 October 2025 Senate evidence. Reordered the "Cited and corroborated" list chronologically and stated that the audit was cited in the Senate. Extended callout 02 with the TGA's description of the Plan's themes as its "standard sort of process in terms of post market surveillance and pharmacovigilance".
 - README, Scope clarification, and FAQ: now quote the Australian COVID-19 Vaccination Policy's own wording on the monitoring commitment (pages 6 and 13) and record where the Plan uses "enhanced" (Strategies 1 and 2, outputs 1.1 to 1.5, 2.2 and 2.3). The audit treats the Plan as the operational form of that commitment. The sponsor scope statement is unchanged.
 - README introduction and FAQ Q24: reworded to rest on the Plan's enhanced monitoring wording, not a promise or a contradiction. The README and FAQ Senate evidence lines now carry the fuller quotation.
+- Senate evidence README: separated the quoted testimony from the audit's inference.
 
 ### Sources and records
 
