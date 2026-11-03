@@ -59,6 +59,7 @@
 - FOI 25-0166 analysis: added the TGA's advice (decision, paragraphs 46 to 48) that the first item was clear and reasonable to process and that its documents would help explain how the Plan was implemented. Stated that the 12 document categories were derived by the applicant from the TGA's September 2024 search records, and described the 2,218+ page figure as an estimate. Clarified that the narrowed request was refused as a whole, with scope-reduction figures counting both items (up to 20 priority documents and 30 documents under item 2), and refined the description of s 24AA(2) and (3).
 - README, TIMELINE, QON 559 gap analysis, FOI index, ISO checklist, surveillance analysis and audit report: clarified that the 399-document figure was the TGA's initial estimate, aligned quotations from the decision to verbatim text or paraphrase, and attributed the September 2024 "non-exhaustive" description to the TGA.
 - Refined the quotation of AICmr 54 (documents "cannot be found or do not exist") across the README, TIMELINE, reference documents and metadata, and updated the case name in docs/metadata.md to AUQ and Department of Health and Aged Care.
+- FAQ, slide deck and one-page flowchart: the TGA's reason for refusing FOI 25-0166 is now quoted as "subjective interpretation" (decision, paragraphs 6 and 23), replacing the paraphrase "too subjective".
 
 ### Compensation analysis
 
