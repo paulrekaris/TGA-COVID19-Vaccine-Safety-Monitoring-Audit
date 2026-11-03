@@ -290,7 +290,7 @@ The TGA told the Senate that:
 
   - The Plan's five themes "essentially describe our day-to-day processes".
   - There is "no single specific evaluation report outlining or benchmarking us against the elements of that plan".
-  - Producing documents by Plan objective would involve "some difficulty" and a "vast volume of documents".
+  - Producing the documents sought would involve “some difficulty” and a “vast volume of documents”.
   - It investigated 148 safety signals (150 in the answer to QON 559).
 
 The audit concludes that:
