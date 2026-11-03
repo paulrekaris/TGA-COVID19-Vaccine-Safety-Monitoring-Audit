@@ -277,7 +277,7 @@ TGA's formal written answer to the most direct question put to it about Plan com
 | **Audit Finding** | **QON 559 Alignment** |
 |---|---|
 | Finding 1: No systematic implementation documentation | TGA answer confirms monitoring as "core work" of Pharmacovigilance Branch — routine, not plan-tracked. Zero implementation documentation produced in formal parliamentary answer. |
-| Finding 2: Day-to-day processes instead of enhanced monitoring | TGA's Question 19 answer characterises Plan elements as routine pharmacovigilance practice — consistent with Senate testimony that monitoring was never systematically tracked |
+| Finding 2: Day-to-day processes instead of enhanced monitoring | TGA's Question 19 answer characterises Plan elements as routine pharmacovigilance practice — consistent with Senate testimony that the Plan's themes “essentially describe our day-to-day processes” |
 | Finding 3: 84% of Plan outputs not fully documented | Five strategy assessment confirms pattern — 2 strategies not documented at Plan output level, 3 partial, none fully documented |
 | Finding 4: Signal investigations lack audit trails | TGA's QON answer references FOI releases as evidence of transparency — yet the four-year FOI record shows TGA moving from stating that the requested implementation report "does not exist" (2022) to estimating "more than 399 documents containing 3,926 pages" in scope of the original FOI 25-0166 request, then refusing a revised request for up to 30 documents as a practical refusal (2025). TGA's formal parliamentary answer does not address this contradiction. The signal-to-action traceability gap directly corroborates the absence of publicly documented signal investigation audit trails. |
 | Finding 5: AusVaxSafety integration cannot be demonstrated | AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment. AusVaxSafety not mentioned in Strategy 5 answer despite Strategy 2.4 commitment; no publicly documented pathway linking surveillance inputs to signal investigation and outcome. |
@@ -349,6 +349,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 22 October 2026
+**Last updated:** 3 November 2026
 
 [↑ Back to top](#table-of-contents)

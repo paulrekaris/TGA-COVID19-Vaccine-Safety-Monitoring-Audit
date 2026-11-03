@@ -26,7 +26,7 @@ This wasn't a public speech; it was technical training for professionals. The ga
 This pattern combines with:
 
 - FOI searches finding no dedicated Safety Plan tracking systems
-- Senate testimony describing enhanced monitoring as "day-to-day processes"
+- Senate testimony describing the Plan's themes as "day-to-day processes"
 - OAIC review documenting contradictory TGA statements
 - Absence of integration evidence or audit trails in available records
 
@@ -154,4 +154,4 @@ It demonstrates that democratic accountability requires not perfect knowledge bu
 9. Stiglitz, J.E. (2002). "Information and the Change in the Paradigm in Economics." *American Economic Review*, 92(3), 460–501.
 
 
-**Last updated:** 19 October 2026
+**Last updated:** 3 November 2026

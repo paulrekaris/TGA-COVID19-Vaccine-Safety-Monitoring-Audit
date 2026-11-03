@@ -474,7 +474,7 @@ In decision [2025] AICmr 54 (March 2025), the Australian Information Commissione
 
 In testimony to the Senate Community Affairs Legislation Committee on 9 October 2025, TGA told the Senate:
 
-- Implementation was conducted as “day-to-day processes”
+- The Plan's themes “essentially describe our day-to-day processes”
 - A "vast volume" of documents would be involved in producing records by Plan objective
 - They are “very happy to receive FOI requests” whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
@@ -547,7 +547,7 @@ Of the 19 audited outputs assessed:
 
 ### Q24: Couldn’t TGA have done the monitoring without formal tracking?
 
-No. The Plan describes **enhanced monitoring beyond routine surveillance**, and the audit tests whether its delivery can be verified. The term “enhanced” implies something additional to standard processes. The TGA’s description of the Plan’s themes as “day-to-day processes”, never systematically tracked, does not fit the enhanced monitoring described in the Plan.
+No. The Plan describes **enhanced monitoring beyond routine surveillance**, and the audit tests whether its delivery can be verified. The term “enhanced” implies something additional to standard processes. The TGA’s description of the Plan’s themes as “day-to-day processes” does not fit the enhanced monitoring described in the Plan, and the audit found no records tracking them.
 
 Without separate tracking, audit trails, and verification documentation, delivery of the Plan's enhanced-monitoring commitments cannot be proven. The absence of systematic tracking means there’s no way to distinguish between routine surveillance (which exists for all medicines) and the enhanced monitoring that was the stated basis on which provisional approval of these vaccines proceeded.
 
@@ -775,7 +775,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 1 November 2026   
+**Last Updated:** 3 November 2026   
 **Licence:** CC BY 4.0
 
 

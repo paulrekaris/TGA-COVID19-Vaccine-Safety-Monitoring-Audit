@@ -355,7 +355,7 @@ International pharmacovigilance standards adopted or referenced by TGA (ICH E2E,
 - The enhanced monitoring framework cannot be verified.  
 - Compliance with the Plan's enhanced monitoring commitments during the provisional‑approval period cannot be demonstrated.  
 - Regulatory decision‑making remains opaque despite significant public‑health implications.
-- TGA's FOI refusals for signal investigation documentation—despite Senate testimony confirming 'ample documentation' exists—withhold population-level evidence that could assist treating doctors in forming evidence-based causation opinions for Vaccine Claims Scheme applications. See [Compensation Analysis](analysis/compensation-analysis.md) for details. 
+- TGA's FOI refusals for signal investigation documentation—despite Senate evidence that the TGA has 'ample documentation demonstrating compliance' with the Plan's principles and objectives—withhold population-level evidence that could assist treating doctors in forming evidence-based causation opinions for Vaccine Claims Scheme applications. See [Compensation Analysis](analysis/compensation-analysis.md) for details. 
 
 
 ### Gap 2: Enhanced Monitoring Verification at Provisional Approval 
@@ -481,7 +481,7 @@ The motion is significant to this audit because it independently identified the 
 
 **Senate testimony (9 October 2025)**
 
-Senate testimony revealed monitoring was characterised as “day-to-day processes”, with no single evaluation report systematically benchmarking implementation against the Safety Monitoring Plan's 17 strategies. This raises a material question as to how the enhanced features of the Plan were distinguished from routine pharmacovigilance and independently verified. The characterisation is significant because the Plan established an enhanced monitoring framework for COVID-19 vaccines during the provisional approval pathway.
+Senate testimony said the Plan's themes “essentially describe our day-to-day processes”, and that there is “no single specific evaluation report outlining or benchmarking us against the elements of that plan”. This raises a material question as to how the enhanced features of the Plan were distinguished from routine pharmacovigilance and independently verified. The characterisation is significant because the Plan established an enhanced monitoring framework for COVID-19 vaccines during the provisional approval pathway.
 
 Four years of inquiries produced a consistent pattern: assertions of enhancement without documentation of what made the monitoring operationally distinct.
 
@@ -552,7 +552,7 @@ A peer-reviewed study published in *Vaccine* (September 2021) provides independe
 - AusVaxSafety-Active and the TGA’s passive system (AEMS) were described as “parallel systems” where notifications and signals could “fall through gaps”.  
 - Experts stated that COVID-19 vaccine safety monitoring would require “significant enhancement”, including “systematic approaches to population-level active surveillance”, particularly through data linkage.
 
-These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that monitoring remained “day-to-day processes” indicating that the plan was not systematically tracked against the COVID-19 Vaccine Safety Monitoring Plan. The audit located no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
+These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that the Plan's themes “essentially describe our day-to-day processes”, indicating that the Plan was not systematically tracked against its objectives. The audit located no documentation showing that the expert-identified gaps in linkage, integration, or population-level active surveillance were addressed.
 
 **The authors’ conclusion:**
 
@@ -646,7 +646,7 @@ This assessment has been provided to multiple oversight bodies:
 
 - **Australian Senate** – Senator Malcolm Roberts cited the audit by name in the adjournment debate on 24 March 2026, referencing key findings from the SSRN publication including absence of implementation records and ISO 19011 conformity assessment results. [Read the Senate Analysis](primary-sources/senate-2026-03-24/README.md)
 - **Australian National Audit Office (ANAO)** – submitted 27 November and 10 December 2025, requesting a dedicated performance audit of TGA's COVID‑19 vaccine pharmacovigilance implementation and compliance with enhanced monitoring commitments aligned to provisional approval. A response was received confirming the request has been passed to the annual audit work program team for consideration. No further feedback is guaranteed; updates are published via the ANAO's annual audit work program each July.
-- **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; key findings were confirmed in principle through testimony on 9 October 2025. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
+- **Senate Community Affairs Legislation Committee** – provided to key members on 16 December 2025 to inform questioning and oversight; the testimony of 9 October 2025 is consistent with key findings. A response was received from the Committee Secretary on 2 March 2026 acknowledging that the committee considered the correspondence and noted the issues raised. No follow-up action has been taken since.
 - **Office of the Australian Information Commissioner (OAIC)** – central to reviews MR22/00538 and MR25/01153, and the [2025] AICmr 54 decision. IC review for MR25/01153 still pending.
 - **Commonwealth Ombudsman** – complaint submitted 1 April 2025 (ref: 2025‑806374) regarding the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). On 18 September 2026 the Ombudsman advised that the complaint had been referred for further consideration.
 
@@ -762,7 +762,7 @@ https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s (2:30:40–2:37:00)
 **Hansard:**  
 https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003
 
-**Key testimony:** The TGA described monitoring as "day-to-day processes" rather than a distinct enhanced framework, indicating Plan implementation was not systematically tracked. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
+**Key testimony:** The TGA said the Plan's themes "essentially describe our day-to-day processes", indicating Plan implementation was not systematically tracked. Confirmed 148 safety signals investigated and 57 regulatory actions taken (later updated to 150 safety signals in QON 559).
 
 [Full testimony analysis →](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
