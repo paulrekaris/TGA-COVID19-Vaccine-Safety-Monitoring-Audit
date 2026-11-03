@@ -182,7 +182,7 @@ Systematic degradation documented across 33 months:
 - **Transition (2022):** Biweekly, "expected rates" without methodology, summary statements
 - **Routine (2023):** Fortnightly, "no new concerns," minimal detail, legacy warnings only
 
-**Temporal Correlation:** Aligns with FOI 4029-03 (Sep 2021 enhanced monitoring presentation to ACV) and Dascombe testimony (Oct 2025 "day-to-day processes").
+**Temporal Correlation:** Aligns with FOI 4029-03 (Sep 2021 enhanced monitoring presentation to ACV) and Dascombe testimony (Oct 2025: the Plan's themes “essentially describe our day-to-day processes”).
 
 **Implication:** Observable shift from enhanced to routine monitoring contradicts the Safety Plan’s commitment to enhanced monitoring throughout the provisional-approval period.
 
@@ -462,7 +462,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 21 October 2026
+**Last updated:** 4 November 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 
