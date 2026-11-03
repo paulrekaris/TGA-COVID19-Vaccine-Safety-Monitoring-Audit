@@ -66,7 +66,7 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 - The TGA told the Senate that:
   - The Plan's five themes "essentially describe our day-to-day processes".
   - There is "no single specific evaluation report outlining or benchmarking us against the elements of that plan".
-  - Producing documents by Plan objectives would involve "some difficulty" and a "vast volume of documents"
+  - Producing the documents sought would involve "some difficulty" and a "vast volume of documents".
   - 148 safety signals were investigated and 57 regulatory actions taken — the audit found that no documentation linked specific signals to specific actions.
 
 - [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) | [Video (timestamped 2:30:40–2:37:00)](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md)
@@ -129,4 +129,4 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 24 October 2026
+**Last updated:** 3 November 2026
