@@ -8,7 +8,7 @@
 
 ## Summary
 
-FOI request 25-0166 sought implementation documentation for the TGA COVID-19 Vaccine Safety Monitoring Plan across five Plan objectives. The request underwent two rounds of consultation, with scope progressively refined from an estimated 399 documents (3,926 pages) to up to 50, including 30 across 12 defined categories under item 2. Despite this reduction of at least 87% and TGA guidance that refined items "may be manageable," TGA refused the final request under practical refusal provisions, stating that identifying documents by Plan objectives required "subjective interpretation", nine months after estimating 2,218+ pages by the same Plan objectives for the OAIC (September 2024, MR22/00538).
+FOI request 25-0166 sought implementation documentation for the TGA COVID-19 Vaccine Safety Monitoring Plan across five Plan objectives. The request underwent two rounds of consultation, with scope progressively refined from an estimated 399 documents (3,926 pages) to up to 50, including 30 across 12 defined categories under item 2. Despite this reduction of at least 87% and the TGA's earlier suggestion that items 1(b) and 1(c) "may be manageable pending further searches," TGA refused the final request under practical refusal provisions, stating that identifying documents by Plan objectives required "subjective interpretation", nine months after estimating 2,218+ pages by the same Plan objectives for the OAIC (September 2024, MR22/00538).
 
 ---
 
@@ -71,7 +71,7 @@ Fallback provision: other documents the TGA has classified or identified as rela
 | Date | TGA Action | Applicant Response | Outcome |
 |------|------------|-------------------|---------|
 | 1 April 2025 | FOI request lodged | Original scope: Items 1-2 covering Feb 2021-April 2025 | Initial processing commenced |
-| 24 April 2025 | **First practical refusal consultation** under s24AB<br><br>Estimated 399+ documents (3,926 pages), 180 hours processing<br><br>Suggested: limit document types, Items 1(b) and 1(c) "may be manageable," narrow Item 1(a), reduce timeframe | 5 May 2025: Refined to Items 1-3 (~45 documents total)<br><br>Narrowed timeframe<br><br>Focused on specific document types | Partial acceptance:<br>Item 1 accepted for processing<br><br>Items 2-3 required further refinement |
+| 24 April 2025 | **First practical refusal consultation** under s24AB<br><br>Estimated 399+ documents (3,926 pages), 180 hours processing<br><br>Suggested: limit document types, Items 1(b) and 1(c) "may be manageable pending further searches," narrow Item 1(a), reduce timeframe | 5 May 2025: Refined to Items 1-3 (~45 documents total)<br><br>Narrowed timeframe<br><br>Focused on specific document types | Partial acceptance:<br>Item 1 accepted for processing<br><br>Items 2-3 required further refinement |
 | 16 May 2025 | **Second consultation** - Item 2 deemed subjective<br><br>Linking documents to Plan objectives characterised as requiring "most significant" judgment | 9 May 2025: Revised Item 2 to 5 most significant documents per objective (25 documents), withdrew Item 3<br><br>20 May 2025: **Further refined to 6 most recent documents per objective from the listed categories (30 documents)**<br><br>**At least 87% reduction from original 399+ documents** | Led to refusal (3 June), citing item 2 as too subjective despite:<br>• at least 87% scope reduction<br>• TGA's prior guidance Items 1(b)(c) "may be manageable"<br>• 12 explicitly defined categories |
 | 3 June 2025 | Final decision - practical refusal issued under s24(1)(b) (item 2's subjectivity, together with item 1, stated as the reason)<br><br>Suggested resubmitting Item 1 separately | N/A | **Access denied**<br><br>Scope reduced from 399+ docs → 50 but still refused, citing item 2 as "subjective" |
 
@@ -239,7 +239,7 @@ Therapeutic Goods Administration. (2025). *FOI 25-0166 Request Consultation Proc
 **Key content:**
 - Pages 1-2: Original request text (Items 1-2)
 - Page 2: Initial estimates (399+ documents, 3,926 pages, 180 hours, 10+ third parties)
-- Page 4: TGA suggestions - Items 1(b) and 1(c) "may be manageable," narrow Item 1(a), reduce timeframe
+- Page 4: TGA suggestions - Items 1(b) and 1(c) "may be manageable pending further searches," narrow Item 1(a), reduce timeframe
 
 ### FOI 25-0166 Notice of Decision
 Therapeutic Goods Administration. (2025). *Freedom of Information Request FOI 25-0166 - Notice of Decision*. 3 June 2025. LEX 27467.
