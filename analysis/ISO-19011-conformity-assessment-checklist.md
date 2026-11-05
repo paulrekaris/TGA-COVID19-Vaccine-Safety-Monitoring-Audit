@@ -320,7 +320,7 @@ To test whether Plan implementation evidence had been missed, a systematic revie
 
 ### Comparative Search Methodology Analysis
 
-A comparison was conducted between TGA's OAIC-directed search strategy (September 2024) and this audit's search method to validate that the evidence collection was comprehensive.
+A comparison was conducted between TGA's OAIC-directed search strategy (September 2024) and this audit's search method to identify differences in approach.
 
 **TGA's OAIC-directed searches (MR22/00538):** 8 search terms; document title-matching approach (e.g., "Implementation of COVID-19 Vaccine Safety Monitoring Plan", "Audit report COVID-19 vaccine safety monitoring"); one term returned 531+ TRIM containers; no relevant documents in scope reported.
 
@@ -853,7 +853,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Last updated:** 3 November 2026
+**Last updated:** 5 November 2026
 
 [Back to top](#table-of-contents)
 
