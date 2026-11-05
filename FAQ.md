@@ -479,7 +479,7 @@ In testimony to the Senate Community Affairs Legislation Committee on 9 October 
 - They are “very happy to receive FOI requests” whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
 
-The audit concludes that monitoring was not systematically tracked against Plan objectives
+The audit concludes that monitoring was not systematically tracked against Plan objectives, indicated by the TGA’s evidence that there is “no single specific evaluation report outlining or benchmarking us against the elements of that plan”.
 
 ### Q19: Has this been independently verified by others?
 
