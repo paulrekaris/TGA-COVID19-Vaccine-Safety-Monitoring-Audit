@@ -136,7 +136,7 @@ Six reports selected to capture:
 - All publication frequencies (weekly, biweekly, fortnightly)
 - Key inflection points (initiation, peak, degradation, cessation)
 
-This sampling provides sufficient evidence of systematic patterns without introducing redundancy from adjacent reports with similar characteristics. The sample size is appropriate for binary pattern identification (presence/absence of Plan framework references) rather than statistical frequency measurement. ISO 19011:2018 Section 6.5.4 permits sampling when examining all information is impractical, requiring samples be representative of the auditee and appropriate to audit objectives. The finding (zero Plan references across all sampled reports) is corroborated by TGA's OAIC-directed searches (531+ containers, zero Plan documentation), Senate testimony (monitoring never systematically tracked), and systematic FOI review (500+ releases, zero additional references).
+This sampling provides sufficient evidence of systematic patterns without introducing redundancy from adjacent reports with similar characteristics. The sample size is appropriate for binary pattern identification (presence/absence of Plan framework references) rather than statistical frequency measurement. ISO 19011:2018 Section 6.5.4 permits sampling when examining all information is impractical, requiring samples be representative of the auditee and appropriate to audit objectives. The finding (zero Plan references across all sampled reports) is corroborated by TGA's OAIC-directed searches (531+ containers, zero Plan documentation), Senate testimony (the Plan’s themes “essentially describe our day-to-day processes”), and systematic FOI review (500+ releases, zero additional references).
 
 ---
 
@@ -462,7 +462,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 4 November 2026
+**Last updated:** 5 November 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 

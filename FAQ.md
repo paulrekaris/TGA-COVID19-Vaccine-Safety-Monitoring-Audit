@@ -479,7 +479,7 @@ In testimony to the Senate Community Affairs Legislation Committee on 9 October 
 - They are “very happy to receive FOI requests” whilst simultaneously defending refusal to release implementation documentation
 - Producing organised documentation would be difficult because activities were not tracked by Plan objectives
 
-The audit concludes that monitoring was never systematically tracked against Plan objectives
+The audit concludes that monitoring was not systematically tracked against Plan objectives
 
 ### Q19: Has this been independently verified by others?
 
@@ -775,7 +775,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 3 November 2026   
+**Last Updated:** 5 November 2026   
 **Licence:** CC BY 4.0
 
 
