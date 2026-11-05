@@ -342,9 +342,9 @@ Each finding states the criterion, the evidence, the finding and grade, and the 
 
 **Criterion.** The Plan's 17 strategies, as the TGA's own published commitment, and PGPA Act s 38 (duty on the accountable authority of the Department to measure and assess the entity's performance).
 
-**Evidence.** The TGA's Senate evidence (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes"; no documented tracking mechanism in any FOI release; no performance measurement against Plan outputs; the agency's own signal count differs between testimony (148) and written answer (150). Review of the TGA Performance Reports for 2022-23 and 2023-24 found no explicit references to the COVID-19 Vaccine Safety Monitoring Plan.
+**Evidence.** The TGA's Senate evidence (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes" and that there is "no single specific evaluation report outlining or benchmarking us against the elements of that plan"; no documented tracking mechanism in any FOI release; no performance measurement against Plan outputs; the agency's own signal count differs between testimony (148) and written answer (150). Review of the TGA Performance Reports for 2022-23 and 2023-24 found no explicit references to the COVID-19 Vaccine Safety Monitoring Plan.
 
-**Finding.** Major non-conformity. No systematic mechanism existed to track implementation of the Plan.
+**Finding.** Major non-conformity. No systematic mechanism to track implementation of the Plan was identified.
 
 TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) states: "there is unlikely to be a set of discrete documents evidencing the TGA’s preparedness (because no audit of preparedness was undertaken)." This is the Department’s own acknowledgement in formal proceedings that no internal mechanism existed to assess whether the Plan’s outputs were achieved — directly corroborating this finding from within TGA’s own documentary record.
 
