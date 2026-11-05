@@ -167,10 +167,15 @@ jobs:
         now_aest = now.astimezone(aest_tz)
         aest_label = now_aest.strftime('%Z')
         aest_time_str = now_aest.strftime('%-I:%M %p') + f' {aest_label}'
-        yesterday_utc = now - timedelta(days=1)
-        data_through_str = yesterday_utc.strftime('%A, %d %B %Y')
+        # GitHub's lists end at the previous UTC day, so the settled entry read
+        # here is SETTLE_DAYS before the run date. All labels come from that date.
+        SETTLE_DAYS = 2
+        data_date_dt = (now - timedelta(days=SETTLE_DAYS)).replace(hour=0, minute=0, second=0, microsecond=0)
+        data_date = data_date_dt.strftime('%Y-%m-%d')
+        data_through_str = data_date_dt.strftime('%A, %d %B %Y')
+        report_warnings = []
         try:
-            _d = yesterday_utc
+            _d = data_date_dt
             _start_utc = datetime(_d.year, _d.month, _d.day, tzinfo=timezone.utc)
             _end_utc = _start_utc + timedelta(days=1) - timedelta(minutes=1)
             _fmt = lambda t: t.astimezone(aest_tz).strftime('%-I:%M %p %a %-d %b')
@@ -224,21 +229,39 @@ jobs:
             print(f"Data for {date_str} already exists. Exiting.")
             exit(0)
 
-        # Extract YESTERDAY'S single day counts (not 14-day window)
+        # Extract the single-day counts for the reporting date (not the 14-day window)
         yesterday_clones = 0
         yesterday_unique_cloners = 0
         yesterday_views = 0
         yesterday_unique_visitors = 0
 
-        if 'clones' in clones_data and len(clones_data['clones']) >= 2:
-            yesterday_day = clones_data['clones'][-2]
-            yesterday_clones = yesterday_day.get('count', 0)
-            yesterday_unique_cloners = yesterday_day.get('uniques', 0)
+        def day_for(entries):
+            for e in entries:
+                if e.get('timestamp', '')[:10] == data_date:
+                    return e
+            return None
 
-        if 'views' in views_data and len(views_data['views']) >= 2:
-            yesterday_day = views_data['views'][-2]
-            yesterday_views = yesterday_day.get('count', 0)
-            yesterday_unique_visitors = yesterday_day.get('uniques', 0)
+        clones_day = day_for(clones_data.get('clones', []))
+        views_day = day_for(views_data.get('views', []))
+
+        if clones_day is not None:
+            yesterday_clones = clones_day.get('count', 0)
+            yesterday_unique_cloners = clones_day.get('uniques', 0)
+        else:
+            report_warnings.append(f"WARNING: no clones entry for {data_date}; clone figures not available")
+
+        if views_day is not None:
+            yesterday_views = views_day.get('count', 0)
+            yesterday_unique_visitors = views_day.get('uniques', 0)
+        else:
+            report_warnings.append(f"WARNING: no views entry for {data_date}; view figures not available")
+
+        # GitHub's lists have ended at the previous UTC day in every earlier run
+        _expected_last = (now - timedelta(days=1)).strftime('%Y-%m-%d')
+        for _name, _entries in (('clones', clones_data.get('clones', [])), ('views', views_data.get('views', []))):
+            _last = _entries[-1].get('timestamp', '')[:10] if _entries else ''
+            if _last != _expected_last:
+                report_warnings.append(f"WARNING: {_name} list ends {_last or 'empty'}, expected {_expected_last}")
 
         # Capture previous peaks BEFORE appending today's row
         prev_peak_clones = int(clones_df['daily_clones'].max()) if len(clones_df) > 0 else 0
@@ -261,13 +284,15 @@ jobs:
         # Save DAILY counts (not 14-day windows)
         new_clones_row = pd.DataFrame([{
             'date': date_str,
-            'daily_clones': yesterday_clones,
-            'daily_unique_cloners': yesterday_unique_cloners
+            'daily_clones': yesterday_clones if clones_day is not None else None,
+            'daily_unique_cloners': yesterday_unique_cloners if clones_day is not None else None,
+            'data_date': data_date
         }])
         new_views_row = pd.DataFrame([{
             'date': date_str,
-            'daily_views': yesterday_views,
-            'daily_unique_visitors': yesterday_unique_visitors
+            'daily_views': yesterday_views if views_day is not None else None,
+            'daily_unique_visitors': yesterday_unique_visitors if views_day is not None else None,
+            'data_date': data_date
         }])
         new_engagement_row = pd.DataFrame([{
             'date': date_str,
@@ -440,11 +465,19 @@ jobs:
         summary_parts.append(now_aest.strftime('%A, %d %B %Y'))
         summary_parts.append(f"Report generated: {aest_time_str} | Data through: {data_through_str}")
         summary_parts.append(window_str)
+        for _w in report_warnings:
+            summary_parts.append(_w)
         summary_parts.append(sep)
         summary_parts.append("")
-        summary_parts.append("YESTERDAY'S ACTIVITY")
-        summary_parts.append(f"   {yesterday_clones} clones ({yesterday_unique_cloners} unique)")
-        summary_parts.append(f"   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)")
+        summary_parts.append("ACTIVITY FOR REPORTING PERIOD")
+        if clones_day is not None:
+            summary_parts.append(f"   {yesterday_clones} clones ({yesterday_unique_cloners} unique)")
+        else:
+            summary_parts.append("   clones: data not available")
+        if views_day is not None:
+            summary_parts.append(f"   {yesterday_views} views ({yesterday_unique_visitors} unique visitors)")
+        else:
+            summary_parts.append("   views: data not available")
         summary_parts.append("")
         summary_parts.append("CLONE TRENDS (from daily counts)")
         summary_parts.append(f"   7-day average: {avg_7day_clones:.1f} clones/day ({avg_7day_unique_cloners:.1f} unique)")
