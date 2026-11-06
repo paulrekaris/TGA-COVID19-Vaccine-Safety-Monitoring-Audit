@@ -57,7 +57,7 @@ https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 - Search limited to publicly released FOI documents (s.11C releases only)
 - Keyword-based approach may miss documents using alternative terminology
 - No access to refused or partially released FOI documents
-- A keyword search of the log cannot find documents the log does not link (FOI 5082 was not linked)
+- A keyword search of the log cannot find documents the log does not link
 
 ## Key Findings
 
@@ -169,7 +169,7 @@ No additional FOI documents were identified that would alter implementation stat
 ---
 
 **Systematic review conducted by**: Paul Rekaris  
-**Last updated**: 15 October 2026   
+**Last updated**: 6 November 2026   
 **Version**: 1.2  
 **Methodology**: OSINT systematic collection and verification
 

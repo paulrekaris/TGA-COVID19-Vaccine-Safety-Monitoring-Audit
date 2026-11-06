@@ -682,7 +682,7 @@ All URLs were verified as accessible in January 2026.
 
 22. TGA. (2022, February 27). FOI 3643 Notice of Decision. Decision maker: Elspeth Kay, Assistant Secretary, Pharmacovigilance Branch. https://www.tga.gov.au/about-us/freedom-information-foi/foi-disclosure-log
 23. TGA. (2023). FOI 4029: COVID-19 vaccine pharmacovigilance (VSIG work instruction, ACV meetings, safety reports). https://www.tga.gov.au/sites/default/files/2023-01/foi-4029-01.PDF
-24. TGA. (2024, August). FOI 5082: COVID-19 vaccine pharmacovigilance (SOPs and surveillance procedures). https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
+24. TGA. (2024, August). FOI 5082: Documents relating to COVID-19 vaccine safety signal investigation processes. https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 25. TGA. (2024). FOI 5275 Notice of Decision (21 August 2024). Third-party request for monthly cancer-incidence surveillance data related to Comirnaty provisional approval; response: documents do not exist; TGA does not hold incidence data. Obtained via FOI 26-2581 (decided 2 February 2026). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/foi/foi-5275-redacted.pdf
 26. OAIC. (2024, September 20). Submission MR22/00538: TGA TRIM search documentation (Department's estimate of 2,218+ relevant pages; one term returned 531+ containers). https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/oaic/MR22-00538/tga-submission-oaic-mr22-00538-sept-2024-redacted.pdf
 27. TGA. (2025, April 24). FOI 25-0166 first request consultation letter (practical refusal, s24AB).
@@ -853,7 +853,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Last updated:** 5 November 2026
+**Last updated:** 6 November 2026
 
 [Back to top](#table-of-contents)
 

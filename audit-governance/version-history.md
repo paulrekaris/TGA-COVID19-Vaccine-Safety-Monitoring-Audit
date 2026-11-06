@@ -94,6 +94,7 @@
 - Added a Software Heritage archive record (capture of 25 October 2026) to the Blockchain and Archival Verification Records page, with badge and verification note.
 - Senate evidence README: added Dr Dascombe's first answer to Senator Antic verbatim (Hansard, page 32), alongside the existing quotation of his second answer.
 - Traffic export workflow: updated to Python 3.12 and current checkout and setup-python actions after a failed run on the new runners, moved the schedule off peak, and added the Melbourne date, the data-window label and seven-day clone and view totals to the daily email report. The report's reporting date was then corrected: the entry is now chosen by its date, not its position in GitHub's list, the date and window labels come from that entry, new records carry a data_date column, and the heading reads “Activity for reporting period”.
+- Removed the descriptions of FOI 5082 as "orphaned" and "not linked" from the FOI README and the FOI systematic review, as the disclosure-log entry links to the PDF, and gave the TGA’s listed title in ISO reference 24.
 - Release checklist: added the file-by-file version and date updates and the post-release archive steps (Internet Archive, NLA edeposit, archive records, Software Heritage).
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance

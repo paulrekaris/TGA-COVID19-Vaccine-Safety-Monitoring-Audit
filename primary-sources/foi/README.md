@@ -75,7 +75,9 @@ The contrast between TGA's demonstrated capacity to document routine processes (
 
 **Link:** https://www.tga.gov.au/sites/default/files/2024-08/FOI5082.pdf
 
-**Note:** Orphaned file discovered incidentally; listed in TGA FOI Disclosure Log (26 July 2024) without hyperlink from entry.
+**Note:** Listed in the TGA FOI Disclosure Log (26 July 2024). The entry links to the PDF.
+
+**Log title:** Documents relating to COVID-19 vaccine safety signal investigation processes
 
 **Disclosure Log:** https://www.tga.gov.au/resources/publication/corporate-reports/documents-released-under-section-11c-freedom-information-act-1982-jul-2024-jun-2025
 
@@ -131,5 +133,5 @@ TGA document describing the preliminary assessment of fatal adverse event report
 
 ---
 
-**Last Updated:** 3 November 2026  
+**Last Updated:** 6 November 2026  
 **Licence:** CC BY 4.0
