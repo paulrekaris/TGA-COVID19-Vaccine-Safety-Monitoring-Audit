@@ -271,7 +271,7 @@ The audit examines whether these activities constituted the enhanced monitoring 
 
 Routine pharmacovigilance is the baseline, ongoing surveillance for all marketed medicines. It includes passive adverse event reporting (e.g., DAEN), standard signal detection, regulatory updates, and review of sponsor reports—essentially “business as usual” regulatory functions.
 
-Enhanced safety monitoring is a higher standard, expected as the compensating safeguard when medicines are approved on incomplete data (e.g., under provisional approval), and provided for in TGA's provisional-approval framework. It must go beyond routine operations through:
+Enhanced safety monitoring was a policy commitment accompanying provisional approval of the COVID-19 vaccines, made in the Australian COVID-19 Vaccination Policy and set out in the TGA's February 2021 Plan. It is not a condition of provisional registration under the Therapeutic Goods Act 1989. The commitment was for monitoring beyond routine operations, and the audit tests it against:
 
 - Active surveillance (proactive data collection, e.g., AusVaxSafety)
 - Documented integration of multiple data sources with clear coordination protocols
@@ -279,7 +279,7 @@ Enhanced safety monitoring is a higher standard, expected as the compensating sa
 - Performance tracking against defined objectives
 - Verifiable audit trails to demonstrate the enhanced system was applied
 
-**For provisionally approved products, enhanced monitoring is the regulatory safeguard that compensates for reduced pre-market evidence. Its implementation must be demonstrable, not assumed.**
+**Here, enhanced monitoring was the stated safeguard accompanying approval on reduced pre-market evidence. Under the audit's standard, its implementation must be demonstrable, not assumed.**
 
 -----
 
@@ -301,9 +301,9 @@ The TGA’s COVID-19 Vaccine Safety Monitoring Plan (February 2021) explicitly c
 
 ### Q10: What role did the states play in managing enhanced safety monitoring?
 
-The Commonwealth–State implementation agreements—such as those with Victoria (signed 19 February 2021) and Western Australia (signed 9 March 2021), executed concurrently with the TGA’s Safety Monitoring Plan—established formal governance structures for the vaccine rollout requiring documented implementation processes, structured data reporting, and formal Statements of Assurance under the National Partnership on COVID‑19 Response. These agreements explicitly framed enhanced safety monitoring as a formal, documented priority. For instance, the WA agreement stated that both governments “consider it a priority that appropriate safety signalling and adverse event monitoring… is in place,” and noted the Commonwealth’s commitment to “further strengthen the capabilities of the current national, active safety surveillance system known as AusVaxSafety.”
+The Commonwealth–State implementation agreements—such as the Victorian plan (dated 19 February 2021) and the Western Australian plan, made at about the same time as the TGA’s Safety Monitoring Plan—established formal governance structures for the vaccine rollout, setting out implementation arrangements and data reporting. The National Partnership on COVID‑19 Response also required States to provide Statements of Assurance on how they met their responsibilities (clause 46(b)). These agreements framed safety signalling and adverse event monitoring as a priority. For instance, the WA agreement stated that both governments “consider it a priority that appropriate safety signalling and adverse event monitoring… is in place,” and noted that the Australian Government “will be working to further strengthen the capabilities of the current national, active safety surveillance system known as AusVaxSafety.”
 
-These intergovernmental arrangements therefore anticipated systematic implementation, defined data flows and clear escalation pathways for safety-critical issues. The TGA told the Senate on 9 October 2025 that the Plan’s five key themes “essentially describe our day-to-day processes”. The audit found no records tracking those processes against the Plan’s objectives. That sits uneasily with a documented, multi-jurisdictional governance framework, and it reinforces the audit’s central finding that the promised enhanced monitoring required formal, traceable arrangements, not ad hoc administration.
+The Victorian plan, for example, specified surveillance responsibilities, reporting to the TGA through agreed channels and clinical follow-up pathways. The TGA told the Senate on 9 October 2025 that the Plan’s five key themes “essentially describe our day-to-day processes”. The audit found no records tracking those processes against the Plan’s objectives. That sits uneasily with a documented, multi-jurisdictional governance framework, and it reinforces the audit’s central finding that the promised enhanced monitoring called for formal, traceable arrangements, not ad hoc administration.
 
 ### Q11: How many doses were affected?
 
@@ -775,7 +775,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 5 November 2026   
+**Last Updated:** 12 November 2026   
 **Licence:** CC BY 4.0
 
 
