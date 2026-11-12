@@ -39,6 +39,8 @@ The National Partnership established the Commonwealth–state framework within w
 
 **File:** [national-partnership-on-covid-response.pdf](national-partnership-on-covid-response.pdf)
 
+**Version:** the repository copy is the 29-page version created in March 2021, which contains the Vaccination Dose Delivery Payment and clause 46(b). The source URL may now serve a later version.
+
 ### State vaccination implementation plan examples
 
 The Victorian and Western Australian plans provide contemporaneous examples of how the national framework was translated into formal jurisdictional implementation arrangements.

@@ -16,7 +16,7 @@
 Published **same month** as TGA Safety Monitoring Plan (Feb 2021), contradicts:
 - National Cabinet active and comprehensive (Nov 2020)
 - TGA 17-strategy enhanced Plan  
-- Bilateral agreements' quarterly reporting
+- Bilateral agreements' safety surveillance and reporting arrangements (Victorian plan, printed pp. 28-29)
 
 **Day-one evidence of messaging-policy gap.**
 
@@ -24,4 +24,4 @@ Published **same month** as TGA Safety Monitoring Plan (Feb 2021), contradicts:
 
 **[See Public Communications vs Policy Commitments](../../analysis/ISO-19011-conformity-assessment-checklist.md#finding-6-public-communication-versus-policy-commitments-major)**
 
-**Last updated:** 26 October 2026
+**Last updated:** 12 November 2026

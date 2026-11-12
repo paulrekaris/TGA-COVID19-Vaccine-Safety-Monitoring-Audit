@@ -187,7 +187,7 @@ For the complete list of publications, preprints, and research outputs related t
 
 On 13 November 2020, National Cabinet endorsed the Australian COVID‑19 Vaccination Policy, which committed the Commonwealth to active and comprehensive post‑market safety monitoring of COVID‑19 vaccines, with TGA responsible for implementing appropriate pharmacovigilance arrangements for the rollout. In February 2021, the TGA’s COVID‑19 Vaccine Safety Monitoring Plan operationalised this national pharmacovigilance framework, specifying 19 outputs across 17 numbered strategies spanning AEFI collection, signal detection, regulatory action, communication and collaboration. AusVaxSafety, coordinated by NCIRS and funded by the Australian Government, subsequently described its large‑scale active surveillance program for COVID‑19 vaccines as operating as part of this national pharmacovigilance plan led by the TGA and the Australian Government, thereby positioning active surveillance as a core delivery mechanism within the TGA‑led safety‑monitoring framework.  
 
-The Commonwealth signed formal bilateral agreements with Australian states and territories (including Victoria, signed 19 February 2021) that established governance frameworks requiring systematic reporting of vaccine safety and surveillance data through agreed channels and specified protocols, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
+The Commonwealth signed formal bilateral agreements with Australian states and territories (including the Victorian plan, dated 19 February 2021) that established governance frameworks for reporting vaccine safety and surveillance data through agreed channels, including adverse event monitoring via the TGA. These agreements operationalised the Australian COVID‑19 Vaccination Policy (endorsed by National Cabinet in November 2020), which anticipated enhanced TGA‑led pharmacovigilance and was given operational effect through the TGA’s February 2021 COVID‑19 Vaccine Safety Monitoring Plan. Together, this policy and intergovernmental framework created an expectation that the Plan’s enhanced monitoring strategies would be delivered and documented across jurisdictions. 
 
 Between February 2021 and late June 2023, more than 68.4 million COVID‑19 vaccine doses (approximately 91% of the total rollout as at October 2025) were administered to 21.2 million Australians under provisional registration on the ARTG — Australia’s largest deployment of provisionally approved medicines.
 
@@ -438,7 +438,7 @@ This positioned COVID-19 monitoring as identical to routine surveillance.
 Formal commitments painted a different picture:
 
 - **National Cabinet** (November 2020): Promised active and comprehensive monitoring for provisional approvals
-- **Bilateral Agreements** (February 2021): Established governance requirements for safety monitoring and adverse event reporting
+- **Bilateral agreements** (Victoria, 19 February 2021; Western Australia): Set out safety surveillance and adverse event reporting arrangements, including reporting to the TGA
 
 The TGA's own planning documents reinforced this commitment:
 
@@ -568,13 +568,13 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that
   
 ### Enhanced Monitoring as Defined by the Plan
 
-The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to active and comprehensive monitoring and was embedded in bilateral agreements as the authoritative framework for provisional approval oversight.
+The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to active and comprehensive monitoring. The bilateral agreements with the states and territories implement the Australian COVID-19 Vaccination Policy, which describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The agreements set out related surveillance and reporting commitments, including reporting to the TGA.
 
 The underlying policy and Cabinet governance documents supporting this national commitment are archived [here](primary-sources/aust-gov-policy/).
 
 **Status as national policy instrument:**
 * Operationalised Cabinet's mandate (November 2020) for vaccines with incomplete pre-market data
-* Embedded in bilateral state agreements as the governance framework
+* Accompanied by bilateral state agreements covering surveillance and reporting
 * Publicly promised to Australian citizens as the standard for enhanced surveillance
 
 **The Plan's explicit definition:** 17 numbered strategies across five objectives designed to "strengthen the existing vaccine vigilance system"—the operational meaning of enhanced monitoring beyond business-as-usual.
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 3 November 2026  
+**Last Updated:** 12 November 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
