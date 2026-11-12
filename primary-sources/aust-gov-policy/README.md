@@ -73,6 +73,8 @@ These contemporaneous national and state agreements document specific safety res
 
 Against that documented framework, the TGA’s February 2021 Plan cannot be independently verified from the available documentary record as having been implemented through a similarly traceable set of Plan-specific governance, integration and performance-measurement arrangements. This directly contrasts with Senate testimony by senior TGA officials on 9 October 2025 that vaccine safety monitoring was managed through “day-to-day processes” rather than systematic tracking against the Plan’s objectives.
 
+These are Cabinet-endorsed policy and Commonwealth–State implementation arrangements: the policy commitment to enhanced monitoring, and the agreements that gave it effect in the states and territories.
+
 **Broader jurisdictional framework:**
 
 **Source:** Federal Financial Relations — COVID-19 Response
@@ -81,5 +83,5 @@ Against that documented framework, the TGA’s February 2021 Plan cannot be inde
 
 ---
 
-**Last Updated:** 8 October 2026  
+**Last Updated:** 12 November 2026  
 **Licence:** CC BY 4.0
