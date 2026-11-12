@@ -71,6 +71,7 @@
 - Dataset codebook: noted that grading on a quantitative scale (here 1 to 5) is contemplated by ISO 19011:2018, cl. 6.4.8.
 - ISO checklist: revised the Output 2.8 evidence and rating summary for QON 2328 and FOI 4302-01, and added references for Services Australia QB25-000044 and FOI 4302-01.
 - Audit report: corrected the wording and verb agreement of the verification impossibility sentence (page 28) and updated the cover date to November 2026.
+- Audit report: refined the wording on the statutory basis for provisional registration (page 30).
 - ISO checklist: criterion 2 now rests on the Australian COVID-19 Vaccination Policy, with the Therapeutic Goods Act provisional registration framework recorded as out of scope. The "compensating safeguard" rationale is attributed ("presented as"), evidence wording is more precise, and the dose period now ends on 23 July 2023.
 - Evidence matrix: Senate citations on the Rating Criteria, Evidence Matrix and Output Assessment sheets now quote his statements (the Plan's themes "essentially describe our day-to-day processes"; no "single specific evaluation report"). Removed a Senate citation from Output 2.4 that the Hansard does not support.
 - Audit report and slide deck: Senate wording aligned with the Hansard (report pages 1, 11, 37 and 99; deck slides 6, 12, 13 and 16). The 9 October 2025 hearing is now named Supplementary Budget Estimates 2025–26 throughout the report, and the deck cover date and subtitle are updated.
