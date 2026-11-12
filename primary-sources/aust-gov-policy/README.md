@@ -65,6 +65,8 @@ Formal bilateral agreement between the Commonwealth and Western Australia establ
 
 The Plan assigns the Australian Government responsibility for setting data collection and reporting requirements and adverse-event monitoring via the TGA, in collaboration with the WA Government.
 
+The Plan also sets out WA safety surveillance arrangements, including use of the WA Vaccine Safety Surveillance System, data linkage with hospital and emergency department collections, additional clinical follow-up capacity, and the Australian Government's work to strengthen AusVaxSafety.
+
 **Source:** Western Australian COVID-19 Vaccination Program Implementation Plan
 
 **URL:** https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/wa_vaccine_plan.pdf
