@@ -438,7 +438,7 @@ This positioned COVID-19 monitoring as identical to routine surveillance.
 Formal commitments painted a different picture:
 
 - **National Cabinet** (November 2020): Promised active and comprehensive monitoring for provisional approvals
-- **Bilateral agreements** (Victoria, 19 February 2021; Western Australia): Set out safety surveillance and adverse event reporting arrangements, including reporting to the TGA
+- **Bilateral agreements** (Victoria, 19 February 2021; Western Australia, 9 March 2021): Set out safety surveillance and adverse event reporting arrangements, including reporting to the TGA
 
 The TGA's own planning documents reinforced this commitment:
 

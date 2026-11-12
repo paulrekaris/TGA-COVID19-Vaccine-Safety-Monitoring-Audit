@@ -59,9 +59,11 @@ The Plan also contains specific arrangements for vaccine safety monitoring and s
 
 **File:** [vic-vaccine-plan.pdf](vic-vaccine-plan.pdf)
 
-#### Western Australian COVID-19 Vaccination Program Implementation Plan
+#### Western Australian COVID-19 Vaccination Program Implementation Plan (9 March 2021)
 
 Formal bilateral agreement between the Commonwealth and Western Australia establishing the governance framework for the vaccine rollout. It provides a further example of a jurisdictional implementation arrangement operating within the national vaccination program framework.
+
+The Plan assigns the Australian Government responsibility for setting data collection and reporting requirements and adverse-event monitoring via the TGA, in collaboration with the WA Government.
 
 **Source:** Western Australian COVID-19 Vaccination Program Implementation Plan
 

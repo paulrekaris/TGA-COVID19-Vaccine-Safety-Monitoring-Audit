@@ -249,7 +249,7 @@ The Therapeutic Goods Act 1989 provisional registration framework, including spo
 
 6. ISO 19011:2018: principles and process for conducting this audit.
 
-**Secondary and contextual criteria.** FOI Act 1982 obligations on document existence and reasonable searches; ANAO records-management and audit-evidence guidance; National Cabinet COVID-19 Vaccination Policy (November 2020); Commonwealth–State bilateral agreements to implement that Policy (Victoria, 19 February 2021; Western Australia).
+**Secondary and contextual criteria.** FOI Act 1982 obligations on document existence and reasonable searches; ANAO records-management and audit-evidence guidance; National Cabinet COVID-19 Vaccination Policy (November 2020); Commonwealth–State bilateral agreements to implement that Policy (Victoria, 19 February 2021; Western Australia, 9 March 2021).
 
 ---
 
