@@ -729,7 +729,7 @@ Sets out 19 specific outputs across 17 numbered strategies as TGA's operational 
 
 **COVID-19 vaccine safety reports**
 https://www.tga.gov.au/news/covid-19-vaccine-safety-reports
-TGA published more than 150 COVID-19 vaccine safety reports—weekly from March 2021, then fortnightly through early 2023—detailing DAEN adverse events, safety signals (e.g., myocarditis/TTS), and regulatory actions.
+TGA published more than 150 COVID-19 vaccine safety reports—weekly from March 2021, moving to fortnightly during 2022, with the final report in November 2023—detailing DAEN adverse events, safety signals (e.g., myocarditis/TTS), and regulatory actions.
 
 **AusVaxSafety – Active and enhanced vaccine safety surveillance for COVID‑19 vaccines in Australia**
 https://www.ausvaxsafety.org.au/active-and-enhanced-vaccine-safety-surveillance-covid-19-vaccines-australia  
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 12 November 2026  
+**Last Updated:** 13 November 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
