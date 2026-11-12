@@ -178,7 +178,7 @@ This audit provides **reasonable assurance** (not absolute certainty) based on s
 - 68.4 million COVID-19 vaccine doses were administered under provisional approval (about 91 per cent of Australia's total rollout).
 - Provisional approval was accompanied by enhanced post-market surveillance and by active and comprehensive monitoring commitments.
 - The February 2021 Plan specifies 17 numbered strategies. Two governance and performance-measurement outputs were added for assessment, reflecting standard public-administration obligations.
-- National Cabinet endorsed the Australian COVID-19 Vaccination Policy, and the Commonwealth–State bilateral agreements to implement it formalised the monitoring and reporting obligations.
+- National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The Commonwealth–State bilateral agreements to implement that Policy set out related surveillance and reporting commitments, including reporting to the TGA.
 
 ---
 
