@@ -19,11 +19,21 @@ In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination 
 
 The audit is grounded in the fundamental principles of public accountability and transparency: when public institutions make significant commitments, their implementation should be capable of independent verification through an adequate documentary record.
 
-The audit assesses 19 outputs, comprising the Plan's 17 numbered strategy items and two additional governance outputs, each evaluated for documentary evidence of implementation.
+The audit assesses 19 outputs, comprising the Plan's 17 numbered strategy items and two additional governance outputs, each evaluated for documentary evidence of implementation. The methodology is open, falsifiable and replicable. Every finding is traceable to a public or FOI-released source, and the full evidence base is published for independent scrutiny.
 
 It examines 68.4 million doses (91.2% of Australia's rollout) across four years. The question is narrow and verifiable: can the implementation of the vaccine safety monitoring plan, and the regulator's compliance with its commitments, be independently confirmed through the documentary record, given the role enhanced monitoring was intended to play alongside provisional approval?
 
 The audit did not identify documentary evidence that the TGA systematically implemented the enhanced vaccine safety monitoring framework described in its February 2021 plan, leaving compliance unverifiable from available records. Of 19 audited outputs, only **3** are fully documented; the remaining **16** are partially documented or undocumented from the available material.
+
+---
+
+## Why does this matter?
+
+When COVID-19 vaccines were provisionally approved for Australia's largest mass vaccination rollout, the National Cabinet-endorsed vaccination policy committed that the TGA would "actively and comprehensively monitor" them for safety. The TGA's COVID-19 Vaccine Safety Monitoring Plan (described in the policy as its pharmacovigilance plan), issued in February 2021, set out 17 numbered strategies. 68.4 million doses followed.
+
+The TGA reported pharmacovigilance activity throughout the rollout, including more than 150 published safety reports, 150 safety signals assessed and 57 regulatory actions. The audit tests whether the enhanced monitoring framework described in the Plan was implemented, not whether safety monitoring occurred.
+
+A commitment to enhanced monitoring should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed. The audit did not identify a Plan-level record demonstrating this, leaving delivery of the National Cabinet commitment, and accountability for it, unable to be independently established.
 
 ---
 
@@ -33,23 +43,13 @@ The purpose of this audit is best understood in the context of how the enhanced 
 
 ---
 
-## Why does this matter?
-
-When COVID-19 vaccines were provisionally approved for Australia's largest mass vaccination rollout, the National Cabinet-endorsed vaccination policy committed that the TGA would "actively and comprehensively monitor" them for safety. The TGA's COVID-19 Vaccine Safety Monitoring Plan (described in the policy as its pharmacovigilance plan), issued in February 2021, set out 19 specified outputs. 68.4 million doses followed.
-
-A commitment of that kind should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed. The audit did not identify a Plan-level record demonstrating this, leaving delivery of the National Cabinet commitment, and accountability for it, unable to be independently established.
-
----
-
 ## What the audit found
 
 - **01** In September 2024, directed by the Office of the Australian Information Commissioner, the TGA's sample searches identified no Plan implementation records. The Commissioner found the report requested under FOI 3643 cannot be found or does not exist (Decision [2025] AICmr 54).
 
-- **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes", its "standard sort of process in terms of post market surveillance and pharmacovigilance". That describes routine monitoring, not the enhanced monitoring described in the Plan, and the audit found no records tracking them against the Plan's objectives.
+- **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes", its "standard sort of process in terms of post market surveillance and pharmacovigilance", and that there is "no single specific evaluation report outlining or benchmarking us against the elements of that plan". That describes routine monitoring, not the enhanced monitoring described in the Plan, and the audit found no records tracking them against the Plan's objectives.
 
 - **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals assessed and 57 regulatory actions undertaken; however, the response does not provide traceability between individual safety signal assessments and corresponding regulatory actions or decisions. The response provides no signal-management documentation demonstrating how safety-signal evaluation outcomes are linked to the reported pharmacovigilance activities or how the Plan's 17 numbered strategy items were monitored.
-
-- **04** The methodology is open, falsifiable and replicable. Every finding is traceable to a public or FOI-released source, and the full evidence base is published for independent scrutiny.
 
 ---
 
