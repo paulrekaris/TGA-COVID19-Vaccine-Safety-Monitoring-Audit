@@ -441,7 +441,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
   - Integration protocols between surveillance systems
   - Signal investigation methodologies and audit trails
 - **Explaining documentation absence:**
-  - Clarifying why Cabinet-endorsed policy implemented without systematic tracking
+  - Clarifying why the record does not show systematic tracking of the Cabinet-endorsed policy commitment
   - Addressing contradiction between internal capacity (FOI 4029-03 ACV presentation) and public documentation absence
   - Reconciling "day-to-day processes" characterisation with "enhanced monitoring" commitment
 - **Implementing corrective actions:**
