@@ -17,7 +17,7 @@
 
 Senator Roberts cited the Documentation Gap Analysis: Independent Audit of TGA COVID-19 Vaccine Safety Monitoring Plan in the Australian Senate on 24 March 2026, referencing key findings from the SSRN publication.
 
-## Key Messages Cited
+## Senator Malcolm Roberts, Adjournment Debate: Key Points
 
 1. The audit was conducted by Paul Rekaris using TGA's own data and documentation, based on four years of FOI requests
 2. The audit is published on SSRN, the world's largest social science research network
@@ -45,5 +45,5 @@ Senator Roberts cited the Documentation Gap Analysis: Independent Audit of TGA C
 
 Citation in the Australian Senate creates a permanent official record of the audit findings, independent of any platform or institution.
 
-**Last Updated:** 14 October 2026  
+**Last Updated:** 12 November 2026  
 **Licence:** CC BY 4.0
