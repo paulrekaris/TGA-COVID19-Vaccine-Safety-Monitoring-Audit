@@ -109,7 +109,7 @@ The audit uses two forms of reasoning.
 
 **Deductive.** What should be verifiable if enhanced monitoring was systematically implemented: documented protocols, governance frameworks, audit trails, integration records between surveillance systems, and performance measurement against Plan outputs.
 
-**Abductive.** When complete evidence is not accessible through FOI, what best explains the available pattern: FOI documentation gaps, OAIC findings on search adequacy, Senate evidence, bilateral-agreement requirements, and independent expert assessments.
+**Abductive.** When complete evidence is not accessible through FOI, what best explains the available pattern: FOI documentation gaps, OAIC findings on search adequacy, Senate evidence, the Commonwealth–State implementation plans (Victoria and Western Australia), and independent expert assessments.
 
 **The central distinction.** The finding is absence of verifiable evidence, not evidence of absence. This audit cannot prove enhanced monitoring did not occur inside the TGA. It demonstrates that such monitoring cannot be verified through available Commonwealth records, and that verification gap is the accountability problem under Australia's public-sector governance framework.
 
@@ -176,9 +176,9 @@ This audit provides **reasonable assurance** (not absolute certainty) based on s
 **Audit context.**
 
 - 68.4 million COVID-19 vaccine doses were administered under provisional approval (about 91 per cent of Australia's total rollout).
-- Provisional approval rested on enhanced post-market surveillance and on active and comprehensive monitoring commitments.
+- Provisional approval was accompanied by enhanced post-market surveillance and by active and comprehensive monitoring commitments.
 - The February 2021 Plan specifies 17 numbered strategies. Two governance and performance-measurement outputs were added for assessment, reflecting standard public-administration obligations.
-- National Cabinet and bilateral agreements formalised the monitoring and reporting obligations.
+- National Cabinet and the Commonwealth–State implementation plans set out the monitoring and reporting arrangements.
 
 ---
 
@@ -249,7 +249,7 @@ The Therapeutic Goods Act 1989 provisional registration framework, including spo
 
 6. ISO 19011:2018: principles and process for conducting this audit.
 
-**Secondary and contextual criteria.** FOI Act 1982 obligations on document existence and reasonable searches; ANAO records-management and audit-evidence guidance; National Cabinet COVID-19 Vaccination Policy (November 2020); Commonwealth-State bilateral agreements (February 2021).
+**Secondary and contextual criteria.** FOI Act 1982 obligations on document existence and reasonable searches; ANAO records-management and audit-evidence guidance; National Cabinet COVID-19 Vaccination Policy (November 2020); Commonwealth–State implementation plans (Victoria, 19 February 2021; Western Australia).
 
 ---
 
@@ -394,7 +394,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 **Criterion.** Consistency between public communication and formal policy commitment.
 
-**Evidence.** 3 February 2021 departmental video: COVID-19 vaccines "will be no different" from routine surveillance. February 2021 Plan: "enhanced" monitoring across 17 strategies. National Cabinet (November 2020): active and comprehensive monitoring. Bilateral agreements (February 2021): enhanced monitoring and systematic reporting. October 2025 Senate evidence: routine "day-to-day processes".
+**Evidence.** 3 February 2021 departmental video: COVID-19 vaccines "will be no different" from routine surveillance. February 2021 Plan: "enhanced" monitoring across 17 strategies. National Cabinet (November 2020): active and comprehensive monitoring. Victorian implementation plan (19 February 2021): strengthened active surveillance and reporting to the TGA. October 2025 Senate evidence: routine "day-to-day processes".
 
 **Finding.** Major non-conformity. The public "no different" message and the formal "enhanced" commitment cannot both be operationally true. The TGA's own later characterisation aligns with "no different", leaving the "enhanced" commitment unevidenced as a distinct, tracked framework. Three interpretations are open: the public was assured of more than was operationalised; the commitments were aspirational; or the TGA could not articulate what distinguished enhanced from routine. Each points to the same documentary outcome.
 
@@ -675,7 +675,7 @@ All URLs were verified as accessible in January 2026.
 ### Primary Sources: Government Commitments and Policy
 
 19. Australian Government. (2020, November). National Cabinet COVID-19 Vaccination Policy. https://www.health.gov.au/sites/default/files/documents/2021/01/covid-19-vaccination-australia-s-covid-19-vaccine-national-roll-out-strategy.pdf
-20. Australian Government. (2021, February). National Partnership on COVID-19 Response: bilateral agreements. https://federalfinancialrelations.gov.au/
+20. Australian Government. (2021). COVID-19 vaccination implementation arrangements: (a) Victoria COVID-19 Vaccination Program Implementation Plan (19 February 2021), https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/vic_vaccine_plan.pdf; (b) Western Australia COVID-19 Vaccination Program Implementation Plan, https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/wa_vaccine_plan.pdf; (c) National Partnership on COVID-19 Response, Vaccine Amendment Schedule, https://federalfinancialrelations.gov.au/sites/federalfinancialrelations.gov.au/files/2021-04/covid-19_response_vaccine_amendment_schedule.pdf.
 21. Australian Government Department of Health. (2021, February 3). Australian COVID-19 Vaccination Policy. https://www.health.gov.au/resources/publications/covid-19-vaccination-australian-covid-19-vaccination-policy
 
 ### Primary Sources: FOI Evidence
@@ -853,7 +853,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Last updated:** 6 November 2026
+**Last updated:** 12 November 2026
 
 [Back to top](#table-of-contents)
 

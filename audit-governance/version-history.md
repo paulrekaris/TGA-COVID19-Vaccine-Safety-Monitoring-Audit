@@ -74,6 +74,7 @@
 - ISO checklist: criterion 2 now rests on the Australian COVID-19 Vaccination Policy, with the Therapeutic Goods Act provisional registration framework recorded as out of scope. The "compensating safeguard" rationale is attributed ("presented as"), evidence wording is more precise, and the dose period now ends on 23 July 2023.
 - Evidence matrix: Senate citations on the Rating Criteria, Evidence Matrix and Output Assessment sheets now quote his statements (the Plan's themes "essentially describe our day-to-day processes"; no "single specific evaluation report"). Removed a Senate citation from Output 2.4 that the Hansard does not support.
 - Audit report and slide deck: Senate wording aligned with the Hansard (report pages 1, 11, 37 and 99; deck slides 6, 12, 13 and 16). The 9 October 2025 hearing is now named Supplementary Budget Estimates 2025–26 throughout the report, and the deck cover date and subtitle are updated.
+- ISO checklist: references to the Commonwealth–State agreements refined to the Victorian and Western Australian implementation plans, with the term "enhanced" removed from their description. Two statements on provisional approval and the plans' arrangements reworded, and reference 20 now lists the two plans and the National Partnership vaccine amendment schedule.
 
 ### Overview page, README and FAQ wording
 
