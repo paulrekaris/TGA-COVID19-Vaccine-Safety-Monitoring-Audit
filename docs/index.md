@@ -3,7 +3,7 @@ title: "Did Australia's TGA Monitor COVID Vaccine Safety as Promised?"
 author: Paul Rekaris
 description: "Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented."
 canonical: https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-date_modified: 2026-11-03
+date_modified: 2026-11-13
 version: 1.9.6
 licence: CC BY 4.0
 orcid: https://orcid.org/0009-0000-1338-9578
@@ -15,11 +15,13 @@ Documentary audit · ISO 19011:2018
 
 Did Australia's drug regulator, the Therapeutic Goods Administration (TGA), carry out the enhanced vaccine safety monitoring it promised? A four-year documentary audit of its compliance, tested against the plan's own commitments.
 
-In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to active and comprehensive vaccine safety monitoring and identified the TGA's COVID-19 Vaccine Pharmacovigilance Plan as part of that framework. In February 2021, the TGA published its [COVID-19 Vaccine Safety Monitoring Plan](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/tga-documents/tga-covid-19-vaccine-safety-monitoring-plan-feb-2021.pdf), setting out the enhanced monitoring framework for the rollout. The underlying Australian Government policy, Cabinet governance documents and Commonwealth–state implementation agreements are available in the [Australian Government Policy folder](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/aust-gov-policy/README.md). The Policy describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The Commonwealth–state agreements set out related surveillance and reporting commitments, including strengthened active surveillance and reporting of surveillance data to the TGA.
+In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to active and comprehensive vaccine safety monitoring and identified the TGA's COVID-19 Vaccine Pharmacovigilance Plan as part of that framework. In February 2021, the TGA published its [COVID-19 Vaccine Safety Monitoring Plan](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/tga-documents/tga-covid-19-vaccine-safety-monitoring-plan-feb-2021.pdf), setting out the enhanced monitoring framework for the rollout.
+
+The Policy describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The Commonwealth–state agreements implementing the Policy set out related surveillance and reporting commitments, including strengthened active surveillance and reporting of surveillance data to the TGA. The underlying Australian Government policy, Cabinet governance documents and Commonwealth–state implementation agreements are available in the [Australian Government Policy folder](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/aust-gov-policy/README.md).
 
 The audit assesses 19 outputs, comprising the Plan's 17 numbered strategy items and two additional governance outputs, each evaluated for documentary evidence of implementation. The methodology is open, falsifiable and replicable. Every finding is traceable to a public or FOI-released source, and the full evidence base is published for independent scrutiny.
 
-It examines 68.4 million doses (91.2% of Australia's rollout) across four years. The question is narrow and verifiable: can the implementation of the vaccine safety monitoring plan, and the regulator's compliance with its commitments, be independently confirmed through the documentary record, given the role enhanced monitoring was intended to play alongside provisional approval?
+It examines 68.4 million doses (91.2% of Australia's rollout) across four years and asks one narrow, verifiable question: can implementation of the monitoring plan, and the regulator's compliance with its commitments, be independently confirmed from the documentary record, given enhanced monitoring's intended role alongside provisional approval?
 
 The audit did not identify documentary evidence that the TGA systematically implemented the enhanced vaccine safety monitoring framework described in its February 2021 plan, leaving compliance unverifiable from available records. Of 19 audited outputs, only **3** are fully documented; the remaining **16** are partially documented or undocumented from the available material.
 
@@ -31,13 +33,15 @@ When COVID-19 vaccines were provisionally approved for Australia's largest mass 
 
 The TGA reported pharmacovigilance activity throughout the rollout, including more than 150 published safety reports, 150 safety signals assessed and 57 regulatory actions. The audit tests whether the enhanced monitoring framework described in the Plan was implemented, not whether safety monitoring occurred.
 
-The audit is grounded in the fundamental principles of public accountability and transparency: when public institutions make significant commitments, their implementation should be capable of independent verification through an adequate documentary record. A commitment to enhanced monitoring should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed. The audit did not identify a Plan-level record demonstrating this, leaving delivery of the National Cabinet commitment, and accountability for it, unable to be independently established.
+The audit is grounded in the fundamental principles of public accountability and transparency: when public institutions make significant commitments, their implementation should be capable of independent verification through an adequate documentary record. A commitment to enhanced monitoring should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed.
+
+The audit did not identify a Plan-level record demonstrating this, leaving delivery of the National Cabinet commitment, and accountability for it, unable to be independently established.
 
 ---
 
 ## Regulatory and accountability framework
 
-The purpose of this audit is best understood in the context of how the monitoring commitment in the Australian COVID-19 Vaccination Policy was operationalised through the TGA's Safety Monitoring Plan. This diagram maps that policy commitment against the statutory framework for provisional registration and distinguishes sponsor obligations, the TGA's operational commitments, Commonwealth accountability requirements and relevant non-statutory international guidance. [View the diagram](https://raw.githubusercontent.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/main/analysis/regulatory-accountability-framework.svg)
+The diagram shows how the monitoring commitment in the Australian COVID-19 Vaccination Policy was operationalised through the TGA's Safety Monitoring Plan. It separates sponsor obligations, the TGA's operational commitments, Commonwealth accountability requirements and non-statutory international guidance, and maps them against the statutory framework for provisional registration. [View the diagram](https://raw.githubusercontent.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/main/analysis/regulatory-accountability-framework.svg)
 
 ---
 
@@ -47,7 +51,7 @@ The purpose of this audit is best understood in the context of how the monitorin
 
 - **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes", its "standard sort of process in terms of post market surveillance and pharmacovigilance", and that there is "no single specific evaluation report outlining or benchmarking us against the elements of that plan". That describes routine processes, indicating that the Plan was not systematically tracked against its objectives, and the audit found no records showing otherwise.
 
-- **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals assessed and 57 regulatory actions undertaken; however, the response does not provide traceability between individual safety signal assessments and corresponding regulatory actions or decisions. The response provides no signal-management documentation demonstrating how safety-signal evaluation outcomes are linked to the reported pharmacovigilance activities or how the Plan's 17 numbered strategy items were monitored.
+- **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals assessed and 57 regulatory actions undertaken. The response does not link individual safety signal assessments to regulatory actions or decisions, and provides no signal-management documentation showing how evaluation outcomes connect to the reported activities or how the Plan's 17 numbered strategy items were monitored.
 
 ---
 
@@ -89,13 +93,13 @@ Audit report (SSRN) [10.2139/ssrn.6333058](https://doi.org/10.2139/ssrn.6333058)
 
 Dataset and methodology paper (SSRN) [10.2139/ssrn.6610438](https://doi.org/10.2139/ssrn.6610438)
 
+Preprint (SocArXiv) [10.31235/osf.io/sb4gz](https://osf.io/preprints/socarxiv/sb4gz)
+
 Archive (Zenodo) [10.5281/zenodo.17731054](https://doi.org/10.5281/zenodo.17731054)
 
 Dataset (Harvard Dataverse) [10.7910/DVN/BDKZQJ](https://doi.org/10.7910/DVN/BDKZQJ)
 
 Dataset (Mendeley Data) [10.17632/y5wmt6f8j9](https://doi.org/10.17632/y5wmt6f8j9)
-
-Preprint (SocArXiv) [10.31235/osf.io/sb4gz](https://osf.io/preprints/socarxiv/sb4gz)
 
 National edeposit (NLA) [NED476889S65171](https://nla.gov.au/nla.obj-4238332288)
 
@@ -111,11 +115,11 @@ Bitcoin timestamp point-in-time proof of the audit's existence and integrity · 
 
 Office of the Australian Information Commissioner, [Decision [2025] AICmr 54](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/AICmr/2025/54.html?context=1;query=auq%20MR22/00538%20;mask_path=) (26 March 2025).
 
-TGA evidence to the Senate Community Affairs Legislation Committee, [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) (9 October 2025) · [watch the evidence](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s).
+TGA evidence to the Senate Community Affairs Legislation Committee, [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) (9 October 2025) · [watch the TGA at Senate Estimates](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s).
 
-TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584), December 2025.
+TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584, asked 17 October 2025).
 
-Australian Senate Hansard, 24 March 2026: audit [cited in the Senate](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003) · [watch the speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900).
+Audit cited in the Australian Senate, [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003) (24 March 2026) · [watch the Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900).
 
 [Read the full audit and evidence base →](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit)
 
