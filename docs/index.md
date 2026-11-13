@@ -117,7 +117,7 @@ Office of the Australian Information Commissioner, [Decision [2025] AICmr 54](ht
 
 TGA evidence to the Senate Community Affairs Legislation Committee, [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) (9 October 2025) · [watch the TGA at Senate Estimates](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s).
 
-TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584, asked 17 October 2025).
+TGA written answer to [Senate Question on Notice 559](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/analysis/tga-senate-qon-559-gap-analysis-2026.md) (DHDA SQ25-001584, answered 21 January 2026).
 
 Audit cited in the Australian Senate, [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber%2Fhansards%2F29212%2F&sid=0003) (24 March 2026) · [watch the Senate speech](https://www.youtube.com/live/lXSeEoT-32g?t=30900).
 

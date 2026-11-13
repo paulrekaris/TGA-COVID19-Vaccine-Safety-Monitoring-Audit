@@ -863,7 +863,7 @@ The comprehensive audit report includes:
 
 ### Supporting Documentation
 
-- [TGA Senate QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) – Gap analysis of TGA's formal written answer to Senate Question on Notice 559 (SQ25-001584, October 2025) assessing TGA's stated positions against all five Safety Monitoring Plan strategies and documenting the 93-signal gap derived from TGA's own parliamentary figures.
+- [TGA Senate QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) – Gap analysis of TGA's formal written answer to Senate Question on Notice 559 (SQ25-001584, answered 21 January 2026) assessing TGA's stated positions against all five Safety Monitoring Plan strategies and documenting the 93-signal gap derived from TGA's own parliamentary figures.
 
 - [TGA Senate QON SQ13-19 Gap Analysis](analysis/tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards.
 

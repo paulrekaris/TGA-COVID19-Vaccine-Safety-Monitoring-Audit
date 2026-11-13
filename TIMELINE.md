@@ -76,10 +76,8 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 
 - [Hansard](https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/estimate/29000/&sid=0003) | [Video (timestamped 2:30:40–2:37:00)](https://www.youtube.com/watch?v=YLFNBFdICU0&t=9040s) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md)
 
-**October–December 2025**
+**17 October 2025**
 - **Senate Question on Notice 559 (SQ25-001584)** placed on notice by Senator Alex Antic on 17 October 2025 following the 9 October 2025 hearing
-- **QON response received December 2025** — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" produces no documentary evidence of systematic implementation; 93 of 150 investigated signals have no publicly documented decision rationale
-- [Senate Questions on Notice — Community Affairs](https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md) | [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) | [QON 559 document](primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
 **27 November and 10 December 2025**
 - **ANAO submissions** — requesting a dedicated performance audit of TGA's COVID-19 vaccine pharmacovigilance implementation and compliance with provisional-approval conditions
@@ -92,6 +90,10 @@ This timeline documents the full chronology of FOI requests, Information Commiss
 ---
 
 ## 2026
+
+**21 January 2026**
+- **QON 559 answered** — TGA's formal written answer to the direct question "How has the TGA complied with the COVID-19 Vaccine Safety Monitoring Plan?" produces no documentary evidence of systematic implementation; 93 of 150 investigated signals have no publicly documented decision rationale
+- [Senate Questions on Notice — Community Affairs](https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca/2025-26_Supplementary_Budget_estimates) | [Senate primary sources](primary-sources/senate-community-affairs-legislation-committee/README.md) | [QON 559 Gap Analysis](analysis/tga-senate-qon-559-gap-analysis-2026.md) | [QON 559 document](primary-sources/senate-community-affairs-legislation-committee/A0559-community-affairs-supplementary-budget-estimates-health-disability-and-ageing.pdf)
 
 **2 March 2026**
 - Senate Community Affairs Legislation Committee Secretary acknowledges correspondence and notes the issues raised
@@ -124,7 +126,8 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 | June 2025 | IC review MR25/01153 lodged |
 | 9 October 2025 | Senate testimony: the TGA said the Plan's five key themes "essentially describe our day-to-day processes" |
 | 17 October 2025 | QON SQ25-001584 placed on notice |
-| November–December 2025 | ANAO submissions lodged; QON SQ25-001584 — no systematic tracking, audit calculation: 93 of 150 signals with no recorded outcome |
+| November–December 2025 | ANAO submissions lodged |
+| 21 January 2026 | QON SQ25-001584 answered — no systematic tracking, audit calculation: 93 of 150 signals with no recorded outcome |
 | 24 March 2026 | Australian Senate — audit cited by name, Senator Malcolm Roberts |
 | 1 September 2026 | Supporting material reconstructed and resubmitted to Commonwealth Ombudsman (2025-806374) |
 | 18 September 2026 | Commonwealth Ombudsman advised that complaint 2025-806374 had been referred for further consideration within the Office and would be allocated for further assessment |
@@ -134,4 +137,4 @@ IC review MR25/01153 (lodged June 2025) — pending. Based on the precedent of M
 
 *For detailed analysis of each Commonwealth process, see the [Main Audit Report](analysis/documentation-gap-analysis-audit-report.pdf) and [Supporting Documentation](README.md#supporting-documentation).*
 
-**Last updated:** 4 November 2026
+**Last updated:** 13 November 2026

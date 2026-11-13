@@ -20,7 +20,7 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [Search Methodology Comparison](search-methodology-comparison.md) – Comparison of audit's 14 output-specific search terms versus TGA's 8 generic document-title terms with gap analysis
 
-- [TGA Senate QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md) – Gap analysis of TGA's formal written answer to Senate Question on Notice 559 (SQ25-001584, October 2025) assessing TGA's stated positions against all five Safety Monitoring Plan strategies, mapping responses to audit findings, and documenting the 93-signal gap derived from TGA's own parliamentary figures — consistent with ISO 19011 conformity assessment and main audit findings
+- [TGA Senate QON 559 Gap Analysis](tga-senate-qon-559-gap-analysis-2026.md) – Gap analysis of TGA's formal written answer to Senate Question on Notice 559 (SQ25-001584, answered 21 January 2026) assessing TGA's stated positions against all five Safety Monitoring Plan strategies, mapping responses to audit findings, and documenting the 93-signal gap derived from TGA's own parliamentary figures — consistent with ISO 19011 conformity assessment and main audit findings
   
 - [TGA Senate QON SQ13-19 Gap Analysis](tga-senate-qon-sq13-19-gap-analysis-2026.pdf) – Gap analysis of TGA's responses to seven Senate Questions on Notice (SQ13–19, December 2025) mapping TGA's stated positions against Safety Monitoring Plan outputs, National Cabinet policy commitments, and international pharmacovigilance standards, using the four-layer governance hierarchy framework consistent with the main audit
 
@@ -40,5 +40,5 @@ This directory contains the main audit report and supporting analysis materials.
 
 - [TGA Safety Plan Audit](tga-safety-plan-audit.pdf) - Visual executive summary presentation with implementation dashboard and key gaps
 
-**Last Updated:** 11 September 2026    
+**Last Updated:** 13 November 2026    
 **Licence:** CC BY 4.0
