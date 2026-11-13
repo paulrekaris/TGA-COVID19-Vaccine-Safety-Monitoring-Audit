@@ -53,7 +53,7 @@
 
 ### Overview page
 
-- Reordered so "Why does this matter?" precedes the framework diagram, with the Policy's own wording, the TGA's reported activity, the accountability principle and the 17-strategy and 19-output explanation added. Finding 02 now carries the TGA's Senate statement. FAQ heading, eyebrow line, Senate video link and "Cited and corroborated" list refined.
+- Reordered so "Why does this matter?" precedes the framework diagram, with the Policy's own wording, the TGA's reported activity, the accountability principle and the 17-strategy and 19-output explanation added. Finding 02 now carries the TGA's Senate statement. FAQ heading, eyebrow line, Senate video link and "Cited and corroborated" list refined, and the opening, findings wording and permanent record order tidied.
 
 ### Main audit report and deck
 
