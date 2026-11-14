@@ -55,7 +55,7 @@
 
 - Reordered so "Why does this matter?" precedes the framework diagram, with the Policy's own wording, the TGA's reported activity, the accountability principle and the 17-strategy and 19-output explanation added. Finding 02 now carries the TGA's Senate statement. FAQ heading, eyebrow line, Senate video link and "Cited and corroborated" list refined, and the opening, findings wording and permanent record order tidied.
 
-### Main audit report and deck
+### Main audit report and Powerpoint deck
 
 - Report: Senate wording aligned with the Hansard, and wording refined on the verification sentence, the statutory basis for provisional registration, the Policy's monitoring commitment, the PGPA Act records duty, department names, the cadence of safety reports, the recommendations and the glossary, with minor typographical fixes. Cover date updated to November 2026. The README description of the cadence of the TGA's safety reports was refined to match the surveillance analysis.
 - Deck: Senate wording aligned, with cover date and subtitle updated.
