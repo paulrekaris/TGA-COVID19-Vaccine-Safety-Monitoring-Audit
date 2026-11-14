@@ -164,11 +164,11 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Persistent Identifier Provider:** DataCite  
 **Indexed:** DOI-registered scholarly repository infrastructure
   
-**Also indexed in:** [US National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440) (record observed 14 November 2026)
+**Also indexed in:** [NIH National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440) (record observed 14 November 2026)
 
 ### Significance
 
-Harvard Dataverse is a major scholarly research data repository operated by Harvard University. It provides DOI-backed archival preservation, citation infrastructure, metadata indexing, and long-term public access for research datasets. Publication in Harvard Dataverse supports transparency, reproducibility, discoverability, and independent verification of the audit evidence base. The repository forms part of the project’s multi-layer preservation architecture built around the LOCKSS principle (“Lots of Copies Keep Stuff Safe”), ensuring that the underlying implementation and governance dataset remains permanently accessible independent of any single platform or jurisdiction. The listing in the [US National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440) makes the dataset discoverable to biomedical researchers beyond the host repository.
+Harvard Dataverse is a major scholarly research data repository operated by Harvard University. It provides DOI-backed archival preservation, citation infrastructure, metadata indexing, and long-term public access for research datasets. Publication in Harvard Dataverse supports transparency, reproducibility, discoverability, and independent verification of the audit evidence base. The repository forms part of the project’s multi-layer preservation architecture built around the LOCKSS principle (“Lots of Copies Keep Stuff Safe”), ensuring that the underlying implementation and governance dataset remains permanently accessible independent of any single platform or jurisdiction. The listing in the [NIH National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440) makes the dataset discoverable to biomedical researchers beyond the host repository.
 
 ### Access
 
