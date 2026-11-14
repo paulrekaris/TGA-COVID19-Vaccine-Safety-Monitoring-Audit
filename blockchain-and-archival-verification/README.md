@@ -6,9 +6,9 @@ This audit is protected by multiple verification and archival methods including 
 
 [![ISO 19011:2018](https://img.shields.io/badge/ISO-19011%3A2018-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/70017.html) [![ISO 15489-1:2016](https://img.shields.io/badge/ISO-15489--1%3A2016-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/62542.html) [![ISO 14721:2025](https://img.shields.io/badge/ISO-14721%3A2025-CC0000?labelColor=CC0000&style=flat-square)](https://www.iso.org/standard/87471.html) [![LOCKSS](https://img.shields.io/badge/LOCKSS-Lots%20of%20Copies%20Keep%20Stuff%20Safe-8C1515?labelColor=8C1515&style=flat-square)](https://www.lockss.org/) 
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz-C0392B?labelColor=C0392B)](https://osf.io/preprints/socarxiv/sb4gz) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17731054-blue)](https://doi.org/10.5281/zenodo.17731054) [![Harvard Dataverse](https://img.shields.io/badge/Harvard%20Dataverse-10.7910%2FDVN%2FBDKZQJ-A51C30?labelColor=A51C30)](https://doi.org/10.7910/DVN/BDKZQJ) [![SSRN](https://img.shields.io/badge/SSRN-6333058-0a4d8c?labelColor=0a4d8c)](https://ssrn.com/abstract=6333058) [![SocArXiv](https://img.shields.io/badge/SocArXiv-10.31235%2Fosf.io%2Fsb4gz-C0392B?labelColor=C0392B)](https://osf.io/preprints/socarxiv/sb4gz) [![Mendeley Data](https://img.shields.io/badge/Mendeley%20Data-10.17632%2Fy5wmt6f8j9-000000?labelColor=000000&color=000000)](https://doi.org/10.17632/y5wmt6f8j9) [![NIH National Library of Medicine](https://img.shields.io/badge/NIH%20National%20Library%20of%20Medicine-Dataset%20Catalog-6B6B6B?labelColor=6B6B6B)](https://datasetcatalog.nlm.nih.gov/searchResults?filters=&sort=rel&query=Paul+Rekaris&page=1&size=10) 
 
-[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave verify](https://img.shields.io/badge/Arweave-Verify%20on--chain-FF4E42)](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave retrieve](https://img.shields.io/badge/Arweave-Retrieve%20files-000000)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5) [![NIH National Library of Medicine](https://img.shields.io/badge/NIH%20National%20Library%20of%20Medicine-Dataset%20Catalog-6B6B6B?labelColor=6B6B6B)](https://datasetcatalog.nlm.nih.gov/searchResults?filters=&sort=rel&query=Paul+Rekaris&page=1&size=10) [![Software Heritage](https://img.shields.io/badge/Software%20Heritage-25%20Oct%202026-E20026?labelColor=E20026)](https://archive.softwareheritage.org/swh:1:dir:8d902489f77d57e956c4ff57f9f7841c9014c01d;origin=https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit;visit=swh:1:snp:bb10a2a8bc810e93d84a82bf73c254de61c249f2;anchor=swh:1:rev:71f88b9791f44f15bff3b1b0b0f04351b9554fe8)
+[![Bitcoin Timestamp](https://img.shields.io/badge/Bitcoin%20Timestamp-29%20Mar%202026-F7931A?labelColor=000000&logo=bitcoin)](bitcoin-timestamp-verification-2026-03-29.png) [![Bitcoin Block Explorer](https://img.shields.io/badge/Bitcoin-Block%20942725-F7931A?labelColor=000000&logo=bitcoin)](https://mempool.space/block/00000000000000000001835be8e30d6d83c3b4296f06ee5d8fcdc9d0aafd3e4a) [![Arweave verify](https://img.shields.io/badge/Arweave-Verify%20on--chain-FF4E42)](https://viewblock.io/arweave/tx/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Arweave retrieve](https://img.shields.io/badge/Arweave-Retrieve%20files-000000)](https://turbo-gateway.com/TNVdy5y__FCWRvXA1pBTQQ-kEBJfG-SOdb7JEmnbeps) [![Internet Archive](https://img.shields.io/badge/Internet%20Archive-Full%20Repository-black?logo=internetarchive&logoColor=white)](https://archive.org/details/tga-covid-19-vaccine-safety-monitoring-audit-v-1.9.5) [![Software Heritage](https://img.shields.io/badge/Software%20Heritage-25%20Oct%202026-E20026?labelColor=E20026)](https://archive.softwareheritage.org/swh:1:dir:8d902489f77d57e956c4ff57f9f7841c9014c01d;origin=https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit;visit=swh:1:snp:bb10a2a8bc810e93d84a82bf73c254de61c249f2;anchor=swh:1:rev:71f88b9791f44f15bff3b1b0b0f04351b9554fe8)
 
 ## Research Infrastructure Architecture
 
@@ -32,11 +32,11 @@ This audit is protected by multiple verification and archival methods including 
 - [Harvard Dataverse – Harvard University Research Data Repository](#harvard-dataverse--harvard-university-research-data-repository)
 - [SSRN – Social Science Research Network](#ssrn--social-science-research-network)
 - [SocArXiv – OSF Preprints (Social Sciences)](#socarxiv--osf-preprints-social-sciences)
+- [NIH National Library of Medicine – Dataset Catalog](#nih-national-library-of-medicine--dataset-catalog)
 - [Bitcoin Timestamp (OpenTimestamps)](#bitcoin-timestamp-opentimestamps)
 - [Arweave Permanent Storage](#arweave-permanent-storage)
 - [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
 - [Internet Archive – Direct Upload](#internet-archive--direct-upload)
-- [NIH National Library of Medicine – Dataset Catalog](#nih-national-library-of-medicine--dataset-catalog)
 - [Software Heritage Archive](#software-heritage-archive)
 - [Combined Verification](#combined-verification)
 
@@ -221,6 +221,23 @@ SocArXiv is an open access preprint platform for the social sciences operated by
 
 ---
 
+## NIH National Library of Medicine – Dataset Catalog
+
+**Catalogue:** NIH National Library of Medicine Dataset Catalog  
+**Listed records:** Zenodo, Mendeley Data and Harvard Dataverse records of the audit, listed by version  
+**Observed:** 15 November 2026
+
+### Significance
+
+The catalogue holds metadata only and links to the host repository. The listing makes the audit's datasets discoverable to biomedical researchers beyond the host repositories.
+
+### Access
+
+**Search results:** https://datasetcatalog.nlm.nih.gov/searchResults?filters=&sort=rel&query=Paul+Rekaris&page=1&size=10  
+**Harvard Dataverse record:** https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440
+
+---
+
 ## Bitcoin Timestamp (OpenTimestamps)
 
 ### Version 1.9.2
@@ -314,23 +331,6 @@ To view historical snapshots:
 
 ---
 
-## NIH National Library of Medicine – Dataset Catalog
-
-**Catalogue:** NIH National Library of Medicine Dataset Catalog  
-**Listed records:** Zenodo, Mendeley Data and Harvard Dataverse records of the audit, listed by version  
-**Observed:** 15 November 2026
-
-### Significance
-
-The catalogue holds metadata only and links to the host repository. The listing makes the audit's datasets discoverable to biomedical researchers beyond the host repositories.
-
-### Access
-
-**Search results:** https://datasetcatalog.nlm.nih.gov/searchResults?filters=&sort=rel&query=Paul+Rekaris&page=1&size=10  
-**Harvard Dataverse record:** https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440
-
----
-
 ## Software Heritage Archive
 
 **Archived:** 25 October 2026, 00:48:50 UTC
@@ -362,10 +362,10 @@ This audit is protected by multiple independent verification methods:
 - **SSRN:** Academic preprint repository; registered by ORCID: https://ssrn.com/abstract=6333058  
 - **Mendeley Data:** Companion dataset repository; Elsevier ecosystem; long-term archiving by DANS: https://data.mendeley.com/datasets/y5wmt6f8j9  
 - **SocArXiv – OSF Preprints (Social Sciences):** Social science preprint repository; registered by ORCID: https://doi.org/10.31235/osf.io/sb4gz_v4  
+- **NIH National Library of Medicine Dataset Catalog:** lists the Zenodo, Mendeley Data and Harvard Dataverse records of the audit (metadata only)
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
-- **NIH National Library of Medicine Dataset Catalog:** lists the Zenodo, Mendeley Data and Harvard Dataverse records of the audit (metadata only)
 - **Software Heritage:** holds a capture of the repository and its history at revision 71f88b9, taken 25 October 2026
 - **GitHub:** Public version control with complete history
 
