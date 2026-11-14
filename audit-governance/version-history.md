@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 13 November 2026
+**Last updated:** 14 November 2026
 
 
 ---
@@ -57,7 +57,7 @@
 
 ### Main audit report and deck
 
-- Report: Senate wording aligned with the Hansard, and wording refined on the verification sentence, the statutory basis for provisional registration and the cadence of safety reports. Cover date updated to November 2026. The README description of the cadence of the TGA's safety reports was refined to match the surveillance analysis.
+- Report: Senate wording aligned with the Hansard, and wording refined on the verification sentence, the statutory basis for provisional registration, the Policy's monitoring commitment, the PGPA Act records duty, department names, the cadence of safety reports, the recommendations and the glossary, with minor typographical fixes. Cover date updated to November 2026. The README description of the cadence of the TGA's safety reports was refined to match the surveillance analysis.
 - Deck: Senate wording aligned, with cover date and subtitle updated.
 
 ### Sources and records
