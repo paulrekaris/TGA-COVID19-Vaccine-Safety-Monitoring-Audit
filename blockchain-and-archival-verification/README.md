@@ -36,6 +36,7 @@ This audit is protected by multiple verification and archival methods including 
 - [Arweave Permanent Storage](#arweave-permanent-storage)
 - [Internet Archive (Wayback Machine)](#internet-archive-wayback-machine)
 - [Internet Archive – Direct Upload](#internet-archive--direct-upload)
+- [NIH National Library of Medicine – Dataset Catalog](#nih-national-library-of-medicine--dataset-catalog)
 - [Software Heritage Archive](#software-heritage-archive)
 - [Combined Verification](#combined-verification)
 
@@ -163,12 +164,10 @@ Zenodo is a general-purpose open research repository operated by CERN and develo
 **Status:** PUBLISHED — Publicly Accessible  
 **Persistent Identifier Provider:** DataCite  
 **Indexed:** DOI-registered scholarly repository infrastructure
-  
-**Also indexed in:** [NIH National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440) (record observed 14 November 2026)
 
 ### Significance
 
-Harvard Dataverse is a major scholarly research data repository operated by Harvard University. It provides DOI-backed archival preservation, citation infrastructure, metadata indexing, and long-term public access for research datasets. Publication in Harvard Dataverse supports transparency, reproducibility, discoverability, and independent verification of the audit evidence base. The repository forms part of the project’s multi-layer preservation architecture built around the LOCKSS principle (“Lots of Copies Keep Stuff Safe”), ensuring that the underlying implementation and governance dataset remains permanently accessible independent of any single platform or jurisdiction. The listing in the [NIH National Library of Medicine Dataset Catalog](https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440) makes the dataset discoverable to biomedical researchers beyond the host repository.
+Harvard Dataverse is a major scholarly research data repository operated by Harvard University. It provides DOI-backed archival preservation, citation infrastructure, metadata indexing, and long-term public access for research datasets. Publication in Harvard Dataverse supports transparency, reproducibility, discoverability, and independent verification of the audit evidence base. The repository forms part of the project’s multi-layer preservation architecture built around the LOCKSS principle (“Lots of Copies Keep Stuff Safe”), ensuring that the underlying implementation and governance dataset remains permanently accessible independent of any single platform or jurisdiction.
 
 ### Access
 
@@ -315,6 +314,23 @@ To view historical snapshots:
 
 ---
 
+## NIH National Library of Medicine – Dataset Catalog
+
+**Catalogue:** NIH National Library of Medicine Dataset Catalog  
+**Listed records:** Zenodo, Mendeley Data and Harvard Dataverse records of the audit, listed by version  
+**Observed:** 15 November 2026
+
+### Significance
+
+The catalogue holds metadata only and links to the host repository. The listing makes the audit's datasets discoverable to biomedical researchers beyond the host repositories.
+
+### Access
+
+**Search results:** https://datasetcatalog.nlm.nih.gov/searchResults?filters=&sort=rel&query=Paul+Rekaris&page=1&size=10  
+**Harvard Dataverse record:** https://datasetcatalog.nlm.nih.gov/dataset?q=0003018440
+
+---
+
 ## Software Heritage Archive
 
 **Archived:** 25 October 2026, 00:48:50 UTC
@@ -349,6 +365,7 @@ This audit is protected by multiple independent verification methods:
 - **Bitcoin:** Cryptographic timestamp proving existence on 29 March 2026 (block 942725)
 - **Arweave:** Permanent storage ensuring file accessibility forever
 - **Internet Archive:** Web presence verification with dated snapshots
+- **NIH National Library of Medicine Dataset Catalog:** lists the Zenodo, Mendeley Data and Harvard Dataverse records of the audit (metadata only)
 - **Software Heritage:** holds a capture of the repository and its history at revision 71f88b9, taken 25 October 2026
 - **GitHub:** Public version control with complete history
 
@@ -372,4 +389,4 @@ Together, the technical preservation layers ensure the audit cannot be suppresse
 
 [↑ Back to top](#table-of-contents)
 
-**Last updated:** 14 November 2026
+**Last updated:** 15 November 2026
