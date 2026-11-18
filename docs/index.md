@@ -3,7 +3,7 @@ title: "Did Australia's TGA Monitor COVID Vaccine Safety as Promised?"
 author: Paul Rekaris
 description: "Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented."
 canonical: https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-date_modified: 2026-11-18
+date_modified: 2026-11-19
 version: 1.9.6
 licence: CC BY 4.0
 orcid: https://orcid.org/0009-0000-1338-9578
@@ -31,7 +31,7 @@ The audit did not identify documentary evidence that the TGA systematically impl
 
 When COVID-19 vaccines were provisionally approved for Australia's largest mass vaccination rollout, the National Cabinet-endorsed vaccination policy committed that the TGA would "actively and comprehensively monitor" them for safety. The TGA's COVID-19 Vaccine Safety Monitoring Plan (described in the policy as its pharmacovigilance plan), issued in February 2021, set out 17 numbered strategies. 68.4 million doses followed.
 
-The TGA reported pharmacovigilance activity throughout the rollout, including more than 150 published safety reports, 150 safety signals assessed and 57 regulatory actions. The audit tests whether the enhanced monitoring framework described in the Plan was implemented, not whether safety monitoring occurred.
+The TGA reported pharmacovigilance activity throughout the rollout, including more than 150 published safety reports, 150 safety signals assessed and 57 regulatory actions. That activity demonstrates that safety monitoring occurred. The audit examines whether the enhanced monitoring framework described in the Plan was implemented and whether its delivery can be independently verified from the documentary record.
 
 The audit is grounded in the fundamental principles of public accountability and transparency: when public institutions make significant commitments, their implementation should be capable of independent verification through an adequate documentary record. A commitment to enhanced monitoring should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed.
 
@@ -57,7 +57,7 @@ The diagram shows how the monitoring commitment in the Australian COVID-19 Vacci
 
 ## Questions and answers
 
-*Each answer below is framed by the audit's evidentiary standard: what can be confirmed on the documentary record.*
+*Each answer applies the audit's evidentiary standard: what can be confirmed on the documentary record.*
 
 ### Did the TGA implement its COVID-19 vaccine safety monitoring plan?
 
@@ -67,7 +67,7 @@ The audit found that 16 of 19 outputs are partially documented or undocumented, 
 
 Yes. The audit does not dispute that vaccine safety monitoring occurred. The TGA told the Senate it was part of its "day-to-day processes". The audit examines whether the enhanced monitoring promised under the National Cabinet-endorsed Australian COVID-19 Vaccination Policy, and subsequently set out in the TGA's February 2021 Plan, was implemented as committed and can be independently verified from the documentary record.
 
-AusVaxSafety, for example, conducted 6.8 million post-vaccination surveys. Strategy 2.4 of the Plan committed to "Establish real-time collaboration with COVID-19 active surveillance activities for safety signal detection and analysis." The question is therefore not whether AusVaxSafety existed or collected survey data, but whether the documentary record demonstrates that collaboration and how active-surveillance data were integrated with TGA signal detection and analysis to deliver the commitment. The available record does not establish this.
+AusVaxSafety, for example, conducted 6.8 million post-vaccination surveys. Strategy 2.4 of the Plan committed to "Establish real-time collaboration with COVID-19 active surveillance activities for safety signal detection and analysis." AusVaxSafety existed and collected survey data. However, the available documentary record does not establish whether the collaboration promised in the Plan was implemented, or how active-surveillance data were integrated into the TGA's signal detection and analysis.
 
 The Plan gave operational form to a national commitment to enhanced safety monitoring for a mass vaccination rollout. Whether implementation was centralised or distributed, the record should be capable of establishing what was implemented and how performance was assessed, consistent with Commonwealth recordkeeping and performance requirements. Verifying the Plan as an integrated framework also requires evidence of how its elements worked together and how decisions were made.
 
