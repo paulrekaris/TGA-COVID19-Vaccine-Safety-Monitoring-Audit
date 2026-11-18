@@ -99,7 +99,7 @@ Only 3 of 19 audited outputs (16%) fully documented; no evidence of systematic t
 ## What TGA Cannot Demonstrate
 
 **Regulatory Obligations**
-TGA cannot produce documentation showing it delivered the enhanced-monitoring commitments in the Plan under National Cabinet-endorsed policy and the international pharmacovigilance standards it cites (ICH E2E, CIOMS).
+TGA cannot produce documentation showing it delivered the enhanced-monitoring commitments in the Plan under National Cabinet-endorsed policy, measured against recognised pharmacovigilance good practice (ICH E2E, CIOMS Working Group VIII, EMA GVP Module IX).
 
 **Official Confirmation**
 The Information Commissioner found that the implementation report requested under FOI 3643 cannot be found or does not exist.
@@ -507,7 +507,7 @@ Active surveillance was supposed to distinguish this monitoring from routine pha
 
 ### Q22: What international pharmacovigilance standards were potentially not met?
 
-The audit assessed the Plan against ICH E2E, formally adopted by the TGA, and relevant internationally recognised pharmacovigilance guidance and benchmarks, including CIOMS signal-management guidance, EMA Good Pharmacovigilance Practices and WHO pharmacovigilance indicators.
+The audit used ICH E2E, adopted by the TGA as sponsor-facing guidance, and other recognised pharmacovigilance guidance as benchmarks, including CIOMS Working Group VIII (signal detection), EMA Good Pharmacovigilance Practices and WHO pharmacovigilance indicators.
 
 These frameworks collectively establish expectations for:
 

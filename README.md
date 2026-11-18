@@ -628,7 +628,7 @@ Crucially, that audit did **not** examine:
 - Whether TGA’s specific pharmacovigilance commitments in the February 2021 COVID‑19 Vaccine Safety Monitoring Plan were implemented as designed.  
 - Whether “enhanced” monitoring, distinct from routine surveillance, actually operated in practice.  
 - Whether compliance with sponsor conditions of provisional registration was verified and documented before vaccines transitioned to full registration.
-- Whether TGA’s records and decision trails met international pharmacovigilance standards (e.g. ICH E2E, CIOMS) for traceable audit trails from signal detection to regulatory action.
+- Whether TGA’s records and decision trails are consistent with recognised pharmacovigilance good practice (e.g. EMA GVP Module IX, CIOMS Working Group VIII) for traceable audit trails from signal detection to regulatory action.
 
 As a result, there is currently no independent assurance that the enhanced post‑market safety monitoring promised to Australians – and relied upon to justify provisional approval for 68.4 million doses – was ever implemented and documented to the standard expected of a national regulator.
 

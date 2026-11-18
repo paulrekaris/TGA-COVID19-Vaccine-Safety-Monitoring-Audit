@@ -75,7 +75,7 @@ Independent audit of the TGA's COVID-19 Vaccine Safety Monitoring Plan implement
 - FOI 4029-03: the TGA presented Strategy 2.3 methodology to the Advisory Committee on Vaccines (September 2021), while concurrent public reports carried no such output.
 - FOI 5275: the TGA does not hold the cancer incidence data a third party requested. This shows a data gap, not whether the Strategy 2.3 calculation was performed.
 - FOI 4029-05: VSIG was operational during the relevant period; the documentary record does not show the child deaths reported in that period referred to it for expert review. The Department states that none of the nine child deaths on DAEN met the criteria to convene a VSIG (QON 2328, SQ25-003155); the assessments were not released, so this cannot be tested. The TGA's preliminary fatal case assessment document (FOI 4302-01) states that the VSIG should be used only in accordance with its criteria.
-- Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and gaps against ICH E2E and CIOMS Working Group VIII practice.
+- Surveillance analysis: the sampled reports contained no Plan-framework reference, with observable change from enhanced to routine reporting and documentation gaps against recognised good practice (CIOMS Working Group VIII, EMA GVP Module IX).
 - Systematic FOI disclosure log review: a complete review of 500+ FOI releases (July 2020 – December 2025) was conducted on **10 January 2026 (4.5 hours systematic review)**, which identified no Plan implementation documents beyond those already in the repository.
 - TGA Performance Reports 2022-23 and 2023-24 contain no explicit references to the COVID-19 Vaccine Safety Monitoring Plan.
 
