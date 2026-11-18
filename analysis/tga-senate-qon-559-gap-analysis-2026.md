@@ -85,7 +85,7 @@ However, the QON provides no signal-by-signal mapping linking individual signals
 
 **GVP Module IX relevance:** EMA GVP Module IX provides for systematic signal validation, analysis, prioritisation, assessment and tracking of signal-management activities. TGA's answer identifies investigated signals and regulatory actions but provides no public signal-by-signal documentation linking individual signals to their assessment, disposition and resulting action or decision.
 
-**ICH E2E relevance:** ICH E2E provides guidance on systematic signal evaluation and documentation. The absence of publicly documented outcomes and dispositions for the investigated signals represents a material documentation gap against this guidance.
+**Benchmark relevance:** EMA GVP Module IX (section IX.B.5) expects organisations to keep an audit trail of signal management activities, including analyses, decisions and rationale. The absence of publicly documented outcomes and dispositions for the investigated signals represents a material documentation gap against this benchmark. The TGA has not adopted Module IX.
 
 This is a derived finding from TGA's own figures **and the absence of signal-by-signal traceability** on the parliamentary record — not an assertion by the auditor.
 
@@ -157,7 +157,7 @@ TGA possessed and documented these methodologies internally. The QON answer does
 
 **ISO 19011 principle:** Audit evidence must be sufficient, appropriate, and verifiable. General descriptions of signal detection activity without methodology outputs or signal disposition documentation are not verifiable audit evidence.
 
-**ICH E2E guidance:** Signal evaluation should be systematic and appropriately documented, including the data sources and analytical methods used in evaluating safety signals.
+**Benchmark (paraphrased):** CIOMS Working Group VIII asks that methods used in quantitative signal detection be clearly documented, and EMA GVP Module IX (section IX.B.5) expects an audit trail of signal management activities.
 
 **GVP Module IX principle:** GVP Module IX provides for systematic signal validation, analysis, prioritisation, assessment and tracking of signal-management activities.
 
@@ -327,7 +327,7 @@ The core audit finding — NON-CONFORMING — stands.
 
 3. Therapeutic Goods Administration. (2021). COVID-19 Vaccine Safety Monitoring Plan. February 2021. https://www.tga.gov.au
 
-4. International Council for Harmonisation. (2004). ICH E2E Pharmacovigilance Planning. Step 4 Guideline. https://database.ich.org/sites/default/files/E2E_Guideline.pdf
+4. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP), Module IX: Signal management (Rev 1). EMA/827661/2011 Rev 1. https://www.ema.europa.eu/system/files/documents/scientific-guideline/wc500236408_en.pdf
 
 5. European Medicines Agency. (2017). Guideline on Good Pharmacovigilance Practices (GVP) Module IX — Signal Management (Rev 1). https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-gvp-module-ix-signal-management-rev-1_en.pdf
 
@@ -349,6 +349,6 @@ The core audit finding — NON-CONFORMING — stands.
 - [ISO 19011 Conformity Assessment](ISO-19011-conformity-assessment-checklist.md)
 - [Primary Sources — Senate Community Affairs Legislation Committee](../primary-sources/senate-community-affairs-legislation-committee/)
 
-**Last updated:** 13 November 2026
+**Last updated:** 19 November 2026
 
 [↑ Back to top](#table-of-contents)

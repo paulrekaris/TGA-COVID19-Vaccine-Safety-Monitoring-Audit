@@ -38,7 +38,7 @@ International Council for Harmonisation of Technical Requirements for Pharmaceut
 
 https://database.ich.org/sites/default/files/E2E_Guideline.pdf
 
-International standard establishing requirements for pharmacovigilance planning as a condition of marketing authorisation, including signal detection, risk management, and periodic safety reporting. Applied in this audit as a benchmark for assessing whether TGA's Safety Monitoring Plan met international standards for post-market surveillance of provisionally approved medicines.
+International guideline, adopted by the TGA, on pharmacovigilance planning, chiefly for sponsors preparing licence applications for new products and vaccines. Non-binding. Applied in this audit as a good-practice benchmark for planning, not as a requirement on the TGA.
 
 **File:** [e2e-guideline.pdf](e2e-guideline.pdf)
 
@@ -64,5 +64,5 @@ Internal analytical document examining governance failure patterns relevant to t
 
 ---
 
-**Last Updated:** 19 October 2026  
+**Last Updated:** 19 November 2026  
 **Licence:** CC BY 4.0

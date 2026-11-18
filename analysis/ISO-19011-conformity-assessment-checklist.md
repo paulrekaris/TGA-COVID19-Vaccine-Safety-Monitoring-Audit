@@ -292,8 +292,8 @@ This section records the ISO 19011 programme-management steps and their status.
 1. No Plan-framework reference in the sampled reports, and none located on wider review of the series: no reference to the Plan as an organising framework, and no Strategy 2.3 outputs.
 2. Internal capacity, public opacity. FOI 4029-03 (September 2021) shows the TGA presented Strategy 2.3 methodology to the Advisory Committee on Vaccines (proportional reporting ratio analysis, MaxSPRT, AIR-denominator analysis, observed-versus-expected method), while concurrent public reports carried no Strategy 2.3 reference and no statistical-methodology disclosure.
 3. Observable change in reporting over five periods, from weekly detailed signal investigations (2021) to "expected rates" language without method (2022), standardised reassurance messaging (late 2022), "no new concerns" statements (early 2023), and wind-down to cessation without an evaluation (late 2023).
-4. ICH E2E practice not met. From mid-2022, reports used "expected rates" language without publishing baseline data sources, calculation methods, confidence intervals, or power calculations.
-5. CIOMS Working Group VIII benchmark not met. CIOMS WG VIII (2010), Chapter VIII, sets out traceable documentation linking signal detection through assessment to regulatory decision, including a documented rationale where signals do not lead to action. No signal-to-action audit trail is present in the reports.
+4. Methods documentation gap (CIOMS Working Group VIII benchmark). From mid-2022, reports used "expected rates" language without publishing baseline data sources, calculation methods, confidence intervals, or power calculations.
+5. Signal-to-action traceability gap (EMA GVP Module IX benchmark). Section IX.B.5 expects an audit trail of signal management activities, including analyses, decisions and rationale. No signal-to-action audit trail is present in the reports.
 6. OAIC search-scope gap. The September 2024 searches did not include Advisory Committee containers (where FOI 4029-03 sits) and did not use terms such as "Advisory Committee" or "ACV", forums where Plan implementation would reasonably be discussed.
 7. Compensation context (contextual only, not a finding). Of 4,962 COVID-19 Vaccine Claims Scheme claims received, 495 (10.0 per cent) had been paid as at 30 June 2025. (Services Australia, QB25-000044, released under FOI LEX 86604). This is included to illustrate a downstream consequence of inaccessible signal-investigation documentation; it forms no part of any finding.
 8. Plan design and accountability. Assessed against the Commonwealth's own performance and records obligations (PGPA Act ss 37 to 39; PGPA Rule s 16F(2)) and ANAO performance-audit methodology, the Plan did not number its outputs, conflated strategies with deliverables, and included no implementation framework, so it did not support systematic tracking of the TGA's commitments from the outset. This is a shortfall against the Commonwealth performance and records obligations applying to the Department, not against ISO 19011, which is the auditor's method.
@@ -382,9 +382,9 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 ### Finding 5: AusVaxSafety signal pathways (major)
 
-**Criterion.** The Plan's positioning of active surveillance as informing regulatory action; CIOMS Working Group VIII practice on traceable signal-to-action documentation (recognised benchmark).
+**Criterion.** The Plan's positioning of active surveillance as informing regulatory action; EMA GVP Module IX (section IX.B.5) on audit trails of signal management activities (comparative benchmark).
 
-**Evidence.** About 6.8 million AusVaxSafety responses collected; 148 to 150 signals investigated and 57 actions taken (see the note above); no documented pathway connecting active-surveillance outputs to specific signals or actions; the OAIC searches omitted "AusVaxSafety" as a search term; QON 559 does not mention AusVaxSafety in the TGA's formal answer on collaborations, despite Strategy 2.4. Peer-reviewed practice (Malikova 2020) describes signal management as including tracked, documented actions at every stage; against that benchmark, the absence of a documented pathway is a material traceability gap. CIOMS Working Group VIII (2010), Chapter VIII, requires traceable documentation linking signal detection through assessment to regulatory decision, including documented rationale for signals not resulting in action. TGA reports 150 signals investigated and 57 regulatory actions taken, and no documented decision rationale is available for the 93 signals (about 62 per cent) that did not result in a recorded regulatory action.
+**Evidence.** About 6.8 million AusVaxSafety responses collected; 148 to 150 signals investigated and 57 actions taken (see the note above); no documented pathway connecting active-surveillance outputs to specific signals or actions; the OAIC searches omitted "AusVaxSafety" as a search term; QON 559 does not mention AusVaxSafety in the TGA's formal answer on collaborations, despite Strategy 2.4. Peer-reviewed practice (Malikova 2020) describes signal management as including tracked, documented actions at every stage; against that benchmark, the absence of a documented pathway is a material traceability gap. EMA GVP Module IX (section IX.B.5) expects an audit trail of signal management activities, including analyses, decisions and rationale; the TGA has not adopted Module IX, and it is used as a comparative benchmark. TGA reports 150 signals investigated and 57 regulatory actions taken, and no documented decision rationale is available for the 93 signals (about 62 per cent) that did not result in a recorded regulatory action.
 
 **Finding.** Major non-conformity. No objective evidence of a documented pathway from active surveillance to regulatory action.
 
@@ -556,7 +556,7 @@ The fully-documented outputs are the public-facing communications deliverables (
 | Learning | Non-conforming | Expert warnings 2020; same gaps later; VSIG operational but child deaths not referred |
 | Data-linkage capability | Non-conforming | Gap identified 2020, consistent in 2025 |
 | Public accountability | Non-conforming | Delivery of commitments not demonstrable |
-| Signal-pathway clarity | Non-conforming | No documented AusVaxSafety-to-TGA pathway; CIOMS WG VIII non-compliant |
+| Signal-pathway clarity | Non-conforming | No documented AusVaxSafety-to-TGA pathway; no signal-to-action audit trail against the GVP IX benchmark |
 
 **Overall conformity assessment:** Does not conform.
 
@@ -853,7 +853,7 @@ A four-year investigation (2022 to 2026) through escalating formal processes: in
 
 This audit used ISO 19011:2018 as its method to provide a systematic, independent and documented assessment of the implementation of the TGA's COVID-19 Vaccine Safety Monitoring Plan. It is not an ISO certification audit. All evidence, methods and findings are public, for verification and critique.
 
-**Last updated:** 12 November 2026
+**Last updated:** 19 November 2026
 
 [Back to top](#table-of-contents)
 

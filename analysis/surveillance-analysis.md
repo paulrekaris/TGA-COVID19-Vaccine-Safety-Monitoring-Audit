@@ -30,7 +30,7 @@
 > 
 > - **No documented reconciliation of two major surveillance systems:** DAEN passive reporting and AusVaxSafety active surveillance operated in parallel without documented integration methodology despite the Plan Output 2.4 commitment to collaborate with AusVaxSafety
 > 
-> - **ICH E2E documentation gap identified:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions—no baseline data sources, calculation methodologies, confidence intervals, p-values, or power calculations published despite ICH E2E guidance on systematic signal evaluation and documentation
+> - **Documentation gap identified:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions—no baseline data sources, calculation methodologies, confidence intervals, p-values, or power calculations published, against recognised good practice (CIOMS Working Group VIII asks that methods used in quantitative signal detection be clearly documented)
 > 
 > - **Internal capacity proven, public opacity maintained:** FOI 4029-03 proves TGA presented a Strategy 2.3 methodology to Advisory Committee on Vaccines (September 2021: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis, AIR-denominator calculations)—demonstrating capacity to conduct and document statistical signal detection. Yet concurrent public safety reports from the same period contained zero Plan references and zero statistical methodology outputs. This methodology was not identified in the concurrent public safety reports.
 > 
@@ -54,7 +54,7 @@
 > 
 > - **Peer-reviewed support:** Malikova (2020) establishes signal management as a documented process requiring tracked actions at every stage — directly supporting Finding 1 (data source reconciliation absence) and Finding 3 (expected rates methodology gap)
 >
-> - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E Pharmacovigilance Planning (signal evaluation transparency), WHO/EMA GVP Module IX (signal management), CIOMS Good Pharmacovigilance Practices
+> - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E Pharmacovigilance Planning (adopted by the TGA), EMA GVP Module IX (signal management; not adopted by the TGA), CIOMS Working Group VIII (signal detection)
 
 ---
 
@@ -63,8 +63,8 @@
 - **ISO 19011:2018** - Guidelines for auditing management systems
 - **ANAO Reporting Meaningful Performance Information (2023)** - Performance assessment principles
 - **ICH E2E** - Pharmacovigilance Planning (adopted by TGA)
-- **WHO/EMA GVP Module IX** - Signal Management principles
-- **CIOMS Good Pharmacovigilance Practices**
+- **EMA GVP Module IX** - Signal Management (comparative benchmark; not adopted by the TGA)
+- **CIOMS Working Group VIII** - Practical Aspects of Signal Detection in Pharmacovigilance (2010)
 
 ---
 
@@ -163,8 +163,6 @@ This sampling provides sufficient evidence of systematic patterns without introd
 
 TGA operated two major systems concurrently: DAEN passive surveillance (140,000+ reports) and AusVaxSafety active surveillance (6.8M+ survey responses). Reports reference both but provide no reconciliation methodology, integration framework, or unified analysis approach. Between March 2021 and November 2023, TGA public COVID-19 vaccine safety reporting progressively declined across five reporting periods—from detailed weekly reports, to fortnightly and subsequently less frequent reporting, before regular reporting ceased in November 2023—with signal-specific detail also diminishing over time.
 
-**ICH E2E Requirement:** "Signal detection should employ multiple data sources with documented integration methodology."
-
 Malikova (2020) establishes that signal management requires documented integration of multiple data sources, with all actions accurately tracked at every stage (Malikova, 2020, p.2).
 
 **Evidentiary Basis:** All six reports reference both systems without documenting how discrepancies resolved or outputs combined for signal detection.
@@ -196,14 +194,14 @@ Senate QON 559 (SQ25-001584) Strategy 2 answer provides direct corroboration —
 
 From mid-2022 onwards, TGA safety reports increasingly relied on "expected rates" language to provide public reassurance. This statistical approach compares observed adverse event frequencies in vaccinated populations against baseline population rates (background incidence) to determine whether events occur more frequently than would be expected by chance.¹
 
-**Standard methodology requirements:** International pharmacovigilance standards (ICH E2E) indicate that such comparisons should be transparent and verifiable, typically including:²
+**Methodological good practice (audit's characterisation):** Such comparisons should be transparent and verifiable, typically including:¹
 - Baseline data sources clearly identified
 - Calculation methodologies documented
 - Confidence intervals provided
 - Statistical significance testing (p-values)
 - Power calculations for detecting differences
 
-**ICH E2E Principle (paraphrased):** Statistical methods for signal evaluation should be documented and transparent.
+**CIOMS Working Group VIII (paraphrased):** Methods used in quantitative signal detection should be clearly documented.
 
 Malikova (2020) identifies signal management as a documented process requiring 
 recommended actions, follow-up tracking, communication, and risk minimisation — 
@@ -220,7 +218,7 @@ This analysis examines whether this represents a systematic methodological trans
 
 ### "Expected Rates" Evolution: Documented Pattern
 
-| **Report Date** | **Phase/Frequency** | **Language Used** | **Methodology Provided?** | **Missing Elements** | **ICH E2E Compliance Gap** |
+| **Report Date** | **Phase/Frequency** | **Language Used** | **Methodology Provided?** | **Missing Elements** | **Documentation Gap** |
 |-----------------|---------------------|-------------------|---------------------------|----------------------|----------------------------|
 | **3 Mar 2021** | Enhanced/Weekly | None (signal focus: anaphylaxis investigation) | N/A | N/A | Pre-baseline establishment phase |
 | **23 Dec 2021** | Peak Enhanced/Weekly | None (signal lists: TTS, myocarditis, pericarditis, GBS, ITP, capillary leak, menstrual disorders) | N/A | N/A | Raw signal investigations only |
@@ -231,7 +229,7 @@ This analysis examines whether this represents a systematic methodological trans
 
 **Key Pattern:** "Expected rates" language emerged mid-2022 as primary reassurance mechanism, replacing detailed signal investigations. Despite TGA's demonstrated internal capacity to conduct statistical signal detection (FOI 4029-03: PRR≥1/cases≥2, MaxSPRT, observed/expected analysis presented to Advisory Committee on Vaccines, September 2021), zero methodology outputs appeared in concurrent public reports.
 
-**ICH E2E Guidance:** Signal evaluation should be systematic and appropriately documented, including the data sources and analytical methods used in evaluating safety signals.
+**CIOMS Working Group VIII (paraphrased):** Methods used in quantitative signal detection should be clearly documented, with consistent good practice in documenting analyses, reviews and decisions.
 
 **Finding:** Across all six sampled reports spanning 33 months, zero statistical methodology documentation accompanied "expected rates" assertions. This represents systematic non-compliance with international pharmacovigilance standards TGA applies to industry sponsors.
 
@@ -366,15 +364,15 @@ In the audit's assessment, TGA's search methodology did not meet standards 1 and
 
 ## International Standards Assessment
 
-### ICH E2E (Pharmacovigilance Planning)
+### CIOMS Working Group VIII (Signal Detection)
 
-**Requirement:** "Signal evaluation must be documented and traceable."
+**Benchmark (paraphrased):** Consistent good practice in documenting analyses, reviews and decisions (Chapter VIII).
 
 **Finding:** Reports provide summaries without systematic audit trails enabling verification. FOI 4029-03 demonstrates methodology documentation exists for advisory body presentation but outputs never published.
 
-### WHO/EMA GVP Module IX (Signal Management)
+### EMA GVP Module IX (Signal Management)
 
-**Requirement:** "Signal management processes should include documented disposition (validated/refuted/monitoring)."
+**Benchmark (paraphrased):** Organisations should keep an audit trail of signal management activities, including analyses, decisions and rationale (section IX.B.5).
 
 **Finding:** 150 signals investigated, zero disposition matrix published.
 
@@ -419,8 +417,8 @@ The systematic absence of Plan framework references across 150+ public reports, 
 **Standards Assessment:**
 - **ISO 19011:** Audit evidence sufficient and appropriate
 - **ANAO Principles:** Performance tracking against published strategy absent from public reports; advisory body received Plan-organised materials whilst public reports contained zero Plan references
-- **ICH E2E:** Signal management documentation and traceability gaps identified
-- **GVP IX:** Signal disposition matrix not publicly available despite 150 investigations documented
+- **CIOMS Working Group VIII:** Signal management documentation gaps identified
+- **GVP IX:** No public audit trail of signal management activities despite 150 signal investigations
 
 The question "Was the Plan implemented as operational accountability framework accessible to citizens?" cannot be resolved favourably. FOI 4029-03 demonstrates organisational capacity existed and materials were prepared for advisory body presentation, but systematic absence of this material from public reports and inadequate search methodology preventing identification through FOI processes demonstrates Plan-organised materials were prepared for an advisory-body context, but the systematic absence of comparable material from public reports prevents public verification of the Plan's implementation.
 
@@ -462,7 +460,7 @@ The question "Was the Plan implemented as operational accountability framework a
 
 **Document Status:** Evidence-based analysis following ISO 19011, ANAO, ICH E2E, and GVP IX standards
 
-**Last updated:** 5 November 2026
+**Last updated:** 19 November 2026
 
 **Archive:** Complete 150+ report corpus preserved in National Library of Australia Trove and Internet Archive Wayback Machine
 

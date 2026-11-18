@@ -491,7 +491,7 @@ Partly. Sparke Helmore Lawyers published independent legal analysis of the OAIC 
 
 ### Q20: How many safety signals were investigated?
 
-TGA reported 148 COVID-19 vaccine safety signals in Senate testimony, then 150 in writing (QON 559), and 57 regulatory actions. The audit calculates that 93 signals (150 less 57) have no publicly documented disposition or decision criteria. This is the audit's calculation, not a TGA figure. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails contradicts ICH E2E and CIOMS international pharmacovigilance standards that TGA formally adopted.
+TGA reported 148 COVID-19 vaccine safety signals in Senate testimony, then 150 in writing (QON 559), and 57 regulatory actions. The audit calculates that 93 signals (150 less 57) have no publicly documented disposition or decision criteria. This is the audit's calculation, not a TGA figure. Zero audit trails linking signals to specific regulatory actions have been identified through systematic searches. This absence of audit trails is inconsistent with recognised good practice, including EMA GVP Module IX, which expects an audit trail of signal management activities. The TGA has not adopted Module IX.
 
 ### Q21: What’s the AusVaxSafety integration gap?
 
@@ -775,7 +775,7 @@ I don’t claim to have all the answers. I’m simply someone who asked question
 
 -----
 
-**Last Updated:** 12 November 2026   
+**Last Updated:** 19 November 2026   
 **Licence:** CC BY 4.0
 
 

@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 16 November 2026
+**Last updated:** 19 November 2026
 
 
 ---
@@ -50,6 +50,7 @@
 
 - README, FAQ, ISO checklist and Policy folder README: references to the Commonwealth–State agreements refined to the Victorian and Western Australian plans and the National Partnership, as the documents state them. The Policy's own wording on the monitoring commitment is now quoted.
 - FAQ Q6: enhanced monitoring is a policy commitment accompanying provisional approval, not a condition of provisional registration under the Therapeutic Goods Act 1989.
+- README, FAQ, surveillance analysis, QON 559 analysis, ISO checklist and reference documents: wording on ICH E2E, CIOMS Working Group VIII and EMA GVP Module IX refined to present them as recognised good-practice benchmarks, with source references aligned.
 
 ### Overview page
 

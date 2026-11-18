@@ -350,7 +350,7 @@ The assessment systematically evaluated all 19 plan outputs against publicly ava
 
 **Why this matters**
 
-International pharmacovigilance standards adopted or referenced by TGA (ICH E2E, CIOMS) require **traceable audit trails** from signal detection through assessment to regulatory decision. Without these trails:
+Recognised pharmacovigilance good practice expects **traceable audit trails** of signal management. EMA GVP Module IX (section IX.B.5) expects organisations to keep an audit trail of signal management activities, including analyses, decisions and rationale. The TGA has not adopted Module IX, and the audit uses it as a comparative benchmark. Without such trails:
 
 - The enhanced monitoring framework cannot be verified.  
 - Compliance with the Plan's enhanced monitoring commitments during the provisional‑approval period cannot be demonstrated.  
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 14 November 2026  
+**Last Updated:** 19 November 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
