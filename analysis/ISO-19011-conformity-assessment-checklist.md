@@ -362,7 +362,7 @@ TGA’s formal OAIC submission (20 September 2024, MR22/00538, paragraph 15) sta
 
 ### Finding 3: data-linkage capability (major)
 
-**Criterion.** ICH E2E practice on data linkage for systematic signal detection (recognised benchmark).
+**Criterion.** The Plan's commitment to integrate surveillance systems for signal detection (Strategies 2.1, 2.4), read with the expert-identified capability gap below.
 
 **Evidence.** Pre-rollout expert assessment (Phillips et al., interviews 2020; published 2021) describing data linkage as a major gap though technically feasible; Senate evidence (2025) consistent with the gap persisting; no evidence of data-linkage infrastructure developed in the audit period.
 
@@ -478,7 +478,7 @@ With that stated: ICAO and IAEA frameworks treat safety management as an auditab
 
 In healthcare, high-reliability and patient-safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time. The Manchester Patient Safety Assessment Framework (MaPSAF) provides a recognised tool for evaluating safety culture in healthcare settings. TGA's limited evidence of systematic learning from expert warnings, absence of a documented signal-to-action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data-driven learning cultures.
 
-**The regulator's own standard for industry.** The TGA requires sponsors to maintain documented quality systems, audit trails and performance tracking under GMP, GCP and ICH E2E-compliant pharmacovigilance, as conditions of approval. On the disclosable record, the TGA's own COVID-19 monitoring does not demonstrate the same documentation discipline it requires of industry. That asymmetry is the accountability point.
+**The regulator's own standard for industry.** The TGA requires sponsors to establish and manage a pharmacovigilance system with written procedures, to keep an audit trail for electronic safety data, and to report any verified signal with the actions proposed or a justification for no further action (TGA, *Pharmacovigilance Responsibilities of Medicine Sponsors*, 2023). On the disclosable record, the TGA's own COVID-19 monitoring does not demonstrate the same documentation discipline: no documented decision rationale is available for the 93 signals that did not result in a recorded regulatory action. That asymmetry is the accountability point.
 
 ---
 
