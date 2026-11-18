@@ -3,7 +3,7 @@ title: "Did Australia's TGA Monitor COVID Vaccine Safety as Promised?"
 author: Paul Rekaris
 description: "Did Australia's Therapeutic Goods Administration (TGA) deliver the enhanced COVID-19 vaccine safety monitoring it promised? Independent compliance audit: 3 of 19 outputs documented."
 canonical: https://paulrekaris.github.io/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/
-date_modified: 2026-11-13
+date_modified: 2026-11-18
 version: 1.9.6
 licence: CC BY 4.0
 orcid: https://orcid.org/0009-0000-1338-9578
@@ -17,7 +17,7 @@ Did Australia's drug regulator, the Therapeutic Goods Administration (TGA), carr
 
 In November 2020, National Cabinet endorsed the Australian COVID-19 Vaccination Policy, which committed to active and comprehensive vaccine safety monitoring and identified the TGA's COVID-19 Vaccine Pharmacovigilance Plan as part of that framework. In February 2021, the TGA published its [COVID-19 Vaccine Safety Monitoring Plan](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/tga-documents/tga-covid-19-vaccine-safety-monitoring-plan-feb-2021.pdf), setting out the enhanced monitoring framework for the rollout.
 
-The Policy describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The Commonwealth–state agreements implementing the Policy set out related surveillance and reporting commitments, including strengthened active surveillance and reporting of surveillance data to the TGA. The underlying Australian Government policy, Cabinet governance documents and Commonwealth–state implementation agreements are available in the [Australian Government Policy folder](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/aust-gov-policy/README.md).
+The National Cabinet-endorsed Vaccination Policy describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The Commonwealth–state agreements implementing it set out related surveillance and reporting commitments. The Victorian plan, for example, makes Victoria responsible for near-total population coverage of active safety surveillance and for timely reporting to the TGA of required safety surveillance data. The underlying Australian Government policy, Cabinet governance documents and Commonwealth–state implementation agreements are available in the [Australian Government Policy folder](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/blob/main/primary-sources/aust-gov-policy/README.md).
 
 The audit assesses 19 outputs, comprising the Plan's 17 numbered strategy items and two additional governance outputs, each evaluated for documentary evidence of implementation. The methodology is open, falsifiable and replicable. Every finding is traceable to a public or FOI-released source, and the full evidence base is published for independent scrutiny.
 
