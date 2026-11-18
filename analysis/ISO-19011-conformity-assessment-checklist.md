@@ -478,7 +478,7 @@ With that stated: ICAO and IAEA frameworks treat safety management as an auditab
 
 In healthcare, high-reliability and patient-safety frameworks developed by bodies such as WHO, the Institute for Healthcare Improvement (IHI) and the Joint Commission similarly emphasise leadership for safety, a culture that encourages reporting and learning from harm, and the routine use of data systems to measure safety performance over time. The Manchester Patient Safety Assessment Framework (MaPSAF) provides a recognised tool for evaluating safety culture in healthcare settings. TGA's limited evidence of systematic learning from expert warnings, absence of a documented signal-to-action trail, and lack of performance measures for its Safety Plan contrast with these healthcare safety expectations for data-driven learning cultures.
 
-**The regulator's own standard for industry.** The TGA requires sponsors to establish and manage a pharmacovigilance system with written procedures, to keep an audit trail for electronic safety data, and to report any verified signal with the actions proposed or a justification for no further action (TGA, *Pharmacovigilance Responsibilities of Medicine Sponsors*, 2023). On the disclosable record, the TGA's own COVID-19 monitoring does not demonstrate the same documentation discipline: no documented decision rationale is available for the 93 signals that did not result in a recorded regulatory action. That asymmetry is the accountability point.
+**The regulator's own standard for industry.** The TGA requires sponsors to establish and manage a pharmacovigilance system, directs them to develop written procedures, recommends an audit trail for electronic safety data, and requires a sponsor that verifies a signal and finds additional risk mitigation necessary to report it with the actions proposed or a justification for no further action (TGA, *Pharmacovigilance Responsibilities of Medicine Sponsors*, Version 3.0, 2023). On the disclosable record, the TGA's own COVID-19 monitoring does not demonstrate the same documentation discipline: no documented decision rationale is available for the 93 signals that did not result in a recorded regulatory action. That asymmetry is the accountability point.
 
 ---
 
@@ -654,7 +654,7 @@ All URLs were verified as accessible in January 2026.
 5. TGA. (2024). TGA Performance Report 2023-24. https://www.tga.gov.au/sites/default/files/2025-03/tga-performance-report-2023-24.pdf
 6. TGA. PIC/S Guide to Good Manufacturing Practice for medicinal products (PE009-17). https://www.tga.gov.au/resources/guidance/good-manufacturing-practice-gmp-requirements-medicinal-products-pics-guide-gmp-pe009-17
 7. TGA. Good Clinical Practice (GCP) Standards. https://www.tga.gov.au/clinical-trials/clinical-trials-australia/australian-clinical-trial-handbook
-8. TGA. Pharmacovigilance Responsibilities of Sponsors Guidelines. https://www.tga.gov.au/resources/guidance/pharmacovigilance-responsibilities-medicine-sponsors
+8. TGA. Pharmacovigilance responsibilities of medicine sponsors (Version 3.0, August 2023). https://www.tga.gov.au/sites/default/files/2023-08/pharmacovigilance-responsibilities-medicine-sponsors-2023.pdf
 
 ### Primary Sources: TGA COVID-19 Vaccine Safety Reports
 
