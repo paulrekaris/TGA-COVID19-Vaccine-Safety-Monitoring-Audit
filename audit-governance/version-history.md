@@ -70,7 +70,7 @@
 - Updated the Commonwealth Ombudsman entry to record further consideration of complaint 2025-806374.
 - Added NEWS.md, a dated log of OAIC, Ombudsman and FOI developments and audit releases with a status table, linked from the README by a Latest News badge, and a GitHub Actions workflow that updates its "Last updated" line.
 - Regulatory accountability framework diagram: added the November 2020 date to the policy box.
-- Revised the description of Ombudsman complaint 2025-806374 to the OAIC's administrative handling of IC review MR22/00538 (FOI 3643
+- Revised the description of Ombudsman complaint 2025-806374 to the OAIC's administrative handling of IC review MR22/00538 (FOI 3643).
 - Added a Software Heritage archive record (capture of 25 October 2026) and a section recording the datasets' NIH National Library of Medicine Dataset Catalog listings to the Blockchain and Archival Verification Records page, with badge and verification note. The README links to the catalogue.
 - Senate evidence README: added Dr Dascombe's first answer to Senator Antic verbatim (Hansard, page 32), alongside the existing quotation of his second answer.
 - Traffic export workflow: updated to Python 3.12 and current checkout and setup-python actions after a failed run on the new runners, moved the schedule off peak, and added the Melbourne date, the data-window label and seven-day clone and view totals to the daily email report. The report's reporting date was then corrected: the entry is now chosen by its date, not its position in GitHub's list, the date and window labels come from that entry, new records carry a data_date column, and the heading reads “Activity for reporting period”.
