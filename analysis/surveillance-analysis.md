@@ -52,7 +52,7 @@
 > 
 > - **Central finding validated:** Monitoring activities demonstrably occurred (150 signals investigated, 57 actions taken, 150+ reports published), but systematic documentation showing Plan functioned as operational accountability framework with enhanced monitoring distinct from routine "day-to-day processes" remains absent from accessible public records
 > 
-> - **Peer-reviewed support:** Malikova (2020) establishes signal management as a documented process requiring tracked actions at every stage — directly supporting Finding 1 (data source reconciliation absence) and Finding 3 (expected rates methodology gap)
+> - **Peer-reviewed support:** Malikova (2020) states that all actions and recommendations in signal management must be accurately tracked and documented at every stage (p. 2), as a sponsor obligation used here as a benchmark; relevant to Finding 1 (data source reconciliation absence) and Finding 3 (expected rates methodology gap)
 >
 > - **Standards Framework Applied:** ISO 19011:2018 (audit methodology), ANAO Better Practice Guide (performance information), ICH E2E Pharmacovigilance Planning (adopted by the TGA), EMA GVP Module IX (signal management; not adopted by the TGA), CIOMS Working Group VIII (signal detection)
 
@@ -163,7 +163,7 @@ This sampling provides sufficient evidence of systematic patterns without introd
 
 TGA operated two major systems concurrently: DAEN passive surveillance (140,000+ reports) and AusVaxSafety active surveillance (6.8M+ survey responses). Reports reference both but provide no reconciliation methodology, integration framework, or unified analysis approach. Between March 2021 and November 2023, TGA public COVID-19 vaccine safety reporting progressively declined across five reporting periods—from detailed weekly reports, to fortnightly and subsequently less frequent reporting, before regular reporting ceased in November 2023—with signal-specific detail also diminishing over time.
 
-Malikova (2020) establishes that signal management requires documented integration of multiple data sources, with all actions accurately tracked at every stage (Malikova, 2020, p.2).
+Malikova (2020) states that all actions taken and recommendations made in signal management must be accurately tracked and documented at every stage (p. 2), as a sponsor obligation used here as a benchmark.
 
 **Evidentiary Basis:** All six reports reference both systems without documenting how discrepancies resolved or outputs combined for signal detection.
 
@@ -203,9 +203,7 @@ From mid-2022 onwards, TGA safety reports increasingly relied on "expected rates
 
 **CIOMS Working Group VIII (paraphrased):** Methods used in quantitative signal detection should be clearly documented.
 
-Malikova (2020) identifies signal management as a documented process requiring 
-recommended actions, follow-up tracking, communication, and risk minimisation — 
-all of which must be accurately tracked and documented at every stage (Malikova, 2020, p.2).
+Malikova (2020) states that all actions taken and recommendations made in signal management must be accurately tracked and documented at every stage (p. 2), as a sponsor obligation used here as a benchmark.
 
 **The gap:** TGA used "rates similar to expected" and "consistent with background rates" language extensively from mid-2022 onwards, but published zero statistical methodology to support these assertions across all sampled reports. Reports from mid-2022 onwards employ this reassurance language without publishing:
 - Calculation methodologies

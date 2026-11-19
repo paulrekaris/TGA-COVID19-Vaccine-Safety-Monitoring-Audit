@@ -181,7 +181,7 @@ However, the QON identifies 150 investigated signals and 57 regulatory actions w
 
 The audit does not dispute that 57 regulatory actions occurred. The gap is the audit trail from signal investigation to regulatory decision for all 150 signals — not just the 57 that resulted in action.
 
-The 57 regulatory actions are documented as completed outcomes, but no public documentation establishes an auditable link between these actions and the underlying investigated signals, the evidence thresholds applied, or the decision‑making and closure pathways. This is inconsistent with Malikova’s (2020) formulation of signal management, which requires that all actions and recommendations be “accurately tracked and documented at every stage” of the process, and reinforces the finding that systematic signal-to-action documentation is absent across the 150 investigated signals and 57 reported regulatory actions.
+The 57 regulatory actions are documented as completed outcomes, but no public documentation establishes an auditable link between these actions and the underlying investigated signals, the evidence thresholds applied, or the decision‑making and closure pathways. This falls short of the position described by Malikova (2020), a review of regulatory signal-detection requirements, that all actions and recommendations be “accurately tracked and documented at every stage” (p. 2). The paper frames this as a sponsor obligation, so it is used here only as a comparative benchmark. It reinforces the finding that systematic signal-to-action documentation is absent across the 150 investigated signals and 57 reported regulatory actions.
 
 **ISO 19011 principle:** Audit evidence must document the complete process — not just successful outcomes. The absence of a signal-by-signal mapping prevents verification of the relationship between the 150 investigated signals, their dispositions, and the 57 regulatory actions.
 
@@ -228,7 +228,7 @@ TGA lists five collaboration examples. None produce documentary evidence — no 
 
 Most significantly, AusVaxSafety is not mentioned in TGA's collaboration answer despite Strategy 2.4's specific commitment to "collaborate with AusVaxSafety to receive active surveillance information and coordinate safety signal detection and investigation activities." This is a direct omission of the Plan's most specific collaboration commitment.
 
-**Malikova (2020) relevance:** Signal management requires actions and recommendations to be accurately tracked and documented throughout the signal-management process.
+**Malikova (2020) relevance:** Malikova (2020) states that actions and recommendations in signal management must be accurately tracked and documented (p. 2), in the context of sponsor obligations.
 
 **Finding:** Not documented at Plan output level. AusVaxSafety omission directly strengthens Finding 5 (AusVaxSafety integration gap). The absence of any coordination protocol documentation reinforces Finding 4 (signal investigation audit trails). This is the second most significant gap in TGA's QON answer after Strategy 2.
 
