@@ -22,7 +22,7 @@
 
 ## Executive Summary
 
-Australia's COVID-19 Vaccine Claims Scheme, which closed to new claims on 30 September 2024, had paid 495 of 4,962 claims received (10.0%; 11.9% of the 4,145 finalised) as at 30 June 2025, with 817 still in progress. The Therapeutic Goods Administration (TGA) reports 150 COVID-19 vaccine safety signals assessed and 57 regulatory or information actions taken, but has not released documentation linking signals to actions, nor accounted for the disposition of the remaining 93 signals. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million people.
+Australia's COVID-19 Vaccine Claims Scheme, which closed to new claims on 30 September 2024, had paid 495 of 4,962 claims received (10.0%; 11.9% of the 4,145 finalised) as at 30 June 2025, with 817 still in progress. The Therapeutic Goods Administration (TGA) reports 150 COVID-19 vaccine safety signals investigated and 57 regulatory actions taken, but has not released documentation linking signals to actions, nor accounted for the disposition of the remaining 93 signals. This creates evidentiary asymmetry: treating doctors forming causation opinions lack access to the regulator's population-level signal data, despite 68.4 million doses administered under provisional approval to 21.2 million people.
 
 ## The Core Problem: Causation and Information Asymmetry
 
@@ -55,7 +55,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | AusVaxSafety survey responses | 6.8 million+ | AusVaxSafety Data⁶ |
 | Adverse events reported via AusVaxSafety | ~3 million | AusVaxSafety Data⁶ ⁷ |
 | Safety signals investigated (testimony) | 148 | Senate Hansard (9 Oct 2025)⁸ |
-| Safety signals assessed (written answer (QON 559) | 150 | Senate QON 559 (SQ25-001584)¹⁰ |
+| Safety signals investigated (written answer (QON 559) | 150 | Senate QON 559 (SQ25-001584)¹⁰ |
 | Regulatory actions taken | 57 | Senate QON 559 (SQ25-001584)¹⁰ |
 | Signals with no publicly documented disposition | 93 | Senate QON 559 (SQ25-001584)¹⁰ |
 
@@ -77,7 +77,7 @@ COVERSE (COVID-19 Vaccine Injury Support and Research), in partnership with UNSW
 | **Sep 2024** | TGA OAIC-directed searches locate no records responsive to the requested implementation documentation | Sample searches under Information Commissioner direction; one term returned 531+ TRIM containers |
 | **Oct 2025** | Senate testimony: TGA confirms investigating 148 signals, taking 57 actions | Official confirmation of extensive signal investigation activity—documentation not released to citizens |
 
-**Pattern:** The timeline demonstrates a consistent gap between TGA's internal signal investigation capacity (150 signals assessed per Senate QON 559, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
+**Pattern:** The timeline demonstrates a consistent gap between TGA's internal signal investigation capacity (150 signals investigated per Senate QON 559, 57 actions taken) and external transparency (zero signal investigation documentation accessible to compensation claimants whose doctors must form causation opinions).
 
 
 ## Case Study Evidence
@@ -97,13 +97,13 @@ COVERSE/UNSW research (August 2024) documents 91% rejection/withdrawal rate iden
 ## The Documented Transparency Gap
 
 ### TGA's Acknowledged Documentation
-In Senate testimony (9 October 2025), TGA representatives confirmed the agency investigated 148 safety signals and took 57 regulatory or information actions, indicating that investigation processes were undertaken.⁸
+In Senate testimony (9 October 2025), TGA representatives confirmed the agency investigated 148 safety signals and took 57 regulatory actions, indicating that investigation processes were undertaken.⁸
 
 ### FOI Refusals to Citizens
 The Office of the Australian Information Commissioner (OAIC) Decision [2025] AICmr 54 records the Commissioner's finding that the Department had taken all reasonable steps and that documents "cannot be found or do not exist".¹⁵ In October 2025, a senior TGA official told a Senate committee that producing documents by Plan objective would involve a "vast volume of documents".
 
 ### The Contradiction
-The TGA confirms assessing 150 signals and taking 57 regulatory actions whilst simultaneously claiming the relevant documentation cannot be consolidated or provided to citizens seeking to prove causation for compensation claims.
+The TGA confirms investigating 150 signals and taking 57 regulatory actions whilst simultaneously claiming the relevant documentation cannot be consolidated or provided to citizens seeking to prove causation for compensation claims.
 
 ## Specific Examples of Information Asymmetry
 
@@ -139,7 +139,7 @@ The following examples illustrate how TGA's non-publication signal investigation
 - Age and dose-relationship analyses
 - Evidence basis for any regulatory conclusions
 
-**Impact on causation assessment:** The treating gynaecologist must opine on causation without access to TGA's analysis of thousands of similar reports, population-level patterns, or evidence supporting biological plausibility—despite this being one of the 150 signals TGA reports having assessed.
+**Impact on causation assessment:** The treating gynaecologist must opine on causation without access to TGA's analysis of thousands of similar reports, population-level patterns, or evidence supporting biological plausibility—despite this being one of the 150 signals TGA reports having investigated.
 
 ---
 
@@ -167,7 +167,7 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 - **United States:** CDC publishes VAERS/VSD summaries with detailed signal detection methodologies and outcomes (e.g., myocarditis/TTS risk by age/sex).¹⁸ ¹⁹
 - **United Kingdom:** MHRA publishes weekly summaries of Yellow Card adverse event reports, including incidence rates and safety advice; MHRA has also implemented active-surveillance methods using observed-versus-expected analysis, though the extent of routine public disclosure of that specific methodology is less clear than for CDC's published analyses.²⁰
-- **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from the 150 signals assessed and 57 actions taken—despite internal capacity (FOI 4029-03).¹²
+- **Australia:** TGA publishes aggregates/safety advisories but no systematic causality assessments from the 150 signals investigated and 57 actions taken—despite internal capacity (FOI 4029-03).¹²
 
 **Note on comparator statistics:** Compensation scheme figures below are dated to their most recent official source at time of writing. These schemes are dynamic; figures should be re-verified against current official data before publication or citation, consistent with the evidentiary standard applied throughout this analysis.
 
@@ -198,7 +198,7 @@ In each case, TGA investigated the exact injury type as a formal safety signal, 
 
 **Transparency:**
 - **US/UK:** Publish detailed signal investigation reports with full statistical methodology, enabling external verification and supporting clinician causality assessments¹⁸ ²⁰
-- **Australia:** TGA has not published signal investigation documentation despite reporting 150 signals assessed and 57 regulatory actions, with no publicly documented disposition for 93 of them⁸
+- **Australia:** TGA has not published signal investigation documentation despite reporting 150 signals investigated and 57 regulatory actions, with no publicly documented disposition for 93 of them⁸
 
 **Methodology Publication:**
 - **US:** CDC publishes observed vs expected analyses, confidence intervals, and statistical methods for major signals (e.g., myocarditis risk quantification by age/sex/vaccine type) within days post-signal detection¹⁸ ¹⁹
@@ -211,11 +211,11 @@ All three jurisdictions in the direct comparison show low approval rates, but th
 **Documentation Access:**
 - **US:** VAERS raw data publicly downloadable; VSD analyses published; investigation reports detailed
 - **UK:** Yellow Card summaries include signal disposition, causality assessment, and population-level analyses
-- **Australia:** 150 COVID-19 vaccine safety signals assessed and 57 regulatory actions reported, but no published signal-by-signal audit trail was identified linking individual signals to their assessment, disposition and resulting action or decision.
+- **Australia:** 150 COVID-19 vaccine safety signals investigated and 57 regulatory actions reported, but no published signal-by-signal audit trail was identified linking individual signals to their assessment, disposition and resulting action or decision.
 
 ## Analysis and Implications
 
-The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.²⁷ However, TGA's failure to release investigation findings from the 150 signals it reports assessing, including no publicly documented disposition for 93 of them, and 57 regulatory actions⁸ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
+The scheme requires treating doctors to opine that injury was "most likely caused by the COVID-19 vaccine" (CVCS Policy §19)¹ rather than requiring claimants to access population-level signal data. TGA has confirmed the scheme "focuses on a treating doctor's opinion only" and operates separately from pharmacovigilance processes.²⁷ However, TGA's failure to release investigation findings from the 150 signals it reports investigating, including no publicly documented disposition for 93 of them, and 57 regulatory actions⁸ creates an information asymmetry: treating doctors forming causation opinions cannot access the regulator's comprehensive population-level analyses that might support their assessments.
 
 This gap between TGA's documented signal investigations and practitioners' limited access to these findings may contribute to the 88.1% of finalised claims (3,650 of 4,145) that were not payable or withdrawn, as doctors lack access to evidence that could strengthen their causation opinions.
 
@@ -232,7 +232,7 @@ This gap between TGA's documented signal investigations and practitioners' limit
                                    ↓
 5. TGA collects 137,000+ DAEN reports + 3M AusVaxSafety adverse events
                                    ↓
-6. TGA assesses 150 signals, takes 57 regulatory actions
+6. TGA investigates 150 signals, takes 57 regulatory actions
                                    ↓
 7. Individual files compensation claim, needs to prove causation
                                    ↓
@@ -258,7 +258,7 @@ Observation: 3,650 of 4,145 finalised claims (88.1%) were not payable or withdra
 
 ## Proposed Evidence-Based Reforms
 
-1. **Systematic Publication:** TGA should publish detailed summaries of all 150 assessed safety signals, including investigation methodologies, causality assessments, and subpopulation risk analyses.
+1. **Systematic Publication:** TGA should publish detailed summaries of all 150 investigated safety signals, including investigation methodologies, causality assessments, and subpopulation risk analyses.
 
 2. **Dedicated Claimant Access Pathway:** Establish a streamlined, timely Freedom of Information (FOI) process for compensation claimants to access de-identified signal investigation data pertinent to their injury type.
 
@@ -270,7 +270,7 @@ This analysis cannot determine whether signal investigation documentation would 
 
 ## Conclusion
 
-As at 30 June 2025, 3,650 claims under the COVID-19 Vaccine Claims Scheme had been found not payable or withdrawn, with a further 817 still in progress. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports assessing, 93 of which have no publicly documented disposition, and 57 regulatory actions. FOI 5275 further shows TGA does not hold the cancer incidence data a third party requested²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
+As at 30 June 2025, 3,650 claims under the COVID-19 Vaccine Claims Scheme had been found not payable or withdrawn, with a further 817 still in progress. The absence of accessible TGA signal investigation documentation may have hindered claimants' ability to substantiate causation, given their inability to access TGA's safety signal investigation documentation covering the 150 signals it reports investigating, 93 of which have no publicly documented disposition, and 57 regulatory actions. FOI 5275 further shows TGA does not hold the cancer incidence data a third party requested²⁸ — compounding the evidentiary gap faced by claimants. Resolving this information asymmetry is essential for procedural fairness and aligning compensation processes with the scheme's stated purpose of providing support for vaccine-related injuries.
 
 ---
 
@@ -335,6 +335,6 @@ https://www.sbs.com.au/news/article/australias-covid-vaccine-compensation-scheme
 
 29. ABC News, 'Thousands of Australians fighting "cruel" battle for COVID vaccine injury compensation', 24 September 2025, https://www.abc.net.au/news/2025-09-24/fight-for-compensation-for-covid-19-vaccination-injuries/105808630.
 
-Last updated: 21 October 2026
+Last updated: 21 November 2026
 
 [↑ Back to top](#table-of-contents)
