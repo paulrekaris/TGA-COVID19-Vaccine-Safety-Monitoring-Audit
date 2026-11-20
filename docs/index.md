@@ -31,7 +31,7 @@ The audit did not identify documentary evidence that the TGA systematically impl
 
 When COVID-19 vaccines were provisionally approved for Australia's largest mass vaccination rollout, the National Cabinet-endorsed vaccination policy committed that the TGA would "actively and comprehensively monitor" them for safety. The TGA's COVID-19 Vaccine Safety Monitoring Plan (described in the policy as its pharmacovigilance plan), issued in February 2021, set out 17 numbered strategies. 68.4 million doses followed.
 
-The TGA reported pharmacovigilance activity throughout the rollout, including more than 150 published safety reports, 150 safety signals assessed and 57 regulatory actions. That activity demonstrates that safety monitoring occurred. The audit examines whether the enhanced monitoring framework described in the Plan was implemented and whether its delivery can be independently verified from the documentary record.
+The TGA reported pharmacovigilance activity throughout the rollout, including more than 150 published safety reports, 150 safety signals investigated and 57 regulatory actions. That activity demonstrates that safety monitoring occurred. The audit examines whether the enhanced monitoring framework described in the Plan was implemented and whether its delivery can be independently verified from the documentary record.
 
 The audit is grounded in the fundamental principles of public accountability and transparency: when public institutions make significant commitments, their implementation should be capable of independent verification through an adequate documentary record. A commitment to enhanced monitoring should leave a record showing what was delivered, who was responsible for tracking it and how performance was assessed.
 
