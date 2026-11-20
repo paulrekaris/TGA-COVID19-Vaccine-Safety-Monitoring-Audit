@@ -14,6 +14,6 @@ This complaint concerns the OAIC's administrative handling of IC review MR22/005
 
 Under review. On 26 August 2026, the Commonwealth Ombudsman contacted the applicant regarding complaint 2025-806374 and advised that the attachments originally submitted with the complaint were recorded as 0 KB/corrupted. The Ombudsman requested that the relevant material be resubmitted. The applicant provided the original complaint and the OAIC’s decision ([2025] AICmr 54) on 27 August 2026, and the reconstructed principal supporting material on 1 September 2026.
 
-On 18 September 2026, the Ombudsman advised that the complaint had been considered and referred for further consideration within the Office. The matter remains under review and will be allocated for further assessment, which may take some time due to delays being experienced by the office. This folder will be updated when further information becomes available.
+On 18 September 2026, the Ombudsman advised that the complaint had been considered and referred for further consideration within the Office. On 20 November 2026, the Ombudsman advised that the complaint had been allocated for assessment and that enquiries had been made with the OAIC. The OAIC's response is expected in early December 2026. This folder will be updated when further information becomes available.
 
-**Last updated**: 24 October 2026
+**Last updated**: 20 November 2026
