@@ -51,7 +51,7 @@ The diagram shows how the monitoring commitment in the Australian COVID-19 Vacci
 
 - **02** The TGA told the Senate (9 October 2025) that the Plan's five key themes "essentially describe our day-to-day processes", its "standard sort of process in terms of post market surveillance and pharmacovigilance", and that there is "no single specific evaluation report outlining or benchmarking us against the elements of that plan". That describes routine processes, indicating that the Plan was not systematically tracked against its objectives, and the audit found no records showing otherwise.
 
-- **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals assessed and 57 regulatory actions undertaken. The response does not link individual safety signal assessments to regulatory actions or decisions, and provides no signal-management documentation showing how evaluation outcomes connect to the reported activities or how the Plan's 17 numbered strategy items were monitored.
+- **03** In its written response to Senate Question on Notice 559, the TGA reports 150 safety signals investigated and 57 regulatory actions undertaken. The response does not link individual safety signal assessments to regulatory actions or decisions, and provides no signal-management documentation showing how evaluation outcomes connect to the reported activities or how the Plan's 17 numbered strategy items were monitored.
 
 ---
 
