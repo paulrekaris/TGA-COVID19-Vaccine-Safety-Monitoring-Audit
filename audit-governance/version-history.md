@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 19 November 2026
+**Last updated:** 21 November 2026
 
 
 ---
@@ -44,7 +44,7 @@
 - Senate evidence and Objective 5: Dr Dascombe's 9 October 2025 evidence is quoted as Hansard records it, with the audit's inference worded as "not systematically tracked" and kept separate from the testimony. Objective 5 is clarified as not traceable or verifiable from the TGA's records, which is not the same as absent.
 - FOI and OAIC: FOI 25-0166 analysis, AICmr 54 quotations, the OAIC review date and TGA statements aligned to source, with estimates labelled as estimates.
 - Compensation analysis: replaced with the official Services Australia counts and a clearer basis for the not payable or withdrawn rate. Wording neutralised. The analysis remains contextual and is not a finding.
-- Evidence matrix, codebook and ISO checklist: Output 2.8 updated, definitions added, an unsupported Senate citation removed, and criterion 2 resting on the Policy, with the Therapeutic Goods Act framework recorded as out of scope.
+- Evidence matrix, codebook and ISO checklist: Output 2.8 updated, definitions added, QON 559 added to the matrix evidence sources, an unsupported Senate citation removed, and criterion 2 resting on the Policy, with the Therapeutic Goods Act framework recorded as out of scope.
 
 ### Policy and agreements wording
 
