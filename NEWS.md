@@ -30,7 +30,7 @@ Latest updates on the OAIC review, the Commonwealth Ombudsman complaint, FOI req
 
 ### 20 November 2026: Ombudsman makes enquiries with the OAIC
 
-Complaint about the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). The Ombudsman has made enquiries with the OAIC and expects its response in early December 2026. See the [Ombudsman folder](primary-sources/ombudsman/README.md).
+Complaint about the OAIC's administrative handling of IC review MR22/00538 (FOI 3643). The Ombudsman has advised the applicant that it has made enquiries with the OAIC about this matter and expects its response in early December 2026. See the [Ombudsman folder](primary-sources/ombudsman/README.md).
 
 ### 22 October 2026: Analysis of Senate question on notice SQ25-003155 published
 
