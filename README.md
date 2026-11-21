@@ -568,7 +568,7 @@ These pre-rollout warnings align with TGA Senate testimony (9 October 2025) that
   
 ### Enhanced Monitoring as Defined by the Plan
 
-The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to active and comprehensive monitoring. The bilateral agreements with the states and territories implement the Australian COVID-19 Vaccination Policy, which describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The agreements set out related surveillance and reporting commitments, including reporting to the TGA.
+The COVID-19 Vaccine Safety Monitoring Plan (February 2021) operationalised National Cabinet's commitment to active and comprehensive monitoring. The bilateral agreements with the states and territories implement the Australian COVID-19 Vaccination Policy, which describes the TGA's pharmacovigilance plan as improving state and territory adverse event reporting to the TGA, expanding active surveillance systems and enhancing signal detection and investigation. The agreements, such as those with Victoria and Western Australia, set out related surveillance and reporting commitments, including reporting to the TGA.
 
 The underlying policy and Cabinet governance documents supporting this national commitment are archived [here](primary-sources/aust-gov-policy/).
 
@@ -1052,7 +1052,7 @@ Special thanks to **Dr Julie Sladden** and **Dr Maryanne Demasi** for collaborat
 ## Version History and Maintenance
 
 **Document Version:** 1.9.6   
-**Last Updated:** 19 November 2026  
+**Last Updated:** 21 November 2026  
 **First Published:** 27 November 2025  
 **Archive:** Zenodo DOI current. Bitcoin timestamp verified (block 942725). 
 
