@@ -266,7 +266,7 @@ Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 
 - Previously published and archived report versions remain unchanged and continue to preserve the version information contained in those releases.
 - Add repository maintenance policy defining thresholds for substantive updates.
 
-## Version 1.9.4 (5 August 2026)
+# Version 1.9.4 (5 August 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.4)
 
@@ -401,7 +401,7 @@ Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability c
 ### OAIC and Ombudsman Case Management updates
 - Updated dates and case notes to include advise received from OAIC and Ombudsman on progress of respective cases
 
-## Version 1.9.3 (14 June 2026)
+# Version 1.9.3 (14 June 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.3)
 
@@ -486,7 +486,7 @@ Core audit findings unchanged throughout. This release strengthens the evidence 
 
 ---
 
-## Version 1.9.2 (26 March 2026)
+# Version 1.9.2 (26 March 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/v1.9.2)
 
@@ -620,7 +620,7 @@ distinguish audited outputs from Plan's original specifications.
 ---
 
 
-## Version 1.9.1 (7 February 2026)
+# Version 1.9.1 (7 February 2026)
 
 [Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.1)
 
@@ -779,7 +779,7 @@ Core audit findings unchanged. Version 1.9.1 focuses on enhanced presentation of
 
 ---
 
-## Version 1.9 (14 January 2026)
+# Version 1.9 (14 January 2026)
 
 ### Added
 
@@ -839,7 +839,7 @@ Core audit findings unchanged. Version 1.9 adds critical FOI evidence (4029, 527
 
 ---
 
-## Version 1.8 (6 January 2026)
+# Version 1.8 (6 January 2026)
 
 ### Added
 
@@ -884,7 +884,7 @@ This release is preserved through multiple independent archival systems: GitHub 
 
 ---
 
-## Version 1.7.4 (28 December 2025)
+# Version 1.7.4 (28 December 2025)
 
 ### Changed
 
@@ -927,7 +927,7 @@ This release is preserved through multiple independent archival systems: GitHub 
 
 ---
 
-## Version 1.7.3 (22 December 2025)
+# Version 1.7.3 (22 December 2025)
 
 ### Added
 
@@ -950,7 +950,7 @@ This release is preserved through multiple independent archival systems: GitHub 
 
 ---
 
-## Version 1.7.2 (20 December 2025)
+# Version 1.7.2 (20 December 2025)
 
 ### Added
 
@@ -982,7 +982,7 @@ No changes to audit findings or evidence base.
 
 ---
 
-## Version 1.7.1 (18 December 2025)
+# Version 1.7.1 (18 December 2025)
 
 ### Added
 
@@ -1013,7 +1013,7 @@ No changes to underlying evidence base or audit findings.
 
 ---
 
-## Version 1.7.0 (17 December 2025)
+# Version 1.7.0 (17 December 2025)
 
 ### Added
 
@@ -1042,7 +1042,7 @@ No changes to audit findings or evidence base.
 
 ---
 
-## Version 1.6.1 (14 December 2025)
+# Version 1.6.1 (14 December 2025)
 
 ### Added
 
@@ -1055,7 +1055,7 @@ No changes to overall audit findings.
 
 ---
 
-## Version 1.6.0 (December 2025)
+# Version 1.6.0 (December 2025)
 
 ### Added
 
@@ -1066,7 +1066,7 @@ No changes to overall audit findings.
 
 ---
 
-## Version 1.5.1 (December 2025)
+# Version 1.5.1 (December 2025)
 
 ### Added
 
@@ -1075,7 +1075,7 @@ No changes to overall audit findings.
 
 ---
 
-## Version 1.5.0 (December 2025)
+# Version 1.5.0 (December 2025)
 
 ### Added
 
@@ -1100,7 +1100,7 @@ No changes to overall audit findings.
 
 ---
 
-## Version 1.0 (27 November 2025)
+# Version 1.0 (27 November 2025)
 
 ### Added
 
