@@ -77,12 +77,13 @@
 - Removed the descriptions of FOI 5082 as "orphaned" and "not linked" from the FOI README and the FOI systematic review, as the disclosure-log entry links to the PDF, and gave the TGA’s listed title in ISO reference 24.
 - Release checklist: added the file-by-file version and date updates and the post-release archive steps (Internet Archive, NLA edeposit, archive records, Software Heritage).
 - Changed the SSRN header badge to link to the author page and added the author page link to the Blockchain and Archival Verification page and the publications page.
+- Changed the Release Notes and Commits links in the 1.9.1 to 1.9.6 entries to point to each release's own tag.
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
-[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.6)
 
-[Commits v1.9.5...v1.9.6](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.5...1.9.6)
+[Commits 1.9.5...1.9.6](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.5...1.9.6)
 
 **Ratings for outputs 2.2, 2.3 and 2.6 are revised from Not Documented to Partially Implemented following review of FOI 5082. The overall finding is unchanged: 3 of 19 outputs (16%) are fully documented and 16 of 19 (84%) are not; NON-CONFORMING.**
 
@@ -148,9 +149,9 @@ Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 
 
 # Version 1.9.5 (7 September 2026)
 
-[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.5)
 
-[Commits v1.9.4...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.4...HEAD)
+[Commits 1.9.4...1.9.5](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.4...1.9.5)
 
 *Changes since the v1.9.4 release. Findings, ratings, and overall conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47).*
 
@@ -267,9 +268,9 @@ Overview page: linked the TGA COVID-19 Vaccine Safety Monitoring Plan (February 
 
 ## Version 1.9.4 (5 August 2026)
 
-[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.4)
 
-[Commits v1.9.4...HEAD](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.3...HEAD)
+[Commits 1.9.3...1.9.4](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.3...1.9.4)
 
 *Changes since the v1.9.3 release. Findings, ratings, and conclusions unchanged throughout (3 Fully / 10 Partially / 6 Not Documented; mean severity 3.47). Prior versions remain accessible via Git history, the Zenodo DOI, and the NLA snapshot.* 
 
@@ -402,9 +403,9 @@ Safety, 11:2042098620909614, alongside the existing ICH E2E/CIOMS traceability c
 
 ## Version 1.9.3 (14 June 2026)
 
-[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.3)
 
-[Commits v1.9.2...v1.9.3](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.2...v1.9.3)
+[Commits v1.9.2...1.9.3](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.2...1.9.3)
 
 Core audit findings unchanged throughout. This release strengthens the evidence base (Senate QON 559, TGA Performance Reports review, July 2022 OAIC correspondence), corrects framework and statutory citations, and adds reproducibility infrastructure. The 7 major non-conformities, the 19-output scope, and the conclusion that the Plan's enhanced monitoring framework cannot be verified from available documentation are unchanged.
 
@@ -487,9 +488,9 @@ Core audit findings unchanged throughout. This release strengthens the evidence 
 
 ## Version 1.9.2 (26 March 2026)
 
-[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/v1.9.2)
 
-[Commits v1.9.1...v1.9.2](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.1...v1.9.2)
+[Commits 1.9.1...v1.9.2](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/1.9.1...v1.9.2)
 
 ### Analysis and methodology 
 - Audit results: aligned assessments to exact TGA COVID-19 Vaccine Safety Monitoring Plan strategies and outputs (pp.6-11). Corrected inconsistencies between Plan commitments and evidence evaluations.  Top-line results adjusted slightly but core findings unchanged: Results adjusted to reflect corrected output alignment; core findings unchanged: 84% of outputs lack full documentation of systematic/enhanced processes as committed. Updated plan audit results throughout the repo including relevant Git pages, Main Audit Report and two visuals
@@ -621,9 +622,9 @@ distinguish audited outputs from Plan's original specifications.
 
 ## Version 1.9.1 (7 February 2026)
 
-[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/latest)
+[Release Notes](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/releases/tag/1.9.1)
 
-[Commits v1.9.0...v1.9.1](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9.0...v1.9.1)
+[Commits v1.9...1.9.1](https://github.com/paulrekaris/TGA-COVID19-Vaccine-Safety-Monitoring-Audit/compare/v1.9...1.9.1)
 
 
 ### Added
