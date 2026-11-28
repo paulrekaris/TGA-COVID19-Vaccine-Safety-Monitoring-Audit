@@ -84,8 +84,9 @@ You are free to share, adapt, and build upon this work with appropriate attribut
 
 **Email:** [rekasp@protonmail.com](mailto:rekasp@protonmail.com)   
 **ORCID:** [0009-0000-1338-9578](https://orcid.org/0009-0000-1338-9578)   
+**SSRN author page:** [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10574598)   
 **Updates:** [@prekas23 on X](https://x.com/prekas23)   
 
 ---
 
-**Last updated:** 15 October 2026
+**Last updated:** 28 November 2026

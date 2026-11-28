@@ -4,7 +4,7 @@
 
 **Note:** This log records significant revisions only. Minor corrections, typographical fixes, and formatting changes are not individually listed but are preserved in the repository's commit history. Best efforts are made to document substantive changes; this log is not exhaustive.
 
-**Last updated:** 21 November 2026
+**Last updated:** 28 November 2026
 
 
 ---
@@ -76,6 +76,7 @@
 - Traffic export workflow: updated to Python 3.12 and current checkout and setup-python actions after a failed run on the new runners, moved the schedule off peak, and added the Melbourne date, the data-window label and seven-day clone and view totals to the daily email report. The report's reporting date was then corrected: the entry is now chosen by its date, not its position in GitHub's list, the date and window labels come from that entry, new records carry a data_date column, and the heading reads “Activity for reporting period”.
 - Removed the descriptions of FOI 5082 as "orphaned" and "not linked" from the FOI README and the FOI systematic review, as the disclosure-log entry links to the PDF, and gave the TGA’s listed title in ISO reference 24.
 - Release checklist: added the file-by-file version and date updates and the post-release archive steps (Internet Archive, NLA edeposit, archive records, Software Heritage).
+- Changed the SSRN header badge to link to the author page and added the author page link to the Blockchain and Archival Verification page and the publications page.
 
 # Version 1.9.6 (16 October 2026) — Ratings Revision and Quality Assurance
 
